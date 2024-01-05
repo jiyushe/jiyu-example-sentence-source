@@ -1,0 +1,42 @@
+# 名字
+
+<p><span class="chinese">它的名字？</span><span class="english">Its name?</span></p>
+
+<p><span class="chinese">她地名字叫李玲。</span><span class="english">Her name is ms.</span></p>
+
+<p><span class="chinese">我的名字叫吉姆•米乐。</span><span class="english">I’m Jim Miller.</span></p>
+
+<p><span class="chinese">我的名字叫艾米。</span><span class="english">My name is Amy.</span></p>
+
+<p><span class="chinese">我是媄。你叫什麽名字？</span><span class="english">My name is Jan.</span></p>
+
+<p><span class="chinese">我的名字是某某某。</span><span class="english">My name is xxx.</span></p>
+
+<p><span class="chinese">他的名字是雷夫。</span><span class="english">His name's Rafe.</span></p>
+
+<p><span class="chinese">我的名字叫几维。</span><span class="english">My name is Kiwi.</span></p>
+
+<p><span class="chinese">我的名字叫露比。</span><span class="english">My name is Ruby.</span></p>
+
+<p><span class="chinese">我的名字叫达怾。</span><span class="english">My name's Ducky.</span></p>
+
+<p><span class="chinese">请问你叫什么名字</span><span class="english">And your name is?</span></p>
+
+<p><span class="chinese">她的名字是柔丝。</span><span class="english">Her name is Rose.</span></p>
+
+<p><span class="chinese">他的名字是汤姆。</span><span class="english">His naree is Tom.</span></p>
+
+<p><span class="chinese">我的名字叫伊莱亚斯。</span><span class="english">My name is Elias.</span></p>
+
+<p><span class="chinese">我的名字叫何曦。</span><span class="english">My name is He Xi.</span></p>
+
+<p><span class="chinese">我的名字叫李乐。</span><span class="english">My name is Li Le.</span></p>
+
+<p><span class="chinese">我的名字叫苏米。</span><span class="english">My name is Su-Mi.</span></p>
+
+<p><span class="chinese">我的名字是陶玉。</span><span class="english">My name is TaoYu.</span></p>
+
+<p><span class="chinese">她的名字叫凯茜。</span><span class="english">Her name is Cathy.</span></p>
+
+<p><span class="chinese">我的名字是库珀，在1405房间。</span><span class="english">I am in room 1405.</span></p>
+

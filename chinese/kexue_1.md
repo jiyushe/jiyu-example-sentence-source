@@ -1,0 +1,42 @@
+# 科学
+
+<p><span class="chinese">数学和科学。</span><span class="english">Math and Science.</span></p>
+
+<p><span class="chinese">科学呀，我无处可逃。</span><span class="english">From science I shrink.</span></p>
+
+<p><span class="chinese">科学使我入神。</span><span class="english">Science fascinates me.</span></p>
+
+<p><span class="chinese">科学适合老古董。</span><span class="english">Science is for curios.</span></p>
+
+<p><span class="chinese">这是一场科学的争辩。</span><span class="english">That's scientific talk.</span></p>
+
+<p><span class="chinese">动手做一项科学实验。</span><span class="english">Do a science experiment.</span></p>
+
+<p><span class="chinese">现在高中还教科学方法学么？</span><span class="english">Maybe I'm dating myself.</span></p>
+
+<p><span class="chinese">仿生学是一门新的科学。</span><span class="english">Bionics is a new science.</span></p>
+
+<p><span class="chinese">好哇，不，这是科学。</span><span class="english">Hurray! No -it's science.</span></p>
+
+<p><span class="chinese">最终科学获得胜利。</span><span class="english">In the end, science wins.</span></p>
+
+<p><span class="chinese">她在科学中得到的是任何男人都给不了的，这是个不争的事实，所以凯瑟琳无怨无悔。</span><span class="english">Katherine had no regrets.</span></p>
+
+<p><span class="chinese">科学是论述客观事实的。</span><span class="english">Science deals with facts.</span></p>
+
+<p><span class="chinese">科学是价值中性的吗?。</span><span class="english">Value-Neutral Science Is?</span></p>
+
+<p><span class="chinese">科学是价值中性的吗?。</span><span class="english">Is Science Value- neutral?</span></p>
+
+<p><span class="chinese">那是本关于科学的书。</span><span class="english">That is a book on science.</span></p>
+
+<p><span class="chinese">但是科学是一次长途旅行。</span><span class="english">But science is the journey.</span></p>
+
+<p><span class="chinese">科学知识社会学真的是相对主义吗?。</span><span class="english">Is SSK a Kind of Relativism?</span></p>
+
+<p><span class="chinese">数学是科学的一个分科。</span><span class="english">Math is a branch of science.</span></p>
+
+<p><span class="chinese">或者艺术，道德，科学。</span><span class="english">Or art, morals, and science.</span></p>
+
+<p><span class="chinese">科学以现象为根据。</span><span class="english">Science rests  on phenomena.</span></p>
+
