@@ -1,5 +1,7 @@
 # 胚胎学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peitaixue.md)
+
 <p><span class="chinese">其发生有它的胚胎学基础。</span><span class="english">Its development is based on its embryological foundation.</span></p>
 
 <p><span class="chinese">胰腺胚胎学起源于前肠的2个芽。</span><span class="english">The embryologic pancreas arises from 2 buds in the foregut.</span></p>

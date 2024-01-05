@@ -1,5 +1,7 @@
 # nisan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nisan.md)
+
 <p><span class="chinese">我和尼森聊着天，而音梦正矜持地盯着自己的南瓜汤。</span><span class="english">As Nisan and I talked, Nemutan stared demurely at her pumpkin soup.</span></p>
 
 <p><span class="chinese">尼森37岁，已经谢顶，剩下的头发也发了灰。</span><span class="english">At 37, Nisan is already balding, and his remaining hair has gone gray.</span></p>

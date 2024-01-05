@@ -1,5 +1,7 @@
 # 酒杯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiubei.md)
+
 <p><span class="chinese">看到这只酒杯了吗？</span><span class="english">You see this goblet?</span></p>
 
 <p><span class="chinese">举起你的水晶酒杯吧。</span><span class="english">Use your  crystal  goblets.</span></p>

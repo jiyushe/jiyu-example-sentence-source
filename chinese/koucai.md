@@ -1,5 +1,7 @@
 # 口才
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/koucai.md)
+
 <p><span class="chinese">她口才很好。</span><span class="english">She's eloquent.</span></p>
 
 <p><span class="chinese">他是故事大王，天生的好口才。</span><span class="english">He was born to chat.</span></p>

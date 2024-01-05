@@ -1,5 +1,7 @@
 # 果然如此
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guoranruci.md)
+
 <p><span class="chinese">事实证明果然如此。</span><span class="english">That' s proving true.</span></p>
 
 <p><span class="chinese">我已经吃了午饭，果然如此。</span><span class="english">I have had my lunch, so I had.</span></p>

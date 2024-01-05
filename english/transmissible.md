@@ -1,5 +1,7 @@
 # transmissible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transmissible.md)
+
 <p><span class="chinese">到1965年，这些动物已显示出库鲁病具有传染性。</span><span class="english">By 1965 they had shown that kuru was transmissible.</span></p>
 
 <p><span class="chinese">传染性胃肠类是猪的一种高度接触传染性肠道疾病。</span><span class="english">Transmissible gastroenteritis is a highly contagious, enteric disease of swine.</span></p>

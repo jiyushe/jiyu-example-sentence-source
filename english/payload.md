@@ -1,5 +1,7 @@
 # payload
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/payload.md)
+
 <p><span class="chinese">消息有效载荷与消息元数据。</span><span class="english">Message payload and message meta data.</span></p>
 
 <p><span class="chinese">它的值是有效负荷内容本身。</span><span class="english">The value is the payload content itself.</span></p>

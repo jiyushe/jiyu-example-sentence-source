@@ -1,5 +1,7 @@
 # glia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glia.md)
+
 <p><span class="chinese">但最新的研究表明，神经胶质的作用要远远大得多。</span><span class="english">But recent research has shown glia to be much more.</span></p>
 
 <p><span class="chinese">该杂志刊登有关神经胶质结构和功能各方面的文章。</span><span class="english">It publishes the articles of all aspects of glia structure and function.</span></p>

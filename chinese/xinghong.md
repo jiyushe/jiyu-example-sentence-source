@@ -1,5 +1,7 @@
 # 猩红
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinghong.md)
+
 <p><span class="chinese">有的，不过只有猩红色的了。</span><span class="english">Yes, but only in scarlet.</span></p>
 
 <p><span class="chinese">他没有穿他的猩红外套。</span><span class="english">He did not wear his scarlet coat.</span></p>

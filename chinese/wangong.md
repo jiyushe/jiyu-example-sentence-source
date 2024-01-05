@@ -1,5 +1,7 @@
 # 完工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangong.md)
+
 <p><span class="chinese">这条路已接近完工。</span><span class="english">The road is near completion.</span></p>
 
 <p><span class="chinese">这座大楼差不多快完工了。</span><span class="english">The building is nearing completion.</span></p>

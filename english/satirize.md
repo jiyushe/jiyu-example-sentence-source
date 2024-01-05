@@ -1,5 +1,7 @@
 # satirize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/satirize.md)
+
 <p><span class="chinese">想讽刺我两句？</span><span class="english">Want to satirize my 2?</span></p>
 
 <p><span class="chinese">嘲讽用讽刺作品或好象用讽刺作品嘲弄或讽刺。</span><span class="english">To ridicule or satirize in or as if in a lampoon.</span></p>

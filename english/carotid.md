@@ -1,5 +1,7 @@
 # carotid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carotid.md)
+
 <p><span class="chinese">颈动脉体和主动脉体化学感受性反射。</span><span class="english">Carotid body and aortic body chemoreceptor reflex.</span></p>
 
 <p><span class="chinese">应用B型超声对颈动脉进行扫查。</span><span class="english">B-mode ultrasound was used to detect carotid artery.</span></p>

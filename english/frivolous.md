@@ -1,5 +1,7 @@
 # frivolous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frivolous.md)
+
 <p><span class="chinese">这句话太刻薄了，她不愿回答。</span><span class="english">It was too frivolous for her to answer.</span></p>
 
 <p><span class="chinese">床架上轻薄的纱帐。</span><span class="english">The frivolous gauze account on bedstead.</span></p>

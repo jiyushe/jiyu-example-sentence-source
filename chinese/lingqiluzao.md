@@ -1,5 +1,7 @@
 # 另起炉灶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingqiluzao.md)
+
 <p><span class="chinese">这种管治是在既有政制中运作，抑或另起炉灶？</span><span class="english">Does such an administration operate within the political system, or supplant it?</span></p>
 
 <p><span class="chinese">但是，一旦进化需要有一套信息传递系统，它就一直对付着用水母的神经通讯系统，不肯另起炉灶。</span><span class="english">But once evolution had come up with a messaging system, it kept using it, Sherwood says.</span></p>

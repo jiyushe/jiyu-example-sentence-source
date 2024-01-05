@@ -1,5 +1,7 @@
 # hemp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hemp.md)
+
 <p><span class="chinese">麻类隔壁的！</span><span class="english">Hemp next door!</span></p>
 
 <p><span class="chinese">我的心乱如麻。</span><span class="english">My heart likes tangled hemp.</span></p>

@@ -1,5 +1,7 @@
 # 河西走廊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hexizoulang.md)
+
 <p><span class="chinese">乌孙，最初活动于河西走廊。</span><span class="english">The Wusun first lived in the Gansu Corridor.</span></p>
 
 <p><span class="chinese">嘉峪关所在的地方，是河西走廊最狭窄的区域之一。</span><span class="english">Jiayuguan sits along one of the narrowest parts of the Hexi Corridor.</span></p>

@@ -1,5 +1,7 @@
 # opera
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opera.md)
+
 <p><span class="chinese">这是一出悲剧。</span><span class="english">It's a very sad opera.</span></p>
 
 <p><span class="chinese">歌剧演唱家喜欢这个</span><span class="english">Opera singers love this.</span></p>

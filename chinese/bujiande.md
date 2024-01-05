@@ -1,5 +1,7 @@
 # 不见得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bujiande.md)
+
 <p><span class="chinese">你不见得是惊吓了罢！</span><span class="english">Donpt tell me you are frighted !</span></p>
 
 <p><span class="chinese">他今晚不见得会来。</span><span class="english">He's not likely to come tonight.</span></p>

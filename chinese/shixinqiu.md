@@ -1,5 +1,7 @@
 # 实心球
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shixinqiu.md)
+
 <p><span class="chinese">他们能把健身实心球掷得很远。</span><span class="english">They can throw the medicine ball very far.</span></p>
 
 <p><span class="chinese">因为对于中微子而言，地球就好比是透明的，而对于光来说，地球就是个不透光的实心球。</span><span class="english">The Earth is transparent to neutrinos, but opaque to light.</span></p>

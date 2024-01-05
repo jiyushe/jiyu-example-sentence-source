@@ -1,5 +1,7 @@
 # remember 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remember.md)
+
 <p><span class="chinese">我记得！</span><span class="english">I remember.</span></p>
 
 <p><span class="chinese">我的确还记得当时的情景。</span><span class="english">I do remember.</span></p>

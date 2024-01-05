@@ -1,5 +1,7 @@
 # 正常
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengchang.md)
+
 <p><span class="chinese">手表完全恢复正常。</span><span class="english">All warm good.</span></p>
 
 <p><span class="chinese">一切都正常。</span><span class="english">And everything was fine.</span></p>

@@ -1,5 +1,7 @@
 # forevermore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forevermore.md)
+
 <p><span class="chinese">我希望我们能永远做朋友。</span><span class="english">I hope we'll remain friends forevermore.</span></p>
 
 <p><span class="chinese">我们的工会过去，现在和将永远的。</span><span class="english">Our union was, is, and will be forevermore.</span></p>

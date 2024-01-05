@@ -1,5 +1,7 @@
 # aspiration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aspiration.md)
+
 <p><span class="chinese">细针穿刺检查。</span><span class="english">Fine-needle aspiration.</span></p>
 
 <p><span class="chinese">这是一个安于贫穷的打算。</span><span class="english">That is a poverty of aspiration.</span></p>

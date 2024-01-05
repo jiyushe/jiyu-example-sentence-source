@@ -1,5 +1,7 @@
 # handpicked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handpicked.md)
+
 <p><span class="chinese">本书中的故事是精选而编辑成册的。</span><span class="english">These stories were handpicked in the book.</span></p>
 
 <p><span class="chinese">朋友到农场摘的龙眼，树上熟，超甜！</span><span class="english">My friend's handpicked longans from a farm. Super sweet!</span></p>

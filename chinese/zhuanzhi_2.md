@@ -1,5 +1,7 @@
 # 转职
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanzhi_2.md)
+
 <p><span class="chinese">听取有关二次转职的情报。</span><span class="english">Tell me about the second class transfer.</span></p>
 
 <p><span class="chinese">例如战士可以转职为勇士和狂战士。</span><span class="english">For example, fighters can be transferred for the Warrior and Berserker.</span></p>

@@ -1,5 +1,7 @@
 # 全程
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quancheng_1.md)
+
 <p><span class="chinese">我们已经订好了去纽约的全程车票。</span><span class="english">We are booked through to New York.</span></p>
 
 <p><span class="chinese">欲全程体验，敬请准时出席！</span><span class="english">For a total experience, be on time!</span></p>

@@ -1,5 +1,7 @@
 # fibber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fibber.md)
+
 <p><span class="chinese">你决不可相信他的话，因为他是个爱的人。</span><span class="english">You shall never believe what he say because he is a fibber.</span></p>
 
 <p><span class="chinese">你决不可相信他的话，因为他是个爱撒小把的人。</span><span class="english">You should never believe what he says because he is a fibber.</span></p>

@@ -1,5 +1,7 @@
 # jiujitsu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jiujitsu.md)
+
 <p><span class="chinese">日本的柔道是从柔术发展过来的。</span><span class="english">The Japanese judo is developed from the jiujitsu.</span></p>
 
 <p><span class="chinese">1900年前，很多流派的柔术在传授。</span><span class="english">Before 1900 many variations of jiujitsu were taught.</span></p>

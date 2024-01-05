@@ -1,5 +1,7 @@
 # 兵工厂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/binggongchang.md)
+
 <p><span class="chinese">艾弗瑞是军队的兵工厂。</span><span class="english">Avery is army's armory.</span></p>
 
 <p><span class="chinese">敌机把我们的兵工厂作为轰炸目标。</span><span class="english">The enemy bombers targeted our arsenal.</span></p>

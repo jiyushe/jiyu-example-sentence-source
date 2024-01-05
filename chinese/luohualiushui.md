@@ -1,5 +1,7 @@
 # 落花流水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luohualiushui.md)
+
 <p><span class="chinese">落花流水，雨敲残红。</span><span class="english">To pieces, rain knock Canhong.</span></p>
 
 <p><span class="chinese">我们最后一场比赛可真把他们打得落花流水。</span><span class="english">We really caned them in the last match.</span></p>

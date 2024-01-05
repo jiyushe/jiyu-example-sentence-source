@@ -1,5 +1,7 @@
 # 鸦片
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yapian.md)
+
 <p><span class="chinese">含有鸦片酊的饮料。</span><span class="english">A drink laced with laudanum.</span></p>
 
 <p><span class="chinese">所以说到底是谁需要鸦片酒呢？</span><span class="english">Who, Ithought, needs laudanum?</span></p>

@@ -1,5 +1,7 @@
 # aarp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aarp.md)
+
 <p><span class="chinese">双体船和计划管理，由AARP赞同。</span><span class="english">The Program is administered by Catamaran and endorsed by AARP.</span></p>
 
 <p><span class="chinese">但是美国退休人员协会表示，他们很高兴政府在改革中没有设定处罚。</span><span class="english">But the AARP was pleased the administration opted not to feeze in the change.</span></p>

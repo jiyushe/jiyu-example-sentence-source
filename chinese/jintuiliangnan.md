@@ -1,5 +1,7 @@
 # 进退两难
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jintuiliangnan.md)
+
 <p><span class="chinese">这就叫进退两难。</span><span class="english">This is the dilemma.</span></p>
 
 <p><span class="chinese">所以，Kay陷入了进退两难的窘境。</span><span class="english">So Kay has been in a dilemma.</span></p>

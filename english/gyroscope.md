@@ -1,5 +1,7 @@
 # gyroscope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gyroscope.md)
+
 <p><span class="chinese">一部陀螺仪。</span><span class="english">A gyroscope.</span></p>
 
 <p><span class="chinese">陀螺仪定位程序。</span><span class="english">Gyroscope for position-based apps.</span></p>

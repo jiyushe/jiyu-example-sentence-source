@@ -1,5 +1,7 @@
 # gens
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gens.md)
+
 <p><span class="chinese">第五章宗族姻亲与社会救助。</span><span class="english">Chapter V gens and affinity and the social relief.</span></p>
 
 <p><span class="chinese">氏族可以任意罢免酋长和酋帅。</span><span class="english">The gens deposes the sachem and war-chief at will.</span></p>

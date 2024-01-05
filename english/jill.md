@@ -1,5 +1,7 @@
 # jill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jill.md)
+
 <p><span class="chinese">吉儿问。</span><span class="english">Jill asks.</span></p>
 
 <p><span class="chinese">吉尔和海梅。</span><span class="english">Jill and Jaime.</span></p>

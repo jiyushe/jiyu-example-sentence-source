@@ -1,5 +1,7 @@
 # tern
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tern.md)
+
 <p><span class="chinese">有一只被环志了的粉红燕鸥！</span><span class="english">One of the Roseate Tern is ringed!</span></p>
 
 <p><span class="chinese">年燕鸥调查所拍摄的照片。</span><span class="english">Photos taken during Tern survey in 2007.</span></p>

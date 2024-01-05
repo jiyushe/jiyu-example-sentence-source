@@ -1,5 +1,7 @@
 # 失手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishou.md)
+
 <p><span class="chinese">我失手将盘子掉在地上摔碎了。</span><span class="english">I dropped the plate and it smashed.</span></p>
 
 <p><span class="chinese">这就是豪厄尔从未失手的原因。</span><span class="english">That’s why Howell was never caught.</span></p>

@@ -1,5 +1,7 @@
 # storied
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/storied.md)
+
 <p><span class="chinese">他谎报了他的年龄。</span><span class="english">He storied about his age.</span></p>
 
 <p><span class="chinese">长时间工作自有其的历史。</span><span class="english">Long work has a storied history.</span></p>

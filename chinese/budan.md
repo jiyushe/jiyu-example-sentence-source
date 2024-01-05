@@ -1,5 +1,7 @@
 # 不但
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/budan.md)
+
 <p><span class="chinese">不但如此，我还时常和她讲话。</span><span class="english">I also talk to her.</span></p>
 
 <p><span class="chinese">她不但会弹琴还会唱歌。</span><span class="english">She sings as well as playing piano.</span></p>

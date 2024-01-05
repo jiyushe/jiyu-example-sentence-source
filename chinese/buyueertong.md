@@ -1,5 +1,7 @@
 # 不约而同
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buyueertong.md)
+
 <p><span class="chinese">金香和带男不约而同想到诅咒。</span><span class="english">The incense and bring men think of curse.</span></p>
 
 <p><span class="chinese">动物们本来已经饿得无法忍受了，这样一来，大家不约而同的向那些折磨自己的人猛撞过去。</span><span class="english">This was more than the hungry animals could bear.</span></p>

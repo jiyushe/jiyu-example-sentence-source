@@ -1,5 +1,7 @@
 # 布雷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bulei.md)
+
 <p><span class="chinese">像迈克尔布雷。</span><span class="english">Like Michael Buble.</span></p>
 
 <p><span class="chinese">布雷恩·布莱克先生已经到了。</span><span class="english">Mr Brian Black is here.</span></p>

@@ -1,5 +1,7 @@
 # 不得已而为之
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/budeyierweizhi.md)
+
 <p><span class="chinese">差不多吧，不得已而为之。</span><span class="english">You got to do what you got to do, pretty much.</span></p>
 
 <p><span class="chinese">这一次起诉傅盛，实属不得已而为之。</span><span class="english">This time, the prosecution of Fu Sheng, is the last ditch.</span></p>

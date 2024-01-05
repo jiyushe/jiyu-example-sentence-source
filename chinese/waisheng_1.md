@@ -1,5 +1,7 @@
 # 外省
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waisheng_1.md)
+
 <p><span class="chinese">我们曾在外省合演过戏。</span><span class="english">We played together in the provinces.</span></p>
 
 <p><span class="chinese">你曾到外省旅游过吗？怎样译？</span><span class="english">Have you ever been to other provinces tourism?</span></p>

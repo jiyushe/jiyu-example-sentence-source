@@ -1,5 +1,7 @@
 # refreshing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refreshing.md)
+
 <p><span class="chinese">可口可乐是令人心清气爽的饮料。</span><span class="english">Coke is a refreshing drink.</span></p>
 
 <p><span class="chinese">怎样做沁人心脾的意大利冰</span><span class="english">How to make refreshing Italian ice</span></p>

@@ -1,5 +1,7 @@
 # procuration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/procuration.md)
+
 <p><span class="chinese">现有的刑事代理制度也有其自身的缺陷。</span><span class="english">The criminal procuration system has its deficiency.</span></p>
 
 <p><span class="chinese">我们应改进现有的制度，以求使刑事代理制度得到进一步的发展完善。</span><span class="english">We should improve the conditions which for the criminal procuration system developing.</span></p>

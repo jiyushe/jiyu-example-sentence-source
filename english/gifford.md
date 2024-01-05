@@ -1,5 +1,7 @@
 # gifford
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gifford.md)
+
 <p><span class="chinese">吉福德说，或许，“忍耐真的是中国数千年历史的总结吧”。</span><span class="english">He has, Mr Gifford observes, “summed up thousands of years of Chinese history.”</span></p>
 
 <p><span class="chinese">吉福德和他的同事们研究在马达加斯加岛发现的灰鼠狐猴。</span><span class="english">Gifford and his colleagues In the study found that the island of Madagascar lemurs Chinchilla.</span></p>

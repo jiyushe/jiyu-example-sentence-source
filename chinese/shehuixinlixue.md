@@ -1,5 +1,7 @@
 # 社会心理学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shehuixinlixue.md)
+
 <p><span class="chinese">我融入了认知心理学，社会心理学等等内容。</span><span class="english">I draw on cognitive psychology, social psychology and so on.</span></p>
 
 <p><span class="chinese">“光环效应”是社会心理学里的一个经典的发现。</span><span class="english">The 'halo effect' is a classic finding in social psychology.</span></p>

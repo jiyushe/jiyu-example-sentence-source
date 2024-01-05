@@ -1,5 +1,7 @@
 # reassert
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reassert.md)
+
 <p><span class="chinese">让我重申一下我的权力’。</span><span class="english">Let me reassert my authority.</span></p>
 
 <p><span class="chinese">现在它们卷土重来，准备要大显身手。</span><span class="english">Now they're back, and ready to reassert themselves.</span></p>

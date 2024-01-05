@@ -1,5 +1,7 @@
 # 感念
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gannian.md)
+
 <p><span class="chinese">或者，它干脆就是一个感念大师？</span><span class="english">Or was he just a master of empathy?</span></p>
 
 <p><span class="chinese">但我其时年幼无知。，现在唯有泪水涟涟，感念满襟。</span><span class="english">But I was young and foolish. or am full of tears.</span></p>

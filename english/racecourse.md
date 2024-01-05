@@ -1,5 +1,7 @@
 # racecourse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/racecourse.md)
+
 <p><span class="chinese">我们去赛马场吧。</span><span class="english">Let's go to the racecourse.</span></p>
 
 <p><span class="chinese">这是一条非常宽的跑道。</span><span class="english">This is a very wide racecourse.</span></p>

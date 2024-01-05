@@ -1,5 +1,7 @@
 # nara
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nara.md)
+
 <p><span class="chinese">我不再想去东京，大阪，神户，奈良。</span><span class="english">I do not want to go to Tokyo, Osaka, Kobe and Nara.</span></p>
 
 <p><span class="chinese">每逢假期，奈良就在格拉斯司迪里找麻烦。</span><span class="english">On his day-off Nara looks for trouble in Glass City.</span></p>

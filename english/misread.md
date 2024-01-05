@@ -1,5 +1,7 @@
 # misread
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misread.md)
+
 <p><span class="chinese">但他们误读了形势。</span><span class="english">They misread the situation.</span></p>
 
 <p><span class="chinese">你一定读错表了。</span><span class="english">You must have misread the watch.</span></p>

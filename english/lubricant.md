@@ -1,5 +1,7 @@
 # lubricant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lubricant.md)
+
 <p><span class="chinese">水也是很好的润滑剂。</span><span class="english">Water is an amazing lubricant.</span></p>
 
 <p><span class="chinese">这种润滑油适合高级轿车。</span><span class="english">This lubricant is good for high-class car.</span></p>

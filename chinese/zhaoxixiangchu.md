@@ -1,5 +1,7 @@
 # 朝夕相处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoxixiangchu.md)
+
 <p><span class="chinese">在朝夕相处中，孟菲发现陈超很有演戏天赋。</span><span class="english">In the elbow, MengFei found is acting talent Chen.</span></p>
 
 <p><span class="chinese">希望你们不要忘记与我们朝夕相处时的情景。</span><span class="english">Hope you don't forget all of the memories we shared together.</span></p>

@@ -1,5 +1,7 @@
 # 宿愿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suyuan_1.md)
+
 <p><span class="chinese">从而，最中实现我共创双赢的美好宿愿。</span><span class="english">And for realization of a win-win result.</span></p>
 
 <p><span class="chinese">这项计划粗暴地粉碎了邱吉尔的宿愿。</span><span class="english">The plan rode rough-shed over Churchill's cherished ideas.</span></p>

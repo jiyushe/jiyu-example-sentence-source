@@ -1,5 +1,7 @@
 # biotechnology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biotechnology.md)
+
 <p><span class="chinese">生物技术咨询注解，对档案BNF第00077号。</span><span class="english">Biotechnology Consultation Note to the File BNF No 00077.</span></p>
 
 <p><span class="chinese">它可能是未来生物技术的一个方向。</span><span class="english">It was,perhaps, a parable for the future of biotechnology.</span></p>

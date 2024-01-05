@@ -1,5 +1,7 @@
 # 赤裸裸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chiluoluo.md)
+
 <p><span class="chinese">看哪，这赤裸裸的自恋之沙。</span><span class="english">Ah, the sands of narcissism.</span></p>
 
 <p><span class="chinese">我猜我喜欢看这种赤裸裸的贫困。</span><span class="english">I guess I like poverty porn.</span></p>

@@ -1,5 +1,7 @@
 # recurrent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recurrent.md)
+
 <p><span class="chinese">囊肿复发或出现新囊肿是常见的。</span><span class="english">Recurrent or new cysts are common.</span></p>
 
 <p><span class="chinese">手术失败的主要原因是PVR复发。</span><span class="english">PVR recurrent is major reason of failure.</span></p>

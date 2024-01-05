@@ -1,5 +1,7 @@
 # 凄凉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiliang.md)
+
 <p><span class="chinese">把凄凉的湖交成伊甸乐园。</span><span class="english">An Eden of that dim lake.</span></p>
 
 <p><span class="chinese">过完这一季、悲伤是否还是那么凄凉。</span><span class="english">A fight seasons, won a no regrets.</span></p>

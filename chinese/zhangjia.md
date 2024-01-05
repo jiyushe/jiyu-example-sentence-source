@@ -1,5 +1,7 @@
 # 涨价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangjia.md)
+
 <p><span class="chinese">苹果本周又涨价了。</span><span class="english">Apples are up again this week.</span></p>
 
 <p><span class="chinese">不要对涨价没完没了地发牢骚了。</span><span class="english">Stop beefing about the price increase.</span></p>

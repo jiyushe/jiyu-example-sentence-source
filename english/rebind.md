@@ -1,5 +1,7 @@
 # rebind
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rebind.md)
+
 <p><span class="chinese">玩家现在可以手动修改快捷键。</span><span class="english">Players may now manually rebind keys.</span></p>
 
 <p><span class="chinese">我洗我的脚，并重新绑定每天晚上睡觉前，我去。</span><span class="english">I wash and rebind my feet every night before I go to bed.</span></p>

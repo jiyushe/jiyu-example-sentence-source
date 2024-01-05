@@ -1,5 +1,7 @@
 # id
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/id.md)
+
 <p><span class="chinese">我需要一个学生证。</span><span class="english">I need a student ID.</span></p>
 
 <p><span class="chinese">他给她看了证件。</span><span class="english">He showed her the ID.</span></p>

@@ -1,5 +1,7 @@
 # 想来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianglai_1.md)
+
 <p><span class="chinese">你为什么想来我们公司工作？</span><span class="english">Why do  you want to work for us?</span></p>
 
 <p><span class="chinese">想来他是不会骗你的。</span><span class="english">I assume that he won't cheat you.</span></p>

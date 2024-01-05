@@ -1,5 +1,7 @@
 # 寓言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuyan.md)
+
 <p><span class="chinese">郭老师，什么是寓言？</span><span class="english">What's a fable, Miss Guo?</span></p>
 
 <p><span class="chinese">他引用了一段类似寓言的东西</span><span class="english">He quotes a kind of a fable.</span></p>

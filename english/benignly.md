@@ -1,5 +1,7 @@
 # benignly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benignly.md)
+
 <p><span class="chinese">昨夜又见到你那慈祥的笑颜了。</span><span class="english">Last night I again saw you smiling benignly.</span></p>
 
 <p><span class="chinese">曾佩琳先生的故事开始时足够仁慈了。</span><span class="english">Mr Zamperini's story starts out benignly enough.</span></p>

@@ -1,5 +1,7 @@
 # skywards
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skywards.md)
+
 <p><span class="chinese">一只鸟儿从我的内心深处飞向天空。</span><span class="english">Out of my deeper heart, a bird rose and flew skywards.</span></p>
 
 <p><span class="chinese">一只鸟儿从我内心飞向天空。它越飞越大。</span><span class="english">Out of my heart a bird flew skywards. And it waxed larger as it flew.</span></p>

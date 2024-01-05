@@ -1,5 +1,7 @@
 # deacon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deacon.md)
+
 <p><span class="chinese">至于司铎和执事亦然。</span><span class="english">Likewise as touching a Presbyter and a Deacon.</span></p>
 
 <p><span class="chinese">我约见了科伯恩，他是一位医学博士，也是南部浸礼会执事。</span><span class="english">I caught up with Coburn, a medical doctor and ordained Southern Baptist deacon.</span></p>

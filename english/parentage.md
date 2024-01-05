@@ -1,5 +1,7 @@
 # parentage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parentage.md)
+
 <p><span class="chinese">她出生卑贱。</span><span class="english">She was born of humble parentage.</span></p>
 
 <p><span class="chinese">潘的父母是谁一直是一个有争议的问题。</span><span class="english">Pan's Parentage was a problem Of Iong argument.</span></p>

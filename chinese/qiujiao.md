@@ -1,5 +1,7 @@
 # 求教
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiujiao.md)
+
 <p><span class="chinese">她求教于我。</span><span class="english">She turned to me for advice.</span></p>
 
 <p><span class="chinese">求教“现在，我大爱'L'这个字母。</span><span class="english">Now, I love 'L' this alphabet.</span></p>

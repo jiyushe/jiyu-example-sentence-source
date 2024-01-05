@@ -1,5 +1,7 @@
 # pervade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pervade.md)
+
 <p><span class="chinese">我们计划将社交性渗透到雅虎的每一个方面。</span><span class="english">We plan to pervade good-fellowship each aspect of Yahoo.</span></p>
 
 <p><span class="chinese">自信、有力和高亢感漫溢。</span><span class="english">Feelings of self confidence, power, and euphoria pervade.</span></p>

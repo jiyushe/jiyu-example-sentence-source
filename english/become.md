@@ -1,5 +1,7 @@
 # become 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/become.md)
+
 <p><span class="chinese">那怎么能成？</span><span class="english">How can that become?</span></p>
 
 <p><span class="chinese">我已经是一名作家了。</span><span class="english">I’d become a writer.</span></p>

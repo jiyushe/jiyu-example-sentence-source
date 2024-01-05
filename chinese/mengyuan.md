@@ -1,5 +1,7 @@
 # 盟员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mengyuan.md)
+
 <p><span class="chinese">敏捷制造企业要解决的主要问题是如何选择盟员。</span><span class="english">One of the main problems in AM is how to select partners.</span></p>
 
 <p><span class="chinese">并对盟员两两直接协商的动态联盟建盟方式与招投标建盟方式进行了比较。</span><span class="english">Comparition between bid-based and negotiation-based dynamic collaboration is carried out as well.</span></p>

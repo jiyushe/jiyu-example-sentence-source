@@ -1,5 +1,7 @@
 # eccentrically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eccentrically.md)
+
 <p><span class="chinese">转子盘偏心安装在泵壳内。</span><span class="english">A rotor disc is mounted eccentrically in the pump housing.</span></p>
 
 <p><span class="chinese">型偏心支撑钢框架具有很好的抗震性能。</span><span class="english">V-TYPE eccentrically braced frame has well resistant-seismic behavior.</span></p>

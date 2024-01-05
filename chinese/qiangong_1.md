@@ -1,5 +1,7 @@
 # 钳工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangong_1.md)
+
 <p><span class="chinese">我是一个机械钳工。</span><span class="english">I am a mechanician.</span></p>
 
 <p><span class="chinese">它可以帮助你成为钳工。</span><span class="english">It can help you to become fitter.</span></p>

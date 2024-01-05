@@ -1,5 +1,7 @@
 # 摇摇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoyao_1.md)
+
 <p><span class="chinese">米妮摇动两个摇摇.</span><span class="english">Minnie shakes two rocks.</span></p>
 
 <p><span class="chinese">她毛绒绒的大尾巴摇摇。</span><span class="english">Her big furry tail shook.</span></p>

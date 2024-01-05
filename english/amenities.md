@@ -1,5 +1,7 @@
 # amenities
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amenities.md)
+
 <p><span class="chinese">公园，所有的便利设施都很完备。</span><span class="english">has parking, all the amenities.</span></p>
 
 <p><span class="chinese">舒适性和高科技为关键特色</span><span class="english">Amenities and Technology Key Differentiators</span></p>

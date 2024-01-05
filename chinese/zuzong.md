@@ -1,5 +1,7 @@
 # 祖宗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuzong.md)
+
 <p><span class="chinese">饶了我吧，小祖宗！你知道这些东西有多贵吗？</span><span class="english">You know how much those things cost?</span></p>
 
 <p><span class="chinese">你们去充满你们祖宗的恶贯吧。</span><span class="english">Fill ye up then the measure of your fathers.</span></p>

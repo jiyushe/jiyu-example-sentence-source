@@ -1,5 +1,7 @@
 # mathematic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mathematic.md)
+
 <p><span class="chinese">我没有数学方面的天赋。</span><span class="english">I have no head for mathematic.</span></p>
 
 <p><span class="chinese">现存的数学理论无法解释它。</span><span class="english">Existing mathematic theory couldn’t explain it.</span></p>

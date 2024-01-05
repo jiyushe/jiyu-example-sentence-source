@@ -1,5 +1,7 @@
 # somerset
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/somerset.md)
+
 <p><span class="chinese">你可否提醒我在森麻实街下车?。</span><span class="english">Could you remind me to get off at Somerset Street?</span></p>
 
 <p><span class="chinese">洛克出生于1638年以一个家庭的未成年人盛捷士绅。</span><span class="english">John Locke was born in 1638 to a family of minor Somerset gentry.</span></p>

@@ -1,5 +1,7 @@
 # detach
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/detach.md)
+
 <p><span class="chinese">从链子上拆下一个链环。</span><span class="english">Detach a link from a chain.</span></p>
 
 <p><span class="chinese">他们卸下挂车，开始扎营。</span><span class="english">They detach the tailer, and start to camp.</span></p>

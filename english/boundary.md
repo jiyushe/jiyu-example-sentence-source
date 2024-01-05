@@ -1,5 +1,7 @@
 # boundary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boundary.md)
+
 <p><span class="chinese">界碑只是一种标识。</span><span class="english">A boundary marker is only a symbol.</span></p>
 
 <p><span class="chinese">它有k2作为限制条件。</span><span class="english">It has k2 as the boundary conditions.</span></p>

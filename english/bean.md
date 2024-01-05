@@ -1,5 +1,7 @@
 # bean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bean.md)
+
 <p><span class="chinese">先生，是豆汤。</span><span class="english">It's bean soup, sir.</span></p>
 
 <p><span class="chinese">三十八个豆沙包。</span><span class="english">Thirty-eight bean buns.</span></p>

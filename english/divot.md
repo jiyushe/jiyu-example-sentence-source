@@ -1,5 +1,7 @@
 # divot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/divot.md)
+
 <p><span class="chinese">我削起一大块草皮。</span><span class="english">I takes a big divot.</span></p>
 
 <p><span class="chinese">如果你起床的时候床垫凹下去一块，那么这张床就太软了。</span><span class="english">If you're leaving a divot in the mattress when you get up, it's too soft.</span></p>

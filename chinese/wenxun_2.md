@@ -1,5 +1,7 @@
 # 问讯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenxun_2.md)
+
 <p><span class="chinese">英国警察正在问讯该名男子。</span><span class="english">British police are questioning the man.</span></p>
 
 <p><span class="chinese">苏格拉底如何交互问讯其中一个原告？</span><span class="english">How well does he cross-examine one of his accusers?</span></p>

@@ -1,5 +1,7 @@
 # sika
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sika.md)
+
 <p><span class="chinese">我的情人是一只温柔的梅花鹿，一匹母性的梅花鹿。</span><span class="english">My sweetheart is a gentle sika, a maternal sika.</span></p>
 
 <p><span class="chinese">“我叫虫子，专吃大虫。”梅花鹿不紧不慢地回答。</span><span class="english">"I called bugs, turn to eat. " Sika deer takes to answer.</span></p>

@@ -1,5 +1,7 @@
 # 沙包
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shabao.md)
+
 <p><span class="chinese">把沙包扔回来给我。</span><span class="english">Throw it back to me.</span></p>
 
 <p><span class="chinese">沙包也可以用来释放压力！</span><span class="english">It's also good for relieving stress!</span></p>

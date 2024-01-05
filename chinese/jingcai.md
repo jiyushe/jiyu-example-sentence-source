@@ -1,5 +1,7 @@
 # 精彩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingcai.md)
+
 <p><span class="chinese">精彩的一门课。</span><span class="english">Excellent class.</span></p>
 
 <p><span class="chinese">祝大家上堂精彩的课。</span><span class="english">And have a good class.</span></p>

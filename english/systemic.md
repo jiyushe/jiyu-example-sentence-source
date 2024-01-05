@@ -1,5 +1,7 @@
 # systemic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/systemic.md)
+
 <p><span class="chinese">他的问题部分是体制性的。</span><span class="english">Part of his problem is systemic.</span></p>
 
 <p><span class="chinese">现在我要谈到系统性作用了</span><span class="english">I'm talking about systemic effects.</span></p>

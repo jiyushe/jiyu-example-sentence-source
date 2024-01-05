@@ -1,5 +1,7 @@
 # quicksand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quicksand.md)
+
 <p><span class="chinese">完美就像流沙一样。</span><span class="english">Perfection is quicksand.</span></p>
 
 <p><span class="chinese">你不会陷入流沙。</span><span class="english">You cannot sink into quicksand.</span></p>

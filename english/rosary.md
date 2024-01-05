@@ -1,5 +1,7 @@
 # rosary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rosary.md)
+
 <p><span class="chinese">院长，手里拿着念珠，正在等候他们。</span><span class="english">The prioress, rosary in hand, was waiting for them.</span></p>
 
 <p><span class="chinese">我给了他二零零零里拉并在我的口袋的数珠。</span><span class="english">I gave him 2,000 liras and put the rosary in my pocket.</span></p>

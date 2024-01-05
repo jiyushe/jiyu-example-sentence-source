@@ -1,5 +1,7 @@
 # bicycle 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bicycle_1.md)
+
 <p><span class="chinese">这是你的自行车？</span><span class="english">Is this your bicycle?</span></p>
 
 <p><span class="chinese">你骑自行车吗？</span><span class="english">Do you ride a bicycle?</span></p>

@@ -1,5 +1,7 @@
 # accessing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accessing.md)
+
 <p><span class="chinese">我们需要确认这一点。</span><span class="english">That's accessing an element of a list.</span></p>
 
 <p><span class="chinese">访问元素是区分大小写的。</span><span class="english">Accessing the elements is case-sensitive.</span></p>

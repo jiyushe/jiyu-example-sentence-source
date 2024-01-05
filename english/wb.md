@@ -1,5 +1,7 @@
 # wb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wb.md)
+
 <p><span class="chinese">信号切换和变换板由JZX-18F继电器和WB系列电量传感器组成。</span><span class="english">Signal switch circuit board is composed of JZX-18F relay and WB series sensors.</span></p>
 
 <p><span class="chinese">只有这款蝙蝠侠的艺术家自存版是正式在华纳专卖店发售的。</span><span class="english">To date, only the original Batman Maquette artist-proof were released through WB Stores.</span></p>

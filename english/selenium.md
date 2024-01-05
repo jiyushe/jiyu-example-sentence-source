@@ -1,5 +1,7 @@
 # selenium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/selenium.md)
+
 <p><span class="chinese">硒是一种光电导物质。</span><span class="english">Selenium is a photoconductive substance.</span></p>
 
 <p><span class="chinese">食品摄入硒量过低易患咽喉癌和胃癌。</span><span class="english">Low selenium tied to throat, stomach cancers.</span></p>

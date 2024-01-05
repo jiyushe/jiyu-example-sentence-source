@@ -1,5 +1,7 @@
 # topaz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/topaz.md)
+
 <p><span class="chinese">红色的黄晶那就更加稀有了。</span><span class="english">A red topaz is a rarity.</span></p>
 
 <p><span class="chinese">美琴不可能赢下黄玉项链。</span><span class="english">Mikoto can't win Topaz. Oh well.</span></p>

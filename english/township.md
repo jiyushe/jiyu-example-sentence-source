@@ -1,5 +1,7 @@
 # township
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/township.md)
+
 <p><span class="chinese">这个镇区有540个选民。</span><span class="english">There are 540 voters in this township.</span></p>
 
 <p><span class="chinese">在有色人种居住区有套二室的房子。</span><span class="english">They had a two-room house in a township.</span></p>

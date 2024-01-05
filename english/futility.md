@@ -1,5 +1,7 @@
 # futility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/futility.md)
+
 <p><span class="chinese">你创造世人，要使他们归何等的虚空呢？</span><span class="english">For what futility you have created all men!</span></p>
 
 <p><span class="chinese">它毫无用处，这让她很生气。</span><span class="english">The sheer futility of it all exasperates her.</span></p>

@@ -1,5 +1,7 @@
 # hypothyroid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypothyroid.md)
+
 <p><span class="chinese">在放射性碘治疗以后，我变成甲减，必须服用左旋甲状腺激素。</span><span class="english">After my RAI , I became hypothyroid and now have to take levothyroid.</span></p>
 
 <p><span class="chinese">如果人的身体血液中的甲状腺激素太少的话，那这个人就是甲状腺功效消退。</span><span class="english">People are hypothyroid if they have too little thyroid hormone in the blood.</span></p>

@@ -1,5 +1,7 @@
 # ips
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ips.md)
+
 <p><span class="chinese">通讯社有大约37000名学生。</span><span class="english">IPS has about 37,000 students.</span></p>
 
 <p><span class="chinese">前面已经提到，我们必须使用固定IP。</span><span class="english">As already mentioned we have to use fixed IPs.</span></p>

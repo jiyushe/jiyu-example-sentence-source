@@ -1,5 +1,7 @@
 # platter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/platter.md)
+
 <p><span class="chinese">来个水果拼盘怎么样？</span><span class="english">How about a fruit platter?</span></p>
 
 <p><span class="chinese">铲出烤肉到大浅盘中。</span><span class="english">Remove roast to serving platter.</span></p>

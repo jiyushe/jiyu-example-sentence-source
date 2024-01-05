@@ -1,5 +1,7 @@
 # 本科
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benke.md)
+
 <p><span class="chinese">我的本科专业是历史。</span><span class="english">My undergrad is history.</span></p>
 
 <p><span class="chinese">我念本科时已开始接触它。</span><span class="english">I've used it as an undergrad.</span></p>

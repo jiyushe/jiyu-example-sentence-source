@@ -1,5 +1,7 @@
 # 厮混
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sihun.md)
+
 <p><span class="chinese">有更多时间和朋友厮混。</span><span class="english">You have more time for friends.</span></p>
 
 <p><span class="chinese">他经常和一帮流氓厮混。</span><span class="english">He goes round with a bunch of thugs.</span></p>

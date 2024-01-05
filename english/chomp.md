@@ -1,5 +1,7 @@
 # chomp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chomp.md)
+
 <p><span class="chinese">糙齿龙会大声咀嚼，格格地咬牙。</span><span class="english">Trachodon would chew and chomp.</span></p>
 
 <p><span class="chinese">它们只是在苔原上咀嚼食物，然后睡几个小时，睡醒了再吃。</span><span class="english">They just chomp on tundra, nap a few hours and feast again.</span></p>

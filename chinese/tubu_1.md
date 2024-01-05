@@ -1,5 +1,7 @@
 # 徒步
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tubu_1.md)
+
 <p><span class="chinese">你经常徒步旅行吗？</span><span class="english">Do you hike often?</span></p>
 
 <p><span class="chinese">之后他徒步逃离。</span><span class="english">He escaped on foot.</span></p>

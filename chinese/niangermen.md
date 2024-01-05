@@ -1,5 +1,7 @@
 # 娘儿们
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niangermen.md)
+
 <p><span class="chinese">那小娘儿们可真是个母老虎。</span><span class="english">That chick’s a real tiger.</span></p>
 
 <p><span class="chinese">当娘儿们正要各自去打扮的时候，他又对伊丽莎白说</span><span class="english">When the ladies were separating for the toilette, he said to Elizabeth</span></p>

@@ -1,5 +1,7 @@
 # voa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/voa.md)
+
 <p><span class="chinese">你的收音机能收听到美国之音吗?</span><span class="english">Can you get VOA on your radio?</span></p>
 
 <p><span class="chinese">我是大卫得福斯，美国之音新闻。</span><span class="english">I'm David DeForest , VOA News.</span></p>

@@ -1,5 +1,7 @@
 # 发落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/faluo.md)
+
 <p><span class="chinese">他们把他从轻发落。</span><span class="english">They dealt with him leniently.</span></p>
 
 <p><span class="chinese">青丝发落丛鬓疏。</span><span class="english">This plexus hair thinning hair.</span></p>

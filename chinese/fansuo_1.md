@@ -1,5 +1,7 @@
 # 烦琐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fansuo_1.md)
+
 <p><span class="chinese">当或人有烦琐在他们的学习中。</span><span class="english">When someone has trouble in their study.</span></p>
 
 <p><span class="chinese">这是你能够想象的，如此的沟通是十分烦琐和困难的。</span><span class="english">As you might expect, this communication was very tedious and difficult.</span></p>

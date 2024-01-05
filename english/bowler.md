@@ -1,5 +1,7 @@
 # bowler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bowler.md)
+
 <p><span class="chinese">我想买一顶圆礼帽。</span><span class="english">I 'd like to have a bowler hat.</span></p>
 
 <p><span class="chinese">两端都有一个投球手，</span><span class="english">You have a bowler from each end,</span></p>

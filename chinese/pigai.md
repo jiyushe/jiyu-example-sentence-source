@@ -1,5 +1,7 @@
 # 批改
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pigai.md)
+
 <p><span class="chinese">我批改了学生们的小考试卷。</span><span class="english">I marked the students' quiz papers.</span></p>
 
 <p><span class="chinese">你们应留出空白供批改用。</span><span class="english">You must leave some space for correction.</span></p>

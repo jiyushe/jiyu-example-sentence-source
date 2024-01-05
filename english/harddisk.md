@@ -1,5 +1,7 @@
 # harddisk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harddisk.md)
+
 <p><span class="chinese">没有找到系统镜像文件！！！</span><span class="english">Not find Harddisk ghost image ! ! !</span></p>
 
 <p><span class="chinese">所以我就去买了一个二手硬盘。</span><span class="english">So I just go to buy a secondhand harddisk.</span></p>

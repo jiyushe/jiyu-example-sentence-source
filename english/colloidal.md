@@ -1,5 +1,7 @@
 # colloidal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colloidal.md)
+
 <p><span class="chinese">胶体遇橡胶会变黄。</span><span class="english">Colloidal with rubber will turn yellow.</span></p>
 
 <p><span class="chinese">天然胶体燕麦二甲聚硅氧烷皮肤保护。</span><span class="english">With natural Colloidal Oatmeal Dimethicone skin protectant.</span></p>

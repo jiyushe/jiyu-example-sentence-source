@@ -1,5 +1,7 @@
 # olfaction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/olfaction.md)
+
 <p><span class="chinese">另外一种诊断方法是听和嗅。</span><span class="english">Another diagnostic method is auscultation and olfaction.</span></p>
 
 <p><span class="chinese">目的寻找一种简单、有效的治疗嗅觉障碍的方法。</span><span class="english">Objectives To seek a simple and effective therapy way of olfaction disorder.</span></p>

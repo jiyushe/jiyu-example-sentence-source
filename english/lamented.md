@@ -1,5 +1,7 @@
 # lamented
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lamented.md)
+
 <p><span class="chinese">她向我们哀叹自己悲惨的遭遇。</span><span class="english">She lamented to us about her wretched lot.</span></p>
 
 <p><span class="chinese">医生不能合法地赚钱，他感觉遗憾。</span><span class="english">Doctors can't make money legally, he lamented.</span></p>

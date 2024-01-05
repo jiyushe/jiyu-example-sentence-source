@@ -1,5 +1,7 @@
 # shoot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shoot.md)
+
 <p><span class="chinese">射死他们！</span><span class="english">Shoot them!</span></p>
 
 <p><span class="chinese">我很少射篮。</span><span class="english">I rarely shoot.</span></p>

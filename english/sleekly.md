@@ -1,5 +1,7 @@
 # sleekly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sleekly.md)
+
 <p><span class="chinese">他指着停车场上闪亮的，线条优美的红色法拉利说道。</span><span class="english">He pointed to a bright red sleekly gleaming Ferrari in the parking lot.</span></p>
 
 <p><span class="chinese">到了厨房，你把一袋面粉放在精心设计的光滑的石台上。</span><span class="english">In the kitchen, you set a bag of flour on the sleekly engineered stone counter.</span></p>

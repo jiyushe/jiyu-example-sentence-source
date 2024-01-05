@@ -1,5 +1,7 @@
 # avoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avoid.md)
+
 <p><span class="chinese">避免激素取代疗法。</span><span class="english">Avoid HRT.</span></p>
 
 <p><span class="chinese">忌饮汽水。</span><span class="english">Avoid soda.</span></p>

@@ -1,5 +1,7 @@
 # lase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lase.md)
+
 <p><span class="chinese">让我们去往城让我们上城里去吧。</span><span class="english">Lase na ki ad urba. Let's go to town.</span></p>
 
 <p><span class="chinese">当然了，这六年是我最美好的时光。</span><span class="english">Sure, time of my life-the lase six years, this has been the best.</span></p>

@@ -1,5 +1,7 @@
 # membranous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/membranous.md)
+
 <p><span class="chinese">一个分开的膜和薄分隔板。</span><span class="english">A membranous part that divides or separates.</span></p>
 
 <p><span class="chinese">雌蕊头状花序具一基部的膜质附属物。</span><span class="english">Pistil head with a basal membranous appendage.</span></p>

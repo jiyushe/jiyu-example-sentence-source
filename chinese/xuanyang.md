@@ -1,5 +1,7 @@
 # 宣扬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanyang.md)
+
 <p><span class="chinese">他老是宣扬他的公司。</span><span class="english">He always boost his company.</span></p>
 
 <p><span class="chinese">“所有它的做法是每个人都大肆宣扬了”。</span><span class="english">All it's doing is hyping everyone up.</span></p>

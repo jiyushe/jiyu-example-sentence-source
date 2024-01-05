@@ -1,5 +1,7 @@
 # stream 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stream.md)
+
 <p><span class="chinese">一条河还是一条溪？</span><span class="english">A river or a stream?</span></p>
 
 <p><span class="chinese">这条小河里鱼很多。</span><span class="english">Fish teem in this stream.</span></p>

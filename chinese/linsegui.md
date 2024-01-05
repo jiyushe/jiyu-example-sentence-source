@@ -1,5 +1,7 @@
 # 吝啬鬼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linsegui.md)
+
 <p><span class="chinese">他是个吝啬鬼。</span><span class="english">He is such a tightwad.</span></p>
 
 <p><span class="chinese">吝啬鬼崇拜金钱。</span><span class="english">A skinflint worships money.</span></p>

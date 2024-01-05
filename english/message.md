@@ -1,5 +1,7 @@
 # message
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/message.md)
+
 <p><span class="chinese">给我发一个信息。</span><span class="english">Send me a message.</span></p>
 
 <p><span class="chinese">可以麻烦帮我留话吗？</span><span class="english">Can I leave a message?</span></p>

@@ -1,5 +1,7 @@
 # borax
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/borax.md)
+
 <p><span class="chinese">硼砂必须研成细粉才能供婴儿使用。</span><span class="english">Borax must be reduced to powder for infants.</span></p>
 
 <p><span class="chinese">结果同时显示，土施硼肥能有效提高叶片钙含量。</span><span class="english">Borax can enhance the Ca content in the leaves.</span></p>

@@ -1,5 +1,7 @@
 # 漆包线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qibaoxian.md)
+
 <p><span class="chinese">融断式尼龙漆包线“，”</span><span class="english">Fuseable Polyamide Enameled Copper Wire.</span></p>
 
 <p><span class="chinese">可是漆包线在生产时是在高速的运行。</span><span class="english">But enameled wire production is in high-speed operation.</span></p>

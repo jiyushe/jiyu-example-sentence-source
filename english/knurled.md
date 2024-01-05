@@ -1,5 +1,7 @@
 # knurled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knurled.md)
+
 <p><span class="chinese">冠毛茸茸的顶部早已磨平，酷似保险箱的隆起球形旋钮。</span><span class="english">The crested top was milled and knurled like the knob on a safe.</span></p>
 
 <p><span class="chinese">重型调节螺丝。调节螺丝既有槽也有花纹边。</span><span class="english">Heavy duty adjusting screw. Adjusting screw is both slotted and knurled.</span></p>

@@ -1,5 +1,7 @@
 # nosed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nosed.md)
+
 <p><span class="chinese">猪把食槽拱翻了。</span><span class="english">The pig nosed the trough down.</span></p>
 
 <p><span class="chinese">我的爱犬嗅出了一个洞内有猎物。</span><span class="english">My dog nosed game out in a cave.</span></p>

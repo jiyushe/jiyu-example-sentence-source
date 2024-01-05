@@ -1,5 +1,7 @@
 # 自暴自弃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zibaoziqi.md)
+
 <p><span class="chinese">那些自暴自弃的人无法成功。</span><span class="english">Those who abandon themselves will not success.</span></p>
 
 <p><span class="chinese">追忆过去，我意识到那只不过是自暴自弃罢了。</span><span class="english">Looking back, I realize it was nothing but self-sabotage.</span></p>

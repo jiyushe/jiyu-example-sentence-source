@@ -1,5 +1,7 @@
 # 育种
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuzhong.md)
+
 <p><span class="chinese">了解啤酒大麦的育种和管理。</span><span class="english">Know barley breeding and management.</span></p>
 
 <p><span class="chinese">协调中国啤酒大麦育种事宜。</span><span class="english">Coordinate China beer barley breeding.</span></p>

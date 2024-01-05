@@ -1,5 +1,7 @@
 # 难当
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nandang.md)
+
 <p><span class="chinese">这天晚上酷寒难当。</span><span class="english">The night was bitter cold.</span></p>
 
 <p><span class="chinese">其实一点小事就让你一天郁闷难当。</span><span class="english">It dosen't take much to bring on a blue day.</span></p>

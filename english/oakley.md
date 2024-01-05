@@ -1,5 +1,7 @@
 # oakley
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oakley.md)
+
 <p><span class="chinese">我帮助奥克利进去。</span><span class="english">I helped Oakley inside.</span></p>
 
 <p><span class="chinese">奥克利精英全金属外壳</span><span class="english">Oakley Elite Full Metal Jacket</span></p>

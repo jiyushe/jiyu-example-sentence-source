@@ -1,5 +1,7 @@
 # 摊派
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanpai.md)
+
 <p><span class="chinese">迟早，这些附加设备的成本会转而摊派到每个消费者头上。</span><span class="english">Sooner or later, those additional costs will have to be passed on to customers.</span></p>
 
 <p><span class="chinese">但是这么大的增加很难摊派，政治策略上考虑也很难通过。</span><span class="english">But such increases are laborious to arrange and politically difficult to push through.</span></p>

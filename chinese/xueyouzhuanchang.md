@@ -1,5 +1,7 @@
 # 学有专长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueyouzhuanchang.md)
+
 <p><span class="chinese">这个探险队里有许多学有专长的专家。</span><span class="english">There were many experts who had different expertise in the expedition.</span></p>
 
 <p><span class="chinese">以民商法法律事务为专业定向，聚合了一批法律专业及涉外领域学有专长的优秀执业律师，打造并形成了开放式合伙体制律师平台。</span><span class="english">The firm focuses on civil and commercial businesses, with a group of high-qualified lawyers with prestigious knowledge in law and other fields.</span></p>

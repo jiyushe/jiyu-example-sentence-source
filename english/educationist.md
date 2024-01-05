@@ -1,5 +1,7 @@
 # educationist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/educationist.md)
+
 <p><span class="chinese">周谷城是受人敬重的教育家。</span><span class="english">Zhou Gucheng is a respectable educationist.</span></p>
 
 <p><span class="chinese">东周邹国人。是一位著名的思想家、政治活动家、教育家。</span><span class="english">It is a home of famous ideologist, politics, educationist.</span></p>

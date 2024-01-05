@@ -1,5 +1,7 @@
 # metacercaria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metacercaria.md)
+
 <p><span class="chinese">结果提示皮层是后尾蚴吸收营养物质的主要部位。</span><span class="english">It suggests that the tegument of metacercaria is the main absorptive site of nutrients.</span></p>
 
 <p><span class="chinese">经囊蚴感染的雏鸭肝脏内可分离出成虫。</span><span class="english">The adult warm in liver of ducklines infected by encysted metacercaria could be separated.</span></p>

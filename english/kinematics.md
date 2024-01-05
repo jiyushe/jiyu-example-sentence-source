@@ -1,5 +1,7 @@
 # kinematics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kinematics.md)
+
 <p><span class="chinese">运动学是对现在的完整描述</span><span class="english">So, kinematics is a complete description of the present.</span></p>
 
 <p><span class="chinese">如果你想描述这个质点,如何从运动学角度来描述呢</span><span class="english">If you want to describe this particle, what's the kinematics?</span></p>

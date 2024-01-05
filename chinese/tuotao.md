@@ -1,5 +1,7 @@
 # 脱逃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuotao.md)
+
 <p><span class="chinese">只有懦夫才临危脱逃。</span><span class="english">Only a coward perched to escape.</span></p>
 
 <p><span class="chinese">那匹马从马厩里脱逃而出。</span><span class="english">The horse broke free from its stable.</span></p>

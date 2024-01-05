@@ -1,5 +1,7 @@
 # garrett
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/garrett.md)
+
 <p><span class="chinese">埃克博是一位设计师，也是一位思想家。</span><span class="english">Garrett Eckbo was a designer, and a thinker also.</span></p>
 
 <p><span class="chinese">“我不知道自己会不会亲见这一理想的实现，”Garrett说。</span><span class="english">"Whether we will see that, I don't know," Garrett said.</span></p>

@@ -1,5 +1,7 @@
 # clemency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clemency.md)
+
 <p><span class="chinese">他们向州长提出了宽刑的申辩书。</span><span class="english">They addressed to the governor a plea for clemency.</span></p>
 
 <p><span class="chinese">在关押了十八年之后，她请求宽恕得到了批准。</span><span class="english">In the eighteenth, her plea for clemency was granted.</span></p>

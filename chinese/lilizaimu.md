@@ -1,5 +1,7 @@
 # 历历在目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lilizaimu.md)
+
 <p><span class="chinese">快乐，悲伤，全都历历在目。</span><span class="english">Happiness, sadness, all vividly.</span></p>
 
 <p><span class="chinese">十年前的场景历历在目⋯⋯</span><span class="english">This was the scene of ten years ago.</span></p>

@@ -1,5 +1,7 @@
 # gila
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gila.md)
+
 <p><span class="chinese">吉拉会留下，就像其他球星一样。</span><span class="english">Gila will stay as will all the other stars.</span></p>
 
 <p><span class="chinese">最近几场比赛吉拉的表现真是太棒了。</span><span class="english">Gila have been really great in recent games.</span></p>

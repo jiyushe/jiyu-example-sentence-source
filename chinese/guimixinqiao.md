@@ -1,5 +1,7 @@
 # 鬼迷心窍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guimixinqiao.md)
+
 <p><span class="chinese">她从来没有这么鬼迷心窍过。</span><span class="english">She had never been so crushed.</span></p>
 
 <p><span class="chinese">你一定是疯了，要不就是中了邪，鬼迷心窍。</span><span class="english">You must either be mad or utterly depraved and wicked.</span></p>

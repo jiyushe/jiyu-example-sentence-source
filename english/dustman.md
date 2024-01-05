@@ -1,5 +1,7 @@
 # dustman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dustman.md)
+
 <p><span class="chinese">我是一个清洁工。</span><span class="english">I'm a dustman.</span></p>
 
 <p><span class="chinese">他是个好清洁工。</span><span class="english">He is a good dustman.</span></p>

@@ -1,5 +1,7 @@
 # subaqueous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subaqueous.md)
+
 <p><span class="chinese">在你深沉如水的吻中我感觉到你的利齿。</span><span class="english">I feel your sharp teeth in the subaqueous depths of your kisses.</span></p>
 
 <p><span class="chinese">水下堆积地貌主要有水下三角洲及潮下浅滩。</span><span class="english">The landform of subaqueous sediments mainly have subaqueous delta and subtidalshoal.</span></p>

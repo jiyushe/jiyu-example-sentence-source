@@ -1,5 +1,7 @@
 # 育才
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yucai.md)
+
 <p><span class="chinese">他们是育才学校的。</span><span class="english">They're from Yucai School.</span></p>
 
 <p><span class="chinese">他今年去育才高中。</span><span class="english">He goes to Yucai High School this year.</span></p>

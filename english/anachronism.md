@@ -1,5 +1,7 @@
 # anachronism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anachronism.md)
+
 <p><span class="chinese">现代的君主政体是不合时宜的事物。</span><span class="english">Contemporary monarchy is an anachronism.</span></p>
 
 <p><span class="chinese">它是个无意义的时代倒错还是无价的道德指南？</span><span class="english">Is it a pointless anachronism or an invaluable moral guide?</span></p>

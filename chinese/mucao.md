@@ -1,5 +1,7 @@
 # 牧草
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mucao.md)
+
 <p><span class="chinese">今天我们开始收割牧草。</span><span class="english">Today we begin the hay harvest.</span></p>
 
 <p><span class="chinese">苜蓿对天天来说是最好的牧草种类。</span><span class="english">Alfalfa is the best type of hay for a cavy.</span></p>

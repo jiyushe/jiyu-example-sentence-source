@@ -1,5 +1,7 @@
 # eagerness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eagerness.md)
+
 <p><span class="chinese">他的眼珠热切地转动着。</span><span class="english">His eyes goggled with eagerness.</span></p>
 
 <p><span class="chinese">你突然显得那么急切，这是什么意思？</span><span class="english">What sudden eagerness is this you evince?</span></p>

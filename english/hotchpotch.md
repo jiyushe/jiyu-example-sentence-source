@@ -1,5 +1,7 @@
 # hotchpotch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hotchpotch.md)
+
 <p><span class="chinese">你可以尝尝麻辣烫。</span><span class="english">You can try some spicy hotchpotch.</span></p>
 
 <p><span class="chinese">像百货公司，更像兴旺的城镇</span><span class="english">More like a thriving town than a multiple store--- a hotchpotch</span></p>

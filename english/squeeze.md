@@ -1,5 +1,7 @@
 # squeeze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/squeeze.md)
+
 <p><span class="chinese">因此，打压开始了。</span><span class="english">So the squeeze began.</span></p>
 
 <p><span class="chinese">我把弹簧挤在一起。</span><span class="english">I squeeze these springs.</span></p>

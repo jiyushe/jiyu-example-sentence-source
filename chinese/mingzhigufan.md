@@ -1,5 +1,7 @@
 # 明知故犯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingzhigufan.md)
+
 <p><span class="chinese">我们明知故犯地毁坏了一处可能的历史遗迹。</span><span class="english">We knowingly altered a Probable Historical Site.</span></p>
 
 <p><span class="chinese">明知故犯地走上那条道路是极其愚蠢的行为。</span><span class="english">Knowingly marching down that road would be insane.</span></p>

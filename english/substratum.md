@@ -1,5 +1,7 @@
 # substratum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/substratum.md)
+
 <p><span class="chinese">这故事有事实的基础。</span><span class="english">The story has a substratum of truth.</span></p>
 
 <p><span class="chinese">一种备战的意图在她的心里起伏。</span><span class="english">A substratum of war stirred within her.</span></p>

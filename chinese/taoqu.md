@@ -1,5 +1,7 @@
 # 套曲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taoqu.md)
+
 <p><span class="chinese">第二章，三组声乐套曲的音乐分析。</span><span class="english">Chapter II, three groups of vocal music divertimento analysis.</span></p>
 
 <p><span class="chinese">后来，这三个儿子的名字就成了木卡姆套曲的名称。</span><span class="english">Later, the names of her three sons became the names of the Muqam suites.</span></p>

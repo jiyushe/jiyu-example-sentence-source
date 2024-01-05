@@ -1,5 +1,7 @@
 # negev
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/negev.md)
+
 <p><span class="chinese">耶和华阿，求你使我们被掳的人归回，好像南地的河水复流。</span><span class="english">Restore our fortunes, O Lord , like streams in the Negev.</span></p>
 
 <p><span class="chinese">那时，以撒住在南地，刚从庇耳．拉海．莱回来。</span><span class="english">Now Isaac had come from Beer Lahai Roi, for he was living in the Negev.</span></p>

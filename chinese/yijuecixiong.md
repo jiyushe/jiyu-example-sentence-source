@@ -1,5 +1,7 @@
 # 一决雌雄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yijuecixiong.md)
+
 <p><span class="chinese">这样的舞台好像就是为了一决雌雄而准备的。</span><span class="english">The stage seemed set for a showdown.</span></p>
 
 <p><span class="chinese">于是他们决定通过比赛来一决雌雄。</span><span class="english">They decided to settle the argument with a race.</span></p>

@@ -1,5 +1,7 @@
 # gloominess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gloominess.md)
+
 <p><span class="chinese">忧郁是漂亮女孩的专利。</span><span class="english">Gloominess is the patent of beautiful girls.</span></p>
 
 <p><span class="chinese">暗紫色使人联想起忧郁和悲伤。</span><span class="english">Darker purples can conjure gloominess and sadness.</span></p>

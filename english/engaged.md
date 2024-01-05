@@ -1,5 +1,7 @@
 # engaged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/engaged.md)
+
 <p><span class="chinese">对不起，我有约在先了。</span><span class="english">Sorry, I'm engaged.</span></p>
 
 <p><span class="chinese">此座位已被预订。</span><span class="english">This seat is engaged.</span></p>

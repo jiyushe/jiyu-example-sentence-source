@@ -1,5 +1,7 @@
 # 任人宰割
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renrenzaige.md)
+
 <p><span class="chinese">有时我真的觉得自己像块任人宰割的肉！</span><span class="english">Sometimes I just feel like a piece of meat!</span></p>
 
 <p><span class="chinese">因此教育成了砧板上的鱼肉任人宰割。</span><span class="english">As a result, education is on the chopping block.</span></p>

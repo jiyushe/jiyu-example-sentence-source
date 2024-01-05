@@ -1,5 +1,7 @@
 # fratricidal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fratricidal.md)
+
 <p><span class="chinese">所以他们仍有能力免于经历这场自相残杀。</span><span class="english">So they are still capable of drawing back from a fratricidal war.</span></p>
 
 <p><span class="chinese">最后，自相残杀的价格战导致中国药品品牌的短命。</span><span class="english">Finally, the fratricidal price wars led to the short-lived brand of Pharmaceuticals in China.</span></p>

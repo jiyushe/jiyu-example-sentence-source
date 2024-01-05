@@ -1,5 +1,7 @@
 # banknote
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/banknote.md)
+
 <p><span class="chinese">瑞典的1,000克朗面值钞票最先应用了该技术。</span><span class="english">Sweden's 1, 000-kroner banknote was first to use this technology.</span></p>
 
 <p><span class="chinese">他往外掏手帕时，没注意到一张钞票从口袋里掉了出来。</span><span class="english">As he took a handkerchief, he didn't notice that a banknote fell out of his pocket.</span></p>

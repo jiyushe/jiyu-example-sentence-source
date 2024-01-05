@@ -1,5 +1,7 @@
 # 精魂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinghun_1.md)
+
 <p><span class="chinese">这是些植物的精魂。</span><span class="english">This is a plant of spirit.</span></p>
 
 <p><span class="chinese">许多萨满的威能都有著精魂关键字。</span><span class="english">Many shaman powers have the spirit keyword.</span></p>

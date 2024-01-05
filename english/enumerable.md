@@ -1,5 +1,7 @@
 # enumerable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enumerable.md)
+
 <p><span class="chinese">两个模块分别是jsinq.Enumerable和jsinq.Query。</span><span class="english">The two modules are jsinq.Enumerable and jsinq.Query. An example of a query is</span></p>
 
 <p><span class="chinese">返回当前目录中的目录信息的可枚举集合。</span><span class="english">Returns an enumerable collection of directory information in the current directory.</span></p>

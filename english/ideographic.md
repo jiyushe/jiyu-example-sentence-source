@@ -1,5 +1,7 @@
 # ideographic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ideographic.md)
+
 <p><span class="chinese">分析部首表意性是有意义的。</span><span class="english">Analyzing ideographic nature of radical is meaningful.</span></p>
 
 <p><span class="chinese">汉字是从中国借鉴的复杂的表意字符书写体系。</span><span class="english">The kanji are a complex ideographic writing system stolen from China.</span></p>

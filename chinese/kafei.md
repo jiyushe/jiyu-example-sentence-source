@@ -1,5 +1,7 @@
 # 咖啡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kafei.md)
+
 <p><span class="chinese">来一杯咖啡怎么样？</span><span class="english">Coffee?</span></p>
 
 <p><span class="chinese">还是喝咖啡时想吸烟？</span><span class="english">With coffee?</span></p>

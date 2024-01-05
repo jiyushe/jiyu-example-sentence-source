@@ -1,5 +1,7 @@
 # 雪松
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuesong.md)
+
 <p><span class="chinese">你发现雪松了吗？</span><span class="english">Did you find any cedarwood anywhere?</span></p>
 
 <p><span class="chinese">黑鹂坐在雪松枝干上。</span><span class="english">The blackbird sat In the cedar-limbs.</span></p>

@@ -1,5 +1,7 @@
 # blindfold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blindfold.md)
+
 <p><span class="chinese">他们给马蒙上遮眼布。</span><span class="english">They puta blindfold on a horse.</span></p>
 
 <p><span class="chinese">他们给马蒙上遮眼布。</span><span class="english">They put a blindfold on a horse.</span></p>

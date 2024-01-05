@@ -1,5 +1,7 @@
 # 活门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huomen.md)
+
 <p><span class="chinese">全部所需的就只是一个活门。</span><span class="english">All that is required is a valve.</span></p>
 
 <p><span class="chinese">一个排放活门被安装在水箱底部。</span><span class="english">A drain valve is located on the bottom of the tank.</span></p>

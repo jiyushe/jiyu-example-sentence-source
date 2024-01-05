@@ -1,5 +1,7 @@
 # sensorial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sensorial.md)
+
 <p><span class="chinese">伟大的第一车手小工具很多感官。</span><span class="english">Great first rider with plenty of sensorial gadgets.</span></p>
 
 <p><span class="chinese">色彩方面主要有利于表达感情的白色系及触感轻柔的清淡色调。</span><span class="english">The colour range is made of emotional whites and sensorial pastels.</span></p>

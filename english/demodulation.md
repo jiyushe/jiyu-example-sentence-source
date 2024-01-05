@@ -1,5 +1,7 @@
 # demodulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demodulation.md)
+
 <p><span class="chinese">一种调制解调设备。</span><span class="english">A modulation and demodulation device.</span></p>
 
 <p><span class="chinese">MSK调制信号的数字化解调的实现。</span><span class="english">Realization of MSK modulated signals' digital demodulation.</span></p>

@@ -1,5 +1,7 @@
 # seasonable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seasonable.md)
+
 <p><span class="chinese">你的季度目标是什么？</span><span class="english">What is your seasonable goal?</span></p>
 
 <p><span class="chinese">这应季的月份赋予那小草、</span><span class="english">Wherewith the seasonable month endows</span></p>

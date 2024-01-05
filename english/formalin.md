@@ -1,5 +1,7 @@
 # formalin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/formalin.md)
+
 <p><span class="chinese">把一坨大便泡在福尔马林里。</span><span class="english">Dip a pile of shit in Formalin.</span></p>
 
 <p><span class="chinese">所有标本经福尔马林固定，石蜡包埋。</span><span class="english">All specimen were fixed by formalin and embedded by paraffin.</span></p>

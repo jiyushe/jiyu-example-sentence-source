@@ -1,5 +1,7 @@
 # nicely 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nicely.md)
+
 <p><span class="chinese">这套衣服她穿很可身。</span><span class="english">The suit fits her nicely.</span></p>
 
 <p><span class="chinese">蓓蒂穿着很漂亮。</span><span class="english">Betty dresses very nicely.</span></p>

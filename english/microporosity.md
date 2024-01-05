@@ -1,5 +1,7 @@
 # microporosity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microporosity.md)
+
 <p><span class="chinese">微孔隙或其它小孔隙中的水。</span><span class="english">Water in microporosity or other small pores.</span></p>
 
 <p><span class="chinese">对杂化材料孔壁的微孔性通过氮气吸附进行了测定。</span><span class="english">The microporosity of the wall structure was evaluated by the nitrogen adsorption determination.</span></p>

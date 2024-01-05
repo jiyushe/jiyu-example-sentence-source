@@ -1,5 +1,7 @@
 # 鹤立鸡群
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/helijiqun.md)
+
 <p><span class="chinese">丹麦人所受的教育是在人群中不要显得鹤立鸡群。</span><span class="english">Danes are taught not to stand out in a crowd①.</span></p>
 
 <p><span class="chinese">蓝眼金发总是鹤立鸡群的。</span><span class="english">Blond hair , blue eyes is always easy to recognize.</span></p>

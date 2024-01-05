@@ -1,5 +1,7 @@
 # conjunct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conjunct.md)
+
 <p><span class="chinese">跳进和级进</span><span class="english">Disjunct versus conjunct?</span></p>
 
 <p><span class="chinese">旋律可以级进或者跳进</span><span class="english">So, melodies can be conjunct or disjunct.</span></p>

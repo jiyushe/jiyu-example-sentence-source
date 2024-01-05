@@ -1,5 +1,7 @@
 # 畜生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chusheng_1.md)
+
 <p><span class="chinese">他决定把这畜生溺死。</span><span class="english">He decided to drown the animal.</span></p>
 
 <p><span class="chinese">连想都别想，小畜生。</span><span class="english">Don't even try, you little runt.</span></p>

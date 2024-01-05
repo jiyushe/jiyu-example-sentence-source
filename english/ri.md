@@ -1,5 +1,7 @@
 # ri
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ri.md)
+
 <p><span class="chinese">这是一个注册机源代码。</span><span class="english">This is a RI source code.</span></p>
 
 <p><span class="chinese">李孝利笑著说。</span><span class="english">Lee Hyo Ri said laughingly.</span></p>

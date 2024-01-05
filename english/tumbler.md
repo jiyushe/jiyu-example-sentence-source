@@ -1,5 +1,7 @@
 # tumbler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tumbler.md)
+
 <p><span class="chinese">他喝了一杯白兰地。</span><span class="english">He drank a tumbler of brandy.</span></p>
 
 <p><span class="chinese">他年轻时是个翻筋斗的杂技演员。</span><span class="english">He drank up a tumbler of milk.</span></p>

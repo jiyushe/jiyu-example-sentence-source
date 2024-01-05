@@ -1,5 +1,7 @@
 # methanation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/methanation.md)
+
 <p><span class="chinese">不仅如此，甲烷化反应在实际工业应用中也占据重要地位。</span><span class="english">Furthermore, the methanation of CO2 has been used in various industrial processes.</span></p>
 
 <p><span class="chinese">在合成气精制工艺中甲烷化不可能产生自热反应。</span><span class="english">Autothermic reaction of methanation could not take place when purifying the synthesis feed gas.</span></p>

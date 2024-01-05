@@ -1,5 +1,7 @@
 # malate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malate.md)
+
 <p><span class="chinese">预测胞桨型苹果酸脱氢酶是一个潜在的诊断抗原。</span><span class="english">This cytosolic malate dehydrogenase gene is a potential antigen for diagnosis.</span></p>
 
 <p><span class="chinese">黑麦根系在铝胁迫下能分泌柠檬酸和苹果酸这两种有机酸。</span><span class="english">The secretion of citrate and malate from rye roots could be induced by Al stress.</span></p>

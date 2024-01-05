@@ -1,5 +1,7 @@
 # 标竿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaogan_1.md)
+
 <p><span class="chinese">策略绩效结果，标竿结果，外部评核分数。</span><span class="english">Strategic performance results, benchmark results, external assessment scores.</span></p>
 
 <p><span class="chinese">不过仅仅四年，资料储存系统中心就达成了这个新的标竿，足足把磁录密度提升了40倍。</span><span class="english">But in just four years the DSSC had met the new benchmark, a 40-fold increase.</span></p>

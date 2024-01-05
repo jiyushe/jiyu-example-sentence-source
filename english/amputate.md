@@ -1,5 +1,7 @@
 # amputate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amputate.md)
+
 <p><span class="chinese">有时我们甚至要锯肢。</span><span class="english">Sometimes we even amputate a limb.</span></p>
 
 <p><span class="chinese">在这一点上，决定把截肢。</span><span class="english">At that point, the decision was made to amputate.</span></p>

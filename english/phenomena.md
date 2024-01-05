@@ -1,5 +1,7 @@
 # phenomena
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phenomena.md)
+
 <p><span class="chinese">科学以现象为根据。</span><span class="english">Science rests  on phenomena.</span></p>
 
 <p><span class="chinese">这些现象就是我们说的天乐。</span><span class="english">Those phenomena are Heavenly Joy.</span></p>

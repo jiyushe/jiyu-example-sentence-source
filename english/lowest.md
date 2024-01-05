@@ -1,5 +1,7 @@
 # lowest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lowest.md)
+
 <p><span class="chinese">维数最小只能是1</span><span class="english">One is the lowest dimension.</span></p>
 
 <p><span class="chinese">低音的黄铜制管乐器。</span><span class="english">The lowest brass wind instrument.</span></p>

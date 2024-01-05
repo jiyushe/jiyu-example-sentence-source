@@ -1,5 +1,7 @@
 # 蒲扇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pushan_1.md)
+
 <p><span class="chinese">你怎么还拿着蒲扇啊？</span><span class="english">But why are you still carrying fans with you?</span></p>
 
 <p><span class="chinese">他的作品以蒲扇为题材。</span><span class="english">His works are mostly based on the fan subjects.</span></p>

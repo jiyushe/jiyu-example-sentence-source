@@ -1,5 +1,7 @@
 # 支柱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizhu_1.md)
+
 <p><span class="chinese">这一支柱将会消逝。</span><span class="english">That prop will go.</span></p>
 
 <p><span class="chinese">你便是我的支柱，我的幻梦。</span><span class="english">You are my pillar and my fantasy.</span></p>

@@ -1,5 +1,7 @@
 # 麻织品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mazhipin.md)
+
 <p><span class="chinese">他父亲把他送去跟亚麻织品零售商当学徒。</span><span class="english">His father apprenticed him to a linen draper.</span></p>
 
 <p><span class="chinese">尽管巴比伦和亚述也有麻织品，但主要是羊毛织品。</span><span class="english">Linen was used, but the principal fabric seems to have been wool.</span></p>

@@ -1,5 +1,7 @@
 # 大不了
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dabuliao.md)
+
 <p><span class="chinese">这没什么大不了的啊？</span><span class="english">So, what's the big deal?</span></p>
 
 <p><span class="chinese">所以没什么大不了的"</span><span class="english">It's not a big surprise."</span></p>

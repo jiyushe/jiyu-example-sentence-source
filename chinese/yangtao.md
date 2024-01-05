@@ -1,5 +1,7 @@
 # 杨桃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangtao.md)
+
 <p><span class="chinese">我午餐后吃了一个杨桃。</span><span class="english">I had a star fruit after lunch.</span></p>
 
 <p><span class="chinese">我第一次见到杨桃树。</span><span class="english">I see carambola tree for the 1st time.</span></p>

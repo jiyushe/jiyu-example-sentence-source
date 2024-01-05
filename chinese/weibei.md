@@ -1,5 +1,7 @@
 # 违背
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weibei.md)
+
 <p><span class="chinese">那违背了洪特定律。</span><span class="english">That would violate Pauli.</span></p>
 
 <p><span class="chinese">也违背了神的首者了！</span><span class="english">Breach divine head person too!</span></p>

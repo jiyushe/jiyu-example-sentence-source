@@ -1,5 +1,7 @@
 # 动情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongqing_1.md)
+
 <p><span class="chinese">此时，他的妻子也十分动情。</span><span class="english">And she was very very moved at this moment.</span></p>
 
 <p><span class="chinese">他想探究女人动情的原因。</span><span class="english">He is trying to find out what turns  on women.</span></p>

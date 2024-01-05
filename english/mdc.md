@@ -1,5 +1,7 @@
 # mdc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mdc.md)
+
 <p><span class="chinese">民革也迅速接纳了这个新朋友。</span><span class="english">The MDC has also been quick to accept this new friend.</span></p>
 
 <p><span class="chinese">第三章介绍了多级降压收集极模拟计算涉及的物理方程。</span><span class="english">Chapter 3 describes the equations concerned with the simulation of MDC.</span></p>

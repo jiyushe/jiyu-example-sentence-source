@@ -1,5 +1,7 @@
 # discreet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discreet.md)
+
 <p><span class="chinese">不过在探询消息时一定要谨慎。</span><span class="english">But be discreet with your inquiries.</span></p>
 
 <p><span class="chinese">谨慎的头骨，口含红宝石。</span><span class="english">Discreet skull with red crystal between jaws.</span></p>

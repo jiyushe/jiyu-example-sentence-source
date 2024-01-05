@@ -1,5 +1,7 @@
 # sensory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sensory.md)
+
 <p><span class="chinese">这就是你的感觉身体了</span><span class="english">That's your sensory body.</span></p>
 
 <p><span class="chinese">我们拥有感官理解吗？</span><span class="english">Do we have sensory knowledge?</span></p>

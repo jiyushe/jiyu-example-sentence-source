@@ -1,5 +1,7 @@
 # 体悟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiwu.md)
+
 <p><span class="chinese">洪凌的作品显示出他对此深有体悟。</span><span class="english">Hong Ling's works show his realization in this field.</span></p>
 
 <p><span class="chinese">古丽通过她的绘画完成着她对生命的体悟。</span><span class="english">Gulistan's insight into life can be found in her paintings.</span></p>

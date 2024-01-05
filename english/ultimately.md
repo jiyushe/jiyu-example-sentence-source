@@ -1,5 +1,7 @@
 # ultimately 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ultimately.md)
+
 <p><span class="chinese">谁是最终的控制者？</span><span class="english">Who is ultimately in control?</span></p>
 
 <p><span class="chinese">最终美国的赋税将会增加。</span><span class="english">Ultimately US taxes will be higher.</span></p>

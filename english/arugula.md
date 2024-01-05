@@ -1,5 +1,7 @@
 # arugula
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arugula.md)
+
 <p><span class="chinese">虾，辣椒粉，番茄酱，芝麻草。</span><span class="english">Shrimp, chilies, tomato sauce, arugula salad.</span></p>
 
 <p><span class="chinese">番茄酱，马苏里拉，巴马火腿，芝麻菜。</span><span class="english">Tomato sauce, mozzarella, parma ham, arugula.</span></p>

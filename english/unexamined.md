@@ -1,5 +1,7 @@
 # unexamined
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unexamined.md)
+
 <p><span class="chinese">混混噩噩的菐生活不值得过。</span><span class="english">The unexamined life is not worth living.</span></p>
 
 <p><span class="chinese">未受检视的生命不值得活“</span><span class="english">"The unexamined life is not worth living."</span></p>

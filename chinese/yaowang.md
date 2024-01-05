@@ -1,5 +1,7 @@
 # 夭亡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaowang.md)
+
 <p><span class="chinese">突然的浪漫关系可能是短寿命会夭亡。</span><span class="english">Sudden romantic connections may be short lived.</span></p>
 
 <p><span class="chinese">但这样的夭亡会给父母留下很深的情感创疤。</span><span class="english">But such a death will leave deep emotional scars with the parents.</span></p>

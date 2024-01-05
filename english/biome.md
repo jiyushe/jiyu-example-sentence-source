@@ -1,5 +1,7 @@
 # biome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biome.md)
+
 <p><span class="chinese">有眼睛状花纹的熊也居住在这里。</span><span class="english">Bear also lives in this biome.</span></p>
 
 <p><span class="chinese">首先我们先解释一下生物群落。</span><span class="english">Lets start by defining a biome.</span></p>

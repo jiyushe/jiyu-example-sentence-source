@@ -1,5 +1,7 @@
 # chessboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chessboard.md)
+
 <p><span class="chinese">命运无形的手在命运的棋盘上操控。</span><span class="english">Destiny's invisible hand moving pieces on a chessboard.</span></p>
 
 <p><span class="chinese">命运无形的手在命运的棋盘上操控。</span><span class="english">Destiny's invisible hand moving pieces on a  chessboard.</span></p>

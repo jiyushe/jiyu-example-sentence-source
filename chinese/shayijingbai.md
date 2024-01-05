@@ -1,5 +1,7 @@
 # 杀一儆百
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shayijingbai.md)
+
 <p><span class="chinese">这些人是叛国贼。我们要杀一儆百。</span><span class="english">These people are traitors. We need to make an example.</span></p>
 
 <p><span class="chinese">斩了，就会说成是杀一儆百。</span><span class="english">Said to be beheaded, will execute one as a warning to others.</span></p>

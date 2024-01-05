@@ -1,5 +1,7 @@
 # babylon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/babylon.md)
+
 <p><span class="chinese">这里与巴比伦正好相反。</span><span class="english">This was the opposite of Babylon.</span></p>
 
 <p><span class="chinese">我们大量的吸取了巴比伦的智慧。</span><span class="english">We have imbibed the wisdom of Babylon vastly.</span></p>

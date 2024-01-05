@@ -1,5 +1,7 @@
 # 土霉素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tumeisu.md)
+
 <p><span class="chinese">土霉素的作用是什么？</span><span class="english">What is the action of terramycin?</span></p>
 
 <p><span class="chinese">土霉素会不会有什么副作用啊?。</span><span class="english">What side effect can terramycin have?</span></p>

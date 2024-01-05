@@ -1,5 +1,7 @@
 # 河川
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hechuan.md)
+
 <p><span class="chinese">一股洪流冲下河川。</span><span class="english">A torrent of water swept down the river.</span></p>
 
 <p><span class="chinese">一部分冰河川冲进了海洋。</span><span class="english">Part of the glacier is breaking into the sea.</span></p>

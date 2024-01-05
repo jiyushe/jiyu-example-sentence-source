@@ -1,5 +1,7 @@
 # 分量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenliang_1.md)
+
 <p><span class="chinese">小分量食物是不好的</span><span class="english">Small portions are bad.</span></p>
 
 <p><span class="chinese">这本书的分量可不轻。</span><span class="english">This book is quite heavy.</span></p>

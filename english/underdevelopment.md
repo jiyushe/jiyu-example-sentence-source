@@ -1,5 +1,7 @@
 # underdevelopment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underdevelopment.md)
+
 <p><span class="chinese">长枝髓心不发达。</span><span class="english">Long sticks pith underdevelopment.</span></p>
 
 <p><span class="chinese">非洲必须开发自己巨大的资源，来抗击贫穷和落后。</span><span class="english">Africa must develop its vast resources to tackle poverty and underdevelopment.</span></p>

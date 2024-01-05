@@ -1,5 +1,7 @@
 # eris
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eris.md)
+
 <p><span class="chinese">艾瑞斯是这些物体中最大的。</span><span class="english">Eris is the largest of these objects.</span></p>
 
 <p><span class="chinese">如果冥王星是行星，厄里斯星就也该是。</span><span class="english">If Pluto was a planet, Eris obviously was too.</span></p>

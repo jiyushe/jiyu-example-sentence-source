@@ -1,5 +1,7 @@
 # skipper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skipper.md)
+
 <p><span class="chinese">好的店长你需要什么？</span><span class="english">Okay then skipper What do you need?</span></p>
 
 <p><span class="chinese">每一航员需遵守船长或值班船长的指令。</span><span class="english">Everybody follows the command of the skipper or watch leader.</span></p>

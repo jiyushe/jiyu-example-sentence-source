@@ -1,5 +1,7 @@
 # lubricator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lubricator.md)
+
 <p><span class="chinese">凡士林是一种很有效的润滑剂。</span><span class="english">Vaseline is a very efficient lubricator.</span></p>
 
 <p><span class="chinese">阿连锁经营的润滑巢争夺。</span><span class="english">A nest vie of lubricator operating linkage.</span></p>

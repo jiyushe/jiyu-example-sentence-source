@@ -1,5 +1,7 @@
 # 橡皮筏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangpifa.md)
+
 <p><span class="chinese">在工具栏将橡皮筏、气泵和浆组合。</span><span class="english">Go to the grotto and inflate the rubber raft.</span></p>
 
 <p><span class="chinese">橡皮筏是他在海上唯一的求生工具。</span><span class="english">The rubber raft is the only life-saving tool he has.</span></p>

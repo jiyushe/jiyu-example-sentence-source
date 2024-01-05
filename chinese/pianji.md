@@ -1,5 +1,7 @@
 # 偏激
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianji.md)
+
 <p><span class="chinese">至少可以说这种言论太偏激了。</span><span class="english">Extreme to say the least.</span></p>
 
 <p><span class="chinese">她这个人比较偏激。</span><span class="english">She tends to go to extremes.</span></p>

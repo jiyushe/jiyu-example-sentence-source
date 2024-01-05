@@ -1,5 +1,7 @@
 # gunman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gunman.md)
+
 <p><span class="chinese">警察开始向持枪歹徒开枪。</span><span class="english">The police  fired away at the gunman.</span></p>
 
 <p><span class="chinese">持枪歹徒向警察开了三枪。</span><span class="english">The gunman fired three bul-lets at the police.</span></p>

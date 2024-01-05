@@ -1,5 +1,7 @@
 # 反诘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanjie.md)
+
 <p><span class="chinese">我冷声反诘道，“我担心她做什么？</span><span class="english">"I the cold voice counter-question a way, " am I anxious that what she does?</span></p>
 
 <p><span class="chinese">反诘问句的用意在让人注意后续的陈述。</span><span class="english">A rhetorical question is intended to draw attention to a subsequent statement.</span></p>

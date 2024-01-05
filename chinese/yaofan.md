@@ -1,5 +1,7 @@
 # 要犯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaofan.md)
+
 <p><span class="chinese">扎卡维是伊拉克通辑的要犯。</span><span class="english">Mr. al-Zarqawi is the most wanted man in Iraq.</span></p>
 
 <p><span class="chinese">当然，托利党要犯错，也有的是时间。</span><span class="english">Of course, there is time for the Tories to fluff it.</span></p>

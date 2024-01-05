@@ -1,5 +1,7 @@
 # 顺口溜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunkouliu.md)
+
 <p><span class="chinese">这是一个小男孩的顺口溜。</span><span class="english">This is a boy's rhyme.</span></p>
 
 <p><span class="chinese">顺口溜马是还年轻的心。</span><span class="english">Jingle Ma is still young at heart.</span></p>

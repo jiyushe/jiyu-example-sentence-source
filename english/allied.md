@@ -1,5 +1,7 @@
 # allied
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allied.md)
+
 <p><span class="chinese">葱属和百合属是近亲。</span><span class="english">The onion is allied to the lily.</span></p>
 
 <p><span class="chinese">在“大姨妈”日的盟军护士们。</span><span class="english">Allied nurses on their lady-days.</span></p>

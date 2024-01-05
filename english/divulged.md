@@ -1,5 +1,7 @@
 # divulged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/divulged.md)
+
 <p><span class="chinese">真实情况泄露。</span><span class="english">True condition is divulged.</span></p>
 
 <p><span class="chinese">仍不清楚究竟是什么技术可能遭到了泄露。</span><span class="english">It is still not clear exactly what technology may have been divulged.</span></p>

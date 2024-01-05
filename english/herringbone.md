@@ -1,5 +1,7 @@
 # herringbone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/herringbone.md)
+
 <p><span class="chinese">胶与橡胶外底，人字形牵引模式。</span><span class="english">Gum rubber outsole with herringbone traction pattern.</span></p>
 
 <p><span class="chinese">1900年，安德烈·雪铁龙发明了人字形齿轮。</span><span class="english">In 1900, Andre Citroen invented the herringbone gear.</span></p>

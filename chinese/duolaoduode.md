@@ -1,5 +1,7 @@
 # 多劳多得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duolaoduode.md)
+
 <p><span class="chinese">约翰·克里坚信美国该是多劳多得的国度。</span><span class="english">John Kerry believes in an America where hard work is rewarded.</span></p>
 
 <p><span class="chinese">多劳多得，努力和成就是密不可分的。</span><span class="english">People who are accomplishing a lot are doing a lot. Work and accomplishments are very closely related.</span></p>

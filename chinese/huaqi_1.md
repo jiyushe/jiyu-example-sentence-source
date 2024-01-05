@@ -1,5 +1,7 @@
 # 花期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huaqi_1.md)
+
 <p><span class="chinese">花信风，随着花期而来的风。</span><span class="english">Florescence wind accompanies the florescence.</span></p>
 
 <p><span class="chinese">孩子就像玫瑰花蕾，有不同的花期。</span><span class="english">Children, like rosebuds, bloom at different time.</span></p>

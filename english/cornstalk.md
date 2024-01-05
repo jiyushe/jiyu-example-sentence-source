@@ -1,5 +1,7 @@
 # cornstalk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cornstalk.md)
+
 <p><span class="chinese">微生物对玉米秸秆的降解性能差异较大。</span><span class="english">There is different capability of degradation cornstalk among microorganisms.</span></p>
 
 <p><span class="chinese">多菌种组合对玉米秸秆的转化性能优于单一菌种。</span><span class="english">Cornstalk degradation is strengthened by microorganisms group than by single one.</span></p>

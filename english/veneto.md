@@ -1,5 +1,7 @@
 # veneto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/veneto.md)
+
 <p><span class="chinese">威尼斯是更大的威尼托区地区的中心。</span><span class="english">Venice is the center of the larger region of Veneto.</span></p>
 
 <p><span class="chinese">我们还有从纽约街头到威尼托大街带来的有关选举的新闻摘要。</span><span class="english">We'll also have an election roundup from the streets of New York to the Via Veneto.</span></p>

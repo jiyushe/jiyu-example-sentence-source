@@ -1,5 +1,7 @@
 # headspace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headspace.md)
+
 <p><span class="chinese">我能使用FOXY探测器测量包覆产品的顶部空间吗？</span><span class="english">Can I use a FOXY probe to measure the headspace in packaged products?</span></p>
 
 <p><span class="chinese">综述了现代顶空分析方法的分类及其应用。</span><span class="english">The classification and application of modern headspace analysis are reviewed.</span></p>

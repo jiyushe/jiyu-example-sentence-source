@@ -1,5 +1,7 @@
 # extrauterine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extrauterine.md)
+
 <p><span class="chinese">德累斯顿的皮尔尼茨宫外墙上绘制着中国日常生活图景。</span><span class="english">Dresden extrauterine Pillnitz wall drawing picture of daily life in China.</span></p>
 
 <p><span class="chinese">目的总结宫外孕保守治疗护理的经验。</span><span class="english">To summarize nursing experiences on conservative treatment of extrauterine pregnancy.</span></p>

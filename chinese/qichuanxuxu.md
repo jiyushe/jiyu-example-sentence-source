@@ -1,5 +1,7 @@
 # 气喘吁吁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qichuanxuxu.md)
+
 <p><span class="chinese">罗宾气喘吁吁地说。</span><span class="english">Robin gasped.</span></p>
 
 <p><span class="chinese">他气喘吁吁地讲出口信。</span><span class="english">He panted out his message.</span></p>

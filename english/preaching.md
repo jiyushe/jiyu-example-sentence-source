@@ -1,5 +1,7 @@
 # preaching
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preaching.md)
+
 <p><span class="chinese">下主日李席舟长老将传讲信息请代祷。</span><span class="english">Elder Lee will be preaching next week.</span></p>
 
 <p><span class="chinese">很快他开始传道和施洗。</span><span class="english">Soon he began preaching and baptizing.</span></p>

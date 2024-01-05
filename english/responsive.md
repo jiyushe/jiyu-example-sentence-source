@@ -1,5 +1,7 @@
 # responsive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/responsive.md)
+
 <p><span class="chinese">试着去积极响应他们的需要。</span><span class="english">Try to be responsive to their needs.</span></p>
 
 <p><span class="chinese">她很愿意接受新观念。</span><span class="english">She’s fairly responsive to new ideas.</span></p>

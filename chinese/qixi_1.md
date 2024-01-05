@@ -1,5 +1,7 @@
 # 栖息
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qixi_1.md)
+
 <p><span class="chinese">栖息在没有床单的爱巢。</span><span class="english">Lie with no sheets on their bed.</span></p>
 
 <p><span class="chinese">鸟儿们在雪裡瑟缩栖息著。</span><span class="english">And birds sit brooding in the snow.</span></p>

@@ -1,5 +1,7 @@
 # 问世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenshi_6.md)
+
 <p><span class="chinese">我急切的等待着下一章的问世！</span><span class="english">I eagerly await the next chapter!</span></p>
 
 <p><span class="chinese">它是靠两代人的长期辛劳才问世的。</span><span class="english">For the work of time belongs to man.</span></p>

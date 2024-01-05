@@ -1,5 +1,7 @@
 # 热火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rehuo_2.md)
+
 <p><span class="chinese">热火在第一节结束后取得30比16的领先。</span><span class="english">The Heat led 30-16 after one quarter.</span></p>
 
 <p><span class="chinese">我需要的疯丫头热火申请疯丫头？</span><span class="english">Do I need the Minx Heat to apply Minx?</span></p>

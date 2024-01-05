@@ -1,5 +1,7 @@
 # instate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/instate.md)
+
 <p><span class="chinese">发布公司的社交媒体政策。</span><span class="english">Instate a social media company policy.</span></p>
 
 <p><span class="chinese">他会任命梅森一个位高权重的职位。</span><span class="english">He will instate Mason to a high position of power.</span></p>

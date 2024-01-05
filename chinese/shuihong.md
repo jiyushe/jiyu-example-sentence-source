@@ -1,5 +1,7 @@
 # 水红
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuihong.md)
+
 <p><span class="chinese">农夫对农舍大门漆成石榴水红不甚满意。</span><span class="english">Nung-fu did not satisfy himself of painting the front door in grenadine.</span></p>
 
 <p><span class="chinese">我喜欢淡蓝、水红、浅绿、淡紫色、雪白等等颜色。</span><span class="english">I like cambrige blue, salmon pink, peak green, lilac, snow-white and etc.</span></p>

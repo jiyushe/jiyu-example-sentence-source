@@ -1,5 +1,7 @@
 # 龙舞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/longwu.md)
+
 <p><span class="chinese">我也喜欢看舞龙舞狮子。</span><span class="english">And I like the dragon and lion dances, too.</span></p>
 
 <p><span class="chinese">在澳门，龙舞和狮舞营造了新年的气氛。</span><span class="english">Dragon and lion dances create a festive spirit in Macao.</span></p>

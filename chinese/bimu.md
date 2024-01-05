@@ -1,5 +1,7 @@
 # 闭幕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bimu.md)
+
 <p><span class="chinese">大会胜利闭幕。</span><span class="english">The conference has concluded successfully.</span></p>
 
 <p><span class="chinese">为期三天的中央经济工作会议周日在北京闭幕。</span><span class="english">The 3-day Central Economic Working Conference ended at Beijing.</span></p>

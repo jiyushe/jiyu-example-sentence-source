@@ -1,5 +1,7 @@
 # impelling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impelling.md)
+
 <p><span class="chinese">如何将对效率的激励作用体制化、恒长化?。</span><span class="english">How to systematize the impelling effect of efficiency?</span></p>
 
 <p><span class="chinese">注重人才队伍的建设，建立激励机制，努力开拓市场等措施。</span><span class="english">Attaching importance to building up a talent team for opening up market by impelling system.</span></p>

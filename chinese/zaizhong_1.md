@@ -1,5 +1,7 @@
 # 载重
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaizhong_1.md)
+
 <p><span class="chinese">水的载重密度为1025。</span><span class="english">The load density of water 1025.</span></p>
 
 <p><span class="chinese">载重汽车声整夜使人不得安宁。</span><span class="english">Heavy trucks alarmed one all night.</span></p>

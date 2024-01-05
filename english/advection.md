@@ -1,5 +1,7 @@
 # advection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/advection.md)
+
 <p><span class="chinese">这种雾叫平流雾。</span><span class="english">Such fog is called advection fog.</span></p>
 
 <p><span class="chinese">暖平流及非绝热加热可使反气旋曲率加强。</span><span class="english">The warm advection and diabatic heating can increase the curvature.</span></p>

@@ -1,5 +1,7 @@
 # plait
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plait.md)
+
 <p><span class="chinese">她的头发梳成辫子。</span><span class="english">A plait of braided hair.</span></p>
 
 <p><span class="chinese">玛丽的头发扎成了小辫。</span><span class="english">Mary wears her hair in plait.</span></p>

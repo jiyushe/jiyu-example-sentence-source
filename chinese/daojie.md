@@ -1,5 +1,7 @@
 # 倒睫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daojie.md)
+
 <p><span class="chinese">割双眼皮和倒睫的区别?。</span><span class="english">Cut double-fold eyelid medicable trichiasis.</span></p>
 
 <p><span class="chinese">这种手术还可以有效地治疗倒睫。</span><span class="english">This kind of operation can cure trichiasis effectively too.</span></p>

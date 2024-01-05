@@ -1,5 +1,7 @@
 # 构建
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/goujian_1.md)
+
 <p><span class="chinese">构建和集成。</span><span class="english">Builds and integration.</span></p>
 
 <p><span class="chinese">架设自动化构建。</span><span class="english">Setup automated builds.</span></p>

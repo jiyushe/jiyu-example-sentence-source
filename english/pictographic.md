@@ -1,5 +1,7 @@
 # pictographic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pictographic.md)
+
 <p><span class="chinese">这也是个象形字。</span><span class="english">It is a pictographic character too.</span></p>
 
 <p><span class="chinese">早期的书写实际上是象形文字。</span><span class="english">Early writing was pictographic in nature.</span></p>

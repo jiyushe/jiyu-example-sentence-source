@@ -1,5 +1,7 @@
 # acquiesce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acquiesce.md)
+
 <p><span class="chinese">伊丽莎白不做声了，可是她心里依旧不敢赞同。</span><span class="english">Elizabeth said no more -- but her mind could not acquiesce.</span></p>
 
 <p><span class="chinese">伊丽莎白不做声了，可是她心里依旧不敢赞同。</span><span class="english">Elizabeth said no more -- but her mind could not  acquiesce.</span></p>

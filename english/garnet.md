@@ -1,5 +1,7 @@
 # garnet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/garnet.md)
+
 <p><span class="chinese">深邃深厚的石榴红光彩。</span><span class="english">A deep garnet color.</span></p>
 
 <p><span class="chinese">一种含铁的黑色尖晶石。</span><span class="english">A black variety of garnet.</span></p>

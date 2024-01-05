@@ -1,5 +1,7 @@
 # 蚁巢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yichao.md)
+
 <p><span class="chinese">尤其是亚洲，布满了这种蚁巢。</span><span class="english">Asia, in particular, is full of them.</span></p>
 
 <p><span class="chinese">村中红火蚁蚁巢散存。</span><span class="english">The nest of RIFA scattered in the village.</span></p>

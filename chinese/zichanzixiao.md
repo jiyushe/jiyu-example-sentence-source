@@ -1,5 +1,7 @@
 # 自产自销
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zichanzixiao.md)
+
 <p><span class="chinese">本店有着自产自销，专来批发、零售。</span><span class="english">Shop has a homegrown, designed to wholesale, retail.</span></p>
 
 <p><span class="chinese">自产自销，减少中间环节，价格更优惠。</span><span class="english">Homegrown, reduce intermediate links, the price is more favorable.</span></p>

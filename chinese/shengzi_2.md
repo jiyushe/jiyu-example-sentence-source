@@ -1,5 +1,7 @@
 # 生字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengzi_2.md)
+
 <p><span class="chinese">复习语文生字。</span><span class="english">Review the Chinese words.</span></p>
 
 <p><span class="chinese">我不能吸收这麽多生字。</span><span class="english">I cannot absorb so many new words.</span></p>

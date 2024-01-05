@@ -1,5 +1,7 @@
 # 叫唤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaohuan_1.md)
+
 <p><span class="chinese">他叫唤着狗。</span><span class="english">He called to the dog.</span></p>
 
 <p><span class="chinese">还有那杜鹃的第一声忧郁叫唤。</span><span class="english">And the first cuckoo's melancholy cry.</span></p>

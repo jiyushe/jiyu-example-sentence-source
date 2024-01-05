@@ -1,5 +1,7 @@
 # leftism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leftism.md)
+
 <p><span class="chinese">我们大大的低估了这项工作的艰巨性，犯了“左”倾冒进的错误。</span><span class="english">We undervalued this work's difficulty seriously, and this was a leftism fault.</span></p>
 
 <p><span class="chinese">他注意到，胡在讲话中没有再提及党内要警惕左的思潮之类的话。</span><span class="english">Mr Hu, he noted, had omitted the party's usual warning about the need to prevent leftism.</span></p>

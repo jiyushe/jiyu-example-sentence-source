@@ -1,5 +1,7 @@
 # odorant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/odorant.md)
+
 <p><span class="chinese">结果青蛙卵的表面被布满了蚊子的嗅觉感受器。</span><span class="english">As a result, the surface of the egg is covered with the mosquito odorant receptors.</span></p>
 
 <p><span class="chinese">恶臭污染源污染物排放量的确定是一个难题。</span><span class="english">The determination of odorant emission from an odor pollution source is a difficult problem.</span></p>

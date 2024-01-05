@@ -1,5 +1,7 @@
 # dolly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dolly.md)
+
 <p><span class="chinese">多利是头克隆羊。</span><span class="english">Dolly is a clone.</span></p>
 
 <p><span class="chinese">这台洗矿装置太旧了。</span><span class="english">The dolly is very old.</span></p>

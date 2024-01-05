@@ -1,5 +1,7 @@
 # 遮阳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zheyang_1.md)
+
 <p><span class="chinese">洛杉矶市自2008年开始使用遮阳球。</span><span class="english">The city began using shade balls in 2008.</span></p>
 
 <p><span class="chinese">黑色遮阳网，可完全阻挡阳光。</span><span class="english">Black out shade will completely block the sun.</span></p>

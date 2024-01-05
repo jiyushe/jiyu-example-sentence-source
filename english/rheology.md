@@ -1,5 +1,7 @@
 # rheology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rheology.md)
+
 <p><span class="chinese">它有较好的流变性和触变性。</span><span class="english">It has good rheology and thixotropy.</span></p>
 
 <p><span class="chinese">进行疗效、血液流变学变化及不良反应比较。</span><span class="english">The efficacy, blood rheology and adverse reaction were compared.</span></p>

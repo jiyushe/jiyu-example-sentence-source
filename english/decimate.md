@@ -1,5 +1,7 @@
 # decimate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decimate.md)
+
 <p><span class="chinese">小甲虫如何毁了黄石公园？</span><span class="english">How a Tiny Beetle Could Decimate Yellowstone</span></p>
 
 <p><span class="chinese">她强大的武器装备可以轻易地让任何和她遭遇的护航舰队灰飞烟灭。</span><span class="english">Her range of weaponry could easily decimate any convoy she encountered.</span></p>

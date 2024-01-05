@@ -1,5 +1,7 @@
 # bias
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bias.md)
+
 <p><span class="chinese">它不偏袒任何一方。</span><span class="english">It speaks without bias.</span></p>
 
 <p><span class="chinese">它存在着偏见。</span><span class="english">So there is a bias there.</span></p>

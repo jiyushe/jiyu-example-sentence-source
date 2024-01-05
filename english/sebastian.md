@@ -1,5 +1,7 @@
 # sebastian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sebastian.md)
+
 <p><span class="chinese">不要再叫我塞巴斯蒂安·海弗了，好吗?。</span><span class="english">I don't go by Sebastian Haff anymore, okay?</span></p>
 
 <p><span class="chinese">我的名字是赛巴斯提安，曾做过一份关于您的报告。</span><span class="english">My name is Sebastian and I did a report on you.</span></p>

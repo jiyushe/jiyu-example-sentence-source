@@ -1,5 +1,7 @@
 # 甜水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianshui.md)
+
 <p><span class="chinese">你毒害了我的甜水。</span><span class="english">You poisoned my sweet water.</span></p>
 
 <p><span class="chinese">咸水里也不能发出甜水来。</span><span class="english">No more can salt water yield fresh.</span></p>

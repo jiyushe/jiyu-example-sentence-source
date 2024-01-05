@@ -1,5 +1,7 @@
 # homeowner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homeowner.md)
+
 <p><span class="chinese">每家户主都必须同意协议接受审查。</span><span class="english">Every homeowner must agree for the deal to go through.</span></p>
 
 <p><span class="chinese">在这种情况下，无论你和屋主受惠。</span><span class="english">In this situation , both you and the homeowner benefit.</span></p>

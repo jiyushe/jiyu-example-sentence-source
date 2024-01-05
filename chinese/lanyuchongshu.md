@@ -1,5 +1,7 @@
 # 滥竽充数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lanyuchongshu.md)
+
 <p><span class="chinese">他是个滥竽充数的演员。</span><span class="english">He is a an actor.</span></p>
 
 <p><span class="chinese">你只是在滥竽充数么？</span><span class="english">Am I just making up numbers?</span></p>

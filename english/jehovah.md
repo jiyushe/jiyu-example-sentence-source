@@ -1,5 +1,7 @@
 # jehovah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jehovah.md)
+
 <p><span class="chinese">耶和华的名显示祂是立约的神。</span><span class="english">The name of Jehovah was so covenantal.</span></p>
 
 <p><span class="chinese">他呼求上帝，称祂为「耶和华我的神啊！」</span><span class="english">He called upon God as Jehovah my Elohim !</span></p>

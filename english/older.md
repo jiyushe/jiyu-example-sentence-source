@@ -1,5 +1,7 @@
 # older
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/older.md)
+
 <p><span class="chinese">越老越聪明。</span><span class="english">Older and wiser.</span></p>
 
 <p><span class="chinese">他的长姐。</span><span class="english">His older sister.</span></p>

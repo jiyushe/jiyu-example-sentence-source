@@ -1,5 +1,7 @@
 # 席地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xidi.md)
+
 <p><span class="chinese">印度的露天教室，小学生席地上课。</span><span class="english">Pupils sit on the ground in an open-air classroom in India.</span></p>
 
 <p><span class="chinese">夜晚来临时，侏儒和他的马双双席地而眠。</span><span class="english">When night fell, the dwarf and his horse slept on the grass.</span></p>

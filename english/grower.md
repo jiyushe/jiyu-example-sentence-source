@@ -1,5 +1,7 @@
 # grower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grower.md)
+
 <p><span class="chinese">菇农是如何确定消毒剂的浓度的？</span><span class="english">How does grower determine sanitizer levels?</span></p>
 
 <p><span class="chinese">梅家坞的茶农也是很有福的。</span><span class="english">A tea grower in Meijiawu is all blessed as well.</span></p>

@@ -1,5 +1,7 @@
 # multimode
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multimode.md)
+
 <p><span class="chinese">多模无线网络。</span><span class="english">Multimode Wireless Networks.</span></p>
 
 <p><span class="chinese">多模妈妈走出芙蓉阁，遇见了正回来的丹丝兰。</span><span class="english">Multimode mom out of lotus cabinet met is back, DanSi aram.</span></p>

@@ -1,5 +1,7 @@
 # 声浪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenglang.md)
+
 <p><span class="chinese">我们的周遭都是荆棘与嘈杂声浪。</span><span class="english">All about us is noise and bramble.</span></p>
 
 <p><span class="chinese">来往车辆嘈杂的声浪使人头痛。</span><span class="english">The clamour of the heavy traffic gave you a headache.</span></p>

@@ -1,5 +1,7 @@
 # stt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stt.md)
+
 <p><span class="chinese">孔子睡觉不像死尸那样僵直，家居不像做客那样端坐。</span><span class="english">He would not sleep like a corpse, nor stt like a guest.</span></p>
 
 <p><span class="chinese">这些神经细胞是束状脊髓神经的一部分，称为脊髓丘脑系统，或STT。</span><span class="english">These neurons are part of a bundle of spinal neurons called the spinothalamic tract, or STT.</span></p>

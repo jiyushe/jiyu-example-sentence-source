@@ -1,5 +1,7 @@
 # reims
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reims.md)
+
 <p><span class="chinese">基于这两个原因，我决定去法国兰斯管理学院学习MBA课程。</span><span class="english">With these two motivations, I decided to do an MBA in France but at Reims Management School.</span></p>
 
 <p><span class="chinese">那对新婚夫妇被带到前。那张事先获兰斯大主祝福。但储君比玛丽。</span><span class="english">The young couple was conducted to their bed, which had been blessed by the Archbishop of Reims.</span></p>

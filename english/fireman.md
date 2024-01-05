@@ -1,5 +1,7 @@
 # fireman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fireman.md)
+
 <p><span class="chinese">是的，我是消防队员。</span><span class="english">Yes,I'm a fireman.</span></p>
 
 <p><span class="chinese">马克的父亲是一名消防队员。</span><span class="english">Mark's father is a fireman.</span></p>

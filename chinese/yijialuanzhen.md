@@ -1,5 +1,7 @@
 # 以假乱真
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yijialuanzhen.md)
+
 <p><span class="chinese">但对于一位眼睛不大好的老妇人来说，已经足够以假乱真了。</span><span class="english">But for an old woman with bad eyes, it would do.</span></p>
 
 <p><span class="chinese">其形状和颜色与人眼十分接近，可以以假乱真。</span><span class="english">The shape and the color make the "eye-stickers" look realistic.</span></p>

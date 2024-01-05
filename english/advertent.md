@@ -1,5 +1,7 @@
 # advertent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/advertent.md)
+
 <p><span class="chinese">郑樵是中国史上很值得注意的人。</span><span class="english">Zheng Qiao is a worthwhile and advertent person in Chinese history.</span></p>
 
 <p><span class="chinese">也要留意占据垄断地位的国际矿山，借势再“拿一把”。</span><span class="english">Also want advertent monopoly international mining, self-producing again "a".</span></p>

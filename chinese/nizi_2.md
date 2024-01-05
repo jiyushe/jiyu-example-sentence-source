@@ -1,5 +1,7 @@
 # 逆子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nizi_2.md)
+
 <p><span class="chinese">他宣布与他那逆子断绝关系。</span><span class="english">He renounced his wicked son.</span></p>
 
 <p><span class="chinese">叶老爷子相信游击队个个都是英雄好汉，不会像逆子叶凌青一样。</span><span class="english">He believes everyone of the guerrillas are heroes, not like a key Ye Lingqing.</span></p>

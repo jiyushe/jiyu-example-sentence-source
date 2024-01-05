@@ -1,5 +1,7 @@
 # feral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feral.md)
+
 <p><span class="chinese">一株野生的甜豌豆攀附而上，倚靠着它。</span><span class="english">A feral sweet pea clings to it for support.</span></p>
 
 <p><span class="chinese">一只野猪在纽约州的一处临时畜栏里。</span><span class="english">A feral hog in a holding pen in New York state.</span></p>

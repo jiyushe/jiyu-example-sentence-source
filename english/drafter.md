@@ -1,5 +1,7 @@
 # drafter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drafter.md)
+
 <p><span class="chinese">大学毕业后，乔丹被公牛队选中。</span><span class="english">After college, Michael was drafter by the Chicago Bulls.</span></p>
 
 <p><span class="chinese">系该标准的提出单位和起草单位。</span><span class="english">So our company is the sponsor and drafter of this standard.</span></p>

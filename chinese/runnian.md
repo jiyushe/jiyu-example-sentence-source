@@ -1,5 +1,7 @@
 # 闰年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/runnian.md)
+
 <p><span class="chinese">1960年是一个闰年，我还只是一个有点儿笨拙和莽撞的少女，还在为彼得潘的故事所吸引。</span><span class="english">It was a leap year. 1960.</span></p>
 
 <p><span class="chinese">为什么要有闰年？</span><span class="english">Why do we have a leap year?</span></p>

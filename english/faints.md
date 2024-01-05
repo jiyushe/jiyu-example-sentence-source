@@ -1,5 +1,7 @@
 # faints
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faints.md)
+
 <p><span class="chinese">最后，弗兰妮晕倒了。</span><span class="english">Eventually Franny faints.</span></p>
 
 <p><span class="chinese">谁赌他"晕倒"?</span><span class="english">Who had money on "faints"?</span></p>

@@ -1,5 +1,7 @@
 # shotgun
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shotgun.md)
+
 <p><span class="chinese">嘿，一起吧，我有猎枪。</span><span class="english">Hey. I got shotgun.</span></p>
 
 <p><span class="chinese">可能导致奉子成婚。</span><span class="english">It might lead to a shotgun wedding.</span></p>

@@ -1,5 +1,7 @@
 # midwife
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/midwife.md)
+
 <p><span class="chinese">那个老接生婆皱了皱眉头。</span><span class="english">The midwife frowned.</span></p>
 
 <p><span class="chinese">那位助产护士给她妹妹接生。</span><span class="english">The midwife delivered her sister.</span></p>

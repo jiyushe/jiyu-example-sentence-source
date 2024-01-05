@@ -1,5 +1,7 @@
 # objectivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/objectivity.md)
+
 <p><span class="chinese">客观真理的相反就是致命。</span><span class="english">Objectivity is the opposite of fatality.</span></p>
 
 <p><span class="chinese">它反对客观性</span><span class="english">It rejects the very concept of objectivity.</span></p>

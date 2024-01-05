@@ -1,5 +1,7 @@
 # dilute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dilute.md)
+
 <p><span class="chinese">水能使酒变淡。</span><span class="english">The water will dilute the wine.</span></p>
 
 <p><span class="chinese">你们会有非常稀的溶液。</span><span class="english">Where you have just very dilute solutions.</span></p>

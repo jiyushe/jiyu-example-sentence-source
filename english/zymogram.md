@@ -1,5 +1,7 @@
 # zymogram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zymogram.md)
+
 <p><span class="chinese">南瓜属蔬菜作物亲缘关系同工酶分析。</span><span class="english">Zymogram analyses on the relationship of Cucurbita crops.</span></p>
 
 <p><span class="chinese">香蕉与大蕉叶片中的过氧化物酶同工酶的酶谱类型不同。</span><span class="english">The zymogram pattern of isozymesof peroxidase were different between AAA and ABB bananas.</span></p>

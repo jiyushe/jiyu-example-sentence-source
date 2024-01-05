@@ -1,5 +1,7 @@
 # 旁落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pangluo.md)
+
 <p><span class="chinese">当他们让我在后面的一张小桌旁落座时，我觉得受到了莫大的侮辱。</span><span class="english">I felt most insulted when they made me sit at a little table at the back.</span></p>
 
 <p><span class="chinese">即便已年届36岁，舒马赫尚不准备让其王冠旁落。</span><span class="english">Even at the age of 36, Schumacher is not ready to allow his crown to slip.</span></p>

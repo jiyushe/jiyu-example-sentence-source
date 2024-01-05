@@ -1,5 +1,7 @@
 # anqing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anqing.md)
+
 <p><span class="chinese">传真至各分区办事处，在安庆和滁州。</span><span class="english">Fax it to the branch offices in Anqing and Chuzhou.</span></p>
 
 <p><span class="chinese">安徽省安庆市望江县都包括哪些地方?。</span><span class="english">Anqing City, Anhui Province, where Wangjiang are included?</span></p>

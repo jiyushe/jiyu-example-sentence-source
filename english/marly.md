@@ -1,5 +1,7 @@
 # marly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marly.md)
+
 <p><span class="chinese">在他生病期间许多同志去看望了他。</span><span class="english">Marly comrades went to see him during his illness.</span></p>
 
 <p><span class="chinese">达里玛尔黎-乘坐像亲的，有信心与您的滑雪板。</span><span class="english">By Daryl Marly – Ride like the pro's, be confident with your snowboarding.</span></p>

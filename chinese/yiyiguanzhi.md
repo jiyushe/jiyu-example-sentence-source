@@ -1,5 +1,7 @@
 # 一以贯之
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyiguanzhi.md)
+
 <p><span class="chinese">以色列一以贯之地是美国的友邦。</span><span class="english">Israel has always been pro-American.</span></p>
 
 <p><span class="chinese">这种联系又是在什么样的思维路径上一以贯之的。</span><span class="english">This link is what kind of thinking in a consistent path of.</span></p>

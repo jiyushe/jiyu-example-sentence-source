@@ -1,5 +1,7 @@
 # 放手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangshou.md)
+
 <p><span class="chinese">所以，放手去做吧，让自己试一试。</span><span class="english">So go ahead, give them a try.</span></p>
 
 <p><span class="chinese">你得知道自己应该在何时选择放手。</span><span class="english">You have to know when to quit.</span></p>

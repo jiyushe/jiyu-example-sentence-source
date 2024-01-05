@@ -1,5 +1,7 @@
 # gloriously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gloriously.md)
+
 <p><span class="chinese">济慈所作之诗虽简洁却不失为壮丽。</span><span class="english">Keats sang briefly but gloriously.</span></p>
 
 <p><span class="chinese">天空又一声巨响，心锁又闪亮退场！</span><span class="english">I entered gloriously with blare in the sky.</span></p>

@@ -1,5 +1,7 @@
 # uproariously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uproariously.md)
+
 <p><span class="chinese">然后，当然，他又哈哈大笑。</span><span class="english">And then, of course, he laughs uproariously.</span></p>
 
 <p><span class="chinese">大家都哈哈大笑，只有一个女孩不笑。</span><span class="english">Everybody, but one girl, laughed uproariously.</span></p>

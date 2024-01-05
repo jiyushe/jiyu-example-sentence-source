@@ -1,5 +1,7 @@
 # 困扰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kunrao.md)
+
 <p><span class="chinese">我的感冒仍然困扰着我。</span><span class="english">My cold still bothers me.</span></p>
 
 <p><span class="chinese">但没有哪个国家免遭结核的困扰。</span><span class="english">But no country is TB-free.</span></p>

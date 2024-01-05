@@ -1,5 +1,7 @@
 # unprepared
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unprepared.md)
+
 <p><span class="chinese">随后趁其不备关上了房门。</span><span class="english">Then while the unprepared shut the door.</span></p>
 
 <p><span class="chinese">公司和政府对在线攻击措手不及。</span><span class="english">Companies and the government are unprepared.</span></p>

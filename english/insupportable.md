@@ -1,5 +1,7 @@
 # insupportable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insupportable.md)
+
 <p><span class="chinese">事实上，这是无支持的。</span><span class="english">In fact, it is insupportable.</span></p>
 
 <p><span class="chinese">这个概念是无根据的。</span><span class="english">This conception turns out to be insupportable.</span></p>

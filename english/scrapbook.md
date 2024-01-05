@@ -1,5 +1,7 @@
 # scrapbook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scrapbook.md)
+
 <p><span class="chinese">一起做剪贴簿.</span><span class="english">Scrapbook together.</span></p>
 
 <p><span class="chinese">想要一个简单的方法来签名簿？</span><span class="english">Want an easy way to scrapbook?</span></p>

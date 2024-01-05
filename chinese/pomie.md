@@ -1,5 +1,7 @@
 # 破灭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pomie.md)
+
 <p><span class="chinese">他们的一切希望都破灭了。</span><span class="english">All their hopes were destroyed.</span></p>
 
 <p><span class="chinese">全家人的梦想破灭了。</span><span class="english">The family's dreams were dashed.</span></p>

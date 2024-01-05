@@ -1,5 +1,7 @@
 # fudge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fudge.md)
+
 <p><span class="chinese">你喜欢奶油软糖吗？</span><span class="english">Do you like fudge?</span></p>
 
 <p><span class="chinese">我找到数组中的第i个元素。</span><span class="english">Oh fudge knuckle. OK.</span></p>

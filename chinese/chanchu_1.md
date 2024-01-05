@@ -1,5 +1,7 @@
 # 铲除
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanchu_1.md)
+
 <p><span class="chinese">但它们必须要被铲除么？</span><span class="english">Must it be weeded out?</span></p>
 
 <p><span class="chinese">铲除移民们的魔法世界。</span><span class="english">Ridding the magic world of immigrants.</span></p>

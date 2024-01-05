@@ -1,5 +1,7 @@
 # 利剑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lijian.md)
+
 <p><span class="chinese">恶语比利剑更伤人。</span><span class="english">Words cut more than swords.</span></p>
 
 <p><span class="chinese">我是烈火中的利剑，干柴旁的守卫。</span><span class="english">I am the watcher near the dry wood.</span></p>

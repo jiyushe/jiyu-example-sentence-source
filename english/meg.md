@@ -1,5 +1,7 @@
 # meg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meg.md)
+
 <p><span class="chinese">你感冒好点没有，梅格？</span><span class="english">How is your cold, Meg?</span></p>
 
 <p><span class="chinese">梅格姑母一直很勇敢。</span><span class="english">Auntie Meg has been very brave.</span></p>

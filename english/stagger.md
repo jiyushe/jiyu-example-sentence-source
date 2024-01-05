@@ -1,5 +1,7 @@
 # stagger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stagger.md)
+
 <p><span class="chinese">他听到这一消息两腿摇拔起来。</span><span class="english">He gave a stagger on hearing the news.</span></p>
 
 <p><span class="chinese">这么重的担子，大象担着也得摇晃。</span><span class="english">Such a heavy load would stagger an elephant.</span></p>

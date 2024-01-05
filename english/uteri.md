@@ -1,5 +1,7 @@
 # uteri
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uteri.md)
+
 <p><span class="chinese">但我知道这是永远不会子宫有另一代替。</span><span class="english">But I know that it will never be uteri have another instead.</span></p>
 
 <p><span class="chinese">但我知道它永远不会是子宫有另一个相反。</span><span class="english">But I know that it will never be uteri have another instead.</span></p>

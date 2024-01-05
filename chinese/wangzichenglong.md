@@ -1,5 +1,7 @@
 # 望子成龙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangzichenglong.md)
+
 <p><span class="chinese">这背后，是父母望子成龙的心理。</span><span class="english">This implies that the parents hopeful psychology.</span></p>
 
 <p><span class="chinese">可怜天下父母心，家长们望子成龙也是人之常情。</span><span class="english">Poor parental love, the parents Succeed is also a human.</span></p>

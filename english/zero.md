@@ -1,5 +1,7 @@
 # zero
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zero.md)
+
 <p><span class="chinese">他哑口无言</span><span class="english">Nothing. Zero.</span></p>
 
 <p><span class="chinese">只要加拨0就可以了。</span><span class="english">Just dial zero.</span></p>

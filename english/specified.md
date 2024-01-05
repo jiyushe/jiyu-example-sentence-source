@@ -1,5 +1,7 @@
 # specified
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/specified.md)
+
 <p><span class="chinese">按指定时间间隔重复发生。</span><span class="english">Recur at a specified time interval.</span></p>
 
 <p><span class="chinese">可指定安全岛护柱的数目。</span><span class="english">Number of bollards can be specified.</span></p>

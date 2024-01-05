@@ -1,5 +1,7 @@
 # 香港特别行政区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianggangtebiexingzhengqu.md)
+
 <p><span class="chinese">祝中华人民共和国和香港特别行政区区旗上的紫荆花开得更艳！</span><span class="english">I wish PRC and the HKSAR flag Bauhinia flowers on the more-yan!</span></p>
 
 <p><span class="chinese">劳工处负责执行香港特别行政区的劳工法例。</span><span class="english">The Labour Department administers labour laws in force in the HKSAR.</span></p>

@@ -1,5 +1,7 @@
 # 嗜杀成性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishachengxing.md)
+
 <p><span class="chinese">那将军是个嗜杀成性的人。</span><span class="english">The general is a real butcher.</span></p>
 
 <p><span class="chinese">他最后说，严惩这样一个嗜杀成性的人对社会是有益的。</span><span class="english">It would be beneficial to society to punish such a cruel being, he concluded.</span></p>

@@ -1,5 +1,7 @@
 # fork 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fork.md)
+
 <p><span class="chinese">我的叉子掉了。</span><span class="english">I dropped my fork.</span></p>
 
 <p><span class="chinese">他们在分岔处离别。</span><span class="english">They parted at the fork.</span></p>

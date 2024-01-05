@@ -1,5 +1,7 @@
 # 高视阔步
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaoshikuobu.md)
+
 <p><span class="chinese">她昂著头，高视阔步走出了房间。</span><span class="english">She stalked out of the room, her head high.</span></p>
 
 <p><span class="chinese">我在高视阔步，在微笑，在爆发能量。</span><span class="english">I was strutting, I was smiling, I was bursting with energy.</span></p>

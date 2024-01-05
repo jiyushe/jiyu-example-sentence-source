@@ -1,5 +1,7 @@
 # extracellular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extracellular.md)
+
 <p><span class="chinese">细胞在细胞外基质中就是那个样子</span><span class="english">That's how cells exist in extracellular matrix.</span></p>
 
 <p><span class="chinese">该菌种所产的NK是一种胞外酶。</span><span class="english">NK produced by this strain was an extracellular enzyme.</span></p>

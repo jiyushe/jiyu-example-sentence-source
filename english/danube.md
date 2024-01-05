@@ -1,5 +1,7 @@
 # danube
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/danube.md)
+
 <p><span class="chinese">让他们想到了蓝色多瑙河这首名曲！</span><span class="english">make them think of The Blue Danube waltz!</span></p>
 
 <p><span class="chinese">我现在到了多瑙森根，这里是多瑙河的源头。</span><span class="english">I'm now in Donaueschingen, the source of the Danube.</span></p>

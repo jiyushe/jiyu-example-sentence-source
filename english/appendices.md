@@ -1,5 +1,7 @@
 # appendices
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appendices.md)
+
 <p><span class="chinese">书中还有两个简短的附录。</span><span class="english">There are two short appendices.</span></p>
 
 <p><span class="chinese">这本辞书有几项附录。</span><span class="english">This dictionary has several appendices.</span></p>

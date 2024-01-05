@@ -1,5 +1,7 @@
 # 香樟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangzhang.md)
+
 <p><span class="chinese">妈妈在衣橱里放上香樟做成的木球。</span><span class="english">Mother put camphor balls in the wardrobe.</span></p>
 
 <p><span class="chinese">香樟华苹的特色理疗，主要通过水疗法来放松您的心情。</span><span class="english">Kayumanis signature treatment is a water flow technique which relaxing your mind.</span></p>

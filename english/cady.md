@@ -1,5 +1,7 @@
 # cady
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cady.md)
+
 <p><span class="chinese">认识那个叫凯蒂的女孩吗？</span><span class="english">You know that girl Cady?</span></p>
 
 <p><span class="chinese">噢，上帝，他瞧上去真可爱好，集中注意力，凯蒂。</span><span class="english">Oh, God, he looked so cute. OK, focus, Cady.</span></p>

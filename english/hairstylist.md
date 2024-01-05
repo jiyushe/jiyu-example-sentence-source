@@ -1,5 +1,7 @@
 # hairstylist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hairstylist.md)
+
 <p><span class="chinese">有预约发型师的吗？</span><span class="english">An appointment with a hairstylist?</span></p>
 
 <p><span class="chinese">这个发型师的手艺很一般，不过至少他剪得很快。</span><span class="english">The hairstylist was doing a mediocre job, but at least he was quick.</span></p>

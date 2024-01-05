@@ -1,5 +1,7 @@
 # 大吵大闹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dachaodanao.md)
+
 <p><span class="chinese">大吵大闹之后他们又扭打在一起。</span><span class="english">They scuffled after quarrelling.</span></p>
 
 <p><span class="chinese">请不要在公共场合大吵大闹出洋相。</span><span class="english">Please don't make a scene in public places.</span></p>

@@ -1,5 +1,7 @@
 # 大刀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dadao.md)
+
 <p><span class="chinese">关公面前耍大刀。</span><span class="english">Play a big knife before GuanGong.</span></p>
 
 <p><span class="chinese">大刀向鬼子们的头上砍去！</span><span class="english">Chop Japanese head with broadsword!</span></p>

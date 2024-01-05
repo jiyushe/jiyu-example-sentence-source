@@ -1,5 +1,7 @@
 # virginian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/virginian.md)
+
 <p><span class="chinese">我在弗吉尼亚号上干什么？</span><span class="english">What was I doing on the Virginian ?</span></p>
 
 <p><span class="chinese">看西弗吉尼亚的矿难照片。</span><span class="english">See photos from the West Virginian mining tragedy.</span></p>

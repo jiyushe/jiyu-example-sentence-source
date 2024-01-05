@@ -1,5 +1,7 @@
 # 剪报
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianbao_1.md)
+
 <p><span class="chinese">你看了那些新闻剪报了吗？</span><span class="english">Did you read the news clips?</span></p>
 
 <p><span class="chinese">我是从一张老旧的剪报中读到这个的。</span><span class="english">I had read that in an old newspaper clipping.</span></p>

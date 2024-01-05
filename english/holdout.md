@@ -1,5 +1,7 @@
 # holdout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/holdout.md)
+
 <p><span class="chinese">与三星相比，苹果没有屈服。</span><span class="english">In contrast to Samsung, Apple is a holdout.</span></p>
 
 <p><span class="chinese">未加入的国家包括安哥拉、埃及、以色列、缅甸、朝鲜、索马里和叙利亚。</span><span class="english">The remaining holdout nations are Angola, Egypt, Israel, Myanmar, North Korea, Somalia and Syria.</span></p>

@@ -1,5 +1,7 @@
 # favorable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/favorable.md)
+
 <p><span class="chinese">我们知道。</span><span class="english">We know it is favorable.</span></p>
 
 <p><span class="chinese">这本书赢得了好评。</span><span class="english">The book received a favorable review.</span></p>

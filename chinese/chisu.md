@@ -1,5 +1,7 @@
 # 吃素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chisu.md)
+
 <p><span class="chinese">紧急呼救，开始吃素，加入环保，拯救地球！</span><span class="english">Be Veg. Go Green. Save the planet.</span></p>
 
 <p><span class="chinese">我们全家人也因为吃素而更健康。</span><span class="english">And my family is all the healthier for it.</span></p>

@@ -1,5 +1,7 @@
 # solanum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solanum.md)
+
 <p><span class="chinese">结果表明，野生龙葵果含有丰富的营养成分。</span><span class="english">The result suggested that Solanum nigrum fruit was rich in nutrition.</span></p>
 
 <p><span class="chinese">本文介绍了中国龙葵的资源概况及开发前景。</span><span class="english">This article introduces the general conditions of solanum nigrum in China.</span></p>

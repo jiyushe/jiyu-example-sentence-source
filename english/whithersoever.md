@@ -1,5 +1,7 @@
 # whithersoever
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whithersoever.md)
+
 <p><span class="chinese">大卫无论往哪里去，耶和华都使他得胜。</span><span class="english">And the LORD preserved David whithersoever he went.</span></p>
 
 <p><span class="chinese">大卫无论往哪里去，耶和华都使他得胜。</span><span class="english">Thus the LORD preserved David whithersoever he went.</span></p>

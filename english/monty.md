@@ -1,5 +1,7 @@
 # monty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monty.md)
+
 <p><span class="chinese">蒙蒂说，“你好，肖娜。</span><span class="english">Monty says, "Hello, Shawna."</span></p>
 
 <p><span class="chinese">布朗因此称孙子蒙特为“母乳兄弟”。</span><span class="english">Browne started calling Monty his "milk brother."</span></p>

@@ -1,5 +1,7 @@
 # deportment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deportment.md)
+
 <p><span class="chinese">他的举止很有风度。</span><span class="english">His deportment is beautiful.</span></p>
 
 <p><span class="chinese">器宇轩昂。</span><span class="english">One's deportment is dignified.</span></p>

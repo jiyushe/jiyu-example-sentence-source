@@ -1,5 +1,7 @@
 # playmaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/playmaker.md)
+
 <p><span class="chinese">你就是这儿的主攻队员，凯尔茜。</span><span class="english">You’re the playmaker here, Kelsi.</span></p>
 
 <p><span class="chinese">这名球员上赛季从巴塞罗那加盟，然后被租借到了普利亚。</span><span class="english">The playmaker who joined last year from Barcellona, moved to Puglia on loan.</span></p>

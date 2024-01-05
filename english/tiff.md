@@ -1,5 +1,7 @@
 # tiff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tiff.md)
+
 <p><span class="chinese">他们平息了争执，又和好如初了。</span><span class="english">They patched up their tiff again.</span></p>
 
 <p><span class="chinese">没想到，这部无心插柳的电影竟成了我在TIFF中最喜欢的电影。</span><span class="english">To my surprise, this movie turned out to be my favorite at TIFF too.</span></p>

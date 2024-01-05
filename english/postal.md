@@ -1,5 +1,7 @@
 # postal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/postal.md)
+
 <p><span class="chinese">勿忘使用邮政编码。</span><span class="english">Remember to use postal code.</span></p>
 
 <p><span class="chinese">勿忘填写邮政编码。</span><span class="english">Remember to fill postal code.</span></p>

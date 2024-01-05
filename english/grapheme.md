@@ -1,5 +1,7 @@
 # grapheme
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grapheme.md)
+
 <p><span class="chinese">而L2P首要的任务就是字素切分。</span><span class="english">The first task of L2P is grapheme segmentation.</span></p>
 
 <p><span class="chinese">加纳的桑德兰球星阿萨莫阿·吉安加冕2010年非洲足球先生。</span><span class="english">Ghana and Sunderland grapheme Asamoah Gyan has been capped BBC African Footballer of the Year for 2010.</span></p>

@@ -1,5 +1,7 @@
 # 兽类
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoulei.md)
+
 <p><span class="chinese">我们吃兽类、禽类和鱼类的肉。</span><span class="english">We eat the flesh of animals, birds, and fish.</span></p>
 
 <p><span class="chinese">虎与猫在兽类中属于同一科。</span><span class="english">Tigers and cats belong to the same family of beasts.</span></p>

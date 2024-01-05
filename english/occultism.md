@@ -1,5 +1,7 @@
 # occultism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/occultism.md)
+
 <p><span class="chinese">他们会实践神秘主义吗？</span><span class="english">Do they practice occultism?</span></p>
 
 <p><span class="chinese">神秘学的一些系统比其它系统更理性些。</span><span class="english">Some systems of occultism are more rational than others.</span></p>

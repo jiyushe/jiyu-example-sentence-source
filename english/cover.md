@@ -1,5 +1,7 @@
 # cover 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cover.md)
+
 <p><span class="chinese">包着一个蓝皮。</span><span class="english">It has a blue cover.</span></p>
 
 <p><span class="chinese">入场费是多少钱?</span><span class="english">How much is the cover?</span></p>

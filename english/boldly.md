@@ -1,5 +1,7 @@
 # boldly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boldly.md)
+
 <p><span class="chinese">他大胆地预言。</span><span class="english">He boldly prophesied.</span></p>
 
 <p><span class="chinese">他大胆回应她的凝视。</span><span class="english">He met her gaze boldly.</span></p>

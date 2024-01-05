@@ -1,5 +1,7 @@
 # creationary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/creationary.md)
+
 <p><span class="chinese">第二种是制作性的展览。</span><span class="english">The second kind is creationary exhibition.</span></p>
 
 <p><span class="chinese">编辑工作是一项创造性的劳动。</span><span class="english">Editing work is a kind of creationary labor.</span></p>

@@ -1,5 +1,7 @@
 # alimentation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alimentation.md)
+
 <p><span class="chinese">医生建议改变我的营养习惯。</span><span class="english">The doctor has recommended changing my alimentation habits.</span></p>
 
 <p><span class="chinese">这有助于允许早期进食快速恢复正常功能。</span><span class="english">This may also allow earlier alimentation and a speedier return to normal functioning.</span></p>

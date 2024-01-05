@@ -1,5 +1,7 @@
 # rheometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rheometer.md)
+
 <p><span class="chinese">用血液流变仪测定各组大鼠的血液流变学变化。</span><span class="english">The blood changes were detected through the test of blood rheometer.</span></p>
 
 <p><span class="chinese">介绍了转矩流变仪的发展、基本原理和应用。</span><span class="english">The development, basic principle and application of torque rheometer are introduced.</span></p>

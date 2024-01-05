@@ -1,5 +1,7 @@
 # 求全
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiuquan.md)
+
 <p><span class="chinese">宁愿孤独终老，也不委屈求全。</span><span class="english">Would rather die alone, don't compromise.</span></p>
 
 <p><span class="chinese">就像是断尾求全，反反复复多少次。</span><span class="english">Like a tail perfection, repeated many times.</span></p>

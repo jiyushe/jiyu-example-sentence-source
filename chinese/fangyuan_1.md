@@ -1,5 +1,7 @@
 # 方圆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangyuan_1.md)
+
 <p><span class="chinese">那个湖方圆800里。</span><span class="english">The lake has a circumference of 800 li.</span></p>
 
 <p><span class="chinese">网络安全规矩能否成方圆?。</span><span class="english">Whether network security can be achieved by rules?</span></p>

@@ -1,5 +1,7 @@
 # scientism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scientism.md)
+
 <p><span class="chinese">但是，尼采坚决反对唯科学主义。</span><span class="english">Nevertheless, Nietzsche was firmly against Scientism.</span></p>
 
 <p><span class="chinese">科学主义是现代西方两大哲学思潮之一。</span><span class="english">Scientism is a major part of modem western philosophy.</span></p>

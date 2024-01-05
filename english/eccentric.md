@@ -1,5 +1,7 @@
 # eccentric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eccentric.md)
+
 <p><span class="chinese">那是个偏心轮。</span><span class="english">That is an eccentric wheel.</span></p>
 
 <p><span class="chinese">你如何变得带有怪癖呢？</span><span class="english">How do you become eccentric?</span></p>

@@ -1,5 +1,7 @@
 # bailout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bailout.md)
+
 <p><span class="chinese">那么摆脱困境的计划是什么呢？</span><span class="english">So what is the bailout plan?</span></p>
 
 <p><span class="chinese">你已经花费自己救急用的钱了吗？</span><span class="english">Already spent your bailout money?</span></p>

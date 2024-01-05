@@ -1,5 +1,7 @@
 # modernistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/modernistic.md)
+
 <p><span class="chinese">第二首是现代派的画风。</span><span class="english">The second is of a modernistic style.</span></p>
 
 <p><span class="chinese">所以，观念艺术首先是现代主义的。</span><span class="english">So, ideal art is modernistic above all.</span></p>

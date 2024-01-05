@@ -1,5 +1,7 @@
 # unassuming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unassuming.md)
+
 <p><span class="chinese">那个要人彬彬有礼，是一位毫不摆架子的人。</span><span class="english">That important man is very unassuming in his manner.</span></p>
 
 <p><span class="chinese">像麦道夫一样，克鲁格是一个有些缺乏个性而又很谦逊的人。</span><span class="english">Like Madoff, Kreuger was somewhat colorless and unassuming.</span></p>

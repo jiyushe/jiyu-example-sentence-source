@@ -1,5 +1,7 @@
 # arroyo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arroyo.md)
+
 <p><span class="chinese">尊敬的阿罗约总统阁下</span><span class="english">Your Excellency President Gloria Macapagal Arroyo</span></p>
 
 <p><span class="chinese">阿罗约表示，胡主席提出的建议很有见地。</span><span class="english">Arroyo expressed that President Hu's suggestions are of keen insight.</span></p>

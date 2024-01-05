@@ -1,5 +1,7 @@
 # acceptation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acceptation.md)
+
 <p><span class="chinese">就值得你接受。你知道，爱就是火</span><span class="english">And worthy of acceptation. Fire is bright</span></p>
 
 <p><span class="chinese">嫉妒和羡慕词义相隔太多?。</span><span class="english">Are jealousy and admiring acceptation be apart too much?</span></p>

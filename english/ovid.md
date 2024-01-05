@@ -1,5 +1,7 @@
 # ovid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ovid.md)
+
 <p><span class="chinese">有时，它向着天空，仿佛奥维德笔下的人物。</span><span class="english">Toward the sky at times, like the man in Ovid.</span></p>
 
 <p><span class="chinese">这句话是希腊诗人奥维德说的，他说得没错。</span><span class="english">Ovid , the Greek poet, said that, and he was right.</span></p>

@@ -1,5 +1,7 @@
 # 不会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buhui.md)
+
 <p><span class="chinese">我就是老学不会。</span><span class="english">I never can.</span></p>
 
 <p><span class="chinese">通常不会。</span><span class="english">Not usually.</span></p>

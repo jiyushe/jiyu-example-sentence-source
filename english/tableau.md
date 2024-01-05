@@ -1,5 +1,7 @@
 # tableau
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tableau.md)
+
 <p><span class="chinese">杰克凝视着这个外星球的奇怪而充满野性的动人场面。</span><span class="english">Jake stares at the strange and wild alien tableau.</span></p>
 
 <p><span class="chinese">游行队伍中包跨黑斯廷斯战役的人物造型。</span><span class="english">The procession included a tableau of the Battle of Hastings.</span></p>

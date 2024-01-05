@@ -1,5 +1,7 @@
 # 通货
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tonghuo_1.md)
+
 <p><span class="chinese">通货紧缩的威胁？</span><span class="english">The threat of deflation?</span></p>
 
 <p><span class="chinese">价格是按游戏通货计算的。</span><span class="english">The price is set in scrip.</span></p>

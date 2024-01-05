@@ -1,5 +1,7 @@
 # 春光明媚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chunguangmingmei.md)
+
 <p><span class="chinese">一个春光明媚的早晨。</span><span class="english">It's a warm spring morning.</span></p>
 
 <p><span class="chinese">今天春光明媚。</span><span class="english">Today, beautiful spring scenery.</span></p>

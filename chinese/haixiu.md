@@ -1,5 +1,7 @@
 # 害羞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haixiu.md)
+
 <p><span class="chinese">他看起来很害羞。</span><span class="english">He is so shy.</span></p>
 
 <p><span class="chinese">灰姑娘害羞的问。</span><span class="english">Cinderella shyly.</span></p>

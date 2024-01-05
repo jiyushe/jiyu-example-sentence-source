@@ -1,5 +1,7 @@
 # cruciform
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cruciform.md)
+
 <p><span class="chinese">法希扶正了自己的十字架领带夹开始往前走。</span><span class="english">Fache straightened his cruciform tie clip and began to walk.</span></p>
 
 <p><span class="chinese">航空航天。内十字形驱动器。米制系列。</span><span class="english">Aerospace Drives, Internal, Cruciform Metric Series-First Edition.</span></p>

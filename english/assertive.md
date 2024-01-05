@@ -1,5 +1,7 @@
 # assertive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assertive.md)
+
 <p><span class="chinese">你必须要非常自信、很热忱。</span><span class="english">You have to be assertive and cordial.</span></p>
 
 <p><span class="chinese">火相星座的特质使白羊座具有非常自信的自我力量。</span><span class="english">The Fire element of Aries brings assertive "I" energy.</span></p>

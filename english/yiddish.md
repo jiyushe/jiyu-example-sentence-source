@@ -1,5 +1,7 @@
 # Yiddish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yiddish.md)
+
 <p><span class="chinese">有好几个依地语词描述社交不适应。</span><span class="english">There are several Yiddish words to describe social misfits.</span></p>
 
 <p><span class="chinese">次日，我们遇上了一个说依地语的人。</span><span class="english">On the second day, we briefly meet a passenger who speaks Yiddish.</span></p>

@@ -1,5 +1,7 @@
 # 合并症
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hebingzheng.md)
+
 <p><span class="chinese">其他不太常见的合并症也有可能会发生。</span><span class="english">other less common complications may also occur.</span></p>
 
 <p><span class="chinese">结果本组75例老年患者中63例有合并症。</span><span class="english">Among the 75 old patients, 63 have complication.</span></p>

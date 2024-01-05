@@ -1,5 +1,7 @@
 # 古话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guhua_1.md)
+
 <p><span class="chinese">你们中国人有一句古话‘只知其一，不知其二’。</span><span class="english">You Chinese saying goes 'only know one, I do not know the other'.</span></p>
 
 <p><span class="chinese">亲爱的美国，有句古话叫“养蛇为患”。</span><span class="english">Dear America, There is a old saying-"Feeding and grooming the Snake".</span></p>

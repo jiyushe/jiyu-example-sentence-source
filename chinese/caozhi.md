@@ -1,5 +1,7 @@
 # 草纸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caozhi.md)
+
 <p><span class="chinese">不过我还是更喜欢草纸。</span><span class="english">But I still prefer the paper.</span></p>
 
 <p><span class="chinese">埃及人书写用薄草纸。</span><span class="english">The Egyptians wrote on papyrus.</span></p>

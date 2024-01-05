@@ -1,5 +1,7 @@
 # parched
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parched.md)
+
 <p><span class="chinese">你一定是渴死了。</span><span class="english">Yes , you must be parched.</span></p>
 
 <p><span class="chinese">干燥的天气使道路干透了。</span><span class="english">The road parched up with dry weather.</span></p>

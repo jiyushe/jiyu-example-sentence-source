@@ -1,5 +1,7 @@
 # streetcar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/streetcar.md)
+
 <p><span class="chinese">在伦敦必坐有轨电车。</span><span class="english">Streetcar is a must-ride in London.</span></p>
 
 <p><span class="chinese">有轨电车开过一站又一站。</span><span class="english">The streetcar passed one stop after another.</span></p>

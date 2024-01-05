@@ -1,5 +1,7 @@
 # mainstream
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mainstream.md)
+
 <p><span class="chinese">现在它们是主流。</span><span class="english">They are now mainstream.</span></p>
 
 <p><span class="chinese">目标是实现“绿色会计”主流化</span><span class="english">Goal to Mainstream Green Accounting</span></p>

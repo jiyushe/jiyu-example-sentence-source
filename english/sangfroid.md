@@ -1,5 +1,7 @@
 # sangfroid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sangfroid.md)
+
 <p><span class="chinese">他用完美的冷静通过了这个游戏。</span><span class="english">He played the game with perfect sangfroid.</span></p>
 
 <p><span class="chinese">他镇定地面对攻击。</span><span class="english">He faced the attack with amazing sangfroid.</span></p>

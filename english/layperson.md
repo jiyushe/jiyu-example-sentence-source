@@ -1,5 +1,7 @@
 # layperson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/layperson.md)
+
 <p><span class="chinese">几片刻她再是真正的外行。</span><span class="english">For just a few moments she was a real layperson again.</span></p>
 
 <p><span class="chinese">而事实是，在天主教会中很大一部分的普通信徒并没有读圣经的习惯！</span><span class="english">And the truth is , a big part of layperson do not read Bible!</span></p>

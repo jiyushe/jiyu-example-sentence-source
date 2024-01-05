@@ -1,5 +1,7 @@
 # danny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/danny.md)
+
 <p><span class="chinese">丹丹怎么样了？</span><span class="english">How is Danny?</span></p>
 
 <p><span class="chinese">丹丹是小学生。</span><span class="english">Danny is a pupil.</span></p>

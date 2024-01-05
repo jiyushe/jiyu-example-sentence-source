@@ -1,5 +1,7 @@
 # mobilise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mobilise.md)
+
 <p><span class="chinese">为什么他们要动员反对自己的福利呢？</span><span class="english">Why would they mobilise against their own welfare?</span></p>
 
 <p><span class="chinese">第二个共性就是动员的工具不同。</span><span class="english">The second commonality has been the tools used to mobilise dissent.</span></p>

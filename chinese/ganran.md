@@ -1,5 +1,7 @@
 # 感染
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganran.md)
+
 <p><span class="chinese">笑是感染的。</span><span class="english">It's contagious.</span></p>
 
 <p><span class="chinese">我有过衣原体感染。</span><span class="english">I had had chlamydia.</span></p>

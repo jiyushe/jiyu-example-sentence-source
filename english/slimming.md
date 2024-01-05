@@ -1,5 +1,7 @@
 # slimming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slimming.md)
+
 <p><span class="chinese">不要牛奶，我正在减肥。</span><span class="english">No milk. I'm slimming.</span></p>
 
 <p><span class="chinese">佐伊现在是一名瘦身顾问。</span><span class="english">Today she is a slimming consultant.</span></p>

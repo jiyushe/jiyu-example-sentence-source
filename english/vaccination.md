@@ -1,5 +1,7 @@
 # vaccination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vaccination.md)
+
 <p><span class="chinese">接种轮状病毒疫苗。</span><span class="english">rotavirus vaccination.</span></p>
 
 <p><span class="chinese">种痘有反应了吗?。</span><span class="english">Did the vaccination take?</span></p>

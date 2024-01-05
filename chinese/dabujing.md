@@ -1,5 +1,7 @@
 # 大不敬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dabujing.md)
+
 <p><span class="chinese">不用说，这是大不敬的事。</span><span class="english">I need hardly say, a very grave offence.</span></p>
 
 <p><span class="chinese">但是要描述这次揭示实在是大不敬。</span><span class="english">But it were irreverent to describe that revelation.</span></p>

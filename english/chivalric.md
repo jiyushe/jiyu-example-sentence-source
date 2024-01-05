@@ -1,5 +1,7 @@
 # chivalric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chivalric.md)
+
 <p><span class="chinese">堂吉诃德富有理想主义精神和骑士精神，却被认为是疯狂的。</span><span class="english">Although the idealistic and chivalric Don Quixote is thought to be mad.</span></p>
 
 <p><span class="chinese">骑士文学是中世纪世俗文学的主要成就。</span><span class="english">Chivalric Literature is a major achievement of medieval secular literature.</span></p>

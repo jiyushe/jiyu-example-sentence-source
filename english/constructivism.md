@@ -1,5 +1,7 @@
 # constructivism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/constructivism.md)
+
 <p><span class="chinese">建构主义教学理论是否适合外语教学?。</span><span class="english">Is Constructivism a good theory for FLT?</span></p>
 
 <p><span class="chinese">建构主义是当代教育心理学的一场革命。</span><span class="english">Constructivism is a revolution of contemporary educational psychology.</span></p>

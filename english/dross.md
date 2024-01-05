@@ -1,5 +1,7 @@
 # dross
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dross.md)
+
 <p><span class="chinese">而其余的都是无用的东西。</span><span class="english">The rest is dross.</span></p>
 
 <p><span class="chinese">他们都是炉中的铜，锡，铁，铅，都是银渣滓。</span><span class="english">They are but the dross of silver.</span></p>

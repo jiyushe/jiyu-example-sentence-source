@@ -1,5 +1,7 @@
 # 退换
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuihuan.md)
+
 <p><span class="chinese">你们的退换货政策是什么？</span><span class="english">What's your return policy?</span></p>
 
 <p><span class="chinese">不满足，无理由退换货！</span><span class="english">Not satisfied, no reason to Return!</span></p>

@@ -1,5 +1,7 @@
 # pessimistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pessimistic.md)
+
 <p><span class="chinese">但他是悲观的。</span><span class="english">But he is pessimistic.</span></p>
 
 <p><span class="chinese">是一头十分悲观的驴子。</span><span class="english">Eeyore is a pessimistic donkey.</span></p>

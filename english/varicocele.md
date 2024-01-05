@@ -1,5 +1,7 @@
 # varicocele
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/varicocele.md)
+
 <p><span class="chinese">怎样预防精索静脉曲张的发病？</span><span class="english">How prevent a varicocele come on?</span></p>
 
 <p><span class="chinese">你更有可能得了精索静脉曲张。</span><span class="english">More likely, you have a varicocele.</span></p>

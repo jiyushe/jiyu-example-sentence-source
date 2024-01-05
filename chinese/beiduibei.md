@@ -1,5 +1,7 @@
 # 背对背
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beiduibei.md)
+
 <p><span class="chinese">请背对背站着。</span><span class="english">Stand back to back, please.</span></p>
 
 <p><span class="chinese">背对背！把你们自己包起来！</span><span class="english">Back to back! Wrap yourselves up!</span></p>

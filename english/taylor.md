@@ -1,5 +1,7 @@
 # taylor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taylor.md)
+
 <p><span class="chinese">不必了，戴先生。</span><span class="english">No, Mr. Taylor.</span></p>
 
 <p><span class="chinese">我该是丹泰勒中尉。</span><span class="english">I was Lieutenant Dan Taylor.</span></p>

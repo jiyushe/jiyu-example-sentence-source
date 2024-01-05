@@ -1,5 +1,7 @@
 # analyzing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/analyzing.md)
+
 <p><span class="chinese">分析了频繁函数集的性质。</span><span class="english">Analyzing the property of FFS.</span></p>
 
 <p><span class="chinese">我们正在分析星尘号的彗星样品。</span><span class="english">We are analyzing Stardust cometary samples.</span></p>

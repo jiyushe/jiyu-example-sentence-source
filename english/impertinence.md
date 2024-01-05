@@ -1,5 +1,7 @@
 # impertinence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impertinence.md)
+
 <p><span class="chinese">这种话近于无礼。</span><span class="english">Such a remark verges on impertinence.</span></p>
 
 <p><span class="chinese">这种言辞近于无礼。</span><span class="english">Such a remark verges on impertinence.</span></p>

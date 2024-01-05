@@ -1,5 +1,7 @@
 # glom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glom.md)
+
 <p><span class="chinese">你在哪儿搞到票的?</span><span class="english">Where did you glom onto the ticket?</span></p>
 
 <p><span class="chinese">目前最多玩QQ农场，牧场和抢车位！</span><span class="english">I most playing QQ farm, fied farm and glom car place.</span></p>

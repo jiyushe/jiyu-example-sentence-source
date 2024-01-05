@@ -1,5 +1,7 @@
 # assault
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assault.md)
+
 <p><span class="chinese">他以伤害罪被逮捕。</span><span class="english">He got arrested for assault.</span></p>
 
 <p><span class="chinese">突击登陆艇就要被放下水去。</span><span class="english">Assault craft would be lowered.</span></p>

@@ -1,5 +1,7 @@
 # metro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metro.md)
+
 <p><span class="chinese">我可能搭乘地下铁时，遗忘在那里。</span><span class="english">I may forget it in the Metro.</span></p>
 
 <p><span class="chinese">地铁站的售票机。</span><span class="english">Ticket machines in the metro.</span></p>

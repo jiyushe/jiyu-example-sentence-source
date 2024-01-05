@@ -1,5 +1,7 @@
 # 诗集
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiji_10.md)
+
 <p><span class="chinese">这本唐寅诗集，是谁的？</span><span class="english">Whose poetry is it?</span></p>
 
 <p><span class="chinese">手边有一本是史文朋的诗集。</span><span class="english">One of the volumes was a Swinburne.</span></p>

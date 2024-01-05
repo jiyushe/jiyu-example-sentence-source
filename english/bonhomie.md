@@ -1,5 +1,7 @@
 # bonhomie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bonhomie.md)
+
 <p><span class="chinese">他们的眼睛里充满了友善与和蔼。</span><span class="english">Their eyes were full of friendliness and bonhomie.</span></p>
 
 <p><span class="chinese">艺术家们最清楚地感受到了这个城市的温厚和敦良。</span><span class="english">That bonhomie is perhaps most clearly felt by the city’s artists.</span></p>

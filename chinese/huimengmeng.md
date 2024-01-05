@@ -1,5 +1,7 @@
 # 灰蒙蒙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huimengmeng.md)
+
 <p><span class="chinese">天色灰蒙蒙的。</span><span class="english">The sky was overcast.</span></p>
 
 <p><span class="chinese">那时天空变得灰蒙蒙的。</span><span class="english">The sky hazed over then.</span></p>

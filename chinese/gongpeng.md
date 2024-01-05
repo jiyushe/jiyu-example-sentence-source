@@ -1,5 +1,7 @@
 # 工棚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongpeng.md)
+
 <p><span class="chinese">除此之外，建筑工棚是波多黎各中最孤单的建筑。</span><span class="english">After that, it is the loneliest building in PR.</span></p>
 
 <p><span class="chinese">直到羊毛打包在工棚，在二十多年前。</span><span class="english">To till the bales at Carmody's, a score of years go.</span></p>

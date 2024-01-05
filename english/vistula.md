@@ -1,5 +1,7 @@
 # vistula
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vistula.md)
+
 <p><span class="chinese">波兰南部的一个工业城市，位于维斯杜拉河沿岸。</span><span class="english">An industrial city ins poland on the vistula.</span></p>
 
 <p><span class="chinese">波兰北部一城市，位于维斯杜拉河入海口。</span><span class="english">A city of northern poland near the mouth of the vistula.</span></p>

@@ -1,5 +1,7 @@
 # 明文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingwen.md)
+
 <p><span class="chinese">这是我的哥哥，陈明文。</span><span class="english">This is my brother, Chen Mingwen.</span></p>
 
 <p><span class="chinese">密码永远不要保存成明文。</span><span class="english">Passwords are never stored in plaintext.</span></p>

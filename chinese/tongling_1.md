@@ -1,5 +1,7 @@
 # 统领
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongling_1.md)
+
 <p><span class="chinese">另有法令，白纸黑字，统领此地。</span><span class="english">Other laws, black on white, obtain.</span></p>
 
 <p><span class="chinese">四字合并，统领全园。</span><span class="english">Four words combined command of the Park.</span></p>

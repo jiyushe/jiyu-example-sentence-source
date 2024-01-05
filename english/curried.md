@@ -1,5 +1,7 @@
 # curried
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curried.md)
+
 <p><span class="chinese">咖喱鸡饭非常可口。</span><span class="english">The chicken curried with rice is very good.</span></p>
 
 <p><span class="chinese">“这是一个咖喱龙虾沙拉，”维多利亚说。</span><span class="english">"It's a curried lobster salad, " Victoria said.</span></p>

@@ -1,5 +1,7 @@
 # 反刍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanchu.md)
+
 <p><span class="chinese">牛反刍它的食物。</span><span class="english">A cow ruminates its food.</span></p>
 
 <p><span class="chinese">牛反刍所吃的食物。</span><span class="english">A cow ruminates its food.</span></p>

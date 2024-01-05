@@ -1,5 +1,7 @@
 # hpv
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hpv.md)
+
 <p><span class="chinese">HPV则是大约百分之70患上子宫颈癌的原因。</span><span class="english">HPV is the cause of roughly 70 per cent of cervical cancers.</span></p>
 
 <p><span class="chinese">癌旁组织和非肿瘤组织未检出。</span><span class="english">No HPV was detected in para cancerous and non tumorous tissues.</span></p>

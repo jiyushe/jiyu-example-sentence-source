@@ -1,5 +1,7 @@
 # dioxide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dioxide.md)
+
 <p><span class="chinese">二氧化硅SiO2</span><span class="english">SILICON DIOXIDE — SiO2</span></p>
 
 <p><span class="chinese">一吨二氧化碳的价格现在是28欧元。</span><span class="english">A tonne of carbon dioxide is now €28.</span></p>

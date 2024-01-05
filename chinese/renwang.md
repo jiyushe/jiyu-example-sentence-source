@@ -1,5 +1,7 @@
 # 人望
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renwang.md)
+
 <p><span class="chinese">价格高得令人望而怯步。</span><span class="english">The price is on the high side.</span></p>
 
 <p><span class="chinese">近在身边的一个人望著福尔斯特直乐。</span><span class="english">A man nearby was watching forster with amusement.</span></p>

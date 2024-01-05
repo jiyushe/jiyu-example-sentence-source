@@ -1,5 +1,7 @@
 # 陈醋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chencu.md)
+
 <p><span class="chinese">加水，陈醋和生抽。</span><span class="english">Pour in water, vinegar and light soya sauce.</span></p>
 
 <p><span class="chinese">陈醋泡冰糖可以降血压么?。</span><span class="english">Can rock candy of mature vinegar bubble fall blood pressure?</span></p>

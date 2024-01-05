@@ -1,5 +1,7 @@
 # 信箱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinxiang.md)
+
 <p><span class="chinese">我的信箱是空的。</span><span class="english">My mailbox was empty.</span></p>
 
 <p><span class="chinese">话音信箱和传真机。</span><span class="english">And voice-mail and fax.</span></p>

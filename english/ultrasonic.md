@@ -1,5 +1,7 @@
 # ultrasonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ultrasonic.md)
+
 <p><span class="chinese">成立超声波电子焊接实验室。</span><span class="english">Set up ultrasonic wire bonding laboratory.</span></p>
 
 <p><span class="chinese">世冠超声波电子设备厂。</span><span class="english">World crown ultrASonic wave electron plant.</span></p>

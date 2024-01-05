@@ -1,5 +1,7 @@
 # unruffled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unruffled.md)
+
 <p><span class="chinese">欧巴马还是显得不慌不忙。</span><span class="english">Mr Obama seems unruffled.</span></p>
 
 <p><span class="chinese">他受到这些指控仍处之泰然。</span><span class="english">He remained unruffled by the charges.</span></p>

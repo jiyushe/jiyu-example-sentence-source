@@ -1,5 +1,7 @@
 # hagar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hagar.md)
+
 <p><span class="chinese">所以夏甲生下了以实玛利。</span><span class="english">And so Hagar gave birth to Ishmael.</span></p>
 
 <p><span class="chinese">夏甲为亚伯兰生以实玛利的时候亚伯兰八十六岁。</span><span class="english">Abram was eighty-six years old when Hagar bore Ishmael.</span></p>

@@ -1,5 +1,7 @@
 # plurality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plurality.md)
+
 <p><span class="chinese">它可以取多种数值。</span><span class="english">There is a plurality of values.</span></p>
 
 <p><span class="chinese">大量的键通过任意离子形成。</span><span class="english">Plurality of bonds can form from any ion.</span></p>

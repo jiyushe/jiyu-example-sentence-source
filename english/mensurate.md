@@ -1,5 +1,7 @@
 # mensurate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mensurate.md)
+
 <p><span class="chinese">但由于种类的多样性、性质的复杂性、以及运行的隐蔽性，使得其融资风险很难被测定和估算。</span><span class="english">But because of the complexity of its character and its covert, it is hard to mensurate the risk of ROSCA.</span></p>
 
 <p><span class="chinese">应用这一方法针对镇江香醋的生产工艺定点采样，分析川芎嗪的产生机制。</span><span class="english">This method was used to mensurate the quantitative changes of tetramethylpyrazine to analyse the generant mechanism.</span></p>

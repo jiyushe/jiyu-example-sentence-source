@@ -1,5 +1,7 @@
 # 自居
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziju_2.md)
+
 <p><span class="chinese">这儿有谁愿意自居化外，不愿做一个罗马人？</span><span class="english">Who is here so rude that would not be a Roman?</span></p>
 
 <p><span class="chinese">任何大党或老党都不能以最高发言人自居。</span><span class="english">No big or veteran party can pose as the supreme arbiter.</span></p>

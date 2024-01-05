@@ -1,5 +1,7 @@
 # 聚苯乙烯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jubenyixi.md)
+
 <p><span class="chinese">我想要个孩子的名字菲伊聚苯乙烯我爱你。</span><span class="english">I want to name a baby filly PS I Love You.</span></p>
 
 <p><span class="chinese">此图袋用耐冲击聚苯乙烯制造。</span><span class="english">The drawing pocket is made of PS , impact proof.</span></p>

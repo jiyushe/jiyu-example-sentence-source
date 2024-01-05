@@ -1,5 +1,7 @@
 # 留级
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuji.md)
+
 <p><span class="chinese">你必须要留级。</span><span class="english">You’re going to have to repeat the grade.</span></p>
 
 <p><span class="chinese">我的小病人最终也没有留级。</span><span class="english">My patient didn't have to repeat his grade.</span></p>

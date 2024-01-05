@@ -1,5 +1,7 @@
 # 堂皇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanghuang.md)
+
 <p><span class="chinese">这真是世界上最堂皇的欺诈。</span><span class="english">It was really the grandest deception in the world.</span></p>
 
 <p><span class="chinese">增加了很难得到的堂皇的钢铁盾牌。</span><span class="english">Added Lordly status very rare chance for Steel Shield.</span></p>

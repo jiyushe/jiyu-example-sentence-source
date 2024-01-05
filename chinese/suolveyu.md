@@ -1,5 +1,7 @@
 # 缩略语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suolveyu.md)
+
 <p><span class="chinese">避免在谈话中使用缩略语。</span><span class="english">Learn how to speak without using acronyms.</span></p>
 
 <p><span class="chinese">有时候，反向缩略语来自于旧式语言。</span><span class="english">Sometimes, backronyms come from outdated language.</span></p>

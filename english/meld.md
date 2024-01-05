@@ -1,5 +1,7 @@
 # meld
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meld.md)
+
 <p><span class="chinese">关键是要讲旧的和新的数据融合在一起。</span><span class="english">The key is to meld the old with the new.</span></p>
 
 <p><span class="chinese">蒸煮的时间微微长一点是个不错的选择，这样可以确保每种配料的味道均表现出来。</span><span class="english">Cook a little longer to make sure the flavors meld together.</span></p>

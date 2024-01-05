@@ -1,5 +1,7 @@
 # leafed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leafed.md)
+
 <p><span class="chinese">他一张张地翻乐谱。</span><span class="english">He leafed through the music.</span></p>
 
 <p><span class="chinese">我快速翻看一些艺术书籍。</span><span class="english">I leafed through some art books.</span></p>

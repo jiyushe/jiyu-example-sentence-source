@@ -1,5 +1,7 @@
 # 笔挺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biting.md)
+
 <p><span class="chinese">他是一个个头高，腰笔挺的老人。</span><span class="english">He was a tall upright old man.</span></p>
 
 <p><span class="chinese">日本的一种笔挺式卷轴画。</span><span class="english">Japanese vertical scroll painting.</span></p>

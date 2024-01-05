@@ -1,5 +1,7 @@
 # 动量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongliang.md)
+
 <p><span class="chinese">下一个，动量守恒。</span><span class="english">Okay, conservation of momentum.</span></p>
 
 <p><span class="chinese">但动量却守恒。</span><span class="english">Momentum, however, was conserved.</span></p>

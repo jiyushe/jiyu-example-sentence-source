@@ -1,5 +1,7 @@
 # catty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catty.md)
+
 <p><span class="chinese">苹果按斤卖。</span><span class="english">The apple sold by catty.</span></p>
 
 <p><span class="chinese">鸡蛋论斤出售。</span><span class="english">Eggs are sold by the catty.</span></p>

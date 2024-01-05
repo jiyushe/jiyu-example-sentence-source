@@ -1,5 +1,7 @@
 # brainless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brainless.md)
+
 <p><span class="chinese">脑残这个绰号更适合你。</span><span class="english">Brainless would be a more apt moniker for you.</span></p>
 
 <p><span class="chinese">第五条，不可搭理脑残。</span><span class="english">Fifth, You shall not reply to the brainless people.</span></p>

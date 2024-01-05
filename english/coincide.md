@@ -1,5 +1,7 @@
 # coincide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coincide.md)
+
 <p><span class="chinese">这两个三角形相重合。</span><span class="english">The two triangles coincide.</span></p>
 
 <p><span class="chinese">总的说来，他们的观点相同。</span><span class="english">On the whole their views coincide.</span></p>

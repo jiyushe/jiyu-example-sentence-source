@@ -1,5 +1,7 @@
 # 珊瑚岛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanhudao.md)
+
 <p><span class="chinese">他弄明白了环状珊瑚岛是怎么形成的，为什么他们是热带植物。</span><span class="english">He figured out how atolls form, and why they’re tropical.</span></p>
 
 <p><span class="chinese">环状珊瑚岛和珊瑚礁由石珊瑚的骨骼形成。</span><span class="english">Atolls and coral reefs from the stony coral skeleton form.</span></p>

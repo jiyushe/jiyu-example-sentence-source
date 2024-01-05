@@ -1,5 +1,7 @@
 # weakly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weakly.md)
+
 <p><span class="chinese">我淡淡地对她笑了笑。</span><span class="english">I smiled weakly at her.</span></p>
 
 <p><span class="chinese">我有气无力地握了握他的手说。</span><span class="english">I weakly shook his hand.</span></p>

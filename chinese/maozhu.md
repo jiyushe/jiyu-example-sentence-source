@@ -1,5 +1,7 @@
 # 毛竹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maozhu.md)
+
 <p><span class="chinese">⊙、努力向上的开拓，才使弯曲的竹鞭化作了笔直的毛竹。</span><span class="english">Strive to open up, to bend into straight bamboo rhizome.</span></p>
 
 <p><span class="chinese">随着坡度的增加，毛竹分布的面积减少。</span><span class="english">The area of bamboo forest decreased with the increasing slope.</span></p>

@@ -1,5 +1,7 @@
 # 思潮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sichao.md)
+
 <p><span class="chinese">这场如痴如狂的怀旧思潮从何而起？</span><span class="english">Why such a frenzy of nostalgia?</span></p>
 
 <p><span class="chinese">其三是指以解构主义为代表的思潮。</span><span class="english">Those thoughts represented by the deconstructionism.</span></p>

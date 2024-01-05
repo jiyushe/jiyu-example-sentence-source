@@ -1,5 +1,7 @@
 # 人生观
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renshengguan.md)
+
 <p><span class="chinese">你得学学我的人生观。</span><span class="english">You must learn some of my philosophy.</span></p>
 
 <p><span class="chinese">乐观是一种健康的人生观。</span><span class="english">Optimism is a healthy outlook on life.</span></p>

@@ -1,5 +1,7 @@
 # historical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/historical.md)
+
 <p><span class="chinese">这是我历史性的时刻。</span><span class="english">It was historical for me.</span></p>
 
 <p><span class="chinese">告诉大家一个历史事实。</span><span class="english">Here is a historical fact.</span></p>

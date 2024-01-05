@@ -1,5 +1,7 @@
 # dismissal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dismissal.md)
+
 <p><span class="chinese">南方公园家属的上诉被不予考虑。</span><span class="english">Southland park families appeal dismissal.</span></p>
 
 <p><span class="chinese">今天的下课铃响早了。</span><span class="english">The bell sounded dismissal earlier today.</span></p>

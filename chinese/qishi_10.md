@@ -1,5 +1,7 @@
 # 气势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qishi_10.md)
+
 <p><span class="chinese">这就是王朔独有的气势。</span><span class="english">This is the unique charm of Wang.</span></p>
 
 <p><span class="chinese">那座城堡是座气势宏伟的建筑物。</span><span class="english">The castle is an imposing building.</span></p>

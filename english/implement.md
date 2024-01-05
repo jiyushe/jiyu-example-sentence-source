@@ -1,5 +1,7 @@
 # implement 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/implement.md)
+
 <p><span class="chinese">实现和交付。</span><span class="english">Implement and Deliver.</span></p>
 
 <p><span class="chinese">实现延续。</span><span class="english">Implement continuations.</span></p>

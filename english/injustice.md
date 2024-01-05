@@ -1,5 +1,7 @@
 # injustice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/injustice.md)
+
 <p><span class="chinese">让我们防止不公正的行为。</span><span class="english">Let us arm against injustice.</span></p>
 
 <p><span class="chinese">人民受尽了不公正的压迫。</span><span class="english">The people groaned under injustice.</span></p>

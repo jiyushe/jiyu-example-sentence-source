@@ -1,5 +1,7 @@
 # hatchet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hatchet.md)
+
 <p><span class="chinese">埋入地下的是沾血的利斧。</span><span class="english">Buried was the bloody hatchet.</span></p>
 
 <p><span class="chinese">你把短柄小斧放到哪里了?。</span><span class="english">Where did you put the hatchet?</span></p>

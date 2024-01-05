@@ -1,5 +1,7 @@
 # seaside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seaside.md)
+
 <p><span class="chinese">海边小别墅的傍晚。</span><span class="english">The seaside small villa sunset.</span></p>
 
 <p><span class="chinese">布赖顿是著名的海滨胜地。</span><span class="english">Brighton is a famous seaside resort.</span></p>

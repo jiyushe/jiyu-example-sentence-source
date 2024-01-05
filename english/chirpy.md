@@ -1,5 +1,7 @@
 # chirpy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chirpy.md)
+
 <p><span class="chinese">今天你看起来很活泼！</span><span class="english">You seem very chirpy today!</span></p>
 
 <p><span class="chinese">今天你好像很快活似的！</span><span class="english">You seem very chirpy today!</span></p>

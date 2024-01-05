@@ -1,5 +1,7 @@
 # pillage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pillage.md)
+
 <p><span class="chinese">为什么人类要“征服和掠夺”地球？</span><span class="english">Why does humanity "conquer and pillage " earth?</span></p>
 
 <p><span class="chinese">其他东西，他们都会掠夺和抄袭。</span><span class="english">Everything else, they will just pillage and copy.</span></p>

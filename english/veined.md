@@ -1,5 +1,7 @@
 # veined
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/veined.md)
+
 <p><span class="chinese">他的双颊血色饱满。</span><span class="english">His cheeks are veined.</span></p>
 
 <p><span class="chinese">他满是青筋的手祈祷。</span><span class="english">Rubs his thick veined hands. Prays.</span></p>

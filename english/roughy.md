@@ -1,5 +1,7 @@
 # roughy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roughy.md)
+
 <p><span class="chinese">好吧，但是我建议您买橙连鳍鲑鱼。</span><span class="english">Okay, but I suggest that you take the orange roughy.</span></p>
 
 <p><span class="chinese">厚重、张扬、硬朗、粗犷成为皮质的一个设计趋势。</span><span class="english">Sincere, makes widely known, hale and hearty, becomes a cerebral cortex's design tendency roughy.</span></p>

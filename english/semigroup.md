@@ -1,5 +1,7 @@
 # semigroup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semigroup.md)
+
 <p><span class="chinese">设S是一个右单纯、右可消的半群。</span><span class="english">Let S be a right simple right cancellative semigroup.</span></p>
 
 <p><span class="chinese">给出该类半群的一个构造定理。</span><span class="english">A construction theorem for such semigroup is obtained.</span></p>

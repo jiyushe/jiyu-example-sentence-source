@@ -1,5 +1,7 @@
 # habitual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/habitual.md)
+
 <p><span class="chinese">他是一个惯犯。</span><span class="english">He is a habitual criminal.</span></p>
 
 <p><span class="chinese">他们是惯犯。</span><span class="english">They are habitual criminals.</span></p>

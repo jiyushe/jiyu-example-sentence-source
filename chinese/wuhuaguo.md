@@ -1,5 +1,7 @@
 # 无花果
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuhuaguo.md)
+
 <p><span class="chinese">争吃无花果。</span><span class="english">That eat figs.</span></p>
 
 <p><span class="chinese">无花果树沉默无语。</span><span class="english">The Fig tree was silent.</span></p>

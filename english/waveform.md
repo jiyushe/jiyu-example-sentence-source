@@ -1,5 +1,7 @@
 # waveform
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waveform.md)
+
 <p><span class="chinese">并给出了工作波形图和程序框图。</span><span class="english">Work waveform graph and program chart are shown.</span></p>
 
 <p><span class="chinese">波形检测器是由两个比较器。</span><span class="english">Waveform detector is consisted of two comparators.</span></p>

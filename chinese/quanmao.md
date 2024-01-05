@@ -1,5 +1,7 @@
 # 全貌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanmao.md)
+
 <p><span class="chinese">这里可以看到亚拉拉特山美丽的全貌。</span><span class="english">A wonderful panorama of the Ararat valley.</span></p>
 
 <p><span class="chinese">这就是阿姆斯特丹的市议会大楼的全貌</span><span class="english">This is essentially the town hall of Amsterdam.</span></p>

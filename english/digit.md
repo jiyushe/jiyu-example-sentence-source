@@ -1,5 +1,7 @@
 # digit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/digit.md)
+
 <p><span class="chinese">八进制数？</span><span class="english">Octal Digit?</span></p>
 
 <p><span class="chinese">我计算错了一位数。</span><span class="english">I was one digit off.</span></p>

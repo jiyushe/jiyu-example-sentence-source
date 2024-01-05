@@ -1,5 +1,7 @@
 # 史迹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiji_3.md)
+
 <p><span class="chinese">这个地图上的小记号表示史迹与博物馆。</span><span class="english">The small symbols on this map denote historic places and museums.</span></p>
 
 <p><span class="chinese">像你研究的那些史迹、那些脚印是不行的。</span><span class="english">It is infeasible for you to study the traces of history and the footprints.</span></p>

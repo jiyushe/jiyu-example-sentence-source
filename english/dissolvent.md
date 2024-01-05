@@ -1,5 +1,7 @@
 # dissolvent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissolvent.md)
+
 <p><span class="chinese">擦洗龙头时，不要用酸碱性溶剂。</span><span class="english">When swabbing bibcock, do not use dissolvent of soda acid sex.</span></p>
 
 <p><span class="chinese">溶剂的性质也将改变成核速率的大小。</span><span class="english">And the property of dissolvent will change the nucleation rate.</span></p>

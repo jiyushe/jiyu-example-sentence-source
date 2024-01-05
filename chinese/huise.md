@@ -1,5 +1,7 @@
 # 灰色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huise.md)
+
 <p><span class="chinese">灰色，搭配橙色边饰。</span><span class="english">Grey with orange trim.</span></p>
 
 <p><span class="chinese">一堆灰色块状物。</span><span class="english">A pile of gray nuggets.</span></p>

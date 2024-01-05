@@ -1,5 +1,7 @@
 # 口型
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kouxing.md)
+
 <p><span class="chinese">人的口型和声音对不上了。</span><span class="english">People die and voice on the.</span></p>
 
 <p><span class="chinese">棘轮机构式宽口型。</span><span class="english">Wide- type formula ratchet mechanism.</span></p>

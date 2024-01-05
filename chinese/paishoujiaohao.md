@@ -1,5 +1,7 @@
 # 拍手叫好
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paishoujiaohao.md)
+
 <p><span class="chinese">于是，有人拍手叫好，有人恨之入骨。</span><span class="english">Then, somebody clap applauds , somebody hate sb's guts.</span></p>
 
 <p><span class="chinese">所有的观众对他们的精彩演出拍手叫好。</span><span class="english">All the audience applaud to their excellent performance.</span></p>

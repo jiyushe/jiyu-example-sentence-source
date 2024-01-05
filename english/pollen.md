@@ -1,5 +1,7 @@
 # pollen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pollen.md)
+
 <p><span class="chinese">并且花粉可被风吹行数英里。</span><span class="english">And pollen can blow for miles.</span></p>
 
 <p><span class="chinese">成熟花粉为二细胞型。</span><span class="english">The mature pollen grain is of 2-cell.</span></p>

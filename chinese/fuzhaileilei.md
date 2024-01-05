@@ -1,5 +1,7 @@
 # 负债累累
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuzhaileilei.md)
+
 <p><span class="chinese">正如同夕张市面临的情况一样，日本也负债累累。</span><span class="english">Like Yubari, Japan is also deeply in debt.</span></p>
 
 <p><span class="chinese">在借钱多年之后，希腊负债累累。</span><span class="english">After years of borrowing, Greece is in debt.</span></p>

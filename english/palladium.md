@@ -1,5 +1,7 @@
 # palladium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palladium.md)
+
 <p><span class="chinese">钯价下跌到每盎司796.38美元。</span><span class="english">Palladium fell to 796.38 dollars an ounce.</span></p>
 
 <p><span class="chinese">银和钯同样面临宽松的市场。</span><span class="english">Silver and palladium face a similarly loose market.</span></p>

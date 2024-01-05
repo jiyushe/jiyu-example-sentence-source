@@ -1,5 +1,7 @@
 # lotta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lotta.md)
+
 <p><span class="chinese">听着，我有很多钱。</span><span class="english">Listen, I got a lotta money.</span></p>
 
 <p><span class="chinese">那可是好多好多种子啊！</span><span class="english">That is a whole lotta seeds!</span></p>

@@ -1,5 +1,7 @@
 # 平正
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingzheng_2.md)
+
 <p><span class="chinese">这是一个平正的陈述。</span><span class="english">This is a fair statement.</span></p>
 
 <p><span class="chinese">它们都以平正的价钱出售。</span><span class="english">They are sold at a fair price.</span></p>

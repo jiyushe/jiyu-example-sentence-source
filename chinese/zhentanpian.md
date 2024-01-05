@@ -1,5 +1,7 @@
 # 侦探片
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhentanpian.md)
+
 <p><span class="chinese">我喜欢侦探片。</span><span class="english">I like detective films.</span></p>
 
 <p><span class="chinese">我不喜欢看侦探片。</span><span class="english">I don't like detective films.</span></p>

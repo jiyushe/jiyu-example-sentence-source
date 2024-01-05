@@ -1,5 +1,7 @@
 # brushed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brushed.md)
+
 <p><span class="chinese">他把自己的大衣刷干净。</span><span class="english">He brushed his coat clean.</span></p>
 
 <p><span class="chinese">她的嘴唇轻触了他的鼻子。</span><span class="english">Her lips brushed his nose.</span></p>

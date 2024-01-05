@@ -1,5 +1,7 @@
 # foot 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foot.md)
+
 <p><span class="chinese">脚灰蓝色。</span><span class="english">Foot bice.</span></p>
 
 <p><span class="chinese">底脚螺栓松动。</span><span class="english">Foot stud loose.</span></p>

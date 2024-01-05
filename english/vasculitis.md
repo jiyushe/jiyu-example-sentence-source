@@ -1,5 +1,7 @@
 # vasculitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vasculitis.md)
+
 <p><span class="chinese">脉管炎导致了此结果。</span><span class="english">This results from vasculitis.</span></p>
 
 <p><span class="chinese">你们还以为是脉管炎?。</span><span class="english">You guys thought it was vasculitis?</span></p>

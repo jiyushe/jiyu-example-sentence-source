@@ -1,5 +1,7 @@
 # balk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/balk.md)
+
 <p><span class="chinese">有一些会犹豫。</span><span class="english">A few will balk.</span></p>
 
 <p><span class="chinese">共和党尤有可能对合作设置障碍。</span><span class="english">Republicans in particular may balk at co-operating.</span></p>

@@ -1,5 +1,7 @@
 # allicin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allicin.md)
+
 <p><span class="chinese">大蒜素可以降低某些肿瘤的患病率。</span><span class="english">Allicin could restrain incidence of some cancer cells.</span></p>
 
 <p><span class="chinese">本文报道了一种大蒜素的测量方法。</span><span class="english">A measuring method of allicin is reported in this paper.</span></p>

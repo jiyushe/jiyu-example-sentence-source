@@ -1,5 +1,7 @@
 # dreary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dreary.md)
+
 <p><span class="chinese">多么阴沉沉的一天啊！</span><span class="english">What a dreary day!</span></p>
 
 <p><span class="chinese">我讨厌干燥沉闷的天气。</span><span class="english">I hate these dry dreary days.</span></p>

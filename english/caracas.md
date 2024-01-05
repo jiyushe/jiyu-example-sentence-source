@@ -1,5 +1,7 @@
 # caracas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caracas.md)
+
 <p><span class="chinese">随后赛事转移到了加拉加斯西部城市马拉凯。</span><span class="english">The cup was moved to the city of Maracay, west of Caracas.</span></p>
 
 <p><span class="chinese">当表决开始时，许多拉斯加斯贫民区的人说会选择“是”。</span><span class="english">As the vote took place, many in the Caracas slum of Petare said they opted for "Yes."</span></p>

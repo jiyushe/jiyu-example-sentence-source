@@ -1,5 +1,7 @@
 # waterwheel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waterwheel.md)
+
 <p><span class="chinese">水推动着水车来回转。</span><span class="english">Water moves the waterwheel.</span></p>
 
 <p><span class="chinese">落水的冲力使水轮转动。</span><span class="english">The impulse of falling water turns the waterwheel.</span></p>

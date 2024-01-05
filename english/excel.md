@@ -1,5 +1,7 @@
 # excel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excel.md)
+
 <p><span class="chinese">精通你所做的。</span><span class="english">Excel at what you do.</span></p>
 
 <p><span class="chinese">不要介意尝试超过别人。</span><span class="english">Never mind trying to excel.</span></p>

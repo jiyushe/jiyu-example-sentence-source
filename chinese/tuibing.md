@@ -1,5 +1,7 @@
 # 退兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuibing.md)
+
 <p><span class="chinese">军号吹响退兵号。</span><span class="english">The bugle tooted retreat.</span></p>
 
 <p><span class="chinese">战国中期，魏国军队攻打赵国，赵国请齐国帮助退兵。</span><span class="english">In the mid-Warring States Period, the State of Wei attacked Zhao.</span></p>

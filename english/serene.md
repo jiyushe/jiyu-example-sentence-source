@@ -1,5 +1,7 @@
 # serene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serene.md)
+
 <p><span class="chinese">为什么你们会觉得安详呢</span><span class="english">Why does it feel serene?</span></p>
 
 <p><span class="chinese">然而它是那么宁静，它能包容一切。</span><span class="english">Yet, it is so quiet and serene.</span></p>

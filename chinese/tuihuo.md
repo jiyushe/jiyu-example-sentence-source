@@ -1,5 +1,7 @@
 # 退伙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuihuo.md)
+
 <p><span class="chinese">合伙人退伙</span><span class="english">Partner has left the company.</span></p>
 
 <p><span class="chinese">亚历克认识到他可能把他的钱和时间花得更划算些，就决定退伙了。</span><span class="english">Alec decided to cash in as he realized he might spend his time and money more wisely.</span></p>

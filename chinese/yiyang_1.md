@@ -1,5 +1,7 @@
 # 抑扬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyang_1.md)
+
 <p><span class="chinese">最标准的就是抑扬格。</span><span class="english">The most standard of these is the iamb.</span></p>
 
 <p><span class="chinese">节奏完全按四音步句的抑扬格在行进。</span><span class="english">Acatalectic tetrameter of iambs marching.</span></p>

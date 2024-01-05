@@ -1,5 +1,7 @@
 # assertively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assertively.md)
+
 <p><span class="chinese">所以，你应该学会保护自己的私人时间。</span><span class="english">So you should assertively protect your personal time.</span></p>
 
 <p><span class="chinese">表明你的理由，果断地提出请求。</span><span class="english">State your reasons clearly and assertively make your request.</span></p>

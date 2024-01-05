@@ -1,5 +1,7 @@
 # 清教徒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingjiaotu.md)
+
 <p><span class="chinese">清教徒相信什麽?。</span><span class="english">What did nhe Puritans believe?</span></p>
 
 <p><span class="chinese">清教徒，良心发现吗？</span><span class="english">Puritan, conscience guided him?</span></p>

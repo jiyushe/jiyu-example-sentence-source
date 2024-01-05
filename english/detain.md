@@ -1,5 +1,7 @@
 # detain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/detain.md)
+
 <p><span class="chinese">还有什么事情能把他耽搁在诺兰庄园呢？</span><span class="english">What else can detain him at Norland?</span></p>
 
 <p><span class="chinese">我们只好把他扣起来，讯问他一下。</span><span class="english">We shall have to detain him and question him.</span></p>

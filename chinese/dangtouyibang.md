@@ -1,5 +1,7 @@
 # 当头一棒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangtouyibang.md)
+
 <p><span class="chinese">他给这些恶棍以当头一棒。</span><span class="english">He gave these scoundrels a jolt.</span></p>
 
 <p><span class="chinese">事实上，很多选民感觉他们就像遭了当头一棒一样。</span><span class="english">Indeed, many voters feel as though they've been "kicked in the head.</span></p>

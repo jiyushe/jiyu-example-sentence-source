@@ -1,5 +1,7 @@
 # 名花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minghua_1.md)
+
 <p><span class="chinese">太阳升上来了，向无名花微笑。</span><span class="english">The sun rose and smiled on it.</span></p>
 
 <p><span class="chinese">哪四大名花？</span><span class="english">What are those four most famed flowers?</span></p>

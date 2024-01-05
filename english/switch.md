@@ -1,5 +1,7 @@
 # switch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/switch.md)
+
 <p><span class="chinese">那我换个颜色吧</span><span class="english">Let me switch colors.</span></p>
 
 <p><span class="chinese">请重设卡上的开关。</span><span class="english">Reset switch on card.</span></p>

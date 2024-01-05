@@ -1,5 +1,7 @@
 # atmospherics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atmospherics.md)
+
 <p><span class="chinese">天天电脑前眼睛会近视吗？</span><span class="english">Is the eye before day atmospherics head myopic?</span></p>
 
 <p><span class="chinese">由于大气干扰，无线电节目听不清楚。</span><span class="english">The radio program was indistinct because of the atmospherics.</span></p>

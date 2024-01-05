@@ -1,5 +1,7 @@
 # 花椒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huajiao.md)
+
 <p><span class="chinese">总之花椒全身都是宝。</span><span class="english">Overall pepper body is a treasure.</span></p>
 
 <p><span class="chinese">花椒是以其辣味和芳香味为主。</span><span class="english">Pepper its spicy and aromatic flavor is based.</span></p>

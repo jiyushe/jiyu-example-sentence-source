@@ -1,5 +1,7 @@
 # suez
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suez.md)
+
 <p><span class="chinese">驶近苏伊士湾，减速航行。</span><span class="english">Approach Suez Bay and reduce speed.</span></p>
 
 <p><span class="chinese">这条船从苏伊上直接开往孟买吗？</span><span class="english">And does she go from suez directly to Bombay?</span></p>

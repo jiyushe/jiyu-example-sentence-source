@@ -1,5 +1,7 @@
 # gravy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gravy.md)
+
 <p><span class="chinese">你不能叫这种东西肉汁吧？</span><span class="english">Can't you call it gravy?</span></p>
 
 <p><span class="chinese">能不克不及请你帮我带一个卤汁皿?。</span><span class="english">Could you bring me a gravy boat?</span></p>

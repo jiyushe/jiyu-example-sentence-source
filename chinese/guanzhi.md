@@ -1,5 +1,7 @@
 # 管制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guanzhi.md)
+
 <p><span class="chinese">车道管制号志?。</span><span class="english">Lane control signal?</span></p>
 
 <p><span class="chinese">指导原则依然是管制。</span><span class="english">Control is still the watchword.</span></p>

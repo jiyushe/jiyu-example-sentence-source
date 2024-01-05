@@ -1,5 +1,7 @@
 # freeze 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freeze_1.md)
+
 <p><span class="chinese">我让你别动。</span><span class="english">I said freeze.</span></p>
 
 <p><span class="chinese">不要冻坏了自己。</span><span class="english">Don't freeze himself.</span></p>

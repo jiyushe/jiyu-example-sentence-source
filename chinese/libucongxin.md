@@ -1,5 +1,7 @@
 # 力不从心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/libucongxin.md)
+
 <p><span class="chinese">竞赛者们由于天气炎热而力不从心。</span><span class="english">The competitors were prostrated by the heat.</span></p>
 
 <p><span class="chinese">力不从心时，我回想过去的完成。</span><span class="english">If I overindulge I be to imagine of past hungers.</span></p>

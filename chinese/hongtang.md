@@ -1,5 +1,7 @@
 # 红糖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongtang.md)
+
 <p><span class="chinese">反正红糖比较好吃。</span><span class="english">Brown sugar tastes better anyway.</span></p>
 
 <p><span class="chinese">加入玉米糖浆和红糖搅拌。</span><span class="english">Add the corn syrup and brown sugar. Stir.</span></p>

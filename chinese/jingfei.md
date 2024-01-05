@@ -1,5 +1,7 @@
 # 经费
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingfei.md)
+
 <p><span class="chinese">你们就是我的经费。</span><span class="english">You are my budget.</span></p>
 
 <p><span class="chinese">我们手头没有经费。</span><span class="english">We have no funds in our hands.</span></p>

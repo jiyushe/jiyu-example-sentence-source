@@ -1,5 +1,7 @@
 # statistics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/statistics.md)
+
 <p><span class="chinese">新的战后统计界面。</span><span class="english">New post-battle statistics.</span></p>
 
 <p><span class="chinese">添加博客查看统计。</span><span class="english">Adding blog view statistics.</span></p>

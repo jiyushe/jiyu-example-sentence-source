@@ -1,5 +1,7 @@
 # arsenite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arsenite.md)
+
 <p><span class="chinese">亚硒酸钠降低亚砷酸钠诱导的微核率。</span><span class="english">Selenium may reduce the frequency of micronucleus induced by arsenite.</span></p>
 
 <p><span class="chinese">另外我们知道，在某些控制剂量下，亚砷酸盐有治疗价值。</span><span class="english">In addition, we know that under certain controlled doses, arsenite has therapeutic value.</span></p>

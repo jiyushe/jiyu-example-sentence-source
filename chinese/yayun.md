@@ -1,5 +1,7 @@
 # 押运
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yayun.md)
+
 <p><span class="chinese">组织黄金销售押运。</span><span class="english">Organizing escort of gold shipment.</span></p>
 
 <p><span class="chinese">秦琼带领押运队伍经过一片山间小道。</span><span class="english">QinQiong lead escort team after a piece of mountain path.</span></p>

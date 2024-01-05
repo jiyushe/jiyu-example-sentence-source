@@ -1,5 +1,7 @@
 # 不择
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buze.md)
+
 <p><span class="chinese">船遇风暴，不择港口。</span><span class="english">Any port in a storm.</span></p>
 
 <p><span class="chinese">在另一方面，他是个不择不扣的暴君。</span><span class="english">On the other hand, he is a real despot.</span></p>

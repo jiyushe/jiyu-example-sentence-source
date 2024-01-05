@@ -1,5 +1,7 @@
 # tend 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tend_1.md)
+
 <p><span class="chinese">鲜水果容易腐烂。</span><span class="english">Fresh fruit tend to decay.</span></p>
 
 <p><span class="chinese">我们打算留在伦敦。</span><span class="english">We tend to stay in London.</span></p>

@@ -1,5 +1,7 @@
 # roofer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roofer.md)
+
 <p><span class="chinese">一个房顶工人正在修理漏水的屋顶排水沟。</span><span class="english">A roofer is repairing the leaking valley.</span></p>
 
 <p><span class="chinese">屋面防水工在用铁皮修补屋顶。</span><span class="english">The roofer is patching the roof with metal.</span></p>

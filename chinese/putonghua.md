@@ -1,5 +1,7 @@
 # 普通话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/putonghua.md)
+
 <p><span class="chinese">汉语普通话的地位会不会上升？</span><span class="english">Will Mandarin ascend?</span></p>
 
 <p><span class="chinese">是啊，但是我们现在统一使用普通话。</span><span class="english">Yeah ,but we use unified Putonghua.</span></p>

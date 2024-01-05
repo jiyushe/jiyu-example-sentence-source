@@ -1,5 +1,7 @@
 # reinterpret
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reinterpret.md)
+
 <p><span class="chinese">现在我们有了另外的工具可以使我们用来对过去发生过的事情作更好地再认识和重新解释。</span><span class="english">Now we have other tools we can use to better recreate or reinterpret the past.</span></p>
 
 <p><span class="chinese">因此，圣灵的任务便是代替上主重新诠释你的真相。</span><span class="english">It is therefore the task of the Holy Spirit to reinterpret you on behalf of God.</span></p>

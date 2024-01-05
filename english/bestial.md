@@ -1,5 +1,7 @@
 # bestial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bestial.md)
+
 <p><span class="chinese">魔兽世界这游戏真垃圾！</span><span class="english">Magic bestial world this real game rubbish!</span></p>
 
 <p><span class="chinese">班那哈罗是猛兽狂怒的极致化身。</span><span class="english">Banehallow is an avatar of bestial fury created by the scourge.</span></p>

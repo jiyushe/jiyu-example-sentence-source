@@ -1,5 +1,7 @@
 # 炮台
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paotai.md)
+
 <p><span class="chinese">我们很快就爬到了第二个炮台。</span><span class="english">My cousins and I arrived at the second barbette very soon.</span></p>
 
 <p><span class="chinese">在曼哈顿南部的炮台公园里，我们付费参观了JWST。</span><span class="english">We paid a visit to the JWST in Lower Manhattan's Battery Park city.</span></p>

@@ -1,5 +1,7 @@
 # bolton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bolton.md)
+
 <p><span class="chinese">波顿大人打开羊皮纸。</span><span class="english">Lord Bolton unrolled the parchment.</span></p>
 
 <p><span class="chinese">我10岁就去参加了在博尔顿的训练。</span><span class="english">I went on trial to Bolton when I was 10.</span></p>

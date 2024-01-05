@@ -1,5 +1,7 @@
 # 夫人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/furen.md)
+
 <p><span class="chinese">夫人，你先请。</span><span class="english">After you, madam.</span></p>
 
 <p><span class="chinese">向您的夫人致意。</span><span class="english">Mys to your wife.</span></p>

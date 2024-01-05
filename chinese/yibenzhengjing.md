@@ -1,5 +1,7 @@
 # 一本正经
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yibenzhengjing.md)
+
 <p><span class="chinese">陈伯一本正经道。</span><span class="english">Chen Bai is priggish path.</span></p>
 
 <p><span class="chinese">她们矫揉造作，一本正经还撅着嘴。</span><span class="english">They mince and prim and pout.</span></p>

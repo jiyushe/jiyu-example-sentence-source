@@ -1,5 +1,7 @@
 # sluice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sluice.md)
+
 <p><span class="chinese">其实除了九道水门之外。</span><span class="english">In addition to the nine sluice gates.</span></p>
 
 <p><span class="chinese">这就是红旗渠的分水闸。</span><span class="english">This is the sluice gate of the canal.</span></p>

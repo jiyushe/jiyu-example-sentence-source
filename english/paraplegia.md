@@ -1,5 +1,7 @@
 # paraplegia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paraplegia.md)
+
 <p><span class="chinese">褥疮也是截瘫常见的并发症之一。</span><span class="english">The bedsore is also one of paraplegia common complications.</span></p>
 
 <p><span class="chinese">截瘫患者行双下肢弹性绷带缠裹。</span><span class="english">T he lower limbers of paraplegia patients were twined by flexible bandage.</span></p>

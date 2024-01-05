@@ -1,5 +1,7 @@
 # 下脚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiajiao.md)
+
 <p><span class="chinese">我们的正下脚非常甘旨。</span><span class="english">Our steamed shrimp dumplings are very tasty.</span></p>
 
 <p><span class="chinese">当你感到自己又有些行动失控了，深呼吸，慢下脚步。</span><span class="english">Breathe when you feel yourself moving too fast. Slow down.</span></p>

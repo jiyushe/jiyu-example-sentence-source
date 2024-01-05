@@ -1,5 +1,7 @@
 # tirade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tirade.md)
+
 <p><span class="chinese">公使发表这番长篇宏论的时候，斯鲁特一直咬着他那熄了火的烟斗。</span><span class="english">Slote was chewing on his cold pipe during the minister's tirade.</span></p>
 
 <p><span class="chinese">最后，她以这样一句话结束了她的长篇大论——“唉，我只希望有人愿意跟你上床。”</span><span class="english">She ended her tirade with, "I just want you to get laid someday." FML</span></p>

@@ -1,5 +1,7 @@
 # ethnographic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ethnographic.md)
+
 <p><span class="chinese">在人种学研究中，匿名信是伪造的吗?。</span><span class="english">Is Anonymity an Artifact in Ethnographic Research?</span></p>
 
 <p><span class="chinese">学习俄国民族志，洋货挡在大门口。</span><span class="english">Ethnographic study in Russia, foreign goods blocked at the gate.</span></p>

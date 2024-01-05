@@ -1,5 +1,7 @@
 # 同一性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongyixing.md)
+
 <p><span class="chinese">消息没有同一性。</span><span class="english">Messages have no identity.</span></p>
 
 <p><span class="chinese">同一性是偶然的吗</span><span class="english">Is it that identity is contingent?</span></p>

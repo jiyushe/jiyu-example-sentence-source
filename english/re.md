@@ -1,5 +1,7 @@
 # re
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/re.md)
+
 <p><span class="chinese">现在，我们菜已经上了灶头！</span><span class="english">Now we re cooking!</span></p>
 
 <p><span class="chinese">你是一个大骗子。</span><span class="english">You' re a big liar.</span></p>

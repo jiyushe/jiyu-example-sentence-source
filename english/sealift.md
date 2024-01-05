@@ -1,5 +1,7 @@
 # sealift
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sealift.md)
+
 <p><span class="chinese">军事海运司令部运送物资，并管理美国海军在世界各地的代表团。</span><span class="english">The Military Sealift Command delivers supplies and conducts specialized missions on behalf of the U.S.</span></p>
 
 <p><span class="chinese">美国军舰停靠在越南，同意修复美国海运司令部的舰只。</span><span class="english">American naval ships have docked in Vietnam, which has agreed to repair American Sealift Command vessels.</span></p>

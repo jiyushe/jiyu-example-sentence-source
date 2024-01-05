@@ -1,5 +1,7 @@
 # palpability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palpability.md)
+
 <p><span class="chinese">说明了保养得当，可以延年长岁。</span><span class="english">Say palpability maintains proper, can delay old year old.</span></p>
 
 <p><span class="chinese">朗道设计提倡简洁的设计风格，单纯明了的视觉效果。</span><span class="english">Lang way design advocate concise design style, simple palpability visual effect.</span></p>

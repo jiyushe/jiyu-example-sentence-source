@@ -1,5 +1,7 @@
 # alar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alar.md)
+
 <p><span class="chinese">智能电话报警系统设计。</span><span class="english">The Design of Intelligent Telephone Alar.</span></p>
 
 <p><span class="chinese">腋下出现淋巴结还是其他的?。</span><span class="english">Is alar occurrence lymph node other still?</span></p>

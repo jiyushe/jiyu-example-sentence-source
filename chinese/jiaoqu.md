@@ -1,5 +1,7 @@
 # 郊区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoqu.md)
+
 <p><span class="chinese">我在郊区长大，非常保守。</span><span class="english">I grew up in the suburbs.</span></p>
 
 <p><span class="chinese">布莱克希斯是伦敦的一个郊区。</span><span class="english">Blackheath is suburb of London.</span></p>

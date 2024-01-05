@@ -1,5 +1,7 @@
 # passively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/passively.md)
+
 <p><span class="chinese">他们决不会在一边看热闹。</span><span class="english">In no case will they look on passively.</span></p>
 
 <p><span class="chinese">被动地增加狙击手的步枪的射程。</span><span class="english">Passively enhances the range of Kardel s rifle.</span></p>

@@ -1,5 +1,7 @@
 # rugosa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rugosa.md)
+
 <p><span class="chinese">鲁戈萨星上，栖息于尤达手指上的那个小生物，是一个尼布雷幼鸟。</span><span class="english">The little creature that perches on Yoda's finger on Rugosa is a baby neebray.</span></p>
 
 <p><span class="chinese">目的探讨藿香煎液促进小肠运动的可能机制。</span><span class="english">Objective To study the mechanism of agastache rugosa for its intestinal motion promoting action.</span></p>

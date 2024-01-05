@@ -1,5 +1,7 @@
 # picnic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/picnic.md)
+
 <p><span class="chinese">他建议搞一次埜餐。</span><span class="english">He recommended a picnic.</span></p>
 
 <p><span class="chinese">我们在进行野炊。</span><span class="english">We are having our picnic.</span></p>

@@ -1,5 +1,7 @@
 # 原素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuansu_1.md)
+
 <p><span class="chinese">至于盐币，则是构成云南货币经济的原素之一。</span><span class="english">The salt money constructed one of Yunnan money.</span></p>
 
 <p><span class="chinese">作品原素来自她出生房子内的八个房间。</span><span class="english">The raw materials are eight rooms in the house of her birth.</span></p>

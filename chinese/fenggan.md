@@ -1,5 +1,7 @@
 # 风干
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenggan.md)
+
 <p><span class="chinese">然后把肉挂起来自然风干。</span><span class="english">The meat is then hung out to dry.</span></p>
 
 <p><span class="chinese">最佳配食腊味、风干肉类。</span><span class="english">Best food match sausage &dry meat.</span></p>

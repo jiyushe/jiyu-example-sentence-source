@@ -1,5 +1,7 @@
 # 禀报
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingbao.md)
+
 <p><span class="chinese">立刻禀报国王。</span><span class="english">Inform the king at once.</span></p>
 
 <p><span class="chinese">“还有一事禀报，”我说，“这可就说来话长了。</span><span class="english">"I've a further report to make, " I said, "and a pretty long one.</span></p>

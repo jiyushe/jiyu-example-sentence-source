@@ -1,5 +1,7 @@
 # 求援
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiuyuan.md)
+
 <p><span class="chinese">你能向其他部族求援吗？</span><span class="english">Can you get help from the other clans?</span></p>
 
 <p><span class="chinese">农夫奔回村里求援。</span><span class="english">The farmer ran to the village for help.</span></p>

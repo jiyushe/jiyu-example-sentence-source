@@ -1,5 +1,7 @@
 # pyramid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyramid.md)
+
 <p><span class="chinese">这是棱锥体吗?。</span><span class="english">Is this a pyramid?</span></p>
 
 <p><span class="chinese">那角锥共有五层。</span><span class="english">The pyramid had five terraces.</span></p>

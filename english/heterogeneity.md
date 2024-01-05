@@ -1,5 +1,7 @@
 # heterogeneity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heterogeneity.md)
+
 <p><span class="chinese">两基因座均存在序列异质性。</span><span class="english">The two loci all have sequence heterogeneity.</span></p>
 
 <p><span class="chinese">发现数据源之间存在很大的异质性。</span><span class="english">Large heterogeneity between data sources was noted.</span></p>

@@ -1,5 +1,7 @@
 # helicopter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/helicopter.md)
+
 <p><span class="chinese">一顶视图的直升机。</span><span class="english">A top view of the helicopter.</span></p>
 
 <p><span class="chinese">他带我们坐他的直升飞机。</span><span class="english">He flew us in his helicopter.</span></p>

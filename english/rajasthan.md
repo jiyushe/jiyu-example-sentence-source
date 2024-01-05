@@ -1,5 +1,7 @@
 # rajasthan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rajasthan.md)
+
 <p><span class="chinese">普克缇是拉贾斯坦邦地区一个牧羊人的女儿，对她来说头上的屋顶都是新玩意。</span><span class="english">Aroof overhead is new for Punkti, a shepherd's daughter in Rajasthan.</span></p>
 
 <p><span class="chinese">DATALAYER是北印度的第一层至第四数据中心设在拉贾斯坦邦。</span><span class="english">DATALAYER is North INDIA's first TIER-IV datacenter located in rajasthan.</span></p>

@@ -1,5 +1,7 @@
 # 狂呼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuanghu.md)
+
 <p><span class="chinese">他们狂呼乱叫。</span><span class="english">They shouted in wild abandon.</span></p>
 
 <p><span class="chinese">溺水的人狂呼救命。</span><span class="english">The drowning man shouted for help.</span></p>

@@ -1,5 +1,7 @@
 # circumferential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/circumferential.md)
+
 <p><span class="chinese">周向正应力是张性的。</span><span class="english">The circumferential normal stress is tensile.</span></p>
 
 <p><span class="chinese">第一个婴儿为完全的环形环状胰腺。</span><span class="english">In the first infant, there was a circumferential annular pancreas.</span></p>

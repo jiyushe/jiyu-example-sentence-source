@@ -1,5 +1,7 @@
 # discursion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discursion.md)
+
 <p><span class="chinese">框架语义学对间接回指中指称确定和认知推理有较强的解释力。</span><span class="english">Frame semantics interprets the confirmation of the anaphor and cognitive discursion.</span></p>
 
 <p><span class="chinese">经典的金融学是构建在严谨的数理逻辑推理前提之上。</span><span class="english">The Classical Finance is on the basic of the precise math discursion and the logical discursion.</span></p>

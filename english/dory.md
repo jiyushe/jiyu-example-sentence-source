@@ -1,5 +1,7 @@
 # dory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dory.md)
+
 <p><span class="chinese">这下可坏了，多莉。</span><span class="english">This is bad, Dory.</span></p>
 
 <p><span class="chinese">多莉。那是一只水母！</span><span class="english">Dory . That's a jellyfish!</span></p>

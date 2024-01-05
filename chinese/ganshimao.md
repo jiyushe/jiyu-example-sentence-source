@@ -1,5 +1,7 @@
 # 赶时髦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganshimao.md)
+
 <p><span class="chinese">她在穿着打扮上从不赶时髦。</span><span class="english">She never swung in dress.</span></p>
 
 <p><span class="chinese">那个女孩可不赶时髦。</span><span class="english">That girl is not a swinger.</span></p>

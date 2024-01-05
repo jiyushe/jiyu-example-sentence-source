@@ -1,5 +1,7 @@
 # 批示
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pishi.md)
+
 <p><span class="chinese">谁批示这个乐队？</span><span class="english">Who conducts this orchestra?</span></p>
 
 <p><span class="chinese">科学是批示官，实践是兵士。</span><span class="english">Science is a commander whellole practice is a soldier.</span></p>

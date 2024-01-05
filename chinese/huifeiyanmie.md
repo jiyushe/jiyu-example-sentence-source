@@ -1,5 +1,7 @@
 # 灰飞烟灭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huifeiyanmie.md)
+
 <p><span class="chinese">于是我的皮筏漂流梦就这样灰飞烟灭了。</span><span class="english">The raft dream was dead.</span></p>
 
 <p><span class="chinese">我可不想看你灰飞烟灭。</span><span class="english">I don’t want to see you in the ash heap.</span></p>

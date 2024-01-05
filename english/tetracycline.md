@@ -1,5 +1,7 @@
 # tetracycline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tetracycline.md)
+
 <p><span class="chinese">与四环素有密切的交叉耐药性。</span><span class="english">And tetracycline are closely cross-resistance.</span></p>
 
 <p><span class="chinese">四环素牙是永久性的，但是现在已不用四环素了。</span><span class="english">Is permanent, but now no longer a tetracycline.</span></p>

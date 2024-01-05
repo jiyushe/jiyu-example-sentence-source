@@ -1,5 +1,7 @@
 # 丢弃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diuqi.md)
+
 <p><span class="chinese">我们须丢弃任何幻想。</span><span class="english">We must have no illusions.</span></p>
 
 <p><span class="chinese">把垃圾丢弃在桶内。</span><span class="english">Dump the rubbish in the bin.</span></p>

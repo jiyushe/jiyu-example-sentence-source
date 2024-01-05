@@ -1,5 +1,7 @@
 # thymus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thymus.md)
+
 <p><span class="chinese">改善胸腺组织病理变化。</span><span class="english">It also ameliorated the pathologic changes in the thymus.</span></p>
 
 <p><span class="chinese">单用胸腺放射治疗不能缓解贫血。</span><span class="english">Sheet radiates with thymus cure cannot alleviate anaemic.</span></p>

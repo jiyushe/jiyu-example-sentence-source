@@ -1,5 +1,7 @@
 # moorish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moorish.md)
+
 <p><span class="chinese">不需要摩尔人的长矛和弓箭。</span><span class="english">Stands not in need of Moorish spear or bow.</span></p>
 
 <p><span class="chinese">接下来几天，我们驱车到科尔多瓦，它是西班牙摩尔人的大城市。</span><span class="english">The following day we drove to cordoba, one of Spain's big Moorish cites.</span></p>

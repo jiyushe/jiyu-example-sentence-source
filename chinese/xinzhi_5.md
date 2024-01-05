@@ -1,5 +1,7 @@
 # 新知
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinzhi_5.md)
+
 <p><span class="chinese">您曾说，为求新知常常忘记自己正在老去。</span><span class="english">You said in pursuing knowledge one felt not old.</span></p>
 
 <p><span class="chinese">我是个渴望新知的人，你也可以教导我让我们一起互相学习喔！</span><span class="english">I'm always hungry for new knowledge, so you can teach me too and we can learn together.</span></p>

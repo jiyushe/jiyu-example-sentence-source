@@ -1,5 +1,7 @@
 # 机构
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jigou.md)
+
 <p><span class="chinese">和慈善机构共同拥有？</span><span class="english">Co-own with a charity?</span></p>
 
 <p><span class="chinese">捐钱给慈善机构。</span><span class="english">Donate money to charity.</span></p>

@@ -1,5 +1,7 @@
 # 铁石心肠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tieshixinchang.md)
+
 <p><span class="chinese">他有一颗铁石心肠。</span><span class="english">He has a heart of stone.</span></p>
 
 <p><span class="chinese">他是铁石心肠。</span><span class="english">His heart is stone cold.</span></p>

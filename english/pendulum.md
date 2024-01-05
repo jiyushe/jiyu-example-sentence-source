@@ -1,5 +1,7 @@
 # pendulum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pendulum.md)
+
 <p><span class="chinese">这里是一个钟摆。</span><span class="english">I have here a pendulum.</span></p>
 
 <p><span class="chinese">钟摆以摆动计秒。</span><span class="english">A pendulum vibrates seconds.</span></p>

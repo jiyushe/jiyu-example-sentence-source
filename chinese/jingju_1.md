@@ -1,5 +1,7 @@
 # 惊惧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingju_1.md)
+
 <p><span class="chinese">无论是谁拍下的这些照片，都做了一件令人惊惧的事。</span><span class="english">Whoever took these pictures did an awesome job.</span></p>
 
 <p><span class="chinese">亚多尼雅的众客听见这话就都惊惧，起来四散。</span><span class="english">At this, all Adonijah's guests rose in alarm and dispersed.</span></p>

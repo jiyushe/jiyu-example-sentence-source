@@ -1,5 +1,7 @@
 # advertizing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/advertizing.md)
+
 <p><span class="chinese">西安哪家广告公司好？</span><span class="english">Which Xi'an advertizing company regards?</span></p>
 
 <p><span class="chinese">大部分的钱去媒体广告。</span><span class="english">Most of the money went to media advertizing.</span></p>

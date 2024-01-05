@@ -1,5 +1,7 @@
 # 矿物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuangwu.md)
+
 <p><span class="chinese">煤和铁都是矿物。</span><span class="english">Coal and iron are minerals.</span></p>
 
 <p><span class="chinese">我们地球上有矿物燃料。</span><span class="english">We have fossil fuel on Earth.</span></p>

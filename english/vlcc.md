@@ -1,5 +1,7 @@
 # vlcc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vlcc.md)
+
 <p><span class="chinese">在本文研究的初始阶段，完成了型线设计和优化。</span><span class="english">The lines design and optimization for the 300,000t twin-skeg type VLCC was proceeded.</span></p>
 
 <p><span class="chinese">灵便型油船在油轮市场具有不可或缺的地位，它与大型油轮之间是互补的关系。</span><span class="english">Handy-size tanker plays a very important part in tanker market, which is a complementation with VLCC.</span></p>

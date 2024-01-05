@@ -1,5 +1,7 @@
 # 飞弹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feidan_1.md)
+
 <p><span class="chinese">用雷射导引的飞弹非常精确。</span><span class="english">Laser-guided missiles are extremely accurate.</span></p>
 
 <p><span class="chinese">强化奥术飞弹重命名为奥术稳定?。</span><span class="english">Improved Arcane Missles renamed Arcane Stability.</span></p>

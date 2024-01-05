@@ -1,5 +1,7 @@
 # 告竣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaojun.md)
+
 <p><span class="chinese">单方告竣了开火协议。</span><span class="english">The two sides agreed on a cease-fire.</span></p>
 
 <p><span class="chinese">工程全部告竣。</span><span class="english">The whole project has been completed.</span></p>

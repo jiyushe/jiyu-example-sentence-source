@@ -1,5 +1,7 @@
 # wildlife
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wildlife.md)
+
 <p><span class="chinese">为什么要成为野生动物Rehabilitator？。</span><span class="english">Why Become a Wildlife Rehabilitator?</span></p>
 
 <p><span class="chinese">图片承蒙世界自然基金会惠赠</span><span class="english">Photograph courtesy World Wildlife Fund</span></p>

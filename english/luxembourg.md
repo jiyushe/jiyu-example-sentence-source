@@ -1,5 +1,7 @@
 # luxembourg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luxembourg.md)
+
 <p><span class="chinese">你可以步行到怡和卢森堡，是个惊人的地方。</span><span class="english">Does she still come to the Luxembourg?</span></p>
 
 <p><span class="chinese">马吕斯又进了卢森堡公园。</span><span class="english">Marius betook himself to the Luxembourg.</span></p>

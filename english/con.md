@@ -1,5 +1,7 @@
 # con
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/con.md)
+
 <p><span class="chinese">赞成还是反对？</span><span class="english">Pro or con?</span></p>
 
 <p><span class="chinese">您用现金还是支票？</span><span class="english">En efectivo o con cheque?</span></p>

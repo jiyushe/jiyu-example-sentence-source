@@ -1,5 +1,7 @@
 # 字节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zijie.md)
+
 <p><span class="chinese">8比特，即1个字节。</span><span class="english">So 8 bits, aka 1 byte.</span></p>
 
 <p><span class="chinese">一个1字节的选择符域。</span><span class="english">A 1-byte selector field.</span></p>

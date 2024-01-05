@@ -1,5 +1,7 @@
 # atrocity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atrocity.md)
+
 <p><span class="chinese">在这种地方建造战俘收容所本身就是一种残虐。</span><span class="english">Building a POW camp in a place like this is an atrocity in itself.</span></p>
 
 <p><span class="chinese">事实上，这些照片在医学上很正常，它们并非活体解剖暴行的证据。</span><span class="english">In reality these photos are medical in nature, and are not evidence of atrocity.</span></p>

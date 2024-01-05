@@ -1,5 +1,7 @@
 # voyeur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/voyeur.md)
+
 <p><span class="chinese">我什么时候也变成了一个如此八卦的人呢。</span><span class="english">When had I become such a voyeur?</span></p>
 
 <p><span class="chinese">你是某种蠕动的窥淫癖者。</span><span class="english">You're some kind of creepy voyeur.</span></p>

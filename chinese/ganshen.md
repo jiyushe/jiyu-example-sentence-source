@@ -1,5 +1,7 @@
 # 肝肾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganshen.md)
+
 <p><span class="chinese">在本为肝肾不及。</span><span class="english">In this for hepatorenal is inferior.</span></p>
 
 <p><span class="chinese">枸杞子能补肝肾。</span><span class="english">Chinese Wolfberry nourishes the liver and kidney.</span></p>

@@ -1,5 +1,7 @@
 # 污蔑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wumie_1.md)
+
 <p><span class="chinese">有些则完全是污蔑性的。</span><span class="english">Some are downright insulting.</span></p>
 
 <p><span class="chinese">我不想污蔑你的诚实。使生效，施法。</span><span class="english">I do not wish to cast aspersions on your honesty.</span></p>

@@ -1,5 +1,7 @@
 # smoother
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smoother.md)
+
 <p><span class="chinese">更加顺畅的安装。</span><span class="english">A much smoother installation.</span></p>
 
 <p><span class="chinese">那张皮比这张平滑。</span><span class="english">That leather is smoother than this.</span></p>

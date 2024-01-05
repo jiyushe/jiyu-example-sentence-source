@@ -1,5 +1,7 @@
 # scabbed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scabbed.md)
+
 <p><span class="chinese">耶稣，医治我为罪恶所创伤的肉体。</span><span class="english">Jesus, heal my body scabbed with sins!</span></p>
 
 <p><span class="chinese">一羊生癣，群羊受害。</span><span class="english">One scabbed sheep will mar a whole flock.</span></p>

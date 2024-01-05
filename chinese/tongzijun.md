@@ -1,5 +1,7 @@
 # 童子军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongzijun.md)
+
 <p><span class="chinese">童子军活动？</span><span class="english">Scouting?</span></p>
 
 <p><span class="chinese">嗨，我也当过童子军。</span><span class="english">Hey, I was in the Scouts too.</span></p>

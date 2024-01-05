@@ -1,5 +1,7 @@
 # homegrown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homegrown.md)
+
 <p><span class="chinese">也许可以通过施农家肥是它活过来。</span><span class="english">Perhaps I can revive it with some homegrown COMPOST.</span></p>
 
 <p><span class="chinese">啊，一场国产的金融危机令一切大变样。</span><span class="english">Ah, what a difference a homegrown financial crisis makes.</span></p>

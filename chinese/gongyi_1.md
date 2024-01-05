@@ -1,5 +1,7 @@
 # 公益
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongyi_1.md)
+
 <p><span class="chinese">再次感激九一六资讯公益搭建这个平台。</span><span class="english">Thanks again for creating such a platform.</span></p>
 
 <p><span class="chinese">因为这是伍泰洋自己的公益家园。</span><span class="english">Because it is my commonweal home of myself.</span></p>

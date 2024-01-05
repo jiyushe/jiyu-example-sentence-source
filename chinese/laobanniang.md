@@ -1,5 +1,7 @@
 # 老板娘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laobanniang.md)
+
 <p><span class="chinese">旅馆的老板娘走进来。</span><span class="english">The landlady of the hotel entered.</span></p>
 
 <p><span class="chinese">老板娘在和一个人谈论。</span><span class="english">Proprietress in and talk about a person.</span></p>

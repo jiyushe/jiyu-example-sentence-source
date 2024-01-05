@@ -1,5 +1,7 @@
 # 必要
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biyao.md)
+
 <p><span class="chinese">你没必要去。</span><span class="english">You need not go.</span></p>
 
 <p><span class="chinese">我必要回护。</span><span class="english">I need instruction.</span></p>

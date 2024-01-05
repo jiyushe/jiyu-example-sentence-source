@@ -1,5 +1,7 @@
 # 领土
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingtu.md)
+
 <p><span class="chinese">以色列必须保卫其领土。</span><span class="english">Israel must defend its territory.</span></p>
 
 <p><span class="chinese">他们对敌军领土进行了突袭。</span><span class="english">They forayed into enemy territory.</span></p>

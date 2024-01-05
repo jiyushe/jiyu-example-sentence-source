@@ -1,5 +1,7 @@
 # shop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shop.md)
+
 <p><span class="chinese">复印店。</span><span class="english">Print shop.</span></p>
 
 <p><span class="chinese">我喜欢购物。</span><span class="english">I like to shop.</span></p>

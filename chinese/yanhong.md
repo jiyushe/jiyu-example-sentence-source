@@ -1,5 +1,7 @@
 # 嫣红
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanhong.md)
+
 <p><span class="chinese">玫瑰的嫣红，永不退色。</span><span class="english">Yanhong roses never fade.</span></p>
 
 <p><span class="chinese">金环便出鬼计让嫣红把孩子打掉。</span><span class="english">Gold was a ghost meter purples kid dozen.</span></p>

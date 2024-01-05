@@ -1,5 +1,7 @@
 # theosophical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theosophical.md)
+
 <p><span class="chinese">这些能量场在神智学作品中称作“躯体”或“载体”。</span><span class="english">These fields of energy are called "bodies" or "vehicles" in the theosophical literature.</span></p>
 
 <p><span class="chinese">在我长大一些并遇到Leadbeater主教与通神学会后，我开始看见K。</span><span class="english">When I grew older and met with Bishop Leadbeater and the Theosophical Society, I began to see the Master K.</span></p>

@@ -1,5 +1,7 @@
 # 呈交
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengjiao.md)
+
 <p><span class="chinese">他向委员会呈交了一份报告。</span><span class="english">He submitted the report to the committee.</span></p>
 
 <p><span class="chinese">我把报告整理好再呈交。</span><span class="english">I tided up the report before handing it in.</span></p>

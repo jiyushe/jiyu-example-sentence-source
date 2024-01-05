@@ -1,5 +1,7 @@
 # silvan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silvan.md)
+
 <p><span class="chinese">森林总经济价值，又称森林的经济效益。</span><span class="english">Value of silvan total economy, weigh silvan economic benefits again.</span></p>
 
 <p><span class="chinese">大面积的森林全貌可以从一份图表中详尽地表示出来。</span><span class="english">The silvan panorama of large area is OK express in detail from inside a chart.</span></p>

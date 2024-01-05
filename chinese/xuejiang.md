@@ -1,5 +1,7 @@
 # 血浆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuejiang.md)
+
 <p><span class="chinese">“血浆，”第三个说。</span><span class="english">"Plasma," says the vampire.</span></p>
 
 <p><span class="chinese">负O型血和新鲜冷冻血浆到了吗？</span><span class="english">O neg and fresh frozen on the way?</span></p>

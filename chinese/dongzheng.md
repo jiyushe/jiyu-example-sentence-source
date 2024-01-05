@@ -1,5 +1,7 @@
 # 东征
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongzheng.md)
+
 <p><span class="chinese">亚历山大王,东征印地</span><span class="english">Young Alexander conquered India.</span></p>
 
 <p><span class="chinese">从这个角度说，十字军东征不仅仅是古代史。</span><span class="english">They are not just ancient history.</span></p>

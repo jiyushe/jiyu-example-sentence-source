@@ -1,5 +1,7 @@
 # miri
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/miri.md)
+
 <p><span class="chinese">美里支部主席房保德和卑尔骚主席主席张李树一行人访弄拉玛和附近长屋。</span><span class="english">DAP MIRI chairman Fong and Piasau chairman visit Long Lama and the nearby long houses.</span></p>
 
 <p><span class="chinese">结论补阳还五汤及拆方可增加血清NO的含量，减轻MIRI。</span><span class="english">Conclusions BHD and divided-formulae can improve the contents of serum NO and lessen MIRI.</span></p>

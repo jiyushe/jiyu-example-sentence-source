@@ -1,5 +1,7 @@
 # predetermine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/predetermine.md)
+
 <p><span class="chinese">在思考前，不要预作决定。</span><span class="english">Do not predetermine before thinking.</span></p>
 
 <p><span class="chinese">我们不能看透别人的心中所想也不能预先断定别人的目的。</span><span class="english">We can't read minds and we can't predetermine intent.</span></p>

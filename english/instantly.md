@@ -1,5 +1,7 @@
 # instantly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/instantly.md)
+
 <p><span class="chinese">我立刻达到高潮。</span><span class="english">I climaxed instantly.</span></p>
 
 <p><span class="chinese">火柴立刻燃着。</span><span class="english">The match caught instantly.</span></p>

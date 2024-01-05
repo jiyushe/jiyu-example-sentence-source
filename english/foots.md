@@ -1,5 +1,7 @@
 # foots
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foots.md)
+
 <p><span class="chinese">谁会为这些买单？</span><span class="english">Who foots the bill?</span></p>
 
 <p><span class="chinese">呦，脚还在…你闻到受害者的味道了吗。</span><span class="english">Yo, man, Foots still down. you smell the vic.</span></p>

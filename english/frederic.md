@@ -1,5 +1,7 @@
 # frederic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frederic.md)
+
 <p><span class="chinese">弗里德里克·布兰德博士有几个让他声名鹊起的名言。</span><span class="english">Dr Frederic Brandt has several claims to fame.</span></p>
 
 <p><span class="chinese">弗雷德里克·米斯特尔码头处，建筑物的百叶窗和阳台。</span><span class="english">Shutters and balconies on building on Quai Frederic Mistral.</span></p>

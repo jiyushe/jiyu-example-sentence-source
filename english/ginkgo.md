@@ -1,5 +1,7 @@
 # ginkgo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ginkgo.md)
+
 <p><span class="chinese">然而这棵古银杏树却是特别的。</span><span class="english">But the Ginkgo is special.</span></p>
 
 <p><span class="chinese">银杏树可是宝树。</span><span class="english">The ginkgo is a tree of treasures.</span></p>

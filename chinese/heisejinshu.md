@@ -1,5 +1,7 @@
 # 黑色金属
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heisejinshu.md)
+
 <p><span class="chinese">几乎所有的黑色金属中都含有碳。</span><span class="english">Carbon is found in almost all ferrous metals.</span></p>
 
 <p><span class="chinese">美国黑色金属铸造业。</span><span class="english">Ferrous Metal Foundries Industry in the U. S.</span></p>

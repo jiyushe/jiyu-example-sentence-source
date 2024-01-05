@@ -1,5 +1,7 @@
 # 夭折
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaozhe.md)
+
 <p><span class="chinese">他的兄弟很快夭折。</span><span class="english">His brother soon died.</span></p>
 
 <p><span class="chinese">和平会谈最终夭折了。</span><span class="english">The peace talks were nipped in the end.</span></p>

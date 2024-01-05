@@ -1,5 +1,7 @@
 # edie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/edie.md)
+
 <p><span class="chinese">Edie回首他们特殊的友谊。</span><span class="english">Edie looks back on their special friendship.</span></p>
 
 <p><span class="chinese">我刚看完电影回来。伊迪家着火了？</span><span class="english">MP3 I just got back from the movies. Edie had a fire?</span></p>

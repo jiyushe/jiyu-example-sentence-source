@@ -1,5 +1,7 @@
 # appositive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appositive.md)
+
 <p><span class="chinese">当其充当同位语时，亦可省略。</span><span class="english">This is also true to appositive prepositional phrases.</span></p>
 
 <p><span class="chinese">同位词组为修饰词语的名词或代名词。</span><span class="english">Appositive phrases are nouns or pronouns with modifiers.</span></p>

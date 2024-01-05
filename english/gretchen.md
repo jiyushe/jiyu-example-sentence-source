@@ -1,5 +1,7 @@
 # gretchen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gretchen.md)
+
 <p><span class="chinese">格雷琴亲吻了她的女儿就离开了。</span><span class="english">Gretchen kisses the girl and leaves.</span></p>
 
 <p><span class="chinese">格雷琴。卢斯迪克喜欢做木偶。</span><span class="english">But Gretchen Lustig likes to make puppets.</span></p>

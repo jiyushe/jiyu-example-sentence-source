@@ -1,5 +1,7 @@
 # lunette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lunette.md)
+
 <p><span class="chinese">噢，我们打了篮球、还踢了一会儿足球。</span><span class="english">Oh, we've got basketball, lunette ray ban, a mini soccer, for well.</span></p>
 
 <p><span class="chinese">“你没有证据。”那学生气急败坏地说。</span><span class="english">"You cann't certify that, lunette carrera! " the student sputtered.</span></p>

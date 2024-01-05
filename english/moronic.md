@@ -1,5 +1,7 @@
 # moronic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moronic.md)
+
 <p><span class="chinese">它使你看起来像傻瓜似的。</span><span class="english">It makes you look moronic.</span></p>
 
 <p><span class="chinese">我意识到这个问题听起来很弱智。</span><span class="english">I realise the question sounds moronic.</span></p>

@@ -1,5 +1,7 @@
 # accidently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accidently.md)
+
 <p><span class="chinese">小约翰误吞了一枚25美分硬币。</span><span class="english">Little Johnny accidently swallowed a quarter.</span></p>
 
 <p><span class="chinese">他是不小心将名字留在了营业税单上的。</span><span class="english">he had accidently put his name on the sales-tax form.</span></p>

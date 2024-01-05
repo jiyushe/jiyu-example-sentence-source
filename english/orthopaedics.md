@@ -1,5 +1,7 @@
 # orthopaedics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orthopaedics.md)
+
 <p><span class="chinese">他对整形外科是个外行。</span><span class="english">Orthopaedics is outside his territory.</span></p>
 
 <p><span class="chinese">在骨科专业，我们有我们的“蛋糕并吃掉它”。</span><span class="english">In Orthopaedics we can have our "cake and eat it too".</span></p>

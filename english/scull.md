@@ -1,5 +1,7 @@
 # scull
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scull.md)
+
 <p><span class="chinese">他们划得有多快？</span><span class="english">How fast did they scull?</span></p>
 
 <p><span class="chinese">赛艇上有舵手吗?。</span><span class="english">Did the scull have a cox?</span></p>

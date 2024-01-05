@@ -1,5 +1,7 @@
 # olympia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/olympia.md)
+
 <p><span class="chinese">这里有很贴心的服务和建议！</span><span class="english">"Very good service advice" T. T. of Olympia.</span></p>
 
 <p><span class="chinese">奥林匹克运动会每四年在希腊的奥林姆匹亚举办一次。</span><span class="english">They were held at Olympia in Greece every four years.</span></p>

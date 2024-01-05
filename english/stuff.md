@@ -1,5 +1,7 @@
 # stuff 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stuff.md)
+
 <p><span class="chinese">我喜欢我的东西。</span><span class="english">I like my stuff.</span></p>
 
 <p><span class="chinese">更酷的东西。</span><span class="english">More cool stuff.</span></p>

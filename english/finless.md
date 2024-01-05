@@ -1,5 +1,7 @@
 # finless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/finless.md)
+
 <p><span class="chinese">现在，是时候寻求拯救白鳍豚的时候了。</span><span class="english">Now, it is time to find ways to save the Finless Porpoise.</span></p>
 
 <p><span class="chinese">长江江豚的灭亡将会是生态系统遭受破坏的一个标志。</span><span class="english">The finless porpoise is an icon of an ecosystem under siege.</span></p>

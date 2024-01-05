@@ -1,5 +1,7 @@
 # structural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/structural.md)
+
 <p><span class="chinese">我喜欢这个建筑构思。</span><span class="english">I liked the structural idea.</span></p>
 
 <p><span class="chinese">空气锤结构设计。</span><span class="english">Air hammer's structural design.</span></p>

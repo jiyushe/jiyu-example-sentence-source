@@ -1,5 +1,7 @@
 # flotsam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flotsam.md)
+
 <p><span class="chinese">暴风雨后，海上漂浮著遇难船只的残骸和货物。</span><span class="english">After the storm, the sea was covered with flotsam and jetsam.</span></p>
 
 <p><span class="chinese">生病和饥饿的难民是遭战祸而流离失所的苦命人。</span><span class="english">Sick and starving refugees are the flotsam and jetsam of war.</span></p>

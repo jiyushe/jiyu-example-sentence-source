@@ -1,5 +1,7 @@
 # iaaf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iaaf.md)
+
 <p><span class="chinese">国际业余田联世界室内田径锦标赛。</span><span class="english">IAAF World Indoor Track and Field Championships.</span></p>
 
 <p><span class="chinese">现在国际田联共有213个会员国。</span><span class="english">Now the IAAF has a total of 213 member federation.</span></p>

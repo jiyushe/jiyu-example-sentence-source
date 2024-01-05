@@ -1,5 +1,7 @@
 # holden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/holden.md)
+
 <p><span class="chinese">死在上流社会的两大霍尔登。</span><span class="english">Death in High Society by Inez Holden.</span></p>
 
 <p><span class="chinese">是的，霍尔登就是这样，有几个。</span><span class="english">Yes, Holden . That's all it was, some sex.</span></p>

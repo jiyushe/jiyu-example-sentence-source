@@ -1,5 +1,7 @@
 # multipolar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multipolar.md)
+
 <p><span class="chinese">小草的颜色很多，有青色的、绿色的、翠色的，多极了。</span><span class="english">Grass color many, have blue, green, green color, multipolar.</span></p>
 
 <p><span class="chinese">奥巴马的决定将会刺激克里姆林宫对多极世界的思考。</span><span class="english">Obama's decision will stimulate thinking in the multipolar world within the Kremlin.</span></p>

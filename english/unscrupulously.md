@@ -1,5 +1,7 @@
 # unscrupulously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unscrupulously.md)
+
 <p><span class="chinese">你说许多大公司不择手段，你能举个例子吗?。</span><span class="english">You say that many big companies act unscrupulously.</span></p>
 
 <p><span class="chinese">于这个谎言中，人们恣意喝酒、撒野或者沽名钓誉。</span><span class="english">In this lies, people unscrupulously drink, act boorishly to perhaps fish for fame.</span></p>

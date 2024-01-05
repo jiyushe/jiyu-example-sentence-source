@@ -1,5 +1,7 @@
 # porous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/porous.md)
+
 <p><span class="chinese">有一个长长的，松散的边境线。</span><span class="english">There is a long porous border.</span></p>
 
 <p><span class="chinese">他往土里搀沙子以提高渗水性能。</span><span class="english">He add sand to the soil to make it more porous.</span></p>

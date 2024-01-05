@@ -1,5 +1,7 @@
 # 恶感
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/egan.md)
+
 <p><span class="chinese">他们为什么有罪恶感？</span><span class="english">Why do they feel guilty?</span></p>
 
 <p><span class="chinese">必须把一切恶感消灭于萌芽状态之中。</span><span class="english">Any ill-feeling has to be nipped in the bud.</span></p>

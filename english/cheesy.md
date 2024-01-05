@@ -1,5 +1,7 @@
 # cheesy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheesy.md)
+
 <p><span class="chinese">我可以潇洒的让你走。</span><span class="english">I can cheesy let you go.</span></p>
 
 <p><span class="chinese">如果快乐的查里选择干酪海鲜汤了。</span><span class="english">If cheerful Charlie chose a cheesy chowder.</span></p>

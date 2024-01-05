@@ -1,5 +1,7 @@
 # stalagmite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stalagmite.md)
+
 <p><span class="chinese">石笋，这个洞穴里随处可见。</span><span class="english">A stalagmite. The cave is full of them.</span></p>
 
 <p><span class="chinese">石笋在钟乳石下面，它们二者都在增长，最终会合。</span><span class="english">A stalagmite is below a stalactite and they both grow, eventually to meet.</span></p>

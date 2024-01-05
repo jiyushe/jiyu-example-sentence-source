@@ -1,5 +1,7 @@
 # transpacific
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transpacific.md)
+
 <p><span class="chinese">我们毕竟既是一个跨大西洋大国，也是一个跨太平洋大国。</span><span class="english">We are, after all, both a transatlantic and a transpacific power.</span></p>
 
 <p><span class="chinese">中国飞往北美的跨太平洋直达航班主要从北京或上海出发。</span><span class="english">Transpacific nonstop flights from China mainly originate from Beijing or Shanghai.</span></p>

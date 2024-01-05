@@ -1,5 +1,7 @@
 # distasteful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distasteful.md)
+
 <p><span class="chinese">一些人反感这个想法。</span><span class="english">Some people find this idea distasteful.</span></p>
 
 <p><span class="chinese">不能强迫她与她不喜欢的男人成婚。</span><span class="english">Don't force her into a distasteful marriage.</span></p>

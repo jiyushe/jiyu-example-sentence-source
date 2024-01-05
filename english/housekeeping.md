@@ -1,5 +1,7 @@
 # housekeeping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/housekeeping.md)
+
 <p><span class="chinese">再唠叨几句题外话。</span><span class="english">Just a few words about housekeeping.</span></p>
 
 <p><span class="chinese">晚上好，这里是客房部。</span><span class="english">Good evening. Housekeeping Department.</span></p>

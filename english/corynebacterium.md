@@ -1,5 +1,7 @@
 # corynebacterium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corynebacterium.md)
+
 <p><span class="chinese">这是由于细菌命名白喉棒状杆菌。</span><span class="english">It is caused by a bacteria named Corynebacterium diphtheriae.</span></p>
 
 <p><span class="chinese">我国常用的菌种有北京棒状杆菌、纯齿棒状杆菌等。</span><span class="english">China has used the Beijing Corynebacterium species, such as pure tooth Corynebacterium.</span></p>

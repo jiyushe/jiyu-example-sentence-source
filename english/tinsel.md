@@ -1,5 +1,7 @@
 # tinsel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tinsel.md)
+
 <p><span class="chinese">亮金属片在圣诞树上。</span><span class="english">Tinsel on the Christmas tree.</span></p>
 
 <p><span class="chinese">由金属丝、制成或装饰的。</span><span class="english">Made of or decorated with tinsel.</span></p>

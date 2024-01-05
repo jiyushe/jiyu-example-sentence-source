@@ -1,5 +1,7 @@
 # 工作面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongzuomian.md)
+
 <p><span class="chinese">这个旧的采煤工作面下周将重新开采。</span><span class="english">This old coal face is to be reworked next week.</span></p>
 
 <p><span class="chinese">我们必须使我们的工作面向人民的需要。</span><span class="english">We must orient our work to the needs of the people.</span></p>

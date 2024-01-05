@@ -1,5 +1,7 @@
 # unprincipled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unprincipled.md)
+
 <p><span class="chinese">无原则的迁就对他有害。</span><span class="english">Unprincipled accommodation will do harm to him.</span></p>
 
 <p><span class="chinese">你应当克制自己不要作无原则的争论。</span><span class="english">You should refrain from  unprincipled argument.</span></p>

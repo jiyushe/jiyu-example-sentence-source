@@ -1,5 +1,7 @@
 # clamour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clamour.md)
+
 <p><span class="chinese">来往车辆嘈杂的声浪使人头痛。</span><span class="english">The clamour of the heavy traffic gave you a headache.</span></p>
 
 <p><span class="chinese">有时候，可能不用吵吵闹闹、沸沸扬扬的就可以完成改革。</span><span class="english">Reform is sometimes possible without clamour and controversy.</span></p>

@@ -1,5 +1,7 @@
 # donnie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/donnie.md)
+
 <p><span class="chinese">洪金宝便是甄子丹真正的朋友。</span><span class="english">Sammo hung is donnie yen true friends.</span></p>
 
 <p><span class="chinese">本片的阵容包括甄子丹和金城武。</span><span class="english">Starring Donnie Yen and Takeshi Kaneshiro.</span></p>

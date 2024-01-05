@@ -1,5 +1,7 @@
 # 线头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiantou_1.md)
+
 <p><span class="chinese">她剪掉了松散的线头。</span><span class="english">She trimmed off the loose threads.</span></p>
 
 <p><span class="chinese">是否有你不需要的无关线头？</span><span class="english">Are there extraneous cords you don’t need?</span></p>

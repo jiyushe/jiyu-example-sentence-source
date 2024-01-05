@@ -1,5 +1,7 @@
 # shorthand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shorthand.md)
+
 <p><span class="chinese">他速记下一封信。</span><span class="english">He took a letter in shorthand.</span></p>
 
 <p><span class="chinese">这是速记符号。</span><span class="english">This is my shorthand notation.</span></p>

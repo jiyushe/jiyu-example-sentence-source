@@ -1,5 +1,7 @@
 # 说不得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuobude.md)
+
 <p><span class="chinese">说不得还养了三只大狗两只暹罗猫猫。</span><span class="english">Not say also raises three big dog two Siam cat.</span></p>
 
 <p><span class="chinese">一个中学生说不得到他爸爸的同意就开他的车出去玩是危险的。</span><span class="english">Driving my father's car without his consent is a risky business.</span></p>

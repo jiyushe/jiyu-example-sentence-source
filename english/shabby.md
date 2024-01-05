@@ -1,5 +1,7 @@
 # shabby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shabby.md)
+
 <p><span class="chinese">这并不太低劣。</span><span class="english">That's not too shabby.</span></p>
 
 <p><span class="chinese">他们住在一条陋巷里。</span><span class="english">They lived in a shabby street.</span></p>

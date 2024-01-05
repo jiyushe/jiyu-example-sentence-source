@@ -1,5 +1,7 @@
 # 默然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moran_1.md)
+
 <p><span class="chinese">儿子默然不语。</span><span class="english">His son kept silent.</span></p>
 
 <p><span class="chinese">接下来第二步则是连结默然。</span><span class="english">Being silent is the second.</span></p>

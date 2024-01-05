@@ -1,5 +1,7 @@
 # caress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caress.md)
+
 <p><span class="chinese">复有垂杨拂酒杯。</span><span class="english">Willow twigs caress my wine cup gently.</span></p>
 
 <p><span class="chinese">朱丽叶温柔的爱抚使他安静下来。</span><span class="english">Julia silences him with a tender caress.</span></p>

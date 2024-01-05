@@ -1,5 +1,7 @@
 # miter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/miter.md)
+
 <p><span class="chinese">建立斜接接合。</span><span class="english">Creating miter joints.</span></p>
 
 <p><span class="chinese">通过斜面连接在一起。</span><span class="english">To meet in a miter joint.</span></p>

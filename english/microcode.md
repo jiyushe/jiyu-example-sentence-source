@@ -1,5 +1,7 @@
 # microcode
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microcode.md)
+
 <p><span class="chinese">垂直微码?。</span><span class="english">VMC? Vertical MicroCode?</span></p>
 
 <p><span class="chinese">微控制器，带有指点杆从IBM微码。</span><span class="english">Microcontroller with TrackPoint microcode from IBM.</span></p>

@@ -1,5 +1,7 @@
 # respectability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/respectability.md)
+
 <p><span class="chinese">体面不体面其实根本就是单向的。</span><span class="english">The respectability is very one-sided.</span></p>
 
 <p><span class="chinese">他渴望丢掉那副道貌岸然的伪装。</span><span class="english">He longed to throw off the mask of respectability.</span></p>

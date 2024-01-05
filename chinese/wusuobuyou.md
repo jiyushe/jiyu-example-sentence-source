@@ -1,5 +1,7 @@
 # 无所不有
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wusuobuyou.md)
+
 <p><span class="chinese">而你，我希望你会无所不有。</span><span class="english">To you, I wish you everything.</span></p>
 
 <p><span class="chinese">一个无所不有的人就某些方面来说其实是个“穷”人。</span><span class="english">A man who has everything is a poor man in some ways.</span></p>

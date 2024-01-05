@@ -1,5 +1,7 @@
 # 担任
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danren.md)
+
 <p><span class="chinese">他们担任什么角色？</span><span class="english">What roles do they play?</span></p>
 
 <p><span class="chinese">他担任牛津大学赛船的掌舵人。</span><span class="english">He coxed the Oxford boat.</span></p>

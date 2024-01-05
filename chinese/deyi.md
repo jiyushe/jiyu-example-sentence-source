@@ -1,5 +1,7 @@
 # 得以
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/deyi.md)
+
 <p><span class="chinese">安娜被得以得笑着说。</span><span class="english">Annabel said, smirking.</span></p>
 
 <p><span class="chinese">使永恒在有限里得以延续。</span><span class="english">That lasts in the finity.</span></p>

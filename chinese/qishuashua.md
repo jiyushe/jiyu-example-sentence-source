@@ -1,5 +1,7 @@
 # 齐刷刷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qishuashua.md)
+
 <p><span class="chinese">十双惊愕的眼睛齐刷刷地看着他。</span><span class="english">Ten pairs of startled eyes looked at him.</span></p>
 
 <p><span class="chinese">我们齐刷刷地从草丛里跳出来，咆哮着，淌着口水。</span><span class="english">We all jumped out from behind the bushes, roaring and slobbering.</span></p>

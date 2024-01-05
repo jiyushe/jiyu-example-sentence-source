@@ -1,5 +1,7 @@
 # chloric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chloric.md)
+
 <p><span class="chinese">水氯酊对青春痘疗效怎么样?。</span><span class="english">Is water chloric Ding right whelk curative effect how?</span></p>
 
 <p><span class="chinese">氯雷他定胶囊什么时候吃效果最好？</span><span class="english">Does he decide chloric thunder when does capsule take the effect best?</span></p>

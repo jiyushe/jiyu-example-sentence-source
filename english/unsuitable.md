@@ -1,5 +1,7 @@
 # unsuitable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsuitable.md)
+
 <p><span class="chinese">该盘不适合做系统盘。</span><span class="english">Disk unsuitable for system disk.</span></p>
 
 <p><span class="chinese">这使得它不适宜作电脑的内存。</span><span class="english">That makes it unsuitable for computer memories.</span></p>

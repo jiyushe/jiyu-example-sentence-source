@@ -1,5 +1,7 @@
 # rifling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rifling.md)
+
 <p><span class="chinese">有人一直在翻我的抽屉偷东西。</span><span class="english">Somebody has been rifling my drawers.</span></p>
 
 <p><span class="chinese">这是少有的，她说，通过病人的破烂的纪录膛线。</span><span class="english">It was rare, she said, rifling through a patient's tattered record.</span></p>

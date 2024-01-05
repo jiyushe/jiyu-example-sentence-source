@@ -1,5 +1,7 @@
 # 大骨节病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dagujiebing.md)
+
 <p><span class="chinese">结论单倍型TGC与大骨节病具有相关性。</span><span class="english">Conclusion The polymorphism of haplotype TGC is associated with KBD.</span></p>
 
 <p><span class="chinese">结论换粮预防大骨节病效果显著。</span><span class="english">Conclusions It's a useful method to prevent KBD by exchanging grain.</span></p>

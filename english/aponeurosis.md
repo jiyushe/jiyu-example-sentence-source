@@ -1,5 +1,7 @@
 # aponeurosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aponeurosis.md)
+
 <p><span class="chinese">均手术切除局部的掌腱膜条索。</span><span class="english">The local strip of palmar aponeurosis was excised.</span></p>
 
 <p><span class="chinese">目的探讨腱膜性上睑下垂的手术治疗方法及效果。</span><span class="english">Objective To study the surgery methods of aponeurosis ptosis and obverse the results.</span></p>

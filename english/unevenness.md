@@ -1,5 +1,7 @@
 # unevenness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unevenness.md)
+
 <p><span class="chinese">另外，如果出现任何不均匀的床垫。</span><span class="english">Also, if there appears to be any unevenness of your mattress.</span></p>
 
 <p><span class="chinese">我用砂纸磨边边角角的地方，去除接头处的不均。</span><span class="english">I sanded the corners to take away any unevenness in the joints.</span></p>

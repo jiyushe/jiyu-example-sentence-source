@@ -1,5 +1,7 @@
 # homer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homer.md)
+
 <p><span class="chinese">我希望能够再现荷马的原话</span><span class="english">I wish I could reproduce the Homer.</span></p>
 
 <p><span class="chinese">“您是桑多瓦尔夫人吗?”霍默问道。</span><span class="english">"Are you Mrs. Sandoval?" Homer said.</span></p>

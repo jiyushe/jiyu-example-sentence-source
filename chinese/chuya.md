@@ -1,5 +1,7 @@
 # 出芽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuya.md)
+
 <p><span class="chinese">爸爸说，它能让木锯子上都抽出芽来。</span><span class="english">Papa said it would grow hair on a crosscut saw.</span></p>
 
 <p><span class="chinese">这类种子种下后3天出芽。</span><span class="english">The seeds will sprout in 3 days after they are sown.</span></p>

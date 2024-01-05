@@ -1,5 +1,7 @@
 # upi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upi.md)
+
 <p><span class="chinese">王身敦于1983年任合众国际社摄影记者，自此开始了24年的摄影记者生涯。</span><span class="english">Andrew started his 24-year long photojournalist career as he joined UPI in 1983.</span></p>
 
 <p><span class="chinese">据合众社报道，泄密网站"维基解密"创始人阿桑奇成为国际刑警的要犯，并且已经遭到全球通缉。</span><span class="english">WikiLeaks founder Julian Assange is on Interpol's most-wanted list, UPI reported.</span></p>

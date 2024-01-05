@@ -1,5 +1,7 @@
 # rejuvenation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rejuvenation.md)
+
 <p><span class="chinese">身体和情绪体的疗愈、回春</span><span class="english">Physical &Emotional Healing, Rejuvenation</span></p>
 
 <p><span class="chinese">敬祝这些长者们返老还童，永远年轻。</span><span class="english">Wish the elderly rejuvenation and youth forever.</span></p>

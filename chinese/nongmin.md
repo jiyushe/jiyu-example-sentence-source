@@ -1,5 +1,7 @@
 # 农民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongmin.md)
+
 <p><span class="chinese">你就是一个农民。</span><span class="english">You're a peasant.</span></p>
 
 <p><span class="chinese">农民画啊。</span><span class="english">A farmer painting.</span></p>

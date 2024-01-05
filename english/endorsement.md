@@ -1,5 +1,7 @@
 # endorsement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endorsement.md)
+
 <p><span class="chinese">是否需要扩展内陆运输险？</span><span class="english">Do you need "Inland Transit" Endorsement?</span></p>
 
 <p><span class="chinese">该名单仍然有待皇室的批准。</span><span class="english">The lineup is still pending royal endorsement.</span></p>

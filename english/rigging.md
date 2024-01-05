@@ -1,5 +1,7 @@
 # rigging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rigging.md)
+
 <p><span class="chinese">没有索具或动画是必需的。</span><span class="english">No Rigging or Animation are required.</span></p>
 
 <p><span class="chinese">是的，小型三桅船的索具有很大的区别。</span><span class="english">Yes, it's big difference in rigging a xebec.</span></p>

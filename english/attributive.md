@@ -1,5 +1,7 @@
 # attributive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attributive.md)
+
 <p><span class="chinese">这是一个定语从句。</span><span class="english">This is an attributive clause.</span></p>
 
 <p><span class="chinese">上面一齐看看这些定语从句。</span><span class="english">Let's review these attributive clauses now.</span></p>

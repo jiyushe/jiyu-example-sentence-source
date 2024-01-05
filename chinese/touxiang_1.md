@@ -1,5 +1,7 @@
 # 投降
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touxiang_1.md)
+
 <p><span class="chinese">我投降。</span><span class="english">I surrender.</span></p>
 
 <p><span class="chinese">我们宁死而不投降。</span><span class="english">Don't shoot I surrender.</span></p>

@@ -1,5 +1,7 @@
 # curvy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curvy.md)
+
 <p><span class="chinese">德国两位民众坐在一张弯曲的长沙发上。</span><span class="english">Two people sit on a long, curvy couch in Germany.</span></p>
 
 <p><span class="chinese">这些照片展示出了同样的弧形设计。</span><span class="english">These pictures seem to point to the same curvy design.</span></p>

@@ -1,5 +1,7 @@
 # 日渐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rijian.md)
+
 <p><span class="chinese">王国成的病情日渐恶化。</span><span class="english">Guocheng's condition deteriorated.</span></p>
 
 <p><span class="chinese">这位病人日渐衰弱。</span><span class="english">The patient grew weaker every day.</span></p>

@@ -1,5 +1,7 @@
 # 扑通
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/putong.md)
+
 <p><span class="chinese">他扑通一声跳入水中。</span><span class="english">He flopped into water.</span></p>
 
 <p><span class="chinese">那男孩扑通一声坐下。</span><span class="english">The Boy sat down pimp.</span></p>

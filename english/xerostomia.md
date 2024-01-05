@@ -1,5 +1,7 @@
 # xerostomia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xerostomia.md)
+
 <p><span class="chinese">治疗组除2例有口干，1例声音嘶哑外，无其它不良反应。</span><span class="english">No serious side-effects were foupd except that xerostomia in 2 cases and hoarseness in 1 case were observed.</span></p>
 
 <p><span class="chinese">但是，研究者未能解释为什麽针灸能够减轻口乾病，他们认为可能与调节副交感神经的活性有关。</span><span class="english">Though they cannot explain how acupuncture relieves xerostomia , they suggest that parasympathetic mediation may be involved.</span></p>

@@ -1,5 +1,7 @@
 # 盟邦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mengbang.md)
+
 <p><span class="chinese">史学界部分学者把中法战争前后法俄两国视为共同对抗德国的友好盟邦。</span><span class="english">Some history scholars hold that France and Russia were allies against Germany around Sino-French War.</span></p>
 
 <p><span class="chinese">邦戈的逝世对法国是个损失，因为直到最近他都是法国在非洲最为亲密的盟邦的领导人。</span><span class="english">Bongo's death means the loss to France of a leader who was until very recently its closest ally in Africa.</span></p>

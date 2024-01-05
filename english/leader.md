@@ -1,5 +1,7 @@
 # leader 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leader.md)
+
 <p><span class="chinese">他是位英明领袖。</span><span class="english">He is a wise leader.</span></p>
 
 <p><span class="chinese">他是一个小组长。</span><span class="english">He's a group leader.</span></p>

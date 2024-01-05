@@ -1,5 +1,7 @@
 # 头晕目眩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touyunmuxuan.md)
+
 <p><span class="chinese">我开始感到头晕目眩。</span><span class="english">I began to feel dizzy.</span></p>
 
 <p><span class="chinese">她头晕目眩，昏倒在地。</span><span class="english">She becomes dizzy and faints.</span></p>

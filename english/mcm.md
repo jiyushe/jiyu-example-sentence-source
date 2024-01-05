@@ -1,5 +1,7 @@
 # mcm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mcm.md)
+
 <p><span class="chinese">交叉学科建模竞赛，是MCM的一个组成部分。</span><span class="english">ICM, the Interdisciplinary Contest in Modeling, is a part of MCM.</span></p>
 
 <p><span class="chinese">本文论述了MCM布线编辑器的整个开发过程。</span><span class="english">The dissertation discussed the whole procedure of developing MCM layout editor.</span></p>

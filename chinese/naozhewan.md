@@ -1,5 +1,7 @@
 # 闹着玩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naozhewan.md)
+
 <p><span class="chinese">他只不过闹着玩儿罢了。</span><span class="english">He's just kidding around.</span></p>
 
 <p><span class="chinese">“逗”就是指跟某人闹着玩儿、开玩笑。</span><span class="english">It means to tease or play with.</span></p>

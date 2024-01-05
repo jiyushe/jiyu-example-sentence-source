@@ -1,5 +1,7 @@
 # 虾酱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiajiang_1.md)
+
 <p><span class="chinese">附上特调虾酱。</span><span class="english">Served with house shrimp paste sauce.</span></p>
 
 <p><span class="chinese">小虾米配龙虾酱是谁的？</span><span class="english">Who was the shrimp with lobster sauce?</span></p>

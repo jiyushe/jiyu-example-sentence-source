@@ -1,5 +1,7 @@
 # seafaring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seafaring.md)
+
 <p><span class="chinese">私人游艇属于那些深爱大海的亿万富翁。</span><span class="english">A private yacht is a must for seafaring billionaires.</span></p>
 
 <p><span class="chinese">毛利家拥有漫长的航海史，而且是无可比拟的海上霸主。</span><span class="english">The Mori have a long history of seafaring and are sea masters without equal.</span></p>

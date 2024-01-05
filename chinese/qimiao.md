@@ -1,5 +1,7 @@
 # 奇妙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qimiao.md)
+
 <p><span class="chinese">奇妙吧</span><span class="english">What a world, huh?</span></p>
 
 <p><span class="chinese">奇妙的引用，他想到。</span><span class="english">Good quote, he thinks.</span></p>

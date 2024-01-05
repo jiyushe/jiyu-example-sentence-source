@@ -1,5 +1,7 @@
 # 批语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piyu.md)
+
 <p><span class="chinese">这个批语家的好的评论能使你剧本成功！</span><span class="english">A good review by this critic will make your play!</span></p>
 
 <p><span class="chinese">他对老师的批语很生气。</span><span class="english">He was very angry at the remarks made by his teacher.</span></p>

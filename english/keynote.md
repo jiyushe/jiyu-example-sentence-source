@@ -1,5 +1,7 @@
 # keynote
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keynote.md)
+
 <p><span class="chinese">在这次会议中，我们也有一个会议主旨。</span><span class="english">At this event we also had a keynote.</span></p>
 
 <p><span class="chinese">他讲话的基调是团结。</span><span class="english">The keynote of his speech was unity.</span></p>

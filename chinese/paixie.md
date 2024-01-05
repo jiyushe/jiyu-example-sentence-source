@@ -1,5 +1,7 @@
 # 排泄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paixie.md)
+
 <p><span class="chinese">排泄口上的泵设备是否正确固定?。</span><span class="english">Is Pump Seated on Discharge Properly?</span></p>
 
 <p><span class="chinese">使它排泄在我们高傲的头上。</span><span class="english">Their excrements upon our lofty heads.</span></p>

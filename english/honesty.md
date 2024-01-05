@@ -1,5 +1,7 @@
 # honesty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/honesty.md)
+
 <p><span class="chinese">诚实是一种美德。</span><span class="english">Honesty is a virtue.</span></p>
 
 <p><span class="chinese">她的诚实打动了他。</span><span class="english">Her honesty got to him.</span></p>

@@ -1,5 +1,7 @@
 # 兴冲冲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingchongchong.md)
+
 <p><span class="chinese">一天晚上她的丈夫兴冲冲的回到家。</span><span class="english">One evening her husband came home in high spirits.</span></p>
 
 <p><span class="chinese">老师戴着一副眼镜兴冲冲地走进来。</span><span class="english">The teacher breezed in, wearing a pair of glasses.</span></p>

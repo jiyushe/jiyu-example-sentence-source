@@ -1,5 +1,7 @@
 # 烟鬼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangui.md)
+
 <p><span class="chinese">他是一个老烟鬼。</span><span class="english">He's a chain smoker.</span></p>
 
 <p><span class="chinese">他是个烟鬼.</span><span class="english">He's a chain smoker.</span></p>

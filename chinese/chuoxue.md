@@ -1,5 +1,7 @@
 # 辍学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuoxue.md)
+
 <p><span class="chinese">对于一个叛逆的高中生，辍学并非是坏事。</span><span class="english">Not bad for a rebellious high school dropout.</span></p>
 
 <p><span class="chinese">大量的工作将被提供给中途辍学者。</span><span class="english">Plenty of jobs will be given to school-leavers.</span></p>

@@ -1,5 +1,7 @@
 # derisive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/derisive.md)
+
 <p><span class="chinese">人们都发出嘲笑声。</span><span class="english">People gives out derisive sound.</span></p>
 
 <p><span class="chinese">别嘲笑一个孩子的错误。</span><span class="english">A taunting, scoffing, or derisive look or gibe.</span></p>

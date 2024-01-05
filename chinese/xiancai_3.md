@@ -1,5 +1,7 @@
 # 贤才
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiancai_3.md)
+
 <p><span class="chinese">欢迎贤才人士加入！</span><span class="english">Welcome the talent public figure to join!</span></p>
 
 <p><span class="chinese">对中医有志贤才，须提交申请、单位介绍及相关证明材料。</span><span class="english">Talents of TCM Are required to submit their applications and related units on proof.</span></p>

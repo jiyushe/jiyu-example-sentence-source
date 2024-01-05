@@ -1,5 +1,7 @@
 # 照耀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoyao_1.md)
+
 <p><span class="chinese">大阳明亮地照耀着。</span><span class="english">The Sun shines brightly.</span></p>
 
 <p><span class="chinese">月亮伤心地照耀着。</span><span class="english">The moon is shinning sadly.</span></p>

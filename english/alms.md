@@ -1,5 +1,7 @@
 # alms
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alms.md)
+
 <p><span class="chinese">为此我还浪费了化缘得来的食物。</span><span class="english">I wasted alms food meant for him.</span></p>
 
 <p><span class="chinese">我就请他们捐几文给我的穷人们。</span><span class="english">I should beg alms of them for my poor.</span></p>

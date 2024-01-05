@@ -1,5 +1,7 @@
 # 自知之明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zizhizhiming.md)
+
 <p><span class="chinese">人贵有自知之明。</span><span class="english">It is valuable to know oneself.</span></p>
 
 <p><span class="chinese">然而，要有自知之明是困难的。</span><span class="english">Self-knowledge is hard, though.</span></p>

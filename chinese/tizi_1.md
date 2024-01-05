@@ -1,5 +1,7 @@
 # 题字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tizi_1.md)
+
 <p><span class="chinese">在扉页上题字是送给我的。</span><span class="english">On the flyleaf was an inscription to me.</span></p>
 
 <p><span class="chinese">牌楼上有汉字题字。</span><span class="english">The inscription seems to have been worn away.</span></p>

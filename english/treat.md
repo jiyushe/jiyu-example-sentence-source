@@ -1,5 +1,7 @@
 # treat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/treat.md)
+
 <p><span class="chinese">我请客。</span><span class="english">My treat.</span></p>
 
 <p><span class="chinese">今天我请客。</span><span class="english">My treat today.</span></p>

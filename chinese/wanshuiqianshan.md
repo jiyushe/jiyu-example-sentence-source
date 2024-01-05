@@ -1,5 +1,7 @@
 # 万水千山
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanshuiqianshan.md)
+
 <p><span class="chinese">谢谢万水千山来提醒。</span><span class="english">Thank u for your reminding.</span></p>
 
 <p><span class="chinese">红军不怕远征难，万水千山只等闲。</span><span class="english">The reds fear expedition difficult, vast wounds only.</span></p>

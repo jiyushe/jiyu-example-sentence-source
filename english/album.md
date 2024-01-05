@@ -1,5 +1,7 @@
 # album
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/album.md)
+
 <p><span class="chinese">不仅仅是相册。</span><span class="english">Not just album.</span></p>
 
 <p><span class="chinese">留声机唱片。</span><span class="english">A phonograph album.</span></p>

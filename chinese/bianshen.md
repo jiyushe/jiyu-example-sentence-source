@@ -1,5 +1,7 @@
 # 编审
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianshen.md)
+
 <p><span class="chinese">几年前她为一期刊担任编审。</span><span class="english">She refereed for a periodical a few years ago.</span></p>
 
 <p><span class="chinese">现为解放军出版社副社长，编审。</span><span class="english">Now he's Vice Chairman, Editor-Auditor of PLA Publishing Press.</span></p>

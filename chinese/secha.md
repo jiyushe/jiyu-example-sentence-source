@@ -1,5 +1,7 @@
 # 色差
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/secha.md)
+
 <p><span class="chinese">消色差和伪彩色全息图。</span><span class="english">Achromatic and pseudocolor holograms.</span></p>
 
 <p><span class="chinese">什么叫瓷砖的色差？</span><span class="english">What calls the chromatism of ceramic tile?</span></p>

@@ -1,5 +1,7 @@
 # splanchnic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/splanchnic.md)
+
 <p><span class="chinese">什么是内脏脂肪？</span><span class="english">What is splanchnic and adipose?</span></p>
 
 <p><span class="chinese">大黄鳝鱼一条，洗净去内脏加调料红烧食用。</span><span class="english">Chinese rhubarb eel, abluent go splanchnic add condiment edible of braise in soy sauce.</span></p>

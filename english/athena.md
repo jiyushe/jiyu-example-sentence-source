@@ -1,5 +1,7 @@
 # athena
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/athena.md)
+
 <p><span class="chinese">他选择了阿佛洛狄忒,却因此引起了雅典娜和赫拉的不满。</span><span class="english">He picked Aphrodite, thus angering Athena and Hera.</span></p>
 
 <p><span class="chinese">“雅典娜”是指“一群女人在一起”在希伯来文。</span><span class="english">"Athena" means in Hebrew a "group of woman together".</span></p>

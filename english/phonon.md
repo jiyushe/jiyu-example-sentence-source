@@ -1,5 +1,7 @@
 # phonon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phonon.md)
+
 <p><span class="chinese">本文提出了一个新的激发马氏体相变的声子模型。</span><span class="english">A new phonon model of excitation martensitic transformation is presented.</span></p>
 
 <p><span class="chinese">边界耦合作用消除了声子的一些简并，使其频谱向高端和低端散开。</span><span class="english">The phonon spectrum of finite lattice extends to the lower and higher end.</span></p>

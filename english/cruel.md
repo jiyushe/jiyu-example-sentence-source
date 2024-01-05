@@ -1,5 +1,7 @@
 # cruel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cruel.md)
+
 <p><span class="chinese">真残忍。</span><span class="english">It's cruel.</span></p>
 
 <p><span class="chinese">战争是残酷无情的。</span><span class="english">War is cruel.</span></p>

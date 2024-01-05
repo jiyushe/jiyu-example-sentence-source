@@ -1,5 +1,7 @@
 # acerbic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acerbic.md)
+
 <p><span class="chinese">她言语尖刻，有一张刀子般的嘴。</span><span class="english">She had an acerbic tongue.</span></p>
 
 <p><span class="chinese">而这些天，人们对他的评论更为尖酸。</span><span class="english">These days, the comments are more acerbic.</span></p>

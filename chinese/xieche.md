@@ -1,5 +1,7 @@
 # 卸车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xieche.md)
+
 <p><span class="chinese">我们什么时候取消顶自卸车。</span><span class="english">We going to remove top dumper.</span></p>
 
 <p><span class="chinese">工人们忙着卸车。</span><span class="english">The workers were busy unloading carts.</span></p>

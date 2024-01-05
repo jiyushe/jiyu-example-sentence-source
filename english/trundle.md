@@ -1,5 +1,7 @@
 # trundle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trundle.md)
+
 <p><span class="chinese">大型控制系统的核心滚动灯箱。</span><span class="english">Large-scale control system's core trundle lamphouse.</span></p>
 
 <p><span class="chinese">当我把手推车推向洞口的时候，大狗米可在后面跟着我。</span><span class="english">Mick the dog follows me as I trundle the barrow to the hole.</span></p>

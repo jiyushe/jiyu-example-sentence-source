@@ -1,5 +1,7 @@
 # repress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repress.md)
+
 <p><span class="chinese">他的眼泪都忍不住快要流下来了。</span><span class="english">He could hardly repress his tears.</span></p>
 
 <p><span class="chinese">因此，警察必须镇压这些自由。</span><span class="english">So the police must repress these freedoms.</span></p>

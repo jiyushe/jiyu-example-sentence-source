@@ -1,5 +1,7 @@
 # wafer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wafer.md)
+
 <p><span class="chinese">阀体类型可钻孔的全凸耳或对夹式。</span><span class="english">Body Styles Tapped full lug or wafer.</span></p>
 
 <p><span class="chinese">铜制品并镶有凸面不锈钢片。</span><span class="english">The brass body & stainless steel wafer.</span></p>

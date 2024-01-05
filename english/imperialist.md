@@ -1,5 +1,7 @@
 # imperialist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imperialist.md)
+
 <p><span class="chinese">帝国主义的好战的统治阶级。</span><span class="english">The imperialist war-mongering ruling classes.</span></p>
 
 <p><span class="chinese">这是一场“帝国主义狗咬狗的战争”。</span><span class="english">This is an imperialist dog-eat-dog type of war.</span></p>

@@ -1,5 +1,7 @@
 # 冷锋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengfeng.md)
+
 <p><span class="chinese">一股冷锋正从北方向这里移动。</span><span class="english">A cold front is moving in from the north.</span></p>
 
 <p><span class="chinese">根据天气预报，一个冷锋正向这个地区移动。</span><span class="english">According to the forecast, a cold front is moving towards this region.</span></p>

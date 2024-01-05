@@ -1,5 +1,7 @@
 # reticular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reticular.md)
+
 <p><span class="chinese">此组织由星形的网状细胞组成。</span><span class="english">This tissue is composed of stellate reticular cells.</span></p>
 
 <p><span class="chinese">网状红斑黏蛋白病。</span><span class="english">Diagnosis of reticular erythematous mucinosis was made.</span></p>

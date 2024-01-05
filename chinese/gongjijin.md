@@ -1,5 +1,7 @@
 # 公积金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongjijin.md)
+
 <p><span class="chinese">上海调低二套房公积金贷款。</span><span class="english">Shanghai to reduce two suites Fund Loan.</span></p>
 
 <p><span class="chinese">二军团在中央公积金手电筒市场。</span><span class="english">Legion II flashlights at CPF Marketplace.</span></p>

@@ -1,5 +1,7 @@
 # diana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diana.md)
+
 <p><span class="chinese">深爱你的，戴安娜。</span><span class="english">Fondest love, Diana.</span></p>
 
 <p><span class="chinese">另一个是斯黛安。</span><span class="english">other is Diana Sterling.</span></p>

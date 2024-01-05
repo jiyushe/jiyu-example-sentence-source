@@ -1,5 +1,7 @@
 # milking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/milking.md)
+
 <p><span class="chinese">她用闸架扣住奶牛头部以便挤奶。</span><span class="english">She bailed a cow up for milking.</span></p>
 
 <p><span class="chinese">这头母牛出奶不太多。</span><span class="english">This cow isn't milking very well.</span></p>

@@ -1,5 +1,7 @@
 # vivacious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vivacious.md)
+
 <p><span class="chinese">凯特姨妈活泛多了。</span><span class="english">Aunt Kate was more vivacious.</span></p>
 
 <p><span class="chinese">他喜欢活泼的女孩。</span><span class="english">He is fond of vivacious girls.</span></p>

@@ -1,5 +1,7 @@
 # 本年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bennian.md)
+
 <p><span class="chinese">本年的冬天特别很是冷。搜索。</span><span class="english">The winter of this year is sourly cold.</span></p>
 
 <p><span class="chinese">本年马铃薯丰登。</span><span class="english">The tomatoes have cropped well this year.</span></p>

@@ -1,5 +1,7 @@
 # feudal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feudal.md)
+
 <p><span class="chinese">他们是封建统治者的臣民。</span><span class="english">They were subjects of a feudal ruler.</span></p>
 
 <p><span class="chinese">封建思想在她头脑中根深蒂固。</span><span class="english">Feudal ideas were stamped on her mind.</span></p>

@@ -1,5 +1,7 @@
 # hexapod
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hexapod.md)
+
 <p><span class="chinese">设计了应用于小型六足仿生机器人的舵机控制器。</span><span class="english">A rudder servo controller for hexapod robot platform is designed.</span></p>
 
 <p><span class="chinese">类似的救世主，六脚即可以输出和吸收大量的伤害。</span><span class="english">Similar to the Redeemer, the Hexapod can both deal and absorb a significant amount of damage.</span></p>

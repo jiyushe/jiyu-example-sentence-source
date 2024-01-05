@@ -1,5 +1,7 @@
 # bethink
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bethink.md)
+
 <p><span class="chinese">呵呵，想到这里又不由自主的兴奋起来。</span><span class="english">I get exciting by bethink of this.</span></p>
 
 <p><span class="chinese">他应考虑到他的责任。</span><span class="english">He should bethink himself of his duty.</span></p>

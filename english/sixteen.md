@@ -1,5 +1,7 @@
 # sixteen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sixteen.md)
+
 <p><span class="chinese">四妹子今年一十六。</span><span class="english">I am sixteen years of age.</span></p>
 
 <p><span class="chinese">下个命名日就满十六了。</span><span class="english">Sixteen on my next nameday.</span></p>

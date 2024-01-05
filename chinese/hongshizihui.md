@@ -1,5 +1,7 @@
 # 红十字会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongshizihui.md)
+
 <p><span class="chinese">我们向红十字会捐了一大笔钱。</span><span class="english">We donated a large sum to the Red Cross.</span></p>
 
 <p><span class="chinese">红十字会向难民放赈。</span><span class="english">The Red Cross dispensed charity to refugees.</span></p>

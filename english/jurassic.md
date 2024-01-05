@@ -1,5 +1,7 @@
 # jurassic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jurassic.md)
+
 <p><span class="chinese">这是侏罗纪时代的场景？</span><span class="english">A scene from the Jurassic age?</span></p>
 
 <p><span class="chinese">一侏菊花的结果，会成为我们之间的宿命吗。</span><span class="english">The result of a Jurassic Chrysanthemum, will be our destiny do.</span></p>

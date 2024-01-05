@@ -1,5 +1,7 @@
 # outpatient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outpatient.md)
+
 <p><span class="chinese">该系统可适用住院病人和门诊部病人具有高度的融合性。</span><span class="english">It is an in-patient and outpatient system.</span></p>
 
 <p><span class="chinese">她作为门诊病人接受了精神科护理。</span><span class="english">She received psychiatric care as an outpatient.</span></p>

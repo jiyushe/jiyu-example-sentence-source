@@ -1,5 +1,7 @@
 # 七律
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qilv.md)
+
 <p><span class="chinese">李商隐的七律形成了杜甫之后的又一座高峰。</span><span class="english">Lishangyin's seven-syllable formed another peak after Dufu.</span></p>
 
 <p><span class="chinese">此七律三首是饶介由行书书成。内容大体是与友人饮酒后所作之诗。</span><span class="english">The poem was written by Jao Chieh after drinking with a friend.</span></p>

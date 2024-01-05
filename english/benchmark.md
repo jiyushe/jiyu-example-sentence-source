@@ -1,5 +1,7 @@
 # benchmark
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benchmark.md)
+
 <p><span class="chinese">这是一个认证基准吗？</span><span class="english">Was this a certified benchmark?</span></p>
 
 <p><span class="chinese">当然，这些仍然只是基准测试工具。</span><span class="english">Of course, these are still only benchmark tools.</span></p>

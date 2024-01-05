@@ -1,5 +1,7 @@
 # 备案
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beian.md)
+
 <p><span class="chinese">登记手续，并到劳动保障行政部门办理变更备案手续。</span><span class="english">Labour and Social Security department.</span></p>
 
 <p><span class="chinese">增加了商标许可备案的规则。</span><span class="english">Added rules for recordal of trademark license.</span></p>

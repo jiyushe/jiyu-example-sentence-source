@@ -1,5 +1,7 @@
 # hesse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hesse.md)
+
 <p><span class="chinese">Hesse先生也拒绝评论。</span><span class="english">Mr. Hesse declined to comment.</span></p>
 
 <p><span class="chinese">因为你，我才知道了什么是爱情。——赫尔曼?黑塞。</span><span class="english">If I know what love is, it is because of you. – Herman Hesse.</span></p>

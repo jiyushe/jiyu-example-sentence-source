@@ -1,5 +1,7 @@
 # 柔性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rouxing.md)
+
 <p><span class="chinese">选择400px柔性笔刷。</span><span class="english">Select a 400px soft brush.</span></p>
 
 <p><span class="chinese">下一次我们将用震击器和柔性短节。</span><span class="english">What bit shall we use next time?</span></p>

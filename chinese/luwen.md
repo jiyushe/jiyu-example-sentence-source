@@ -1,5 +1,7 @@
 # 炉温
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luwen.md)
+
 <p><span class="chinese">烧蓝的炉温一般在600度以上。</span><span class="english">Temperature for enamel-firing is usually above 600 centigrade.</span></p>
 
 <p><span class="chinese">本文介绍一个典型的炉温微机控制系统。</span><span class="english">This paper introduces a typical system foe furnace temperature control.</span></p>

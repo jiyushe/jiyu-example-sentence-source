@@ -1,5 +1,7 @@
 # 千呼万唤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianhuwanhuan.md)
+
 <p><span class="chinese">千呼万唤天上来，满山遍野槐花开。</span><span class="english">Numerous calls from the sky, the hillsides Huaihua open.</span></p>
 
 <p><span class="chinese">如今各项条件均已具备，在大家的千呼万唤之后，它也终于决定要来了。</span><span class="english">Now the conditions are in place, everyone in the long-awaited , it finally decided to come.</span></p>

@@ -1,5 +1,7 @@
 # pavilion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pavilion.md)
+
 <p><span class="chinese">三观亭？</span><span class="english">Three Sights Pavilion?</span></p>
 
 <p><span class="chinese">我们进入了展馆。</span><span class="english">We enter the Pavilion.</span></p>

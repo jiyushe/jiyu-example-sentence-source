@@ -1,5 +1,7 @@
 # consume
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consume.md)
+
 <p><span class="chinese">为什么要如此渴望消费呢？</span><span class="english">Why are we so hungry to consume?</span></p>
 
 <p><span class="chinese">北地的凛风吞噬你们！</span><span class="english">Winds of the North, consume you!</span></p>

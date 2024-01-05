@@ -1,5 +1,7 @@
 # 顶峰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingfeng.md)
+
 <p><span class="chinese">市场在零七年达到顶峰。</span><span class="english">The market hit a high point in 2007.</span></p>
 
 <p><span class="chinese">缺电问题将于三、四月份达到顶峰。</span><span class="english">The problem will peak in March and April.</span></p>

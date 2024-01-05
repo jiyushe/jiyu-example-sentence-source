@@ -1,5 +1,7 @@
 # phi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phi.md)
+
 <p><span class="chinese">为了知道sinφ，可以解出来。</span><span class="english">We now can solve for sine phi.</span></p>
 
 <p><span class="chinese">有一天你也可能成为斐陶斐的一员。</span><span class="english">Someday you may be a Phi Beta Kappa !</span></p>

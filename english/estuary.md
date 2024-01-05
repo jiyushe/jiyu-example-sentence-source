@@ -1,5 +1,7 @@
 # estuary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/estuary.md)
+
 <p><span class="chinese">我们的住处靠近泰晤士河入海口。</span><span class="english">We live near the Thames estuary.</span></p>
 
 <p><span class="chinese">塔纳湖上，青尼罗河的入口。</span><span class="english">The estuary of blue Nile on lake Tana.</span></p>

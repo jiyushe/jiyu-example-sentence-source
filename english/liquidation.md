@@ -1,5 +1,7 @@
 # liquidation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liquidation.md)
+
 <p><span class="chinese">还有股票清偿</span><span class="english">There's also liquidation.</span></p>
 
 <p><span class="chinese">我们来说说清偿,或者公司的销售</span><span class="english">Let me mention liquidation or sale of company.</span></p>

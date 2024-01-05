@@ -1,5 +1,7 @@
 # ngc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ngc.md)
+
 <p><span class="chinese">预设清单包含梅耶西、主总表、索引表。</span><span class="english">By default, the list includes the Messier, NGC and IC catalogs.</span></p>
 
 <p><span class="chinese">您无法以此按钮移除梅耶西、主总表或索引表。</span><span class="english">You cannot remove the Messier, NGC or IC catalogs with this button.</span></p>

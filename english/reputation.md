@@ -1,5 +1,7 @@
 # reputation 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reputation.md)
+
 <p><span class="chinese">信誉就是一切。</span><span class="english">Reputation is everything.</span></p>
 
 <p><span class="chinese">怕有损他的名声。</span><span class="english">Warry I lost his reputation.</span></p>

@@ -1,5 +1,7 @@
 # unlearned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unlearned.md)
+
 <p><span class="chinese">他不谙经济学。</span><span class="english">He is unlearned in economy.</span></p>
 
 <p><span class="chinese">习惯可以同时了解和未曾行为。</span><span class="english">Habits can be both learned and unlearned behavior.</span></p>

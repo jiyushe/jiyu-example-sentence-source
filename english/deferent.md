@@ -1,5 +1,7 @@
 # deferent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deferent.md)
+
 <p><span class="chinese">但是，还有不同的困难。</span><span class="english">But there are deferent difficulties.</span></p>
 
 <p><span class="chinese">这就削减了处理、存储和传送费用。</span><span class="english">This cut processing, memory and deferent cost.</span></p>

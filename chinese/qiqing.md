@@ -1,5 +1,7 @@
 # 凄清
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiqing.md)
+
 <p><span class="chinese">不去那冷寞的幽谷，不去那凄清的山麓。</span><span class="english">Not that the valleys, Not that foothills.</span></p>
 
 <p><span class="chinese">我喜欢这种凄清的美，莫名所以地喜欢。</span><span class="english">I liked such bleak beauty without any reason.</span></p>

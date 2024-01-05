@@ -1,5 +1,7 @@
 # reinvest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reinvest.md)
+
 <p><span class="chinese">诗人总是在探索如何赋予词以新的涵义。</span><span class="english">A poet always searches how to reinvest words with new meaning.</span></p>
 
 <p><span class="chinese">或者，公司还可以将浙西资金再次投资到生意中。</span><span class="english">Or the company might reinvest the money back into the business.</span></p>

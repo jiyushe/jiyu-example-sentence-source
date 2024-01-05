@@ -1,5 +1,7 @@
 # 炉灶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luzao.md)
+
 <p><span class="chinese">烤箱可以安装在炉灶。</span><span class="english">An oven can be installed under the cooktop.</span></p>
 
 <p><span class="chinese">但是教材中有许多炉灶的图片。</span><span class="english">But there are plenty of pictures of stoves.</span></p>

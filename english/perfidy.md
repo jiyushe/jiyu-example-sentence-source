@@ -1,5 +1,7 @@
 # perfidy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perfidy.md)
+
 <p><span class="chinese">啊，男人的奸诈！</span><span class="english">Oh, the perfidy of men!</span></p>
 
 <p><span class="chinese">这个人的背信弃义难道永远没有止境吗?。</span><span class="english">Would the man's perfidy never reach a limit?</span></p>

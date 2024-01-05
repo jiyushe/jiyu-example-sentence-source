@@ -1,5 +1,7 @@
 # elicit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elicit.md)
+
 <p><span class="chinese">试着让她来引出你的价值。</span><span class="english">Try to get her to elicit your values.</span></p>
 
 <p><span class="chinese">倾向于让别人对自己产生好感。</span><span class="english">Tends to elicit liking in others. 051.</span></p>

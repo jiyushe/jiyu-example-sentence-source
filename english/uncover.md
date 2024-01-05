@@ -1,5 +1,7 @@
 # uncover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncover.md)
+
 <p><span class="chinese">撩开了红红的头巾。</span><span class="english">I uncover the red kerchief on your head.</span></p>
 
 <p><span class="chinese">新明半岛，揭开品质之谜。</span><span class="english">Shin peninsula, uncover quality mystery.</span></p>

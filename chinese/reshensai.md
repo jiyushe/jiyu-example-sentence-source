@@ -1,5 +1,7 @@
 # 热身赛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/reshensai.md)
+
 <p><span class="chinese">踢季前热身赛在我想法之内。</span><span class="english">Playing in the pre-season games is in my mind.</span></p>
 
 <p><span class="chinese">他俩在热身赛中的表现如何？</span><span class="english">Senderos played in most of the build-up matches.</span></p>

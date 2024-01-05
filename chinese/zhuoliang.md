@@ -1,5 +1,7 @@
 # 酌量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuoliang.md)
+
 <p><span class="chinese">企业效率酌量。</span><span class="english">Business Efficiency Researc.</span></p>
 
 <p><span class="chinese">酌量添加番茄酱、盐和胡椒粉。</span><span class="english">Add tomato paste, salt and pepper to taste.</span></p>

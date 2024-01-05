@@ -1,5 +1,7 @@
 # baconian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baconian.md)
+
 <p><span class="chinese">皮制杂志架是归纳刊物的好帮手！</span><span class="english">The skin makes a magazine wear the good helper that is Baconian journal!</span></p>
 
 <p><span class="chinese">第三，善于思考，归纳解题思路与方法。</span><span class="english">The 3rd, be good at thinking, baconian solution inscribes train of thought and method.</span></p>

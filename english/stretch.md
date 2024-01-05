@@ -1,5 +1,7 @@
 # stretch 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stretch.md)
+
 <p><span class="chinese">我伸懒腰。</span><span class="english">I stretch out.</span></p>
 
 <p><span class="chinese">粗纱伸长。</span><span class="english">Stretch in roving.</span></p>

@@ -1,5 +1,7 @@
 # lingua
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lingua.md)
+
 <p><span class="chinese">英语就是这样一种国际的通用语。</span><span class="english">English is such an international lingua franca.</span></p>
 
 <p><span class="chinese">Dzongkha是不丹的民族语言，是一种混合语。</span><span class="english">Dzongkha is the national language and lingua franca.</span></p>

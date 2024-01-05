@@ -1,5 +1,7 @@
 # villain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/villain.md)
+
 <p><span class="chinese">人们把他看成一个恶棍的成见已无法改变。</span><span class="english">He was stereotyped a villain.</span></p>
 
 <p><span class="chinese">本·金斯利饰演大恶人。</span><span class="english">Ben Kingsley plays the villain.</span></p>

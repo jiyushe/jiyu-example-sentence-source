@@ -1,5 +1,7 @@
 # reflexology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reflexology.md)
+
 <p><span class="chinese">足底按摩界的黑暗面。</span><span class="english">The dark side of reflexology.</span></p>
 
 <p><span class="chinese">按摩，也可享有睁眼生命。</span><span class="english">Reflexology is also offered at Open Eyes of Life.</span></p>

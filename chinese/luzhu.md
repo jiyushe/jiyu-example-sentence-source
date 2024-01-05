@@ -1,5 +1,7 @@
 # 露珠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luzhu.md)
+
 <p><span class="chinese">那露珠亲吻花朵。</span><span class="english">The dews kiss the flower.</span></p>
 
 <p><span class="chinese">到露珠旅馆一定要进来一坐。</span><span class="english">Do drop in at the Dewdrop Inn.</span></p>

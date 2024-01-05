@@ -1,5 +1,7 @@
 # marksman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marksman.md)
+
 <p><span class="chinese">曾经有一个天才射手。</span><span class="english">There was once a gifted marksman.</span></p>
 
 <p><span class="chinese">曹政真是一个射手。</span><span class="english">Merlin was actually quite the marksman.</span></p>

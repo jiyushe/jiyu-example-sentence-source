@@ -1,5 +1,7 @@
 # linkman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/linkman.md)
+
 <p><span class="chinese">联络员陷入沉思之中。</span><span class="english">The linkman sinks into thinking.</span></p>
 
 <p><span class="chinese">陷入沉思时，联络员常喝粉红色的墨水。</span><span class="english">When sinking in thinking, the linkman often drinks pink ink.</span></p>

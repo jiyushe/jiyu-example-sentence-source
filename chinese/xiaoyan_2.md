@@ -1,5 +1,7 @@
 # 硝烟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoyan_2.md)
+
 <p><span class="chinese">然后是就是硝烟、噪音和爆炸。</span><span class="english">And then there's smoke, noise, and explosions.</span></p>
 
 <p><span class="chinese">爆炸引起的硝烟在加沙城上空腾起。</span><span class="english">Smoke caused by explosions rises over Gaza City.</span></p>

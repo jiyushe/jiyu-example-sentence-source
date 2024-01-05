@@ -1,5 +1,7 @@
 # rendering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rendering.md)
+
 <p><span class="chinese">字体渲染也很乱。</span><span class="english">Font rendering was a mess.</span></p>
 
 <p><span class="chinese">用于所有渲染的着色器脚本。</span><span class="english">Shader scripts used for all rendering.</span></p>

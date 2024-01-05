@@ -1,5 +1,7 @@
 # 清贫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingpin.md)
+
 <p><span class="chinese">林肯总统出身清贫。</span><span class="english">President Lincoln was born barren,.</span></p>
 
 <p><span class="chinese">却甘愿一生固守清贫。</span><span class="english">On living a poor but clean life I insist.</span></p>

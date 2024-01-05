@@ -1,5 +1,7 @@
 # symptom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/symptom.md)
+
 <p><span class="chinese">有别的症状吗？</span><span class="english">Any other symptom?</span></p>
 
 <p><span class="chinese">慢性胃炎的症状？</span><span class="english">The symptom of chronic gastritis?</span></p>

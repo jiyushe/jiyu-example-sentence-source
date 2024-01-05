@@ -1,5 +1,7 @@
 # fecund
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fecund.md)
+
 <p><span class="chinese">他们有肥沃的土地。</span><span class="english">They have a fecund soil.</span></p>
 
 <p><span class="chinese">南美大草原仍然是世界上最肥沃的土地之一。</span><span class="english">The pampas are still among the most fecund lands in the world.</span></p>

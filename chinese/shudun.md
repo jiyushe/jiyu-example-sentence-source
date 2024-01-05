@@ -1,5 +1,7 @@
 # 树墩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shudun.md)
+
 <p><span class="chinese">探险者坐在树墩上休息。</span><span class="english">The explorers sat on stumps to have a rest.</span></p>
 
 <p><span class="chinese">一个老迈的大树墩正适合坐着休息。</span><span class="english">Well, an old stump is good for sitting and resting.</span></p>

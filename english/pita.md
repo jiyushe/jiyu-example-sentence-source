@@ -1,5 +1,7 @@
 # pita
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pita.md)
+
 <p><span class="chinese">尝试放一些腐殖酸在小麦皮塔面包上。</span><span class="english">Try humus on wheat pita bread.</span></p>
 
 <p><span class="chinese">你要请我吃烧饼啊？</span><span class="english">You want to treat me to pita bread?</span></p>

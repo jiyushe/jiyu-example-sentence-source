@@ -1,5 +1,7 @@
 # uselessness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uselessness.md)
+
 <p><span class="chinese">可以化无用为有用。</span><span class="english">Well, uselessness can be turned into usefulness.</span></p>
 
 <p><span class="chinese">让你明白拥有是无用的。</span><span class="english">"To make you see the uselessness of having one".</span></p>

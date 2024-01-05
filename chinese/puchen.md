@@ -1,5 +1,7 @@
 # 铺陈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/puchen.md)
+
 <p><span class="chinese">铺陈是辞赋的基本创作方法。</span><span class="english">Elaboration is the basic writing method of cifu.</span></p>
 
 <p><span class="chinese">段落式的铺陈方法是指作品中用一个诗段或自然段落描绘某一个主题。</span><span class="english">Paragraphed elaboration means that the author describes one theme in one paragraph.</span></p>

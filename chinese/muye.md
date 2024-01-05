@@ -1,5 +1,7 @@
 # 牧业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muye.md)
+
 <p><span class="chinese">乔伊斯·德席尔瓦，关爱世界牧业</span><span class="english">Joyce d’Silva, Compassion in World Farming</span></p>
 
 <p><span class="chinese">牧业在新西兰是高度机械化的。</span><span class="english">Farming in New Zealand is highly mechanized.</span></p>

@@ -1,5 +1,7 @@
 # photograph 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photograph.md)
+
 <p><span class="chinese">该照片由柏拉图提供。</span><span class="english">Photograph by Platon.</span></p>
 
 <p><span class="chinese">我照相老是照不好。</span><span class="english">I always photograph badly.</span></p>

@@ -1,5 +1,7 @@
 # Algeria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/algeria.md)
+
 <p><span class="chinese">阿尔及利亚位于非洲西北部。</span><span class="english">Algeria in the north-west Africa.</span></p>
 
 <p><span class="chinese">这几天在看阿尔及利亚的一个项目。</span><span class="english">A project in algeria. Un projet en algérie.</span></p>

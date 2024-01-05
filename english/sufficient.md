@@ -1,5 +1,7 @@
 # sufficient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sufficient.md)
+
 <p><span class="chinese">这是唯一的，也足够。</span><span class="english">That is unique and sufficient.</span></p>
 
 <p><span class="chinese">希望能充分帮助到我们。</span><span class="english">I hope that will be sufficient.</span></p>

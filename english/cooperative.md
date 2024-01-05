@@ -1,5 +1,7 @@
 # cooperative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cooperative.md)
+
 <p><span class="chinese">合作的行为如何进化?</span><span class="english">How did cooperative behavior evolve?</span></p>
 
 <p><span class="chinese">赛普电气—您成功的合作伙伴！</span><span class="english">Saip--your successful cooperative partner!</span></p>

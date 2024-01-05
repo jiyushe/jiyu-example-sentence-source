@@ -1,5 +1,7 @@
 # exile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exile.md)
+
 <p><span class="chinese">他成了一位流亡者。</span><span class="english">He was an exile.</span></p>
 
 <p><span class="chinese">他在这儿充军。</span><span class="english">He lived there in exile.</span></p>

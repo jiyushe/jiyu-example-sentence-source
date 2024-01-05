@@ -1,5 +1,7 @@
 # 绳索
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengsuo.md)
+
 <p><span class="chinese">绳索断了。</span><span class="english">The rope gave way.</span></p>
 
 <p><span class="chinese">把船头的绳索拿过来！</span><span class="english">Get out that head-line!</span></p>

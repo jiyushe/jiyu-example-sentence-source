@@ -1,5 +1,7 @@
 # 立体电影
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/litidianying.md)
+
 <p><span class="chinese">他们看立体电影。</span><span class="english">They watch a film in three-D.</span></p>
 
 <p><span class="chinese">这是一部立体电影。</span><span class="english">This is a three-dimension film.</span></p>

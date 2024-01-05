@@ -1,5 +1,7 @@
 # dachshund
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dachshund.md)
+
 <p><span class="chinese">这就是你们所说的达克斯狗吗?。</span><span class="english">Is this what you call a dachshund?</span></p>
 
 <p><span class="chinese">我能和我的腊肠做那些活动？</span><span class="english">What activities can I do with my Dachshund?</span></p>

@@ -1,5 +1,7 @@
 # inspect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inspect.md)
+
 <p><span class="chinese">检查结果。</span><span class="english">Inspect the results.</span></p>
 
 <p><span class="chinese">检查并修理转喷器。</span><span class="english">Inspect and repair diverter.</span></p>

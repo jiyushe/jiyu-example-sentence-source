@@ -1,5 +1,7 @@
 # reinsert
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reinsert.md)
+
 <p><span class="chinese">向表空间重新插入空闲空间</span><span class="english">Reinsert free space into the table space</span></p>
 
 <p><span class="chinese">重新和加强六个螺丝取出轻轻在第1步。</span><span class="english">Reinsert and tighten the six screws removed in step 1 gently.</span></p>

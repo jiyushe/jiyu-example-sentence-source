@@ -1,5 +1,7 @@
 # 两面三刀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangmiansandao.md)
+
 <p><span class="chinese">我不喜欢两面三刀的人。</span><span class="english">I don't like two-faced person.</span></p>
 
 <p><span class="chinese">我开始了解你是怎样一个两面三刀的人。</span><span class="english">I'm beginning to learn how two faced you are.</span></p>

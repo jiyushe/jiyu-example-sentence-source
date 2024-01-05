@@ -1,5 +1,7 @@
 # smokehouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smokehouse.md)
+
 <p><span class="chinese">我把那些皮子整齐地钉在了熏肉间的墙上。</span><span class="english">In neat little rows I tacked the hides on the smokehouse wall.</span></p>
 
 <p><span class="chinese">挂在烟熏房里的火腿意味着抵御艰难岁月的保障。</span><span class="english">A ham hanging in the smokehouse signified insurance against hard times.</span></p>

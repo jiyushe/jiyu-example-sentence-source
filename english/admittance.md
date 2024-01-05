@@ -1,5 +1,7 @@
 # admittance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/admittance.md)
+
 <p><span class="chinese">闲人免进。</span><span class="english">No admittance except on business.</span></p>
 
 <p><span class="chinese">那些寻求准入许多是妇女。</span><span class="english">Many of those seeking admittance are women.</span></p>

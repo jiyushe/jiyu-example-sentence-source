@@ -1,5 +1,7 @@
 # pillbox
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pillbox.md)
+
 <p><span class="chinese">轰的一声，敌人的碉堡给炸飞了。</span><span class="english">The enemy pillbox was blown up with a bang.</span></p>
 
 <p><span class="chinese">我们跟他说把某个碉堡炸飞。</span><span class="english">We told him to pick out a pillbox and left fly.</span></p>

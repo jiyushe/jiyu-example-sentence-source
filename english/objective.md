@@ -1,5 +1,7 @@
 # objective 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/objective.md)
+
 <p><span class="chinese">你的目标是什么？</span><span class="english">What is your objective?</span></p>
 
 <p><span class="chinese">我们的目标是夺标。</span><span class="english">Our objective is the cup.</span></p>

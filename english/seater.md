@@ -1,5 +1,7 @@
 # seater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seater.md)
+
 <p><span class="chinese">我很奇怪的是坐沙发的那位是怎么在13秒内完成他的回复的？</span><span class="english">I am wondering how the sofa seater finish his comments in 13 seconds ?</span></p>
 
 <p><span class="chinese">巴洛克式沙发，每套有两个单人和一个三人沙发。</span><span class="english">Barroque style suite-one three seater sofa , and two single seater sofas.</span></p>

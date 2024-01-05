@@ -1,5 +1,7 @@
 # retting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retting.md)
+
 <p><span class="chinese">该酶对苎麻脱胶有较好的特异性。</span><span class="english">The enzyme had better specificity for ramie retting.</span></p>
 
 <p><span class="chinese">浸渍的目的就是在于使果胶质分解。</span><span class="english">The goal of retting is to bring about decomposition of the pectin.</span></p>

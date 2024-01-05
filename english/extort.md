@@ -1,5 +1,7 @@
 # extort
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extort.md)
+
 <p><span class="chinese">“这是下流的敲竹杠的企图，”匹克威克先生说。</span><span class="english">It's a vile attempt to extort money, " said Mr. Pickwick."</span></p>
 
 <p><span class="chinese">但是我不相信朝鲜可以用它来敲诈任何东西。</span><span class="english">But I don't see how North Korea can use it to extort anything.</span></p>

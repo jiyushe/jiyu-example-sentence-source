@@ -1,5 +1,7 @@
 # 股骨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gugu_2.md)
+
 <p><span class="chinese">右股骨作为对照。</span><span class="english">Right femora acted as controls.</span></p>
 
 <p><span class="chinese">股骨内侧弧的曲线是抛物线。</span><span class="english">Femoral lateral arcs are parabolas.</span></p>

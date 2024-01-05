@@ -1,5 +1,7 @@
 # spaceship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spaceship.md)
+
 <p><span class="chinese">我要乘宇宙飞船去那里。</span><span class="english">I will go there by spaceship.</span></p>
 
 <p><span class="chinese">这听起来像是一艘宇宙飞船吗？</span><span class="english">Is this what a spaceship sounds like?</span></p>

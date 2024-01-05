@@ -1,5 +1,7 @@
 # 整整
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengzheng.md)
+
 <p><span class="chinese">他们走了整整一天。</span><span class="english">They tramped all day.</span></p>
 
 <p><span class="chinese">他整整睡了一天。</span><span class="english">He napped the day away.</span></p>

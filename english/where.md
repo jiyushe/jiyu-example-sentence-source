@@ -1,5 +1,7 @@
 # where
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/where.md)
+
 <p><span class="chinese">他倒下的地方。</span><span class="english">Where he fell.</span></p>
 
 <p><span class="chinese">你去哪里，迪克？</span><span class="english">Where to Dick?</span></p>

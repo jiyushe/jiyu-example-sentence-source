@@ -1,5 +1,7 @@
 # 秀雅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuya.md)
+
 <p><span class="chinese">那么甜蜜，纯洁而秀雅。</span><span class="english">So sweet and pure and fair.</span></p>
 
 <p><span class="chinese">那么甜蜜、纯洁而秀雅。</span><span class="english">So sweet and pure and just.</span></p>

@@ -1,5 +1,7 @@
 # 一饱眼福
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yibaoyanfu.md)
+
 <p><span class="chinese">你看看这钻石一饱眼福吧。</span><span class="english">Feast your eyes on this diwoulmond.</span></p>
 
 <p><span class="chinese">但愿我有时间一饱眼福。</span><span class="english">I hope I have time to see them all.</span></p>

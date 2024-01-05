@@ -1,5 +1,7 @@
 # 回火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huihuo.md)
+
 <p><span class="chinese">回火组织中出现少量贝氏体。</span><span class="english">The tempered structure had a little bainite.</span></p>
 
 <p><span class="chinese">肉也用微波来解冻、预热和回火。</span><span class="english">Meats could be defrosted, precooked and tempered.</span></p>

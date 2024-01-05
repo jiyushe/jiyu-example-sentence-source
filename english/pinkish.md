@@ -1,5 +1,7 @@
 # pinkish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pinkish.md)
+
 <p><span class="chinese">那个粉红色的东西原来是一只野猪幼崽。</span><span class="english">The pinkish object was a baby bushpig.</span></p>
 
 <p><span class="chinese">这是个有点较为激进的组织。</span><span class="english">This is a somewhat pinkish organization.</span></p>

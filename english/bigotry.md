@@ -1,5 +1,7 @@
 # bigotry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bigotry.md)
+
 <p><span class="chinese">他发现老师的固执难以忍受。</span><span class="english">He found his teacher's bigotry intolerable.</span></p>
 
 <p><span class="chinese">固执就是顽固坚持自己的意见。</span><span class="english">It is the opinion that bigotry holds to him toughly.</span></p>

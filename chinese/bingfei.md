@@ -1,5 +1,7 @@
 # 饼肥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingfei.md)
+
 <p><span class="chinese">但施用饼肥对上等烟比例的影响有所不同。</span><span class="english">But the effect of applying cake fertilizer on supper tobacco rate is different.</span></p>
 
 <p><span class="chinese">豆饼肥对番茄植株的生长、产量及生物量的促进作用不明显。</span><span class="english">There was no significant influence on the tomato growth, yield and biomass with organic fertilizer as soybean cake.</span></p>

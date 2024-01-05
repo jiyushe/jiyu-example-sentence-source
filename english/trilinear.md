@@ -1,5 +1,7 @@
 # trilinear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trilinear.md)
+
 <p><span class="chinese">最后，对改进荷载传递模型——三折线模型进行实例验证。</span><span class="english">Last, carry on a verification to the improved trilinear model.</span></p>
 
 <p><span class="chinese">分析了极化敏感均匀圆阵接收到的信号，该信号具有三线性模型特征。</span><span class="english">The received signal of the polarization sensitive array is proved to have trilinear model characteristics.</span></p>

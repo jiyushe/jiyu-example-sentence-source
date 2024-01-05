@@ -1,5 +1,7 @@
 # keratosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keratosis.md)
+
 <p><span class="chinese">雌激素量越多，角化程度也愈高。</span><span class="english">Of the more estrogen, the higher the degree keratosis.</span></p>
 
 <p><span class="chinese">屁股上起的或白或红的小肿块最有可能是毛发角化病。</span><span class="english">Small white or red bumps on the buttocks are most likely keratosis pilaris.</span></p>

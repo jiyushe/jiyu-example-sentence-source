@@ -1,5 +1,7 @@
 # excrement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excrement.md)
+
 <p><span class="chinese">今天空气里是飘着屎吗？</span><span class="english">Is it excrement floating in the air today?</span></p>
 
 <p><span class="chinese">他们是腐烂的生物，狗屎抹不上墙。</span><span class="english">These rotten beings are excrement walling.</span></p>

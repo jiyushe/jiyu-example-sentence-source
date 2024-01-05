@@ -1,5 +1,7 @@
 # 麻烦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mafan.md)
+
 <p><span class="chinese">不用麻烦了。</span><span class="english">Don’t bother.</span></p>
 
 <p><span class="chinese">女人真麻烦。</span><span class="english">Female trouble.</span></p>

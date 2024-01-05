@@ -1,5 +1,7 @@
 # nemesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nemesis.md)
+
 <p><span class="chinese">不要让报应女神娜美西斯用快捷的船舰捉拿我。</span><span class="english">Let not nemesis catch me by the swift ships.</span></p>
 
 <p><span class="chinese">他们的狂妄桀骜将带来本属的天谴？</span><span class="english">Will their hubris bring Nemesis in due course?</span></p>

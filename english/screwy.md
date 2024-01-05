@@ -1,5 +1,7 @@
 # screwy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/screwy.md)
+
 <p><span class="chinese">多奇怪的主意！</span><span class="english">What a screwy idea!</span></p>
 
 <p><span class="chinese">很快你会明白如何螺旋这个地方是。</span><span class="english">Soon enough you'll realise how screwy this place is.</span></p>

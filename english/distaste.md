@@ -1,5 +1,7 @@
 # distaste
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distaste.md)
+
 <p><span class="chinese">她沉默着皱一皱眉头，露出一股极为憎厌的神情。</span><span class="english">Silently she frowned with a look of utter distaste.</span></p>
 
 <p><span class="chinese">她厌恶地望着那个前几天曾经欺骗过她的小贩。</span><span class="english">She looked at the vendor who cheated her the other day with distaste.</span></p>

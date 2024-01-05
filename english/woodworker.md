@@ -1,5 +1,7 @@
 # woodworker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woodworker.md)
+
 <p><span class="chinese">他是个木工。</span><span class="english">He is a woodworker.</span></p>
 
 <p><span class="chinese">乔安娜的男朋友是个木工。</span><span class="english">Joanna's boyfriend is a woodworker.</span></p>

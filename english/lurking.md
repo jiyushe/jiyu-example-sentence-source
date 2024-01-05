@@ -1,5 +1,7 @@
 # lurking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lurking.md)
+
 <p><span class="chinese">或者更糟，里面潜藏着危险？</span><span class="english">Or worse, were there dangers lurking?</span></p>
 
 <p><span class="chinese">难道她曾看见他潜伏在外面？</span><span class="english">Had she seen him lurking about outside?</span></p>

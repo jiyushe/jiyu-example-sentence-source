@@ -1,5 +1,7 @@
 # vesuvius
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vesuvius.md)
+
 <p><span class="chinese">维苏威山是一座火山。</span><span class="english">Vesuvius is a volcano.</span></p>
 
 <p><span class="chinese">维苏威山是一座活火山。</span><span class="english">Vesuvius is an active volcano.</span></p>

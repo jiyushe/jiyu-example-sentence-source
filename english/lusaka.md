@@ -1,5 +1,7 @@
 # lusaka
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lusaka.md)
+
 <p><span class="chinese">唯一的例外似乎就是卢萨卡的争斗。</span><span class="english">The exception appeared to be the fray in Lusaka.</span></p>
 
 <p><span class="chinese">在卢萨卡，我访问了护理学校的学生。</span><span class="english">In Lusaka I visited nursing students in their school.</span></p>

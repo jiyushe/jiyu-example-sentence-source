@@ -1,5 +1,7 @@
 # 切割
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiege.md)
+
 <p><span class="chinese">在切割中发出警告。</span><span class="english">Severs its warning.</span></p>
 
 <p><span class="chinese">泡绵无尘切割。</span><span class="english">The foam clean cut.</span></p>

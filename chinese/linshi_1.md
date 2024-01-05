@@ -1,5 +1,7 @@
 # 临时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linshi_1.md)
+
 <p><span class="chinese">下临时导向基板到海底。</span><span class="english">Land the TGB to sea.</span></p>
 
 <p><span class="chinese">他给临时来照看孩子的保姆付了钱。</span><span class="english">He paid the babysitter.</span></p>

@@ -1,5 +1,7 @@
 # dentine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dentine.md)
+
 <p><span class="chinese">PAX9参与牙本质和釉质的生物矿化过程。</span><span class="english">PAX9 is involved in the biomineralization process of the dentine and enamel.</span></p>
 
 <p><span class="chinese">结果NS牙面涂料在牙本质表面形成结晶，覆盖乃至堵塞牙本质小管。</span><span class="english">Results NS paint grew crystal in the dentine surface, occluding dentine tube.</span></p>

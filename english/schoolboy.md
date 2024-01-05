@@ -1,5 +1,7 @@
 # schoolboy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schoolboy.md)
+
 <p><span class="chinese">Methusaleh看起来更像是一个小学生。</span><span class="english">Methusaleh seems a schoolboy.</span></p>
 
 <p><span class="chinese">他终归是个小学生。</span><span class="english">After all he is still a schoolboy.</span></p>

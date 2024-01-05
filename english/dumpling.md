@@ -1,5 +1,7 @@
 # dumpling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dumpling.md)
+
 <p><span class="chinese">拿一块饺子皮。</span><span class="english">Grab a dumpling skin.</span></p>
 
 <p><span class="chinese">请吃饺子。</span><span class="english">Please eat the dumpling.</span></p>

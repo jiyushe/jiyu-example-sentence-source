@@ -1,5 +1,7 @@
 # superheterodyne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superheterodyne.md)
+
 <p><span class="chinese">艾德温？阿姆斯特朗开发接收机电路—超外差式收音机。</span><span class="english">Edwin armstrong develops a receiving circuit-the superheterodyne.</span></p>
 
 <p><span class="chinese">功率分析仪和频谱分析仪都本质上都是超外差接收机。</span><span class="english">Both an RF power analyzer and a spectrum analyzer are essentially specialized superheterodyne receivers.</span></p>

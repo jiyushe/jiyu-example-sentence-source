@@ -1,5 +1,7 @@
 # behemoth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/behemoth.md)
+
 <p><span class="chinese">涉及金额对财大气粗的通用来说不过是九牛一毛。</span><span class="english">The sums involved were small beer for a behemoth like GE.</span></p>
 
 <p><span class="chinese">这辆四座轿车的发动机是恐怖的6升V字型12缸。</span><span class="english">This 4-seat sedan is powered by a 6.0-litre V12 behemoth.</span></p>

@@ -1,5 +1,7 @@
 # 医药
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyao.md)
+
 <p><span class="chinese">在医药卫生领域。</span><span class="english">In the field of medicine.</span></p>
 
 <p><span class="chinese">浙江医药股份有限公司。</span><span class="english">Hua Xia Bank Co. , Limited.</span></p>

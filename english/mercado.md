@@ -1,5 +1,7 @@
 # mercado
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mercado.md)
+
 <p><span class="chinese">联合国儿童基金会发言人梅尔卡多表示，在抵达埃塞俄比亚的儿童当中，几乎有一半都营养不良。</span><span class="english">Mercado says almost half the children arriving in Ethiopia are malnourished.</span></p>
 
 <p><span class="chinese">梅尔卡多认为，认知可塑性的结构基础是大脑皮质模块。</span><span class="english">Mercado argues that the structural basis of cognitive plasticity is the cortical module.</span></p>

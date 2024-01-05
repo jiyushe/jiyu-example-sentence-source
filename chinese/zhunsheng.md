@@ -1,5 +1,7 @@
 # 准绳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhunsheng.md)
+
 <p><span class="chinese">不过，撒切尔还是以自己的准绳贯彻实施了法律。</span><span class="english">Thatcher laid down the law.</span></p>
 
 <p><span class="chinese">正确的准绳只是这一刻。</span><span class="english">The correct yardstick is just for this moment.</span></p>

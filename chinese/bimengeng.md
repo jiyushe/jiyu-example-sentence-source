@@ -1,5 +1,7 @@
 # 闭门羹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bimengeng.md)
+
 <p><span class="chinese">“如果我想要在洛杉矶、纽约或芝加哥找工作，结果就是不断吃到闭门羹，”他表示说，并说自己在柏林取得了些许进展。</span><span class="english">He said he had made some progress in Berlin.</span></p>
 
 <p><span class="chinese">我昨天去你们家玩，可是吃了闭门羹。</span><span class="english">I went to visit you yesterday but there's nobody home.</span></p>

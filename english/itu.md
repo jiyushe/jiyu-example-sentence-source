@@ -1,5 +1,7 @@
 # itu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/itu.md)
+
 <p><span class="chinese">新老客户可电联或实地考察。</span><span class="english">New and old customers to the ITU or field trips.</span></p>
 
 <p><span class="chinese">而广州地区在高频段大降雨率时，ITU模型精度较高。</span><span class="english">In high-frequency, ITU model is high accuracy in Guangzhou.</span></p>

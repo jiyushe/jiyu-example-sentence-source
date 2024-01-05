@@ -1,5 +1,7 @@
 # 状语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangyu.md)
+
 <p><span class="chinese">状语也称修饰语。</span><span class="english">Adverbials are also called adjuncts.</span></p>
 
 <p><span class="chinese">状语在句子中在什么位置？</span><span class="english">Where do adverbials go in a sentence?</span></p>

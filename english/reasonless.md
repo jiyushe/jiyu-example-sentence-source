@@ -1,5 +1,7 @@
 # reasonless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reasonless.md)
+
 <p><span class="chinese">如果否定这一事实，那将是毫无道理的。</span><span class="english">It would be reasonless if the fact is denied.</span></p>
 
 <p><span class="chinese">所以长辈们请放心，我不会瞎跑。</span><span class="english">So every elderships don't worry about me, I would not be reasonless.</span></p>

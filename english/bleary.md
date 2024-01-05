@@ -1,5 +1,7 @@
 # bleary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bleary.md)
+
 <p><span class="chinese">他只能看到一个朦胧的景色。</span><span class="english">He could only see a bleary view.</span></p>
 
 <p><span class="chinese">Lincoln揉揉惺忪的睡眼，半眯着眼睛看了看他。</span><span class="english">Lincoln squints and rubs his bleary eyes.</span></p>

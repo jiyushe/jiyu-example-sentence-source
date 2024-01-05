@@ -1,5 +1,7 @@
 # 池塘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chitang.md)
+
 <p><span class="chinese">池塘水太深了。</span><span class="english">The pool is deep.</span></p>
 
 <p><span class="chinese">池塘边长了一圈树。</span><span class="english">Trees rimmed the pool.</span></p>

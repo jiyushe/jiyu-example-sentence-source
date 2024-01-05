@@ -1,5 +1,7 @@
 # ultracold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ultracold.md)
+
 <p><span class="chinese">一个超低温中子捕捉装置的剖面观。</span><span class="english">Half section view of an ultracold neutron trapping apparatus.</span></p>
 
 <p><span class="chinese">幸运的是，我们的超冷原子云和冰块大不相同。</span><span class="english">Fortunately, our ultracold atom clouds are very unlike ice cubes.</span></p>

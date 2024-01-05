@@ -1,5 +1,7 @@
 # gelation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gelation.md)
+
 <p><span class="chinese">供鉴别细菌液化明胶用。</span><span class="english">For differentiating bacteria based on liquefaction of gelation.</span></p>
 
 <p><span class="chinese">凝胶化剂量随辐照温度的升高而降低。</span><span class="english">The dose of gelation is decreased with the increasing of temperature.</span></p>

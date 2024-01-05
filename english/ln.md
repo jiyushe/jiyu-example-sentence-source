@@ -1,5 +1,7 @@
 # ln
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ln.md)
+
 <p><span class="chinese">这里有一些手工钥匙链。</span><span class="english">Ln here we have some boondoggle key chains.</span></p>
 
 <p><span class="chinese">所以结果是，负的nRT除以。</span><span class="english">And so we can write this, ln minus nRT log V2 over V1.</span></p>

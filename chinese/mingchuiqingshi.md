@@ -1,5 +1,7 @@
 # 名垂青史
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingchuiqingshi.md)
+
 <p><span class="chinese">他作为民族英雄而名垂青史。</span><span class="english">He left a name in history as a national hero.</span></p>
 
 <p><span class="chinese">亚当斯和勒威耶两人都因发现了海王星而名垂青史。</span><span class="english">Both Adams and Leverrier are honored for discovering Neptune.</span></p>

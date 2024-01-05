@@ -1,5 +1,7 @@
 # 头状花序
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touzhuanghuaxu.md)
+
 <p><span class="chinese">头状花序皱缩成团。</span><span class="english">Capitate shrinkage becomes a group.</span></p>
 
 <p><span class="chinese">类似于兔草，但其头状花序有花盘和少量的边花。</span><span class="english">The flower head of any of these plants.</span></p>

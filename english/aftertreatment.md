@@ -1,5 +1,7 @@
 # aftertreatment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aftertreatment.md)
+
 <p><span class="chinese">水溶性，应用于所有护发产品。</span><span class="english">Water soluble, can be used in all hair – aftertreatment products.</span></p>
 
 <p><span class="chinese">二级处理后的废水经过上述膜工艺深度处理后，各项指标大大改善。</span><span class="english">The water quality of the sewage aftertreatment by membrane technology was improved greatly.</span></p>

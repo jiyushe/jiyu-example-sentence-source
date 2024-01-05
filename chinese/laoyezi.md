@@ -1,5 +1,7 @@
 # 老爷子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laoyezi.md)
+
 <p><span class="chinese">老爷子，买躺椅了？</span><span class="english">Father, to buy a recliner?</span></p>
 
 <p><span class="chinese">老爷子不耐烦地说，“为什么？</span><span class="english">The Don said impatiently, 'For what?</span></p>

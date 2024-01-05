@@ -1,5 +1,7 @@
 # explained
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/explained.md)
+
 <p><span class="chinese">我解释道。</span><span class="english">I explained.</span></p>
 
 <p><span class="chinese">科学家解释。</span><span class="english">The scientist explained.</span></p>

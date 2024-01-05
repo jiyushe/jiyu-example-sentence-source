@@ -1,5 +1,7 @@
 # 垂涎三尺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuixiansanchi.md)
+
 <p><span class="chinese">我对你垂涎三尺。</span><span class="english">I am slobbering all over you.</span></p>
 
 <p><span class="chinese">他看见烤肉就垂涎三尺。</span><span class="english">His mouth watered at the sight of roast.</span></p>

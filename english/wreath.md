@@ -1,5 +1,7 @@
 # wreath
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wreath.md)
+
 <p><span class="chinese">紫环点头。</span><span class="english">The purple wreath nods.</span></p>
 
 <p><span class="chinese">怎么了?没戴橡树叶的花圈?。</span><span class="english">What?No wreath of oak leaves?</span></p>

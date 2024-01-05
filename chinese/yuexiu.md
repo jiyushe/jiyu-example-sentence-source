@@ -1,5 +1,7 @@
 # 粤绣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuexiu.md)
+
 <p><span class="chinese">粤绣和蜀绣，对吧？</span><span class="english">Yue embroidery and Shu embroidery, right?</span></p>
 
 <p><span class="chinese">1915年后，粤绣作品在巴拿马国际博览会等国际赛会上多次获得大奖。</span><span class="english">Since 1915, the work of Yue embroidery garnered several awards at the Panama Expo.</span></p>

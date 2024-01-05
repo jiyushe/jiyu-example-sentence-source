@@ -1,5 +1,7 @@
 # lowering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lowering.md)
+
 <p><span class="chinese">降低你的标准。</span><span class="english">Lowering your standards.</span></p>
 
 <p><span class="chinese">下放悬重是多少?。</span><span class="english">What's the lowering weight?</span></p>

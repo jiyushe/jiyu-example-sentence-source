@@ -1,5 +1,7 @@
 # 居室
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jushi_2.md)
+
 <p><span class="chinese">难道你们的居室无梦？</span><span class="english">Does not your house dream?</span></p>
 
 <p><span class="chinese">我更喜欢我们家的居室。</span><span class="english">I like our sitting-room better.</span></p>

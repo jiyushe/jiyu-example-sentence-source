@@ -1,5 +1,7 @@
 # 劝和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanhe.md)
+
 <p><span class="chinese">一个和尚试图从中劝和。</span><span class="english">A monk tries to settle their dispute.</span></p>
 
 <p><span class="chinese">决定派谴女儿如意公主去李渊府上劝和。</span><span class="english">Decided to go to the task daughter princess LiYuan round mediate.</span></p>

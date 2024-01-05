@@ -1,5 +1,7 @@
 # peduncle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peduncle.md)
+
 <p><span class="chinese">花序梗可达3毫米，有时废退。</span><span class="english">Peduncle up to 3 mm, sometimes obsolete.</span></p>
 
 <p><span class="chinese">形状的黑色斑块在尾梗上。</span><span class="english">Lambchop-shaped black blotch on caudal peduncle.</span></p>

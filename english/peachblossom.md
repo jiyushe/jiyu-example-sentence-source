@@ -1,5 +1,7 @@
 # peachblossom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peachblossom.md)
+
 <p><span class="chinese">科学的“桃花园”比诗歌更美！</span><span class="english">Scientific " Peachblossom Garden" is more beautiful than poem!</span></p>
 
 <p><span class="chinese">在走进“桃花园”之前，需要告诉你们一件事情。</span><span class="english">Before go into the "Peachblossom Garden", I would like to tell you one thing.</span></p>

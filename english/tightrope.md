@@ -1,5 +1,7 @@
 # tightrope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tightrope.md)
+
 <p><span class="chinese">他常走钢丝来跨越尼亚拉加瀑布。</span><span class="english">He used to walk on a tightrope across the Niagara Falls.</span></p>
 
 <p><span class="chinese">杂技团的演员在拉紧的绳索上保持平衡。</span><span class="english">The acrobat in the circus maintained equilibrium on a tightrope.</span></p>

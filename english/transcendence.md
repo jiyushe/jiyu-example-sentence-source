@@ -1,5 +1,7 @@
 # transcendence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transcendence.md)
+
 <p><span class="chinese">但是对我而言，超验非我的目标所能到达。</span><span class="english">But for me transcendence is avoiding my object.</span></p>
 
 <p><span class="chinese">这是一部充满激情的个人超越之书。</span><span class="english">It was a book of passionate personal transcendence.</span></p>

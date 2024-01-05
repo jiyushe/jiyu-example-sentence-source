@@ -1,5 +1,7 @@
 # 婢女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/binv.md)
+
 <p><span class="chinese">辟拉是拉结的婢女。</span><span class="english">Bilhah the handmaid of Rachel.</span></p>
 
 <p><span class="chinese">你待婢女也要这样。</span><span class="english">Do the same for your maidservant.</span></p>

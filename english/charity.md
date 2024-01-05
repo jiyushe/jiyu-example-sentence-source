@@ -1,5 +1,7 @@
 # charity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/charity.md)
+
 <p><span class="chinese">和慈善机构共同拥有？</span><span class="english">Co-own with a charity?</span></p>
 
 <p><span class="chinese">修身齐家博爱天下。</span><span class="english">Charity begins at home.</span></p>

@@ -1,5 +1,7 @@
 # 绝对湿度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jueduishidu.md)
+
 <p><span class="chinese">“绝对湿度解释了其中大多数的变化，”萨门说道。</span><span class="english">"Absolute humidity conditions explain most of these changes, " Shaman said.</span></p>
 
 <p><span class="chinese">研究者们并不完全清楚为什么流感病毒喜欢低的绝对湿度。</span><span class="english">The researchers do not know exactly what it is about low absolute humidity that the flu virus likes.</span></p>

@@ -1,5 +1,7 @@
 # interstage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interstage.md)
+
 <p><span class="chinese">降低了级间冷却器的冷却效果。</span><span class="english">The scaling reduced the cooling effect of the interstage cooler.</span></p>
 
 <p><span class="chinese">并指出了最佳锻坯应满足的条件。</span><span class="english">The paper also points out the condition of the best interstage of the forging.</span></p>

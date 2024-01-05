@@ -1,5 +1,7 @@
 # 比基尼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bijini.md)
+
 <p><span class="chinese">这就是比基尼环礁。</span><span class="english">This is the Bikini Atoll.</span></p>
 
 <p><span class="chinese">穿比基尼那个年轻女人。</span><span class="english">The young woman in the bikini?</span></p>

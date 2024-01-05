@@ -1,5 +1,7 @@
 # generator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/generator.md)
+
 <p><span class="chinese">轴带发电机?。</span><span class="english">Shaft generator?</span></p>
 
 <p><span class="chinese">去发电机那儿。</span><span class="english">To the generator.</span></p>

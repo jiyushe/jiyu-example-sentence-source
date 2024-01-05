@@ -1,5 +1,7 @@
 # thames
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thames.md)
+
 <p><span class="chinese">我们乘船顺泰晤士河而下。</span><span class="english">We boated down the Thames.</span></p>
 
 <p><span class="chinese">很多桥横亘在泰晤士河上。</span><span class="english">Many bridges span the Thames.</span></p>

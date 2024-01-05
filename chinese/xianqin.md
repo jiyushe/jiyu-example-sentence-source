@@ -1,5 +1,7 @@
 # 先秦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianqin.md)
+
 <p><span class="chinese">先秦时期属广阳郡。</span><span class="english">Belong to the pre-Qin period-gun.</span></p>
 
 <p><span class="chinese">这使得“神仙”信仰自先秦以来长盛不衰。</span><span class="english">This makes the gods faith lasting since the pre-Qin.</span></p>

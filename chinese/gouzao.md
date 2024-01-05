@@ -1,5 +1,7 @@
 # 构造
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gouzao.md)
+
 <p><span class="chinese">一个大形的渡海的“构造”。</span><span class="english">A large sea-going vessel.</span></p>
 
 <p><span class="chinese">我能不能构造新的矢量</span><span class="english">Can I manufacture new vectors?</span></p>

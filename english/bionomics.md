@@ -1,5 +1,7 @@
 # bionomics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bionomics.md)
+
 <p><span class="chinese">喜树幽斑螟生物学特性的研究。</span><span class="english">Studies on the Bionomics of Pyla sp.</span></p>
 
 <p><span class="chinese">研究了乌苏里鸣螽的生物学特性。</span><span class="english">The bionomics of Gampocleis ussuriensis Adelung in the laboratory and field were observed.</span></p>

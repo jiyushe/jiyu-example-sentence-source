@@ -1,5 +1,7 @@
 # avenue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avenue.md)
+
 <p><span class="chinese">他在林荫道上跑着。</span><span class="english">He ran down the avenue.</span></p>
 
 <p><span class="chinese">下一站，世纪大道。</span><span class="english">Next stop Shiji Avenue.</span></p>

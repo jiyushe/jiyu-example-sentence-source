@@ -1,5 +1,7 @@
 # 高屋建瓴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaowujianling.md)
+
 <p><span class="chinese">高屋建瓴的小镇之上。</span><span class="english">Above the roof-peaks of the town.</span></p>
 
 <p><span class="chinese">他高屋建瓴而受到人民的尊敬。</span><span class="english">He is respected by his people for his farsightedness.</span></p>

@@ -1,5 +1,7 @@
 # vancouver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vancouver.md)
+
 <p><span class="chinese">欢迎光临温哥华。</span><span class="english">Welcome to Vancouver.</span></p>
 
 <p><span class="chinese">你是到温哥华去吗？</span><span class="english">Are you going to Vancouver?</span></p>

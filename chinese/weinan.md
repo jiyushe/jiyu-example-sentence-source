@@ -1,5 +1,7 @@
 # 为难
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weinan.md)
+
 <p><span class="chinese">这有点为难你了，-没关系。</span><span class="english">To put you on the spot. -Sure.</span></p>
 
 <p><span class="chinese">那些犹豫不定的态度令我为难。</span><span class="english">Those shifting attitudes bewilder me.</span></p>

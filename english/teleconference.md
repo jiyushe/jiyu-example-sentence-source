@@ -1,5 +1,7 @@
 # teleconference
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teleconference.md)
+
 <p><span class="chinese">你可能享受这一工作电视电话会议，与丹。</span><span class="english">You might enjoy that teleconference with Dan.</span></p>
 
 <p><span class="chinese">现行电话会议系统的主流是基于H.323协议体系。</span><span class="english">Nowadays, most of teleconference system base on H. 323 protocol.</span></p>

@@ -1,5 +1,7 @@
 # 搬弄是非
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bannongshifei.md)
+
 <p><span class="chinese">她爱搬弄是非。</span><span class="english">She is a gossip.</span></p>
 
 <p><span class="chinese">她喜欢搬弄是非。</span><span class="english">She loves to peddle gossip.</span></p>

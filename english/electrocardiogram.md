@@ -1,5 +1,7 @@
 # electrocardiogram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrocardiogram.md)
+
 <p><span class="chinese">做心电图能看出来睡眠不好吗？为什么？</span><span class="english">Do electrocardiogram to you can see is Morpheus bad? Why?</span></p>
 
 <p><span class="chinese">心电图及超声心动图是正确诊断的重要方法。</span><span class="english">The diagnosis was mainly based on electrocardiogram and echocardiogram.</span></p>

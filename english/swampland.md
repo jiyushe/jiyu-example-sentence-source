@@ -1,5 +1,7 @@
 # swampland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swampland.md)
+
 <p><span class="chinese">但州内大部分地区却是沼泽地。</span><span class="english">But a good chunk of it is swampland.</span></p>
 
 <p><span class="chinese">岛上的建筑物都是建在沼泽地带，所以都高于地面四至五尺。</span><span class="english">All buildings are built 3-5 feet from the swampland.</span></p>

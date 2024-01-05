@@ -1,5 +1,7 @@
 # cia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cia.md)
+
 <p><span class="chinese">他被临时调到中央情报局工作去了。</span><span class="english">He was seconded to CIA.</span></p>
 
 <p><span class="chinese">艾伦·杜勒斯的中情局身份证</span><span class="english">CIA ID Card for Allen W. Dulles</span></p>

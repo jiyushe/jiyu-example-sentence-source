@@ -1,5 +1,7 @@
 # combustible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/combustible.md)
+
 <p><span class="chinese">赛璐珞是极易着火的。</span><span class="english">Celluloid is highly combustible.</span></p>
 
 <p><span class="chinese">那么，可燃冰是怎么来的呢？</span><span class="english">So, combustible ice is how come from?</span></p>

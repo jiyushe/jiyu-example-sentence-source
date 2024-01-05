@@ -1,5 +1,7 @@
 # phenom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phenom.md)
+
 <p><span class="chinese">这里是第一个样本的现象9600黑金刚。</span><span class="english">Here is the first samples of Phenom 9600 Black Edition.</span></p>
 
 <p><span class="chinese">为何这位34岁的球星成为最性感的男人之一。</span><span class="english">Why is the 34-year-old soccer phenom one of the sexiest men alive?</span></p>

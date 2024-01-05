@@ -1,5 +1,7 @@
 # 粉刷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenshua.md)
+
 <p><span class="chinese">粉刷门窗。</span><span class="english">Painting doors.</span></p>
 
 <p><span class="chinese">好让我们可以粉刷。</span><span class="english">So that we can repaint it.</span></p>

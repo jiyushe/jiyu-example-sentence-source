@@ -1,5 +1,7 @@
 # 劳碌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laolu.md)
+
 <p><span class="chinese">星期六出生的孩子是劳碌命。</span><span class="english">Saturday's child works hard for a living.</span></p>
 
 <p><span class="chinese">他整天劳碌但挣得很少。</span><span class="english">He toiled all day long but earned very little.</span></p>

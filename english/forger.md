@@ -1,5 +1,7 @@
 # forger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forger.md)
+
 <p><span class="chinese">别忘了到了那里去会见他。</span><span class="english">Don't forger to meet him when you get there.</span></p>
 
 <p><span class="chinese">他说他永远不会忘记我指控他的舞弊行为。</span><span class="english">He said he would never forger that I had accused him of cheating.</span></p>

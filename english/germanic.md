@@ -1,5 +1,7 @@
 # germanic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/germanic.md)
+
 <p><span class="chinese">部分起源于日尔曼语。</span><span class="english">Partly of Germanic origin.</span></p>
 
 <p><span class="chinese">是西日耳曼语的一支。</span><span class="english">English is a West Germanic dialect.</span></p>

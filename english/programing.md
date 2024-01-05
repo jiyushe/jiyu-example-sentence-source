@@ -1,5 +1,7 @@
 # programing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/programing.md)
+
 <p><span class="chinese">从重建方案子公司WFIU出印第安纳严重爵士乐节目。</span><span class="english">Serious Jazz programing from NRP affiliate WFIU out of Indiana.</span></p>
 
 <p><span class="chinese">通过椭圆台铣削编程加工实例说明了宏程序编程过程和使用效果。</span><span class="english">And the programing and effect are stated by the process of the ellipse.</span></p>

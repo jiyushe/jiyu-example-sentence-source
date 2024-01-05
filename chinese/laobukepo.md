@@ -1,5 +1,7 @@
 # 牢不可破
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laobukepo.md)
+
 <p><span class="chinese">你的队伍将会像铜墙铁壁一样牢不可破。</span><span class="english">Your team becomes a virtual wall of swords.</span></p>
 
 <p><span class="chinese">但是，兄弟三个关系不错，手足之情牢不可破。</span><span class="english">Yet they were three fine, well-set fellows enough.</span></p>

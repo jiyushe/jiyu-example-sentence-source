@@ -1,5 +1,7 @@
 # 硕大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuoda.md)
+
 <p><span class="chinese">那头蓝鲸体形硕大。</span><span class="english">The blue whale is ginormous.</span></p>
 
 <p><span class="chinese">老班一定是一个体形硕大的巨人。</span><span class="english">Ben must have been a great big man.</span></p>

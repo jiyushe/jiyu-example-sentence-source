@@ -1,5 +1,7 @@
 # pulsar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pulsar.md)
+
 <p><span class="chinese">蟹状星云脉冲星变慢。</span><span class="english">The Crab Pulsar is slowing down.</span></p>
 
 <p><span class="chinese">这种特征被称为脉冲星云。</span><span class="english">Such features are known as pulsar wind nebulas.</span></p>

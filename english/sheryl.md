@@ -1,5 +1,7 @@
 # sheryl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sheryl.md)
+
 <p><span class="chinese">以下是作者谢乐尔.无邓恩7月在英国牛津大学TED全球会议上的演讲。</span><span class="english">Author Sheryl WuDunn spoke at the TED Global conference in July in Oxford, England.</span></p>
 
 <p><span class="chinese">紫红色是代替沉闷黑色的最佳选择，雪儿·克劳的尝试就很成功。</span><span class="english">Aubergine is an interesting alternative to boring black and Sheryl Crow carried it off well.</span></p>

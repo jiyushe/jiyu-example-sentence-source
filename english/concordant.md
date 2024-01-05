@@ -1,5 +1,7 @@
 # concordant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concordant.md)
+
 <p><span class="chinese">结果与我们的假设一致。</span><span class="english">The results were concordant with our hypothesis.</span></p>
 
 <p><span class="chinese">异种肝移植免疫排斥反应中脾脏的作用。</span><span class="english">The role of spleen in rejection of concordant liver xenograft.</span></p>

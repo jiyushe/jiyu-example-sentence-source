@@ -1,5 +1,7 @@
 # timelike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/timelike.md)
+
 <p><span class="chinese">在一个封闭的时间型曲线中，生活看来是很单调的。</span><span class="english">Life on a closed timelike curve seems pretty drab.</span></p>
 
 <p><span class="chinese">封闭的时间型曲线一定会导致矛盾吗？</span><span class="english">Do closed timelike curves necessarily lead to paradoxes?</span></p>

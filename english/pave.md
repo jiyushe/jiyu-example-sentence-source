@@ -1,5 +1,7 @@
 # pave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pave.md)
+
 <p><span class="chinese">我们还侵占它们的栖息地，铺路盖房子。</span><span class="english">Or pave their habitats.</span></p>
 
 <p><span class="chinese">你们也可以铺出路来。</span><span class="english">You too can pave the way.</span></p>

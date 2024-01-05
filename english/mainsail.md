@@ -1,5 +1,7 @@
 # mainsail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mainsail.md)
+
 <p><span class="chinese">我知道主帆是什么?。</span><span class="english">I know what a mainsail is.</span></p>
 
 <p><span class="chinese">要怎么把主帆拉上去?。</span><span class="english">How do you get the mainsail up?</span></p>

@@ -1,5 +1,7 @@
 # patrilineal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patrilineal.md)
+
 <p><span class="chinese">其核心便是以父系血缘群体利益为重。</span><span class="english">Its core is to put patrilineal consanguine group benefit first.</span></p>
 
 <p><span class="chinese">进入父系社会后，女性地位开始沦落与丧失。</span><span class="english">After entering patrilineal society, the admired position of women began to fall.</span></p>

@@ -1,5 +1,7 @@
 # doesnot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doesnot.md)
+
 <p><span class="chinese">但这些并不表示你成为了一名中国人。</span><span class="english">But this doesnot make you Chinese.</span></p>
 
 <p><span class="chinese">觉者是谦卑的，他并不练习谦卑。</span><span class="english">The Awakened One is humble, and doesnot practice humility.</span></p>

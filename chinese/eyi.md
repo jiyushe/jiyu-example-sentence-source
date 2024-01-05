@@ -1,5 +1,7 @@
 # 恶意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/eyi.md)
+
 <p><span class="chinese">我对你毫无恶意。</span><span class="english">I bear you no malice.</span></p>
 
 <p><span class="chinese">他是一个不怀恶意的人。</span><span class="english">He was a harmless sort.</span></p>

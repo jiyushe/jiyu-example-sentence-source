@@ -1,5 +1,7 @@
 # impoverishment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impoverishment.md)
+
 <p><span class="chinese">人类本来生活在大自然的，日晒雨淋。</span><span class="english">Human life in the nature, originally impoverishment.</span></p>
 
 <p><span class="chinese">就像魔法一样，穷人变成“特别投资工具”。</span><span class="english">Magically, impoverishment became a "special investment vehicle".</span></p>

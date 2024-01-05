@@ -1,5 +1,7 @@
 # pentobarbital
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pentobarbital.md)
+
 <p><span class="chinese">戊巴比妥的主要生产商是H。</span><span class="english">The main producer of pentobarbital is H.</span></p>
 
 <p><span class="chinese">缩短戊巴比妥钠催眠时间。</span><span class="english">Limonene shorten the sleeping time induced by sodium pentobarbital.</span></p>

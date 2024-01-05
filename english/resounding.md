@@ -1,5 +1,7 @@
 # resounding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resounding.md)
+
 <p><span class="chinese">答案是响亮的“是”。</span><span class="english">The answer is a resounding yes.</span></p>
 
 <p><span class="chinese">孤寂却成了响彻云霄的唯一音符。</span><span class="english">Solitude has become a resounding only notes.</span></p>

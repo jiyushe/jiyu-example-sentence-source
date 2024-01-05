@@ -1,5 +1,7 @@
 # 怨声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuansheng_1.md)
+
 <p><span class="chinese">抱怨声在持续增长。</span><span class="english">Complaints have been growing.</span></p>
 
 <p><span class="chinese">人生所有的怨声和怒言</span><span class="english">And all the babble of life's angry voices</span></p>

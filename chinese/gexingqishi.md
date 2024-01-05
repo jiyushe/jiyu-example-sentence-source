@@ -1,5 +1,7 @@
 # 各行其是
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gexingqishi.md)
+
 <p><span class="chinese">当领导不在时，人们将会各行其是。</span><span class="english">When the person in power is absent, people will do as they like.</span></p>
 
 <p><span class="chinese">译者往往各行其是，难于规范及统一。</span><span class="english">Especially, it is not easy to standardize or unify, so that the translator does as he likes.</span></p>

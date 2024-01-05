@@ -1,5 +1,7 @@
 # 破折号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pozhehao.md)
+
 <p><span class="chinese">破折号比连字号长。</span><span class="english">The dash is longer than the hyphen.</span></p>
 
 <p><span class="chinese">我甚至开始在作文时运用破折号。</span><span class="english">I even started using dashes in my writing.</span></p>

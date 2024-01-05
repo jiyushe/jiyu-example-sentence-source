@@ -1,5 +1,7 @@
 # 水资源
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiziyuan.md)
+
 <p><span class="chinese">我们正在污染水资源。</span><span class="english">We are polluting the water.</span></p>
 
 <p><span class="chinese">但水资源战争似乎不大可能。</span><span class="english">But a water war seems unlikely.</span></p>

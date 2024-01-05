@@ -1,5 +1,7 @@
 # redemption
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redemption.md)
+
 <p><span class="chinese">但是这和赎罪有什么关系？</span><span class="english">But why the redemption?</span></p>
 
 <p><span class="chinese">这是恩典和全备的救赎的声音。</span><span class="english">The voice of grace and full redemption.</span></p>

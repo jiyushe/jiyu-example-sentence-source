@@ -1,5 +1,7 @@
 # 无往不胜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuwangbusheng.md)
+
 <p><span class="chinese">这是一支无往不胜的军队。</span><span class="english">This is an invincible army.</span></p>
 
 <p><span class="chinese">在这样的恐慌气氛下，现有的科学知识和方法难以做到无往不胜。</span><span class="english">Amid such fears, the available science doesn't always prevail.</span></p>

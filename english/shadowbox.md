@@ -1,5 +1,7 @@
 # shadowbox
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shadowbox.md)
+
 <p><span class="chinese">我如何提交我的形式在太极拳？</span><span class="english">How Do I Submit My Form in Shadowbox?</span></p>
 
 <p><span class="chinese">规避或躲避采取正面或直接的行动或回应等。</span><span class="english">Shadowbox to evade or avoid positive, direct or decisive action.</span></p>

@@ -1,5 +1,7 @@
 # cardiologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cardiologist.md)
+
 <p><span class="chinese">面向心脏病专家的一本好的书。</span><span class="english">A nice book for the cardiologist. Credit for armatura.</span></p>
 
 <p><span class="chinese">她的心脏科医生从旁边走过，问我在那里做什么。</span><span class="english">Her cardiologist walked by and asked what I was doing.</span></p>

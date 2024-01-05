@@ -1,5 +1,7 @@
 # wine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wine.md)
+
 <p><span class="chinese">猫在酒里小便的味道？</span><span class="english">Cat pee in wine?</span></p>
 
 <p><span class="chinese">今霄酒醒何处？</span><span class="english">From wine awake?</span></p>

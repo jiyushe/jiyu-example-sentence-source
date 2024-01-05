@@ -1,5 +1,7 @@
 # featherweight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/featherweight.md)
+
 <p><span class="chinese">委员会的其他两个成员只是无足轻重的人。</span><span class="english">The other two members of the committee are just featherweight.</span></p>
 
 <p><span class="chinese">该唇膏由于其特有的轻盈质地，能够均匀地在唇上涂开。</span><span class="english">Rouge Appeal slides easily over the lips thanks to its featherweight texture.</span></p>

@@ -1,5 +1,7 @@
 # 面面相觑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianmianxiangqu.md)
+
 <p><span class="chinese">妈妈和爸爸面面相觑。</span><span class="english">Mum and Dad exchanged glances.</span></p>
 
 <p><span class="chinese">宾客们都不禁面面相觑。</span><span class="english">The guests looked at each other.</span></p>

@@ -1,5 +1,7 @@
 # adventitious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adventitious.md)
+
 <p><span class="chinese">高质量浓度铅诱导不定根产生。</span><span class="english">High mass concentration of lead induced adventitious roots.</span></p>
 
 <p><span class="chinese">他觉得这次与他朋友偶然相遇是极其幸运的。</span><span class="english">He found this adventitious meeting with his friend extremely fortunate.</span></p>

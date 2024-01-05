@@ -1,5 +1,7 @@
 # 露一手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/louyishou.md)
+
 <p><span class="chinese">谁想露一手？</span><span class="english">Who wants a shot?</span></p>
 
 <p><span class="chinese">给我们露一手吧！</span><span class="english">Give us a show, baby!</span></p>

@@ -1,5 +1,7 @@
 # nanning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nanning.md)
+
 <p><span class="chinese">在南宁市有一定的市场份额。</span><span class="english">Nanning City in a certain market share.</span></p>
 
 <p><span class="chinese">邕江真的需要那么多桥吗?。</span><span class="english">Does Nanning Really Need So Many Bridges?</span></p>

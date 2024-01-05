@@ -1,5 +1,7 @@
 # coronary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coronary.md)
+
 <p><span class="chinese">预防心管疾病。</span><span class="english">Prevents coronary disease.</span></p>
 
 <p><span class="chinese">冠状动脉被纵向剖开。</span><span class="english">A coronary artery has been opened longitudinally.</span></p>

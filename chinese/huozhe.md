@@ -1,5 +1,7 @@
 # 活着
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huozhe.md)
+
 <p><span class="chinese">你是活着的。</span><span class="english">You are alive.</span></p>
 
 <p><span class="chinese">还是活着度过虚伪的一生?。</span><span class="english">Or alive to live alie?</span></p>

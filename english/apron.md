@@ -1,5 +1,7 @@
 # apron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apron.md)
+
 <p><span class="chinese">乖狗狗，坐到围裙上来。</span><span class="english">Good dog, sit on this apron.</span></p>
 
 <p><span class="chinese">散水有什么作用？</span><span class="english">What's the function of apron?</span></p>

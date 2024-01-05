@@ -1,5 +1,7 @@
 # 还愿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanyuan.md)
+
 <p><span class="chinese">露西还愿意在圣诞节上班。</span><span class="english">Lucy is willing to work Christmas too.</span></p>
 
 <p><span class="chinese">我怀疑他们是否还愿意念到我这个人。</span><span class="english">I doubted they would want to be reminded of me.</span></p>

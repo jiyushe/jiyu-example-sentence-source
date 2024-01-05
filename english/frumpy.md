@@ -1,5 +1,7 @@
 # frumpy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frumpy.md)
+
 <p><span class="chinese">直到我在电视上看到自己，我才意识到自己是多么地上不了台面。</span><span class="english">It wasn't until I saw myself on TV that I realised how frumpy I was.</span></p>
 
 <p><span class="chinese">几十年来，国家第一夫人都是一身过时的打扮，杰克的夫人却是那么时尚典雅。</span><span class="english">After decades of frumpy first ladies, Jackie was so stylish and elegant.</span></p>

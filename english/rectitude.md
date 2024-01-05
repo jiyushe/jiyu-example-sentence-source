@@ -1,5 +1,7 @@
 # rectitude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rectitude.md)
+
 <p><span class="chinese">这是财政清廉的一个罕见的胜利。</span><span class="english">IT WAS a rare victory for fiscal rectitude.</span></p>
 
 <p><span class="chinese">勇敢，忠诚，无私，正直。</span><span class="english">A man of bravery, honesty, unselfishness and rectitude.</span></p>

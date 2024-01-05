@@ -1,5 +1,7 @@
 # communication 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/communication.md)
+
 <p><span class="chinese">一种双向的交流。</span><span class="english">A two-way communication.</span></p>
 
 <p><span class="chinese">二进制数据通信。</span><span class="english">Binary data communication.</span></p>

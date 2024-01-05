@@ -1,5 +1,7 @@
 # 角质
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaozhi_1.md)
+
 <p><span class="chinese">叶大而薄，角质膜极薄。</span><span class="english">Leaves are usually large but thin.</span></p>
 
 <p><span class="chinese">犰狳有角质鳞片的护甲。</span><span class="english">The armadillo has a protective shell of bony plates.</span></p>

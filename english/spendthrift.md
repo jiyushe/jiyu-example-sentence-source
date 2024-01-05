@@ -1,5 +1,7 @@
 # spendthrift
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spendthrift.md)
+
 <p><span class="chinese">挥霍无度的人也不喜欢成为败家子。</span><span class="english">A spendthrift does not like being a spendthrift.</span></p>
 
 <p><span class="chinese">阿败家子将允许少数人垄断了她的注意。</span><span class="english">A spendthrift will allow a few people to monopolize her attention.</span></p>

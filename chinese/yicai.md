@@ -1,5 +1,7 @@
 # 异彩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yicai.md)
+
 <p><span class="chinese">有时候，这样的轻松会发出异彩。</span><span class="english">And sometimes, that light becomes splendiferous.</span></p>
 
 <p><span class="chinese">唐代经学是经学史上的一抹异彩。</span><span class="english">It was a colorful page of history in Tang dynasty classics.</span></p>

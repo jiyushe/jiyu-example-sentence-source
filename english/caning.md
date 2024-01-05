@@ -1,5 +1,7 @@
 # caning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caning.md)
+
 <p><span class="chinese">鞭刑是一种酷刑。</span><span class="english">Caning is one of the cruel tortures.</span></p>
 
 <p><span class="chinese">鞭刑有利于维持社会的秩序。</span><span class="english">My opinon is caning is good for keeping order of our society.</span></p>

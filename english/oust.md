@@ -1,5 +1,7 @@
 # oust
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oust.md)
+
 <p><span class="chinese">很遗憾，什么也不可能取代计算机。</span><span class="english">I 'm sorry to say nothing could oust a computer.</span></p>
 
 <p><span class="chinese">幼鸟从鸟巢里掉下来了，还不会飞。</span><span class="english">Baby cuckoos oust other baby birds from their nests.</span></p>

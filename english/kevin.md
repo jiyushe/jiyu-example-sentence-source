@@ -1,5 +1,7 @@
 # kevin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kevin.md)
+
 <p><span class="chinese">——不，凯文说。</span><span class="english">No, said Kevin.</span></p>
 
 <p><span class="chinese">我喜欢郑嘉颖！</span><span class="english">I love kevin cheng!</span></p>

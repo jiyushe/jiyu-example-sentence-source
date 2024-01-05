@@ -1,5 +1,7 @@
 # appetitive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appetitive.md)
+
 <p><span class="chinese">最好远离食欲的方法，就是不去想它。</span><span class="english">Had better be far from appetitive method, do not think it namely.</span></p>
 
 <p><span class="chinese">同时黄色又是某些食物的色彩，有刺激食欲的作用。</span><span class="english">At the same time yellow is certain alimental colour, have exciting appetitive effect.</span></p>

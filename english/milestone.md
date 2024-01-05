@@ -1,5 +1,7 @@
 # milestone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/milestone.md)
+
 <p><span class="chinese">中国在每一年都迈过了一个新的里程碑。</span><span class="english">Each year, China passes a new milestone.</span></p>
 
 <p><span class="chinese">对周杰伦来说，今年是里程碑式的一年。</span><span class="english">It's been a milestone year for Jay Chou.</span></p>

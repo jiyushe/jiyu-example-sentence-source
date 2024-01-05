@@ -1,5 +1,7 @@
 # 自我标榜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziwobiaobang.md)
+
 <p><span class="chinese">但是在简历里面，自我标榜是可以接受的。</span><span class="english">But on a resume, it's okay to brag.</span></p>
 
 <p><span class="chinese">自我标榜会被认为没有教养。</span><span class="english">Self-praise is felt to be ill-bred.</span></p>

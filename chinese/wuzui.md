@@ -1,5 +1,7 @@
 # 无罪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuzui.md)
+
 <p><span class="chinese">她提出无罪抗辩。</span><span class="english">She put in a plea of guilty.</span></p>
 
 <p><span class="chinese">陪审团裁定他无罪。</span><span class="english">The jury found him innocent.</span></p>

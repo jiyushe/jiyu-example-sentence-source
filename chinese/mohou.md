@@ -1,5 +1,7 @@
 # 末后
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mohou.md)
+
 <p><span class="chinese">末后，妇人也死了。</span><span class="english">Finally, the woman died.</span></p>
 
 <p><span class="chinese">自从耶稣升天后，我们已经处在「末后的日子」里。</span><span class="english">We have been in "the last days" since Jesus' ascension.</span></p>

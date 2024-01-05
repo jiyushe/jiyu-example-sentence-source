@@ -1,5 +1,7 @@
 # 亲信
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinxin.md)
+
 <p><span class="chinese">毫无疑问，尼克松和他的内层亲信们琢磨过这样一种看法。</span><span class="english">No doubt nixon and his inner circle savoured the notion.</span></p>
 
 <p><span class="chinese">阿拉维派亲信掌管着多个安全机构。</span><span class="english">There are multiple security organs run by trusted Alawis.</span></p>

@@ -1,5 +1,7 @@
 # netherlands
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/netherlands.md)
+
 <p><span class="chinese">荷兰橙色挂绳。</span><span class="english">Netherlands Orange Lanyard.</span></p>
 
 <p><span class="chinese">荷兰鹿特丹港。</span><span class="english">Rotterdam of the Netherlands.</span></p>

@@ -1,5 +1,7 @@
 # ravenous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ravenous.md)
+
 <p><span class="chinese">饿极了的孩子把桌上所有东西吃掉了。</span><span class="english">The ravenous children ate everything on the table.</span></p>
 
 <p><span class="chinese">贪吃的野兽随意出没在乡间。</span><span class="english">Ravenous beasts freely roved up and down the country.</span></p>

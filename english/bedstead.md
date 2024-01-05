@@ -1,5 +1,7 @@
 # bedstead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bedstead.md)
+
 <p><span class="chinese">床架上轻薄的纱帐。</span><span class="english">The frivolous gauze account on bedstead.</span></p>
 
 <p><span class="chinese">床架上一个松动的球形铜扣发出嘎啦声。</span><span class="english">A loose brass knob on the bedstead rattled.</span></p>

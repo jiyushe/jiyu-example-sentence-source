@@ -1,5 +1,7 @@
 # increaser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/increaser.md)
+
 <p><span class="chinese">本文简单介绍几种风力发电机增速箱的结构、原理和特点及其在风力发电机组中的应用。</span><span class="english">This paper briefly introduces structure, principle, character of the wind motor increaser and application in wind motor.</span></p>
 
 <p><span class="chinese">本文以高速离心喷雾干噪器用增速器为例，进行结构分析及有关加工介绍。</span><span class="english">This article analyses the structure and the processing of the speed increaser fixed on the high-speed centrifugal spraying dryer.</span></p>

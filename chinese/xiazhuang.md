@@ -1,5 +1,7 @@
 # 下装
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiazhuang.md)
+
 <p><span class="chinese">下装不包括在内。</span><span class="english">Bottoms not included.</span></p>
 
 <p><span class="chinese">最近我开始喜欢高腰围的下装。</span><span class="english">Lately I've been fond of high waists.</span></p>

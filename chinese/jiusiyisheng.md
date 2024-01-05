@@ -1,5 +1,7 @@
 # 九死一生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiusiyisheng.md)
+
 <p><span class="chinese">她九死一生从那次疾病中逃脱。</span><span class="english">We escaped by a hair 's breadth.</span></p>
 
 <p><span class="chinese">她叙述了她九死一生的经历。</span><span class="english">She described how she had narrowly escaped death.</span></p>

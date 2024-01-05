@@ -1,5 +1,7 @@
 # 倩影
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianying.md)
+
 <p><span class="chinese">我梦见了你的倩影。</span><span class="english">I arise from dreams of thee.</span></p>
 
 <p><span class="chinese">看见你在水中的倩影。</span><span class="english">I see your image in the water.</span></p>

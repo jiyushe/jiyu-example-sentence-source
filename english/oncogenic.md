@@ -1,5 +1,7 @@
 # oncogenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oncogenic.md)
+
 <p><span class="chinese">它不仅有传染性，一种致癌的潜力。</span><span class="english">It has both an infectious and an oncogenic potential.</span></p>
 
 <p><span class="chinese">并初步证实肺腺癌细胞体外致瘤能力的差异性。</span><span class="english">To prove the lung adenocarcinoma cells oncogenic capability in vitro.</span></p>

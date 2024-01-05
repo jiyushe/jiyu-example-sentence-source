@@ -1,5 +1,7 @@
 # economy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/economy.md)
+
 <p><span class="chinese">到纽约票一张，经济座。</span><span class="english">One New York, economy.</span></p>
 
 <p><span class="chinese">更加经济性的攀爬。</span><span class="english">Climb with more economy.</span></p>

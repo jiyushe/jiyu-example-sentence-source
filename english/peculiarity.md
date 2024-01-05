@@ -1,5 +1,7 @@
 # peculiarity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peculiarity.md)
+
 <p><span class="chinese">腹袋是有袋动物的特色。</span><span class="english">Pouches are a peculiarity of marsupials.</span></p>
 
 <p><span class="chinese">“名栏”则除了具备这些特征外还应有自己的特色。</span><span class="english">In addition, it should possess its own peculiarity.</span></p>

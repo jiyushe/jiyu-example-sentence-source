@@ -1,5 +1,7 @@
 # 病员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingyuan_3.md)
+
 <p><span class="chinese">病员的数量正以惊人的速度增加。</span><span class="english">The number of the sick was increasing with appalling rapidity.</span></p>
 
 <p><span class="chinese">门诊部普通门诊病员，应先挂号后诊病。</span><span class="english">Average outpatient service, should the clinic after register first ask.</span></p>

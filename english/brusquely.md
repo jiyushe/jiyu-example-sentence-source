@@ -1,5 +1,7 @@
 # brusquely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brusquely.md)
+
 <p><span class="chinese">“三十五分。”她没好气地答道。</span><span class="english">"Thirty-five cents, " she said brusquely.</span></p>
 
 <p><span class="chinese">“打扰了。”她唐突地向爱德华说道。</span><span class="english">Excuse me, " she said brusquely to Edward."</span></p>

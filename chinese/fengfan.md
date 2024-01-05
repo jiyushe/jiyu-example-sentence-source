@@ -1,5 +1,7 @@
 # 风帆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengfan.md)
+
 <p><span class="chinese">你正在风帆冲浪！</span><span class="english">You are windsurfing!</span></p>
 
 <p><span class="chinese">微风鼓起风帆。</span><span class="english">Wind that billowed the sails.</span></p>

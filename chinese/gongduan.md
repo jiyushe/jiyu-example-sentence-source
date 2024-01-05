@@ -1,5 +1,7 @@
 # 工段
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongduan.md)
+
 <p><span class="chinese">被分配指派到工段养路班的劳工。</span><span class="english">a laborer assigned to a section gang.</span></p>
 
 <p><span class="chinese">分析了ADC生产中除盐工段的作用。</span><span class="english">The effects of salt removing in ADC production were analysed.</span></p>

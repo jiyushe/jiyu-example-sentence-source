@@ -1,5 +1,7 @@
 # fireproof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fireproof.md)
+
 <p><span class="chinese">注意你庭院里的家具防火。</span><span class="english">Fireproof your patio furniture.</span></p>
 
 <p><span class="chinese">归类于A类防火玻璃。</span><span class="english">It is classed grade-A fireproof glass.</span></p>

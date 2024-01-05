@@ -1,5 +1,7 @@
 # gnash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gnash.md)
+
 <p><span class="chinese">我宁可看他咬牙也不愿看这样的笑。</span><span class="english">I'd rather have seen him gnash his teeth than smile so.</span></p>
 
 <p><span class="chinese">非把英文学好不可，所以要咬牙切齿学英文！</span><span class="english">Not learn English well it, so will gnash teeth in hatred learn English!</span></p>

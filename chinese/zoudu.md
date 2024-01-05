@@ -1,5 +1,7 @@
 # 走读
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zoudu.md)
+
 <p><span class="chinese">我们为什么不把小女儿送进附近的一所私立走读学校呢？</span><span class="english">Why don't we send our daughter to a day school nearby?</span></p>
 
 <p><span class="chinese">有些学生是走读的，大部分学生是住读的。</span><span class="english">Some students are non-residential, but most of them are.</span></p>

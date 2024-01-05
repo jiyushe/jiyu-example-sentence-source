@@ -1,5 +1,7 @@
 # 土拨鼠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuboshu.md)
+
 <p><span class="chinese">哈哈，你们可以找到土拨鼠吗？</span><span class="english">Haha, can you find the marmots?</span></p>
 
 <p><span class="chinese">今天2月2日，是土拨鼠日。</span><span class="english">Today, February 2, is Groundhog Day.</span></p>

@@ -1,5 +1,7 @@
 # obligate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obligate.md)
+
 <p><span class="chinese">一定不要强迫你的伴侣在限定的时间内做什么事。</span><span class="english">Don't obligate your partner to do things in a certain amount of time.</span></p>
 
 <p><span class="chinese">约押这麽做可能是为了讨好大卫，也使押沙龙欠他一个人情。</span><span class="english">He probably did this in order to be favoured by David and to obligate Abasalom to him.</span></p>

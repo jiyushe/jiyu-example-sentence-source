@@ -1,5 +1,7 @@
 # stanza
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stanza.md)
+
 <p><span class="chinese">看这首诗的最后一段。</span><span class="english">Look at the last stanza.</span></p>
 
 <p><span class="chinese">其中没有通道对应的节。</span><span class="english">There is no channel stanza.</span></p>

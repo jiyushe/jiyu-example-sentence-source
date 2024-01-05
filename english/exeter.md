@@ -1,5 +1,7 @@
 # exeter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exeter.md)
+
 <p><span class="chinese">罗琳在埃克塞特读了大学。</span><span class="english">Rowling attended university in Exeter.</span></p>
 
 <p><span class="chinese">我去了新罕布什尔州的菲利普斯埃克塞特学院。</span><span class="english">So I went to Philips Exeter Academy in New Hampshire,</span></p>

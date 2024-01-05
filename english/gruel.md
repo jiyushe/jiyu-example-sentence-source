@@ -1,5 +1,7 @@
 # gruel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gruel.md)
+
 <p><span class="chinese">粥太稀了。</span><span class="english">This gruel is too thin.</span></p>
 
 <p><span class="chinese">当芜菁甘蓝也没有了，你吃稀粥。</span><span class="english">When the turnips are gone, you eat gruel.</span></p>

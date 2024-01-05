@@ -1,5 +1,7 @@
 # regurgitation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regurgitation.md)
+
 <p><span class="chinese">二尖瓣轻度反流。</span><span class="english">Mild mitral regurgitation.</span></p>
 
 <p><span class="chinese">最常见的原因是主动脉瓣或肺动脉瓣反流。</span><span class="english">The most common causes are aortic or pulmonic valve regurgitation.</span></p>

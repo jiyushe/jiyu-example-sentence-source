@@ -1,5 +1,7 @@
 # bucolic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bucolic.md)
+
 <p><span class="chinese">他居然把捉蝴蝶的田园消遣变成了一种危险的游戏。</span><span class="english">He managed to transform the bucolic of butterflies into a dangerous sport.</span></p>
 
 <p><span class="chinese">虽然他穿的衣服料子很好，但缝制费是便宜的，式样是土里土气的。</span><span class="english">Best though it was, his suIt'smacked of cheap tailoring and bucolic unfashionableness.</span></p>

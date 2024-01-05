@@ -1,5 +1,7 @@
 # tendinitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tendinitis.md)
+
 <p><span class="chinese">髂腰肌肌腱炎是一种常见的运动损伤。</span><span class="english">Iliopsoas tendinitis is a common injury in sport.</span></p>
 
 <p><span class="chinese">这种性温和的草药常常用于需要净化血液的腱炎等疗程中。</span><span class="english">Being warming and moving I often use this in formulas that need to fresh blood in areas like tendinitis.</span></p>

@@ -1,5 +1,7 @@
 # saturated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saturated.md)
+
 <p><span class="chinese">他的衬衫上浸满了汗水。</span><span class="english">His shirt was saturated with sweat.</span></p>
 
 <p><span class="chinese">水中的电解质饱和了。</span><span class="english">The water saturated with electrolyte.</span></p>

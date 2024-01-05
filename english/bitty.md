@@ -1,5 +1,7 @@
 # bitty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bitty.md)
+
 <p><span class="chinese">警方仅有一些支离破碎的证据。</span><span class="english">The police has only a few bitty evidence.</span></p>
 
 <p><span class="chinese">“简单”-这个很渺小的词，可以让人望而生畏。</span><span class="english">For a little bitty word, "simple" can be big-time daunting.</span></p>

@@ -1,5 +1,7 @@
 # vicarage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vicarage.md)
+
 <p><span class="chinese">毗邻教堂的房子是牧师住宅。</span><span class="english">The house adjacent to the church is the vicarage.</span></p>
 
 <p><span class="chinese">紧邻教堂的房子是牧师的住处。</span><span class="english">The house adjacent to the church is the vicarage.</span></p>

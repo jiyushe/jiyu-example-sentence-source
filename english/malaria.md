@@ -1,5 +1,7 @@
 # malaria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malaria.md)
+
 <p><span class="chinese">这就是疟疾。</span><span class="english">This is malaria.</span></p>
 
 <p><span class="chinese">什么是疟疾？</span><span class="english">What is malaria?</span></p>

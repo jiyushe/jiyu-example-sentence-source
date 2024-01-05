@@ -1,5 +1,7 @@
 # confidential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confidential.md)
+
 <p><span class="chinese">这是高度机密的。</span><span class="english">Itwas highly confidential.</span></p>
 
 <p><span class="chinese">这是高度机密的。</span><span class="english">It was highly confidential.</span></p>

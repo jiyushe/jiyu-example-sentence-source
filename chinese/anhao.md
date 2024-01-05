@@ -1,5 +1,7 @@
 # 暗号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anhao.md)
+
 <p><span class="chinese">这倒像个接头暗号分成了两半。</span><span class="english">It was like the two halves of a countersign.</span></p>
 
 <p><span class="chinese">说真的，它们是你需要去探索的暗号。</span><span class="english">Seriously, those are signals hat you need to explore.</span></p>

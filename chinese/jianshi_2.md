@@ -1,5 +1,7 @@
 # 监事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianshi_2.md)
+
 <p><span class="chinese">监事列席董事会会议。</span><span class="english">The supervisors shall be present at board meetings.</span></p>
 
 <p><span class="chinese">一九九九年迄今，他一直是诺丁汉加诺格力城市学院监事。</span><span class="english">He has been a Trustee of the Djanogly City Academy in Nottingham since 1999.</span></p>

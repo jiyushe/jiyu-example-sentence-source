@@ -1,5 +1,7 @@
 # 童装
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongzhuang.md)
+
 <p><span class="chinese">男童装部在哪里？</span><span class="english">Where is the boys' department?</span></p>
 
 <p><span class="chinese">好吧就算是童装，但那是化妆舞会穿的。</span><span class="english">At least it is, but it's for fancy dress.</span></p>

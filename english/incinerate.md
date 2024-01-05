@@ -1,5 +1,7 @@
 # incinerate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incinerate.md)
+
 <p><span class="chinese">我内心气愤的火焰将把你熔为灰烬。</span><span class="english">The flame of my rage will incinerate you.</span></p>
 
 <p><span class="chinese">他们要把你和它烧成灰。</span><span class="english">They were ready to incinerate it and you.</span></p>

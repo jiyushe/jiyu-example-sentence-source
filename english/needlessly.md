@@ -1,5 +1,7 @@
 # needlessly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/needlessly.md)
+
 <p><span class="chinese">他显然是表明他喝醉了。</span><span class="english">He needlessly told me he was drunk.</span></p>
 
 <p><span class="chinese">似乎是不必要的高风险。</span><span class="english">Seems like a needlessly large risk.</span></p>

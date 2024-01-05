@@ -1,5 +1,7 @@
 # extrude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extrude.md)
+
 <p><span class="chinese">大块大块的陆地伸入海里。</span><span class="english">The land masses extrude into the sea.</span></p>
 
 <p><span class="chinese">在「挤出」对话方块中，按一下「切割」按钮。</span><span class="english">In the Extrude dialog box, click the Cut button.</span></p>

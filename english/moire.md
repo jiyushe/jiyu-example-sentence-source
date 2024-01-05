@@ -1,5 +1,7 @@
 # moire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moire.md)
+
 <p><span class="chinese">“东”字在两个云纹间隙之上。</span><span class="english">"East" word in the space above the two moiré.</span></p>
 
 <p><span class="chinese">从理论上讲，调频网是不会产生龟纹的。</span><span class="english">In theory, the FM network will not be the moire.</span></p>

@@ -1,5 +1,7 @@
 # 艰苦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianku.md)
+
 <p><span class="chinese">这是一个艰苦的工作。</span><span class="english">This is a hard-work.</span></p>
 
 <p><span class="chinese">这是一场艰苦的战斗。</span><span class="english">It was a tough fight.</span></p>

@@ -1,5 +1,7 @@
 # 折射角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zheshejiao.md)
+
 <p><span class="chinese">当折射棱镜折射角很小时，称之为光楔。</span><span class="english">The angle of refraction at total optical reflection is analyzed.</span></p>
 
 <p><span class="chinese">文中介绍了如何获得及同化GPS折射角资料的原理。</span><span class="english">This paper introduces how to obtain and assimilate the GPS bending angle.</span></p>

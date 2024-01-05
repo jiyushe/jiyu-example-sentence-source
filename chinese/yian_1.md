@@ -1,5 +1,7 @@
 # 议案
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yian_1.md)
+
 <p><span class="chinese">该项议案通过投票遭到否决。</span><span class="english">The measure was outvoted.</span></p>
 
 <p><span class="chinese">这项议案是1908年通过的。</span><span class="english">The bill was passed in 1908.</span></p>

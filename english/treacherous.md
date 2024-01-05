@@ -1,5 +1,7 @@
 # treacherous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/treacherous.md)
+
 <p><span class="chinese">这里的天气诡谲多变。</span><span class="english">The weather here is treacherous.</span></p>
 
 <p><span class="chinese">老天！玻璃是种阴险的东西。</span><span class="english">Pardi! Glass is a treacherous thing.</span></p>

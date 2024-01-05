@@ -1,5 +1,7 @@
 # 系列
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xilie.md)
+
 <p><span class="chinese">米系列“夜猎者”。</span><span class="english">Mi Night Hunter.</span></p>
 
 <p><span class="chinese">没有电视系列可用！</span><span class="english">No TV-series available!</span></p>

@@ -1,5 +1,7 @@
 # 谦和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianhe.md)
+
 <p><span class="chinese">白云谦和地站在天之一隅。</span><span class="english">The cloud stood humbly in full ofive pgood of the sky.</span></p>
 
 <p><span class="chinese">李博士为人谦和，同时也是一位大无畏的领导。</span><span class="english">While personally a modest man, Dr LEE was a bold leader.</span></p>

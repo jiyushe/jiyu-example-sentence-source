@@ -1,5 +1,7 @@
 # wampum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wampum.md)
+
 <p><span class="chinese">贝壳串珠是用海贝壳制作的。</span><span class="english">Wampum was made of seashells.</span></p>
 
 <p><span class="chinese">多少钱是你的金钱的价值有多少？</span><span class="english">How much is your wampum worth?</span></p>

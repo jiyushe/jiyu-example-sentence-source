@@ -1,5 +1,7 @@
 # 眸子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mouzi.md)
+
 <p><span class="chinese">我终于看到她的眸子。</span><span class="english">I finally see her pupil.</span></p>
 
 <p><span class="chinese">有人说，就在你自己的眸子中沉没了过往。</span><span class="english">To say, within thine own deep-sunken eyes.</span></p>

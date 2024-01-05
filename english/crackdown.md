@@ -1,5 +1,7 @@
 # crackdown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crackdown.md)
+
 <p><span class="chinese">打击可能吓着一些人。</span><span class="english">The crackdown may scare some.</span></p>
 
 <p><span class="chinese">英国取缔酒桌游戏严打豪饮之风。</span><span class="english">Out go drinking games in UK crackdown.</span></p>

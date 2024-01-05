@@ -1,5 +1,7 @@
 # ivorian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ivorian.md)
+
 <p><span class="chinese">卡劳将和他的哥哥一样作为科特迪瓦国家队成员。</span><span class="english">Kalou will now join older brother Bonaventure as an Ivorian international.</span></p>
 
 <p><span class="chinese">目前不清楚科特迪瓦的可可制造商是否会遵守这个禁令。</span><span class="english">It was not immediately clear whether Ivorian cocoa producers intend to honor the ban.</span></p>

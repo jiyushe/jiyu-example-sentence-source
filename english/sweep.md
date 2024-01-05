@@ -1,5 +1,7 @@
 # sweep 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sweep.md)
+
 <p><span class="chinese">请把马路扫一扫。</span><span class="english">Sweep the road, please.</span></p>
 
 <p><span class="chinese">你也无法清除它们。</span><span class="english">You cannot sweep it up.</span></p>

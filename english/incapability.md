@@ -1,5 +1,7 @@
 # incapability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incapability.md)
+
 <p><span class="chinese">墨水&无能。</span><span class="english">Ink & Incapability.</span></p>
 
 <p><span class="chinese">大学在于可使学生们发挥其所有才能——包括无能。</span><span class="english">The university bring out all ability including incapability.</span></p>

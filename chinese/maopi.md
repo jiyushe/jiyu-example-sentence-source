@@ -1,5 +1,7 @@
 # 毛坯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maopi.md)
+
 <p><span class="chinese">他每天的工作是制作照相机镜片的毛坯。</span><span class="english">His daily work is to rough out the lenses for cameras.</span></p>
 
 <p><span class="chinese">球笼式等速万向节精锻毛坯及成品和半轴总成。</span><span class="english">Precision mold and finished C. V. Joint, and the complete shaft.</span></p>

@@ -1,5 +1,7 @@
 # cellulose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cellulose.md)
+
 <p><span class="chinese">纤维素是很难分解的。</span><span class="english">Cellulose is hard to break down.</span></p>
 
 <p><span class="chinese">我们能否使用非粮食纤维提取石油？</span><span class="english">Is gasoline going to be produced from non-grain cellulose?</span></p>

@@ -1,5 +1,7 @@
 # pigeon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pigeon.md)
+
 <p><span class="chinese">鸽子咕咕地叫。</span><span class="english">A pigeon coos.</span></p>
 
 <p><span class="chinese">小灰鸽？</span><span class="english">Little gray pigeon?</span></p>

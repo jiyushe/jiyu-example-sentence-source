@@ -1,5 +1,7 @@
 # 利己主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lijizhuyi.md)
+
 <p><span class="chinese">这是一个彻头彻尾的利己主义者。</span><span class="english">That is the perfect Egoist.</span></p>
 
 <p><span class="chinese">我是顽固的利己主义者。</span><span class="english">I was stubborn and egocentric.</span></p>

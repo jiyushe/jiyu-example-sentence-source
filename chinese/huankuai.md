@@ -1,5 +1,7 @@
 # 欢快
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huankuai.md)
+
 <p><span class="chinese">他很欢快地唱一支歌。</span><span class="english">He trolled a song.</span></p>
 
 <p><span class="chinese">那含着的是正在欢快跳舞的果汁吗？</span><span class="english">Or is it this dancing juice?</span></p>

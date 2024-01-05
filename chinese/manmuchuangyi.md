@@ -1,5 +1,7 @@
 # 满目疮痍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manmuchuangyi.md)
+
 <p><span class="chinese">多年的战事已经使得这个地区满目疮痍。</span><span class="english">Years of fighting have left the area in ruins.</span></p>
 
 <p><span class="chinese">那儿土地已经变得满目疮痍，很多人都离开了。</span><span class="english">The land is scarred and many of the people have left.</span></p>

@@ -1,5 +1,7 @@
 # campfire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/campfire.md)
+
 <p><span class="chinese">第七关是篝火晚会。</span><span class="english">Kwan is the seventh evening campfire.</span></p>
 
 <p><span class="chinese">我们在晚上将有营火晚会。</span><span class="english">We will have a campfire in the evening.</span></p>

@@ -1,5 +1,7 @@
 # rinderpest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rinderpest.md)
+
 <p><span class="chinese">肯尼亚发生了牛瘟。</span><span class="english">Rinderpest took place in Kenya.</span></p>
 
 <p><span class="chinese">世界上某些地区逃脱了牛瘟感染。</span><span class="english">Some areas of the world escaped rinderpest.</span></p>

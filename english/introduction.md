@@ -1,5 +1,7 @@
 # introduction 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/introduction.md)
+
 <p><span class="chinese">介绍这个主题。</span><span class="english">Introduction to the topic.</span></p>
 
 <p><span class="chinese">立体测量学介绍。</span><span class="english">Introduction to stereology.</span></p>

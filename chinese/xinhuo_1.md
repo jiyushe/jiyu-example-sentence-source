@@ -1,5 +1,7 @@
 # 薪火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinhuo_1.md)
+
 <p><span class="chinese">可能是不死人的薪火，被献祭于篝火。</span><span class="english">Perhaps cinders of Undead, sacrificed to the bonfire.</span></p>
 
 <p><span class="chinese">他们将成为中国和东盟友谊薪火相传的光明使者。</span><span class="english">They will become the "torch carriers" for China-ASEAN friendship.</span></p>

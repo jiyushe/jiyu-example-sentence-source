@@ -1,5 +1,7 @@
 # 跑动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paodong.md)
+
 <p><span class="chinese">我以跑动得34分被击败而退场。</span><span class="english">I was bowled out for 34.</span></p>
 
 <p><span class="chinese">跑动之中他把我绊倒了。</span><span class="english">When running, he stumbled me.</span></p>

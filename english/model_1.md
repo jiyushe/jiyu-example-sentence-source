@@ -1,5 +1,7 @@
 # model 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/model_1.md)
+
 <p><span class="chinese">评审这个模型。</span><span class="english">Review the model.</span></p>
 
 <p><span class="chinese">一个模型的内部。</span><span class="english">Inside of a model.</span></p>

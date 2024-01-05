@@ -1,5 +1,7 @@
 # busload
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/busload.md)
+
 <p><span class="chinese">沃克在找一车子的小孩…</span><span class="english">Walker was looking for this big busload of kids.</span></p>
 
 <p><span class="chinese">我们不知道公共汽车上的人到底发生了什么事。</span><span class="english">We don't know what happened to that busload of people.</span></p>

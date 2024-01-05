@@ -1,5 +1,7 @@
 # 乏力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fali.md)
+
 <p><span class="chinese">雪花可有回天乏力之术？</span><span class="english">What sorcery had snow?</span></p>
 
 <p><span class="chinese">此外，它是一个有点乏力的实现。</span><span class="english">And again, it's kind of a weak implementation.</span></p>

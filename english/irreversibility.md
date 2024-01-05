@@ -1,5 +1,7 @@
 # irreversibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irreversibility.md)
+
 <p><span class="chinese">模型的不可逆性。</span><span class="english">Irreversibility in the model.</span></p>
 
 <p><span class="chinese">偶发复杂度的第三个诱因是不可逆性。</span><span class="english">The third enabler of accidental complexity is irreversibility.</span></p>

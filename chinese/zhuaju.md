@@ -1,5 +1,7 @@
 # 抓举
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuaju.md)
+
 <p><span class="chinese">抓举的两种技术是指什么呢？</span><span class="english">But what are the two techniques used in the snatch?</span></p>
 
 <p><span class="chinese">将抓举测试所使用重量的壶铃从地面上翻起。</span><span class="english">Clean a snatch-test-size kettlebell from the floor.</span></p>

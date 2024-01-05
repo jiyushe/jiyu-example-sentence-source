@@ -1,5 +1,7 @@
 # grisly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grisly.md)
+
 <p><span class="chinese">恐怖的屠杀将毒品大战从墨西哥引向美国。</span><span class="english">Grisly slayings brings Mexican drug war to US.</span></p>
 
 <p><span class="chinese">枪战和恐怖的谋杀主导媒体的报道。</span><span class="english">Shootouts and grisly murders dominate media reports.</span></p>

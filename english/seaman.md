@@ -1,5 +1,7 @@
 # seaman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seaman.md)
+
 <p><span class="chinese">天气恶方知水手良。</span><span class="english">A good seaman is known in bad weather.</span></p>
 
 <p><span class="chinese">“他是一个水手，”乔治·墨利说。</span><span class="english">He was a seaman , ' said George Merry.</span></p>

@@ -1,5 +1,7 @@
 # 软锰矿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruanmengkuang.md)
+
 <p><span class="chinese">研究了搅拌强度对软锰矿浆湿法脱硫反应的影响。</span><span class="english">Factors such as the concentration of pyrolusite slurry, the amount of T.</span></p>
 
 <p><span class="chinese">锰结核主要由硬锰矿、软锰矿、褐铁矿构成。</span><span class="english">The mineral components of nodules are mainly pyrolusite, psilomelane and limonite.</span></p>

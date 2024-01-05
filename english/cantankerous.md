@@ -1,5 +1,7 @@
 # cantankerous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cantankerous.md)
+
 <p><span class="chinese">做的所有的努力有可能缓和这个敏感的是市场吗？</span><span class="english">Will all this assuage the cantankerous markets?</span></p>
 
 <p><span class="chinese">那个坏脾气的公共汽车司机因为孩子们唱歌而骂他们。</span><span class="english">The cantankerous bus driver rouse on the children for singing.</span></p>

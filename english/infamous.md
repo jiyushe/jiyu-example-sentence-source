@@ -1,5 +1,7 @@
 # infamous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infamous.md)
+
 <p><span class="chinese">看看这位声名狼藉的伪证犯！</span><span class="english">Look upon the Infamous Perjurer!</span></p>
 
 <p><span class="chinese">秦桧耍过很多臭名昭著的阴谋。</span><span class="english">Qinhui played lots of infamous plots.</span></p>

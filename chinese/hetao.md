@@ -1,5 +1,7 @@
 # 河套
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hetao.md)
+
 <p><span class="chinese">为什么广大的客户会选择河套哈密瓜呢？</span><span class="english">Why do the majority of customers choose to do Hetao Melon?</span></p>
 
 <p><span class="chinese">如果你真的需要，你可以订到河套断。</span><span class="english">If you really need to, you can set it to loop continuously.</span></p>

@@ -1,5 +1,7 @@
 # archdeacon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/archdeacon.md)
+
 <p><span class="chinese">执事长确实表达出了他脑子里思想的转动。</span><span class="english">The archdeacon had truly expressed the workings of his mind.</span></p>
 
 <p><span class="chinese">会吏长认为这样通信是不光彩的。</span><span class="english">The archdeacon thinks that such a correspondence is disgraceful.</span></p>

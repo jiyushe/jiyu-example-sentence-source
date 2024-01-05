@@ -1,5 +1,7 @@
 # 坚冰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianbing.md)
+
 <p><span class="chinese">微笑能打破坚冰。</span><span class="english">Smiles can break the ice.</span></p>
 
 <p><span class="chinese">她为他破除坚冰。</span><span class="english">She broke the ice for him.</span></p>

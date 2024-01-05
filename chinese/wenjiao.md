@@ -1,5 +1,7 @@
 # 文教
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenjiao.md)
+
 <p><span class="chinese">他们如同新教徒一样是属于加尔文教派。</span><span class="english">Like the Pilgrims, they were also Calvinists.</span></p>
 
 <p><span class="chinese">请带我到福华文教会馆，谢谢您！</span><span class="english">Please take me to the Grand Hotel. Thank you.</span></p>

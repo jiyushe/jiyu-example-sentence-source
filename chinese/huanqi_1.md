@@ -1,5 +1,7 @@
 # 缓期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanqi_1.md)
+
 <p><span class="chinese">他可能会接受缓期起诉，类似于以观后效的查看，也相当于悬在伊森头顶的一把利剑。</span><span class="english">Kind of a quiet probation. Sword over Ethan’s head.</span></p>
 
 <p><span class="chinese">他被判处死刑但被总统下令缓期执行。</span><span class="english">He was sentenced to death but was reprieved by the president.</span></p>

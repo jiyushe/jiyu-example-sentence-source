@@ -1,5 +1,7 @@
 # 寿险
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouxian.md)
+
 <p><span class="chinese">她们为何会讨厌寿险呢</span><span class="english">Why didn't they like it?</span></p>
 
 <p><span class="chinese">那她们为什么不想买寿险呢</span><span class="english">Why wouldn't they want it?</span></p>

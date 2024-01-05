@@ -1,5 +1,7 @@
 # exchequer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exchequer.md)
+
 <p><span class="chinese">我也祝愿老总事业顺利，财源滚滚。</span><span class="english">I also wish the boss career, exchequer billow.</span></p>
 
 <p><span class="chinese">究竟算是偷金库还是偷民宅?。</span><span class="english">Be all steal exchequer or steal civilian curtilage?</span></p>

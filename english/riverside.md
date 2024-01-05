@@ -1,5 +1,7 @@
 # riverside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/riverside.md)
+
 <p><span class="chinese">迷失，在河那岸。</span><span class="english">Lost, on the other riverside.</span></p>
 
 <p><span class="chinese">我骑自行车到了河边。</span><span class="english">I went to the riverside by bike.</span></p>

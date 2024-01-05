@@ -1,5 +1,7 @@
 # 一筹莫展
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yichoumozhan.md)
+
 <p><span class="chinese">有才智的人面对广阔无边的宇宙也是一筹莫展。</span><span class="english">The mind boggles at the infinite universe.</span></p>
 
 <p><span class="chinese">看到这样的事情，金井十分生气，却又一筹莫展。</span><span class="english">See such things, gold well very angry, but helpless.</span></p>

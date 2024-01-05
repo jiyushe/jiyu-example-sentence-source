@@ -1,5 +1,7 @@
 # badlands
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/badlands.md)
+
 <p><span class="chinese">荒地粮田，蒙大拿州，1999。</span><span class="english">Badlands Grain Fields, Montana, 1999</span></p>
 
 <p><span class="chinese">气候变化意味着荒芜之地的增加。</span><span class="english">And climate change means the badlands are growing.</span></p>

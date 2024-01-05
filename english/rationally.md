@@ -1,5 +1,7 @@
 # rationally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rationally.md)
+
 <p><span class="chinese">理性的，有条不紊的一个方法。</span><span class="english">A way of thinking rationally and methodically.</span></p>
 
 <p><span class="chinese">合理调整就业结构。</span><span class="english">Rationally readjusting the employment structure.</span></p>

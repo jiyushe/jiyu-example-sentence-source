@@ -1,5 +1,7 @@
 # loessial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loessial.md)
+
 <p><span class="chinese">延安人住在干燥的黄土山坡上挖的窑洞里。</span><span class="english">The people of Yenan live in cave houses carved into the slopes of dry loessial hills.</span></p>
 
 <p><span class="chinese">研究结果表明，黄土性土壤对砷是一次性的吸附净化并达到饱和状态。</span><span class="english">Results showed the arsenic can be quickly absorbed onto loessial soil and reach adsorption saturation.</span></p>

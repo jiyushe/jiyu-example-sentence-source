@@ -1,5 +1,7 @@
 # litho
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/litho.md)
+
 <p><span class="chinese">经过四个月的治疗之后，丽索能够工作、做饭和打扫屋子。</span><span class="english">Four months later, Litho is working, cooking and cleaning.</span></p>
 
 <p><span class="chinese">与项目研发组、光刻组密切合作。</span><span class="english">Keep close cooperation with project groups and Litho group.</span></p>

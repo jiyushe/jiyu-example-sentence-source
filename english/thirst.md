@@ -1,5 +1,7 @@
 # thirst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thirst.md)
+
 <p><span class="chinese">大量的饮料充分满足了他的口渴。</span><span class="english">A long drink sated his thirst.</span></p>
 
 <p><span class="chinese">间谍口渴得难受极了。</span><span class="english">He spy was maddened with thirst.</span></p>

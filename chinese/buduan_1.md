@@ -1,5 +1,7 @@
 # 不端
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buduan_1.md)
+
 <p><span class="chinese">她行为不端。</span><span class="english">She misbehaved.</span></p>
 
 <p><span class="chinese">在某些事上他行为不端。</span><span class="english">He misbehaved himself on something.</span></p>

@@ -1,5 +1,7 @@
 # 上相
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangxiang.md)
+
 <p><span class="chinese">你非常上相。</span><span class="english">You are very photogenic.</span></p>
 
 <p><span class="chinese">你真的很不上相。</span><span class="english">You're really not photogenic.</span></p>

@@ -1,5 +1,7 @@
 # 附庸风雅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuyongfengya.md)
+
 <p><span class="chinese">我对人家附庸风雅的地位没有兴趣。</span><span class="english">I wasn't interested in a snob degree.</span></p>
 
 <p><span class="chinese">我知道可能在别人眼里我是个附庸风雅的的人。</span><span class="english">And I know I may be an artsy person in sb′s eyes.</span></p>

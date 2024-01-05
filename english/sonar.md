@@ -1,5 +1,7 @@
 # sonar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sonar.md)
+
 <p><span class="chinese">它们用的是声呐。</span><span class="english">It is sonar.</span></p>
 
 <p><span class="chinese">像蝙蝠一样的声纳追踪风速变化</span><span class="english">Bat-Like Sonar Tracks Wind Speeds</span></p>

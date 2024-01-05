@@ -1,5 +1,7 @@
 # 推敲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuiqiao.md)
+
 <p><span class="chinese">我们应该对此条重新考虑，推敲一下措词。</span><span class="english">We should reconsider it and weight the wording.</span></p>
 
 <p><span class="chinese">所以自己多查，多推敲是很好的。</span><span class="english">Therefore own look up, deliberates is very good.</span></p>

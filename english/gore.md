@@ -1,5 +1,7 @@
 # gore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gore.md)
+
 <p><span class="chinese">还是那些因为血肉横飞，肚肠烂流以及刺激枪战？</span><span class="english">The blood, gore and guns?</span></p>
 
 <p><span class="chinese">2007年，阿尔.戈尔和莱昂纳度.迪卡普奥</span><span class="english">Al Gore and Leonardo DiCaprio, 2007</span></p>

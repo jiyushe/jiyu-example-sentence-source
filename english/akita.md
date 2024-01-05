@@ -1,5 +1,7 @@
 # akita
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/akita.md)
+
 <p><span class="chinese">秋田犬是柴犬的两倍大。</span><span class="english">The Akita is twice the size of the Shiba Inu.</span></p>
 
 <p><span class="chinese">芦野公平生于日本秋田县，现居东京。</span><span class="english">Kouhei Ashino was born in Akita Prefecture, Japan. He now lives in Tokyo.</span></p>

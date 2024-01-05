@@ -1,5 +1,7 @@
 # 烦人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanren_1.md)
+
 <p><span class="chinese">让机器去完成那些烦人的工作。</span><span class="english">Let the machine do the dirty work.</span></p>
 
 <p><span class="chinese">不要学我了，你可真烦人。</span><span class="english">Stop monkeying me. You are so annoyed.</span></p>

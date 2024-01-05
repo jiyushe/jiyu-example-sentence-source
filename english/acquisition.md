@@ -1,5 +1,7 @@
 # acquisition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acquisition.md)
+
 <p><span class="chinese">买采集仪并进行管理。</span><span class="english">Buy acquisition and management.</span></p>
 
 <p><span class="chinese">图像的预处理。</span><span class="english">Image acquisition and pre-processing.</span></p>

@@ -1,5 +1,7 @@
 # 专长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanchang_1.md)
+
 <p><span class="chinese">他的专长是中国史。</span><span class="english">His specialty is Chinese history.</span></p>
 
 <p><span class="chinese">果真如此，由谁来决定每个人的专长？</span><span class="english">And if so, ? who could decide this?</span></p>

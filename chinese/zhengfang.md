@@ -1,5 +1,7 @@
 # 正房
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengfang.md)
+
 <p><span class="chinese">李大钊结婚后就住在东厢房北面的正房。</span><span class="english">Lidazhao lived in the main room, north on the east wing after his marriage.</span></p>
 
 <p><span class="chinese">正房叫作是爪哇鸟的巢，其中一个最优秀的品质在世界上。</span><span class="english">Burung are Javanese bird's nests, and one of the finest qualities in the world.</span></p>

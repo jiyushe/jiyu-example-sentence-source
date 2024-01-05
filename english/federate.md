@@ -1,5 +1,7 @@
 # federate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/federate.md)
+
 <p><span class="chinese">联合应用程序层中的所有节点。</span><span class="english">Federate all nodes in the application tier.</span></p>
 
 <p><span class="chinese">然后，将新的节点联合到现有计算单元。</span><span class="english">Then, federate the new node into the existing cell.</span></p>

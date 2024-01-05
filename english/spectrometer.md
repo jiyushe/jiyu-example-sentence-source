@@ -1,5 +1,7 @@
 # spectrometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spectrometer.md)
+
 <p><span class="chinese">该分光仪的净成本是多少？</span><span class="english">What is the net cost of the spectrometer?</span></p>
 
 <p><span class="chinese">谱仪配有自动数据记录系统。</span><span class="english">The spectrometer has an automatic record system.</span></p>

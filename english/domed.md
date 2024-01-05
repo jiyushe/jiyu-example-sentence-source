@@ -1,5 +1,7 @@
 # domed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/domed.md)
+
 <p><span class="chinese">他的前额呈半球形凸起。</span><span class="english">His forehead domed out in a curve.</span></p>
 
 <p><span class="chinese">突出的后脑，拱形的头顶。</span><span class="english">Prominent nuchal crest. Domed skull.</span></p>

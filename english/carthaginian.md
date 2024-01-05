@@ -1,5 +1,7 @@
 # carthaginian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carthaginian.md)
+
 <p><span class="chinese">剩下的三分之一,则在迦太基人控制之下</span><span class="english">The third to the west is under Carthaginian control.</span></p>
 
 <p><span class="chinese">在历史上，迦太基公民方阵是低质素的。</span><span class="english">Historically, a Carthaginian citizen phalanx was of poor quality.</span></p>

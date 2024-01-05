@@ -1,5 +1,7 @@
 # squarely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/squarely.md)
+
 <p><span class="chinese">他眼睛直勾勾地盯着他。</span><span class="english">He looked Karkov squarely in the eye.</span></p>
 
 <p><span class="chinese">她把帽子戴得端端正正。</span><span class="english">Her hat was set squarely on her head.</span></p>

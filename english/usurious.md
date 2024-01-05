@@ -1,5 +1,7 @@
 # usurious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/usurious.md)
+
 <p><span class="chinese">他说，在这个背景下，泗洪的民间高利贷升温。</span><span class="english">He said, "in this context, Sihong folk usurious warming."</span></p>
 
 <p><span class="chinese">石国豹被认为是民间高利贷风潮的“爪王”。</span><span class="english">Shi Guobao was considered a folk usurious agitation" claw king".</span></p>

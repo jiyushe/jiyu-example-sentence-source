@@ -1,5 +1,7 @@
 # 真正
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenzheng.md)
+
 <p><span class="chinese">一所真正的大屋。</span><span class="english">A real house.</span></p>
 
 <p><span class="chinese">我是个真正的警察。</span><span class="english">I'm a real cop.</span></p>

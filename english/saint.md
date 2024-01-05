@@ -1,5 +1,7 @@
 # saint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saint.md)
+
 <p><span class="chinese">这位人间的圣者！</span><span class="english">The saint on earth!</span></p>
 
 <p><span class="chinese">伊苏瓦尔，圣保罗。</span><span class="english">Issoire, Saint Paul.</span></p>

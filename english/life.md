@@ -1,5 +1,7 @@
 # life
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/life.md)
+
 <p><span class="chinese">我的人生？</span><span class="english">My life?</span></p>
 
 <p><span class="chinese">生活是忙碌的。</span><span class="english">Life is busy.</span></p>

@@ -1,5 +1,7 @@
 # amalgamate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amalgamate.md)
+
 <p><span class="chinese">这两所大学将合并。</span><span class="english">These two universities will amalgamate.</span></p>
 
 <p><span class="chinese">我们乐于与你们公司合作。</span><span class="english">We are happy to amalgamate with your company.</span></p>

@@ -1,5 +1,7 @@
 # 碍手碍脚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aishouaijiao.md)
+
 <p><span class="chinese">我正忙着呢，别在这里碍手碍脚的。</span><span class="english">I'm really busy – stop getting in the way.</span></p>
 
 <p><span class="chinese">孩子们在假日里总是碍手碍脚的。</span><span class="english">Children get in the way during in the holidays.</span></p>

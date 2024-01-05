@@ -1,5 +1,7 @@
 # nantes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nantes.md)
+
 <p><span class="chinese">防守型中场，左脚，南特队主力。</span><span class="english">Defence half, left foot, regular of Nantes.</span></p>
 
 <p><span class="chinese">1598年南特赦令宣布最终信仰自由。</span><span class="english">Final toleration in the edict of Nantes in 1598.</span></p>

@@ -1,5 +1,7 @@
 # 向着
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangzhe.md)
+
 <p><span class="chinese">向着耶稣唱，活下去！</span><span class="english">Sing to Jesus and live!</span></p>
 
 <p><span class="chinese">你老是向着他。</span><span class="english">You always take his side.</span></p>

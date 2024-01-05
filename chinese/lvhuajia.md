@@ -1,5 +1,7 @@
 # 氯化钾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvhuajia.md)
+
 <p><span class="chinese">氯化钾氯化钠注射液…</span><span class="english">Potassium Chloride in Sodium Chloride Inj.</span></p>
 
 <p><span class="chinese">最后注射氯化钾致人死亡，氯化钾很毒，被注射者几乎在瞬间就死了。</span><span class="english">Finally potassium chloride is injected, which stops the heart almostinstantly.</span></p>

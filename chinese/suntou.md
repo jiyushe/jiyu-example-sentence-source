@@ -1,5 +1,7 @@
 # 榫头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suntou.md)
+
 <p><span class="chinese">这个榫头对不上。</span><span class="english">This tenon won't fit.</span></p>
 
 <p><span class="chinese">使用更多的榫头来加强盒子的稳定性。</span><span class="english">More pins add stability to the box.</span></p>

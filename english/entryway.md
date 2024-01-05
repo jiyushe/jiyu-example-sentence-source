@@ -1,5 +1,7 @@
 # entryway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entryway.md)
+
 <p><span class="chinese">入口的通道几乎和外面一样寒冷。</span><span class="english">The entryway was nigh as cold as the air outside.</span></p>
 
 <p><span class="chinese">我提起另一个，装满了水，跟在她后面，穿过入口通道。</span><span class="english">I took the other one, filled it, and followed her through the entryway.</span></p>

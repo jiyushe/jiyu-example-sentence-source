@@ -1,5 +1,7 @@
 # 喜好
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xihao.md)
+
 <p><span class="chinese">我喜好滑冰。</span><span class="english">I like ice-skating.</span></p>
 
 <p><span class="chinese">我喜好品茗不喜欢喝咖啡。</span><span class="english">I prefer tea to coffee.</span></p>

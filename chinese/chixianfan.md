@@ -1,5 +1,7 @@
 # 吃闲饭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chixianfan.md)
+
 <p><span class="chinese">为什么农夫留你在这吃闲饭？</span><span class="english">Why does the farmer keep you around anyhow?</span></p>
 
 <p><span class="chinese">你不能老在我这里吃闲饭，你也得自己干点儿什么。</span><span class="english">You can't always sponge on me, but have to work.</span></p>

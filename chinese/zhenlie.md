@@ -1,5 +1,7 @@
 # 阵列
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenlie.md)
+
 <p><span class="chinese">阵列开始形成。</span><span class="english">And word array is loaded.</span></p>
 
 <p><span class="chinese">异构存储阵列。</span><span class="english">Heterogeneous storage arrays.</span></p>

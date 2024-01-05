@@ -1,5 +1,7 @@
 # maynard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maynard.md)
+
 <p><span class="chinese">梅纳德最终取得胜利，但是黑胡子并没有轻言放弃。</span><span class="english">Maynard eventually prevailed, but Blackbeard didn't go down easy.</span></p>
 
 <p><span class="chinese">梅纳德女士说，她看到了关于这一家的笔记本塞满了书架。</span><span class="english">Ms. Maynard said she saw shelves of notebooks devoted to the family.</span></p>

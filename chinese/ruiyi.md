@@ -1,5 +1,7 @@
 # 锐意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruiyi.md)
+
 <p><span class="chinese">只怕我不明白，让我来扣问一下该组的锐意人。</span><span class="english">I"m afraid Idon"t know. Let me ask the supervisor in this section.</span></p>
 
 <p><span class="chinese">不断地努力进取、锐意创新，把中国的水晶胶产业带向世界的每一个角落！</span><span class="english">The China crystal glue industrial belt to every corner of the world!</span></p>

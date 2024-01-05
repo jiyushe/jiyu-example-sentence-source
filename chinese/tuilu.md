@@ -1,5 +1,7 @@
 # 退路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuilu.md)
+
 <p><span class="chinese">这一来她连个退路都没有了。</span><span class="english">She had burnt her boats.</span></p>
 
 <p><span class="chinese">当你班驳熟悉的退路。</span><span class="english">When you mottled familiar escape route.</span></p>

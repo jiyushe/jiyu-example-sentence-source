@@ -1,5 +1,7 @@
 # 写生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiesheng.md)
+
 <p><span class="chinese">我有一本写生本。</span><span class="english">I've got a sketch-book.</span></p>
 
 <p><span class="chinese">让咱们高枕而卧的写生！</span><span class="english">Let's sit and lying the sketch!</span></p>

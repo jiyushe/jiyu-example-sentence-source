@@ -1,5 +1,7 @@
 # 识货
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shihuo_1.md)
+
 <p><span class="chinese">现在只希望宁皇他不识货，能够瞒天过海！</span><span class="english">I hope King Ning would be cheated.</span></p>
 
 <p><span class="chinese">哇！果不其然，那天、一大堆识货的买主涌来并磨拳擦掌要出价呢！</span><span class="english">A big crowd of buyers gathered and were eager to bid.</span></p>

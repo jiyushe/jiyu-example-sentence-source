@@ -1,5 +1,7 @@
 # grantee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grantee.md)
+
 <p><span class="chinese">点击这里可看到首期26个签约项目的详细信息。</span><span class="english">A description of first 26 grantee programs can be found here.</span></p>
 
 <p><span class="chinese">词语“希望”之受让人的心态。</span><span class="english">The term "wishes" referred to the state of mind of the grantee.</span></p>

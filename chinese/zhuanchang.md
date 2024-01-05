@@ -1,5 +1,7 @@
 # 专场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanchang.md)
+
 <p><span class="chinese">以前他曾在养猪专场工作过12个月。</span><span class="english">He had been working in a piggery for 12 months.</span></p>
 
 <p><span class="chinese">尽管当时我还很小，但是已经做自己的专场。</span><span class="english">I was very young still, but I ran my own night.</span></p>

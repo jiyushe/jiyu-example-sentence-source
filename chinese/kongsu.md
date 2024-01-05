@@ -1,5 +1,7 @@
 # 控诉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongsu.md)
+
 <p><span class="chinese">这些控诉正在飞散。</span><span class="english">The lawsuits are flying.</span></p>
 
 <p><span class="chinese">他误遭控诉犯偷窃罪。</span><span class="english">He was wrongly offender of stealing.</span></p>

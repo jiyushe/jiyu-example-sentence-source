@@ -1,5 +1,7 @@
 # originally 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/originally.md)
+
 <p><span class="chinese">我在中国土生土长。</span><span class="english">I am originally from China.</span></p>
 
 <p><span class="chinese">菩提本无树。</span><span class="english">Bodhi originally is no tree.</span></p>

@@ -1,5 +1,7 @@
 # guanidine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guanidine.md)
+
 <p><span class="chinese">用经过改良的畀硫氰酸胍法提取大豆未成熟种子的总RNA。</span><span class="english">The total RNA of immature soybean seeds was extracted with improved Guanidine Thiocyanate method.</span></p>
 
 <p><span class="chinese">包涵体通过6M盐酸胍裂解后，利用镍离子亲和树脂进行纯化。</span><span class="english">The inclusion body was solubilized by 6M Guanidine hydrochloric acid and purified by ProBondTM Resin.</span></p>

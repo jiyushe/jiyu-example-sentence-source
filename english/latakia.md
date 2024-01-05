@@ -1,5 +1,7 @@
 # latakia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/latakia.md)
+
 <p><span class="chinese">拉塔基尔的北部海岸也有了麻烦。</span><span class="english">There was also trouble in the northern coastal city of Latakia.</span></p>
 
 <p><span class="chinese">一个完全的英式风格切片配合有利健康的塞浦路斯拉他吉亚。</span><span class="english">A full English style flake with a healthy dose of Cyprian Latakia.</span></p>

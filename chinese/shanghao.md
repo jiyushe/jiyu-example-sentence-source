@@ -1,5 +1,7 @@
 # 上好
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanghao.md)
+
 <p><span class="chinese">上好可销品质。</span><span class="english">Good merchantable quality,.</span></p>
 
 <p><span class="chinese">即上好可销品质这样的术语。</span><span class="english">Q or Good Merchantable Quality.</span></p>

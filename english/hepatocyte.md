@@ -1,5 +1,7 @@
 # hepatocyte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hepatocyte.md)
+
 <p><span class="chinese">LPS所致肝细胞凋亡是多因素作用的结果。</span><span class="english">Many kinds of factors result in LPS-induced hepatocyte apoptosis.</span></p>
 
 <p><span class="chinese">大鼠肝细胞UDS试验显示，MTBE具有轻微的DNA损伤作用。</span><span class="english">Rat primary hepatocyte UDS assay showed that MTBE could damage DNA.</span></p>

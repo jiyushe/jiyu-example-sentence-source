@@ -1,5 +1,7 @@
 # lol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lol.md)
+
 <p><span class="chinese">他很爱玩红色警戒，LOL。</span><span class="english">He likes to play red-line, LOL.</span></p>
 
 <p><span class="chinese">他们喜欢变化伴侣。</span><span class="english">they love changing partners, lol.</span></p>

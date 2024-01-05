@@ -1,5 +1,7 @@
 # 空空导弹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongkongdaodan.md)
+
 <p><span class="chinese">还可以用4枚“毒刺”空空导弹和一挺7.62毫米链式自动机枪。</span><span class="english">Four Sting missiles and a 7.62mm chain gun can be used, too.</span></p>
 
 <p><span class="chinese">讨论了空空导弹后射的工程实现问题。</span><span class="english">The realization to launch air-to-air missile backward is studied.</span></p>

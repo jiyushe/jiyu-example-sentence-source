@@ -1,5 +1,7 @@
 # 重归于好
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongguiyuhao.md)
+
 <p><span class="chinese">他们接吻后重归于好。</span><span class="english">They kiss and are friends again.</span></p>
 
 <p><span class="chinese">他们吵架之后又重归于好。</span><span class="english">They were reconciled after a quarrel.</span></p>

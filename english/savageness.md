@@ -1,5 +1,7 @@
 # savageness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/savageness.md)
+
 <p><span class="chinese">那是个充斥着野蛮和沙文主义的年代。</span><span class="english">That was a time of savageness and chauvinism.</span></p>
 
 <p><span class="chinese">人无野蛮与文明之分，只是文化不同。</span><span class="english">Civilization is opposed to savageness and ignorance.</span></p>

@@ -1,5 +1,7 @@
 # cephalad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cephalad.md)
+
 <p><span class="chinese">因此头侧的骨化中心不会与C2椎体融合。</span><span class="english">Therefore, the cephalad ossification centers do not fuse with the C2 body.</span></p>
 
 <p><span class="chinese">在近头侧层面，可见斑片状实变和毛玻璃样影。</span><span class="english">At a more cephalad level, patchy consolidation and ground-glass opacity are visible.</span></p>

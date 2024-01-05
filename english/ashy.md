@@ -1,5 +1,7 @@
 # ashy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ashy.md)
+
 <p><span class="chinese">也未让苍白透露出做贼心虚的惊恐。</span><span class="english">Nor ashy pale the fear that false hearts have.</span></p>
 
 <p><span class="chinese">几乎所有郭敬明的小说里都包含了一个成绩优秀的羞涩英雄的形象。</span><span class="english">Almost all Guo's novels include ashy hero who gets good grades.</span></p>

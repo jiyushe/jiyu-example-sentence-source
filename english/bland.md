@@ -1,5 +1,7 @@
 # bland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bland.md)
+
 <p><span class="chinese">这道汤对我来说太淡了。</span><span class="english">This soup is too bland for me.</span></p>
 
 <p><span class="chinese">特德不温不火的样子能把人气疯。</span><span class="english">Ted could be maddeningly bland.</span></p>

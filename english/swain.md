@@ -1,5 +1,7 @@
 # swain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swain.md)
+
 <p><span class="chinese">哦！美丽的皮埃蕾特也有很多人来求爱！</span><span class="english">Oh! many a swain has fair Pierrette !</span></p>
 
 <p><span class="chinese">开头并没有一个粗鄙的年轻人。</span><span class="english">There wasn't an uncouth swain at the beginning.</span></p>

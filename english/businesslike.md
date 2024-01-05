@@ -1,5 +1,7 @@
 # businesslike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/businesslike.md)
+
 <p><span class="chinese">她以一种简洁和公事公办的方式通知他。</span><span class="english">She told him in a curt and businesslike manner.</span></p>
 
 <p><span class="chinese">“这怎么收费，柯利巴？”她突然一本正经的问道。</span><span class="english">"What is your fee, Koriba?" she asked, suddenly businesslike.</span></p>

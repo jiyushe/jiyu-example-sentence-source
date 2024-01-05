@@ -1,5 +1,7 @@
 # azobenzene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/azobenzene.md)
+
 <p><span class="chinese">合成一种新的推拉型偶氮化合物并将掺入PMMA中制成光学薄膜器件。</span><span class="english">The new push-pull azobenzene compound was synthesized and doped into PMMA films.</span></p>
 
 <p><span class="chinese">报道了偶氮苯聚合物薄膜中的斑图形成，横向效应及准晶结构。</span><span class="english">Pattern formation and transverse effect are reported for azobenzene polymer film.</span></p>

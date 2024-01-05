@@ -1,5 +1,7 @@
 # 促成
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cucheng.md)
+
 <p><span class="chinese">一个领域是促成技术。</span><span class="english">One area is enabling technologies.</span></p>
 
 <p><span class="chinese">促成教室里的性别变化</span><span class="english">Engendering Change in the Classroom</span></p>

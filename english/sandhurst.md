@@ -1,5 +1,7 @@
 # sandhurst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sandhurst.md)
+
 <p><span class="chinese">英国的桑德赫斯特和美国的西点都是军事学院。</span><span class="english">Sandhurst In England and West Point in the U. S. are military academies.</span></p>
 
 <p><span class="chinese">录像拍摄于哈里王子在桑赫斯特军事学院做学生时期。</span><span class="english">The video reportedly shows Harry while still an officer cadet at Sandhurst military academy.</span></p>

@@ -1,5 +1,7 @@
 # vital 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vital.md)
+
 <p><span class="chinese">设置阶段是至关紧要的。</span><span class="english">Setting the stage is vital.</span></p>
 
 <p><span class="chinese">而幽默感也是很重要的一环。</span><span class="english">And a sense of humor is vital.</span></p>

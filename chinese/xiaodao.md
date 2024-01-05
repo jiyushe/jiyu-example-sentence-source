@@ -1,5 +1,7 @@
 # 孝道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaodao.md)
+
 <p><span class="chinese">中国是一个以孝道为自豪的民族。</span><span class="english">China is a nation that is proud of the virtu of filial piety.</span></p>
 
 <p><span class="chinese">但是，什麽人能够把孝道做得圆圆满满的呢？</span><span class="english">Who can practice the principle of filial piety to perfection?</span></p>

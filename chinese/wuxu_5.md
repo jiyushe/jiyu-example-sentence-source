@@ -1,5 +1,7 @@
 # 务虚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuxu_5.md)
+
 <p><span class="chinese">德国陆军务虚的兴登堡线。</span><span class="english">German Army retreats to the Hindenburg Line.</span></p>
 
 <p><span class="chinese">务虚与务实是一个事物的两个方面。</span><span class="english">Retreat and pragmatic is a thing of the two aspects.</span></p>

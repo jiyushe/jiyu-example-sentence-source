@@ -1,5 +1,7 @@
 # accident 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accident.md)
+
 <p><span class="chinese">我遇见她纯属偶然。</span><span class="english">I met her by accident.</span></p>
 
 <p><span class="chinese">出生的造化。</span><span class="english">the accident of birth.</span></p>

@@ -1,5 +1,7 @@
 # 节哀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieai.md)
+
 <p><span class="chinese">希望你现在已经节哀顺变。</span><span class="english">I hope that you are consoled by this time.</span></p>
 
 <p><span class="chinese">不过，我还是希望你能在这个悲伤的时刻节哀。</span><span class="english">But let me hope you will moderate your sorrow on this sad occasion.</span></p>

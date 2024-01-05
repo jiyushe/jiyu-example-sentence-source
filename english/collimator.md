@@ -1,5 +1,7 @@
 # collimator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collimator.md)
+
 <p><span class="chinese">瞄准或用支架描准仪。</span><span class="english">Sight or collimator with bracket.</span></p>
 
 <p><span class="chinese">准直仪照明仍然保持开启。</span><span class="english">The collimator lighting remains also switched on.</span></p>

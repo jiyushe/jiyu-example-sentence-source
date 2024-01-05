@@ -1,5 +1,7 @@
 # christianity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/christianity.md)
+
 <p><span class="chinese">基督教是什么？</span><span class="english">What is Christianity?</span></p>
 
 <p><span class="chinese">我信仰基督教。</span><span class="english">I believe in Christianity.</span></p>

@@ -1,5 +1,7 @@
 # seto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seto.md)
+
 <p><span class="chinese">请给我非吸烟区的位子。汉。</span><span class="english">I'd like a non-smoking seto.</span></p>
 
 <p><span class="chinese">瓦立阿告诉普什卡游戏刚刚开始。</span><span class="english">Tile seto tell pushkar game is just beginning.</span></p>

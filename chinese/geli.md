@@ -1,5 +1,7 @@
 # 蛤蜊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/geli.md)
+
 <p><span class="chinese">如何把蛤蜊塞进干净的奶油罐子里？</span><span class="english">How can a clam cram in a cran cream can?</span></p>
 
 <p><span class="chinese">您可以尝尝桑拿蛤蜊，味道很棒。</span><span class="english">You may try Sanna Clam. It is very tasty.</span></p>

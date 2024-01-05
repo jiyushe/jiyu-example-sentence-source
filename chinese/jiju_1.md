@@ -1,5 +1,7 @@
 # 机具
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiju_1.md)
+
 <p><span class="chinese">状态机具有多种状态。</span><span class="english">A state machine has several states.</span></p>
 
 <p><span class="chinese">垂直运输机具准备就绪。</span><span class="english">Vertical Conveyance machines are Ready.</span></p>

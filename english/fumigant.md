@@ -1,5 +1,7 @@
 # fumigant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fumigant.md)
+
 <p><span class="chinese">集装箱内必须留有一定的空间以便熏蒸剂循环。</span><span class="english">The container must be packed to provide air space for circulation of the fumigant.</span></p>
 
 <p><span class="chinese">在我们的第二个世纪，罗马人用燃烧石油的办法来驱赶毛毛虫。</span><span class="english">By our second century, the Romans were burning crude oil as a fumigant against caterpillars.</span></p>

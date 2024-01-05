@@ -1,5 +1,7 @@
 # dexterity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dexterity.md)
+
 <p><span class="chinese">他非常麻利地驾驶着他那架小型飞机。</span><span class="english">He handled the small airplane with great dexterity.</span></p>
 
 <p><span class="chinese">小偷一定有一个高机巧是有效的。</span><span class="english">Thieves must have a high Dexterity to be effective.</span></p>

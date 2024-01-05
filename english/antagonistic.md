@@ -1,5 +1,7 @@
 # antagonistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antagonistic.md)
+
 <p><span class="chinese">真理与错误不能两立。</span><span class="english">Truth is antagonistic to error.</span></p>
 
 <p><span class="chinese">在脱落过程中生长素与脱落酸有拮抗作用。</span><span class="english">It is antagonistic to abscisic acid in abscission.</span></p>

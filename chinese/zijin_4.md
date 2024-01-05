@@ -1,5 +1,7 @@
 # 资金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zijin_4.md)
+
 <p><span class="chinese">资金急剧增长。</span><span class="english">The funds rose sharply.</span></p>
 
 <p><span class="chinese">舍得花钱去筹到更多的资金。</span><span class="english">Spend money to raise mone.</span></p>

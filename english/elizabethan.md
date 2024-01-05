@@ -1,5 +1,7 @@
 # elizabethan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elizabethan.md)
+
 <p><span class="chinese">法律是伊丽莎白戏剧的印章。</span><span class="english">Law was a staple of Elizabethan drama.</span></p>
 
 <p><span class="chinese">他拥有相当多的伊丽莎白时期的藏书供其钻研。</span><span class="english">He had a considerable Elizabethan library to delve in.</span></p>

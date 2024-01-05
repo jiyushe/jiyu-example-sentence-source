@@ -1,5 +1,7 @@
 # craven
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/craven.md)
+
 <p><span class="chinese">克雷文给了你什么?。</span><span class="english">What has Craven offered you?</span></p>
 
 <p><span class="chinese">不过，广播电台可承受不起这种怯懦的行为。</span><span class="english">But broadcasters can't afford to be so craven.</span></p>

@@ -1,5 +1,7 @@
 # haram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haram.md)
+
 <p><span class="chinese">博科圣地组织看上去越来越支持自杀性爆炸的使用。</span><span class="english">Boko Haram increasingly seems to favor the use of suicide bombings.</span></p>
 
 <p><span class="chinese">而自从2009，伊斯兰极端组织博客圣地组织开始对尼日利亚进行恐怖袭击。</span><span class="english">And since 2009, Boko Haram a militant Islamic group has been terrorizing Nigeria.</span></p>

@@ -1,5 +1,7 @@
 # 押解
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yajie.md)
+
 <p><span class="chinese">请问你们警方是押解了一名遣返人员吗？</span><span class="english">Is there a deportee under your escort?</span></p>
 
 <p><span class="chinese">他被转移押解到精神病院接受进一步的检查。</span><span class="english">He was remanded to a mental hospital for assessment.</span></p>

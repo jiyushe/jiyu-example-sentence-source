@@ -1,5 +1,7 @@
 # udine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/udine.md)
+
 <p><span class="chinese">周六晚上，米兰客场挑战乌迪内斯。</span><span class="english">Saturday night Milan have the away game at Udine.</span></p>
 
 <p><span class="chinese">我加盟乌迪内斯时只有18岁，他待我就像他的亲儿子。</span><span class="english">I arrived in Udine aged 18 and he treated me like a son.</span></p>

@@ -1,5 +1,7 @@
 # gratify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gratify.md)
+
 <p><span class="chinese">这是否满足了你的好奇心？</span><span class="english">Does it gratify your curiosity?</span></p>
 
 <p><span class="chinese">你的好评使我非常高兴。</span><span class="english">Your good marks gratify me very much.</span></p>

@@ -1,5 +1,7 @@
 # authentication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/authentication.md)
+
 <p><span class="chinese">不需要身份验证。</span><span class="english">Does not require authentication.</span></p>
 
 <p><span class="chinese">禁用基于主机的身份验证</span><span class="english">Disable host-based authentication</span></p>

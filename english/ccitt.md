@@ -1,5 +1,7 @@
 # ccitt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ccitt.md)
+
 <p><span class="chinese">贝尔系统MF音调体系的一个编钟成为CCITT标准。</span><span class="english">Variations of the Bell System MF tone scheme became a CCITT standard.</span></p>
 
 <p><span class="chinese">本文用CCITT建议的SDL语言以形式化描述的方法来设计该协议。</span><span class="english">We design the protocol by means of the SDL language suggested by CCITT.</span></p>

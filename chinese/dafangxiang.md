@@ -1,5 +1,7 @@
 # 大方向
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dafangxiang.md)
+
 <p><span class="chinese">在一个大方向上达成一致，然后就去行动。</span><span class="english">Get agreement on the big picture, then turn to action.</span></p>
 
 <p><span class="chinese">在事情安排的大方向，这保证一对夫妇在一起。</span><span class="english">In the grander scheme of things, this helps keep couples together.</span></p>

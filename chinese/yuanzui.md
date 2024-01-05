@@ -1,5 +1,7 @@
 # 原罪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanzui.md)
+
 <p><span class="chinese">从此人有了原罪。</span><span class="english">Original sin, people.</span></p>
 
 <p><span class="chinese">无原罪就是“无污点“的意思“</span><span class="english">Immaculate means "without stain."</span></p>

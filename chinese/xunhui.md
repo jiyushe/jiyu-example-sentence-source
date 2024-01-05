@@ -1,5 +1,7 @@
 # 巡回
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunhui.md)
+
 <p><span class="chinese">我喜欢这些巴士巡回之旅。</span><span class="english">I loved those bus tours.</span></p>
 
 <p><span class="chinese">我也可以当一个巡回乐队管理员。</span><span class="english">I could even be a roadie.</span></p>

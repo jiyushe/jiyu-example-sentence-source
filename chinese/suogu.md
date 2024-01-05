@@ -1,5 +1,7 @@
 # 锁骨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suogu.md)
+
 <p><span class="chinese">扩展锁骨。</span><span class="english">Widen your collarbones.</span></p>
 
 <p><span class="chinese">现在我有个破碎的锁骨。</span><span class="english">I now have a broken collarbone.  FML</span></p>

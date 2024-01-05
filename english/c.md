@@ -1,5 +1,7 @@
 # c
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/c.md)
+
 <p><span class="chinese">价格定在C</span><span class="english">At C.</span></p>
 
 <p><span class="chinese">创建实例的模板。</span><span class="english">c p 1 and c p 2.</span></p>

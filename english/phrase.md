@@ -1,5 +1,7 @@
 # phrase 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phrase.md)
+
 <p><span class="chinese">又是这个表达</span><span class="english">That phrase again.</span></p>
 
 <p><span class="chinese">我喜欢这个说法。</span><span class="english">I love this phrase.</span></p>

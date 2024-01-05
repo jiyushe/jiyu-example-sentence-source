@@ -1,5 +1,7 @@
 # 马戏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maxi.md)
+
 <p><span class="chinese">它是一场马戏表演。</span><span class="english">It's a dog and pony show.</span></p>
 
 <p><span class="chinese">做礼拜和看马戏相比，算不了什么。</span><span class="english">Church ain't shucks to a circus.</span></p>

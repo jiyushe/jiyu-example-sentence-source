@@ -1,5 +1,7 @@
 # verb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/verb.md)
+
 <p><span class="chinese">是一个情态动词。</span><span class="english">"Can" is a modal verb.</span></p>
 
 <p><span class="chinese">“流行”在这里呢是个动词。</span><span class="english">Liuxing" here is a verb."</span></p>

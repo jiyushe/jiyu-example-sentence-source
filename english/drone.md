@@ -1,5 +1,7 @@
 # drone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drone.md)
+
 <p><span class="chinese">蜜蜂嗡嗡响地穿梭在花丛。</span><span class="english">Bees drone among the flowers.</span></p>
 
 <p><span class="chinese">但是，这场无人机战役能打胜吗？</span><span class="english">But is the drone war winnable?</span></p>

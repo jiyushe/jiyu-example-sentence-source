@@ -1,5 +1,7 @@
 # hoofed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hoofed.md)
+
 <p><span class="chinese">他步行去了城里。</span><span class="english">He hoofed his way to town.</span></p>
 
 <p><span class="chinese">什么，你是说我被解雇了?</span><span class="english">What, I'm hoofed out of my job?</span></p>

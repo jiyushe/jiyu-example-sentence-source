@@ -1,5 +1,7 @@
 # 手绢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoujuan.md)
+
 <p><span class="chinese">这块手绢是正方形的。</span><span class="english">This hankerchief is square.</span></p>
 
 <p><span class="chinese">她丢了一块蓝边手绢。</span><span class="english">She lost a hand kerchiefedged with blue.</span></p>

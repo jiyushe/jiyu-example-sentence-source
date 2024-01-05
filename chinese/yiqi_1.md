@@ -1,5 +1,7 @@
 # 以期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiqi_1.md)
+
 <p><span class="chinese">以期对粮食生产的保产、增产有所帮助。</span><span class="english">Hope it would help to increase grain yield.</span></p>
 
 <p><span class="chinese">我们必须把房子收拾停当，以期我们的客人随时入住。</span><span class="english">We must get the house ready for our guests.</span></p>

@@ -1,5 +1,7 @@
 # 眉眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meiyan_1.md)
+
 <p><span class="chinese">他总是爱跟男孩抛眉眼！</span><span class="english">She keeps flirting with boys.</span></p>
 
 <p><span class="chinese">不管有多难熬，人生都要眉眼带笑。</span><span class="english">No matter how tough, life should be smiling.</span></p>

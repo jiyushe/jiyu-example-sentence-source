@@ -1,5 +1,7 @@
 # 街面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiemian.md)
+
 <p><span class="chinese">天刚刚下过雨，街面还有湿。</span><span class="english">It had just rained and the streets were wet.</span></p>
 
 <p><span class="chinese">街面儿上都知道他会修收音机。</span><span class="english">Everybody in the neighbourhood knows he can repair radios.</span></p>

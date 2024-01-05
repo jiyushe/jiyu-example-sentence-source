@@ -1,5 +1,7 @@
 # 模棱两可
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/molengliangke.md)
+
 <p><span class="chinese">他打着呵欠作了模棱两可的回答。</span><span class="english">He yawned a doubtful relay.</span></p>
 
 <p><span class="chinese">这部作品充满了似非而是及模棱两可之处。</span><span class="english">This is a poem full of ambiguity.</span></p>

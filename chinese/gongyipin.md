@@ -1,5 +1,7 @@
 # 工艺品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongyipin.md)
+
 <p><span class="chinese">我主要经营中国工艺品。</span><span class="english">I mainly dean in Chinese crafts.</span></p>
 
 <p><span class="chinese">这里有一些工艺品。</span><span class="english">There's some kind of craft stuff.</span></p>

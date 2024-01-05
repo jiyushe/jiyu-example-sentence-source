@@ -1,5 +1,7 @@
 # 不二法门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buerfamen.md)
+
 <p><span class="chinese">参与是获得胜利的不二法门。</span><span class="english">The first rule in winning is to participate!</span></p>
 
 <p><span class="chinese">同往常一样，爱是解决一切的不二法门。</span><span class="english">As always, love is the solution to everything.</span></p>

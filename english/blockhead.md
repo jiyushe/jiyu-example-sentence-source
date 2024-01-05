@@ -1,5 +1,7 @@
 # blockhead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blockhead.md)
+
 <p><span class="chinese">他是个不折不扣的傻子。</span><span class="english">He was rather a blockhead.</span></p>
 
 <p><span class="chinese">那是傻子，哈里，傻子。</span><span class="english">He was rather a blockhead.</span></p>

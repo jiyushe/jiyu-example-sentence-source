@@ -1,5 +1,7 @@
 # rumble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rumble.md)
+
 <p><span class="chinese">时刻警惕着隆隆声和摇晃。</span><span class="english">Alert for the rumble and shake.</span></p>
 
 <p><span class="chinese">控制器的隆隆声已添加。</span><span class="english">Controller rumble has been added.</span></p>

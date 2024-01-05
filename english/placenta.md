@@ -1,5 +1,7 @@
 # placenta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/placenta.md)
+
 <p><span class="chinese">这就是所谓的前置胎盘。</span><span class="english">This is called placenta praevia.</span></p>
 
 <p><span class="chinese">从胎盘袋子中拉出的剪断的脐带。</span><span class="english">Placenta in bag with cut navel cord jutting out.</span></p>

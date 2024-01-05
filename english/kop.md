@@ -1,5 +1,7 @@
 # kop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kop.md)
+
 <p><span class="chinese">利物浦队的球迷唱著我的名字</span><span class="english">The Kop sing my name</span></p>
 
 <p><span class="chinese">利物浦也可以在考普看台前争取一场胜利。</span><span class="english">Liverpool can go for a win in front of the Kop.</span></p>

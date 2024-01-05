@@ -1,5 +1,7 @@
 # 水缸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuigang.md)
+
 <p><span class="chinese">他找来一块石头，用力砸破水缸。</span><span class="english">He found a rock and broke the vat.</span></p>
 
 <p><span class="chinese">大象好像一只大水缸。</span><span class="english">The elephant resembles a water vat.</span></p>

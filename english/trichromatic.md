@@ -1,5 +1,7 @@
 # trichromatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trichromatic.md)
+
 <p><span class="chinese">她的衣服永远都是白灰黑三色。</span><span class="english">Her dress is white ash forever black trichromatic.</span></p>
 
 <p><span class="chinese">黑白红三色主打我家。</span><span class="english">Black and white red trichromatic advocate hit my home.</span></p>

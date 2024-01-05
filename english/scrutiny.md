@@ -1,5 +1,7 @@
 # scrutiny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scrutiny.md)
+
 <p><span class="chinese">他的工作经不起细察。</span><span class="english">His work won't bear scrutiny.</span></p>
 
 <p><span class="chinese">世卫组织经得起这一审查。</span><span class="english">WHO can withstand this scrutiny.</span></p>

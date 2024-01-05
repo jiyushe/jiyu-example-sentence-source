@@ -1,5 +1,7 @@
 # 喇叭裤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/labaku.md)
+
 <p><span class="chinese">他仍然穿着喇叭裤。</span><span class="english">He’s still wearing bellbottoms.</span></p>
 
 <p><span class="chinese">今年喇叭裤不时兴了。</span><span class="english">Flared trousers are out this year.</span></p>

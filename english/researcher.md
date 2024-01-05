@@ -1,5 +1,7 @@
 # researcher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/researcher.md)
+
 <p><span class="chinese">圣母院研究者杰西卡.D.裴恩如是说</span><span class="english">Notre Dame researcher Jessica D. Payne explains</span></p>
 
 <p><span class="chinese">美联社研究员赵良于北京撰稿。</span><span class="english">AP researcher Zhao Liang in Beijing contributed.</span></p>

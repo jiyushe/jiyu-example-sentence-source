@@ -1,5 +1,7 @@
 # noc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noc.md)
+
 <p><span class="chinese">现任中国奥委会主席是国家体育总局局长袁伟民。</span><span class="english">NOC is Yuan Weimin, Ministry of the state General Administration for Sports.</span></p>
 
 <p><span class="chinese">泰国龙船徽章自从1992年汉城开始就一直困扰着收藏者，它们是真的NOC徽章吗？</span><span class="english">The Thai 'dragon ship' pins have puzzled collectors since Seoul in 1992. Are they really NOC pins?</span></p>

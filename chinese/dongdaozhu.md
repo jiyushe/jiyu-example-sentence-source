@@ -1,5 +1,7 @@
 # 东道主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongdaozhu.md)
+
 <p><span class="chinese">如果他的东道主反对，让他去吧。</span><span class="english">If his hosts have a hissy fit , let.</span></p>
 
 <p><span class="chinese">如果他的东道主反对，让他去吧。</span><span class="english">If his hosts have a hissy fit, let them.</span></p>

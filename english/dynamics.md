@@ -1,5 +1,7 @@
 # dynamics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dynamics.md)
+
 <p><span class="chinese">布朗能咸鱼翻身吗？</span><span class="english">Can Mr Brown reverse the dynamics?</span></p>
 
 <p><span class="chinese">我们了解外包的动力。</span><span class="english">We know the dynamics of outsourcing.</span></p>

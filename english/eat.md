@@ -1,5 +1,7 @@
 # eat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eat.md)
+
 <p><span class="chinese">边走边吃。</span><span class="english">Eat and go.</span></p>
 
 <p><span class="chinese">少吃几餐就好了！</span><span class="english">And eat less!</span></p>

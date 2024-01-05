@@ -1,5 +1,7 @@
 # sheila
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sheila.md)
+
 <p><span class="chinese">希拉抬起头，关注地望着我。</span><span class="english">Sheila looked up at me with concern.</span></p>
 
 <p><span class="chinese">希拉聪明过人，不会相信特德的花言巧语。</span><span class="english">Sheila was too clever to believe Ted's flattery.</span></p>

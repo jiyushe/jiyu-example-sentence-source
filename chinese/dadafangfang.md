@@ -1,5 +1,7 @@
 # 大大方方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dadafangfang.md)
+
 <p><span class="chinese">我认为我们应该大大方方地认输。</span><span class="english">I think we should just give in gracefully.</span></p>
 
 <p><span class="chinese">拥有本书，大大方方逛街去。</span><span class="english">You may have an unhurried shopping with this book!</span></p>

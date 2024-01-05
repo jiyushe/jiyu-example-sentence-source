@@ -1,5 +1,7 @@
 # symmetry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/symmetry.md)
+
 <p><span class="chinese">我们需要对称。</span><span class="english">We need this symmetry.</span></p>
 
 <p><span class="chinese">飞机的对称轴线。</span><span class="english">The axis of plane symmetry.</span></p>

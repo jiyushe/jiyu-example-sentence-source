@@ -1,5 +1,7 @@
 # advisor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/advisor.md)
+
 <p><span class="chinese">我有好多嘢想写啊！</span><span class="english">Just want to be the advisor.</span></p>
 
 <p><span class="chinese">于是那大臣继续被关在监狱里。</span><span class="english">So the advisor remained in prison.</span></p>

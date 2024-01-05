@@ -1,5 +1,7 @@
 # 寒冬腊月
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/handonglayue.md)
+
 <p><span class="chinese">这事发生在一个寒冬腊月。</span><span class="english">It happened in a cold December.</span></p>
 
 <p><span class="chinese">他闲度寒冬腊月。</span><span class="english">He loafed through the winter months.</span></p>

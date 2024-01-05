@@ -1,5 +1,7 @@
 # 氯化锌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvhuaxin.md)
+
 <p><span class="chinese">因此，碱式氯化锌在日粮中是一种好的锌源添加剂。</span><span class="english">Therefore, basic zinc chloride could be a good supplemental source of Zn in the diet.</span></p>
 
 <p><span class="chinese">碱式氯化锌是结晶粉末，是一种低污染的矿物元素，不易吸潮也不溶于水。</span><span class="english">It has low contamination of mineral elements, low hygroscopic and insolubility in water.</span></p>

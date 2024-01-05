@@ -1,5 +1,7 @@
 # married
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/married.md)
+
 <p><span class="chinese">我娶她妻。</span><span class="english">I married her.</span></p>
 
 <p><span class="chinese">是去结婚吗？</span><span class="english">To get married?</span></p>

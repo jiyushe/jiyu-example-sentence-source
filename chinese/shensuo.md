@@ -1,5 +1,7 @@
 # 伸缩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shensuo.md)
+
 <p><span class="chinese">译作不可随意增减伸缩。</span><span class="english">Translation is not scalable.</span></p>
 
 <p><span class="chinese">一些照相机的镜头可以伸缩。</span><span class="english">Some cameras have collapsable lens.</span></p>

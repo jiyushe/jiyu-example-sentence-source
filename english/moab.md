@@ -1,5 +1,7 @@
 # moab
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moab.md)
+
 <p><span class="chinese">亚哈死后，摩押背叛以色列。</span><span class="english">After Ahab's death, Moab rebelled against Israel.</span></p>
 
 <p><span class="chinese">难道你比摩押王西拨的儿子巴勒还强么。</span><span class="english">Are you better than Balak son of Zippor, king of Moab?</span></p>

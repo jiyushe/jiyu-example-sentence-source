@@ -1,5 +1,7 @@
 # 使役
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyi.md)
+
 <p><span class="chinese">他们过分地使役了这些马。</span><span class="english">They work the horses too hard.</span></p>
 
 <p><span class="chinese">为不列颠群岛最受欢迎的使役牧羊犬。</span><span class="english">It is the most popular working sheepdog in the British Isles.</span></p>

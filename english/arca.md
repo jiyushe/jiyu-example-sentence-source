@@ -1,5 +1,7 @@
 # arca
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arca.md)
+
 <p><span class="chinese">这些动物在最后被送到“方舟”之前全都有过恐怖的际遇。</span><span class="english">All had horrific existences before ending up at El Arca.</span></p>
 
 <p><span class="chinese">方舟是由约翰李离开格里姆肖在1998年。</span><span class="english">Arca was founded by John Lee after leaving Grimshaw in 1998.</span></p>

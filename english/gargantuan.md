@@ -1,5 +1,7 @@
 # gargantuan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gargantuan.md)
+
 <p><span class="chinese">华尔街崩溃的状况不能更糟了。</span><span class="english">The scale of the Wall Street crackup could scarcely be more gargantuan.</span></p>
 
 <p><span class="chinese">但是一个有5英寸屏幕的手机，它的巨大笨拙无疑看起来糟透了。</span><span class="english">But with its 5-inch display, the gargantuan Streak is awfully big for a phone.</span></p>

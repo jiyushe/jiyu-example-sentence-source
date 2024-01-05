@@ -1,5 +1,7 @@
 # 挑拣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaojian.md)
+
 <p><span class="chinese">我开始挑拣选择。</span><span class="english">I began to pick and choose.</span></p>
 
 <p><span class="chinese">他说，要饭的哪能挑挑拣拣。</span><span class="english">He says beggars mustn't be choosers.</span></p>

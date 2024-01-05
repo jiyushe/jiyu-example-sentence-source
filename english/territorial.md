@@ -1,5 +1,7 @@
 # territorial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/territorial.md)
+
 <p><span class="chinese">条约禁止了地球外的领土要求。</span><span class="english">The treaty forbids territorial claims off-Earth.</span></p>
 
 <p><span class="chinese">我们必须捍卫我们领土的完整。</span><span class="english">We must safeguard our state territorial integrity.</span></p>

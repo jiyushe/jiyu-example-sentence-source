@@ -1,5 +1,7 @@
 # cuttage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cuttage.md)
+
 <p><span class="chinese">三叶木通枝条扦插属于综合型生根类型。</span><span class="english">The branch cuttage of Akebia trifoliate Koidz belongs to the type of integrated rooting.</span></p>
 
 <p><span class="chinese">目的探讨影响三叶木通扦插育苗的因素。</span><span class="english">Objects To explore the factors of influencing for the cuttage seedling of Akebia trifoliate.</span></p>

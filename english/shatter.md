@@ -1,5 +1,7 @@
 # shatter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shatter.md)
+
 <p><span class="chinese">教堂的窗户粉碎了。</span><span class="english">The church windows shatter.</span></p>
 
 <p><span class="chinese">他说的话令她心烦意乱。</span><span class="english">What he said made her shatter.</span></p>

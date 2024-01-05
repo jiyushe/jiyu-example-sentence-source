@@ -1,5 +1,7 @@
 # angell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/angell.md)
+
 <p><span class="chinese">天使一直在守护着我。</span><span class="english">Angell watching over me.</span></p>
 
 <p><span class="chinese">安吉尔和他夫人一起去太原。</span><span class="english">Angell went to Taiyuan in company with his wife.</span></p>

@@ -1,5 +1,7 @@
 # wrapper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wrapper.md)
+
 <p><span class="chinese">现在初始化封装器安装在正确的地方了。</span><span class="english">The init wrapper is now in place.</span></p>
 
 <p><span class="chinese">我们先把包装纸拉掉。</span><span class="english">Let's pull away the wrapper first.</span></p>

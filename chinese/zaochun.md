@@ -1,5 +1,7 @@
 # 早春
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaochun.md)
+
 <p><span class="chinese">梅花在早春开花。</span><span class="english">The flowers wake in spring.</span></p>
 
 <p><span class="chinese">早春的时候我给我所有的鸟打虫。</span><span class="english">I worm all my birds in early spring.</span></p>

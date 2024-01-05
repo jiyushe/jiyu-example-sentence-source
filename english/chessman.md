@@ -1,5 +1,7 @@
 # chessman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chessman.md)
+
 <p><span class="chinese">而你们则是这场游戏中的一个棋子。</span><span class="english">And you are a chessman in this game.</span></p>
 
 <p><span class="chinese">每一个论坛的版主或管理员都是公司的一枚棋子。</span><span class="english">Every forum worker and manager is a chessman of company.</span></p>

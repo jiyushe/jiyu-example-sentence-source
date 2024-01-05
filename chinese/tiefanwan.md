@@ -1,5 +1,7 @@
 # 铁饭碗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiefanwan.md)
+
 <p><span class="chinese">此外，中国的“铁饭碗”CEO们也不会拿到八位数的薪酬。</span><span class="english">Besides, China's "iron bowl" CEOs don't get eight-digit pay packages, either.</span></p>
 
 <p><span class="chinese">高福利和铁饭碗的欧洲模式危机重重。</span><span class="english">The “European model” of generous social benefits and secure jobs is besieged.</span></p>

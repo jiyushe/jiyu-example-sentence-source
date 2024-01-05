@@ -1,5 +1,7 @@
 # launching
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/launching.md)
+
 <p><span class="chinese">检查放艇滑道并报告。</span><span class="english">Check launching tracks and report.</span></p>
 
 <p><span class="chinese">检查放艇滑道并报告。</span><span class="english">Check the launching tracks and report.</span></p>

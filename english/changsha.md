@@ -1,5 +1,7 @@
 # changsha
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/changsha.md)
+
 <p><span class="chinese">我是长沙人。</span><span class="english">I'm from Changsha.</span></p>
 
 <p><span class="chinese">我在长沙路小学上学。</span><span class="english">I go to Changsha Road School.</span></p>

@@ -1,5 +1,7 @@
 # 凸轮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tulun.md)
+
 <p><span class="chinese">其中马丁斯平稳绘制凸轮他们。</span><span class="english">One of Martins smoothest drawing cams they have.</span></p>
 
 <p><span class="chinese">凸轮三维实体模型自动生成模块。</span><span class="english">Three-dimensional solid model cam module automatically.</span></p>

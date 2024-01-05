@@ -1,5 +1,7 @@
 # 繁茂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanmao.md)
+
 <p><span class="chinese">苍翠繁茂的玉黍蜀田人。</span><span class="english">A lush corn field.</span></p>
 
 <p><span class="chinese">5月里处处枝叶繁茂，花儿吐艳。</span><span class="english">May is busting out all over.</span></p>

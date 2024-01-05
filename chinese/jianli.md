@@ -1,5 +1,7 @@
 # 尖利
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianli.md)
+
 <p><span class="chinese">他的角看起来非常尖利。</span><span class="english">His horns look very sharp.</span></p>
 
 <p><span class="chinese">还有狂野而尖利的号角。</span><span class="english">And the bugle wild and shrill.</span></p>

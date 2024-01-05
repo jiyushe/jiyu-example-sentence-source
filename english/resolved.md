@@ -1,5 +1,7 @@
 # resolved
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resolved.md)
+
 <p><span class="chinese">我决定去鼓励他。</span><span class="english">I resolved to encourage him.</span></p>
 
 <p><span class="chinese">他决定不出去。</span><span class="english">He resolved against going out.</span></p>

@@ -1,5 +1,7 @@
 # 不耻下问
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buchixiawen.md)
+
 <p><span class="chinese">当我们不懂如何做时，我们不耻下问。</span><span class="english">When we do not know what to do, we ask.</span></p>
 
 <p><span class="chinese">在学习上应当不耻下问。</span><span class="english">You shall not be above asking question.</span></p>

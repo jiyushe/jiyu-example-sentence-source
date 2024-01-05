@@ -1,5 +1,7 @@
 # 腰花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaohua.md)
+
 <p><span class="chinese">羊肉、红酒烩腰花等等。</span><span class="english">Stewed Mutton, Kidney in Red Wine, etc.</span></p>
 
 <p><span class="chinese">再说我也没有点这煎牛腰花呀。</span><span class="english">And I didn't order this fried ox kidney, either.</span></p>

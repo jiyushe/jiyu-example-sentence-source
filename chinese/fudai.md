@@ -1,5 +1,7 @@
 # 附带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fudai.md)
+
 <p><span class="chinese">本游戏附带了一个巴拉克拉瓦。</span><span class="english">The game comes with a balaclava.</span></p>
 
 <p><span class="chinese">这个遗赠附带一项限制性条款。</span><span class="english">One proviso attaches to the legacy.</span></p>

@@ -1,5 +1,7 @@
 # kyd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kyd.md)
+
 <p><span class="chinese">基德则在达拉斯为做着同样的事情。</span><span class="english">Kyd to be handling the similar matter in Dallas.</span></p>
 
 <p><span class="chinese">他和基德一样在五个方面都能作出贡献。</span><span class="english">He and Kyd can make the contribution equally in five aspects.</span></p>

@@ -1,5 +1,7 @@
 # 销售
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoshou_2.md)
+
 <p><span class="chinese">粮油食品销售。</span><span class="english">With food sales.</span></p>
 
 <p><span class="chinese">我们能够交叉销售吗？</span><span class="english">Can we cross-sell?</span></p>

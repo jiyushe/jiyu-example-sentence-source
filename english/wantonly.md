@@ -1,5 +1,7 @@
 # wantonly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wantonly.md)
+
 <p><span class="chinese">没有其他人会像汤米獾那样放肆地翻掘苔藓。</span><span class="english">No one else grubs up the moss so wantonly as Tommy Brock.</span></p>
 
 <p><span class="chinese">抛弃了一切道义与真理，肆意作恶，尽情裸奔。</span><span class="english">To abandon all moral truth and wantonly evil, much Luoben.</span></p>

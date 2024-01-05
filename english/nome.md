@@ -1,5 +1,7 @@
 # nome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nome.md)
+
 <p><span class="chinese">诺姆仅是一个大约拥有1430人口的小城。</span><span class="english">Nome was only a small city of about 1430 souls.</span></p>
 
 <p><span class="chinese">就在那白山之下，离诺姆东南很近的地方。</span><span class="english">Below that old white mountain, just a little southeast of Nome.</span></p>

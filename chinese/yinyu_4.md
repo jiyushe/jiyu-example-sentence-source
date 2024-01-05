@@ -1,5 +1,7 @@
 # 隐喻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinyu_4.md)
+
 <p><span class="chinese">这是阳痿的隐喻。</span><span class="english">It's an impotence metaphor.</span></p>
 
 <p><span class="chinese">使用类比和隐喻。</span><span class="english">Use analogies and metaphors.</span></p>

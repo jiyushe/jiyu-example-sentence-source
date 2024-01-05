@@ -1,5 +1,7 @@
 # footbridge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/footbridge.md)
+
 <p><span class="chinese">使用人行桥。它是安全的。</span><span class="english">Use the footbridge. It's safe.</span></p>
 
 <p><span class="chinese">请你使用那边的人行桥。</span><span class="english">Please use the footbridge over there.</span></p>

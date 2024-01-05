@@ -1,5 +1,7 @@
 # altitudinal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/altitudinal.md)
+
 <p><span class="chinese">论中国各植被区的山地垂直植被带谱的特征。</span><span class="english">On the characteristics of altitudinal belt spectra in vegetation regions of China.</span></p>
 
 <p><span class="chinese">锥栗则表现出由东南向西北逐渐升高的趋势，其变化幅度也相对较小。</span><span class="english">The change in the altitudinal ranges is smaller than that of the former two species.</span></p>

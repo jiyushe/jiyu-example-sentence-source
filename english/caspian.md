@@ -1,5 +1,7 @@
 # caspian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caspian.md)
+
 <p><span class="chinese">里海的梭鲈，哈萨克斯坦，1999。</span><span class="english">Caspian Pike Perch, Kazakhstan, 1999</span></p>
 
 <p><span class="chinese">帕文西四兄妹与凯斯宾王子会合。</span><span class="english">The four Pevensie children meet Prince Caspian.</span></p>

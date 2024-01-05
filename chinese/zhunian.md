@@ -1,5 +1,7 @@
 # 猪年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhunian.md)
+
 <p><span class="chinese">看来接下来的一段时间都会是“猪年”了。</span><span class="english">In the future, it will always be the Year of the Pig.</span></p>
 
 <p><span class="chinese">让我给大家讲一讲金猪年的运程与性格。</span><span class="english">Let me tell you how about golden boar's nature and prospect.</span></p>

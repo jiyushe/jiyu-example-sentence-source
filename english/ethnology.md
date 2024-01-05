@@ -1,5 +1,7 @@
 # ethnology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ethnology.md)
+
 <p><span class="chinese">这个结论在人类学上是极端重要的。</span><span class="english">It is a conclusion of deep importance in ethnology.</span></p>
 
 <p><span class="chinese">汉德森博士是著名的亚洲民族学专家。</span><span class="english">Dr. Henderson is a famous expert on Asian ethnology.</span></p>

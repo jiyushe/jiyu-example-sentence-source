@@ -1,5 +1,7 @@
 # concluding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concluding.md)
+
 <p><span class="chinese">这是我的结论性建议。</span><span class="english">This is my concluding suggestion.</span></p>
 
 <p><span class="chinese">我今天要以总结亚里士多德第三部曲收尾。</span><span class="english">I want to begin today with concluding Aristotle part3.</span></p>

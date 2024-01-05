@@ -1,5 +1,7 @@
 # neurovascular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neurovascular.md)
+
 <p><span class="chinese">手术应由经验丰富的神经血管外科医生担任。</span><span class="english">The operation must undergo by neurovascular experienced surgeon.</span></p>
 
 <p><span class="chinese">其主要的缘由是对神经血管束较低的牵引。</span><span class="english">The major impact is on less traction on the neurovascular bundle.</span></p>

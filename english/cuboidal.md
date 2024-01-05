@@ -1,5 +1,7 @@
 # cuboidal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cuboidal.md)
+
 <p><span class="chinese">消化道粘膜上皮呈扁平状、立方状或柱状。</span><span class="english">The epithelium of the alimentary canal is squamous, cuboidal or columnar.</span></p>
 
 <p><span class="chinese">结果在扫描电镜下，人类卵巢上皮细胞可区分为扁平细胞和立方细胞。</span><span class="english">Results The human ovary epithelium was composed of cuboidal and flat cells.</span></p>

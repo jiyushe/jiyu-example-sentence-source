@@ -1,5 +1,7 @@
 # distressful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distressful.md)
+
 <p><span class="chinese">它们都是使她感到悲伤的回忆。</span><span class="english">They were distressful memories to her.</span></p>
 
 <p><span class="chinese">人这一生最最痛苦的是什么？</span><span class="english">What do you think is the most distressful thing in life?</span></p>

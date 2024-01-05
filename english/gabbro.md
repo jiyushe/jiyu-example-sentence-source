@@ -1,5 +1,7 @@
 # gabbro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gabbro.md)
+
 <p><span class="chinese">辉长岩岩脉短。</span><span class="english">The gabbro dikes are short.</span></p>
 
 <p><span class="chinese">实验表明辉长岩岩块在上述正应力下均发生粘滑现象。</span><span class="english">Under these normal stresses in experiments on gabbro the stick-slip happened.</span></p>

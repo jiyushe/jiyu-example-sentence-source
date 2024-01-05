@@ -1,5 +1,7 @@
 # centricity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centricity.md)
+
 <p><span class="chinese">以应用程序为中心是一种通用方式</span><span class="english">Application centricity is a universal approach</span></p>
 
 <p><span class="chinese">人的主体性一直是西方近现代哲学的中心问题。</span><span class="english">Human's principal part is a centricity in modern philosophy of the West all along.</span></p>

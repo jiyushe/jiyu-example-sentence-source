@@ -1,5 +1,7 @@
 # lysozyme
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lysozyme.md)
+
 <p><span class="chinese">人溶菌酶在临床上具有潜在的使用价值。</span><span class="english">Human lysozyme has potential use value on clinic.</span></p>
 
 <p><span class="chinese">结论溶菌酶在壶腹癌分型中具有一定的临床意义。</span><span class="english">Lysozyme is important in typing of cancer of ampulla.</span></p>

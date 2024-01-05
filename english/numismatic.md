@@ -1,5 +1,7 @@
 # numismatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/numismatic.md)
+
 <p><span class="chinese">史密森收藏学会是美国的国家钱币收藏馆。</span><span class="english">The Smithsonian houses the National Numismatic Collection of the United States.</span></p>
 
 <p><span class="chinese">钱币的证据表明了古印度有了熔炼的技术。</span><span class="english">Numismatic evidence of the advances made by smelting technology in ancient India.</span></p>

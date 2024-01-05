@@ -1,5 +1,7 @@
 # 助学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuxue.md)
+
 <p><span class="chinese">三表可以申请助学贷款么？</span><span class="english">Can three forms apply to aid to learn loan?</span></p>
 
 <p><span class="chinese">办理助学贷款是需要担保人的。</span><span class="english">A bondsman is needed in executing a student loan.</span></p>

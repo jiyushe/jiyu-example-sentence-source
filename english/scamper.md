@@ -1,5 +1,7 @@
 # scamper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scamper.md)
+
 <p><span class="chinese">你蹦跳着上楼梯。</span><span class="english">You scamper up that ladder.</span></p>
 
 <p><span class="chinese">好了，赶快回去你的树林去吧，小朋友。</span><span class="english">Okay, scamper on back to the woods, little buddy.</span></p>

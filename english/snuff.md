@@ -1,5 +1,7 @@
 # snuff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snuff.md)
+
 <p><span class="chinese">给理发匠一撮鼻烟。</span><span class="english">Give the barber a pinch of snuff.</span></p>
 
 <p><span class="chinese">我的祖父曾经闻过鼻烟。</span><span class="english">My grandfather used to take snuff.</span></p>

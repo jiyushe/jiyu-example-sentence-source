@@ -1,5 +1,7 @@
 # geezer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geezer.md)
+
 <p><span class="chinese">跟那怪老头呀?。</span><span class="english">With that old geezer?</span></p>
 
 <p><span class="chinese">就一个老头子而言，你的身板儿还挺不错的。</span><span class="english">You're in pretty good shape for a geezer.</span></p>

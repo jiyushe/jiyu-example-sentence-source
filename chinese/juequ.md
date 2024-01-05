@@ -1,5 +1,7 @@
 # 攫取
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juequ.md)
+
 <p><span class="chinese">死神，把厌烦我的生命攫取。</span><span class="english">And take a Life that wearies me.</span></p>
 
 <p><span class="chinese">敢用什么手攫取这火种？</span><span class="english">What the hand dare seize the fire?</span></p>

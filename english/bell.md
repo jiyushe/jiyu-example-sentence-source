@@ -1,5 +1,7 @@
 # bell 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bell.md)
+
 <p><span class="chinese">铃响了。</span><span class="english">The bell ring.</span></p>
 
 <p><span class="chinese">滴铃铃！</span><span class="english">Drop bell bell!</span></p>

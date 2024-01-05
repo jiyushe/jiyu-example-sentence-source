@@ -1,5 +1,7 @@
 # gar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gar.md)
+
 <p><span class="chinese">记得关掉汽车发动机。</span><span class="english">Remember rto kill the gar engine.</span></p>
 
 <p><span class="chinese">我猜测一定是有第三者插足。</span><span class="english">I gar there must be a third person involved.</span></p>

@@ -1,5 +1,7 @@
 # underfoot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underfoot.md)
+
 <p><span class="chinese">雪踩在脚底下是酥松的。</span><span class="english">The snow was crisp underfoot.</span></p>
 
 <p><span class="chinese">潮湿的稀泥在脚下闪光。</span><span class="english">Thewet mud shining underfoot.</span></p>

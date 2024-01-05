@@ -1,5 +1,7 @@
 # 隔夜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/geye.md)
+
 <p><span class="chinese">您要用隔夜送达的限时专递寄吗？</span><span class="english">Does it need to be overnighted?</span></p>
 
 <p><span class="chinese">一般价还是隔夜拍发价，先生？</span><span class="english">Ordinary or overnight rate, Sir?</span></p>

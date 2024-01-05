@@ -1,5 +1,7 @@
 # 税赋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuifu_1.md)
+
 <p><span class="chinese">如果这项新法律通过，我们势将失去我们在税赋方面享受的利益。</span><span class="english">If this new law is passed, we stand to lose our tax advantage.</span></p>
 
 <p><span class="chinese">在有的朝代，酒税还与徭役及其他税赋形式有关。</span><span class="english">In some dynasties, liquor tax with corvee and other tax related forms.</span></p>

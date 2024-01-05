@@ -1,5 +1,7 @@
 # 连珠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianzhu.md)
+
 <p><span class="chinese">过去人们都认为连珠火铳是机枪，称戴梓是机枪的发明人。</span><span class="english">He had been mistaken for the inventor of the machine gun.</span></p>
 
 <p><span class="chinese">他是个非常善良的人，他为连珠奉献了一切。</span><span class="english">He is most kind man, and he has given everything for renju.</span></p>

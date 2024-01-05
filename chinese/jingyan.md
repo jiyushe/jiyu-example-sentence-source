@@ -1,5 +1,7 @@
 # 井盐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingyan.md)
+
 <p><span class="chinese">开县温泉镇井盐生产历史悠久，源远流长。</span><span class="english">Wunquan town of Kaixian county has a long history of well salt production.</span></p>
 
 <p><span class="chinese">西南地区所产井盐流通范围局限在西南地区。</span><span class="english">The market of well salt produced in the southwest confined in the southwest.</span></p>

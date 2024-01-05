@@ -1,5 +1,7 @@
 # 灵性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingxing_1.md)
+
 <p><span class="chinese">它是一种“自我”的灵性论。</span><span class="english">It is a spiritualism of 'self'.</span></p>
 
 <p><span class="chinese">精灵是顽皮的、有灵性的。</span><span class="english">Leprechauns are impish, devises.</span></p>

@@ -1,5 +1,7 @@
 # 卒子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuzi.md)
+
 <p><span class="chinese">卒子过河，意在吃帅。</span><span class="english">Pawns across the river, to eat.</span></p>
 
 <p><span class="chinese">国际象棋训练。抓住电脑的卒子。</span><span class="english">Chess training. Catch the computer's pawns.</span></p>

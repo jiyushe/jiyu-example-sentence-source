@@ -1,5 +1,7 @@
 # perforce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perforce.md)
+
 <p><span class="chinese">因此，你必然可以看到整个世界。</span><span class="english">You must see the world there, perforce.</span></p>
 
 <p><span class="chinese">我和我的一切必然任你摆布。</span><span class="english">Perforce am thine and all that is in me.</span></p>

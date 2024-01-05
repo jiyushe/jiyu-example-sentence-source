@@ -1,5 +1,7 @@
 # 周身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhoushen.md)
+
 <p><span class="chinese">我感到周身发冷。</span><span class="english">I felt a chill creep over me.</span></p>
 
 <p><span class="chinese">喝酒以后周身发热。</span><span class="english">After drinking some wine, I feel warm all over.</span></p>

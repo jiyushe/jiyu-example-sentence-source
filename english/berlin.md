@@ -1,5 +1,7 @@
 # berlin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/berlin.md)
+
 <p><span class="chinese">会让你想起柏林</span><span class="english">It reminds you of Berlin.</span></p>
 
 <p><span class="chinese">米勒先生住在柏林。</span><span class="english">Herr Müller wohnt in Berlin.</span></p>

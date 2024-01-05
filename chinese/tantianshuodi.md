@@ -1,5 +1,7 @@
 # 谈天说地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tantianshuodi.md)
+
 <p><span class="chinese">摩尔庄园最新攻略！摩尔谈天说地！</span><span class="english">Moore Manor latest Raiders! Moore chat!</span></p>
 
 <p><span class="chinese">老年人谈天说地树荫下。</span><span class="english">Old people talks of everything below shade.</span></p>

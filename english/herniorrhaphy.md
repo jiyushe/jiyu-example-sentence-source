@@ -1,5 +1,7 @@
 # herniorrhaphy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/herniorrhaphy.md)
+
 <p><span class="chinese">一个三十五天大的幼儿接受二沟腹股沟疝气门诊手术。</span><span class="english">A 35-day-old male infant was scheduled for bilateral inguinal herniorrhaphy.</span></p>
 
 <p><span class="chinese">目的探讨无张力疝修补术的手术方法和近期疗效。</span><span class="english">Objective To summarize the clinical nursing experience of the tension-free herniorrhaphy.</span></p>

@@ -1,5 +1,7 @@
 # fuselage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fuselage.md)
+
 <p><span class="chinese">单位高镶嵌在机身。</span><span class="english">Flats high-mounted on fuselage.</span></p>
 
 <p><span class="chinese">可选装一个79.5升的内部辅助油箱。</span><span class="english">A 79.5l fuselage inside fuel tank can be added.</span></p>

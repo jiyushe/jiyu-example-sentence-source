@@ -1,5 +1,7 @@
 # quaint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quaint.md)
+
 <p><span class="chinese">他的风格是古灵精怪的。</span><span class="english">His style is quaint.</span></p>
 
 <p><span class="chinese">但他们断然古雅。</span><span class="english">But they were decidedly quaint.</span></p>

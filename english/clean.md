@@ -1,5 +1,7 @@
 # clean 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clean.md)
+
 <p><span class="chinese">我可以打扫的。</span><span class="english">I can clean.</span></p>
 
 <p><span class="chinese">箭杆插在它的前胸上，一记干净利落的击杀。</span><span class="english">A clean kill.</span></p>

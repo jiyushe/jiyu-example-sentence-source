@@ -1,5 +1,7 @@
 # 剖腹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/poufu.md)
+
 <p><span class="chinese">失望的美富子剖腹自杀。</span><span class="english">Disappointed beauty rich son pou stomach suicide.</span></p>
 
 <p><span class="chinese">如果还活着，则剖腹挖出心脏和肠子。</span><span class="english">Still alive, their bowels and heart would be removed.</span></p>

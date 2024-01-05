@@ -1,5 +1,7 @@
 # 肃然起敬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suranqijing.md)
+
 <p><span class="chinese">他的勇气不禁令人肃然起敬。</span><span class="english">His courage make me respecting for him.</span></p>
 
 <p><span class="chinese">令人肃然起敬的男家长，家中令人肃然起敬的父亲角色。</span><span class="english">The venerable paterfamilias, the venerable father of the family.</span></p>

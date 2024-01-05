@@ -1,5 +1,7 @@
 # 通缉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongji_4.md)
+
 <p><span class="chinese">那受通缉的男子躲进了森林里。</span><span class="english">The wanted man hid away in the forest.</span></p>
 
 <p><span class="chinese">我因娈童而在蒙古国遭到通缉。</span><span class="english">ALLEN I'm wanted for pederasty in Mongolia.</span></p>

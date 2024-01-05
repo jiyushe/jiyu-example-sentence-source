@@ -1,5 +1,7 @@
 # symbolically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/symbolically.md)
+
 <p><span class="chinese">这在符号学上来说是不可能的。</span><span class="english">It's symbolically the wrong move.</span></p>
 
 <p><span class="chinese">象征性意义重大的捐助也在跟进。</span><span class="english">Symbolically significant donations are pouring in too.</span></p>

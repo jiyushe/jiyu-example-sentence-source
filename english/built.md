@@ -1,5 +1,7 @@
 # built
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/built.md)
+
 <p><span class="chinese">他身体很瓷实。</span><span class="english">He is solidly built.</span></p>
 
 <p><span class="chinese">我造了这个新镇。</span><span class="english">I built the new town.</span></p>

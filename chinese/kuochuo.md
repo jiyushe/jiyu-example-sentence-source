@@ -1,5 +1,7 @@
 # 阔绰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuochuo.md)
+
 <p><span class="chinese">这些家伙是怎么变得如此阔绰的？</span><span class="english">How did these guys all get so rich?</span></p>
 
 <p><span class="chinese">沙太太肯定有个阔绰的老情夫在暗中资助她。</span><span class="english">Mrs. Sha must have had a sugar daddy on the side.</span></p>

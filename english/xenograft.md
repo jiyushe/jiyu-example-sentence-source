@@ -1,5 +1,7 @@
 # xenograft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xenograft.md)
+
 <p><span class="chinese">结果羊膜移植片生长良好。</span><span class="english">Results Amniotic membrane xenograft grown well.</span></p>
 
 <p><span class="chinese">异种肝移植免疫排斥反应中脾脏的作用。</span><span class="english">The role of spleen in rejection of concordant liver xenograft.</span></p>

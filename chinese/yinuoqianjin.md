@@ -1,5 +1,7 @@
 # 一诺千金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinuoqianjin.md)
+
 <p><span class="chinese">乌利中尉一诺千金地回答。</span><span class="english">Uli lieutenant answered as well as gold.</span></p>
 
 <p><span class="chinese">他对我们的许诺不过是个一诺千金而已。</span><span class="english">What he promised us is but a lip-service.</span></p>

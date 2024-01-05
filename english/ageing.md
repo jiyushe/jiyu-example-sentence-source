@@ -1,5 +1,7 @@
 # ageing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ageing.md)
+
 <p><span class="chinese">他老得真快。</span><span class="english">He is ageing fast.</span></p>
 
 <p><span class="chinese">吸烟易致皮肤老化。</span><span class="english">Smoking causes ageing of the skin.</span></p>

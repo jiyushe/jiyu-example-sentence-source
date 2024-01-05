@@ -1,5 +1,7 @@
 # chocolaty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chocolaty.md)
+
 <p><span class="chinese">还有champurrado，一种很浓的巧克力玉米汁，非常适合在冬天喝。</span><span class="english">And champurrado, a thick corn-based, chocolaty drink, perfect for a cold day.</span></p>
 
 <p><span class="chinese">或者试试七龙珠像巧克力蛋糕，这是富人和加巧克力的和很有趣。</span><span class="english">Or try the Dragonball-like chocolate cupcake, which is rich and chocolaty and just plain fun.</span></p>

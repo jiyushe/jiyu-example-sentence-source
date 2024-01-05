@@ -1,5 +1,7 @@
 # 素来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sulai.md)
+
 <p><span class="chinese">杨素来到皇宫。</span><span class="english">Came to the palace.</span></p>
 
 <p><span class="chinese">他素来守法。</span><span class="english">He always abides by the law.</span></p>

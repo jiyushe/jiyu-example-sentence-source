@@ -1,5 +1,7 @@
 # cruelty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cruelty.md)
+
 <p><span class="chinese">那暴君残暴无度。</span><span class="english">The tyrant rioted in cruelty.</span></p>
 
 <p><span class="chinese">他的残忍表明他的好话是虚伪的。</span><span class="english">His cruelty belied his kind words.</span></p>

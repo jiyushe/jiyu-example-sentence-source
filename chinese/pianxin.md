@@ -1,5 +1,7 @@
 # 偏心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianxin.md)
+
 <p><span class="chinese">老师对他偏心。</span><span class="english">The teacher shows partiality to him.</span></p>
 
 <p><span class="chinese">聪明的老师从不显露偏心。</span><span class="english">A wise teacher never shows favouritism.</span></p>

@@ -1,5 +1,7 @@
 # reprise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reprise.md)
+
 <p><span class="chinese">最重要的是去年的油价危机的再次出现看起来是不可能的了。</span><span class="english">All in all, a reprise of last year’s oil crisis seems unlikely.</span></p>
 
 <p><span class="chinese">钢琴在自己的展开主题中，演奏出一段贯穿在两行五线谱中的重奏。</span><span class="english">Noted in two staves, the piano plays a reprise of its own opening theme.</span></p>

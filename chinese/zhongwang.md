@@ -1,5 +1,7 @@
 # 众望
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongwang.md)
+
 <p><span class="chinese">庆幸的是，本作并没有辜负众望。</span><span class="english">Thankfully it didn’t disappoint.</span></p>
 
 <p><span class="chinese">你人缘好人气旺赢得众望。</span><span class="english">You are win popular with masses.</span></p>

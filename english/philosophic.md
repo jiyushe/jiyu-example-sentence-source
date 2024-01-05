@@ -1,5 +1,7 @@
 # philosophic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/philosophic.md)
+
 <p><span class="chinese">这是一首哲理性诗歌。</span><span class="english">This is a philosophic poetry.</span></p>
 
 <p><span class="chinese">我非常满足于哲理性的冥想。</span><span class="english">I am quite content with philosophic contemplation.</span></p>

@@ -1,5 +1,7 @@
 # batik
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/batik.md)
+
 <p><span class="chinese">而在汉代，观赏性的蜡染已开始出现了。</span><span class="english">In the Han Dynasty, the viewing of batik has begun to appear.</span></p>
 
 <p><span class="chinese">蜡染是一种运用蜡防染色技术生产的织品。</span><span class="english">Batik is a kind of fabric that is produced using a wax-resist dyeing technique.</span></p>

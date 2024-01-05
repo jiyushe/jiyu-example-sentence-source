@@ -1,5 +1,7 @@
 # 连发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianfa.md)
+
 <p><span class="chinese">到最后，连发短信的力气都所剩无几。</span><span class="english">Finally, beating the strength to text.</span></p>
 
 <p><span class="chinese">“爱一时”的男人连发短信都嫌麻烦。</span><span class="english">A guy who's here for now can barely be bothered with a text.</span></p>

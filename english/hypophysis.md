@@ -1,5 +1,7 @@
 # hypophysis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypophysis.md)
+
 <p><span class="chinese">垂体瘤的治疗？</span><span class="english">The cure of hypophysis tumour?</span></p>
 
 <p><span class="chinese">垂体切除，VP含量变化？</span><span class="english">Do excision , VP contents change a hypophysis?</span></p>

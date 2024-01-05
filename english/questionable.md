@@ -1,5 +1,7 @@
 # questionable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/questionable.md)
+
 <p><span class="chinese">发现一名可疑人。</span><span class="english">Find a questionable man.</span></p>
 
 <p><span class="chinese">不要进那些有问题的聊天室。</span><span class="english">Don't go into questionable chat rooms.</span></p>

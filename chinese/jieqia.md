@@ -1,5 +1,7 @@
 # 接洽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieqia.md)
+
 <p><span class="chinese">扣问其他接洽人的姓名。</span><span class="english">Always ask for additional contact names.</span></p>
 
 <p><span class="chinese">随后，他拒绝透露相关接洽方的名字。</span><span class="english">He declined to identify any of the parties.</span></p>

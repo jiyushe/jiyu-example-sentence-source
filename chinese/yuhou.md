@@ -1,5 +1,7 @@
 # 预后
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuhou.md)
+
 <p><span class="chinese">预后变得不良。</span><span class="english">The prognosis is poor.</span></p>
 
 <p><span class="chinese">特发性室速预后好。</span><span class="english">The prognosis of IVT is good.</span></p>

@@ -1,5 +1,7 @@
 # continuable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/continuable.md)
+
 <p><span class="chinese">对实现湖南省山丘区可持续发展有一定的指导意义。</span><span class="english">It has a certain leading meaning to carry out the continuable development in Hunan mountain area.</span></p>
 
 <p><span class="chinese">报警服务保障机制的建立是使其可持续性发展的必要保证。</span><span class="english">The instauration of guarantee system is necessary for alarm service industry to continuable develops.</span></p>

@@ -1,5 +1,7 @@
 # 紧身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinshen.md)
+
 <p><span class="chinese">紧身的外衣很不舒服的绑缚着。</span><span class="english">This dress is tight on me.</span></p>
 
 <p><span class="chinese">她身上穿着一件深V领的紧身衬衣，手上戴着长长的黑色皮手套。</span><span class="english">She had long, black leather gloves.</span></p>

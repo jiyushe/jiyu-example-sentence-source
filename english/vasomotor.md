@@ -1,5 +1,7 @@
 # vasomotor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vasomotor.md)
+
 <p><span class="chinese">血管运动性鼻炎的常见症状是经常鼻塞，鼻涕倒流。</span><span class="english">Common symptoms of vasomotor rhinitis are often nasal congestion and postnasal drip.</span></p>
 
 <p><span class="chinese">研究目的探讨血管运动性鼻炎手术治疗的有效方法。</span><span class="english">Objective To research an effective method of the operation treatment for vasomotor rhinitis.</span></p>

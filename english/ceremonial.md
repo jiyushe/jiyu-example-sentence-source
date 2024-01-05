@@ -1,5 +1,7 @@
 # ceremonial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ceremonial.md)
+
 <p><span class="chinese">他今天穿着一件礼袍。</span><span class="english">He robed himself in a ceremonial gown today.</span></p>
 
 <p><span class="chinese">年轻人不应该拘于旧说，要勇于创新。</span><span class="english">Some people did not like this ceremonial style.</span></p>

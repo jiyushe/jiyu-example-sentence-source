@@ -1,5 +1,7 @@
 # 寻欢作乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunhuanzuole.md)
+
 <p><span class="chinese">这是寻欢作乐的时代吗？</span><span class="english">Is this a pleasure-seeking age?</span></p>
 
 <p><span class="chinese">疾病是对寻欢作乐抽税。</span><span class="english">Disease are tax on all pleasures.</span></p>

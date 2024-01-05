@@ -1,5 +1,7 @@
 # 分会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenhui.md)
+
 <p><span class="chinese">第四部分总结东蒙总分会的历史作用。</span><span class="english">Part IV summed up the branch's role in history.</span></p>
 
 <p><span class="chinese">我在分会赢得了比赛，但是在区域会阶段却不慎落马。</span><span class="english">I won at the club level but lost the area contest.</span></p>

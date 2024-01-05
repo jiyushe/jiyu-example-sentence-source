@@ -1,5 +1,7 @@
 # 提亲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiqin.md)
+
 <p><span class="chinese">蓝仕德家人一同去杨家提亲。</span><span class="english">LanShi DE family together to Yangs marriage.</span></p>
 
 <p><span class="chinese">他更托尔旦向段府提亲。</span><span class="english">He is more trust, denier, propose to the period of fu.</span></p>

@@ -1,5 +1,7 @@
 # 替罪羊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tizuiyang.md)
+
 <p><span class="chinese">难道你不认为他只是个替罪羊吗？</span><span class="english">Don't you think he is only a whipping-boy?</span></p>
 
 <p><span class="chinese">奥巴马将会做得更好，不会成为那样的替罪羊。</span><span class="english">Obama would do well to avoid such scapegoating.</span></p>

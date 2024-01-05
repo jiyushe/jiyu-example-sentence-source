@@ -1,5 +1,7 @@
 # 暴跌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baodie.md)
+
 <p><span class="chinese">股票行情暴跌。</span><span class="english">The stock market crashed.</span></p>
 
 <p><span class="chinese">股票市场暴跌。</span><span class="english">The stock market has nosedived.</span></p>

@@ -1,5 +1,7 @@
 # quayside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quayside.md)
+
 <p><span class="chinese">岸边集装箱起重机是起重机的一种。</span><span class="english">Quayside container crane is a crane.</span></p>
 
 <p><span class="chinese">在比迪福德，码头周围全部被淹没。</span><span class="english">In Bideford, the quayside has completely flooded.</span></p>

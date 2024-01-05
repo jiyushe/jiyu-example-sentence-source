@@ -1,5 +1,7 @@
 # shortsighted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shortsighted.md)
+
 <p><span class="chinese">他们更加短视。</span><span class="english">They are more shortsighted.</span></p>
 
 <p><span class="chinese">这样的心态源于缺乏远见的恐惧。</span><span class="english">That mentality is born of shortsighted fear.</span></p>

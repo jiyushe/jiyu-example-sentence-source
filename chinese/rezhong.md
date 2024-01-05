@@ -1,5 +1,7 @@
 # 热中
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rezhong.md)
+
 <p><span class="chinese">他热中于爵士乐。</span><span class="english">He is hipped on jazz.</span></p>
 
 <p><span class="chinese">他热中于他的新立体音响。</span><span class="english">He flipped over his new stereo.</span></p>

@@ -1,5 +1,7 @@
 # colourless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colourless.md)
+
 <p><span class="chinese">纯空气是无色无臭的。</span><span class="english">Pure air is colourless and odourless.</span></p>
 
 <p><span class="chinese">二氧化硫是一种无色气体，带有刺鼻的气味。</span><span class="english">SO2 is a colourless gas with a sharp odour.</span></p>

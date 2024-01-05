@@ -1,5 +1,7 @@
 # 因小失大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinxiaoshida.md)
+
 <p><span class="chinese">有些人可能会说他是因小失大。</span><span class="english">Some might say he is penny wise and pound foolish.</span></p>
 
 <p><span class="chinese">我们不能因小失大。</span><span class="english">We can't risk big things for the sake of small ones.</span></p>

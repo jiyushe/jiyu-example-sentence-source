@@ -1,5 +1,7 @@
 # stipe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stipe.md)
+
 <p><span class="chinese">半个世纪前，我们失去了加缪却得到了斯蒂普。</span><span class="english">A half-century ago we lost Camus and gained Stipe.</span></p>
 
 <p><span class="chinese">带有光亮叶柄的一种北美蕨类。</span><span class="english">North american fern with a blackish lustrous stipe.</span></p>

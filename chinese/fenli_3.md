@@ -1,5 +1,7 @@
 # 分立
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenli_3.md)
+
 <p><span class="chinese">为什麽我们要有三权分立的政府？</span><span class="english">Why do we have three branches of government?</span></p>
 
 <p><span class="chinese">这一方法也适用于其它分立元件的励磁调节装置。</span><span class="english">This method can be applied to other ones as well.</span></p>

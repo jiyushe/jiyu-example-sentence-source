@@ -1,5 +1,7 @@
 # 灭火器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miehuoqi.md)
+
 <p><span class="chinese">灭火器在哪里？</span><span class="english">Where is a fire extinguisher?</span></p>
 
 <p><span class="chinese">买一个灭火器放到室外。</span><span class="english">Buy a fire extinguisher to keep outside.</span></p>

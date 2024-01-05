@@ -1,5 +1,7 @@
 # floriculture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/floriculture.md)
+
 <p><span class="chinese">我希望空闲时种种花。</span><span class="english">I hope to take up floriculture with my leisure.</span></p>
 
 <p><span class="chinese">本发明属于花卉栽培方法领域。</span><span class="english">The invention belongs to the field of floriculture methods.</span></p>

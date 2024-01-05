@@ -1,5 +1,7 @@
 # 暖水瓶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nuanshuiping.md)
+
 <p><span class="chinese">我可以借用你的暖水瓶吗?。</span><span class="english">Can I borrow your thermos?</span></p>
 
 <p><span class="chinese">我可以看看那个暖水瓶吗?。</span><span class="english">May I see that thermos bottle?</span></p>

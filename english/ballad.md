@@ -1,5 +1,7 @@
 # ballad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ballad.md)
+
 <p><span class="chinese">当我第一次向你唱出我的歌谣。</span><span class="english">When I first sing my ballad for you.</span></p>
 
 <p><span class="chinese">这是张敬轩写的一首很优美动听的歌曲。</span><span class="english">A beautiful ballad written by Hins Cheung.</span></p>

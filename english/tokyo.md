@@ -1,5 +1,7 @@
 # tokyo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tokyo.md)
+
 <p><span class="chinese">东京塔。</span><span class="english">Tokyo Tower.</span></p>
 
 <p><span class="chinese">罗兰·博克东京报道。</span><span class="english">Roland Buerk in Tokyo.</span></p>

@@ -1,5 +1,7 @@
 # 凸镜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tujing.md)
+
 <p><span class="chinese">在走廊交叉口设置凸镜。</span><span class="english">Place curved mirrors at hallway intersections or concealed areas.</span></p>
 
 <p><span class="chinese">正如我们所见，被切割成凸镜状蓝宝石会在阳光直射下呈现出一个六角星。</span><span class="english">As seen here, some sapphires, when cut to a convex shape, exhibit a striking six-pointed star in direct sunlight.</span></p>

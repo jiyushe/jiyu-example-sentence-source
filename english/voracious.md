@@ -1,5 +1,7 @@
 # voracious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/voracious.md)
+
 <p><span class="chinese">游完泳后，我发现我的食欲大增。</span><span class="english">After swimming, I find that I have a voracious appetite.</span></p>
 
 <p><span class="chinese">他们那种贪婪的消费必须止步了。</span><span class="english">They must take a break from their voracious consumption.</span></p>

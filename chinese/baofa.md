@@ -1,5 +1,7 @@
 # 暴发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baofa.md)
+
 <p><span class="chinese">这里是抗日战争暴发的地方。</span><span class="english">It is where Fighting Japaness War brouk out.</span></p>
 
 <p><span class="chinese">没有关于家猫暴发疫情的报告。</span><span class="english">No outbreaks in domestic cats have been reported.</span></p>

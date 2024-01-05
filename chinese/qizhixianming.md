@@ -1,5 +1,7 @@
 # 旗帜鲜明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qizhixianming.md)
+
 <p><span class="chinese">我们旗帜鲜明地反对贸易保护义。</span><span class="english">We are crystal clear in our stance against trade protectionism.</span></p>
 
 <p><span class="chinese">我们必须坚持真理，而真理必须旗帜鲜明。</span><span class="english">We must firmly uphold truth and truth requires a clear-cut stand.</span></p>

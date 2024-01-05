@@ -1,5 +1,7 @@
 # 不堪设想
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bukanshexiang.md)
+
 <p><span class="chinese">因缺爱而死，那是不堪设想的。</span><span class="english">To die for lack of love is horrible.</span></p>
 
 <p><span class="chinese">没有经验的生活是不堪设想的。</span><span class="english">We cannot imagine having no experience.</span></p>

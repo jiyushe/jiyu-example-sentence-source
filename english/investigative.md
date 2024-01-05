@@ -1,5 +1,7 @@
 # investigative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/investigative.md)
+
 <p><span class="chinese">陈燕喆并非一位深入调查的记走。</span><span class="english">Chen is not an investigative journalist.</span></p>
 
 <p><span class="chinese">我同意去会见研究申报者。</span><span class="english">I agreed to meet with the investigative reporter.</span></p>

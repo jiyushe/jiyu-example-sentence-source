@@ -1,5 +1,7 @@
 # interfacial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interfacial.md)
+
 <p><span class="chinese">超细水泥是一种很好的界面剂原材料。</span><span class="english">Superfine cement suits were used as the interfacial agents.</span></p>
 
 <p><span class="chinese">结果表明弱界面粘结的存在使复合材料宏观性能下降。</span><span class="english">A weak interfacial bonding reduces the elastic modulus of MMCs.</span></p>

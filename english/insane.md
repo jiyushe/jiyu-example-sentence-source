@@ -1,5 +1,7 @@
 # insane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insane.md)
+
 <p><span class="chinese">好一个痴癫的穴居男人。</span><span class="english">An insane cave man.</span></p>
 
 <p><span class="chinese">真是疯狂的一天！</span><span class="english">What an insane day!</span></p>

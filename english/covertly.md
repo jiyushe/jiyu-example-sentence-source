@@ -1,5 +1,7 @@
 # covertly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/covertly.md)
+
 <p><span class="chinese">他偷偷地拿掉了粘在我衣摆上的口香糖。</span><span class="english">He covertly removed the chewing gum from my hem.</span></p>
 
 <p><span class="chinese">而刘炜庭院里的布置，却也抑扬顿挫，暗合音律。</span><span class="english">Liu Wei courtyards and layout, but also voice, though covertly.</span></p>

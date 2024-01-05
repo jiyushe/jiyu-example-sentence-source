@@ -1,5 +1,7 @@
 # procrastinate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/procrastinate.md)
+
 <p><span class="chinese">不要拖延时间。</span><span class="english">Do not procrastinate.</span></p>
 
 <p><span class="chinese">拖延你的目标。</span><span class="english">Procrastinate on your goals.</span></p>

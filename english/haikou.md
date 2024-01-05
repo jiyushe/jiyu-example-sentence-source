@@ -1,5 +1,7 @@
 # haikou
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haikou.md)
+
 <p><span class="chinese">我住在海心。</span><span class="english">I reside in Haikou.</span></p>
 
 <p><span class="chinese">海口骑楼老街包括水巷口。</span><span class="english">Haikou arcaded streets, including water alley.</span></p>

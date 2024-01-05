@@ -1,5 +1,7 @@
 # 登记
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dengji.md)
+
 <p><span class="chinese">登记功能。</span><span class="english">Enrollment functions.</span></p>
 
 <p><span class="chinese">在那儿办理登记手续？</span><span class="english">Where can I check in ?</span></p>

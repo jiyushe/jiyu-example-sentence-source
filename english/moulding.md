@@ -1,5 +1,7 @@
 # moulding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moulding.md)
+
 <p><span class="chinese">于是强大的一方获胜，温和的一方克制退让。</span><span class="english">So the strong will prevailed, subduing and moulding the gentler.</span></p>
 
 <p><span class="chinese">家庭在塑造孩子的性格方面起着重要作用。</span><span class="english">Families play an important role in moulding children’s character.</span></p>

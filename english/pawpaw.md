@@ -1,5 +1,7 @@
 # pawpaw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pawpaw.md)
+
 <p><span class="chinese">我学到了很多的工作，与本食谱木瓜。</span><span class="english">I learned a lot about pawpaw by working with this recipe.</span></p>
 
 <p><span class="chinese">这个木瓜三分之一用来做菜，其余的都是你的啦。</span><span class="english">One third of the pawpaw is for the dish, the remainder is for you.</span></p>

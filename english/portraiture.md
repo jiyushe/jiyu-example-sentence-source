@@ -1,5 +1,7 @@
 # portraiture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/portraiture.md)
+
 <p><span class="chinese">我请人给自己画张肖像。</span><span class="english">I am going to have my portraiture taken.</span></p>
 
 <p><span class="chinese">水下摄影是一项令人难以捉摸的工作。</span><span class="english">Underwater portraiture is a tricky endeavor.</span></p>

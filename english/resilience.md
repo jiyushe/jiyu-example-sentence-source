@@ -1,5 +1,7 @@
 # resilience
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resilience.md)
+
 <p><span class="chinese">什么是情感顺应性？</span><span class="english">What Is Emotional Resilience?</span></p>
 
 <p><span class="chinese">韧性仍然在PVE中有效。</span><span class="english">Resilience still works in PvE.</span></p>

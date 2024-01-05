@@ -1,5 +1,7 @@
 # 狼狗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/langgou.md)
+
 <p><span class="chinese">巴延是条灰色的狼狗，很高大，一蹦就能跳过桌子。</span><span class="english">He could jump over the table with a single bound.</span></p>
 
 <p><span class="chinese">那是一只很大的灰色狼狗。</span><span class="english">It was a big gray animal, half dog and half wolf.</span></p>

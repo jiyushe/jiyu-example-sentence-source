@@ -1,5 +1,7 @@
 # 只顾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhigu.md)
+
 <p><span class="chinese">只顾仰头望燕飞。</span><span class="english">Only at swallow does rear its head.</span></p>
 
 <p><span class="chinese">在危难的时刻人人都只顾自己。</span><span class="english">Each one for himself in times of peril.</span></p>

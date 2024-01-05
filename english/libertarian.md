@@ -1,5 +1,7 @@
 # libertarian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/libertarian.md)
+
 <p><span class="chinese">我们在那儿创建一个自由主义阵营。</span><span class="english">We'll create a libertarian corner over here.</span></p>
 
 <p><span class="chinese">他也是美国的自由主义卡托研究所研究员。</span><span class="english">He's also a fellow at the libertarian Cato Institute.</span></p>

@@ -1,5 +1,7 @@
 # 奋发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenfa_1.md)
+
 <p><span class="chinese">王奋发见母亲发了火，便喝水。</span><span class="english">Wang Fenfa saw his mother angry and drink water.</span></p>
 
 <p><span class="chinese">并以软硬兼施的办法，奋发努力，确保同行业中的领先地位。</span><span class="english">We work hard to hold the sate lead in the same trade.</span></p>

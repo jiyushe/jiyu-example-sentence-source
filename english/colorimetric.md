@@ -1,5 +1,7 @@
 # colorimetric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colorimetric.md)
+
 <p><span class="chinese">选用乙酰丙酮比色法直接测定。</span><span class="english">Direct acetylacetone colorimetric method was used.</span></p>
 
 <p><span class="chinese">严重干扰后续比色测定。</span><span class="english">This disturbs the sequent colorimetric determination seriously.</span></p>

@@ -1,5 +1,7 @@
 # affected
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affected.md)
+
 <p><span class="chinese">它影响了我。</span><span class="english">It affected me.</span></p>
 
 <p><span class="chinese">有什么影响</span><span class="english">What's being affected here?</span></p>

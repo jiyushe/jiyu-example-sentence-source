@@ -1,5 +1,7 @@
 # 铁笔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiebi.md)
+
 <p><span class="chinese">他用铁笔把设计图刻在蜡纸上。</span><span class="english">He drew the design on the stencil with a steel stylus.</span></p>
 
 <p><span class="chinese">用铁笔镌刻，用铅灌在磐石上，直存到永远。</span><span class="english">That they were graven with an iron pen and lead in the rock for ever!</span></p>

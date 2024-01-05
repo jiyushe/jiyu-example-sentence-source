@@ -1,5 +1,7 @@
 # blanche
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blanche.md)
+
 <p><span class="chinese">如果我有自由处理权，我不会滥用。</span><span class="english">I'll not abuse it if I am given carte blanche.</span></p>
 
 <p><span class="chinese">简心里很难过，以为他要娶布兰奇?英格兰姆。</span><span class="english">Jane, miserable, assumes he intends Co marry Blanche Ingram.</span></p>

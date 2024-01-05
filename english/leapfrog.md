@@ -1,5 +1,7 @@
 # leapfrog
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leapfrog.md)
+
 <p><span class="chinese">就象跳背游戏中互相跳过。</span><span class="english">To jump over in or as if in leapfrog.</span></p>
 
 <p><span class="chinese">专家预计，中国将很快再次超越日本。</span><span class="english">Experts predict China will soon leapfrog Japan again.</span></p>

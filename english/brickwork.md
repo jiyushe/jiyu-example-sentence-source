@@ -1,5 +1,7 @@
 # brickwork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brickwork.md)
+
 <p><span class="chinese">砌砖工程在几天之内就完成了。</span><span class="english">The brickwork was cast up in a few days.</span></p>
 
 <p><span class="chinese">这所房子的砖造部分需要修理。</span><span class="english">The brickwork in this house is in need of repair.</span></p>

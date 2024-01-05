@@ -1,5 +1,7 @@
 # hale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hale.md)
+
 <p><span class="chinese">爷爷真是老当益壮。</span><span class="english">Grandpa is old but hale.</span></p>
 
 <p><span class="chinese">黑尔医生在医院里等待出诊。</span><span class="english">Dr. Hale is on call at the hospital.</span></p>

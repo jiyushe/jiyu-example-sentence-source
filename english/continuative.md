@@ -1,5 +1,7 @@
 # continuative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/continuative.md)
+
 <p><span class="chinese">城市连续性设计是现代城市设计的一个新课题。</span><span class="english">Urban continuative design is a new topic in mod-ern urban design.</span></p>
 
 <p><span class="chinese">根据油田井下作业的实际需要，研制了一种油管长度在线连续测量仪。</span><span class="english">According to the practical requirement, a continuative tubing length measuring device is developed.</span></p>

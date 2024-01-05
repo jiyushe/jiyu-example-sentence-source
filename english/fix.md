@@ -1,5 +1,7 @@
 # fix
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fix.md)
+
 <p><span class="chinese">补妆？</span><span class="english">Fix your makeup?</span></p>
 
 <p><span class="chinese">所以让我们来修改一下。</span><span class="english">So let's fix it.</span></p>

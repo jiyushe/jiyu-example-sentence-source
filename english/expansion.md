@@ -1,5 +1,7 @@
 # expansion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expansion.md)
+
 <p><span class="chinese">机动化扩张。</span><span class="english">Motorization expansion.</span></p>
 
 <p><span class="chinese">回想一下焦耳膨胀。</span><span class="english">Remember the Joule expansion.</span></p>

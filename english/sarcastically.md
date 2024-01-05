@@ -1,5 +1,7 @@
 # sarcastically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sarcastically.md)
+
 <p><span class="chinese">席德讽刺地问道。</span><span class="english">Sid asked sarcastically.</span></p>
 
 <p><span class="chinese">安娜贝利挖苦地说，“请你过来一下。”</span><span class="english">Annabel said sarcastically. “Please come.”</span></p>

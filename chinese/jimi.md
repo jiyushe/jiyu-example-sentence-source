@@ -1,5 +1,7 @@
 # 机密
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jimi.md)
+
 <p><span class="chinese">创建客户机密钥库。</span><span class="english">Create client keystore.</span></p>
 
 <p><span class="chinese">这是高度机密的。</span><span class="english">Itwas highly confidential.</span></p>

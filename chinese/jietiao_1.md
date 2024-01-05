@@ -1,5 +1,7 @@
 # 解调
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jietiao_1.md)
+
 <p><span class="chinese">什么是解调？</span><span class="english">What is demodulates?</span></p>
 
 <p><span class="chinese">一种调制解调设备。</span><span class="english">A modulation and demodulation device.</span></p>

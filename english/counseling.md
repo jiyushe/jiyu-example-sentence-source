@@ -1,5 +1,7 @@
 # counseling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/counseling.md)
+
 <p><span class="chinese">我们全家都去做了心理咨询。</span><span class="english">We all went to counseling.</span></p>
 
 <p><span class="chinese">心理咨询就是出租你的耳朵。</span><span class="english">Counseling is to lend your ears.</span></p>

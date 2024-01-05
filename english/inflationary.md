@@ -1,5 +1,7 @@
 # inflationary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inflationary.md)
+
 <p><span class="chinese">在某种程度上，目前是通货膨胀时期。</span><span class="english">At some point in time this is inflationary.</span></p>
 
 <p><span class="chinese">而且，这么做还会造成通涨压力。</span><span class="english">They also argue that it might create inflationary pressures.</span></p>

@@ -1,5 +1,7 @@
 # sommelier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sommelier.md)
+
 <p><span class="chinese">作为一名葡萄酒爱好者，你是否也梦想着自己有一天能成为一名侍酒师？</span><span class="english">As a wine lover, have you ever dreamed of being a sommelier?</span></p>
 
 <p><span class="chinese">这个应用程序也有我调酒师的声音。</span><span class="english">The app has also made me something of a sommelier of sounds.</span></p>

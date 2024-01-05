@@ -1,5 +1,7 @@
 # patron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patron.md)
+
 <p><span class="chinese">哦，黎明之神，请将守护神解雇了吧！</span><span class="english">Oh Aurora, lay off the Patron.</span></p>
 
 <p><span class="chinese">有子爵赞助您。</span><span class="english">With the Vicomte as your patron.</span></p>

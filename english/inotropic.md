@@ -1,5 +1,7 @@
 # inotropic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inotropic.md)
+
 <p><span class="chinese">地高辛具有正性变力和负性变时作用。</span><span class="english">Digoxin has positive inotropic and negative chronotropic activity.</span></p>
 
 <p><span class="chinese">两组患者应用血管活性药没有明显差异。</span><span class="english">And there is no difference in using inotropic drugs after operation.</span></p>

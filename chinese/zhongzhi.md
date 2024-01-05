@@ -1,5 +1,7 @@
 # 中指
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongzhi.md)
+
 <p><span class="chinese">在CIFS协议中指一个子文件。</span><span class="english">A subfile in the CIFS protocol.</span></p>
 
 <p><span class="chinese">中指和姆指。</span><span class="english">Middle finger exactly and your thumb.</span></p>

@@ -1,5 +1,7 @@
 # counterproposal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/counterproposal.md)
+
 <p><span class="chinese">你能考虑接管咱们的案吗?。</span><span class="english">Could you consider epting our counterproposal?</span></p>
 
 <p><span class="chinese">你能攷虑接受我们的反对案吗？</span><span class="english">Could you think accepting our counterproposal?</span></p>

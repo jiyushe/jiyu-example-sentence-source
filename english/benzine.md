@@ -1,5 +1,7 @@
 # benzine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benzine.md)
+
 <p><span class="chinese">汽油与油消耗量都达到标准。</span><span class="english">Benzine and oily wastage up to mark.</span></p>
 
 <p><span class="chinese">切勿使用强烈的溶剂如酒精、汽油等清洁。</span><span class="english">Do not use strong solvents such as alcohol, benzine or thinner.</span></p>

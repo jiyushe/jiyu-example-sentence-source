@@ -1,5 +1,7 @@
 # rennin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rennin.md)
+
 <p><span class="chinese">您能否展望这种肾素抑制剂的未来应用前景？</span><span class="english">Would you like to outlook the direct rennin inhibition in the future?</span></p>
 
 <p><span class="chinese">肾组织肾素活性在3个观察组间差异无显著性。</span><span class="english">The renal rennin activity showed no significant difference among 3 groups.</span></p>

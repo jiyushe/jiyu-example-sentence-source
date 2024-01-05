@@ -1,5 +1,7 @@
 # lark
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lark.md)
+
 <p><span class="chinese">鸽子对百灵鸟说。</span><span class="english">He said to the lark.</span></p>
 
 <p><span class="chinese">百灵歌声无人比。</span><span class="english">Singing by the lark.</span></p>

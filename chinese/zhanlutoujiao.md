@@ -1,5 +1,7 @@
 # 崭露头角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanlutoujiao.md)
+
 <p><span class="chinese">科斯特纳的机器也终于得到了崭露头角的机会。</span><span class="english">And Costner's machines finally got a look.</span></p>
 
 <p><span class="chinese">您有什么忠告给崭露头角的程序员？</span><span class="english">Do you have any advice for up-and-coming programmers?</span></p>

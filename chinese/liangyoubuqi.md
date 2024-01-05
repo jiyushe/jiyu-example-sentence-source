@@ -1,5 +1,7 @@
 # 良莠不齐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangyoubuqi.md)
+
 <p><span class="chinese">英国今天数据良莠不齐。</span><span class="english">The UK data was mixed today.</span></p>
 
 <p><span class="chinese">美国经济数据相对良莠不齐。</span><span class="english">Economic data released out of the US was relatively mixed.</span></p>

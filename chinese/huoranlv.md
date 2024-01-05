@@ -1,5 +1,7 @@
 # 或然率
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoranlv.md)
+
 <p><span class="chinese">准确的计算出或然率。</span><span class="english">I don't know how to calculate probability accurately.</span></p>
 
 <p><span class="chinese">一个理由是或然率蒙蔽了他们的视线。</span><span class="english">One reason is that probabilism blinkered their vision.</span></p>

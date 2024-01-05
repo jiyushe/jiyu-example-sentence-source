@@ -1,5 +1,7 @@
 # substantive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/substantive.md)
+
 <p><span class="chinese">有几个真才实学的专家？</span><span class="english">There are several substantive experts?</span></p>
 
 <p><span class="chinese">几乎没得出什么实质性的结论“</span><span class="english">Few substantive conclusions were reached."</span></p>

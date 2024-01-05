@@ -1,5 +1,7 @@
 # consolidation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consolidation.md)
+
 <p><span class="chinese">合并或单一访问点。</span><span class="english">Consolidation or single-point of access.</span></p>
 
 <p><span class="chinese">结节状气腔实变病灶2例。</span><span class="english">Nodular consolidation was found in 2 cases.</span></p>

@@ -1,5 +1,7 @@
 # 投钱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touqian.md)
+
 <p><span class="chinese">然后你投钱进去，他们就移动。</span><span class="english">and you put money in and they move.</span></p>
 
 <p><span class="chinese">那么我为什么要在市场跌跌不休时往里投钱呢？</span><span class="english">So why am I buying when the market is plunging?</span></p>

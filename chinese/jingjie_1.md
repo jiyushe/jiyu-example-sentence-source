@@ -1,5 +1,7 @@
 # 警戒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingjie_1.md)
+
 <p><span class="chinese">警戒森严。</span><span class="english">The caution is stern.</span></p>
 
 <p><span class="chinese">我喜欢玩红色警戒。</span><span class="english">I prefer to play Red Alert.</span></p>

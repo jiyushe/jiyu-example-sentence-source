@@ -1,5 +1,7 @@
 # critique
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/critique.md)
+
 <p><span class="chinese">谢谢王韬的批评指正。</span><span class="english">Thanks to Tao Wang for the critique.</span></p>
 
 <p><span class="chinese">它不仅是结构主义的评判。</span><span class="english">It's not just a critique of structuralism.</span></p>

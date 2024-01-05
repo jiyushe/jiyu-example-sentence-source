@@ -1,5 +1,7 @@
 # 约稿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuegao.md)
+
 <p><span class="chinese">林志，我昨晚收到约稿涵了。</span><span class="english">Last night, I LinZhi culvert manuscripts received.</span></p>
 
 <p><span class="chinese">当布达佩斯的一位教材出版商来向教授约稿时，教授很是吃惊。</span><span class="english">The professor was startled that a Budapest textbook publisher was coming to him.</span></p>

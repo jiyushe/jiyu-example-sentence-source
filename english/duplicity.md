@@ -1,5 +1,7 @@
 # duplicity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duplicity.md)
+
 <p><span class="chinese">另一家报纸指责他口是心非。</span><span class="english">Another accused him of his duplicity.</span></p>
 
 <p><span class="chinese">但她无法一直口是心非地装下去。</span><span class="english">But she could not keep up the duplicity.</span></p>

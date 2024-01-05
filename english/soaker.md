@@ -1,5 +1,7 @@
 # soaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soaker.md)
+
 <p><span class="chinese">雨下透了。</span><span class="english">It was a real good soaker.</span></p>
 
 <p><span class="chinese">使用渗水管可以很好地达到目的。</span><span class="english">Soaker hoses are excellent for achieving this.</span></p>

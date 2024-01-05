@@ -1,5 +1,7 @@
 # 意味深长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiweishenchang.md)
+
 <p><span class="chinese">他意味深长地看着我。</span><span class="english">He looked at me with meaning.</span></p>
 
 <p><span class="chinese">他意味深长地举起了他的手。</span><span class="english">He raised his hands expressively.</span></p>

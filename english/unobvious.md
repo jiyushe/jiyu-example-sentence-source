@@ -1,5 +1,7 @@
 # unobvious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unobvious.md)
+
 <p><span class="chinese">回馈对使用者态度影响不明显。</span><span class="english">The effect of feedback on user's attitude was unobvious.</span></p>
 
 <p><span class="chinese">吸收剂流量对CO2吸收过程没有明显的影响。</span><span class="english">Effect of absorbent flow rate on CO2 absorption is unobvious.</span></p>

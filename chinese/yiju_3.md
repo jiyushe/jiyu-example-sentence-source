@@ -1,5 +1,7 @@
 # 疑惧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiju_3.md)
+
 <p><span class="chinese">他因对宗教的疑惧而十分烦恼。</span><span class="english">He was troubled by religious doubt.</span></p>
 
 <p><span class="chinese">他在国王的傲慢面前心存疑惧。</span><span class="english">His mind boggles at the king's arrogance.</span></p>

@@ -1,5 +1,7 @@
 # madrigal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/madrigal.md)
+
 <p><span class="chinese">我必须承认那兹就我的抒情短诗你。</span><span class="english">I had to acknowledge that you 're my madrigal.</span></p>
 
 <p><span class="chinese">他写的情歌仍然还在被人们传唱。</span><span class="english">The madrigal he wrote are still Sung by people.</span></p>

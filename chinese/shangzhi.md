@@ -1,5 +1,7 @@
 # 上肢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangzhi.md)
+
 <p><span class="chinese">上肢与身体的关系就像树枝和树的关系。</span><span class="english">Arms are to the body what branches are toa tree.</span></p>
 
 <p><span class="chinese">前肢，上肢动物前部的附肢，如前腿、前翅、前鳍等。</span><span class="english">An anterior appendage, such as a leg, wing, or flipper.</span></p>

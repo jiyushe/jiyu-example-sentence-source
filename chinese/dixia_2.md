@@ -1,5 +1,7 @@
 # 地峡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dixia_2.md)
+
 <p><span class="chinese">这个陆地的狭窄地带，我们称之为巴拿马地峡。</span><span class="english">It was the neck of land which we call the Isthmus of Panama.</span></p>
 
 <p><span class="chinese">现在与未来的大陆在南北分立中间则有着地峡。</span><span class="english">The present and future continents north and south, with the isthmus.</span></p>

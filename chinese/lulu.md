@@ -1,5 +1,7 @@
 # 辘轳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lulu.md)
+
 <p><span class="chinese">他的自行车用辘轳挂在床顶的天花板下。</span><span class="english">Over the bed, hoisted by a tackle to the ceiling, was his bicycle.</span></p>
 
 <p><span class="chinese">不知道打何时起，故乡那眼辘轳水井换成了“蜗杆”水井。</span><span class="english">Do not know to when, the home of eye wheel well into the " worm" wells.</span></p>

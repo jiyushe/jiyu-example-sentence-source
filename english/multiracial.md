@@ -1,5 +1,7 @@
 # multiracial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multiracial.md)
+
 <p><span class="chinese">此外，南斯拉夫曾是一个多民族统一的国家，民族问题很是复杂。</span><span class="english">Moreover, Yugoslavia was a unified multiracial country, with complex ethnic problems.</span></p>
 
 <p><span class="chinese">母亲是美籍意大利人，父亲则是非洲裔美国人和印第安人的混血儿。</span><span class="english">Douglass's mother is Italian-American, and her father is a multiracial blend of African American and Native American.</span></p>

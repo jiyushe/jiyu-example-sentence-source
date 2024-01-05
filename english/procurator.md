@@ -1,5 +1,7 @@
 # procurator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/procurator.md)
+
 <p><span class="chinese">大儿是律师，以前是检察官。</span><span class="english">Old son is lawyer, was a public procurator.</span></p>
 
 <p><span class="chinese">证据由地方检察官提出。</span><span class="english">Evidence is adduced by the procurator fiscal.</span></p>

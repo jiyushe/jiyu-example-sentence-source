@@ -1,5 +1,7 @@
 # spook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spook.md)
+
 <p><span class="chinese">像你这样的人吓唬不了我。</span><span class="english">Someone like you won't spook me.</span></p>
 
 <p><span class="chinese">如果有必要，我可以代你写封信的。</span><span class="english">I can spook a letter for you, if necessary.</span></p>

@@ -1,5 +1,7 @@
 # 兢兢业业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingjingyeye.md)
+
 <p><span class="chinese">他对所有工作都兢兢业业。</span><span class="english">He shows great assiduity in all his work.</span></p>
 
 <p><span class="chinese">弗莱彻的风格也是类似，踢得兢兢业业。</span><span class="english">Fletcher is a similarly conscientious character.</span></p>

@@ -1,5 +1,7 @@
 # 差役
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaiyi.md)
+
 <p><span class="chinese">差役回答说，从来没有像他这样说话的。</span><span class="english">The officers answered, Never man spake like this man.</span></p>
 
 <p><span class="chinese">撒旦和他的差役能以吸引人的方式，并装做美善的形像来欺骗我们。</span><span class="english">Satan and his servants can deceive us by appearing attractive, good, and moral.</span></p>

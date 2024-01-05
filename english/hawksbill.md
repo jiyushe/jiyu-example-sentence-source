@@ -1,5 +1,7 @@
 # hawksbill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hawksbill.md)
+
 <p><span class="chinese">而全球气候变化又是玳瑁海龟生存的另一个威胁。</span><span class="english">A further threat to the hawksbill turtle is global climate change.</span></p>
 
 <p><span class="chinese">一只玳瑁龟鳍足像翅膀伸展在海底畅游。</span><span class="english">A hawksbill turtle swims just above the seafloor with flippers spread like wings.</span></p>

@@ -1,5 +1,7 @@
 # fellow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fellow.md)
+
 <p><span class="chinese">他是个贼头贼脑的家伙。</span><span class="english">He is a shifty fellow.</span></p>
 
 <p><span class="chinese">他是个稳重的人。</span><span class="english">He is a steady fellow.</span></p>

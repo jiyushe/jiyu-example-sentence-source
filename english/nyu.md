@@ -1,5 +1,7 @@
 # nyu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nyu.md)
+
 <p><span class="chinese">你觉得纽约大学怎么样？</span><span class="english">What do you think about NYU?</span></p>
 
 <p><span class="chinese">所以，在纽约大学，对我而言，感觉更像住在城市里，</span><span class="english">So NYU just feels like living in the city to me,</span></p>

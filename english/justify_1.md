@@ -1,5 +1,7 @@
 # justify 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/justify_1.md)
+
 <p><span class="chinese">她仍会替他开脱罪责。</span><span class="english">She would still justify him.</span></p>
 
 <p><span class="chinese">辩护和证明决策。</span><span class="english">Defend and justify decisions.</span></p>

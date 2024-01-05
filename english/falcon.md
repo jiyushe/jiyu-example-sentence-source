@@ -1,5 +1,7 @@
 # falcon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/falcon.md)
+
 <p><span class="chinese">这就是哈萨克族的鹰猎。</span><span class="english">This is a Kazak falcon.</span></p>
 
 <p><span class="chinese">飞机被洪都命名被称为“猎鹰”。</span><span class="english">The aircraft was named by Hongdu as "Falcon".</span></p>

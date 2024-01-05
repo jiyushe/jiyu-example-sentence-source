@@ -1,5 +1,7 @@
 # 核计
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heji_2.md)
+
 <p><span class="chinese">我们要核计之后才能决定。</span><span class="english">We'll make a decision after calculating.</span></p>
 
 <p><span class="chinese">文章同时指责美国将平壤核计化作为借口，孤立朝鲜。</span><span class="english">The article also accused the US of using the Pyongyang nuclear program as a pretext to isolate the DPRK.</span></p>

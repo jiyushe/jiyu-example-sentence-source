@@ -1,5 +1,7 @@
 # rfa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rfa.md)
+
 <p><span class="chinese">那个RFA根本就是对中国FDA报告的曲解。</span><span class="english">That RFA story is a distortion of the China FDA report.</span></p>
 
 <p><span class="chinese">经皮射频消融术在肝脏肿瘤的治疗中占有重要的位置，是一种安全有效的治疗方法。</span><span class="english">The RFA is an effective and safe method in the treatment of liver tumor.</span></p>

@@ -1,5 +1,7 @@
 # decontaminate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decontaminate.md)
+
 <p><span class="chinese">芽胞很难被常用的消毒方法杀灭。</span><span class="english">Spores are difficult to decontaminate with standard disinfectants.</span></p>
 
 <p><span class="chinese">还能净化水中的污染物减缓洪水的冲击等等。</span><span class="english">It also helps decontaminate water resources and reduce the impact of floods.</span></p>

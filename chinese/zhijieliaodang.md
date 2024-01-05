@@ -1,5 +1,7 @@
 # 直截了当
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhijieliaodang.md)
+
 <p><span class="chinese">他母亲直截了当地拒绝了他。</span><span class="english">His mother refused point-blank.</span></p>
 
 <p><span class="chinese">她直截了当的拒绝了这个提议。</span><span class="english">She refused the offer point-blank.</span></p>

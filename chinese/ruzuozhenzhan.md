@@ -1,5 +1,7 @@
 # 如坐针毡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruzuozhenzhan.md)
+
 <p><span class="chinese">他如坐针毡。</span><span class="english">He is on pins and needles.</span></p>
 
 <p><span class="chinese">沃森太太如坐针毡。</span><span class="english">Mrs. Watson sat on pins and needles.</span></p>

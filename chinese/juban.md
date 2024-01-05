@@ -1,5 +1,7 @@
 # 举办
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juban.md)
+
 <p><span class="chinese">他将举办一个生日舞会。</span><span class="english">He will have a birthday party.</span></p>
 
 <p><span class="chinese">要参加公司逢年过节举办的餐会。</span><span class="english">Go to the company holiday party.</span></p>

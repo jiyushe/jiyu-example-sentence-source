@@ -1,5 +1,7 @@
 # 横笛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hengdi.md)
+
 <p><span class="chinese">或是横笛小小的声名。</span><span class="english">Or a fife's small fame.</span></p>
 
 <p><span class="chinese">你正在吹横笛。</span><span class="english">You are playing the flute.</span></p>

@@ -1,5 +1,7 @@
 # 故道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gudao_2.md)
+
 <p><span class="chinese">黄河故道一带也是发病率较高的地区。</span><span class="english">Also the incidence in the former Yellow River vally was high.</span></p>
 
 <p><span class="chinese">河流的故道已经被填平，修成公路了。</span><span class="english">The old river course has been filled up and remade into a driveway.</span></p>

@@ -1,5 +1,7 @@
 # 铸造
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuzao_1.md)
+
 <p><span class="chinese">不可为自己铸造神像。</span><span class="english">Do not make cast idols.</span></p>
 
 <p><span class="chinese">造币厂正在铸造每枚价值一便士的硬币。</span><span class="english">The mint is coining pennies.</span></p>

@@ -1,5 +1,7 @@
 # 掉以轻心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diaoyiqingxin.md)
+
 <p><span class="chinese">对于物价，我们不敢掉以轻心。</span><span class="english">We must not take this issue lightly.</span></p>
 
 <p><span class="chinese">而这个步骤切不可掉以轻心。</span><span class="english">And this step should not be viewed lightly!</span></p>

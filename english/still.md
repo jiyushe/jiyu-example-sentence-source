@@ -1,5 +1,7 @@
 # still 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/still.md)
+
 <p><span class="chinese">但是x的值是多少呢？还是。</span><span class="english">It's still 3.</span></p>
 
 <p><span class="chinese">我还在看着他。</span><span class="english">I still see him.</span></p>

@@ -1,5 +1,7 @@
 # 蒜薹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suantai.md)
+
 <p><span class="chinese">最终我还是得到了蒜薹。</span><span class="english">Finally, I got ten garlic stems.</span></p>
 
 <p><span class="chinese">这些家伙给了我蒜薹。</span><span class="english">These guys gave me garlic stems.</span></p>

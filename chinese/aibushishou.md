@@ -1,5 +1,7 @@
 # 爱不释手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aibushishou.md)
+
 <p><span class="chinese">捧读它吧，我敢打赌你一定会爱不释手。</span><span class="english">Read it, I know you will love it.</span></p>
 
 <p><span class="chinese">他对自己的新收音机爱不释手。</span><span class="english">He was enthusing about his new radio.</span></p>

@@ -1,5 +1,7 @@
 # 摇摇欲坠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoyaoyuzhui.md)
+
 <p><span class="chinese">然而，日本的报业却在摇摇欲坠。</span><span class="english">Yet the giants are teetering.</span></p>
 
 <p><span class="chinese">目前我们都在支撑摇摇欲坠的经济。</span><span class="english">The villagers shored up sagging huts.</span></p>

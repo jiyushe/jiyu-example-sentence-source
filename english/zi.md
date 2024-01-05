@@ -1,5 +1,7 @@
 # zi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zi.md)
+
 <p><span class="chinese">子产笑了，“这里我说了算。</span><span class="english">Zi Chan smiled, "I am the boss here.</span></p>
 
 <p><span class="chinese">子产笑了，“这里我说了算。</span><span class="english">Zi Chan smiled, "I am the boss here."</span></p>

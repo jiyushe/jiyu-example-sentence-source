@@ -1,5 +1,7 @@
 # 总裁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongcai.md)
+
 <p><span class="chinese">这是约翰生先生，我们的总裁。</span><span class="english">This is Mr. Johnson, our MD.</span></p>
 
 <p><span class="chinese">我认为我们需要一位新总裁。</span><span class="english">I think we need a new president.</span></p>

@@ -1,5 +1,7 @@
 # 密码
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mima.md)
+
 <p><span class="chinese">是涂鸦还是达芬奇密码？</span><span class="english">Doodler or da Vinci?</span></p>
 
 <p><span class="chinese">密码保留空白。</span><span class="english">Leave the password blank.</span></p>

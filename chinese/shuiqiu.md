@@ -1,5 +1,7 @@
 # 水球
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiqiu.md)
+
 <p><span class="chinese">足球还是水球？</span><span class="english">Football or polo?</span></p>
 
 <p><span class="chinese">不过这将消耗一个水球。</span><span class="english">This expends one water globe.</span></p>

@@ -1,5 +1,7 @@
 # 东北
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongbei.md)
+
 <p><span class="chinese">我就来自东北地区。</span><span class="english">It's where I'm from.</span></p>
 
 <p><span class="chinese">威斯康辛和东北大学也很不错。</span><span class="english">Wisconsin, Northeastern.</span></p>

@@ -1,5 +1,7 @@
 # 试样
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyang_2.md)
+
 <p><span class="chinese">请拿一个试样给我看看。</span><span class="english">Show me a sample, please.</span></p>
 
 <p><span class="chinese">试样不允许有任何皱折与变形。</span><span class="english">The specimen don't allow folds and deformity on it.</span></p>

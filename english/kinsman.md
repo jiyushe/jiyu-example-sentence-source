@@ -1,5 +1,7 @@
 # kinsman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kinsman.md)
+
 <p><span class="chinese">你涂了口红吗兄弟?。</span><span class="english">Are you wearing lipstick, kinsman?</span></p>
 
 <p><span class="chinese">帕里斯，年轻的伯爵，大公的亲戚。</span><span class="english">Paris, a young Count, kinsman to the Prince.</span></p>

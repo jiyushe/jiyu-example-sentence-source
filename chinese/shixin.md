@@ -1,5 +1,7 @@
 # 失信
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shixin.md)
+
 <p><span class="chinese">但是人类失信了。</span><span class="english">Somehow, humans are dishonest.</span></p>
 
 <p><span class="chinese">他永远不会改变，也不会失信。</span><span class="english">He never changes and he never fails.</span></p>

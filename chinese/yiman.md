@@ -1,5 +1,7 @@
 # 溢满
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiman.md)
+
 <p><span class="chinese">奈提莉的眼里溢满泪水。</span><span class="english">Neytiri's eyes brim with tears.</span></p>
 
 <p><span class="chinese">那座阳光溢满的城。</span><span class="english">The sunshine is full of the city.</span></p>

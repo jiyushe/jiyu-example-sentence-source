@@ -1,5 +1,7 @@
 # sketchpad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sketchpad.md)
+
 <p><span class="chinese">几何画板的应用案例。</span><span class="english">Application of Geometer's Sketchpad.</span></p>
 
 <p><span class="chinese">他在速写簿上画出了男孩头像素描。</span><span class="english">He sketched a boy's head on the sketchpad.</span></p>

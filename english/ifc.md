@@ -1,5 +1,7 @@
 # ifc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ifc.md)
+
 <p><span class="chinese">我想他们和我一样也为能来到北京师范大学珠海分校，来到国际金融学院感到幸运。</span><span class="english">I think they feel as lucky to be here at BNU and in the IFC as I do!</span></p>
 
 <p><span class="chinese">上海国金中心商场将云集世界著名品牌。</span><span class="english">Shanghai IFC Mall will offer a selection of international retailers.</span></p>

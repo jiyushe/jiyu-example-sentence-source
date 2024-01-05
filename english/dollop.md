@@ -1,5 +1,7 @@
 # dollop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dollop.md)
+
 <p><span class="chinese">一团一团均匀地挤在上面。</span><span class="english">I just sorta dollop it evenly on the top.</span></p>
 
 <p><span class="chinese">她在每个碗里放了一团冰淇淋。</span><span class="english">She put a dollop if ice-cream in each bowl.</span></p>

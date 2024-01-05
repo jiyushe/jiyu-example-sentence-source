@@ -1,5 +1,7 @@
 # henpecked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/henpecked.md)
+
 <p><span class="chinese">他是一个粗暴而惧内的男人。</span><span class="english">He is a man rude but henpecked.</span></p>
 
 <p><span class="chinese">他是个典型的“妻管严”。</span><span class="english">He is a typical henpecked husband.</span></p>

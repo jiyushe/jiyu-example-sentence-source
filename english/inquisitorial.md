@@ -1,5 +1,7 @@
 # inquisitorial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inquisitorial.md)
+
 <p><span class="chinese">英格兰诉讼本质上是调查审问式的。</span><span class="english">An English information was inquisitorial in nature.</span></p>
 
 <p><span class="chinese">——跟被派去蒙太罗调查的特使的态度的不耐烦形成共鸣。</span><span class="english">echoes the same impatience as that of the inquisitorial emissaries in Montaillou.</span></p>

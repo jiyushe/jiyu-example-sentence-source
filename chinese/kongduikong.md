@@ -1,5 +1,7 @@
 # 空对空
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongduikong.md)
+
 <p><span class="chinese">同时它也改进空对空和空对地能力。</span><span class="english">It also allows simultaneous air-to-air and air-to-ground capabilities.</span></p>
 
 <p><span class="chinese">两三年后在1983年，发射了响尾蛇空对空导弹。</span><span class="english">A couple of years later, in 1983, it blastedsome Sidewinder air-to-air missiles.</span></p>

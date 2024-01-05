@@ -1,5 +1,7 @@
 # chiropractic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chiropractic.md)
+
 <p><span class="chinese">脊柱按摩疗法会有些帮助。</span><span class="english">Chiropractic will help a little.</span></p>
 
 <p><span class="chinese">脊神经疗法对身体的益处与瑜伽相似。</span><span class="english">The physical benefits of chiropractic are similar to those of yoga.</span></p>

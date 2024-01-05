@@ -1,5 +1,7 @@
 # 好听
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haoting.md)
+
 <p><span class="chinese">苏非音乐好听吗？</span><span class="english">Sufi music good?</span></p>
 
 <p><span class="chinese">这首抒情诗唱起好听。</span><span class="english">This lyric sings well.</span></p>

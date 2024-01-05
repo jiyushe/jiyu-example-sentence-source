@@ -1,5 +1,7 @@
 # 有根有据
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yougenyouju.md)
+
 <p><span class="chinese">她的恐惧是有根有据的。</span><span class="english">Her fear is well-founded.</span></p>
 
 <p><span class="chinese">对于有根有据的批评，我们必须乐意作出改变。</span><span class="english">We must respond to well-founded criticism with a willingness to change.</span></p>

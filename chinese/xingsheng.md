@@ -1,5 +1,7 @@
 # 兴盛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingsheng.md)
+
 <p><span class="chinese">正义使国家兴盛。</span><span class="english">Righteousness exalteth a nation.</span></p>
 
 <p><span class="chinese">他出生于和平的兴盛时期。</span><span class="english">He was born in the palmy days of peace.</span></p>

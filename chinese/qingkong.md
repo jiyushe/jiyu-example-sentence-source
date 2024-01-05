@@ -1,5 +1,7 @@
 # 晴空
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingkong.md)
+
 <p><span class="chinese">晴空啊，妳的回答是甚麽话语呢？</span><span class="english">What language is tht answer, O Sky?</span></p>
 
 <p><span class="chinese">东方发白，晴空万里无云。</span><span class="english">The day dawned with a cloudless sky.</span></p>

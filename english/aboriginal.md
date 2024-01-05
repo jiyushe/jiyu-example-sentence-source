@@ -1,5 +1,7 @@
 # aboriginal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aboriginal.md)
+
 <p><span class="chinese">谁是加拿大的土箸？</span><span class="english">Who are the Aboriginal peoples in Canada?</span></p>
 
 <p><span class="chinese">阿依努人是日本土著人。</span><span class="english">The Ainus are the aboriginal people of Japan.</span></p>

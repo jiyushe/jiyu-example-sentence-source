@@ -1,5 +1,7 @@
 # 扬弃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangqi_1.md)
+
 <p><span class="chinese">我要扬弃那命定不祥的界线。</span><span class="english">I'll sublate that predestined, ominous borderline.</span></p>
 
 <p><span class="chinese">我要扬弃那命定不祥的界线。</span><span class="english">I want to sublate that predestined, ominous borderline.</span></p>

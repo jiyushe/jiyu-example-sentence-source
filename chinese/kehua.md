@@ -1,5 +1,7 @@
 # 刻划
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kehua.md)
+
 <p><span class="chinese">你如何刻划领导层的类型？</span><span class="english">How do you characterize the leadership style?</span></p>
 
 <p><span class="chinese">伟大的诗人在刻划自我时，描绘了他的时代。</span><span class="english">The great poet, in writing himself writes his time.</span></p>

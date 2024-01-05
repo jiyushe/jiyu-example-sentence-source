@@ -1,5 +1,7 @@
 # huanghe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/huanghe.md)
+
 <p><span class="chinese">黄河卡车是在济南制造的。</span><span class="english">Huanghe truck is made in Jinan.</span></p>
 
 <p><span class="chinese">百川灌河。</span><span class="english">All streams flow into the Huanghe River.</span></p>

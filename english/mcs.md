@@ -1,5 +1,7 @@
 # mcs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mcs.md)
+
 <p><span class="chinese">终端、网关和网守中可以包含MC也可以不含。</span><span class="english">Terminals, gateways, and gatekeepers may or may not con tain MCs.</span></p>
 
 <p><span class="chinese">所以，对于时变可靠度问题，蒙地卡罗模拟是不实际的。</span><span class="english">So it is impractical to solve time-variant reliability problems by MCS.</span></p>

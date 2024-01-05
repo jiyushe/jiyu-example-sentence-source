@@ -1,5 +1,7 @@
 # 相与
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangyu_1.md)
+
 <p><span class="chinese">六角非反相与集电极开路输出缓冲区。</span><span class="english">Hex non-inverted buffer with open-collector outputs.</span></p>
 
 <p><span class="chinese">这个老人极难相与。</span><span class="english">The old man was extremely difficult to get along with.</span></p>

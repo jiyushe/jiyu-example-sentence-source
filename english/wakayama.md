@@ -1,5 +1,7 @@
 # wakayama
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wakayama.md)
+
 <p><span class="chinese">这是和歌山医科大学的网站。</span><span class="english">This is the website of The Wakayama Medical University.</span></p>
 
 <p><span class="chinese">和歌山西部地区在海啸警报后要求2万户居民撤离。</span><span class="english">The western prefecture of Wakayama ordered20, 000 people to evacuate after further tsunami warnings.</span></p>

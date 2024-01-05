@@ -1,5 +1,7 @@
 # 原本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanben.md)
+
 <p><span class="chinese">原本的氛围已无迹可寻。</span><span class="english">All form of aura is absent.</span></p>
 
 <p><span class="chinese">我原本是从得克萨斯来的</span><span class="english">I'm originally from Texas and</span></p>

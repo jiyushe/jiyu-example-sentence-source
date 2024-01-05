@@ -1,5 +1,7 @@
 # overtake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overtake.md)
+
 <p><span class="chinese">在转弯处千万不要超车!</span><span class="english">Never overtake on a curve.</span></p>
 
 <p><span class="chinese">下定决心去超越自我！</span><span class="english">Decide to Overtake Yourself!</span></p>

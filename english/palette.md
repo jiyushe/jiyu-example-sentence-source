@@ -1,5 +1,7 @@
 # palette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palette.md)
+
 <p><span class="chinese">将你的调色盘涂成蓝色和灰色。</span><span class="english">Paint your palette blue and grey.</span></p>
 
 <p><span class="chinese">给你的画板抹上蓝灰的油彩。</span><span class="english">paint your palette blue and grey.</span></p>

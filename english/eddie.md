@@ -1,5 +1,7 @@
 # eddie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eddie.md)
+
 <p><span class="chinese">爱迪浑身一颤。</span><span class="english">Eddie felt a shiver.</span></p>
 
 <p><span class="chinese">把包带着，埃迪。</span><span class="english">Take the bag, Eddie.</span></p>

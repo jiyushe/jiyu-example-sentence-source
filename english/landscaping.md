@@ -1,5 +1,7 @@
 # landscaping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/landscaping.md)
+
 <p><span class="chinese">砖入境通道重音在葱郁的园林绿化。</span><span class="english">Brick entry walkway accented by lush landscaping.</span></p>
 
 <p><span class="chinese">你能为这项造景工程估个价吗？</span><span class="english">Could you give me an estimate on this landscaping job?</span></p>

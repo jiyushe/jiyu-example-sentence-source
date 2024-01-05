@@ -1,5 +1,7 @@
 # 择要
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zeyao.md)
+
 <p><span class="chinese">标题为“仓促答辩状的择要”。</span><span class="english">the heading is "headline of headlong pleadings".</span></p>
 
 <p><span class="chinese">择要」21世纪是信息技能的时期。</span><span class="english">The 21st century is an era of information technology.</span></p>

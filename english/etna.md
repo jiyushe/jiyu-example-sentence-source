@@ -1,5 +1,7 @@
 # etna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/etna.md)
+
 <p><span class="chinese">熔岩从一个新坑洞内喷出。特纳火山锥在意大利西西里。</span><span class="english">Lava spews from a new cone on Mount Etna in Sicily, Italy.</span></p>
 
 <p><span class="chinese">熔岩从意大利西西里岛的埃特纳火山新的圆锥孔中喷出。</span><span class="english">Lava spews from a new cone on Mount Etna in Sicily, Italy.</span></p>

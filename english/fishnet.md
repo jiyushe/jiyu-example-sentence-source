@@ -1,5 +1,7 @@
 # fishnet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fishnet.md)
+
 <p><span class="chinese">我们的鱼网是新的。</span><span class="english">Our fishnet is still new.</span></p>
 
 <p><span class="chinese">有一次老头儿向大海撒下鱼网。</span><span class="english">Once the old man to the sea and fishnet.</span></p>

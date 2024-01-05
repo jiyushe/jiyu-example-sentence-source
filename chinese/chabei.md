@@ -1,5 +1,7 @@
 # 茶杯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chabei.md)
+
 <p><span class="chinese">茶杯把儿！</span><span class="english">Cup handles!</span></p>
 
 <p><span class="chinese">那两个茶杯？</span><span class="english">Those two cups?</span></p>

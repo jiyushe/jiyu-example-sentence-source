@@ -1,5 +1,7 @@
 # les
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/les.md)
+
 <p><span class="chinese">这是一张荣军院入口的照片。</span><span class="english">The entrance to Les Invalides.</span></p>
 
 <p><span class="chinese">请不要使用闪光灯。</span><span class="english">Les agradeceriamos no usar flash.</span></p>

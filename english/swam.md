@@ -1,5 +1,7 @@
 # swam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swam.md)
+
 <p><span class="chinese">我们游泳，晒太阳。</span><span class="english">We swam and sunned.</span></p>
 
 <p><span class="chinese">我游得非常放松。</span><span class="english">I swam very relaxed.</span></p>

@@ -1,5 +1,7 @@
 # 窥望
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuiwang.md)
+
 <p><span class="chinese">这个队伍至少为我们提供了一扇窥望北韩的窗户，虽然小的可怜。</span><span class="english">The team provides a rare window into its country.</span></p>
 
 <p><span class="chinese">她躲在窗帘后面窥望陌生人。</span><span class="english">She peered at the stranger from behind the curtain.</span></p>

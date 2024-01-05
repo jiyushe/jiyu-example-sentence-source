@@ -1,5 +1,7 @@
 # 散场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanchang.md)
+
 <p><span class="chinese">苔丝心想，这场完了就该散场了。</span><span class="english">This surely would end it, thought Tess.</span></p>
 
 <p><span class="chinese">青春终将散场，唯独记忆永垂不朽。</span><span class="english">Youth will break, but memory lasts forever.</span></p>

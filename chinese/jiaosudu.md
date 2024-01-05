@@ -1,5 +1,7 @@
 # 角速度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaosudu.md)
+
 <p><span class="chinese">不要把它，和角速度混淆。</span><span class="english">Don't confuse it with angular velocity.</span></p>
 
 <p><span class="chinese">它有个明显的角速度。</span><span class="english">So it has a phenomenal angular velocity.</span></p>

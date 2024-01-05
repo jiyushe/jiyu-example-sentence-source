@@ -1,5 +1,7 @@
 # mesozoic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mesozoic.md)
+
 <p><span class="chinese">中生代的陆地被恐龙统治着。</span><span class="english">THE Mesozoic land was dominated by dinosaurs.</span></p>
 
 <p><span class="chinese">哺乳类起源于中生代宛若原始的爬虫类。</span><span class="english">Mammals arose from a fairly primitive reptile in the Mesozoic era.</span></p>

@@ -1,5 +1,7 @@
 # hype
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hype.md)
+
 <p><span class="chinese">因此为什么还都要炒作？</span><span class="english">So why all the hype?</span></p>
 
 <p><span class="chinese">其他一切都是浮云。</span><span class="english">Everything else is just hype.</span></p>

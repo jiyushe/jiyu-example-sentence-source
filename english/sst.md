@@ -1,5 +1,7 @@
 # sst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sst.md)
+
 <p><span class="chinese">还可以请你澄清如何丝芙兰网站内SST的标识？</span><span class="english">Also can you please clarify how Sephora sites are identified within SST?</span></p>
 
 <p><span class="chinese">云量方案的改进没有带来海温的一致改进。</span><span class="english">Modification of cloud cover scheme doesn't bring consistent improvement on SST.</span></p>

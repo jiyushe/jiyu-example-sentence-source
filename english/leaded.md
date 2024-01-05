@@ -1,5 +1,7 @@
 # leaded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leaded.md)
+
 <p><span class="chinese">画马路划线会用到加铅油漆。</span><span class="english">Leaded paint is used to paint roadways.</span></p>
 
 <p><span class="chinese">约有20个国家仍在使用含铅汽油。</span><span class="english">About 20 countries still use leaded gasoline.</span></p>

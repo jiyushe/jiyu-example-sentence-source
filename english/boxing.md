@@ -1,5 +1,7 @@
 # boxing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boxing.md)
+
 <p><span class="chinese">你会打拳吗?。</span><span class="english">Know Boxing?</span></p>
 
 <p><span class="chinese">什么叫装箱?</span><span class="english">What is boxing?</span></p>

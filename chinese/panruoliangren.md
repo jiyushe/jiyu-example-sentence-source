@@ -1,5 +1,7 @@
 # 判若两人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/panruoliangren.md)
+
 <p><span class="chinese">和以前谁人我们所认识的文质彬彬的女孩相比，她已是判若两人。</span><span class="english">She was a far cry from the elegant girl we used to know.</span></p>
 
 <p><span class="chinese">和以前那个我们所认识的文质彬彬的女孩相比，她已是判若两人。</span><span class="english">She was a far cry from the elegant girl we used to know.</span></p>

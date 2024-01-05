@@ -1,5 +1,7 @@
 # 学以致用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueyizhiyong.md)
+
 <p><span class="chinese">你能学以致用吗？</span><span class="english">Can you apply your skill purposefully ?</span></p>
 
 <p><span class="chinese">迂腐之士讥笑学以致用的教育。</span><span class="english">Pedants sneer at an education which is useful.</span></p>

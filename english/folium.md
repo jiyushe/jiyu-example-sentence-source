@@ -1,5 +1,7 @@
 # folium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/folium.md)
+
 <p><span class="chinese">目的对荷叶药材的质量标准进行了初步研究。</span><span class="english">Objective To study the quality standard of Folium Nelumbinis.</span></p>
 
 <p><span class="chinese">结论连翘叶提取物有较好的抑菌作用。</span><span class="english">Conclusion Folium Forsythias anti-bacteria effect has been comfirmed.</span></p>

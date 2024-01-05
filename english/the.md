@@ -1,5 +1,7 @@
 # the 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/the.md)
+
 <p><span class="chinese">关键在哪里？</span><span class="english">The key?</span></p>
 
 <p><span class="chinese">该大学。</span><span class="english">The Univ.</span></p>

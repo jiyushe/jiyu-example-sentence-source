@@ -1,5 +1,7 @@
 # weakling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weakling.md)
+
 <p><span class="chinese">你是一个可怜的弱者。</span><span class="english">You are a miserable weakling.</span></p>
 
 <p><span class="chinese">阿尔及利亚省长卓脱尔是个懦弱者。</span><span class="english">The governor in Algeria, Chatel, was a weakling.</span></p>

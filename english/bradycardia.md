@@ -1,5 +1,7 @@
 # bradycardia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bradycardia.md)
+
 <p><span class="chinese">唯派尔如何修复心动过缓?。</span><span class="english">How does V-Power improve bradycardia?</span></p>
 
 <p><span class="chinese">当心脏跳动太慢，它被称为心搏过缓。</span><span class="english">When the heart beats too slowly, it is called bradycardia.</span></p>

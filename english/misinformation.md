@@ -1,5 +1,7 @@
 # misinformation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misinformation.md)
+
 <p><span class="chinese">传奇，还是讹传？</span><span class="english">Legend or Misinformation?</span></p>
 
 <p><span class="chinese">不过来自伊朗内部的消息称此事并不属实。</span><span class="english">But sources inside Iran say that this is misinformation.</span></p>

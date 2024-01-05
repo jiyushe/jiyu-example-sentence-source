@@ -1,5 +1,7 @@
 # 新生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinsheng_1.md)
+
 <p><span class="chinese">没有新生请。</span><span class="english">No freshers please.</span></p>
 
 <p><span class="chinese">新生周？什麽是新生周？</span><span class="english">Freshers Week? What is it?</span></p>

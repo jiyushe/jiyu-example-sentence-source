@@ -1,5 +1,7 @@
 # apprehensive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apprehensive.md)
+
 <p><span class="chinese">起初，我什么也听不懂，有点担心。</span><span class="english">At first, not knowing anything, I was apprehensive.</span></p>
 
 <p><span class="chinese">两个可疑的方面分辨受到猜忌。</span><span class="english">Two apprehensive aspects are doubtable appropriately.</span></p>

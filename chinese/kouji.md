@@ -1,5 +1,7 @@
 # 叩击
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kouji.md)
+
 <p><span class="chinese">叩击肩胛部和两侧上背部。</span><span class="english">Percuss shoulders and upper back on both sides.</span></p>
 
 <p><span class="chinese">轻轻叩击萤幕上的一张图片，就会看到一些事情发生。</span><span class="english">Tap a picture on the screen and something happens.</span></p>

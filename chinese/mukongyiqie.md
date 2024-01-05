@@ -1,5 +1,7 @@
 # 目空一切
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mukongyiqie.md)
+
 <p><span class="chinese">这种目空一切的态度在温州很常见。</span><span class="english">Such brashness is typical in Wenzhou.</span></p>
 
 <p><span class="chinese">医生是目空一切过于自信的人。</span><span class="english">Dr. A is the man with supercilious overconfidence.</span></p>

@@ -1,5 +1,7 @@
 # 女贞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nvzhen.md)
+
 <p><span class="chinese">你们就叫我贞女贞德吧。</span><span class="english">Call me Joan the Maid.</span></p>
 
 <p><span class="chinese">圣女贞德是法国最伟大的女性之一。</span><span class="english">Joan of Arc was one of France's greatest daughters.</span></p>

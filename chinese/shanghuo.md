@@ -1,5 +1,7 @@
 # 上火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanghuo.md)
+
 <p><span class="chinese">如果你上火了，请喝王老吉！</span><span class="english">If you lit up, drink Wanglaoji!</span></p>
 
 <p><span class="chinese">穿的多不多，会不会上火了？</span><span class="english">Wearing not much more, will be lit it?</span></p>

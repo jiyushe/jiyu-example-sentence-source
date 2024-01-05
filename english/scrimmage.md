@@ -1,5 +1,7 @@
 # scrimmage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scrimmage.md)
+
 <p><span class="chinese">这是人民内部的小矛盾。</span><span class="english">This is an intramural scrimmage.</span></p>
 
 <p><span class="chinese">奔跑的队员在争球线附近被擒住。</span><span class="english">The runner was tackled at the line of scrimmage.</span></p>

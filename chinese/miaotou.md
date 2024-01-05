@@ -1,5 +1,7 @@
 # 苗头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miaotou.md)
+
 <p><span class="chinese">但木材之争刚刚平息下来，油轮对抗又冒出了苗头。</span><span class="english">Just as the timber war wound down, the tanker war began.</span></p>
 
 <p><span class="chinese">尽管为时还早，但那些看出左倾苗头的人也不无理由。</span><span class="english">It is early days, but those who see a leftward tilt have a case.</span></p>

@@ -1,5 +1,7 @@
 # 眼花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanhua_2.md)
+
 <p><span class="chinese">她看起来有点眼花。</span><span class="english">She looked a little dazed.</span></p>
 
 <p><span class="chinese">我已经觉得乐陶陶眼花潦乱了，可是我很喜欢呢！</span><span class="english">I feel giddy already, and I like it.</span></p>

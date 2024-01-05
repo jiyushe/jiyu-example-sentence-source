@@ -1,5 +1,7 @@
 # 伪作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weizuo.md)
+
 <p><span class="chinese">现在，数字成像技术开始能够发现如何辨认伪作了。</span><span class="english">Now digital imaging is starting to figure out how to spot art forgeries , too.</span></p>
 
 <p><span class="chinese">其写作日期已无可考，可能是柏拉图对话录的伪作。</span><span class="english">The date of its writing is uncertain, and it may be a spurious Platonic dialogue.</span></p>

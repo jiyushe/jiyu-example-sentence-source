@@ -1,5 +1,7 @@
 # sedulous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sedulous.md)
+
 <p><span class="chinese">等到播的时候，大家都聚精会神的收听。</span><span class="english">When when sowing, everybody is sedulous listen.</span></p>
 
 <p><span class="chinese">所以神韵诗中的＂神韵＂是馆阁心理的一种刻意掩饰。</span><span class="english">So the verve in his poems is a sedulous mask of curule psychology.</span></p>

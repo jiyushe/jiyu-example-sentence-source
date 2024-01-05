@@ -1,5 +1,7 @@
 # clarion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clarion.md)
+
 <p><span class="chinese">随着一声号角，光亮再现。</span><span class="english">As a clarion sounding light returns.</span></p>
 
 <p><span class="chinese">音频系统供应嘹亮。</span><span class="english">The audio system was supplied by Clarion.</span></p>

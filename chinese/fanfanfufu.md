@@ -1,5 +1,7 @@
 # 反反复复
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanfanfufu.md)
+
 <p><span class="chinese">她可能一会儿的工夫就反反复复唠叨好几遍，但她记起来了。</span><span class="english">But she remembers.</span></p>
 
 <p><span class="chinese">这样反反复复，又过了几年。</span><span class="english">Lather, rinse and repeat for several years.</span></p>

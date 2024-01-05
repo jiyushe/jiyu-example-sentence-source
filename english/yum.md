@@ -1,5 +1,7 @@
 # yum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yum.md)
+
 <p><span class="chinese">在大雄殿左边的观音殿。</span><span class="english">On one side of Main Hall is Kwun Yum Hall.</span></p>
 
 <p><span class="chinese">百胜餐饮集团还拥有其他食品相关公司,像塔可钟快餐店</span><span class="english">Yum Brands owns other food-related chains like Taco Bell.</span></p>

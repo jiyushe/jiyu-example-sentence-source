@@ -1,5 +1,7 @@
 # 食肉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shirou.md)
+
 <p><span class="chinese">他是食肉动物。</span><span class="english">He is. He’s a meat-eater.</span></p>
 
 <p><span class="chinese">这是因为食肉动物的肉很臭。</span><span class="english">It is because their meat stinks.</span></p>

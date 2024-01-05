@@ -1,5 +1,7 @@
 # 南瓜子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanguazi.md)
+
 <p><span class="chinese">松子和南瓜子都是性增效剂。</span><span class="english">Both pine nuts and pumpkin seeds are sexual adjuvants.</span></p>
 
 <p><span class="chinese">它们连半块西瓜皮或是南瓜子儿都不给我留点。</span><span class="english">They didn't even leave me the watermelon rind or pumpkin seeds.</span></p>

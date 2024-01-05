@@ -1,5 +1,7 @@
 # acknowledgment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acknowledgment.md)
+
 <p><span class="chinese">然后我打开大门，把“承认”当成一块肉扔了出去。</span><span class="english">I open the gate, throw out the Acknowledgment Meat.</span></p>
 
 <p><span class="chinese">他写信来对我的礼物表示感谢。</span><span class="english">He wrote the letter in acknowledgment of my present.</span></p>

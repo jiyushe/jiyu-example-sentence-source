@@ -1,5 +1,7 @@
 # paragraph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paragraph.md)
+
 <p><span class="chinese">是某个分数段的。</span><span class="english">Is a fraction of the paragraph.</span></p>
 
 <p><span class="chinese">我该怎么安排这个自然段？</span><span class="english">How can I arrange the paragraph?</span></p>

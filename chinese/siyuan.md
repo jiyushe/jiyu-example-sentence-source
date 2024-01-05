@@ -1,5 +1,7 @@
 # 寺院
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siyuan.md)
+
 <p><span class="chinese">菩提是寺院里神圣的钟声么？</span><span class="english">Bodhi temple is a sacred bell you?</span></p>
 
 <p><span class="chinese">可是一个好的印度教徒是要去寺院的，金妮。</span><span class="english">But Ginnie, good Hindus go to the temple.</span></p>

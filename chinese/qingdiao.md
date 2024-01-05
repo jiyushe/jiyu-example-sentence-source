@@ -1,5 +1,7 @@
 # 情调
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingdiao.md)
+
 <p><span class="chinese">杜甫亦具有闲逸情调。</span><span class="english">Du also possesses leisure sentimentalism.</span></p>
 
 <p><span class="chinese">没有，我从未去有异国情调的地方度过假。</span><span class="english">No, I have never vacationed anywhere exotic.</span></p>

@@ -1,5 +1,7 @@
 # 试管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiguan_5.md)
+
 <p><span class="chinese">小鸟还是像在试管里的样子。</span><span class="english">It remains tube-shaped.</span></p>
 
 <p><span class="chinese">这是一根低压条件下的试管。</span><span class="english">And this was a tube at low pressure.</span></p>

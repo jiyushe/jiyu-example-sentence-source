@@ -1,5 +1,7 @@
 # equability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equability.md)
+
 <p><span class="chinese">中国公司方面，摩托罗拉的手机业务高管并无变动。</span><span class="english">Chinese company side, the mobile phone business of Motolora is in charge of high and equability.</span></p>
 
 <p><span class="chinese">改善了以原材料为导向的设计，通过提高无故障生产率极大地体现了经济的重要性。</span><span class="english">The product equability is to be improved and an increased efficiency of machines and fiber feed systems is to be achieved.</span></p>

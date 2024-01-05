@@ -1,5 +1,7 @@
 # subversion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subversion.md)
+
 <p><span class="chinese">你所得到的只有颠覆和反动。</span><span class="english">What you get is subversion and reaction.</span></p>
 
 <p><span class="chinese">该网站对茅先生发起了控告，控告其犯有颠覆罪和诽谤罪。</span><span class="english">Utopia accuses Mr Mao of subversion and libel.</span></p>

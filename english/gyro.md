@@ -1,5 +1,7 @@
 # gyro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gyro.md)
+
 <p><span class="chinese">玩具陀螺。</span><span class="english">Toy gyro.</span></p>
 
 <p><span class="chinese">这是我的陀螺。</span><span class="english">This is my toy gyro.</span></p>

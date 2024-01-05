@@ -1,5 +1,7 @@
 # excessive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excessive.md)
+
 <p><span class="chinese">那么说似乎有些过分了。</span><span class="english">That may seem excessive.</span></p>
 
 <p><span class="chinese">粗纱捻度过大。</span><span class="english">Excessive twist in roving.</span></p>

@@ -1,5 +1,7 @@
 # 县令
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianling_2.md)
+
 <p><span class="chinese">潘是一个县的县令。</span><span class="english">Pan was a county magistrate.</span></p>
 
 <p><span class="chinese">县令长与地方王侯的关系很微妙。</span><span class="english">The relation between the heads and the local lieges was subtle.</span></p>

@@ -1,5 +1,7 @@
 # insured
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insured.md)
+
 <p><span class="chinese">您要保价吗？</span><span class="english">Do you want it insured?</span></p>
 
 <p><span class="chinese">他给自己保了人寿险。</span><span class="english">He was insured against death.</span></p>

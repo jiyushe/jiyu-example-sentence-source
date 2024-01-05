@@ -1,5 +1,7 @@
 # 自古
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zigu.md)
+
 <p><span class="chinese">中华民族历来爱好和平，自古就有和为贵、亲仁善邻的传统。</span><span class="english">The Chinese people love peace.</span></p>
 
 <p><span class="chinese">代表荣耀，荣誉与利益自古难两全。</span><span class="english">Honor and profit lie not in one sack.</span></p>

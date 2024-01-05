@@ -1,5 +1,7 @@
 # misinterpret
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misinterpret.md)
+
 <p><span class="chinese">但是发展中国家今天不应该误读历史。</span><span class="english">Developing countries today should not misinterpret history, however.</span></p>
 
 <p><span class="chinese">然而，我们的政策制订者会错读新闻，并复制一九三七年的错误吗？</span><span class="english">But will policy makers misinterpret the news and repeat the mistakes of 1937?</span></p>

@@ -1,5 +1,7 @@
 # 手笔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoubi.md)
+
 <p><span class="chinese">这封信是他的手笔。</span><span class="english">The letter is in his own handwriting.</span></p>
 
 <p><span class="chinese">这些画出自同一个画家的手笔。</span><span class="english">These pictures are from the same painter's brush.</span></p>

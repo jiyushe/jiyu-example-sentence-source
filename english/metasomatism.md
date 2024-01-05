@@ -1,5 +1,7 @@
 # metasomatism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metasomatism.md)
+
 <p><span class="chinese">流体和熔体均为地幔交代作用的介质。</span><span class="english">Fluids and melts are all the metasomatic agents for mantle metasomatism.</span></p>
 
 <p><span class="chinese">地幔流体的碱交代作用形成大型—超大型中高温热液矿床。</span><span class="english">The alkali metasomatism of mantle fluids forms large scale mesothermal deposit.</span></p>

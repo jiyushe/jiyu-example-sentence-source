@@ -1,5 +1,7 @@
 # 全体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanti.md)
+
 <p><span class="chinese">全体船员弃船逃生。</span><span class="english">The whole crew deserted.</span></p>
 
 <p><span class="chinese">这是一次全体会议。</span><span class="english">It's an all-hands meeting.</span></p>

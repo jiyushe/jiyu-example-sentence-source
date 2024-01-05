@@ -1,5 +1,7 @@
 # farthing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/farthing.md)
+
 <p><span class="chinese">我毫不在乎。</span><span class="english">Not a brass farthing.</span></p>
 
 <p><span class="chinese">不需要的东西，再便宜也贵。</span><span class="english">What is not needed is dear at a farthing.</span></p>

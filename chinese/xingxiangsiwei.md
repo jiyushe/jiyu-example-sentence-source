@@ -1,5 +1,7 @@
 # 形象思维
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingxiangsiwei.md)
+
 <p><span class="chinese">数学直感是形象思维的基本形式。</span><span class="english">The straight sense of mathematics is a basic form of the thinking in image.</span></p>
 
 <p><span class="chinese">第三章语文阅读教学与形象思维。</span><span class="english">The third chapter is about Chinese reading teaching and imaginative thinking.</span></p>

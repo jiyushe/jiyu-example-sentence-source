@@ -1,5 +1,7 @@
 # portability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/portability.md)
+
 <p><span class="chinese">什么是框架便携性呢？</span><span class="english">What is "skeleton portability"?</span></p>
 
 <p><span class="chinese">数据可移植性是真正存在问题的地方。</span><span class="english">Data portability is where you can have real issues.</span></p>

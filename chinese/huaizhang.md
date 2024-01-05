@@ -1,5 +1,7 @@
 # 坏账
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huaizhang.md)
+
 <p><span class="chinese">这家公司被坏账所压倒。</span><span class="english">The company was drowned in bad debts.</span></p>
 
 <p><span class="chinese">他们发放的大量贷款变为坏账</span><span class="english">They ran with a lot of loans that turned out bad.</span></p>

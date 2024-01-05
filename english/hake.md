@@ -1,5 +1,7 @@
 # hake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hake.md)
+
 <p><span class="chinese">分辨鳕鱼和黑线鳕则需要大约10个SNP，鲱鱼大约需要30个。</span><span class="english">Cod and hake each require about ten SNPs, while herring require about 30.</span></p>
 
 <p><span class="chinese">主要捕捞种类属鳕科、无须鳕科和长尾鳕科。</span><span class="english">The main types of fishing are cod Branch, hake Branch and Elliot cod Branch.</span></p>

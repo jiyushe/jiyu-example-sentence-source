@@ -1,5 +1,7 @@
 # 药草
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaocao.md)
+
 <p><span class="chinese">鼠尾草、薄荷均为药草。</span><span class="english">Sage and mint are herbs.</span></p>
 
 <p><span class="chinese">妮莎买了哪几种药草?。</span><span class="english">What kind herbs did Nisha buy?</span></p>

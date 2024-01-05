@@ -1,5 +1,7 @@
 # hackle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hackle.md)
+
 <p><span class="chinese">其次，梳理了以市民社会为逻辑起点的文化领导权理论。</span><span class="english">Secondly, I hackle the culture hegemony theory that is based logically on citizen society.</span></p>
 
 <p><span class="chinese">就好像学武功的人，一开始挥剑乱砍的确能吓到人，但终归是要失败告终的。</span><span class="english">Like to learn martial arts, initially makes a hackle can scare people, but was bound to fail.</span></p>

@@ -1,5 +1,7 @@
 # tactility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tactility.md)
+
 <p><span class="chinese">触感轻柔顺畅，不油腻，易于涂抹。</span><span class="english">Smooth tactility gentleness, not greasy, easy to blot out.</span></p>
 
 <p><span class="chinese">作品在结构、一致性、颜色和触感上表现了对比。</span><span class="english">The work plays on contrasts in structure, consistency, colour and tactility.</span></p>

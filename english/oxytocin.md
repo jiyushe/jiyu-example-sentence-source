@@ -1,5 +1,7 @@
 # oxytocin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oxytocin.md)
+
 <p><span class="chinese">催产素是关键吗？</span><span class="english">Could oxytocin be the key?</span></p>
 
 <p><span class="chinese">催产素是一种神经激素。</span><span class="english">Oxytocin is a neurohormone.</span></p>

@@ -1,5 +1,7 @@
 # mark
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mark.md)
+
 <p><span class="chinese">你认识马克么？</span><span class="english">Do you know Mark?</span></p>
 
 <p><span class="chinese">我盯他们的中锋。</span><span class="english">I mark the center.</span></p>

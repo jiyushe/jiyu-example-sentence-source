@@ -1,5 +1,7 @@
 # 手铐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoukao.md)
+
 <p><span class="chinese">一副爱情手铐。</span><span class="english">A love handcuffs.</span></p>
 
 <p><span class="chinese">没错，是手铐。</span><span class="english">Yes, that’s handcuffs.</span></p>

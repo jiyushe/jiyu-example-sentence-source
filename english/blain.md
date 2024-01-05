@@ -1,5 +1,7 @@
 # blain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blain.md)
+
 <p><span class="chinese">有什么好办法对付脸上的痘痘?。</span><span class="english">What tweak copes with the blain on the face?</span></p>
 
 <p><span class="chinese">这病可不好惹，又发烧，身上的痘痘又发痒。</span><span class="english">It can be the token, and fever, blain blain and itch.</span></p>

@@ -1,5 +1,7 @@
 # country 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/country.md)
+
 <p><span class="chinese">我爱祖国。</span><span class="english">I love my country.</span></p>
 
 <p><span class="chinese">誓死保卫祖国！</span><span class="english">Our country or death!</span></p>

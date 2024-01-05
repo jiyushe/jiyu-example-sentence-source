@@ -1,5 +1,7 @@
 # watermelon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/watermelon.md)
+
 <p><span class="chinese">我喜欢西瓜。</span><span class="english">I love watermelon.</span></p>
 
 <p><span class="chinese">它是大西瓜。</span><span class="english">It's a watermelon.</span></p>

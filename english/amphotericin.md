@@ -1,5 +1,7 @@
 # amphotericin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amphotericin.md)
+
 <p><span class="chinese">两性霉素B脂质体治疗本病疗效显著。</span><span class="english">Amphotericin B liposome has good effect on infection of Ochroconis gallopava.</span></p>
 
 <p><span class="chinese">二性霉素B和伊曲康唑注射液在疗效上差异无显著性。</span><span class="english">Amphotericin B and parenteral solution of Itraconazole have no obvious difference.</span></p>

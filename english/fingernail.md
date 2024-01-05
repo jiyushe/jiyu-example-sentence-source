@@ -1,5 +1,7 @@
 # fingernail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fingernail.md)
+
 <p><span class="chinese">他剪指甲剪了指甲下的肉。</span><span class="english">He cut the fingernail to the quick.</span></p>
 
 <p><span class="chinese">我有你需要的指甲钳。</span><span class="english">I have the fingernail clippers you want.</span></p>

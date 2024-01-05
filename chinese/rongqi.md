@@ -1,5 +1,7 @@
 # 容器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongqi.md)
+
 <p><span class="chinese">是一个小玻璃容器被砸破。</span><span class="english">A glass capsule was broken.</span></p>
 
 <p><span class="chinese">其他废油容器。</span><span class="english">Other waste oil containers.</span></p>

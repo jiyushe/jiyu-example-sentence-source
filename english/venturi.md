@@ -1,5 +1,7 @@
 # venturi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/venturi.md)
+
 <p><span class="chinese">介绍旋风除尘与文丘里洗涤器的设计选型。</span><span class="english">The designs of cyclone and Venturi are presented.</span></p>
 
 <p><span class="chinese">节流阀和丘的大小之间的24和50毫米。</span><span class="english">The throttle and venturi sizes are between 24 and 50 mm.</span></p>

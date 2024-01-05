@@ -1,5 +1,7 @@
 # 兰亭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lanting.md)
+
 <p><span class="chinese">兰亭占地面积达30000平方米。</span><span class="english">Lanting covers an area of 30000 square meters.</span></p>
 
 <p><span class="chinese">耳边听得兰亭曲，一咏流觞已有名。</span><span class="english">Lanting ears hear song, a chant flow feast has name.</span></p>

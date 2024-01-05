@@ -1,5 +1,7 @@
 # cheaters
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheaters.md)
+
 <p><span class="chinese">我可以举报作弊者吗？</span><span class="english">Can i report cheaters somehow?</span></p>
 
 <p><span class="chinese">而且没有一所顶尖的大学会收作弊的学生。</span><span class="english">And no top university will admit cheaters.</span></p>

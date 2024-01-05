@@ -1,5 +1,7 @@
 # fusion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fusion.md)
+
 <p><span class="chinese">谷歌表融合器。</span><span class="english">Google Fusion Tables.</span></p>
 
 <p><span class="chinese">高光谱数据彩色图像合成。</span><span class="english">Image fusion of hyperspectral data.</span></p>

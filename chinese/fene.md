@@ -1,5 +1,7 @@
 # 份额
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fene.md)
+
 <p><span class="chinese">我们要赢得更多的市场份额。</span><span class="english">We have a lot more to win.</span></p>
 
 <p><span class="chinese">我们的市场份额在下降。</span><span class="english">Our market share is dro ing.</span></p>

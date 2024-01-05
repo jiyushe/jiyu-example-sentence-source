@@ -1,5 +1,7 @@
 # shakedown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shakedown.md)
+
 <p><span class="chinese">开始在我们的司法体系有一个很大的震撼。</span><span class="english">Yet God has begun a great shakedown in our legal system.</span></p>
 
 <p><span class="chinese">分析比较影响边坡安定的各项因素。</span><span class="english">Analyzing and comparing every factors influence on slope shakedown.</span></p>

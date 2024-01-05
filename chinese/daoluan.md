@@ -1,5 +1,7 @@
 # 捣乱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daoluan.md)
+
 <p><span class="chinese">大胆夺命书生！竟敢在此捣乱？！</span><span class="english">How dare you mess up here?</span></p>
 
 <p><span class="chinese">别跟我捣乱!</span><span class="english">Don't make trouble with me!</span></p>

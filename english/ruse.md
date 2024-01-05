@@ -1,5 +1,7 @@
 # ruse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ruse.md)
+
 <p><span class="chinese">它需要的远多于连任的诡计。</span><span class="english">It needs to be more than a re-election ruse.</span></p>
 
 <p><span class="chinese">然而这看来同样是他的另一个诡计。</span><span class="english">But that too, it seems, was just another ruse.</span></p>

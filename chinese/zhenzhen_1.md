@@ -1,5 +1,7 @@
 # 阵阵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenzhen_1.md)
+
 <p><span class="chinese">我们将听到阵阵的欢呼声。</span><span class="english">We’ll hear the cheers.</span></p>
 
 <p><span class="chinese">迎面吹来阵阵凉风。</span><span class="english">The cool wind blown head on.</span></p>

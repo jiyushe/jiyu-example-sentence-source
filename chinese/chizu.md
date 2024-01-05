@@ -1,5 +1,7 @@
 # 赤足
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chizu.md)
+
 <p><span class="chinese">游行者身穿长袍，手持十字架，赤足前进。</span><span class="english">Marchers always wear a robe, holding a cross.</span></p>
 
 <p><span class="chinese">在加勒比海炽热的混凝土路面上，他依然保持本色，赤足而行。</span><span class="english">His feet were still bare on the hot Caribbean concrete.</span></p>

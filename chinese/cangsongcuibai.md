@@ -1,5 +1,7 @@
 # 苍松翠柏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cangsongcuibai.md)
+
 <p><span class="chinese">苍松翠柏郁郁葱葱。</span><span class="english">Green and luxuriant are the pines and cypresses.</span></p>
 
 <p><span class="chinese">苍松翠柏，常绿不凋。</span><span class="english">The pine and the cypress remain green all the year round.</span></p>

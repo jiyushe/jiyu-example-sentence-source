@@ -1,5 +1,7 @@
 # buccaneer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buccaneer.md)
+
 <p><span class="chinese">接着他向海盗喊话。</span><span class="english">Then he hailed the buccaneer.</span></p>
 
 <p><span class="chinese">这只船正是所谓的海盗船。</span><span class="english">It was called The Buccaneer Ship.</span></p>

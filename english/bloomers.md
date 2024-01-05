@@ -1,5 +1,7 @@
 # bloomers
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bloomers.md)
+
 <p><span class="chinese">我们可以谈谈女士灯笼裤吗？</span><span class="english">Can we talk about ladies bloomers?</span></p>
 
 <p><span class="chinese">谁穿着灯笼裤爬山？</span><span class="english">Who Climbs a Mountain in Bloomers?</span></p>

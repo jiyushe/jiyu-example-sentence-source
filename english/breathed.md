@@ -1,5 +1,7 @@
 # breathed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breathed.md)
+
 <p><span class="chinese">我几乎没咽气。</span><span class="english">I hardly breathed.</span></p>
 
 <p><span class="chinese">他呼出酒气。</span><span class="english">He breathed out wine fumes.</span></p>

@@ -1,5 +1,7 @@
 # mendacious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mendacious.md)
+
 <p><span class="chinese">侵权行为指注册会计师出具不实旳审计报告旳行为。</span><span class="english">The tort is the behavior that the CPA mendacious audit statement.</span></p>
 
 <p><span class="chinese">那个好说谎的乞丐在每家说不同的悲哀故事。</span><span class="english">The mendacious beggar told a different tale of woe at every house.</span></p>

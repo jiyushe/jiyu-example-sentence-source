@@ -1,5 +1,7 @@
 # adumbrative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adumbrative.md)
+
 <p><span class="chinese">这里的明天预示着农垦的发展将更加灿烂辉煌。</span><span class="english">Here the tomorrow land reclamation of adumbrative development will be more magnificent.</span></p>
 
 <p><span class="chinese">同时也预示着顾客来这里心情会很高兴很享受美城休闲广场的生活。</span><span class="english">Also adumbrative customers come here mood will be glad to enjoy beautiful city leisure square life.</span></p>

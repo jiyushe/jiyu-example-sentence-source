@@ -1,5 +1,7 @@
 # gaggle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gaggle.md)
+
 <p><span class="chinese">他们也对他们的婴儿咯咯咕咕的说话</span><span class="english">They would gaggle and coo back at the baby.</span></p>
 
 <p><span class="chinese">那位农夫在他的农场里饲养了一群鹅。</span><span class="english">The farmer rears a gaggle of geese on his farm.</span></p>

@@ -1,5 +1,7 @@
 # parsimony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parsimony.md)
+
 <p><span class="chinese">亚洲人的节俭纵容了欧美人的挥霍。</span><span class="english">The Asians’ parsimony made the Anglo-Saxons’ profligacy possible.</span></p>
 
 <p><span class="chinese">有个经典例子出自以吝啬著称的喜剧演员杰克·班尼。</span><span class="english">A classic example comes from comedian Jack Benny , famous for his parsimony.</span></p>

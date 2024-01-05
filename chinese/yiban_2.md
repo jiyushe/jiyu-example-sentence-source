@@ -1,5 +1,7 @@
 # 一般
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiban_2.md)
+
 <p><span class="chinese">象风一般。</span><span class="english">Like the wind.</span></p>
 
 <p><span class="chinese">我一般会先敲下门。</span><span class="english">I always knock first.</span></p>

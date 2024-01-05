@@ -1,5 +1,7 @@
 # becalmed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/becalmed.md)
+
 <p><span class="chinese">还是停航。天气炎热。</span><span class="english">Still becalmed and very hot.</span></p>
 
 <p><span class="chinese">医生使烦躁不安的病人镇静了下来。</span><span class="english">The doctor becalmed the agitated patient.</span></p>

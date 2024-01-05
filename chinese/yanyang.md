@@ -1,5 +1,7 @@
 # 艳阳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanyang.md)
+
 <p><span class="chinese">艳阳高照，我却冻的快要死去。</span><span class="english">The sun so hot I froze to death.</span></p>
 
 <p><span class="chinese">那些颜色在艳阳下显得特别酷。</span><span class="english">Those shades are ultra-cool in the sun.</span></p>

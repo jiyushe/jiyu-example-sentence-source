@@ -1,5 +1,7 @@
 # oracle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oracle.md)
+
 <p><span class="chinese">在家也能成为奥马哈先知。</span><span class="english">Be the Oracle of Omaha at home.</span></p>
 
 <p><span class="chinese">Google是能让人们转向的圣贤。</span><span class="english">Google is the oracle of redirection.</span></p>

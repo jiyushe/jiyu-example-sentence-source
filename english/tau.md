@@ -1,5 +1,7 @@
 # tau
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tau.md)
+
 <p><span class="chinese">石板路，马头墙，青灰瓦，朱漆梁。</span><span class="english">Stone Road, Ma Tau wallwatts, red lacquer beam.</span></p>
 
 <p><span class="chinese">沙田头村扩展计划在一九九五年展开，一九九六年年中完成。</span><span class="english">Tau Village started in 1995 and was completed in mid-1996.</span></p>

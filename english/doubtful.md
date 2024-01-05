@@ -1,5 +1,7 @@
 # doubtful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doubtful.md)
+
 <p><span class="chinese">可是他仍旧将信将疑。</span><span class="english">But he was still doubtful.</span></p>
 
 <p><span class="chinese">这是一场胜负难测的战争。</span><span class="english">This is a doubtful battle.</span></p>

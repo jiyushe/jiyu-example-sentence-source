@@ -1,5 +1,7 @@
 # 故作姿态
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guzuozitai.md)
+
 <p><span class="chinese">当有男人在四周时她喜欢装腔作势，故作姿态。</span><span class="english">She loves to pose when men are around.</span></p>
 
 <p><span class="chinese">他关心穷人只是故作姿态罢了。</span><span class="english">His concern for the poor is a mere pose.</span></p>

@@ -1,5 +1,7 @@
 # fleeting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fleeting.md)
+
 <p><span class="chinese">暮色堇年，白驹过隙。</span><span class="english">TH twilight years, fleeting.</span></p>
 
 <p><span class="chinese">他们向正在逃跑的敌人开火。</span><span class="english">They  fired at a fleeting enemy.</span></p>

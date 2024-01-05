@@ -1,5 +1,7 @@
 # 进场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinchang.md)
+
 <p><span class="chinese">这张票可让两人进场。</span><span class="english">This ticket admits two persons.</span></p>
 
 <p><span class="chinese">请你们出来，到集合地点，准备进场。</span><span class="english">Come over here and get ready to go in.</span></p>

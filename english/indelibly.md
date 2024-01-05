@@ -1,5 +1,7 @@
 # indelibly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indelibly.md)
+
 <p><span class="chinese">许多这样的画面都持久地印在我的记忆里。</span><span class="english">Many such pictures are indelibly printed on my memory.</span></p>
 
 <p><span class="chinese">那天的记忆永不磨灭地印在我的脑海里。</span><span class="english">The memory of that day was indelibly printed on my brain.</span></p>

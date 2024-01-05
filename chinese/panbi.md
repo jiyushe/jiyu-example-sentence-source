@@ -1,5 +1,7 @@
 # 攀比
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/panbi.md)
+
 <p><span class="chinese">我们只是在跟自己攀比。</span><span class="english">We are our own Joneses.</span></p>
 
 <p><span class="chinese">而攀比则强化了这种情绪。</span><span class="english">Comparison strengthens it.</span></p>

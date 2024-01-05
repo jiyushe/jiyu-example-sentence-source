@@ -1,5 +1,7 @@
 # ghastly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ghastly.md)
+
 <p><span class="chinese">这是个相当可怕的过程。</span><span class="english">It is a horrific, ghastly process.</span></p>
 
 <p><span class="chinese">那女病人面色苍白。</span><span class="english">The sick woman's face was ghastly.</span></p>

@@ -1,5 +1,7 @@
 # addition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/addition.md)
+
 <p><span class="chinese">那营口除了港口之外。</span><span class="english">In addition to the port.</span></p>
 
 <p><span class="chinese">这将是一个很好的提高。</span><span class="english">It would be a nice addition.</span></p>

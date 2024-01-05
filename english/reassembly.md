@@ -1,5 +1,7 @@
 # reassembly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reassembly.md)
+
 <p><span class="chinese">分片和重组。</span><span class="english">Segmentation and reassembly.</span></p>
 
 <p><span class="chinese">解决方案的快速组合与重新组合。</span><span class="english">Rapid assembly and reassembly of solutions.</span></p>

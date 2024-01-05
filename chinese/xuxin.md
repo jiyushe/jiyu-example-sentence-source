@@ -1,5 +1,7 @@
 # 虚心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuxin.md)
+
 <p><span class="chinese">虚心接受反馈。</span><span class="english">Be open to receiving feedback.</span></p>
 
 <p><span class="chinese">茶倒半杯表示虚心诚恳。</span><span class="english">For tea, half, it means modest.</span></p>

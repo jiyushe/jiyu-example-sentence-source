@@ -1,5 +1,7 @@
 # giveaway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/giveaway.md)
+
 <p><span class="chinese">糟糕的拼写也是一个信号。</span><span class="english">Bad spelling is also a giveaway.</span></p>
 
 <p><span class="chinese">是美国在线安全工具条。</span><span class="english">ZoneAlarm Security Toolbar at Giveaway.</span></p>

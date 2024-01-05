@@ -1,5 +1,7 @@
 # 栏杆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/langan.md)
+
 <p><span class="chinese">桥栏杆?。</span><span class="english">Bridge railing?</span></p>
 
 <p><span class="chinese">这个栏杆是白色的。</span><span class="english">This parapet is white.</span></p>

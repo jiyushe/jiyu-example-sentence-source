@@ -1,5 +1,7 @@
 # 锋芒毕露
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengmangbilu.md)
+
 <p><span class="chinese">不过，他也是一位锋芒毕露的办公室政治家。</span><span class="english">But he was also a hard-edged office politician.</span></p>
 
 <p><span class="chinese">锋芒毕露的身体可以用来描述狂喜。</span><span class="english">Hard-edged body can use to describe the ecstasy.</span></p>

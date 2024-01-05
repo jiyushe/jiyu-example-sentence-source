@@ -1,5 +1,7 @@
 # 解放思想
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiefangsixiang.md)
+
 <p><span class="chinese">这就必须解放思想。</span><span class="english">To attain this goal, we must free our minds.</span></p>
 
 <p><span class="chinese">解放思想，我们老同志有这个任务。</span><span class="english">Veteran comrades must emancipate their minds.</span></p>

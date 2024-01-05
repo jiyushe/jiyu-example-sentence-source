@@ -1,5 +1,7 @@
 # 磁极
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ciji_2.md)
+
 <p><span class="chinese">他真的观测到单磁极子了吗？</span><span class="english">Did he really see magnetic monopoles?</span></p>
 
 <p><span class="chinese">它可不像我们可以为我们自己制造磁极。</span><span class="english">And it's not like we can make them for ourselves.</span></p>

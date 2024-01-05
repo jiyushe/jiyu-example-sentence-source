@@ -1,5 +1,7 @@
 # 松毛虫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songmaochong.md)
+
 <p><span class="chinese">牡丹江林区落叶松毛虫发生程度严重。</span><span class="english">Dendrolimus superans occurs badly in Mudanjiang region.</span></p>
 
 <p><span class="chinese">试验表明，松毛虫赤眼蜂接受寄主行为是可塑的。</span><span class="english">The experiments showed that host-acceptance behavior of T.</span></p>

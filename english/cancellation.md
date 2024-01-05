@@ -1,5 +1,7 @@
 # cancellation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cancellation.md)
+
 <p><span class="chinese">取消租赁。</span><span class="english">Lease cancellation.</span></p>
 
 <p><span class="chinese">刚有一位客人取消预定。</span><span class="english">We have just had a cancellation.</span></p>

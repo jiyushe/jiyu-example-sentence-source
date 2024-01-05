@@ -1,5 +1,7 @@
 # fart
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fart.md)
+
 <p><span class="chinese">我不想这时候放屁。</span><span class="english">I hope I don't fart.</span></p>
 
 <p><span class="chinese">你是跟屁虫吗？</span><span class="english">Are you heel fart an insect?</span></p>

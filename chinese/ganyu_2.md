@@ -1,5 +1,7 @@
 # 甘于
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganyu_2.md)
+
 <p><span class="chinese">甘于苹果之后难道就真的那么不好吗？</span><span class="english">Is being secondary to Apple really that bad?</span></p>
 
 <p><span class="chinese">然而，今天我在这里表示，不能因为有困难而甘于现状。</span><span class="english">But I'm here today to say that difficulty is no excuse for complacency.</span></p>

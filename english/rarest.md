@@ -1,5 +1,7 @@
 # rarest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rarest.md)
+
 <p><span class="chinese">而最可贵的，在这里。</span><span class="english">But rarest of all, here.</span></p>
 
 <p><span class="chinese">地球上最稀有的元素砹。</span><span class="english">On Earth rarest element astatine.</span></p>

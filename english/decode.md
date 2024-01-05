@@ -1,5 +1,7 @@
 # decode
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decode.md)
+
 <p><span class="chinese">下一步就是对信息进行解码。</span><span class="english">The next step is to decode the message.</span></p>
 
 <p><span class="chinese">解码板支持RS232通讯。</span><span class="english">The decode board supports RS232 communication.</span></p>

@@ -1,5 +1,7 @@
 # emodin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emodin.md)
+
 <p><span class="chinese">采用HPLC法测定方中大黄所含大黄素及大黄酚的含量。</span><span class="english">Using HPLC to determine the content of emodin and chrysophanol.</span></p>
 
 <p><span class="chinese">运用高效液相色谱法测定大黄素和大黄酚的含量。</span><span class="english">The contents of emodin and chrysophanol were determined by HPLC.</span></p>

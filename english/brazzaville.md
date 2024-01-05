@@ -1,5 +1,7 @@
 # brazzaville
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brazzaville.md)
+
 <p><span class="chinese">布拉柴维尔是其首都也是最大城市。</span><span class="english">Brazzaville is the capital and the largest city.</span></p>
 
 <p><span class="chinese">温家宝首先来到位于布拉柴维尔市区的达朗盖医院。</span><span class="english">Wen first of all visited a hospital in Brazzaville.</span></p>

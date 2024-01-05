@@ -1,5 +1,7 @@
 # finer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/finer.md)
+
 <p><span class="chinese">它出现在更精细的方式在1630年。</span><span class="english">It appeared in finer ways in the 1630s.</span></p>
 
 <p><span class="chinese">蚯蚓取食时丢弃了较细的颗粒。</span><span class="english">Worms reject the finer particles when feeding.</span></p>

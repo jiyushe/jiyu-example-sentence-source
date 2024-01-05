@@ -1,5 +1,7 @@
 # 一体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiti.md)
+
 <p><span class="chinese">我们还没有合为一体。</span><span class="english">We haven't Xed yet.</span></p>
 
 <p><span class="chinese">你和神是一体的。</span><span class="english">You and God are one.</span></p>

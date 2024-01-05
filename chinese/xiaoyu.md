@@ -1,5 +1,7 @@
 # 笑语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoyu.md)
+
 <p><span class="chinese">酒吧的老板对所有的客人都笑语相迎。</span><span class="english">The boss of the bar greets everyone with a smile.</span></p>
 
 <p><span class="chinese">往日的笑语也已稀落，尘封在心。</span><span class="english">Yesterday's laughter was dusty deep in the heart.</span></p>

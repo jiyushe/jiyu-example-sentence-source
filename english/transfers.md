@@ -1,5 +1,7 @@
 # transfers
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transfers.md)
+
 <p><span class="chinese">这条线有许多车可转。</span><span class="english">This route has many transfers.</span></p>
 
 <p><span class="chinese">转另一只手的大鱼际。</span><span class="english">Transfers another hand's big fish border.</span></p>

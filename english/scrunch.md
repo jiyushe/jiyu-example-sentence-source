@@ -1,5 +1,7 @@
 # scrunch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scrunch.md)
+
 <p><span class="chinese">她的脚喀嚓喀嚓地踩在沙砾上。</span><span class="english">Her feet scrunch on the gravel.</span></p>
 
 <p><span class="chinese">不要那样缩头缩脑的，坐端正。</span><span class="english">Don't scrunch up like that. Sit up straight.</span></p>

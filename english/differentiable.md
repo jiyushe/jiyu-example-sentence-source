@@ -1,5 +1,7 @@
 # differentiable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/differentiable.md)
+
 <p><span class="chinese">递归神经网络微分流形方法。</span><span class="english">Differentiable manifolds methods in RNN.</span></p>
 
 <p><span class="chinese">你们会明白为什么的，它在R上有定义，且是可微的。</span><span class="english">You will see why. It is defined and differentiable in R.</span></p>

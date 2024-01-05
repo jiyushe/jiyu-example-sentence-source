@@ -1,5 +1,7 @@
 # glomerulus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glomerulus.md)
+
 <p><span class="chinese">损伤肾小球。</span><span class="english">Damage renal glomerulus.</span></p>
 
 <p><span class="chinese">图示正常肾小球。</span><span class="english">A normal glomerulus is shown diagramatically.</span></p>

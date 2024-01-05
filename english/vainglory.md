@@ -1,5 +1,7 @@
 # vainglory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vainglory.md)
+
 <p><span class="chinese">瘦可谓纯属虚荣。</span><span class="english">Thinness can be pure vainglory.</span></p>
 
 <p><span class="chinese">那一刻，我所有的自负和骄傲瞬间化为泡影。</span><span class="english">At that moment, all my vainglory and proud were gone.</span></p>

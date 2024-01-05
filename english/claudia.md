@@ -1,5 +1,7 @@
 # claudia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/claudia.md)
+
 <p><span class="chinese">“你好，托马斯。”克劳迪娅说。</span><span class="english">"Hello Thomas, " said Claudia.</span></p>
 
 <p><span class="chinese">“似乎是这样。”克劳迪娅说。</span><span class="english">"It seems to be, " said Claudia.</span></p>

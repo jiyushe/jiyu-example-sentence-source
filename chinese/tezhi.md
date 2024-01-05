@@ -1,5 +1,7 @@
 # 特制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tezhi.md)
+
 <p><span class="chinese">这个左撇子需要特制的手套。</span><span class="english">The southpaw needed a special glove.</span></p>
 
 <p><span class="chinese">关于特制标枪很无力的观点我同意。</span><span class="english">I agree with you on the pilum thingy.</span></p>

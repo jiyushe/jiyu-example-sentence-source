@@ -1,5 +1,7 @@
 # belgrade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/belgrade.md)
+
 <p><span class="chinese">据报道，这列火车后来开回了贝尔格莱德。</span><span class="english">Reports say the train later returned to Belgrade.</span></p>
 
 <p><span class="chinese">贝尔格莱德打算同欧洲的法律一致。</span><span class="english">Belgrade intends to harmonise the law with those in Europe.</span></p>

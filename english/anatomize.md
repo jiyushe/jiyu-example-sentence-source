@@ -1,5 +1,7 @@
 # anatomize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anatomize.md)
+
 <p><span class="chinese">我生物实验。今天是解剖老鼠。</span><span class="english">I am going to have biology experiment. We will anatomize mouse today.</span></p>
 
 <p><span class="chinese">最后，本文对天津邮政开展直复营销的未来经营策略展开论述。</span><span class="english">On the top of, the author anatomize the two trade relationconsanguineous to Tianjin Post.</span></p>

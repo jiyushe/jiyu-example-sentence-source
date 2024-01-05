@@ -1,5 +1,7 @@
 # 钟情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongqing_2.md)
+
 <p><span class="chinese">小伙子对着女孩钟情地低语。</span><span class="english">The young man cooed over the girl.</span></p>
 
 <p><span class="chinese">所以你钟情你的哲学了？</span><span class="english">That`s how you like your philosophy?</span></p>

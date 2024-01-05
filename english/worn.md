@@ -1,5 +1,7 @@
 # worn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/worn.md)
+
 <p><span class="chinese">那双鞋子已经穿旧了。</span><span class="english">The shoes have worn out.</span></p>
 
 <p><span class="chinese">这布已磨损得很薄了。</span><span class="english">This cloth has worn thin.</span></p>

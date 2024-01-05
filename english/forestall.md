@@ -1,5 +1,7 @@
 # forestall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forestall.md)
+
 <p><span class="chinese">我们现在必须采取行动以防灾难。</span><span class="english">We must act now to forestall disaster.</span></p>
 
 <p><span class="chinese">我抢先离开了这房间以免牵累。</span><span class="english">I left the room to forestall involvements.</span></p>

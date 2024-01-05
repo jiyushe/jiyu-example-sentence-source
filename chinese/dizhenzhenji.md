@@ -1,5 +1,7 @@
 # 地震震级
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dizhenzhenji.md)
+
 <p><span class="chinese">新华社宣布将地震震级从7.8级调整到8级。</span><span class="english">Xinhua announced that it increased the magnitude of the quake from 7.8 to 8.0.</span></p>
 
 <p><span class="chinese">这些地震震级较小，但就死亡人数而言，影响差不多。</span><span class="english">Those earthquakes were of a smaller magnitude but had a similar impact in terms of deaths.</span></p>

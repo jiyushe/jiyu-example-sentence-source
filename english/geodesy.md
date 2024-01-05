@@ -1,5 +1,7 @@
 # geodesy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geodesy.md)
+
 <p><span class="chinese">这种方法可以用于解决大地测量中的不适定性问题。</span><span class="english">Under this method can solve the robust estimation of ill-posed problems in geodesy.</span></p>
 
 <p><span class="chinese">它致力于与大地测量学和地球物理学有关的所有领域的基础性研究。</span><span class="english">It is concerned with basic research on all fields related to geophysics and geodesy.</span></p>

@@ -1,5 +1,7 @@
 # synthesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synthesis.md)
+
 <p><span class="chinese">你要找到一种综合。</span><span class="english">You have to find a synthesis.</span></p>
 
 <p><span class="chinese">语音识别与合成。</span><span class="english">Speech recognition and synthesis.</span></p>

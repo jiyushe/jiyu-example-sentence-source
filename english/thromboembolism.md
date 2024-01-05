@@ -1,5 +1,7 @@
 # thromboembolism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thromboembolism.md)
+
 <p><span class="chinese">磺达肝素钠也能够减少静脉血栓。</span><span class="english">Fondaparinux sodium also prevented venous thromboembolism.</span></p>
 
 <p><span class="chinese">在与血栓栓塞结合时，深静脉血栓形成可威胁生命。</span><span class="english">It can be life-threatening when associated with thromboembolism.</span></p>

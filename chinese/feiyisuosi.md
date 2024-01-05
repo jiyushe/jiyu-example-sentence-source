@@ -1,5 +1,7 @@
 # 匪夷所思
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feiyisuosi.md)
+
 <p><span class="chinese">这种想法简直是匪夷所思</span><span class="english">It's got to seem very mysterious to us.</span></p>
 
 <p><span class="chinese">当律师们说话的时候，外行人通常都感到匪夷所思。</span><span class="english">WHEN lawyers speak, laymen are often baffled.</span></p>

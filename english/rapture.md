@@ -1,5 +1,7 @@
 # rapture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rapture.md)
+
 <p><span class="chinese">然后，通过痛苦和欢愉</span><span class="english">Then, by the pain and rapture</span></p>
 
 <p><span class="chinese">那是神圣的狂喜，神福佑的游戏！</span><span class="english">Rapture divine! Play of God's Bliss!</span></p>

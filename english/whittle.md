@@ -1,5 +1,7 @@
 # whittle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whittle.md)
+
 <p><span class="chinese">一个手工削成的玩具船。</span><span class="english">Whittle a toy boat.</span></p>
 
 <p><span class="chinese">别把木棍削成短的棍。</span><span class="english">Don't whittle the stick into a short one.</span></p>

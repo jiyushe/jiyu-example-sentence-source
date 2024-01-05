@@ -1,5 +1,7 @@
 # 收缩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shousuo.md)
+
 <p><span class="chinese">收缩着并呻吟着。</span><span class="english">Contracting and groaning.</span></p>
 
 <p><span class="chinese">收缩膜包装。</span><span class="english">Se empaqueta por shrink film.</span></p>

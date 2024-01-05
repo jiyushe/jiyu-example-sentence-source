@@ -1,5 +1,7 @@
 # cyclamen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cyclamen.md)
+
 <p><span class="chinese">进行新品种选育具有重要意义。</span><span class="english">New variety breeding of cyclamen has important significance.</span></p>
 
 <p><span class="chinese">本文主要介绍了仙客来的栽培技术。</span><span class="english">This article mainly introduced the cyclamen cultural technique.</span></p>

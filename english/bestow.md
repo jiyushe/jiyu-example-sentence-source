@@ -1,5 +1,7 @@
 # bestow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bestow.md)
+
 <p><span class="chinese">反正我左右消受不起。</span><span class="english">I bestow it right and left.</span></p>
 
 <p><span class="chinese">你也赐予他或她爱。</span><span class="english">You also bestow love upon her or him.</span></p>

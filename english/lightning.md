@@ -1,5 +1,7 @@
 # lightning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lightning.md)
+
 <p><span class="chinese">他行动快如闪电。</span><span class="english">He moved like lightning.</span></p>
 
 <p><span class="chinese">闪电光辉夺目。</span><span class="english">The lightning was vivid.</span></p>

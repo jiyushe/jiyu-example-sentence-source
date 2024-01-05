@@ -1,5 +1,7 @@
 # grieved
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grieved.md)
+
 <p><span class="chinese">她为你而悲伤。</span><span class="english">She is grieved for you.</span></p>
 
 <p><span class="chinese">我真为他难受。</span><span class="english">I am so grieved for him.</span></p>

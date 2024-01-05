@@ -1,5 +1,7 @@
 # 地理位置
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diliweizhi.md)
+
 <p><span class="chinese">别墅的地理位置非常好。</span><span class="english">The location was so good.</span></p>
 
 <p><span class="chinese">它所处的地理位置真的很好。</span><span class="english">And it's relly good location.</span></p>

@@ -1,5 +1,7 @@
 # 客运
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keyun.md)
+
 <p><span class="chinese">每车公里客运密度?。</span><span class="english">Passengers Per Bus-Kilometer?</span></p>
 
 <p><span class="chinese">每车次客运密度?。</span><span class="english">Average Passenger-Kilometers Per Vehicle Run?</span></p>

@@ -1,5 +1,7 @@
 # deft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deft.md)
+
 <p><span class="chinese">她用灵巧的手指编结著。</span><span class="english">She was knitting with deft fingers.</span></p>
 
 <p><span class="chinese">巧手儿什么都会做。</span><span class="english">A deft hand can do just about anything.</span></p>

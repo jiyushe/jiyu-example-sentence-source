@@ -1,5 +1,7 @@
 # quintic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quintic.md)
+
 <p><span class="chinese">首次证明了拟五次多项式系统在无穷远点能分支出7个极限环。</span><span class="english">It is the first time that 7 limit cycles can bifurcated from the infinity for a class of quasi quintic system.</span></p>
 
 <p><span class="chinese">本文研究一类五次平面多项式系统赤道极限环分支问题。</span><span class="english">In this paper, the problem of limit cycles bifurcated from the equator for a quintic polynomial system is investigated.</span></p>

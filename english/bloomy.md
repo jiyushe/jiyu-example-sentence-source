@@ -1,5 +1,7 @@
 # bloomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bloomy.md)
+
 <p><span class="chinese">每天面朝大海，看春暖花开！</span><span class="english">The daily surface dynasty sea, looks bloomy spring!</span></p>
 
 <p><span class="chinese">终有一天，你会回来，春暖花开。</span><span class="english">Will happen one day, you can come back, bloomy spring.</span></p>

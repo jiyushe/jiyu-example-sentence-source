@@ -1,5 +1,7 @@
 # reserpine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reserpine.md)
+
 <p><span class="chinese">研究从催吐萝芙木中提取利血平的结晶工艺。</span><span class="english">Crystallization process of reserpine was investigated in this paper.</span></p>
 
 <p><span class="chinese">隔离鼠在注利血平、电击后格斗行为明显减少。</span><span class="english">Shock-induced fighting behavior lessened ter reserpine injection upon isolated rats.</span></p>

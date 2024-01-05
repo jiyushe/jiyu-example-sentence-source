@@ -1,5 +1,7 @@
 # 过敏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guomin.md)
+
 <p><span class="chinese">有乳胶过敏的人吗？</span><span class="english">Any allergy to latex?</span></p>
 
 <p><span class="chinese">我对花粉过敏。</span><span class="english">I'm allergic to farina.</span></p>

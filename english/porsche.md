@@ -1,5 +1,7 @@
 # porsche
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/porsche.md)
+
 <p><span class="chinese">我需要一辆保时捷吗？</span><span class="english">Do I need a Porsche?</span></p>
 
 <p><span class="chinese">尤其是那个保时捷的商标。</span><span class="english">Especially the Porsche logo.</span></p>

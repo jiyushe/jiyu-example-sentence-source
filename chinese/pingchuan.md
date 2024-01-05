@@ -1,5 +1,7 @@
 # 平川
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingchuan.md)
+
 <p><span class="chinese">高山、大海和平川。</span><span class="english">In thy light, plains, mountains and seas.</span></p>
 
 <p><span class="chinese">我们深知，没有你们，就没有安海平川。</span><span class="english">We know without you there would be no our IDYLL.</span></p>

@@ -1,5 +1,7 @@
 # eradicated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eradicated.md)
+
 <p><span class="chinese">能否根除雅司病？</span><span class="english">Can yaws be eradicated?</span></p>
 
 <p><span class="chinese">为什么不能根除禽流感？</span><span class="english">Why can't bird flu be eradicated?</span></p>

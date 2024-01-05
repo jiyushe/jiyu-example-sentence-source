@@ -1,5 +1,7 @@
 # 吹毛求疵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuimaoqiuci.md)
+
 <p><span class="chinese">你太吹毛求疵了。</span><span class="english">You're nitpicking.</span></p>
 
 <p><span class="chinese">他对什么都吹毛求疵。</span><span class="english">He cavils at everything.</span></p>

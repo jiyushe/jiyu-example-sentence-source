@@ -1,5 +1,7 @@
 # 成竹在胸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengzhuzaixiong.md)
+
 <p><span class="chinese">但表面却异常平静，好象成竹在胸。</span><span class="english">But on the surface he looks calm & ready.</span></p>
 
 <p><span class="chinese">但表面却异常平静，好象成竹在胸。</span><span class="english">But on the surface he looks calm and ready.</span></p>

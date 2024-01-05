@@ -1,5 +1,7 @@
 # functionary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/functionary.md)
+
 <p><span class="chinese">新闻网工作人员周毅高兴地说。</span><span class="english">Nws net functionary the cycle Yi happily say.</span></p>
 
 <p><span class="chinese">国家机关工作人员不得支持、包庇不正当竞争行为。</span><span class="english">No State functionary may support or cover up unfair competition acts.</span></p>

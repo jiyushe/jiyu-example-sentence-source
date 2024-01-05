@@ -1,5 +1,7 @@
 # uncorrected
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncorrected.md)
+
 <p><span class="chinese">一个佳编纂决不会放过一个印刷过错。</span><span class="english">A good editor never once leaves a misprint uncorrected.</span></p>
 
 <p><span class="chinese">一个好编辑决不会放过一个印刷错误。</span><span class="english">A good editor never once leaves a misprint uncorrected.</span></p>

@@ -1,5 +1,7 @@
 # aleutian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aleutian.md)
+
 <p><span class="chinese">阿留申群岛是北太平洋上一长串呈弧形排列的小岛。</span><span class="english">The Aleutian chain is a long arc of islands in the North Pacific.</span></p>
 
 <p><span class="chinese">这个云的形成是在阿留申群岛西部看到的。</span><span class="english">These cloud formations were seen over the western Aleutian Islands.</span></p>

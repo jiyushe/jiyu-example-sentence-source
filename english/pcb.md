@@ -1,5 +1,7 @@
 # pcb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pcb.md)
+
 <p><span class="chinese">实施无铅化PCB准备好了吗?。</span><span class="english">How If the Implement of Lead-free PCB?</span></p>
 
 <p><span class="chinese">不能连接到电路板的接地底盘接地。</span><span class="english">PCB Ground will not be connected to Chasis Ground.</span></p>

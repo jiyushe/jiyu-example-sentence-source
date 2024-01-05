@@ -1,5 +1,7 @@
 # sleaze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sleaze.md)
+
 <p><span class="chinese">那夜总会的表演有很多是低三下四的。</span><span class="english">There was a lot of sleaze going on at that night club.</span></p>
 
 <p><span class="chinese">她的故事一公布，公众的愤懑一瞬间爆发了，矛头直指那些有着类似卑鄙行为的公仆们。</span><span class="english">Her story has unleashed an outpouring of public contempt for the sleaze that surrounds so many civil servants.</span></p>

@@ -1,5 +1,7 @@
 # 剧院
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juyuan.md)
+
 <p><span class="chinese">这家剧院有六个太平门。</span><span class="english">The theatre has six exits.</span></p>
 
 <p><span class="chinese">他陪她去剧院。</span><span class="english">He -nied her to the theater.</span></p>

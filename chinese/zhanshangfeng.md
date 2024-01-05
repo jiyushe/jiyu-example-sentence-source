@@ -1,5 +1,7 @@
 # 占上风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanshangfeng.md)
+
 <p><span class="chinese">只有一个能占上风。</span><span class="english">Only one can prevail.</span></p>
 
 <p><span class="chinese">逼着他们跟你讲英语，你才会占上风。</span><span class="english">Force them to speak English and you win.</span></p>

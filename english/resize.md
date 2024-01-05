@@ -1,5 +1,7 @@
 # resize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resize.md)
+
 <p><span class="chinese">左键拖曳以改变文字盒大小。</span><span class="english">Left drag to resize text box.</span></p>
 
 <p><span class="chinese">何时调整分区大小？</span><span class="english">When should you resize partitions?</span></p>

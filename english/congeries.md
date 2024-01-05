@@ -1,5 +1,7 @@
 # congeries
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/congeries.md)
+
 <p><span class="chinese">他继承了一个组织，或者不如说一大堆组织。</span><span class="english">He had inherited an organization , or rather a congeries of organizations.</span></p>
 
 <p><span class="chinese">聚酯切片中的凝结粒子通常是由二氧化钛粒子无规则的团聚而成。</span><span class="english">The conjugated grains in PET chips are formed of TiO 2 congeries particles.</span></p>

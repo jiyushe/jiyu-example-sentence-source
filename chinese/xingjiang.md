@@ -1,5 +1,7 @@
 # 行将
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingjiang.md)
+
 <p><span class="chinese">尺牍技巧行将消失。</span><span class="english">The art of letter-writing is fast disappearing.</span></p>
 
 <p><span class="chinese">这就表示这些行将被锁定为共享。</span><span class="english">This means that the rows will be locked as shared.</span></p>

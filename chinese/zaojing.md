@@ -1,5 +1,7 @@
 # 造景
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaojing.md)
+
 <p><span class="chinese">千层石造景有的层中夹砾石。</span><span class="english">Melaleuca stone and gravel layer in some scene.</span></p>
 
 <p><span class="chinese">你能为这项造景工程估个价吗？</span><span class="english">Could you give me an estimate on this landscaping job?</span></p>

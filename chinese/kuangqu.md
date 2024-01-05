@@ -1,5 +1,7 @@
 # 矿区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuangqu.md)
+
 <p><span class="chinese">因此，对矿区内老采空区必须进行处理。</span><span class="english">So the mined-out areas must be treated.</span></p>
 
 <p><span class="chinese">永城矿区某矿排水钻孔设计孔深584。</span><span class="english">A drainage borehole designed depth is 584.</span></p>

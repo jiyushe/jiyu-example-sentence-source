@@ -1,5 +1,7 @@
 # 链式反应
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianshifanying.md)
+
 <p><span class="chinese">好，下一次我们讨论链式反应。</span><span class="english">Alright, next time we'll do chain reactions.</span></p>
 
 <p><span class="chinese">功率的激增引起了反应堆的链式反应，反应堆的堆芯燃烧起来。</span><span class="english">A surge of power caused a chain reaction that set the reactor core on fire.</span></p>

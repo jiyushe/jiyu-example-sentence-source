@@ -1,5 +1,7 @@
 # trivalent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trivalent.md)
+
 <p><span class="chinese">回顾了三价铬镀铬的历史。</span><span class="english">The history of trivalent chromium electroplating was looked back.</span></p>
 
 <p><span class="chinese">三价铬电镀分为氯化物体系和硫酸盐体系。</span><span class="english">Trivalent chromium plating can be divided into chloride and sulfate systems.</span></p>

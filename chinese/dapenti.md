@@ -1,5 +1,7 @@
 # 打喷嚏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dapenti.md)
+
 <p><span class="chinese">我打喷嚏。</span><span class="english">I sneeze.</span></p>
 
 <p><span class="chinese">干咳、咳嗽、打喷嚏。</span><span class="english">Hacking. Coughing.</span></p>

@@ -1,5 +1,7 @@
 # 汤圆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tangyuan.md)
+
 <p><span class="chinese">汤圆这个名字是怎么来的呢？</span><span class="english">What is the name of dumplings?</span></p>
 
 <p><span class="chinese">汤圆就像它的名字一样，团团圆圆的。</span><span class="english">As its name dumplings, circle round.</span></p>

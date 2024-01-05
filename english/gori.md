@@ -1,5 +1,7 @@
 # gori
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gori.md)
+
 <p><span class="chinese">哥里市附近燃烧的森林。</span><span class="english">Burning forest next to Gori.</span></p>
 
 <p><span class="chinese">哥里市，警察正在救援受上的士兵。</span><span class="english">Policemen are helping the wounded soldier in Gori.</span></p>

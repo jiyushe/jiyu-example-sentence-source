@@ -1,5 +1,7 @@
 # trite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trite.md)
+
 <p><span class="chinese">另一个陈腐的方法，却很有效。</span><span class="english">Another trite one. But it works.</span></p>
 
 <p><span class="chinese">她喜欢问犄角旮旯儿的问题。</span><span class="english">She likes to ask trite questions.</span></p>

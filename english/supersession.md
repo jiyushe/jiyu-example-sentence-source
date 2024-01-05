@@ -1,5 +1,7 @@
 # supersession
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supersession.md)
+
 <p><span class="chinese">其发病机理主要是由病菌的代谢产物———毒素导致的。</span><span class="english">The supersession result toxin of the germ mainly causes its pathogenesis.</span></p>
 
 <p><span class="chinese">细胞外基质处于不断代谢更新、降解重构的动态平衡中。</span><span class="english">Extracellular matrix is is in the dynamic balance of supersession and remodeling.</span></p>

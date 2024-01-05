@@ -1,5 +1,7 @@
 # 百分
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baifen.md)
+
 <p><span class="chinese">请问蔡总目前百分女人有多少家店面？</span><span class="english">How many stores do you have now, Mr Cai?</span></p>
 
 <p><span class="chinese">这种温度计是用摄氏百分度标定的。</span><span class="english">This thermometer is calibrated by centigrade.</span></p>

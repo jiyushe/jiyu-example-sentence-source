@@ -1,5 +1,7 @@
 # 由浅入深
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youqianrushen.md)
+
 <p><span class="chinese">虽然代码比较多，但不必担心，会有一个由浅入深的过程。</span><span class="english">There is a lot of code, but don't be afraid.</span></p>
 
 <p><span class="chinese">本书内容由浅入深，由易而难。</span><span class="english">Deep and book content, from easy to difficult.</span></p>

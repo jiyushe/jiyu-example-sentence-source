@@ -1,5 +1,7 @@
 # geophysicist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geophysicist.md)
+
 <p><span class="chinese">因此，浅海水听器的技术和应用一直倍受广大物探工作者的关注。</span><span class="english">So the technique and application of neritic hydrophone are paid more attention by geophysicist.</span></p>
 
 <p><span class="chinese">林键是马萨诸塞州伍兹霍尔海洋学学会的地球物理学家，他对此表示同意。</span><span class="english">Marine geophysicist Jian Lin of the Woods Hole Oceanographic Institution in Massachusetts agrees.</span></p>

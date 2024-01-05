@@ -1,5 +1,7 @@
 # melodrama
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/melodrama.md)
+
 <p><span class="chinese">别说可是，还轮不到你绝种呢。</span><span class="english">No buts. You tin melodrama extinction afterward.</span></p>
 
 <p><span class="chinese">咱们是骑驴看唱本，走着瞧！</span><span class="english">We are to ride donkey to watch anthem txt, melodrama at ear!</span></p>

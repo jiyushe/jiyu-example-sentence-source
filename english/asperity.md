@@ -1,5 +1,7 @@
 # asperity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asperity.md)
+
 <p><span class="chinese">油膜越厚，摩擦越少，并且磨损越小。</span><span class="english">Thicker films assure fewer asperity contacts and less wear.</span></p>
 
 <p><span class="chinese">严冬之苦让每个人都渴望春天。</span><span class="english">The asperity of the winter had everybody yearning for spring.</span></p>

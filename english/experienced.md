@@ -1,5 +1,7 @@
 # experienced 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/experienced.md)
+
 <p><span class="chinese">我们都尝过爱的滋味。</span><span class="english">We've all experienced love.</span></p>
 
 <p><span class="chinese">怪不得他这么内行。</span><span class="english">No wonder he is so experienced.</span></p>

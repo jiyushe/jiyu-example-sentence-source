@@ -1,5 +1,7 @@
 # encephalocele
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/encephalocele.md)
+
 <p><span class="chinese">在一名患者伴随有基底脑膨出，这是唯一之系统异常发现。</span><span class="english">Basal encephalocele in one patient was the only systemic finding.</span></p>
 
 <p><span class="chinese">患者因怀疑前部的脑膨出来我处就诊。</span><span class="english">The patient was referred to our clinic due to suspected anterior encephalocele.</span></p>

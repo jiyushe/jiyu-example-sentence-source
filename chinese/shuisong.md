@@ -1,5 +1,7 @@
 # 水松
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuisong.md)
+
 <p><span class="chinese">目的对印字水松纸进行安全性评价。</span><span class="english">Objective To evaluate the safety of printing tipping paper.</span></p>
 
 <p><span class="chinese">最后对水松纸涂层专用水性涂料今后的研究进行了展望。</span><span class="english">Finally, the prospect of the research on the coating is given.</span></p>

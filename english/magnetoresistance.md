@@ -1,5 +1,7 @@
 # magnetoresistance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magnetoresistance.md)
+
 <p><span class="chinese">30年中已经由好几种磁阻的新形态被人们发现。</span><span class="english">Over the past 30 years several new forms of magnetoresistance have been found.</span></p>
 
 <p><span class="chinese">在文章的最后，我们对取代和复合样品中的超大磁电阻效应进行了比较。</span><span class="english">At the end of this thesis, we compare the magnetoresistance in doped manganites with composite.</span></p>

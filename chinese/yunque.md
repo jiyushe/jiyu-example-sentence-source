@@ -1,5 +1,7 @@
 # 云雀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunque.md)
+
 <p><span class="chinese">你是一只云雀还是一只猫头鹰？</span><span class="english">Are you a lark or an owl?</span></p>
 
 <p><span class="chinese">一只翅膀受伤的云雀。</span><span class="english">Skylark wounded in the wing.</span></p>

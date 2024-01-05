@@ -1,5 +1,7 @@
 # diene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diene.md)
+
 <p><span class="chinese">建立了一种简易、快速的声化学法测定油样中双烯值的方法。</span><span class="english">A new method of a simple, quick is set up to determine the Conjugated Diene.</span></p>
 
 <p><span class="chinese">对几种酵母细胞催化双烯和羰基的加氢反应作了一些初步研究。</span><span class="english">The hydrogenation of diene compound and carbonyl group with yeasts was studied.</span></p>

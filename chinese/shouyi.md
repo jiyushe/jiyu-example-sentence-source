@@ -1,5 +1,7 @@
 # 受益
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouyi.md)
+
 <p><span class="chinese">谁受益？</span><span class="english">Who Benefits?</span></p>
 
 <p><span class="chinese">我可以从中受益吗？</span><span class="english">Will I benefit from it?</span></p>

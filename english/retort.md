@@ -1,5 +1,7 @@
 # retort
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retort.md)
+
 <p><span class="chinese">这是这位女士的反驳。</span><span class="english">This is the Lady's retort.</span></p>
 
 <p><span class="chinese">这番话激起了一个少将的反驳。</span><span class="english">That prompted a retort from Rear Adm.</span></p>

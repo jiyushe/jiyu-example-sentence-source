@@ -1,5 +1,7 @@
 # 滤波
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvbo.md)
+
 <p><span class="chinese">整流器滤波不良。</span><span class="english">Rectifier filter is poor.</span></p>
 
 <p><span class="chinese">算法是去块滤波的灵魂。</span><span class="english">Algorithm is the soul of deblocking.</span></p>

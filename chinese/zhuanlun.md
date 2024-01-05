@@ -1,5 +1,7 @@
 # 专论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanlun.md)
+
 <p><span class="chinese">这本书专论教育。</span><span class="english">This book is about education.</span></p>
 
 <p><span class="chinese">请输入英文药品名称或专论名称。</span><span class="english">Search by Drug name, Monograph name.</span></p>

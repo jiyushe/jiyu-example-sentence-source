@@ -1,5 +1,7 @@
 # chesapeake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chesapeake.md)
+
 <p><span class="chinese">那么作为切萨皮克能源公司的投资人又有什么辄儿？</span><span class="english">So what's a Chesapeake Energy investor to do?</span></p>
 
 <p><span class="chinese">经过10天的航行，船到达了切萨皮克海湾。</span><span class="english">The ships reached the Chesapeake Bay after ten days sailing.</span></p>

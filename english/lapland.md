@@ -1,5 +1,7 @@
 # lapland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lapland.md)
+
 <p><span class="chinese">怎么从赫尔辛基到拉普兰德？</span><span class="english">How to get to Lapland?</span></p>
 
 <p><span class="chinese">夏天，鹅群终于回到家乡——拉普兰德。</span><span class="english">Summer came. The geese finally arrived in Lapland.</span></p>

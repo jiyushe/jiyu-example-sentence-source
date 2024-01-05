@@ -1,5 +1,7 @@
 # 无量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuliang.md)
+
 <p><span class="chinese">是四无量心。</span><span class="english">It is the Four Immeasurables.</span></p>
 
 <p><span class="chinese">以无量的功德和智慧。</span><span class="english">with boundless merits and wisdom.</span></p>

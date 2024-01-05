@@ -1,5 +1,7 @@
 # obturator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obturator.md)
+
 <p><span class="chinese">闭孔淋巴结可能是宫颈癌的前哨淋巴结。</span><span class="english">Obturator lymph node may be the sentinel node.</span></p>
 
 <p><span class="chinese">专用密封闭孔弹性氯丁橡胶。</span><span class="english">Specialized obturator foramen type of Flexible Neoprene.</span></p>

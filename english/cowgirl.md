@@ -1,5 +1,7 @@
 # cowgirl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cowgirl.md)
+
 <p><span class="chinese">我喜欢牛仔靴和高跟鞋。</span><span class="english">I love cowgirl boots and heels!</span></p>
 
 <p><span class="chinese">当男女牛仔结婚时，该如何称呼？</span><span class="english">What do you call it when a cowboy marries a cowgirl?</span></p>

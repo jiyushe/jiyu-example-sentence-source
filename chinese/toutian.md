@@ -1,5 +1,7 @@
 # 头天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toutian.md)
+
 <p><span class="chinese">每个人都有出头天。</span><span class="english">Every dog has his day.</span></p>
 
 <p><span class="chinese">小人物，也有出头天。</span><span class="english">Even a dog has its day.</span></p>

@@ -1,5 +1,7 @@
 # 屈指可数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quzhikeshu.md)
+
 <p><span class="chinese">你在这里的时间已屈指可数。</span><span class="english">The few while you are here.</span></p>
 
 <p><span class="chinese">P-45的日子可能屈指可数了。</span><span class="english">P-45's days may be numbered.</span></p>

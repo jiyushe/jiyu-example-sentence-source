@@ -1,5 +1,7 @@
 # tsetse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tsetse.md)
+
 <p><span class="chinese">昏睡症的致命感染始于采采蝇的一叮。</span><span class="english">The fatal infection begins with the bite of a tsetse fly.</span></p>
 
 <p><span class="chinese">昏睡症由孑孓蝇的啃咬传播。</span><span class="english">Sleeping sickness is spread by the bite of the tsetse fly.</span></p>

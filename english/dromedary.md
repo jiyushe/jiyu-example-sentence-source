@@ -1,5 +1,7 @@
 # dromedary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dromedary.md)
+
 <p><span class="chinese">这项运动通常仅限于赛单峰驼骆驼。</span><span class="english">The sport is generally limited to running only the dromedary camel.</span></p>
 
 <p><span class="chinese">以全透明水晶制成，配有切割水晶角和黑矿色水晶眼睛。</span><span class="english">Fully faceted clear crystal dromedary with eyes in Jet Hematite crystal.</span></p>

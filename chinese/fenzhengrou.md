@@ -1,5 +1,7 @@
 # 粉蒸肉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenzhengrou.md)
+
 <p><span class="chinese">我们给你留了一点玉米粉蒸肉。</span><span class="english">Now we saved you some tamales.</span></p>
 
 <p><span class="chinese">我告诉她还没有，于是她跑来送给我一份玉米粉蒸肉。</span><span class="english">When I told her no, she ran up and handed me a tamale.</span></p>

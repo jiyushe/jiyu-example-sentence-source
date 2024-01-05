@@ -1,5 +1,7 @@
 # 生长素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengzhangsu.md)
+
 <p><span class="chinese">而这些叶芽本身也可以生成生长素。</span><span class="english">These bars buds themselves also produce auxin.</span></p>
 
 <p><span class="chinese">顶芽分泌出叫做生长素的生长类激素。</span><span class="english">Apical buds produce a growth hormone called auxin.</span></p>

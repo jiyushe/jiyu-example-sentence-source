@@ -1,5 +1,7 @@
 # 和蔼可亲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heaikeqin.md)
+
 <p><span class="chinese">和蔼可亲的机器人。</span><span class="english">The Amiable Robots.</span></p>
 
 <p><span class="chinese">她对每一个人都和蔼可亲。</span><span class="english">She is affable to everyone.</span></p>

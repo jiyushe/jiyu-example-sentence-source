@@ -1,5 +1,7 @@
 # approximative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/approximative.md)
+
 <p><span class="chinese">贪心算法用于图的染色问题是一种简单的近似方法。</span><span class="english">Greedy algorithm is a simple approximative method in graph coloring.</span></p>
 
 <p><span class="chinese">给出了一般解法和它们的近似解。</span><span class="english">This paper gives two kinds of solution and their approximative formula.</span></p>

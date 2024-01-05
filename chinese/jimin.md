@@ -1,5 +1,7 @@
 # 饥民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jimin.md)
+
 <p><span class="chinese">要有纤细的身材，请与饥民分享愕氖澄铩?。</span><span class="english">For a slim figure, share your food with the hungry.</span></p>
 
 <p><span class="chinese">要有纤细的身材，请与饥民分享愕氖澄铩?。</span><span class="english">For a slender figure, share your food with the peckish.</span></p>

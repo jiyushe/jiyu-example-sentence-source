@@ -1,5 +1,7 @@
 # 脱胎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuotai.md)
+
 <p><span class="chinese">我想知道脱胎丝绸佛是怎么做的？</span><span class="english">I wonder how the bodiless silk Buddha is made?</span></p>
 
 <p><span class="chinese">脱胎漆器有什么特别吗？</span><span class="english">Well, what's special about bodiless lacquerware?</span></p>

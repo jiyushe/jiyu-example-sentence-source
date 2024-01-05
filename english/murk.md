@@ -1,5 +1,7 @@
 # murk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/murk.md)
+
 <p><span class="chinese">在他阴暗沉郁的脑海里闪耀亮光。</span><span class="english">Glows and grows in the murk of his brain.</span></p>
 
 <p><span class="chinese">鱼雷轰炸机出现在大和号的左舷，在灰暗的天空映衬下预示着不祥的征兆。</span><span class="english">Off Yamato's port beam appeared the torpedo planes, looking dark and ominous in the gray murk.</span></p>

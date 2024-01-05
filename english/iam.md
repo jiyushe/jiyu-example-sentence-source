@@ -1,5 +1,7 @@
 # iam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iam.md)
+
 <p><span class="chinese">我就是我，我很好。</span><span class="english">I am me and Iam okey.</span></p>
 
 <p><span class="chinese">我很抱歉害了她。</span><span class="english">Iam so sorry I killed her.</span></p>

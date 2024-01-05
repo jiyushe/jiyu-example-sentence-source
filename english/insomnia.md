@@ -1,5 +1,7 @@
 # insomnia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insomnia.md)
+
 <p><span class="chinese">这，这就是失眠。</span><span class="english">This is insomnia.</span></p>
 
 <p><span class="chinese">什么是失眠？</span><span class="english">What is insomnia?</span></p>

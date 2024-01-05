@@ -1,5 +1,7 @@
 # 维修
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weixiu.md)
+
 <p><span class="chinese">可在线维修。</span><span class="english">In-line repairability.</span></p>
 
 <p><span class="chinese">维修成本和备件价格较高。</span><span class="english">Cost of maintance is high.</span></p>

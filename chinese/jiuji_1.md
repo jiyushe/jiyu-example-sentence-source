@@ -1,5 +1,7 @@
 # 纠集
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuji_1.md)
+
 <p><span class="chinese">后，许多天，你会纠集。</span><span class="english">After many days you will be mustered.</span></p>
 
 <p><span class="chinese">他们立假后选人纠集选票以分裂选票。</span><span class="english">They packed the ballot with dummy candidates to split the vote.</span></p>

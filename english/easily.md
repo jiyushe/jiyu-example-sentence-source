@@ -1,5 +1,7 @@
 # easily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/easily.md)
+
 <p><span class="chinese">我很容易被逗乐。</span><span class="english">I'm easily tickled.</span></p>
 
 <p><span class="chinese">找朋友不难。</span><span class="english">Easily find friends.</span></p>

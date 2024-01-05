@@ -1,5 +1,7 @@
 # 眼圈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanquan_1.md)
+
 <p><span class="chinese">眼圈的色素与鼻镜匹配。</span><span class="english">Eye rim pigment should match the nose.</span></p>
 
 <p><span class="chinese">“缠磨我”一词在希腊文的意思是“使我眼圈变黑”。</span><span class="english">The phrase wear me out says in Greek give me a black eye.</span></p>

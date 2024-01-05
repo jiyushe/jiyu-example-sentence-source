@@ -1,5 +1,7 @@
 # puritanism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puritanism.md)
+
 <p><span class="chinese">在美国历史研究领域，清教是个历久弥新、众说纷纭的话题。</span><span class="english">In American history, Puritanism has always been an old topic with various opinions.</span></p>
 
 <p><span class="chinese">不象温斯顿，她深深了解党在性方面的禁欲主义的内在含义。</span><span class="english">Unlike Winston, she had grasped the inner meaning of the Party's sexual puritanism.</span></p>

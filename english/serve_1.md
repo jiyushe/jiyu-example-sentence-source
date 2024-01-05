@@ -1,5 +1,7 @@
 # serve 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serve_1.md)
+
 <p><span class="chinese">你们提供伙食吗？</span><span class="english">Do you serve meals?</span></p>
 
 <p><span class="chinese">我将竭诚为您服务！</span><span class="english">I will serve for you!</span></p>

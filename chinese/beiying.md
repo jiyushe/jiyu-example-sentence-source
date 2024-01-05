@@ -1,5 +1,7 @@
 # 背影
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beiying.md)
+
 <p><span class="chinese">我只能看见他的背影。</span><span class="english">I could onlys his back.</span></p>
 
 <p><span class="chinese">人家有背景，我只有背影。</span><span class="english">They got backgrounds. I just got a back.</span></p>

@@ -1,5 +1,7 @@
 # ethology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ethology.md)
+
 <p><span class="chinese">人种学的起源可以追溯到达尔文。</span><span class="english">The origins of ethology can be traced back to darwin.</span></p>
 
 <p><span class="chinese">下面一页我们将探究一下动物行为学的世界。</span><span class="english">On the next page, we'll delve into the world of ethology.</span></p>

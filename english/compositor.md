@@ -1,5 +1,7 @@
 # compositor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compositor.md)
+
 <p><span class="chinese">项目活动排序。</span><span class="english">The compositor of project activities.</span></p>
 
 <p><span class="chinese">这个插件是一个必须为任何设计师或排字。</span><span class="english">This plug-in is a must have for any designer or compositor.</span></p>

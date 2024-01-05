@@ -1,5 +1,7 @@
 # sacral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sacral.md)
+
 <p><span class="chinese">还有一种罕见的U型骶骨骨折。</span><span class="english">Rarely, there may be a U-shaped sacral fracture.</span></p>
 
 <p><span class="chinese">目的探讨骶骨脊索瘤的外科治疗方法。</span><span class="english">Objective To discuss the surgical methods of sacral chordoma.</span></p>

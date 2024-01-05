@@ -1,5 +1,7 @@
 # lech
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lech.md)
+
 <p><span class="chinese">莱克普斯纳也不错，在小组里力压尤文图斯而晋级。</span><span class="english">And Lech Poznan did well in their group to qualify ahead of Juventus.</span></p>
 
 <p><span class="chinese">1990年，瓦文萨当选为波兰第一次全国大选的总统，宣布…</span><span class="english">In 1990, Lech Walesa took the oath of office as Poland's first popularly elected president.</span></p>

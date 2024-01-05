@@ -1,5 +1,7 @@
 # 赶场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganchang.md)
+
 <p><span class="chinese">咱们现在就吃，说不定吃完能赶场电影。</span><span class="english">Let's eat now and maybe we could catch a movie later.</span></p>
 
 <p><span class="chinese">板出绣球，不需要您再带着几只鸽子来回赶场。</span><span class="english">No longer need to run from one field to another with pigeons.</span></p>

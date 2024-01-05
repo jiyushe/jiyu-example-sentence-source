@@ -1,5 +1,7 @@
 # 编目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianmu.md)
+
 <p><span class="chinese">新到的图书正在编目。</span><span class="english">The new books are being catalogued.</span></p>
 
 <p><span class="chinese">请求打印编目的电子邮件表单。</span><span class="english">E-mail form to request a print catalog</span></p>

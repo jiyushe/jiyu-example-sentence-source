@@ -1,5 +1,7 @@
 # aim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aim.md)
+
 <p><span class="chinese">老是目的弘远！</span><span class="english">Always aim high!</span></p>
 
 <p><span class="chinese">在Gmail中使用即时通。</span><span class="english">Use AIM in Gmail.</span></p>

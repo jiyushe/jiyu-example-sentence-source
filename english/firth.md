@@ -1,5 +1,7 @@
 # firth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/firth.md)
+
 <p><span class="chinese">科林·福斯和妻子利维亚。</span><span class="english">Colin Firth and wife Livia.</span></p>
 
 <p><span class="chinese">科林•费尔斯没有在这部影片参演，</span><span class="english">It's not got Colin Firth in it,</span></p>

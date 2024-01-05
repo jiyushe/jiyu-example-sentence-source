@@ -1,5 +1,7 @@
 # 停着
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingzhe.md)
+
 <p><span class="chinese">路上停着一辆公共汽车。</span><span class="english">A bus is parking on the road.</span></p>
 
 <p><span class="chinese">这辆车在行车道上停着。</span><span class="english">The car idled in the driveway.</span></p>

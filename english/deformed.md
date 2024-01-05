@@ -1,5 +1,7 @@
 # deformed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deformed.md)
+
 <p><span class="chinese">孩子的腿变形了。</span><span class="english">The child has a deformed leg.</span></p>
 
 <p><span class="chinese">银在压力作用下变了形。</span><span class="english">The silver was deformed under stress.</span></p>

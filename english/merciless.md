@@ -1,5 +1,7 @@
 # merciless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/merciless.md)
+
 <p><span class="chinese">这人厉害极了。</span><span class="english">The man is merciless.</span></p>
 
 <p><span class="chinese">老天无眼无情，我们人间有爱、也有情！</span><span class="english">God no merciless eyes, we have human love, love!</span></p>

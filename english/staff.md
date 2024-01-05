@@ -1,5 +1,7 @@
 # staff 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/staff.md)
+
 <p><span class="chinese">员工意见箱。</span><span class="english">Staff suggestion box.</span></p>
 
 <p><span class="chinese">他们都是全职工作。</span><span class="english">All are full-time staff.</span></p>

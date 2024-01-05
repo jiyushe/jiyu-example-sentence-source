@@ -1,5 +1,7 @@
 # void
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/void.md)
+
 <p><span class="chinese">这契约无效。</span><span class="english">The contract is void.</span></p>
 
 <p><span class="chinese">所以在这里，我声明。</span><span class="english">void So here, I say void.</span></p>

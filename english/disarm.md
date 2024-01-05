@@ -1,5 +1,7 @@
 # disarm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disarm.md)
+
 <p><span class="chinese">没有人能够或者愿意解除它的武装。</span><span class="english">No one is able or willing to disarm it.</span></p>
 
 <p><span class="chinese">超级大国绝不同意裁军。</span><span class="english">The superpowers never agreed to disarm.</span></p>

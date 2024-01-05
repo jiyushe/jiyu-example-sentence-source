@@ -1,5 +1,7 @@
 # prefab
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prefab.md)
+
 <p><span class="chinese">等一下你们用预制好的大学经历来让我留下？</span><span class="english">So you guys used a prefab college experience to get me to stay?</span></p>
 
 <p><span class="chinese">可以将材质,预设,贴图直接拽入场景视图即时预览.</span><span class="english">Live previews of material, prefab and texture drags into the scene view.</span></p>

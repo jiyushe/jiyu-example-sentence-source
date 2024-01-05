@@ -1,5 +1,7 @@
 # firearms
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/firearms.md)
+
 <p><span class="chinese">他们通常不佩带手枪。</span><span class="english">They donot normally carry firearms.</span></p>
 
 <p><span class="chinese">火器进口是被禁止的。</span><span class="english">The import of firearms is forbidden.</span></p>

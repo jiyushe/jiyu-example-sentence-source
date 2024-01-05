@@ -1,5 +1,7 @@
 # 卑鄙无耻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beibiwuchi.md)
+
 <p><span class="chinese">我讨厌杰克，因为他是个卑鄙无耻的小人。</span><span class="english">I dislike Jack for he is a yellow dog.</span></p>
 
 <p><span class="chinese">将中文“我会原谅那些卑鄙无耻的人！”</span><span class="english">I will be forgiving those people who are nasty and shameless.</span></p>

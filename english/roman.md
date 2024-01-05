@@ -1,5 +1,7 @@
 # roman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roman.md)
+
 <p><span class="chinese">我希望我有一个鹰钩鼻。</span><span class="english">I wish I had a Roman nose.</span></p>
 
 <p><span class="chinese">而在他的左首则是一个罗马人。</span><span class="english">And to his left is a Roman.</span></p>

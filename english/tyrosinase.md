@@ -1,5 +1,7 @@
 # tyrosinase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tyrosinase.md)
+
 <p><span class="chinese">酪氨酸酶活性的调节。</span><span class="english">Control of tyrosinase activity.</span></p>
 
 <p><span class="chinese">第三部分酪氨酸酶基因克隆。</span><span class="english">The third part is clone of tyrosinase gene.</span></p>

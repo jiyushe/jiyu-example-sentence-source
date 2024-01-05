@@ -1,5 +1,7 @@
 # 抢眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangyan.md)
+
 <p><span class="chinese">但是至少这则新闻很抢眼。</span><span class="english">But the news is bright at least.</span></p>
 
 <p><span class="chinese">他的广告也特别抢眼。</span><span class="english">His ads are also extremely eye-catching.</span></p>

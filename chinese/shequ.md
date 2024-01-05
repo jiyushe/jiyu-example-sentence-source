@@ -1,5 +1,7 @@
 # 摄取
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shequ.md)
+
 <p><span class="chinese">我们摄取的卡路里太多了。</span><span class="english">We overdid it on the calories.</span></p>
 
 <p><span class="chinese">为什么脂肪细胞要摄取糖呢</span><span class="english">Why does it go into fat cells?</span></p>

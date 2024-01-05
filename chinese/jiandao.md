@@ -1,5 +1,7 @@
 # 剪刀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiandao.md)
+
 <p><span class="chinese">我的剪刀由钢铁构成。</span><span class="english">My scissors are made of steel.</span></p>
 
 <p><span class="chinese">如果你出剪刀，你赢。</span><span class="english">If you throw scissors, you win.</span></p>

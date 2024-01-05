@@ -1,5 +1,7 @@
 # sha
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sha.md)
+
 <p><span class="chinese">沙果冻是个高个男孩。</span><span class="english">Sha Guodong is a tall boy.</span></p>
 
 <p><span class="chinese">你今晚吃的啥饭食？</span><span class="english">Sha meals you eat tonight?</span></p>

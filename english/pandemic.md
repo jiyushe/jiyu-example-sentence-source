@@ -1,5 +1,7 @@
 # pandemic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pandemic.md)
+
 <p><span class="chinese">什么叫特大流行疫情？</span><span class="english">What is a pandemic?</span></p>
 
 <p><span class="chinese">甲流疫苗是否安全？</span><span class="english">Are pandemic vaccines safe?</span></p>

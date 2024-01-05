@@ -1,5 +1,7 @@
 # decisively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decisively.md)
+
 <p><span class="chinese">真相大白，克里斯果断地向多恩开了枪。</span><span class="english">The truth, Chris decisively shot donne.</span></p>
 
 <p><span class="chinese">而这些问题现在到了应该明明白白地回答的时候了。</span><span class="english">Those questions should now be answered decisively.</span></p>

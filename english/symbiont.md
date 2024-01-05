@@ -1,5 +1,7 @@
 # symbiont
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/symbiont.md)
+
 <p><span class="chinese">内生真菌通过多样化途径来增强植物体的营养生理和抗性机能。</span><span class="english">Plant nutrient acquisition and stress tolerance may be strengthened by the fungal symbiont.</span></p>
 
 <p><span class="chinese">研究人员进一步推测出在蚜虫内还富含另外一种共生体来弥补这种损失。</span><span class="english">The group speculates that another symbiont abundant in aphids is compensating for the loss.</span></p>

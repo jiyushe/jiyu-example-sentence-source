@@ -1,5 +1,7 @@
 # courteously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/courteously.md)
+
 <p><span class="chinese">一个正在用餐的痲疯病人。</span><span class="english">Courteously I came up to a man.</span></p>
 
 <p><span class="chinese">他谦恭有礼地为我开门。</span><span class="english">He courteously opened the door for me.</span></p>

@@ -1,5 +1,7 @@
 # inadmissible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inadmissible.md)
+
 <p><span class="chinese">他说使用武力是万万不可的。</span><span class="english">He said the use of force would be inadmissible.</span></p>
 
 <p><span class="chinese">法官裁定该证据不能被采信。</span><span class="english">The judge ruled that the evidence was inadmissible.</span></p>

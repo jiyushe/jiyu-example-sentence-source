@@ -1,5 +1,7 @@
 # bigamy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bigamy.md)
+
 <p><span class="chinese">禁止重婚。</span><span class="english">Bigamy shall be prohibited.</span></p>
 
 <p><span class="chinese">而刑法规定的重婚罪却对此无能为力。</span><span class="english">But the crime of bigamy is helpless.</span></p>

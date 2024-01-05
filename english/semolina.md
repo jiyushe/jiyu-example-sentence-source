@@ -1,5 +1,7 @@
 # semolina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semolina.md)
+
 <p><span class="chinese">维也纳的浓汤中通常会放一些有馅的食品，比如粗面饺子或薄煎饼片。</span><span class="english">Vienna soups come with fillings, such as semolina dumpling or pancake slices.</span></p>
 
 <p><span class="chinese">做好的猪肉要塞到粗小麦粉面包里去，面包是从伊丽莎白街的Parisi面包房买的。</span><span class="english">The meat is tucked into semolina rolls from Parisi bakery on Elizabeth Street.</span></p>

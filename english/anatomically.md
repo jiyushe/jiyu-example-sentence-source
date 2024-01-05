@@ -1,5 +1,7 @@
 # anatomically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anatomically.md)
+
 <p><span class="chinese">能看到侧乳，半圆臀部，和一个怪怪的</span><span class="english">showing side boob, a crescent of butt, and an anatomically</span></p>
 
 <p><span class="chinese">为显示妇女解剖结构的牛仔裤拍一个商业广告？</span><span class="english">A commercial for a line of anatomically revealing women's jeans?</span></p>

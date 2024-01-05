@@ -1,5 +1,7 @@
 # basle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/basle.md)
+
 <p><span class="chinese">确实，上周对决巴塞尔时全场是如此安静，因为曼联踢的很糟糕。</span><span class="english">Certainly, it was quiet against Basle last week, because United were playing badly.</span></p>
 
 <p><span class="chinese">2004年，他随巴塞尔交响乐团在中国进行巡演。</span><span class="english">In2004 he performed with the basle philharmonic orchestra during a concert tour in china.</span></p>

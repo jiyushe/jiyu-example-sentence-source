@@ -1,5 +1,7 @@
 # counteraction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/counteraction.md)
+
 <p><span class="chinese">第三，这种比喻性语言意味着对道德丰义的反拨。</span><span class="english">Thirdly, the metaphoric language means the counteraction of moralism.</span></p>
 
 <p><span class="chinese">我想集中探讨一下旅游对于社会发展的反作用。</span><span class="english">I'd like to focus my mind on the counteraction of tourism on social progress.</span></p>

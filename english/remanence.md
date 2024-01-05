@@ -1,5 +1,7 @@
 # remanence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remanence.md)
+
 <p><span class="chinese">装置采取软件交流磁调制检测技术，有效抵消了剩磁效应。</span><span class="english">Remanence is eliminated effectively by using software technique of AC magnetism modulation.</span></p>
 
 <p><span class="chinese">介绍一种高压电流互感器剩磁系数测试系统。</span><span class="english">A measuring system for magnetic remanence coefficient of the HV current transformers is explained.</span></p>

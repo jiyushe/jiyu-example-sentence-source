@@ -1,5 +1,7 @@
 # retardancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retardancy.md)
+
 <p><span class="chinese">经整理后的棉织物阴燃性能良好。</span><span class="english">The finished cotton fabrics had good flame retardancy.</span></p>
 
 <p><span class="chinese">这三种共聚物有好的的耐热性能和阻燃性能。</span><span class="english">Those three copolymers have good heat resistance and flame retardancy.</span></p>

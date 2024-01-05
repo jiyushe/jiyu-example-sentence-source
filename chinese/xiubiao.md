@@ -1,5 +1,7 @@
 # 袖标
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiubiao.md)
+
 <p><span class="chinese">队长袖标被交到了马尔蒂尼的手上。</span><span class="english">The captain arm-band was passed to Maldini.</span></p>
 
 <p><span class="chinese">主教练把袖标给我对我是个很大的激励。</span><span class="english">The manager gave me a big boost by giving me the armband.</span></p>

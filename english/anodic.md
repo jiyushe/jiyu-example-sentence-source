@@ -1,5 +1,7 @@
 # anodic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anodic.md)
+
 <p><span class="chinese">而硫酸铅的阳极氧化反应则是众所周知的。</span><span class="english">The anodic oxidation of lead sulphate is well known.</span></p>
 
 <p><span class="chinese">锡锌合金镀层相对于钢铁基体为阳极性镀层。</span><span class="english">Tin-zinc alloy deposit is anodic coating to iron and steel.</span></p>

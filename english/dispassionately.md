@@ -1,5 +1,7 @@
 # dispassionately
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dispassionately.md)
+
 <p><span class="chinese">出现这种情况应平心静气地找原因。</span><span class="english">Happen to be looking for reasons dispassionately.</span></p>
 
 <p><span class="chinese">当一个辩论者不动感情于争辩，他只是为争辩而辩。</span><span class="english">When an arguer argues dispassionately he thinks only of the argument.</span></p>

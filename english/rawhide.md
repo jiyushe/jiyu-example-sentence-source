@@ -1,5 +1,7 @@
 # rawhide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rawhide.md)
+
 <p><span class="chinese">填充油，牛皮皮革领结跳过鞋带。</span><span class="english">Oil-stuffed, rawhide leather bow tie skip laces.</span></p>
 
 <p><span class="chinese">我把耳和弓臂也用生皮绑在一起。</span><span class="english">I also bound that ear limb connection with rawhide strips.</span></p>

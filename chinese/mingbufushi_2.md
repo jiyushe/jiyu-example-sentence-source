@@ -1,5 +1,7 @@
 # 名不符实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingbufushi_2.md)
+
 <p><span class="chinese">他是个名不符实的工程师。</span><span class="english">He is unworthy of the title engineer.</span></p>
 
 <p><span class="chinese">如今，有些作家名不符实。</span><span class="english">Nowadays , some writers are not living up to their names.</span></p>

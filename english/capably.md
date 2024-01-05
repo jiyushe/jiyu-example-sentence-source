@@ -1,5 +1,7 @@
 # capably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capably.md)
+
 <p><span class="chinese">我们高兴地看到，我们的技术人员协助你如此干练。</span><span class="english">We are pleased that our technical staff assisted you so capably.</span></p>
 
 <p><span class="chinese">即便他是一个小偷，有时他也可能是一个“好人”。</span><span class="english">Even though he is a cutpurse, sometimes, he will capably be a good man.</span></p>

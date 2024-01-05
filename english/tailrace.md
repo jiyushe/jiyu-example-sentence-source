@@ -1,5 +1,7 @@
 # tailrace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tailrace.md)
+
 <p><span class="chinese">龙滩水电站设置尾水阻抗式调压井。</span><span class="english">The tailrace impedance surge chamber is going to be used on Longtan hydropower station.</span></p>
 
 <p><span class="chinese">调压室位置是影响调保参数的主要因素之一。</span><span class="english">The location of the tailrace surge tank is one of the main factors effecting on guaranteed regulation.</span></p>

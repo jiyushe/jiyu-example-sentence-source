@@ -1,5 +1,7 @@
 # gaudy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gaudy.md)
+
 <p><span class="chinese">还只是喧闹春天的传令兵。</span><span class="english">And only herald to the gaudy spring.</span></p>
 
 <p><span class="chinese">她著一身色彩艳丽的服装参加宴会。</span><span class="english">She wore a gaudy costume to the party.</span></p>

@@ -1,5 +1,7 @@
 # serotype
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serotype.md)
+
 <p><span class="chinese">该血清型已被确定为01群小川型霍乱弧菌。</span><span class="english">The serotype has been identified as 01 Ogawa.</span></p>
 
 <p><span class="chinese">对多种抗生素耐药株无特定的血清型。</span><span class="english">Multi-drug resistant strains had no characteristic serotype.</span></p>

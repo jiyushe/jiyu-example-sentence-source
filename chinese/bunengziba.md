@@ -1,5 +1,7 @@
 # 不能自拔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bunengziba.md)
+
 <p><span class="chinese">如此爱你，以至于不能自拔！</span><span class="english">So love you , that I Can't pullout !</span></p>
 
 <p><span class="chinese">或是沉迷在比利·乔的蓝调音乐中不能自拔。</span><span class="english">Or, even worse, become addicted to Billy Joel songs.</span></p>

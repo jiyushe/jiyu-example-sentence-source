@@ -1,5 +1,7 @@
 # 古籍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guji_1.md)
+
 <p><span class="chinese">玛雅古籍是玛雅人的文字记录。</span><span class="english">A codex is a Mayan written record.</span></p>
 
 <p><span class="chinese">韩规古籍是普米族祭司韩规使用的宗教典籍。</span><span class="english">Hangui is the priest of the Pumi nationality.</span></p>

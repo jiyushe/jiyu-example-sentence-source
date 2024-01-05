@@ -1,5 +1,7 @@
 # 暴风雨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baofengyu.md)
+
 <p><span class="chinese">在暴风雨后跑步。</span><span class="english">Run after a rainstorm.</span></p>
 
 <p><span class="chinese">暴风雨即将来临。</span><span class="english">A storm is approaching.</span></p>

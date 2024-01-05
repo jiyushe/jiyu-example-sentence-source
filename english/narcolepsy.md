@@ -1,5 +1,7 @@
 # narcolepsy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/narcolepsy.md)
+
 <p><span class="chinese">你有嗜睡症吗？</span><span class="english">Do You Have Narcolepsy?</span></p>
 
 <p><span class="chinese">你嗜睡吗？</span><span class="english">Could You Have Narcolepsy?</span></p>

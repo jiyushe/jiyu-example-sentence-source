@@ -1,5 +1,7 @@
 # immigration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immigration.md)
+
 <p><span class="chinese">移民改革亦不例外。</span><span class="english">Immigration reform is no exception.</span></p>
 
 <p><span class="chinese">以才能为考量基准的新移民制度</span><span class="english">A NEW MERIT-BASED IMMIGRATION SYSTEM</span></p>

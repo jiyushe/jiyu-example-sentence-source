@@ -1,5 +1,7 @@
 # parse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parse.md)
+
 <p><span class="chinese">那么，如何解析它呢？</span><span class="english">How would you parse it, then?</span></p>
 
 <p><span class="chinese">还要传递要进行语法分析的文件。</span><span class="english">You also pass in the File to parse.</span></p>

@@ -1,5 +1,7 @@
 # 机井
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jijing_1.md)
+
 <p><span class="chinese">结果挖了580口机井和几条水渠。</span><span class="english">Consequently, 580 power-operated wells and some canals have been dug.</span></p>
 
 <p><span class="chinese">消防员在机井里放了一个梯子。</span><span class="english">Firefighters reportedly placed a ladder in the elevator shaft to reach the child.</span></p>

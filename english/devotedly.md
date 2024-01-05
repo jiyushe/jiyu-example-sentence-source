@@ -1,5 +1,7 @@
 # devotedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/devotedly.md)
+
 <p><span class="chinese">他真诚地爱他的妻子。</span><span class="english">He loved his wife devotedly.</span></p>
 
 <p><span class="chinese">一天，当我正在专心的听着时。</span><span class="english">One day, when I was listening devotedly.</span></p>

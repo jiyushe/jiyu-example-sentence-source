@@ -1,5 +1,7 @@
 # 面上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianshang.md)
+
 <p><span class="chinese">以纸巾拭除残留在面上的按摩霜。</span><span class="english">Gently wipe off with a tissue.</span></p>
 
 <p><span class="chinese">他是我义大利通心面上的起司。</span><span class="english">He is the cheese to my macaroni.</span></p>

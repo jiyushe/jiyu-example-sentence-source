@@ -1,5 +1,7 @@
 # 长生不老
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changshengbulao.md)
+
 <p><span class="chinese">陪同嫦娥，并捣制长生不老药。</span><span class="english">Accompanied Chang, and ramming system elixir.</span></p>
 
 <p><span class="chinese">如果你有2颗长生不老药你会把给谁吃？</span><span class="english">Are if you have 2 elixirs, you met to who to eat?</span></p>

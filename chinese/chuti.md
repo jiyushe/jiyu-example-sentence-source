@@ -1,5 +1,7 @@
 # 出题
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuti.md)
+
 <p><span class="chinese">尊敬的出题老师你想到了吗?。</span><span class="english">You think you teacher respect?</span></p>
 
 <p><span class="chinese">我先要出题嘛。大家听好了。</span><span class="english">Now I have to give you a question first.</span></p>

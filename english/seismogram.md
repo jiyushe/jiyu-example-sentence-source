@@ -1,5 +1,7 @@
 # seismogram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seismogram.md)
+
 <p><span class="chinese">测震仪的运动是怎么转换成震动图的？</span><span class="english">How is the movement of the seismometer converted into a seismogram?</span></p>
 
 <p><span class="chinese">深度域的合成地震记录也与时间域类似。</span><span class="english">Seismogram synthesizing in depth domain is similar to that in time domain.</span></p>

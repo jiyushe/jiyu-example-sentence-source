@@ -1,5 +1,7 @@
 # 定居
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingju_1.md)
+
 <p><span class="chinese">他定居马来西亚。</span><span class="english">He settled in Malaysia.</span></p>
 
 <p><span class="chinese">她定居在俄亥俄州的Stow。</span><span class="english">She resides in Stow, Ohio.</span></p>

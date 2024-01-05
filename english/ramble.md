@@ -1,5 +1,7 @@
 # ramble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ramble.md)
+
 <p><span class="chinese">这是去郊区漫游的最好季节。</span><span class="english">This is the best season for a ramble in the suburbs.</span></p>
 
 <p><span class="chinese">还有许多的话想说，不啰嗦了。我的思想将一路上跟随着你们。</span><span class="english">I could say much more, but I don't want to ramble on.</span></p>

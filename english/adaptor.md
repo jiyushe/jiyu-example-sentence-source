@@ -1,5 +1,7 @@
 # adaptor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adaptor.md)
+
 <p><span class="chinese">我需要一个三脚插头的转接头。</span><span class="english">I need an adaptor for a three-pin plug.</span></p>
 
 <p><span class="chinese">在环境模式下，为分析适配器模板选择一个环境。</span><span class="english">At Environment, select the environment for the analysis adaptor.</span></p>

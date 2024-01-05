@@ -1,5 +1,7 @@
 # 查收
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chashou.md)
+
 <p><span class="chinese">你查收邮件的频率是多少？</span><span class="english">How often do you check your email?</span></p>
 
 <p><span class="chinese">我已将本月报表做完，请查收。</span><span class="english">Enclosed please find this month's PNL.</span></p>

@@ -1,5 +1,7 @@
 # 重水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongshui.md)
+
 <p><span class="chinese">重水在化学成分上与普通水是一样的。</span><span class="english">Heavy water is chemically the same as regular-light water.</span></p>
 
 <p><span class="chinese">比较了重水和轻水的工作曲线。</span><span class="english">The working curves of heavy water and light water are comparable.</span></p>

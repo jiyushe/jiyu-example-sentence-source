@@ -1,5 +1,7 @@
 # 零蛋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingdan.md)
+
 <p><span class="chinese">有的乃至是每天吃零蛋。</span><span class="english">Some even eat every day zero.</span></p>
 
 <p><span class="chinese">每天吃一个鸡蛋就不会得零蛋。</span><span class="english">An egg a day keeps the zero away.</span></p>

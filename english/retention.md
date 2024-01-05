@@ -1,5 +1,7 @@
 # retention
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retention.md)
+
 <p><span class="chinese">锁紧罩式安全系统。</span><span class="english">Safety cagejaw retention system.</span></p>
 
 <p><span class="chinese">因体液潴留而体重增加</span><span class="english">Weight gain from fluid retention</span></p>

@@ -1,5 +1,7 @@
 # punctilious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/punctilious.md)
+
 <p><span class="chinese">毕利执行任务总是一丝不苟的。</span><span class="english">Billy is punctilious in the performance of his duties.</span></p>
 
 <p><span class="chinese">巴季金是一个非常精确和一丝不苟的人。</span><span class="english">However, Badigin is very precise and punctilious person.</span></p>

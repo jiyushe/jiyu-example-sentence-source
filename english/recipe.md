@@ -1,5 +1,7 @@
 # recipe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recipe.md)
+
 <p><span class="chinese">那是一个方法。</span><span class="english">That's a recipe.</span></p>
 
 <p><span class="chinese">他说“他有一个秘诀。”</span><span class="english">We have a recipe.</span></p>

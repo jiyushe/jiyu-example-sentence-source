@@ -1,5 +1,7 @@
 # snowpack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snowpack.md)
+
 <p><span class="chinese">记录大小的积雪和严重洪涝影响的地区。</span><span class="english">Record-size snowpack and heavy flooding have affected the area recently.</span></p>
 
 <p><span class="chinese">幸运的是，我们大部分的供水续签每年积雪的落基山。</span><span class="english">Fortunately, most of our water supply is renewed annually as snowpack in the Rockies.</span></p>

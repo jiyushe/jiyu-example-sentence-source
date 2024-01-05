@@ -1,5 +1,7 @@
 # monistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monistic.md)
+
 <p><span class="chinese">实证论与新实证论也是如此。</span><span class="english">So are the monistic doctrines of positivism and neopositivism.</span></p>
 
 <p><span class="chinese">柳亚子等人文化一元论的思维方式是南社解体的最深层原因。</span><span class="english">The pattern of thinking of cultural monistic was a deep cause.</span></p>

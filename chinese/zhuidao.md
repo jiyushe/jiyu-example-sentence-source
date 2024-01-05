@@ -1,5 +1,7 @@
 # 追悼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuidao.md)
+
 <p><span class="chinese">也在追悼我们的爱情。</span><span class="english">And mourn for our love.</span></p>
 
 <p><span class="chinese">梦中的未来悲恸哀泣，追悼失落的明天。</span><span class="english">And through the dream the future wept, grieving for the lost tomorrow.</span></p>

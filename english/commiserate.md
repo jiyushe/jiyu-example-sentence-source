@@ -1,5 +1,7 @@
 # commiserate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commiserate.md)
+
 <p><span class="chinese">你母亲逝世，我特向你慰问。</span><span class="english">I commiserate with you on the loss of your mother.</span></p>
 
 <p><span class="chinese">你最好对约翰最近的不幸表示同情。</span><span class="english">You'd better commiserate John on his recent misfortunes.</span></p>

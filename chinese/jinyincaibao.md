@@ -1,5 +1,7 @@
 # 金银财宝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinyincaibao.md)
+
 <p><span class="chinese">他积累了大量的金银财宝。</span><span class="english">He amassed great treasure.</span></p>
 
 <p><span class="chinese">你行行好吧，我给你许多金银财宝。</span><span class="english">And I'll give you much treasure.</span></p>

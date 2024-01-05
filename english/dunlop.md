@@ -1,5 +1,7 @@
 # dunlop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dunlop.md)
+
 <p><span class="chinese">哈罗德。邓洛普？</span><span class="english">The Harold Dunlop?</span></p>
 
 <p><span class="chinese">我给Dunlop女士写电子邮件咨询使用酒的意图。</span><span class="english">I e-mailed Ms. Dunlop to ask the intended purpose of the wine.</span></p>

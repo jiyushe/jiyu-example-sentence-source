@@ -1,5 +1,7 @@
 # 名媛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingyuan.md)
+
 <p><span class="chinese">关于这一点，社交名媛帕里斯•希尔顿就是现成的例子。</span><span class="english">Just ask Paris Hilton.</span></p>
 
 <p><span class="chinese">一名忙碌的名媛没在那儿呆太久。</span><span class="english">A busy celebrity, she couldn't stay long.</span></p>

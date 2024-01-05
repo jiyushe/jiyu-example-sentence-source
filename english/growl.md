@@ -1,5 +1,7 @@
 # growl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/growl.md)
+
 <p><span class="chinese">然后我们听到了一声更大的咆哮。</span><span class="english">Then we hear a louder growl.</span></p>
 
 <p><span class="chinese">它们会叫、呜咽、咆哮和打哈欠。</span><span class="english">They'll bark, whimper, growl and yawn.</span></p>

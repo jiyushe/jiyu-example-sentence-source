@@ -1,5 +1,7 @@
 # 绿荫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvyin.md)
+
 <p><span class="chinese">小橡树不再是一片绿荫。</span><span class="english">So it is no longer green.</span></p>
 
 <p><span class="chinese">在绿荫如盖的树旁有一个鱼塘。</span><span class="english">There was a fish pond near the shady tree.</span></p>

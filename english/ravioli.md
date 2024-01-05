@@ -1,5 +1,7 @@
 # ravioli
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ravioli.md)
+
 <p><span class="chinese">就像意式馄饨。</span><span class="english">It's like ravioli.</span></p>
 
 <p><span class="chinese">他们都知道我喜欢奶酪意大利饺。</span><span class="english">They know I like cheese ravioli.</span></p>

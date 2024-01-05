@@ -1,5 +1,7 @@
 # 致辞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhici_1.md)
+
 <p><span class="chinese">“享受盯梢追捕的乐趣”，他临别致辞。</span><span class="english">“Enjoy the stalking, ” was his farewell remark.</span></p>
 
 <p><span class="chinese">克罗克在他的致辞说明中，更是增添了这份疑虑。</span><span class="english">Crocker, in his opening statement, added to the gloom.</span></p>

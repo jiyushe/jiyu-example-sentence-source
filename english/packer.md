@@ -1,5 +1,7 @@
 # packer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/packer.md)
+
 <p><span class="chinese">这个证据足以证明Packer有罪。</span><span class="english">This evidence would convict Packer.</span></p>
 
 <p><span class="chinese">Packer朝他的腹部开了两枪。</span><span class="english">Packer shot him twice in the stomach.</span></p>

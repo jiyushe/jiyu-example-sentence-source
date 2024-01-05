@@ -1,5 +1,7 @@
 # 曲径
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qujing_2.md)
+
 <p><span class="chinese">和苔藓的曲径。</span><span class="english">And winding mossy ways.</span></p>
 
 <p><span class="chinese">我被奋力拉着穿过布满染缸的曲径。</span><span class="english">I was tugged back through the maze of vats.</span></p>

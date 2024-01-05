@@ -1,5 +1,7 @@
 # 中间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongjian_1.md)
+
 <p><span class="chinese">这中间曾有惨败。</span><span class="english">There have been fiascos.</span></p>
 
 <p><span class="chinese">中间是代码。</span><span class="english">In the center is my code.</span></p>

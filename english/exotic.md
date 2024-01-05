@@ -1,5 +1,7 @@
 # exotic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exotic.md)
+
 <p><span class="chinese">对你来说，比萨不够“意大利”吗？</span><span class="english">Pizza not exotic enough for you?</span></p>
 
 <p><span class="chinese">想要一些异国风情吗？</span><span class="english">Want something a bit more exotic?</span></p>

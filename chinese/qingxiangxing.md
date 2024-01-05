@@ -1,5 +1,7 @@
 # 倾向性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingxiangxing.md)
+
 <p><span class="chinese">但proclivity本身又具有倾向性。</span><span class="english">But there is a tone to proclivity too.</span></p>
 
 <p><span class="chinese">像他们一样，我没有选择自己性爱的倾向性。</span><span class="english">Like them, I didn't choose my preference.</span></p>

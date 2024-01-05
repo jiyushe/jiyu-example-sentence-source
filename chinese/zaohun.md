@@ -1,5 +1,7 @@
 # 早婚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaohun.md)
+
 <p><span class="chinese">但公共卫生措施不能避免早婚。</span><span class="english">But public health cannot prevent early marriage.</span></p>
 
 <p><span class="chinese">早婚有地区，语言，宗教，等级因素。</span><span class="english">Child marriage spans continents, language, religion, caste.</span></p>

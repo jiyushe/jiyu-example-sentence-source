@@ -1,5 +1,7 @@
 # cudgel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cudgel.md)
+
 <p><span class="chinese">为了要握有刺的棍子，首先得戴上手套。</span><span class="english">One puts on gloves before grasping a thorn cudgel.</span></p>
 
 <p><span class="chinese">他常欺负你，我真为你打抱不平。</span><span class="english">He often bullies you. I really take up the cudgel for you.</span></p>

@@ -1,5 +1,7 @@
 # humorously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humorously.md)
+
 <p><span class="chinese">布兰克芬谈到自己时滔滔不绝，且言辞诙谐。</span><span class="english">Mr. Blankfein talks about himself humorously and well.</span></p>
 
 <p><span class="chinese">手枪Annies“歌曲”羚牛“丸”，幽默地说，这一切。</span><span class="english">The Pistol Annies' song "Takin' Pills" humorously says it all.</span></p>

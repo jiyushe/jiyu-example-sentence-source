@@ -1,5 +1,7 @@
 # triumphant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triumphant.md)
+
 <p><span class="chinese">我叫着，简直是一种胜利的腔调。</span><span class="english">I exclaimed in a rather triumphant tone.</span></p>
 
 <p><span class="chinese">时间变成了无处不在的志得意满的死亡。</span><span class="english">Time has become Death triumphant over all.</span></p>

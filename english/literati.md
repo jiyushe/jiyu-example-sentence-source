@@ -1,5 +1,7 @@
 # literati
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/literati.md)
+
 <p><span class="chinese">中晚期文人画又大兴。</span><span class="english">Late in the literati paintings and style.</span></p>
 
 <p><span class="chinese">山东士族具有文化性和地方性。</span><span class="english">Shantung literati was cultural and regional.</span></p>

@@ -1,5 +1,7 @@
 # adopt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adopt.md)
+
 <p><span class="chinese">选用激光木样刀模。</span><span class="english">Adopt laser wood die cutter.</span></p>
 
 <p><span class="chinese">我们采取的是股份制。</span><span class="english">We adopt share-holding system.</span></p>

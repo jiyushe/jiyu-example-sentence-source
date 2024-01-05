@@ -1,5 +1,7 @@
 # 描写
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miaoxie.md)
+
 <p><span class="chinese">描写必须适得其所。</span><span class="english">Description must work for its place.</span></p>
 
 <p><span class="chinese">影片描写的是一个真事的人。</span><span class="english">The film am writing acres a ture man.</span></p>

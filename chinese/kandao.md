@@ -1,5 +1,7 @@
 # 砍刀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kandao.md)
+
 <p><span class="chinese">我注意到所有的女人也都拿着砍刀。</span><span class="english">The women, I noticed, were all clutching machetes.</span></p>
 
 <p><span class="chinese">我们过去常在下面休息的那棵树已砍刀了。</span><span class="english">The tree under which we used to take a rest has been cut down.</span></p>

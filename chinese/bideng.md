@@ -1,5 +1,7 @@
 # 壁灯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bideng.md)
+
 <p><span class="chinese">帝凡尼壁灯。</span><span class="english">Tiffany Wall Lamp.</span></p>
 
 <p><span class="chinese">全铝材壁灯！</span><span class="english">All-aluminum wall lamp!</span></p>

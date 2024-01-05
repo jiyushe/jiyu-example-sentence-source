@@ -1,5 +1,7 @@
 # loggia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loggia.md)
+
 <p><span class="chinese">她穿过凉亭，迅速走进屋内。</span><span class="english">She crosses the loggia and quickly enters the house.</span></p>
 
 <p><span class="chinese">客厅外是长廊式客厅。</span><span class="english">Just outside the Living Room is the Loggia Living Room.</span></p>

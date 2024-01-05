@@ -1,5 +1,7 @@
 # zag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zag.md)
+
 <p><span class="chinese">为什么这个那个不建议给指甲打蜡？</span><span class="english">Why doesn't Zig Zag suggest nail-waxing service?</span></p>
 
 <p><span class="chinese">不久之前，Zag在纽约的分公司也开业了。</span><span class="english">The agency recently opened a Zag office in New York.</span></p>

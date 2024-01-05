@@ -1,5 +1,7 @@
 # outsold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outsold.md)
+
 <p><span class="chinese">在法国比哈利波特还要成功。</span><span class="english">They've outsold Harry Potter in France.</span></p>
 
 <p><span class="chinese">在圣诞节，亚马逊的Kindle电子图书销量超过纸介图书。</span><span class="english">Kindle eBooks Outsold Paper Books on Christmas.</span></p>

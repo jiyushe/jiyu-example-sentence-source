@@ -1,5 +1,7 @@
 # 慈和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cihe.md)
+
 <p><span class="chinese">济慈和雪莱是同时代人。</span><span class="english">Keats was contemporary with Shelley.</span></p>
 
 <p><span class="chinese">像济慈和雪莱这样的诗人现在很少了。</span><span class="english">There are few poets such as Keats and Shelly.</span></p>

@@ -1,5 +1,7 @@
 # fruitless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fruitless.md)
+
 <p><span class="chinese">他们对飞机的搜寻是毫无结果的。</span><span class="english">Their search for the plane is fruitless.</span></p>
 
 <p><span class="chinese">这是一场关于先天遗传与后天环境的无果辩论。</span><span class="english">This is a fruitless nature-nurture debate.</span></p>

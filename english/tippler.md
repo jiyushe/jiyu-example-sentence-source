@@ -1,5 +1,7 @@
 # tippler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tippler.md)
+
 <p><span class="chinese">我不能说他是个酒鬼。</span><span class="english">I wouldn' t say he' s a tippler.</span></p>
 
 <p><span class="chinese">在滁州时，自号醉翁。</span><span class="english">When in Chuzhou, since the number tippler.</span></p>

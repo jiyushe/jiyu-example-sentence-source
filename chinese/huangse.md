@@ -1,5 +1,7 @@
 # 黄色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangse.md)
+
 <p><span class="chinese">一只是黄色的。</span><span class="english">One is yellow.</span></p>
 
 <p><span class="chinese">我想买那个黄色的沙发床。</span><span class="english">Th is is a sofa bed?</span></p>

@@ -1,5 +1,7 @@
 # shakily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shakily.md)
+
 <p><span class="chinese">他睁开眼，笑了笑，笑声发颤。</span><span class="english">He opens his eyes and laughs a little, shakily.</span></p>
 
 <p><span class="chinese">不可能啊！一位顾问颤抖地说。</span><span class="english">That's impossible! one of the advisors said shakily.</span></p>

@@ -1,5 +1,7 @@
 # 岔路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chalu.md)
+
 <p><span class="chinese">汽车从大道开到岔路上去了。</span><span class="english">The truck turned off the main road.</span></p>
 
 <p><span class="chinese">你怎样扭转一段走向岔路的关系？</span><span class="english">How do you turn around a relationship?</span></p>

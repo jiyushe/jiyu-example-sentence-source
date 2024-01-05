@@ -1,5 +1,7 @@
 # ckd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ckd.md)
+
 <p><span class="chinese">如果不经治疗，CKD能导致肾功能衰竭。</span><span class="english">If untreated, CKD can result in kidney failure.</span></p>
 
 <p><span class="chinese">处于那个时期的患者应该交给肾病医师？</span><span class="english">At which stage of CKD should patients be referred to a nephrologist?</span></p>

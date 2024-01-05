@@ -1,5 +1,7 @@
 # 拦路虎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lanluhu.md)
+
 <p><span class="chinese">不要让失败成为你的拦路虎。</span><span class="english">Don't let failures deter you.</span></p>
 
 <p><span class="chinese">六盘山，拦路虎，费用高。</span><span class="english">Liupanshan, stumbling block, the high cost.</span></p>

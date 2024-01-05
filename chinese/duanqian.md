@@ -1,5 +1,7 @@
 # 短浅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duanqian.md)
+
 <p><span class="chinese">他们还在相信他那不争气的内阁，和他那短浅的政治眼光吗？</span><span class="english">Are they convinced by his cabinet and his vision, such as it is?</span></p>
 
 <p><span class="chinese">一青年，见识短浅亦无知蒙昧，恰得一剑。</span><span class="english">A young man, callow and foolish in innocence, came to own a sword.</span></p>

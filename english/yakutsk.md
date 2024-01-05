@@ -1,5 +1,7 @@
 # yakutsk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yakutsk.md)
+
 <p><span class="chinese">俄罗斯西伯利亚至雅库茨克的之路。</span><span class="english">Russian Siberian Road to Yakutsk</span></p>
 
 <p><span class="chinese">当下莫斯科和雅库茨克都正在寒冷多雪的冬天。</span><span class="english">Both Moscow and Yakutsk are currently in the midst of cold, snowy winters.</span></p>

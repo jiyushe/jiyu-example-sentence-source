@@ -1,5 +1,7 @@
 # privation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/privation.md)
+
 <p><span class="chinese">他的死对他的同事们来说是一个巨大的损失。</span><span class="english">His death was a great privation to his colleagues.</span></p>
 
 <p><span class="chinese">他们除了饥饿、黑暗，贫穷和疾病，一无所有。</span><span class="english">They have nothing but hunger, dark , privation and illness.</span></p>

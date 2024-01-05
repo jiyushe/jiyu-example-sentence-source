@@ -1,5 +1,7 @@
 # 先入为主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianruweizhu.md)
+
 <p><span class="chinese">我也已经压缩了我一些先入为主的想法。</span><span class="english">I've already squashed a few of my pre-conceived notions.</span></p>
 
 <p><span class="chinese">他们没有先入为主的期望，那将混淆他们的判断。</span><span class="english">They don’t have predetermined expectations fogging theirjudgment.</span></p>

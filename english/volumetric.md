@@ -1,5 +1,7 @@
 # volumetric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/volumetric.md)
+
 <p><span class="chinese">增加了新的体积云！</span><span class="english">Added new Volumetric Clouds!</span></p>
 
 <p><span class="chinese">重量和体积配置。</span><span class="english">Gravimetric and volumetric configurations.</span></p>

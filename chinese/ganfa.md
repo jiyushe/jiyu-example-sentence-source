@@ -1,5 +1,7 @@
 # 干法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganfa.md)
+
 <p><span class="chinese">评述了近年来季铵型阳离子淀粉干法制备研究进展。</span><span class="english">In this paper, dry process of preparing cationic starch is reviewed.</span></p>
 
 <p><span class="chinese">谷物样品采用干法为主，干湿结合的办法灰化。</span><span class="english">Dry and dry-wet combination method were used in ashing of grain samples.</span></p>

@@ -1,5 +1,7 @@
 # 魂牵梦萦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunqianmengying.md)
+
 <p><span class="chinese">关山戎马英雄心，魂牵梦萦女儿情。</span><span class="english">Military hero of heart, beloved daughter.</span></p>
 
 <p><span class="chinese">他也不祈求凯瑟琳的魂牵梦萦。</span><span class="english">He didn't pray for Catherine's soul to haunt him.</span></p>

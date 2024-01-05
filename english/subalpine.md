@@ -1,5 +1,7 @@
 # subalpine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subalpine.md)
+
 <p><span class="chinese">欢迎光临中国科学院华西亚高山植物园！</span><span class="english">Welcome to the West China Subalpine Botanical Garden!</span></p>
 
 <p><span class="chinese">产于加拿大和阿拉斯加潮湿的高山和亚高山的草地。</span><span class="english">Of wet alpine and subalpine meadows of Canada and Alaska.</span></p>

@@ -1,5 +1,7 @@
 # 叙事诗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xushishi.md)
+
 <p><span class="chinese">印度创立了叙事诗文学。</span><span class="english">India produced epic literature.</span></p>
 
 <p><span class="chinese">这几行诗是他那长篇叙事诗的序诗。</span><span class="english">The line form a prelude to his long narrative poem.</span></p>

@@ -1,5 +1,7 @@
 # blunt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blunt.md)
+
 <p><span class="chinese">刀钝了。</span><span class="english">The knife is blunt.</span></p>
 
 <p><span class="chinese">这是把钝刀。</span><span class="english">It is a blunt knife.</span></p>

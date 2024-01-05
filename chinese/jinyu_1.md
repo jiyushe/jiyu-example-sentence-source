@@ -1,5 +1,7 @@
 # 禁欲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinyu_1.md)
+
 <p><span class="chinese">它是完全禁欲的。</span><span class="english">It's completely ascetic.</span></p>
 
 <p><span class="chinese">保罗和所有好人都是禁欲的。</span><span class="english">Paul and the good guys are all ascetic.</span></p>

@@ -1,5 +1,7 @@
 # halite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/halite.md)
+
 <p><span class="chinese">石膏与岩盐则逐渐变薄或完全被溶解掉。</span><span class="english">Gypsum and halite are simply thinned or removed altogether.</span></p>
 
 <p><span class="chinese">盐构造是由于岩盐和其他蒸发岩的流动形变所形成的地质体。</span><span class="english">Salt structure is a geologic body formed by flow iir1 deformation of halite and other evaporitic rocks.</span></p>

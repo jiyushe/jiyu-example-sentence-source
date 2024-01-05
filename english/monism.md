@@ -1,5 +1,7 @@
 # monism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monism.md)
+
 <p><span class="chinese">如果能办到我就设法让他们谈一元论。</span><span class="english">I'm going to get them started on monism if I can.</span></p>
 
 <p><span class="chinese">在一定意义上，这也许是一元论的固有困难。</span><span class="english">In a way, it may be the inherent difficulty in monism.</span></p>

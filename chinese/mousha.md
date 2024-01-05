@@ -1,5 +1,7 @@
 # 谋杀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mousha.md)
+
 <p><span class="chinese">这是在谋杀我。</span><span class="english">It's killing me.</span></p>
 
 <p><span class="chinese">谁谋杀了这一切？</span><span class="english">Who murdered all these?</span></p>

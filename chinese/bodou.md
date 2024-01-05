@@ -1,5 +1,7 @@
 # 搏斗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bodou.md)
+
 <p><span class="chinese">他同歹徒进行了搏斗。</span><span class="english">He struggled with the ruffian.</span></p>
 
 <p><span class="chinese">那是一场生死搏斗。</span><span class="english">That is a life-and-death struggle.</span></p>

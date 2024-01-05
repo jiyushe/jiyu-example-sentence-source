@@ -1,5 +1,7 @@
 # worst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/worst.md)
+
 <p><span class="chinese">这是她最糟糕的电影.</span><span class="english">This is her worst film.</span></p>
 
 <p><span class="chinese">但情况没有过去那么糟糕。</span><span class="english">But the worst may be past.</span></p>

@@ -1,5 +1,7 @@
 # 独善其身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dushanqishen.md)
+
 <p><span class="chinese">我们生活在同一个地球上，谁都无法独善其身。</span><span class="english">We all lived in one earth, no one can be alone.</span></p>
 
 <p><span class="chinese">百变而独善其身是她们的人生哲学。</span><span class="english">Ever-changing and possess is their philosophy of life.</span></p>

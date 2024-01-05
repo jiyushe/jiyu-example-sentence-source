@@ -1,5 +1,7 @@
 # rib
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rib.md)
+
 <p><span class="chinese">他折断了胸骨和髋关节。</span><span class="english">He’d fractured his rib and hip.</span></p>
 
 <p><span class="chinese">这种管道大多采用罗纹连接。</span><span class="english">This pipe they use a rib connection.</span></p>

@@ -1,5 +1,7 @@
 # 财运
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caiyun.md)
+
 <p><span class="chinese">衰退，怎么说呢，财运失意，爱情得意？</span><span class="english">Recessions, it seems, are good for love, too.</span></p>
 
 <p><span class="chinese">酒店运营商的财运常常随着整体经济而波动。</span><span class="english">Hotelier fortunes sway with the broader economy.</span></p>

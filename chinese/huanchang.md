@@ -1,5 +1,7 @@
 # 欢唱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanchang.md)
+
 <p><span class="chinese">必须欢唱，希望，并且说道</span><span class="english">You must sing and trust and say</span></p>
 
 <p><span class="chinese">别人欢唱，我为何悲哭？</span><span class="english">Why must I weep when others sing?</span></p>

@@ -1,5 +1,7 @@
 # hybridize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hybridize.md)
+
 <p><span class="chinese">杂交能力是衡量亲缘关系的一个尺度。</span><span class="english">The ability to hybridize is one measure of relationship.</span></p>
 
 <p><span class="chinese">死骑也混合了大死骑天赋量其他的元素。</span><span class="english">Death knights also hybridize into a lot of different directio.</span></p>

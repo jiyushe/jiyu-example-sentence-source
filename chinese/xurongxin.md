@@ -1,5 +1,7 @@
 # 虚荣心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xurongxin.md)
+
 <p><span class="chinese">这是虚荣心！</span><span class="english">This is indolence.</span></p>
 
 <p><span class="chinese">并非因为胜利，而是因为虚荣心。</span><span class="english">Not victory, but vanity.</span></p>

@@ -1,5 +1,7 @@
 # 侵占
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinzhan.md)
+
 <p><span class="chinese">他侵占了我的时间。</span><span class="english">He trenched on my time.</span></p>
 
 <p><span class="chinese">我们还侵占它们的栖息地，铺路盖房子。</span><span class="english">Or pave their habitats.</span></p>

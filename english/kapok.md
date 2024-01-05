@@ -1,5 +1,7 @@
 # kapok
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kapok.md)
+
 <p><span class="chinese">这是一棵木棉树。</span><span class="english">It's a kapok tree.</span></p>
 
 <p><span class="chinese">我必须是你近旁的一株木棉。</span><span class="english">I must be a kapok beside you.</span></p>

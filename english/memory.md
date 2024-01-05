@@ -1,5 +1,7 @@
 # memory 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/memory.md)
+
 <p><span class="chinese">您的记忆力如何？</span><span class="english">How’s your memory?</span></p>
 
 <p><span class="chinese">这一切都是肌肉记忆</span><span class="english">It's muscle memory.</span></p>

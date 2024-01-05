@@ -1,5 +1,7 @@
 # precocity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/precocity.md)
+
 <p><span class="chinese">这孩子早熟得惊人。</span><span class="english">The boy is remarkable for precocity.</span></p>
 
 <p><span class="chinese">性早熟的孩子多长不高。</span><span class="english">The child of sexual precocity how long not tall.</span></p>

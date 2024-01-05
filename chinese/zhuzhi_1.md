@@ -1,5 +1,7 @@
 # 主治
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuzhi_1.md)
+
 <p><span class="chinese">但主治大夫并不同意。</span><span class="english">The head doctor disagreed, however.</span></p>
 
 <p><span class="chinese">替我问候你主治大夫。</span><span class="english">The attending doctor for my regards to you.</span></p>

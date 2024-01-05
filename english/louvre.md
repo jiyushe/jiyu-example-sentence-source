@@ -1,5 +1,7 @@
 # louvre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/louvre.md)
+
 <p><span class="chinese">罗浮宫随时犒赏您的味蕾。</span><span class="english">Louvre rewards your taste in food.</span></p>
 
 <p><span class="chinese">您在卢浮宫里多少还吃得开吧，先生？</span><span class="english">Have you taken the Louvre at all, sir?</span></p>

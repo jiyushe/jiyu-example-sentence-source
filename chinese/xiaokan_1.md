@@ -1,5 +1,7 @@
 # 校刊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaokan_1.md)
+
 <p><span class="chinese">贝蒂建议在校刊中包含什么?。</span><span class="english">What does Betty in the school magazine?</span></p>
 
 <p><span class="chinese">本学年校刊将于五月二十日出刊。</span><span class="english">The yearbook will be published on May 20.</span></p>

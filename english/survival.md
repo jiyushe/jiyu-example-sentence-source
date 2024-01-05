@@ -1,5 +1,7 @@
 # survival 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/survival.md)
+
 <p><span class="chinese">其生存价值是什么？</span><span class="english">What was its survival value?</span></p>
 
 <p><span class="chinese">不疯魔，不成活。</span><span class="english">Is not madness, not survival.</span></p>

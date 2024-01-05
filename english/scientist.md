@@ -1,5 +1,7 @@
 # scientist 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scientist.md)
+
 <p><span class="chinese">她说，“我是科学家。</span><span class="english">I’m a scientist.</span></p>
 
 <p><span class="chinese">烟囱里喷出一团黑烟。</span><span class="english">He is a black scientist.</span></p>

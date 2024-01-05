@@ -1,5 +1,7 @@
 # earn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earn.md)
+
 <p><span class="chinese">伊藤在这里赚钱。</span><span class="english">Here ito earn money.</span></p>
 
 <p><span class="chinese">我可亦挣到一些钱。</span><span class="english">I can earn some money.</span></p>

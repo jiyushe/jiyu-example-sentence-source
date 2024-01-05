@@ -1,5 +1,7 @@
 # 空气轴承
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongqizhoucheng.md)
+
 <p><span class="chinese">滑块下表面的空气形成空气轴承或ABS。</span><span class="english">Air under the slider forms Air Bearing Surface or ABS.</span></p>
 
 <p><span class="chinese">该文设计了一种新型空气轴承。</span><span class="english">A method of designing a new hearing system is presented.</span></p>

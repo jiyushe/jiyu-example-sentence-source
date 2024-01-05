@@ -1,5 +1,7 @@
 # emirate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emirate.md)
+
 <p><span class="chinese">1926年该酋长国成为包奇州一部分。</span><span class="english">The emirate became part of Bauchi state in 1926.</span></p>
 
 <p><span class="chinese">但是迪拜没有石油，它的阿拉伯酋长邻国会支持他。</span><span class="english">But Dubai, which has no oil, was backed by its Arab emirate neighbors.</span></p>

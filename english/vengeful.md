@@ -1,5 +1,7 @@
 # vengeful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vengeful.md)
+
 <p><span class="chinese">它用一种报仇雪恨的神情望着你。</span><span class="english">It looked at you with a vengeful aspect.</span></p>
 
 <p><span class="chinese">若某复仇神，笑声天上起</span><span class="english">IF but some vengeful god would call to me</span></p>

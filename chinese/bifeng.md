@@ -1,5 +1,7 @@
 # 笔锋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bifeng.md)
+
 <p><span class="chinese">他们说笔锋胜于武力。</span><span class="english">They say the pen is mightier than the sword.</span></p>
 
 <p><span class="chinese">结尾笔锋一转尤为引人注目。</span><span class="english">Thetwist at the end is especially noteworthy.</span></p>

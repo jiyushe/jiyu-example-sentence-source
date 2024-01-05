@@ -1,5 +1,7 @@
 # religionary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/religionary.md)
+
 <p><span class="chinese">马克斯•韦伯与艾米尔•迪尔凯姆是宗教社会学的两位主要奠基人。</span><span class="english">Max Weber and Durkheim are two main founders of religionary sociology.</span></p>
 
 <p><span class="chinese">这里是上帝的牧场，所有的音乐似乎都充满了宗教的光辉，那么安静，悠远。</span><span class="english">This is the pasture of God. All the music are full of religionary brilliance. It's so pacific and remote.</span></p>

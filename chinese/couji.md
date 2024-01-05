@@ -1,5 +1,7 @@
 # 凑集
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/couji.md)
+
 <p><span class="chinese">我们逐渐凑集了足够的钱。</span><span class="english">We collected enough money little by little.</span></p>
 
 <p><span class="chinese">她在我这里时，非常爱好仁攀类食物，爱好嗅烹调的凑集78。</span><span class="english">She much enjoyed human food and smelling the cooking while here.</span></p>

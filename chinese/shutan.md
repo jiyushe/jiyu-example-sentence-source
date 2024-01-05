@@ -1,5 +1,7 @@
 # 舒坦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shutan.md)
+
 <p><span class="chinese">有没有哪里觉得不舒坦？</span><span class="english">Have where to feel not at ease?</span></p>
 
 <p><span class="chinese">你坐在这个座位上舒坦吗?</span><span class="english">Are you comfortable in this seat?</span></p>

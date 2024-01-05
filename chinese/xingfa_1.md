@@ -1,5 +1,7 @@
 # 刑法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingfa_1.md)
+
 <p><span class="chinese">而刑法规定的重婚罪却对此无能为力。</span><span class="english">But the crime of bigamy is helpless.</span></p>
 
 <p><span class="chinese">刑法信条学有其特定的意义和功能。</span><span class="english">The Dogmatik has its own meanings and functions.</span></p>

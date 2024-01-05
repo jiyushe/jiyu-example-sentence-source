@@ -1,5 +1,7 @@
 # micronucleus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/micronucleus.md)
+
 <p><span class="chinese">一枚大核和一枚小核。</span><span class="english">One elongated macronucleus and one micronucleus.</span></p>
 
 <p><span class="chinese">微核细胞的智能识别是一个较大难题。</span><span class="english">The recognition of Micronucleus Cell is rather difficult.</span></p>

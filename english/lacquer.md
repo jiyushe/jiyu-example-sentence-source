@@ -1,5 +1,7 @@
 # lacquer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lacquer.md)
+
 <p><span class="chinese">这是手工制作的，传统瓷器。</span><span class="english">It's hand-made, traditional lacquer.</span></p>
 
 <p><span class="chinese">有光漆不好也是一个原因。</span><span class="english">Glazed lacquer is bad also be a reason.</span></p>

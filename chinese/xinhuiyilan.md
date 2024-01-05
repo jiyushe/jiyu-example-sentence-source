@@ -1,5 +1,7 @@
 # 心灰意懒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinhuiyilan.md)
+
 <p><span class="chinese">在阴雨天里我总是心灰意懒。</span><span class="english">Wet weather always depresses me.</span></p>
 
 <p><span class="chinese">阴雨天使我心灰意懒。</span><span class="english">Eg. The wet weather depresses me.</span></p>

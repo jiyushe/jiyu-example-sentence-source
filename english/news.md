@@ -1,5 +1,7 @@
 # news 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/news.md)
+
 <p><span class="chinese">他是新闻人物。</span><span class="english">He is news.</span></p>
 
 <p><span class="chinese">什么是新闻？</span><span class="english">What is News?</span></p>

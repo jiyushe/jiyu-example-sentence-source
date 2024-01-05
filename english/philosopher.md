@@ -1,5 +1,7 @@
 # philosopher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/philosopher.md)
+
 <p><span class="chinese">因为他就是，哲－学－家。</span><span class="english">He was simply The Philosopher.</span></p>
 
 <p><span class="chinese">法国哲学家和讽刺家。</span><span class="english">French philosopher and satirist.</span></p>

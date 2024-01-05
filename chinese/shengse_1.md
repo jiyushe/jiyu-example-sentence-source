@@ -1,5 +1,7 @@
 # 生色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengse_1.md)
+
 <p><span class="chinese">歌曲使舞蹈生色。</span><span class="english">The song animated the dance.</span></p>
 
 <p><span class="chinese">金瓶使这桌子生色不少。</span><span class="english">A gold vase adorned the table.</span></p>

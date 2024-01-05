@@ -1,5 +1,7 @@
 # underdone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underdone.md)
+
 <p><span class="chinese">这米饭有点夹生。</span><span class="english">The rice is partly underdone.</span></p>
 
 <p><span class="chinese">这牛肉未熟透，简直不能吃。</span><span class="english">The beef was underdone and quite uneatable.</span></p>

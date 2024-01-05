@@ -1,5 +1,7 @@
 # 付诸东流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuzhudongliu.md)
+
 <p><span class="chinese">一季的苹果就这样付诸东流。</span><span class="english">One season of apples down the drain.</span></p>
 
 <p><span class="chinese">恐怕这突如其来的雨天已使我们的野炊付诸东流了。</span><span class="english">I'm afraid this sudden wet weather has put paid to our picnic.</span></p>

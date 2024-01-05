@@ -1,5 +1,7 @@
 # 左右
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoyou.md)
+
 <p><span class="chinese">这次活动的成功与否，左右着我们未来的发展。</span><span class="english">The success of this event will greatly influence our future development.</span></p>
 <p><span class="chinese">你的选择将左右你未来的职业发展。</span><span class="english">Your choice will determine your future career development.</span></p>
 <p><span class="chinese">她的态度和表现左右了她是否被录取。</span><span class="english">Her attitude and performance will decide whether she is admitted or not.</span></p>

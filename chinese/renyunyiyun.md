@@ -1,5 +1,7 @@
 # 人云亦云
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renyunyiyun.md)
+
 <p><span class="chinese">然而Specter坚持说，在总统面前他不会人云亦云。</span><span class="english">Yet Specter insisted he would not be a rubber stamp for the president.</span></p>
 
 <p><span class="chinese">这些天来，一个人云亦云的思想，可以用逻辑学的三段论，总结如下。</span><span class="english">Conventional wisdom these days can be summarized in the form. of a syllogism.</span></p>

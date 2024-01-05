@@ -1,5 +1,7 @@
 # sty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sty.md)
+
 <p><span class="chinese">简直就是个猪圈。</span><span class="english">A real sty.</span></p>
 
 <p><span class="chinese">麦粒肿有没有方法根治？</span><span class="english">Sty there a way to cure?</span></p>

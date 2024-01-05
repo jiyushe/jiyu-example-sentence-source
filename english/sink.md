@@ -1,5 +1,7 @@
 # sink
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sink.md)
+
 <p><span class="chinese">就近没有洗手池？</span><span class="english">No sink nearby?</span></p>
 
 <p><span class="chinese">水池子堵了。</span><span class="english">The sink is clogged.</span></p>

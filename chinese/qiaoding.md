@@ -1,5 +1,7 @@
 # 敲定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaoding.md)
+
 <p><span class="chinese">但是，敲定这次谈话花了斯科蒂六个月的准备时间。</span><span class="english">Butt nailing the talk took months of preparation.</span></p>
 
 <p><span class="chinese">但是，敲定这次谈话花了斯科蒂六个月的准备时间。</span><span class="english">But nailing the talk took months of preparation. Ms.</span></p>

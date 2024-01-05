@@ -1,5 +1,7 @@
 # ferrosilicon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ferrosilicon.md)
+
 <p><span class="chinese">分析了引起硅铁粉化的主要原因，提出了控制硅铁粉化的措施。</span><span class="english">The main shortages in ferrosilicon disintegration and the cause are analysed.</span></p>
 
 <p><span class="chinese">硅铁还原白钨矿时，炉渣碱度应控制在1.5以下。</span><span class="english">Basicity of slag should be less than 1.5 during scheelite reduction by ferrosilicon.</span></p>

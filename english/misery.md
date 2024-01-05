@@ -1,5 +1,7 @@
 # misery 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misery.md)
+
 <p><span class="chinese">比起这锥心的痛苦。</span><span class="english">Than this smart Misery.</span></p>
 
 <p><span class="chinese">哭泣，悲伤，以及痛苦。</span><span class="english">Crying, sadness, misery.</span></p>

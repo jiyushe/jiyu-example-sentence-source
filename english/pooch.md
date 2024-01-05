@@ -1,5 +1,7 @@
 # pooch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pooch.md)
+
 <p><span class="chinese">那孩子用一根皮带牵着普茨。</span><span class="english">The boy had Pooch on a leash.</span></p>
 
 <p><span class="chinese">这条可怜的杂毛狗看着快要爆炸了。</span><span class="english">This poor pooch looks ready to collie-apse.</span></p>

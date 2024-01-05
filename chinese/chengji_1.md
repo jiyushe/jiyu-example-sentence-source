@@ -1,5 +1,7 @@
 # 承继
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengji_1.md)
+
 <p><span class="chinese">我可从父母承继哪些优点？</span><span class="english">What merits I inherit from my parents?</span></p>
 
 <p><span class="chinese">它们如何彼此导引与承继？</span><span class="english">Why does one lead to or entail the other?</span></p>

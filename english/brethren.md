@@ -1,5 +1,7 @@
 # brethren
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brethren.md)
+
 <p><span class="chinese">弟兄们，这却怎吗样呢。</span><span class="english">How is it then, brethren?</span></p>
 
 <p><span class="chinese">众弟兄都问你们安。</span><span class="english">All the brethren greet you.</span></p>

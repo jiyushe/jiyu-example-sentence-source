@@ -1,5 +1,7 @@
 # 海蛇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haishe.md)
+
 <p><span class="chinese">它展示出一条海蛇！</span><span class="english">It shows a Serpent!</span></p>
 
 <p><span class="chinese">六条病的海蛇游泳七海。</span><span class="english">Six sick sea-serpents swam the seven seas.</span></p>

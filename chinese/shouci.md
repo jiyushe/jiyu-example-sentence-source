@@ -1,5 +1,7 @@
 # 首次
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouci.md)
+
 <p><span class="chinese">这是首次提交委任书。</span><span class="english">This is the first nomination.</span></p>
 
 <p><span class="chinese">这是阿达哈的首次拜访。</span><span class="english">This was Adhar's first visit.</span></p>

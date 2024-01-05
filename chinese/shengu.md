@@ -1,5 +1,7 @@
 # 深谷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengu.md)
+
 <p><span class="chinese">沿着这条深谷有一条羊肠小路。</span><span class="english">Along the ravine there was a mule path.</span></p>
 
 <p><span class="chinese">我们切莫再沉湎于绝望的深谷之中。</span><span class="english">Let us not wallow in the valley of despair.</span></p>

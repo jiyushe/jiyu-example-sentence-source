@@ -1,5 +1,7 @@
 # 舍人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sheren.md)
+
 <p><span class="chinese">大都会建筑事务所的发言人证实了舍人的话。</span><span class="english">A spokesman for OMA confirmed Mr. Scheeren's remarks.</span></p>
 
 <p><span class="chinese">郑损，僖宗时中书舍人。诗六首。</span><span class="english">Zheng loss, Xi cases in the book when Scheeren. Six Poems.</span></p>

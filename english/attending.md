@@ -1,5 +1,7 @@
 # attending
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attending.md)
+
 <p><span class="chinese">参加女同性爱派对？</span><span class="english">Attending a lesbian sex party?</span></p>
 
 <p><span class="chinese">禁止他们出席。</span><span class="english">They were banned from attending.</span></p>

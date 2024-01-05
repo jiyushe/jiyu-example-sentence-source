@@ -1,5 +1,7 @@
 # 苦头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kutou.md)
+
 <p><span class="chinese">我为了找你可是受尽了苦头啊！</span><span class="english">For I have suffered much to find thee.</span></p>
 
 <p><span class="chinese">他全家为他吃了很多苦头。</span><span class="english">His family suffered a lot on his account.</span></p>

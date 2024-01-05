@@ -1,5 +1,7 @@
 # condescend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/condescend.md)
+
 <p><span class="chinese">他不愿屈尊回答我的问题。</span><span class="english">He did not condescend to answer.</span></p>
 
 <p><span class="chinese">你肯屈尊陪我吗?。</span><span class="english">Would you condescend to accompany me?</span></p>

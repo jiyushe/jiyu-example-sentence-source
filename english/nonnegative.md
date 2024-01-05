@@ -1,5 +1,7 @@
 # nonnegative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonnegative.md)
+
 <p><span class="chinese">返回一个小于所指定最大值的非负随机数。</span><span class="english">Returns a nonnegative random number less than the specified maximum.</span></p>
 
 <p><span class="chinese">本文探讨非负张量特征值的若干问题。</span><span class="english">In this thesis, we discuss some eigenvalue problems of nonnegative tensors.</span></p>

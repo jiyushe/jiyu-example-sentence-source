@@ -1,5 +1,7 @@
 # venous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/venous.md)
+
 <p><span class="chinese">静脉瓣也发作萎缩、硬化。</span><span class="english">Venous attack also shrinking, hardening.</span></p>
 
 <p><span class="chinese">这同样适用于骨盆腔的静脉和松质骨出血。</span><span class="english">The same applies to venous and cancellous pelvic bleeds.</span></p>

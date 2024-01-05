@@ -1,5 +1,7 @@
 # rabies
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rabies.md)
+
 <p><span class="chinese">狂犬病是也被称为狂犬病。</span><span class="english">Rabies is also known as hydrophobia.</span></p>
 
 <p><span class="chinese">犬病的动物满是泡沫的嘴巴。</span><span class="english">A symptom of rabies is foaming at the mouth.</span></p>

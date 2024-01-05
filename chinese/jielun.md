@@ -1,5 +1,7 @@
 # 结论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jielun.md)
+
 <p><span class="chinese">他的结论？</span><span class="english">His conclusions?</span></p>
 
 <p><span class="chinese">得出的结论是。</span><span class="english">And here is the point.</span></p>

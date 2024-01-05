@@ -1,5 +1,7 @@
 # endochondral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endochondral.md)
+
 <p><span class="chinese">膜内化骨贴附于下颌骨表面同期植入种植体可能修复效果更好。</span><span class="english">Intramembranous bone preserves more volumes after onlay grafting than endochondral bone does.</span></p>
 
 <p><span class="chinese">GJA1裸鼠表现心脏发育缺陷与膜内和软骨内成骨延迟。</span><span class="english">GJA1 null mice resulted in heart malformations and delayed intramembranous and endochondral ossification.</span></p>

@@ -1,5 +1,7 @@
 # footbath
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/footbath.md)
+
 <p><span class="chinese">享受在海滩沐足。</span><span class="english">Enjoying footbath on the beach.</span></p>
 
 <p><span class="chinese">如果说女人是水，那么多次恋爱的女人就是洗脚水。</span><span class="english">The ones who have fallen in love time after time are footbath water.</span></p>

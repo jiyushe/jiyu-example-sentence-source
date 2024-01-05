@@ -1,5 +1,7 @@
 # cadmium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cadmium.md)
+
 <p><span class="chinese">镉是一种金属元素。</span><span class="english">Cadmium is a metallic element.</span></p>
 
 <p><span class="chinese">用于光学及滤波器玻璃中的铅和镉。</span><span class="english">Lead and cadmium in optical and filter glass.</span></p>

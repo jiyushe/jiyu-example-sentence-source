@@ -1,5 +1,7 @@
 # gareth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gareth.md)
+
 <p><span class="chinese">我是加雷斯·米切尔。</span><span class="english">I am Gareth Mitchell.</span></p>
 
 <p><span class="chinese">你好，我的名字是加雷思，我27岁，我住在英国。</span><span class="english">Hello my name is Gareth i'm 27 and i live in England.</span></p>

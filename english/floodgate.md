@@ -1,5 +1,7 @@
 # floodgate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/floodgate.md)
+
 <p><span class="chinese">在长江上建造一道防洪闸门？</span><span class="english">Build a floodgate on the Yangtze?</span></p>
 
 <p><span class="chinese">我想，七年之痒已经开始奏效了。</span><span class="english">I think I have just opened the floodgate.</span></p>

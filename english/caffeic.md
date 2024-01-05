@@ -1,5 +1,7 @@
 # caffeic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caffeic.md)
+
 <p><span class="chinese">咖啡酸是葡萄中含有的另一种酚类化合物。</span><span class="english">Caffeic acid is another phenolic compound found in grapes.</span></p>
 
 <p><span class="chinese">目的用高效液相色谱法测定蒲公英颗粒中咖啡酸的含量。</span><span class="english">Objective To determine caffeic acid in Pugongying granules by HPLC.</span></p>

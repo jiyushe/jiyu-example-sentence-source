@@ -1,5 +1,7 @@
 # 套子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taozi.md)
+
 <p><span class="chinese">谁家的套子会唱歌？</span><span class="english">The conventional remark of whose home can sing?</span></p>
 
 <p><span class="chinese">第二天早晨，我就开始在谷仓附近下套子。</span><span class="english">The next morning I started trapping around the barn.</span></p>

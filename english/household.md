@@ -1,5 +1,7 @@
 # household
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/household.md)
+
 <p><span class="chinese">你家谁有劲做饭？</span><span class="english">Who cooks in your household?</span></p>
 
 <p><span class="chinese">她忙于操持家务。</span><span class="english">She runs the household herself.</span></p>

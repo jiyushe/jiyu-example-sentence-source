@@ -1,5 +1,7 @@
 # bounden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bounden.md)
+
 <p><span class="chinese">帮助残疾人是我们义不容辞的责任。</span><span class="english">It is our bounden duty to help the disabled.</span></p>
 
 <p><span class="chinese">保护人类的生命是我们的天职。</span><span class="english">Protect the safety of labors is our bounden duty.</span></p>

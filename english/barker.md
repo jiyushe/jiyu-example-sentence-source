@@ -1,5 +1,7 @@
 # barker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barker.md)
+
 <p><span class="chinese">他是个旧式的马戏团揽客者。</span><span class="english">He’s an old-fashioned circus barker.</span></p>
 
 <p><span class="chinese">我怎么忘得了你，巴克先生？</span><span class="english">And how could I ever forget you, Mr. Barker?</span></p>

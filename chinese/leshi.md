@@ -1,5 +1,7 @@
 # 乐事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leshi.md)
+
 <p><span class="chinese">滑雪是我的赏心乐事之一。</span><span class="english">Skiing is one of my enjoyments.</span></p>
 
 <p><span class="chinese">好吧，这是人间所能享受的乐事之一。</span><span class="english">One of the pleasures of the world.</span></p>

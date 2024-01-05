@@ -1,5 +1,7 @@
 # 病例
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingli_2.md)
+
 <p><span class="chinese">加拿大已经确认了165名病例。</span><span class="english">Canada has reported 165 cases.</span></p>
 
 <p><span class="chinese">在这些病例中，有210例已经死亡。</span><span class="english">Of these cases, 210 have died.</span></p>

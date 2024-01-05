@@ -1,5 +1,7 @@
 # synchronism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synchronism.md)
+
 <p><span class="chinese">其中，数据同步技术是解决数据一致性问题的基础。</span><span class="english">Data synchronism technology is the base of solving data consistency.</span></p>
 
 <p><span class="chinese">另外，我们选择在夜间进行数据对接和同步。</span><span class="english">In addition, we proceed to the data synchronism and butt jointing in nighttime.</span></p>

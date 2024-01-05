@@ -1,5 +1,7 @@
 # suffocating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suffocating.md)
+
 <p><span class="chinese">你要憋死她了！</span><span class="english">You're suffocating her!</span></p>
 
 <p><span class="chinese">我热得都快要窒息了。</span><span class="english">I’m suffocating and hot.</span></p>

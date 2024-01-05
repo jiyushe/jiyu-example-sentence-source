@@ -1,5 +1,7 @@
 # precocious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/precocious.md)
+
 <p><span class="chinese">她是个早熟的姑娘。</span><span class="english">She is precocious.</span></p>
 
 <p><span class="chinese">他们成了一批思想早熟、善写悲剧的能手。</span><span class="english">They become precocious experts in tragedy.</span></p>

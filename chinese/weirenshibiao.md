@@ -1,5 +1,7 @@
 # 为人师表
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weirenshibiao.md)
+
 <p><span class="chinese">以德感人，为人师表。</span><span class="english">By virtue of being moving.</span></p>
 
 <p><span class="chinese">你最清楚“为人师表”的份量。</span><span class="english">You know best "role models" of weight.</span></p>

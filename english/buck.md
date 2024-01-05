@@ -1,5 +1,7 @@
 # buck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buck.md)
+
 <p><span class="chinese">他是一名列兵。</span><span class="english">He is a buck private.</span></p>
 
 <p><span class="chinese">巴克倒落在地。</span><span class="english">Buck fell to the ground.</span></p>

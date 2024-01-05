@@ -1,5 +1,7 @@
 # impish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impish.md)
+
 <p><span class="chinese">门口有双顽皮的眼睛在朝里张望。</span><span class="english">Impish eyes peered from the doorway.</span></p>
 
 <p><span class="chinese">天啊，小鬼子这次是要栽跟头了。</span><span class="english">Good heavens, the impish son is falling this time.</span></p>

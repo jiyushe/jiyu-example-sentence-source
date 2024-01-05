@@ -1,5 +1,7 @@
 # bye
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bye.md)
+
 <p><span class="chinese">再见。</span><span class="english">Good bye.</span></p>
 
 <p><span class="chinese">再见了，月球！</span><span class="english">Bye bye Moon!</span></p>

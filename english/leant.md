@@ -1,5 +1,7 @@
 # leant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leant.md)
+
 <p><span class="chinese">她斜倚在门上。</span><span class="english">She leant against the door.</span></p>
 
 <p><span class="chinese">他身子歪斜着依靠在墙上。</span><span class="english">He leant aslant against the wall.</span></p>

@@ -1,5 +1,7 @@
 # marinade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marinade.md)
+
 <p><span class="chinese">牛柳与腌料拌匀。</span><span class="english">Mix beef with marinade.</span></p>
 
 <p><span class="chinese">猪肉与腌料拌匀。</span><span class="english">Mix pork with marinade.</span></p>

@@ -1,5 +1,7 @@
 # 丧生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sangsheng.md)
+
 <p><span class="chinese">有很多人丧生于龙卷风吗？</span><span class="english">Do many people die in tornadoes?</span></p>
 
 <p><span class="chinese">这场洪水使近百人丧生。</span><span class="english">The flood claimed nearly 100 lives.</span></p>

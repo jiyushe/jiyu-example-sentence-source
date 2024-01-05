@@ -1,5 +1,7 @@
 # purported
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purported.md)
+
 <p><span class="chinese">其本意其实是中国国骂的谐音。</span><span class="english">Purported Chinese curse is in fact the harmonics.</span></p>
 
 <p><span class="chinese">上图描绘的是闵皇后的照片。</span><span class="english">Pictured above is a purported photograph of the Queen.</span></p>

@@ -1,5 +1,7 @@
 # 芸芸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunyun.md)
+
 <p><span class="chinese">以前，在芸芸大众里，我只是过度地关注我自己。</span><span class="english">Formerly I’d be overly concerned with myself during each social encounter.</span></p>
 
 <p><span class="chinese">芸芸追问承浩为何晚上没有出现，承浩坦言想她永远欠他。</span><span class="english">ChengHao why does not appear in the evenings, ChengHao admitted that think she owes him forever.</span></p>

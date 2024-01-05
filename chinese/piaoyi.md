@@ -1,5 +1,7 @@
 # 飘溢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaoyi.md)
+
 <p><span class="chinese">空气中飘溢着香水的雾气。</span><span class="english">A mist of perfume hung in the air.</span></p>
 
 <p><span class="chinese">花的芳香在空气中飘溢。</span><span class="english">The faint sweet smell of flowers lay in the air.</span></p>

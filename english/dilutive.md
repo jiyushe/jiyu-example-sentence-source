@@ -1,5 +1,7 @@
 # dilutive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dilutive.md)
+
 <p><span class="chinese">于期内本集团并没有潜在摊薄普通股编制。</span><span class="english">There is no potential dilutive ordinary shares in issue during both periods.</span></p>
 
 <p><span class="chinese">当然创始人应当为避免高稀释性的比例保护进行艰苦的谈判。</span><span class="english">Of course, founders should negotiate hard to avoid the highly dilutive full-ratchet.</span></p>

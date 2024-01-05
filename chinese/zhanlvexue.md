@@ -1,5 +1,7 @@
 # 战略学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanlvexue.md)
+
 <p><span class="chinese">从而使我们对发展战略学这门学科有一个概括的了解。</span><span class="english">Thus, we can obtain a general understanding of the science of development strategy.</span></p>
 
 <p><span class="chinese">要求选修本课程的学生精读一些有关国际战略学的名著并写出读书报告。</span><span class="english">Every students who take the course should read a lot of relative books and submit reading report.</span></p>

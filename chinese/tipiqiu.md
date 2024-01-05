@@ -1,5 +1,7 @@
 # 踢皮球
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tipiqiu.md)
+
 <p><span class="chinese">你需要做的是踢皮球到三个绿色的气球。</span><span class="english">What you need to do is kick a ball into each of the three green balloons.</span></p>
 
 <p><span class="chinese">什么时候才能结束这种踢皮球游戏，肩负起你人生新篇章的责任呢？</span><span class="english">When does the blaming end and taking responsibility for your own life start?</span></p>

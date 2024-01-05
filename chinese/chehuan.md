@@ -1,5 +1,7 @@
 # 撤换
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chehuan.md)
+
 <p><span class="chinese">市长撤换了警察局长。</span><span class="english">The mayor displaced the police chief.</span></p>
 
 <p><span class="chinese">一些记忆是确定为不可撤换。</span><span class="english">Some memories are set to be irremovable.</span></p>

@@ -1,5 +1,7 @@
 # boatman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boatman.md)
+
 <p><span class="chinese">我希望我认识一个友好的船夫。</span><span class="english">I wish I knew a friendly boatman.</span></p>
 
 <p><span class="chinese">船上有一船夫在呼呼大睡。</span><span class="english">In it there was a boatman fast asleep.</span></p>

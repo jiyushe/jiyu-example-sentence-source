@@ -1,5 +1,7 @@
 # 柳絮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuxu.md)
+
 <p><span class="chinese">我是一朵柳絮。</span><span class="english">I'm a willow catkin.</span></p>
 
 <p><span class="chinese">我是一朵柳絮。</span><span class="english">I'am a willow catkin.</span></p>

@@ -1,5 +1,7 @@
 # 边防
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianfang.md)
+
 <p><span class="chinese">边防战士在站岗。</span><span class="english">The border guards are on guard.</span></p>
 
 <p><span class="chinese">我们坚持做“边防战士”。</span><span class="english">We persisted in being "border army".</span></p>

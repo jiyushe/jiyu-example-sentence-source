@@ -1,5 +1,7 @@
 # echolocation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/echolocation.md)
+
 <p><span class="chinese">蝙蝠是靠回声定位法来导航的。</span><span class="english">Most bats navigate by echolocation.</span></p>
 
 <p><span class="chinese">“回声定位法”能自创影像。</span><span class="english">Echolocation creates its own images.</span></p>

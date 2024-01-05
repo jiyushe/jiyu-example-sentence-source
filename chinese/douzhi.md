@@ -1,5 +1,7 @@
 # 斗志
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/douzhi.md)
+
 <p><span class="chinese">现在大家的斗志也很低。</span><span class="english">Morale is so low right now.</span></p>
 
 <p><span class="chinese">一个希望可以鼓舞斗志。</span><span class="english">One hope will raise our sprits.</span></p>

@@ -1,5 +1,7 @@
 # pentateuch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pentateuch.md)
+
 <p><span class="chinese">使所有四个阶层的摩西五是本。</span><span class="english">So that all four strata of the Pentateuch are present.</span></p>
 
 <p><span class="chinese">“律法书”和约书亚是叙述有关以色列如何形成民族而占有“上帝应许之地”。</span><span class="english">The Pentateuch and Joshua relate how Israel became a nation and came to possess the Promised Land.</span></p>

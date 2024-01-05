@@ -1,5 +1,7 @@
 # 精妙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingmiao.md)
+
 <p><span class="chinese">这是一个非常精妙的问题。</span><span class="english">This is a pretty subtle problem.</span></p>
 
 <p><span class="chinese">毕加索的笔法精妙绝伦。</span><span class="english">Picasso's brushwork is particularly fine.</span></p>

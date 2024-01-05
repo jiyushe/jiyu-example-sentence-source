@@ -1,5 +1,7 @@
 # 轻视
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingshi_4.md)
+
 <p><span class="chinese">轻视自我。</span><span class="english">Belittle yourself.</span></p>
 
 <p><span class="chinese">他不轻视任何人。</span><span class="english">He slighted no one.</span></p>

@@ -1,5 +1,7 @@
 # arse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arse.md)
+
 <p><span class="chinese">移动你的懒屁股。</span><span class="english">Get off your lazy arse.</span></p>
 
 <p><span class="chinese">没有人会喜欢一个自以为是的人。</span><span class="english">Nobody likes a smart arse.</span></p>

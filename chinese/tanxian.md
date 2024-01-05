@@ -1,5 +1,7 @@
 # 探险
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanxian.md)
+
 <p><span class="chinese">在就的金矿中探险？</span><span class="english">Spelunking in old gold mines?</span></p>
 
 <p><span class="chinese">她的探险的梦也死亡了。</span><span class="english">Her dreams of adventure died as well.</span></p>

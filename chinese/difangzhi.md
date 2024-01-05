@@ -1,5 +1,7 @@
 # 地方志
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/difangzhi.md)
+
 <p><span class="chinese">民风是各类地方志都会涉及到的普遍话题。</span><span class="english">Folkway is a general topic in all kinds of local chronicles.</span></p>
 
 <p><span class="chinese">山志是地方志中专志的一种，编纂历史源远流长。</span><span class="english">Orography is a kind of local gazetteer, it has a long history.</span></p>

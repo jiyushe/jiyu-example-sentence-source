@@ -1,5 +1,7 @@
 # ehv
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ehv.md)
+
 <p><span class="chinese">超高压输电线路中，分布电容的影响不容忽略。</span><span class="english">In EHV transmission lines, distribution capacity cant be neglected.</span></p>
 
 <p><span class="chinese">现代超高压避雷器必须能在这些高能量的操作过电压下放电。</span><span class="english">Modern EHV arresters must be capable of discharging these high-energy switching surges.</span></p>

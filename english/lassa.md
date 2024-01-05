@@ -1,5 +1,7 @@
 # lassa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lassa.md)
+
 <p><span class="chinese">已有报道通过性传播拉沙病毒。</span><span class="english">Sexual transmission of Lassa virus has been reported.</span></p>
 
 <p><span class="chinese">拉沙热的潜伏期为6-21天。</span><span class="english">The incubation period of Lassa fever ranges from 6-21 days.</span></p>

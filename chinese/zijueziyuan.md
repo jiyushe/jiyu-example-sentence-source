@@ -1,5 +1,7 @@
 # 自觉自愿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zijueziyuan.md)
+
 <p><span class="chinese">如果人家要求你走一里路，那么你自觉自愿地多走一里。</span><span class="english">When one is asked to go one mile, one should willingly to two.</span></p>
 
 <p><span class="chinese">学习是自觉自愿的行为。</span><span class="english">Learning is a behavior which calls for readiness and willingness.</span></p>

@@ -1,5 +1,7 @@
 # 拒之门外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juzhimenwai.md)
+
 <p><span class="chinese">在日本，大家把我拒之门外。</span><span class="english">In Japan, they closed the doors on me.</span></p>
 
 <p><span class="chinese">可乔舒亚用枪把他拒之门外。</span><span class="english">But Joshua held him off with a shotgun.</span></p>

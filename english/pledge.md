@@ -1,5 +1,7 @@
 # pledge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pledge.md)
+
 <p><span class="chinese">我向你保证说话算数。</span><span class="english">I pledge you my words.</span></p>
 
 <p><span class="chinese">我将履行我的誓言。</span><span class="english">I'll fulfill my pledge.</span></p>

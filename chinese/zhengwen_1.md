@@ -1,5 +1,7 @@
 # 正文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengwen_1.md)
+
 <p><span class="chinese">正文分由四部分组成。</span><span class="english">The main body concludes four parts.</span></p>
 
 <p><span class="chinese">文本正文分为六章，四部分。</span><span class="english">The text divides into six chapters.</span></p>

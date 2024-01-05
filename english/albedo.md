@@ -1,5 +1,7 @@
 # albedo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/albedo.md)
+
 <p><span class="chinese">气候中地表反照率反馈影响。</span><span class="english">The Role of Surface Albedo Feedback in Climate.</span></p>
 
 <p><span class="chinese">冰雪融化从两个方面影响反照率。</span><span class="english">Melting of snow and ice affects albedo in two ways.</span></p>

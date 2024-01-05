@@ -1,5 +1,7 @@
 # chloe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chloe.md)
+
 <p><span class="chinese">但不会把这些告诉克洛伊。</span><span class="english">But don't tell that to Chloe.</span></p>
 
 <p><span class="chinese">最近小克很喜欢两项活动。</span><span class="english">Lately Chloe really enjoys two activities.</span></p>

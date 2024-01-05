@@ -1,5 +1,7 @@
 # alimental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alimental.md)
+
 <p><span class="chinese">再者，胡萝卜汁还以抑制吃甜食或油腻食物的欲望。</span><span class="english">Moreover, carrot juice still has sweetmeat or fat alimental desire with restraining.</span></p>
 
 <p><span class="chinese">同时黄色又是某些食物的色彩，有刺激食欲的作用。</span><span class="english">At the same time yellow is certain alimental colour, have exciting appetitive effect.</span></p>

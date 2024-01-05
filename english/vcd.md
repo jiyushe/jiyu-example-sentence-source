@@ -1,5 +1,7 @@
 # vcd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vcd.md)
+
 <p><span class="chinese">视频高密光盘?。</span><span class="english">VCD? Video Compact Disk?</span></p>
 
 <p><span class="chinese">这些新型的VCD机销路好得不得了。</span><span class="english">The new models of VCD sell like fun.</span></p>

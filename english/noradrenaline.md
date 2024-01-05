@@ -1,5 +1,7 @@
 # noradrenaline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noradrenaline.md)
+
 <p><span class="chinese">结果去甲肾上腺素对肾脏血流影响存在多样性。</span><span class="english">Results The effects of noradrenaline on renal perfusion was various.</span></p>
 
 <p><span class="chinese">这是因为缺乏维生素C会影响去甲肾上腺素分泌的水平，这将使你变得暴躁。</span><span class="english">Lack of vitamin C, which affects noradrenaline levels, can make you crabby!</span></p>

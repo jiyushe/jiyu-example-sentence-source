@@ -1,5 +1,7 @@
 # 心急
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinji.md)
+
 <p><span class="chinese">但记住要一步一步来，不要心急。</span><span class="english">But do one step at a time.</span></p>
 
 <p><span class="chinese">克莱尔显得有些尴尬“不好意思，是我心急了。</span><span class="english">Clare is abashed. “I’m sorry!</span></p>

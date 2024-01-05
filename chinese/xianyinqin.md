@@ -1,5 +1,7 @@
 # 献殷勤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianyinqin.md)
+
 <p><span class="chinese">今天我要好好对您献殷勤。</span><span class="english">I will flatter you today.</span></p>
 
 <p><span class="chinese">他向你献殷勤你又何必感激。</span><span class="english">No thanks to his gallantry for that.</span></p>

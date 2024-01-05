@@ -1,5 +1,7 @@
 # this
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/this.md)
+
 <p><span class="chinese">就是要这样子。</span><span class="english">This is it.</span></p>
 
 <p><span class="chinese">我痛恨这一点。</span><span class="english">I hate this.</span></p>

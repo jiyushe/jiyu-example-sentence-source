@@ -1,5 +1,7 @@
 # epochal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epochal.md)
+
 <p><span class="chinese">这导致了下一个划时代的转变。</span><span class="english">This led to the next epochal shift.</span></p>
 
 <p><span class="chinese">中国具有历史意义的改革始于农业改革。</span><span class="english">China’s epochal reforms began on the farms.</span></p>

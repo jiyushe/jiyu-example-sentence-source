@@ -1,5 +1,7 @@
 # abruptly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abruptly.md)
+
 <p><span class="chinese">地势突然隆起。</span><span class="english">The ground rises abruptly.</span></p>
 
 <p><span class="chinese">这条路突然到头了。</span><span class="english">The path ends off abruptly.</span></p>

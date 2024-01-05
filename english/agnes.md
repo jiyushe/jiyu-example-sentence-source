@@ -1,5 +1,7 @@
 # agnes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agnes.md)
+
 <p><span class="chinese">嗨，不必担心，艾格妮丝！</span><span class="english">Don't worry, Agnes.</span></p>
 
 <p><span class="chinese">阿格尼丝曾是那里的一名歌唱家。</span><span class="english">Agnes was a singer there.</span></p>

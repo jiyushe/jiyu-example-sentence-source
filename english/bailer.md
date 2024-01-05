@@ -1,5 +1,7 @@
 # bailer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bailer.md)
+
 <p><span class="chinese">不过，看样子，“水瓢”让她的精神振作起来了！</span><span class="english">However, it looks like Bailer boosted her spirits!</span></p>
 
 <p><span class="chinese">捞砂筒也可用作业井底取样器。</span><span class="english">The sand bailer is also used as a bottom hole sampler.</span></p>

@@ -1,5 +1,7 @@
 # bunny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bunny.md)
+
 <p><span class="chinese">你死定了，土包子兔子。</span><span class="english">Youre dead, bunny bumpkin.</span></p>
 
 <p><span class="chinese">就连兔八哥都能配上瓦格纳。</span><span class="english">Even Bugs Bunny did Wagner.</span></p>

@@ -1,5 +1,7 @@
 # enaction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enaction.md)
+
 <p><span class="chinese">我们开放，有远见，有激情，敢想敢干。</span><span class="english">We are open-minded, farseeing, emotioned and enaction.</span></p>
 
 <p><span class="chinese">本文认为，这一战略的推出具有深刻的背景。</span><span class="english">This thesis argues that the enaction of the strategy has a profound background.</span></p>

@@ -1,5 +1,7 @@
 # slave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slave.md)
+
 <p><span class="chinese">奴隶劳动的丑闻。</span><span class="english">Slave labor scandals.</span></p>
 
 <p><span class="chinese">结果与之相反，他成为了一个奴隶般的苦工。</span><span class="english">Instead, he became a slave.</span></p>

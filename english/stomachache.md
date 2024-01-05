@@ -1,5 +1,7 @@
 # stomachache
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stomachache.md)
+
 <p><span class="chinese">你肚子痛吗？</span><span class="english">Do you have any stomachache?</span></p>
 
 <p><span class="chinese">但是马上我开始肚子痛。</span><span class="english">But soon I had a stomachache.</span></p>

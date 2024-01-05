@@ -1,5 +1,7 @@
 # bludgeon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bludgeon.md)
+
 <p><span class="chinese">你的棍棒和他们的工作人员，他们留我。</span><span class="english">Thy bludgeon and they staff, they stay me.</span></p>
 
 <p><span class="chinese">不要棒击一个问题来伴随代码死亡。</span><span class="english">Do not bludgeon a problem to death with code.</span></p>

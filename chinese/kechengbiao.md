@@ -1,5 +1,7 @@
 # 课程表
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kechengbiao.md)
+
 <p><span class="chinese">课程表就在这儿传阅一下。</span><span class="english">The syllabus is going around the class.</span></p>
 
 <p><span class="chinese">于是曼茨教授制定了课程表。</span><span class="english">So Professor Mantz built his curriculum.</span></p>

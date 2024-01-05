@@ -1,5 +1,7 @@
 # 冷宫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lenggong.md)
+
 <p><span class="chinese">姜海和袁建行的演习方案被打入“冷宫”，二人十分沮丧。</span><span class="english">Jiang Hai and Yuan Jianhang exercise scheme in limbo, two people very upset.</span></p>
 
 <p><span class="chinese">这种执著似乎也把恋爱生子打入了冷宫。</span><span class="english">This single-mindedness seems to leave little room for romance or procreation.</span></p>

@@ -1,5 +1,7 @@
 # 壁立
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bili.md)
+
 <p><span class="chinese">一类壁立千仞、有欲则刚的坚忍不拔。</span><span class="english">A steeply Chihiro, desire is just the perseverance.</span></p>
 
 <p><span class="chinese">在一望无际的大草原上，山峦起伏，沟壑纵横，悬崖壁立，蜿蜒伸展。</span><span class="english">In the vast prairie, undulating hills, ravines, cliff rise steeply, winding stretch.</span></p>

@@ -1,5 +1,7 @@
 # 鱼龙混杂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yulonghunza.md)
+
 <p><span class="chinese">目前中国的创新“鱼龙混杂”。</span><span class="english">At present Chinese innovation is a mixed bag.</span></p>
 
 <p><span class="chinese">她形容自己对音乐的品位是“鱼龙混杂”</span><span class="english">She describes her taste in music as "a mixture of everything""</span></p>

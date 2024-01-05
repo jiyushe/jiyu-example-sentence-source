@@ -1,5 +1,7 @@
 # bitterness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bitterness.md)
+
 <p><span class="chinese">我们没有给苦难和怨恨让路。</span><span class="english">We did not give way to bitterness.</span></p>
 
 <p><span class="chinese">把自己的苦水向她全部倒了出来，她也急得没有办法。</span><span class="english">I poured out my own bitterness to her.</span></p>

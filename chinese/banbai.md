@@ -1,5 +1,7 @@
 # 半百
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banbai.md)
+
 <p><span class="chinese">十二美元半百美分。</span><span class="english">Mai. That's twelve dollars 50.</span></p>
 
 <p><span class="chinese">他虽年近半百，但仍童心未泯。</span><span class="english">Though nearly at the age of fifty, he still retains childlike innocence.</span></p>

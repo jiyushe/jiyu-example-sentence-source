@@ -1,5 +1,7 @@
 # 草菇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caogu.md)
+
 <p><span class="chinese">这是在国际上首次报道的草菇基因组框架图。</span><span class="english">This represents the first report of a draft V. volvacea genomic sequence.</span></p>
 
 <p><span class="chinese">把姜葱及适量之水煮滚，放下草菇煮4分钟，捞起用清水浸冷，取起抹干水。</span><span class="english">Add in straw mushrooms and cook for 4 minutes. Drain and soak in cold water.</span></p>

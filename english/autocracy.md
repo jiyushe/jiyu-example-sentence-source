@@ -1,5 +1,7 @@
 # autocracy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autocracy.md)
+
 <p><span class="chinese">宪政是专制政体的对立物。</span><span class="english">The constitutionalism is the opposite of the autocracy.</span></p>
 
 <p><span class="chinese">北约如何应对一个恢复专制的俄罗斯呢？</span><span class="english">And how should NATO deal with a Russia reverting to autocracy?</span></p>

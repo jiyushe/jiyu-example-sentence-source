@@ -1,5 +1,7 @@
 # obverse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obverse.md)
+
 <p><span class="chinese">正面以北京天坛作主题。</span><span class="english">The obverse shows the Temple of Heaven in Beijing.</span></p>
 
 <p><span class="chinese">道出了爱情的真相和事情的对立面！</span><span class="english">He do pointed the truth of love and obverse of one thing.</span></p>

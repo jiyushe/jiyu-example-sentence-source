@@ -1,5 +1,7 @@
 # 夜场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yechang.md)
+
 <p><span class="chinese">我必须再次习惯夜场比赛。</span><span class="english">I had to get used to playing at night again.</span></p>
 
 <p><span class="chinese">公主观看了那歌剧首次演出的夜场。</span><span class="english">The princess attended the opening night of the opera.</span></p>

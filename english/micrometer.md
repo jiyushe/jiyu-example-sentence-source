@@ -1,5 +1,7 @@
 # micrometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/micrometer.md)
+
 <p><span class="chinese">一微米是一毫米的千分之一。</span><span class="english">A micrometer is one thousandth of one millimeter.</span></p>
 
 <p><span class="chinese">介绍一种新型电容测微仪。</span><span class="english">A new type of capacitance micrometer is introduced.</span></p>

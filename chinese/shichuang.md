@@ -1,5 +1,7 @@
 # 始创
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shichuang.md)
+
 <p><span class="chinese">自元时始创其法。</span><span class="english">Since yuan was also when the law.</span></p>
 
 <p><span class="chinese">这所著名的学院始创于1925年。</span><span class="english">This famous school was founded in 1925.</span></p>

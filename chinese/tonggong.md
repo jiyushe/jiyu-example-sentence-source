@@ -1,5 +1,7 @@
 # 童工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tonggong.md)
+
 <p><span class="chinese">你怎么看待童工现象？</span><span class="english">What do you think about child labor?</span></p>
 
 <p><span class="chinese">那些孩子是擦鞋厂里的童工。</span><span class="english">Like children in a bootblacking factory.</span></p>

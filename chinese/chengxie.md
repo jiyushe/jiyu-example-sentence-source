@@ -1,5 +1,7 @@
 # 称谢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengxie.md)
+
 <p><span class="chinese">你们要称谢耶和华，因他本为善。</span><span class="english">Give thanks to the Lord , for he is good.</span></p>
 
 <p><span class="chinese">耶和华我的神阿，我要称谢你，直到永远。</span><span class="english">O Lord my God, I will give you thanks forever.</span></p>

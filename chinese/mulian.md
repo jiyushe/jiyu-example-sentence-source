@@ -1,5 +1,7 @@
 # 木莲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mulian.md)
+
 <p><span class="chinese">巴东木莲在群落中呈聚集分布格局。</span><span class="english">The spatial pattern of Manglietia patungensis was a clumped distribution.</span></p>
 
 <p><span class="chinese">研究结果还表明，三种木莲的提取物均有较强的抑制氧自由基的功能。</span><span class="english">The results showed that the three extracts had strong function of restraining oxygen free radicals.</span></p>

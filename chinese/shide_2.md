@@ -1,5 +1,7 @@
 # 师德
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shide_2.md)
+
 <p><span class="chinese">师德，是热爱孩子的赤诚之心。</span><span class="english">Ethics, is the love of the child 's heart.</span></p>
 
 <p><span class="chinese">师德，是在希望田野上的辛勤耕耘。</span><span class="english">Ethics, in the hope the field of hard work.</span></p>

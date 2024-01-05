@@ -1,5 +1,7 @@
 # compressive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compressive.md)
+
 <p><span class="chinese">它们的设计目的阻抗压缩力。</span><span class="english">They are designed to create resistance to a compressive force.</span></p>
 
 <p><span class="chinese">对制品进行抗压强度和气孔率的测试观察。</span><span class="english">The compressive strength and porosity of the product are measured.</span></p>

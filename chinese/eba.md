@@ -1,5 +1,7 @@
 # 恶霸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/eba.md)
+
 <p><span class="chinese">英雄抑或恶霸？</span><span class="english">Hero or bully?</span></p>
 
 <p><span class="chinese">有许多类型的恶霸老板。</span><span class="english">There are many types of bully bosses.</span></p>

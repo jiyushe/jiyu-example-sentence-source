@@ -1,5 +1,7 @@
 # 开馆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaiguan_1.md)
+
 <p><span class="chinese">博物馆几点开馆？</span><span class="english">When does the museum open?</span></p>
 
 <p><span class="chinese">三潴画廊于1994年开馆。</span><span class="english">Mizuma Art Gallery opened in 1994.</span></p>

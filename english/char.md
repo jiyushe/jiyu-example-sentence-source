@@ -1,5 +1,7 @@
 # char
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/char.md)
+
 <p><span class="chinese">一个char型数据占据1字节或8比特。</span><span class="english">So a char size is 1 byte or 8 bits.</span></p>
 
 <p><span class="chinese">熏人的黑焦炭气味几个星期不散，断壁颓垣</span><span class="english">Black smell of char for weeks, the ruin already</span></p>

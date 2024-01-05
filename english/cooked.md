@@ -1,5 +1,7 @@
 # cooked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cooked.md)
+
 <p><span class="chinese">那谁给你做饭阿?。</span><span class="english">So who cooked for you?</span></p>
 
 <p><span class="chinese">他吃被煮的肉。</span><span class="english">He ate the cooked meat.</span></p>

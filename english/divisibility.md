@@ -1,5 +1,7 @@
 # divisibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/divisibility.md)
+
 <p><span class="chinese">可分性和可替代性。</span><span class="english">Divisibility and fungibility.</span></p>
 
 <p><span class="chinese">因此可分性是货币的一个重要特性。</span><span class="english">So divisibility is a key property of money.</span></p>

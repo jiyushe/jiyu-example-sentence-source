@@ -1,5 +1,7 @@
 # mow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mow.md)
+
 <p><span class="chinese">请勿在陡峭的斜坡上刈草。</span><span class="english">Do not mow steep slopes.</span></p>
 
 <p><span class="chinese">我们需要给草坪剪草了。</span><span class="english">We need to mow the lawn.</span></p>

@@ -1,5 +1,7 @@
 # chick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chick.md)
+
 <p><span class="chinese">聪明的小妞。</span><span class="english">Smart chick.</span></p>
 
 <p><span class="chinese">她是个纯洁的小妞。</span><span class="english">She is a virgin chick.</span></p>

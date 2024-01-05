@@ -1,5 +1,7 @@
 # harden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harden.md)
+
 <p><span class="chinese">它们开始僵化了。</span><span class="english">They begin to harden.</span></p>
 
 <p><span class="chinese">我只是沉下目光，冲他们嘶叫回去。</span><span class="english">I’d just harden my eyes and hiss back.</span></p>

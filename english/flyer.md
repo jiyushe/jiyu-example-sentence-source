@@ -1,5 +1,7 @@
 # flyer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flyer.md)
+
 <p><span class="chinese">我是富莱尔的史密斯.</span><span class="english">Smith from Flyer.</span></p>
 
 <p><span class="chinese">马冲还是一个“翔者”。</span><span class="english">Machong is also a flyer.</span></p>

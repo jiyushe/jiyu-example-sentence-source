@@ -1,5 +1,7 @@
 # sternly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sternly.md)
+
 <p><span class="chinese">妳也要狠狠爱莪…</span><span class="english">You have to love me sternly.</span></p>
 
 <p><span class="chinese">义正词严骂女主角的，BS下。</span><span class="english">Actress sternly scolded, under BS.</span></p>

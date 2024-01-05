@@ -1,5 +1,7 @@
 # tgv
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tgv.md)
+
 <p><span class="chinese">回程的时候，我选择的是法国的TGV高速火车。</span><span class="english">For the return trip, i took the French TGV high speed train.</span></p>
 
 <p><span class="chinese">在法国，有三分之二的高速列车停开。</span><span class="english">Two-thirds of the country’s high-speed TGV trains were canceled.</span></p>

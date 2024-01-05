@@ -1,5 +1,7 @@
 # 铁板一块
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiebanyikuai.md)
+
 <p><span class="chinese">俄罗斯并非铁板一块。</span><span class="english">Russia is not a monolith.</span></p>
 
 <p><span class="chinese">不要以为这帮人是铁板一块。</span><span class="english">Don't think this gang is monolithic.</span></p>

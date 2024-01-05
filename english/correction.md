@@ -1,5 +1,7 @@
 # correction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/correction.md)
+
 <p><span class="chinese">矫正驼背。</span><span class="english">Correction of kyphosis.</span></p>
 
 <p><span class="chinese">但如今注定会有一波修正.</span><span class="english">But now we are bound for a correction.</span></p>

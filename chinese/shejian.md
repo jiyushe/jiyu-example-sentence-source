@@ -1,5 +1,7 @@
 # 射箭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shejian.md)
+
 <p><span class="chinese">弓箭手拉弓瞄准，准备射箭。</span><span class="english">Archers aim and prepare to fire.</span></p>
 
 <p><span class="chinese">因为射箭者固然爱那飞出的箭。</span><span class="english">For even as He loves the arrow that flies.</span></p>

@@ -1,5 +1,7 @@
 # hectare
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hectare.md)
+
 <p><span class="chinese">1公顷合15市亩。</span><span class="english">A hectare is equal to 15 mu.</span></p>
 
 <p><span class="chinese">经济效益明显，每公顷净增效益平均为105.38元。</span><span class="english">A net profit of 105.38 RMB per hectare could be achieved.</span></p>

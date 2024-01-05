@@ -1,5 +1,7 @@
 # tbilisi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tbilisi.md)
+
 <p><span class="chinese">苏联欧洲部分东南城市，位于高加索山脉的山脚下、第比利斯西北偏北。</span><span class="english">A city of southeast European U. S. S. R. at the foot of the Caucasus Mountains north-northwest of Tbilisi.</span></p>
 
 <p><span class="chinese">牧师把球带到第比利斯，并把它捐赠给卡瑟梯教堂，以纪念那些死难的人们”。</span><span class="english">The priest took the ball to Tbilisi and donated it to Khasreti church, to the memory of those who were killed.</span></p>

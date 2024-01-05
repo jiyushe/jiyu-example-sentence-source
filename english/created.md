@@ -1,5 +1,7 @@
 # created
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/created.md)
+
 <p><span class="chinese">麦当劳制作了这些图</span><span class="english">McDonald's created these.</span></p>
 
 <p><span class="chinese">我创建了一个射灯。</span><span class="english">I've created a spot light.</span></p>

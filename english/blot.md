@@ -1,5 +1,7 @@
 # blot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blot.md)
+
 <p><span class="chinese">我们的箭会遮天蔽日。</span><span class="english">Our arrows will blot out the sun.</span></p>
 
 <p><span class="chinese">谎言是一个人丑陋的污点。</span><span class="english">A lie is an ugly blot on a person.</span></p>

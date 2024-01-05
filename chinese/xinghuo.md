@@ -1,5 +1,7 @@
 # 星火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinghuo.md)
+
 <p><span class="chinese">州司临门，急于星火。</span><span class="english">State department rimmon, eager to spark.</span></p>
 
 <p><span class="chinese">星火电影院坐落在芷江西路1号。</span><span class="english">Stellar Cinema is located at No. 1, West Zhijiang Road.</span></p>

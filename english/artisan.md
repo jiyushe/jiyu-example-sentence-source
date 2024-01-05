@@ -1,5 +1,7 @@
 # artisan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/artisan.md)
+
 <p><span class="chinese">这里住着一位叫纯陀的工匠。</span><span class="english">There lives an artisan called Cunda.</span></p>
 
 <p><span class="chinese">这名匠人设计了一套复杂的工具。</span><span class="english">The artisan crafted a complicated tool.</span></p>

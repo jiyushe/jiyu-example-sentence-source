@@ -1,5 +1,7 @@
 # 刊出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kanchu.md)
+
 <p><span class="chinese">他的书被减缩刊出在一本公众的杂志上。</span><span class="english">His book was abbreviated and appeared in a public magazine.</span></p>
 
 <p><span class="chinese">基叔的全方位采访报道将在本周的利物浦周刊中刊出。</span><span class="english">The full Kyrgiakos interview is in this week's LFC Weekly magazine.</span></p>

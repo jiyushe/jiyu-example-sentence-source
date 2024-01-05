@@ -1,5 +1,7 @@
 # yalu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yalu.md)
+
 <p><span class="chinese">鸭绿江上有一座钢铁大桥。</span><span class="english">A steel railway bridge spans the Yalu River.</span></p>
 
 <p><span class="chinese">朝鲜和中国只隔一条鸭绿江。</span><span class="english">Korea and China are separated by only the Yalu River.</span></p>

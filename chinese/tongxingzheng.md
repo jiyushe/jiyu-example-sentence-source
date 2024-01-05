@@ -1,5 +1,7 @@
 # 通行证
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongxingzheng.md)
+
 <p><span class="chinese">你需要通行证才准进入。</span><span class="english">You need a pass to come in.</span></p>
 
 <p><span class="chinese">我给你们俩准备好了警察当局发的通行证。</span><span class="english">I have police passes for both of you.</span></p>

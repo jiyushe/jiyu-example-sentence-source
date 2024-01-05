@@ -1,5 +1,7 @@
 # oxygenate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oxygenate.md)
+
 <p><span class="chinese">那时，你们只是为了氧化你们的身体系统而呼吸。</span><span class="english">You used your breath only to oxygenate the system.</span></p>
 
 <p><span class="chinese">植物吸收更多的氮和一些含氧水。</span><span class="english">The plants uptake more of the nitrogen and some oxygenate the water.</span></p>

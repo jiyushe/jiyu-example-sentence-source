@@ -1,5 +1,7 @@
 # 大成
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dacheng.md)
+
 <p><span class="chinese">我爱你啊！姜大成！</span><span class="english">I love you! Kang Daesung!</span></p>
 
 <p><span class="chinese">多数有大成的公司最初都有两个或三个创始人。</span><span class="english">Most of the big successes have two or three.</span></p>

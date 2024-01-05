@@ -1,5 +1,7 @@
 # budding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/budding.md)
+
 <p><span class="chinese">小树抽出了嫩芽。</span><span class="english">The saplings are budding.</span></p>
 
 <p><span class="chinese">玫瑰丛正在含苞待放。</span><span class="english">The rosebushes are budding.</span></p>

@@ -1,5 +1,7 @@
 # wallop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wallop.md)
+
 <p><span class="chinese">他砰的一声倒在地板上了.</span><span class="english">He crashed down on the floor with a wallop.</span></p>
 
 <p><span class="chinese">我要饲逮注浙个流氓，溉狠狠揍他一顿不可！</span><span class="english">If I ever catch the rascal I'll really wallop him!</span></p>

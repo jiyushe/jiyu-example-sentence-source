@@ -1,5 +1,7 @@
 # dissipation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissipation.md)
+
 <p><span class="chinese">可是最后还是如雾般消散。</span><span class="english">But finally like fog dissipation.</span></p>
 
 <p><span class="chinese">他过着荒淫无耻的生活。</span><span class="english">He leads a life of shameless dissipation.</span></p>

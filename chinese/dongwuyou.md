@@ -1,5 +1,7 @@
 # 动物油
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongwuyou.md)
+
 <p><span class="chinese">这个动物油五个手臂。</span><span class="english">This animals has got five arms.</span></p>
 
 <p><span class="chinese">薯片可能是用动物油炸制的。</span><span class="english">Potato chips may be fried in animal oil.</span></p>

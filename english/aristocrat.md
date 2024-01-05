@@ -1,5 +1,7 @@
 # aristocrat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aristocrat.md)
+
 <p><span class="chinese">你看不出他就是想扮出一副贵族派头吗？</span><span class="english">Can't you see he just wants to play the aristocrat?</span></p>
 
 <p><span class="chinese">他是一个道道地地的贵族。</span><span class="english">He is an aristocrat to the very marrow of his bones.</span></p>

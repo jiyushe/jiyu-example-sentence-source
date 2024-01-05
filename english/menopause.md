@@ -1,5 +1,7 @@
 # menopause
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/menopause.md)
+
 <p><span class="chinese">绝经期前得乳腺癌的情况并不普遍。</span><span class="english">This disease is not common before menopause.</span></p>
 
 <p><span class="chinese">你对于荷尔蒙和绝经怎么看？</span><span class="english">What's your opinion about hormones and menopause?</span></p>

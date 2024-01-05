@@ -1,5 +1,7 @@
 # belief 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/belief_1.md)
+
 <p><span class="chinese">李青是一种信仰。</span><span class="english">Li Qing is a belief.</span></p>
 
 <p><span class="chinese">这是流传下来的信仰。</span><span class="english">It's a handed-down belief.</span></p>

@@ -1,5 +1,7 @@
 # echocardiography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/echocardiography.md)
+
 <p><span class="chinese">那是一双让我心动的眼睛。</span><span class="english">It was a pair I echocardiography eyes.</span></p>
 
 <p><span class="chinese">柒牌男装，让女人心动的男人。</span><span class="english">Qi card, so that women echocardiography men.</span></p>

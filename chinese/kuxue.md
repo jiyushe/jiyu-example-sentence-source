@@ -1,5 +1,7 @@
 # 苦学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuxue.md)
+
 <p><span class="chinese">他好像大部分时间都在苦学钻研。</span><span class="english">He seems to spend most of his time swotting up.</span></p>
 
 <p><span class="chinese">我苦学了两年英语课程。</span><span class="english">I laboured at the English course for two years.</span></p>

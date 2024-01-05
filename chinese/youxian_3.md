@@ -1,5 +1,7 @@
 # 有限
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youxian_3.md)
+
 <p><span class="chinese">有限数目的状态。</span><span class="english">Finite number of states.</span></p>
 
 <p><span class="chinese">使永恒在有限里得以延续。</span><span class="english">That lasts in the finity.</span></p>

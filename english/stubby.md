@@ -1,5 +1,7 @@
 # stubby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stubby.md)
+
 <p><span class="chinese">他的手指粗短。</span><span class="english">He has stubby fingers.</span></p>
 
 <p><span class="chinese">明月夜，短松冈。</span><span class="english">Moonlit night, stubby pines.</span></p>

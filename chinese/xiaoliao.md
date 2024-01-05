@@ -1,5 +1,7 @@
 # 笑料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoliao.md)
+
 <p><span class="chinese">去试一试，为我制造更多笑料！</span><span class="english">Go ahead and try. Make me laugh!</span></p>
 
 <p><span class="chinese">我们的雇主把我们的建议视作笑料。</span><span class="english">Our employer treated our suggestion as a joke.</span></p>

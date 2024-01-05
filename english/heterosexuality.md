@@ -1,5 +1,7 @@
 # heterosexuality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heterosexuality.md)
+
 <p><span class="chinese">异性恋则完全是另一码事。</span><span class="english">Heterosexuality is quite another matter.</span></p>
 
 <p><span class="chinese">你认为什麽造成了你的异性恋?。</span><span class="english">What do you think caused your heterosexuality ?</span></p>

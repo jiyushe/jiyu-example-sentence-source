@@ -1,5 +1,7 @@
 # 方块
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangkuai.md)
+
 <p><span class="chinese">他先出了一张方块。</span><span class="english">He led a diamond.</span></p>
 
 <p><span class="chinese">获得一个俄罗斯方块。</span><span class="english">To obtain a tetris.</span></p>

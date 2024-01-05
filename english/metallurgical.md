@@ -1,5 +1,7 @@
 # metallurgical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metallurgical.md)
+
 <p><span class="chinese">重型冶金矿山设备。</span><span class="english">Heavy-Duty Metallurgical and Mine Equipment.</span></p>
 
 <p><span class="chinese">中国冶金科工集团，简称M。</span><span class="english">China Metallurgical Group, often called M. C.</span></p>

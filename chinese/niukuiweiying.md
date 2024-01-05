@@ -1,5 +1,7 @@
 # 扭亏为盈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niukuiweiying.md)
+
 <p><span class="chinese">而鲁珀特·默多克善于把报纸扭亏为盈</span><span class="english">So Rupert Murdoch tends to bring papers around.</span></p>
 
 <p><span class="chinese">另外，尼康光刻机业务也开始扭亏为盈。</span><span class="english">Nikon is also reversing its losses in lithography.</span></p>

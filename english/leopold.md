@@ -1,5 +1,7 @@
 # leopold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leopold.md)
+
 <p><span class="chinese">我该跟着李欧波去欧洲吗？</span><span class="english">Should I go to Europe with Leopold?</span></p>
 
 <p><span class="chinese">利奥波德二世国王，比利时从1865年至1909年。</span><span class="english">Leopold II was King of Belgium from 1865-1909.</span></p>

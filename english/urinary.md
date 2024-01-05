@@ -1,5 +1,7 @@
 # urinary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urinary.md)
+
 <p><span class="chinese">什麽导致尿道感染?。</span><span class="english">What causes urinary tract infections?</span></p>
 
 <p><span class="chinese">尿道感染要如何治疗?。</span><span class="english">How are urinary tract infections treated?</span></p>

@@ -1,5 +1,7 @@
 # reproducible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reproducible.md)
+
 <p><span class="chinese">这些标记具有共显性的特点，重复性、稳定性好。</span><span class="english">These SSRs are codominant, good reproducible and stable.</span></p>
 
 <p><span class="chinese">将一个受欢迎的服务系统化，做成一件可再生的产品。</span><span class="english">Systematize a popular service into a reproducible product.</span></p>

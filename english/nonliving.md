@@ -1,5 +1,7 @@
 # nonliving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonliving.md)
+
 <p><span class="chinese">一些事物是有生命的。</span><span class="english">Other things are nonliving.</span></p>
 
 <p><span class="chinese">原生质可区别出生物和非生物。</span><span class="english">Protoplasm distinguishes living from nonliving things.</span></p>

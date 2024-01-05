@@ -1,5 +1,7 @@
 # 款式
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuanshi.md)
+
 <p><span class="chinese">款式也过时了。</span><span class="english">The style was outdated.</span></p>
 
 <p><span class="chinese">你想要找什么样的款式？</span><span class="english">What style do you want?</span></p>

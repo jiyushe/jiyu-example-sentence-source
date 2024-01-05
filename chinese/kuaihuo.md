@@ -1,5 +1,7 @@
 # 快活
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuaihuo.md)
+
 <p><span class="chinese">夫人快活地说。</span><span class="english">Lady cheerily said.</span></p>
 
 <p><span class="chinese">快活的人通常都是傻瓜。</span><span class="english">Am man is usually a fool.</span></p>

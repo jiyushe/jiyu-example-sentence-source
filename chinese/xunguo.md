@@ -1,5 +1,7 @@
 # 殉国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunguo.md)
+
 <p><span class="chinese">足球成为他们殉国之道。</span><span class="english">They turned soccer to martyrdom.</span></p>
 
 <p><span class="chinese">他不愿看见自己的国家被敌人攻占，最终选择了以死殉国。</span><span class="english">He chose not to live and see his own country vanguished by the enemy.</span></p>

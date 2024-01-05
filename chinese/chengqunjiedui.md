@@ -1,5 +1,7 @@
 # 成群结队
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengqunjiedui.md)
+
 <p><span class="chinese">他们成群结队地拥进公园。</span><span class="english">They all trooped into the park.</span></p>
 
 <p><span class="chinese">矿工们成群结队地回家了。</span><span class="english">The satisfied visitors trooped home.</span></p>

@@ -1,5 +1,7 @@
 # sociological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sociological.md)
+
 <p><span class="chinese">更关注社会学方面，</span><span class="english">and a bigger emphasis on like sociological aspect,</span></p>
 
 <p><span class="chinese">本文探讨了企业从社会网络的脱生过程。</span><span class="english">This article is a sociological analysis of the emergence of firms.</span></p>

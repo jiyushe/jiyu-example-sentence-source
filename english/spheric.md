@@ -1,5 +1,7 @@
 # spheric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spheric.md)
+
 <p><span class="chinese">并分析了辅助球心的位置和球半径。</span><span class="english">Also, the location of the center and the spheric radius are analyzed.</span></p>
 
 <p><span class="chinese">在球面连杆机构中，所有的转动副的轴必在一点上相交。</span><span class="english">In spheric linkages, the axes of all revolute pairs must intersect at point.</span></p>

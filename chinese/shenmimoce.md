@@ -1,5 +1,7 @@
 # 神秘莫测
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenmimoce.md)
+
 <p><span class="chinese">人的心智是一个神秘莫测的谜团。</span><span class="english">The mind is a mysterious, mysterious thing.</span></p>
 
 <p><span class="chinese">溶洞密布、湖水相通、神秘莫测。</span><span class="english">The lake is linked to many enigmatic karst caves.</span></p>

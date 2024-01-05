@@ -1,5 +1,7 @@
 # 别致
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biezhi.md)
+
 <p><span class="chinese">安娜的帽子漂亮而别致。</span><span class="english">Annas hat is smart.</span></p>
 
 <p><span class="chinese">他们很喜欢买一些别致的东西。</span><span class="english">They like to buy fancy items.</span></p>

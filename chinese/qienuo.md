@@ -1,5 +1,7 @@
 # 怯懦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qienuo.md)
+
 <p><span class="chinese">我认识你，怯懦的信仰。</span><span class="english">I know you , tremulous beliefs.</span></p>
 
 <p><span class="chinese">她嘲笑他怯懦。</span><span class="english">She taunted him with cowardice.</span></p>

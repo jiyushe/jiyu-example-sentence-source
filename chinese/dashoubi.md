@@ -1,5 +1,7 @@
 # 大手笔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dashoubi.md)
+
 <p><span class="chinese">大连康居工程出大手笔。</span><span class="english">The comfortable housing project is fully carried out in Dalian.</span></p>
 
 <p><span class="chinese">越是阔绰大手笔的礼物越是使人产生更大的怀疑。</span><span class="english">The more indulgent the gift the greater the suspicion it seems.</span></p>

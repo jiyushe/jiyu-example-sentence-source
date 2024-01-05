@@ -1,5 +1,7 @@
 # 高居
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaoju_1.md)
+
 <p><span class="chinese">万世之宗，高居宝座荣耀中。</span><span class="english">Ancient of Days, who sit test throne in glory.</span></p>
 
 <p><span class="chinese">“缺乏眼神交流”在这个列表中高居榜首。</span><span class="english">At the top of the list is a lack of eye contact.</span></p>

@@ -1,5 +1,7 @@
 # 清丽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingli.md)
+
 <p><span class="chinese">在线条的表达上简洁清丽，感觉直接。</span><span class="english">Expression in lines Qingli simple, direct feeling.</span></p>
 
 <p><span class="chinese">他的艺术格调清丽简约，雅俗之间，充满诗情画意。</span><span class="english">His artistic style is elegant and simple, full of poetic charm.</span></p>

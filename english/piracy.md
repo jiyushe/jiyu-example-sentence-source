@@ -1,5 +1,7 @@
 # piracy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piracy.md)
+
 <p><span class="chinese">他们转而进行海盗行为？</span><span class="english">They turn to piracy.</span></p>
 
 <p><span class="chinese">他们干海盗仅仅是嫩角儿。</span><span class="english">They were mere apprentices to piracy.</span></p>

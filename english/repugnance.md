@@ -1,5 +1,7 @@
 # repugnance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repugnance.md)
+
 <p><span class="chinese">事实上，我们有一个天然的反感，以这样做。</span><span class="english">Indeed, we have a natural repugnance to so doing.</span></p>
 
 <p><span class="chinese">它把一个自然的抵触转化为了一个道德的愤慨。</span><span class="english">It transforms a natural repugnance into a moral shock.</span></p>

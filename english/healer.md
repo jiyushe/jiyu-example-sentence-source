@@ -1,5 +1,7 @@
 # healer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/healer.md)
+
 <p><span class="chinese">耶稣是个治病的术士。</span><span class="english">Jesus was a healer.</span></p>
 
 <p><span class="chinese">那医师是我们的朋友。</span><span class="english">The healer is our friend.</span></p>

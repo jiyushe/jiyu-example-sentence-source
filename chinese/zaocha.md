@@ -1,5 +1,7 @@
 # 早茶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaocha.md)
+
 <p><span class="chinese">完美的早茶。</span><span class="english">A perfect morning tea.</span></p>
 
 <p><span class="chinese">先生，请用早茶。</span><span class="english">Sir, have morning tea, please.</span></p>

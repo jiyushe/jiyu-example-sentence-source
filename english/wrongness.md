@@ -1,5 +1,7 @@
 # wrongness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wrongness.md)
+
 <p><span class="chinese">现在是我们改正错误的时候了。</span><span class="english">Now is the time that we correct the wrongness.</span></p>
 
 <p><span class="chinese">错误的信号在博文的题目中。</span><span class="english">The clue to the wrongness is in the title of the blog.</span></p>

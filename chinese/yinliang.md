@@ -1,5 +1,7 @@
 # 荫凉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinliang.md)
+
 <p><span class="chinese">那我们就在荫凉处战斗。</span><span class="english">Then we will fight in the shade.</span></p>
 
 <p><span class="chinese">喜欢它夏天荫凉！</span><span class="english">Like it shady and cool in summer!</span></p>

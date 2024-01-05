@@ -1,5 +1,7 @@
 # 鞋袜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiewa.md)
+
 <p><span class="chinese">他在火边烘着潮湿的鞋袜。</span><span class="english">He dried his wet foot-gear by the fire.</span></p>
 
 <p><span class="chinese">包括衣服、头盔、手套、鞋袜、背包、雨具、探照灯、控制柄及其他自行车部件、配饰等。</span><span class="english">other cycle parts and accessories, etc.</span></p>

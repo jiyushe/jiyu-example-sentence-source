@@ -1,5 +1,7 @@
 # pinup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pinup.md)
+
 <p><span class="chinese">他正成为理性妇女的偶像。</span><span class="english">He's becoming the thinking woman's pinup.</span></p>
 
 <p><span class="chinese">因为裙子太长，她只得把裙摆别起来。</span><span class="english">As the skirt was too 1ong, she had to pinup the hem.</span></p>

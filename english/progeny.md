@@ -1,5 +1,7 @@
 # progeny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/progeny.md)
+
 <p><span class="chinese">小猫是老猫的后代。</span><span class="english">A cat's kittens are her progeny.</span></p>
 
 <p><span class="chinese">漫游在河床，无数的后裔</span><span class="english">Ranged in the beds ,a numerous progeny</span></p>

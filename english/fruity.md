@@ -1,5 +1,7 @@
 # fruity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fruity.md)
+
 <p><span class="chinese">每一天都是水果天！</span><span class="english">Everyday is a fruity day!</span></p>
 
 <p><span class="chinese">你现在对这些的颜色感兴趣吗？</span><span class="english">Are you into fruity colors now?</span></p>

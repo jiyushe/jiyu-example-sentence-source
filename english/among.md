@@ -1,5 +1,7 @@
 # among
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/among.md)
+
 <p><span class="chinese">你是朋友之一。</span><span class="english">You are among friends.</span></p>
 
 <p><span class="chinese">各国间的协议。</span><span class="english">Agreements among nations.</span></p>

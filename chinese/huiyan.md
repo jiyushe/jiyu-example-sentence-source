@@ -1,5 +1,7 @@
 # 会厌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huiyan.md)
+
 <p><span class="chinese">会厌就是打嗝声音发出的地方。</span><span class="english">That closure is what causes the hiccup sound.</span></p>
 
 <p><span class="chinese">急性会厌炎，一般多因感染所造成。</span><span class="english">Acute epiglottitis is usually caused by a bacterial infection.</span></p>

@@ -1,5 +1,7 @@
 # 眼睁睁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanzhengzheng.md)
+
 <p><span class="chinese">你只能眼睁睁看他们死去。</span><span class="english">You are about to see them die.</span></p>
 
 <p><span class="chinese">再眼睁睁的看着它滚下来。</span><span class="english">And let it see roll back down again.</span></p>

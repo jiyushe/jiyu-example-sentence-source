@@ -1,5 +1,7 @@
 # 马尾藻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mayizao.md)
+
 <p><span class="chinese">他看见马尾藻在水中发出的磷光。</span><span class="english">He saw the phosphorescence of the Gulf weed in the water.</span></p>
 
 <p><span class="chinese">位于大西洋的马尾藻海上就漂浮着大量的海草。</span><span class="english">The Sargasso sea , a free-floating mass of sea weed mostly S.</span></p>

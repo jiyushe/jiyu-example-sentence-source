@@ -1,5 +1,7 @@
 # 撒手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sashou.md)
+
 <p><span class="chinese">决不因为事情艰难或者麻烦而撒手不干。</span><span class="english">and never give up a thing because it was or inconvenient.</span></p>
 
 <p><span class="chinese">彼得对自己的工作厌烦了，决定撒手不干。</span><span class="english">Peter was fed up with his job and decided to call it quits.</span></p>

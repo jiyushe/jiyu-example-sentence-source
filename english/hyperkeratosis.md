@@ -1,5 +1,7 @@
 # hyperkeratosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperkeratosis.md)
+
 <p><span class="chinese">他们是层状，X连锁，鱼鳞病及表皮角化的形式。</span><span class="english">They are lamellar, x-linked, and epidermolytic hyperkeratosis forms of ichthyosis.</span></p>
 
 <p><span class="chinese">病理组织检验可见到表皮裂解角质增厚的表现。</span><span class="english">The skin biopsy specimen showed the histologic features of epidermolytic hyperkeratosis.</span></p>

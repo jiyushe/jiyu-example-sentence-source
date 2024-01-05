@@ -1,5 +1,7 @@
 # cot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cot.md)
+
 <p><span class="chinese">她向我提供帆布床。</span><span class="english">She bunked me in cot.</span></p>
 
 <p><span class="chinese">我女儿有一张轻便单人床。</span><span class="english">My girl has a cot bed.</span></p>

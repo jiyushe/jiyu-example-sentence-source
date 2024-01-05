@@ -1,5 +1,7 @@
 # hand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hand.md)
+
 <p><span class="chinese">谁的手？</span><span class="english">Whose hand?</span></p>
 
 <p><span class="chinese">举起我的手来。</span><span class="english">Raise my hand.</span></p>

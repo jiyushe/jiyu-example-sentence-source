@@ -1,5 +1,7 @@
 # 紫藤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziteng.md)
+
 <p><span class="chinese">紫藤就是其中之一。</span><span class="english">Wistaria was one.</span></p>
 
 <p><span class="chinese">紫藤花开了。</span><span class="english">The wisteria blows.</span></p>

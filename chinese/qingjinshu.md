@@ -1,5 +1,7 @@
 # 轻金属
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingjinshu.md)
+
 <p><span class="chinese">铝是一种轻金属。</span><span class="english">Aluminium is a light metal.</span></p>
 
 <p><span class="chinese">铝锂合金是一种新型轻金属材料。</span><span class="english">The aluminium-lithium alloy is a new light metallic material.</span></p>

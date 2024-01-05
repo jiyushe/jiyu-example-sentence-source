@@ -1,5 +1,7 @@
 # 私生活
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sishenghuo.md)
+
 <p><span class="chinese">不要窥探别人的私生活。</span><span class="english">Don't pry into private life of others.</span></p>
 
 <p><span class="chinese">杰克闯入了玛丽的私生活。</span><span class="english">Jack encroached on Mary's private life.</span></p>

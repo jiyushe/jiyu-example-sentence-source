@@ -1,5 +1,7 @@
 # surreptitiously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surreptitiously.md)
+
 <p><span class="chinese">有一次，我和我弟弟秘密地制造黑色火药。</span><span class="english">One time, my brother and I surreptitiously made gunpowder.</span></p>
 
 <p><span class="chinese">实证主义者的观点往往是“润物细无声”。</span><span class="english">The positivist arrives at his point of view surreptitiously.</span></p>

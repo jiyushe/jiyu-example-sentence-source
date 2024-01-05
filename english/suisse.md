@@ -1,5 +1,7 @@
 # suisse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suisse.md)
+
 <p><span class="chinese">杜根先生说，瑞士信贷银行将有一个“先发优势”。</span><span class="english">Mr Dougan says that Credit Suisse will have a “first mover advantage”.</span></p>
 
 <p><span class="chinese">瑞士信贷银行和摩根大通拔颔首筹。</span><span class="english">That leaves Credit Suisse and JPMorgan Chase to take the grand prizes.</span></p>

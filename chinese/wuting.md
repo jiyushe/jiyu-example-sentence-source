@@ -1,5 +1,7 @@
 # 舞厅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuting.md)
+
 <p><span class="chinese">咱们到迪斯科舞厅去。</span><span class="english">Free entry to discotheque.</span></p>
 
 <p><span class="chinese">舞厅突然亮了起来。</span><span class="english">The ballroom suddenly lit up.</span></p>

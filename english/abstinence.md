@@ -1,5 +1,7 @@
 # abstinence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abstinence.md)
+
 <p><span class="chinese">或者所有人都反对禁俗，等等。</span><span class="english">Nobody would like abstinence and so on.</span></p>
 
 <p><span class="chinese">节制使你不必因着行为而被人评价。</span><span class="english">Abstinence frees you from being valued on a performance basis.</span></p>

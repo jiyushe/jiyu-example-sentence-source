@@ -1,5 +1,7 @@
 # task
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/task.md)
+
 <p><span class="chinese">首先，挑一个任务。</span><span class="english">First, pick a task.</span></p>
 
 <p><span class="chinese">任务紧迫。</span><span class="english">The task is urgent.</span></p>

@@ -1,5 +1,7 @@
 # diachronic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diachronic.md)
+
 <p><span class="chinese">简约是语言历时演变的一种趋势。</span><span class="english">Reduction is a trend of language diachronic evolvement.</span></p>
 
 <p><span class="chinese">是结合共时性比较和历时性比较。</span><span class="english">The synchronic comparison should be combined with the diachronic one.</span></p>

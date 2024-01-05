@@ -1,5 +1,7 @@
 # 假死
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiasi.md)
+
 <p><span class="chinese">假死是受到伤害减少效果移除。</span><span class="english">Damage reduction while feign death removed.</span></p>
 
 <p><span class="chinese">假死状态并没有被破坏什么，只是暂停。</span><span class="english">Suspended isn't broken. It's just suspended.</span></p>

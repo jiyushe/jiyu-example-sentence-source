@@ -1,5 +1,7 @@
 # 营利
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingli_2.md)
+
 <p><span class="chinese">营利事业登记证。</span><span class="english">Profit-making business registration.</span></p>
 
 <p><span class="chinese">应付未付之营利事业所得税。</span><span class="english">Income tax payable of the business which has not yet been paid.</span></p>

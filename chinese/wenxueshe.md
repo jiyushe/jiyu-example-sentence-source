@@ -1,5 +1,7 @@
 # 文学社
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenxueshe.md)
+
 <p><span class="chinese">你觉得文学社怎么样？</span><span class="english">How about the Literary Club?</span></p>
 
 <p><span class="chinese">三年前他们草创文学社。</span><span class="english">They started to establish the Literature Society three years ago.</span></p>

@@ -1,5 +1,7 @@
 # ann
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ann.md)
+
 <p><span class="chinese">我叫安。</span><span class="english">I’m Ann.</span></p>
 
 <p><span class="chinese">玛丽安。</span><span class="english">Mary Ann.</span></p>

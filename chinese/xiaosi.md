@@ -1,5 +1,7 @@
 # 小厮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaosi.md)
+
 <p><span class="chinese">小厮说“进来”。</span><span class="english">The boy said"Come in."</span></p>
 
 <p><span class="chinese">小厮坐了下来，斯威夫特走出去，敲了敲门，等待回音。</span><span class="english">The boy sat down. Swift went out, knocked on his door and waited.</span></p>

@@ -1,5 +1,7 @@
 # 化整为零
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huazhengweiling.md)
+
 <p><span class="chinese">它体现了化整为零、积零为整的思想。</span><span class="english">It reflects the split-up, the plot is for the whole thinking.</span></p>
 
 <p><span class="chinese">把大块儿耗时的工作化整为零，分成几个小任务，一个时间只做其中一件，逐个完成。</span><span class="english">Break time-consuming tasks into smaller tasks and work on them one at a time.</span></p>

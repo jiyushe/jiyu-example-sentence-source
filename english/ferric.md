@@ -1,5 +1,7 @@
 # ferric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ferric.md)
+
 <p><span class="chinese">二价铁能还原成三价铁。</span><span class="english">Ferrous iron reduces to ferric iron.</span></p>
 
 <p><span class="chinese">结果表明，硫酸铁铵的催化活性良好。</span><span class="english">It shows that ammonium ferric sulfate is active.</span></p>

@@ -1,5 +1,7 @@
 # theorist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theorist.md)
+
 <p><span class="chinese">那肉体理论者该怎么做呢？</span><span class="english">What's the body theorist to do?</span></p>
 
 <p><span class="chinese">这就是人格理论者的说法。</span><span class="english">That's what the personality theorist said.</span></p>

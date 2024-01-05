@@ -1,5 +1,7 @@
 # popeye
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/popeye.md)
+
 <p><span class="chinese">我要变得比大力水手更强壮。</span><span class="english">And I try to be stronger than Popeye.</span></p>
 
 <p><span class="chinese">把你的菠菜吃了――你会像大力水手一样强壮的。</span><span class="english">Eat your spinach ― you'll get as strong as Popeye.</span></p>

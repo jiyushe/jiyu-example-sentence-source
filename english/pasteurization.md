@@ -1,5 +1,7 @@
 # pasteurization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pasteurization.md)
+
 <p><span class="chinese">我们了解到巴氏杀菌法也可用于初乳的消毒。</span><span class="english">We are learning that pasteurization can be used for colostrum also.</span></p>
 
 <p><span class="chinese">它不仅破坏人体消化，而且巴氏杀菌法对其无效。</span><span class="english">It isn’t destroyed by human digestion. And pasteurization is no help.</span></p>

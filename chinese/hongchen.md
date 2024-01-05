@@ -1,5 +1,7 @@
 # 红尘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongchen.md)
+
 <p><span class="chinese">褪尽红尘万物，自混沌中走来。</span><span class="english">He walks from the chaos.</span></p>
 
 <p><span class="chinese">红尘深处，雾蔼苍苍。</span><span class="english">Red Dust deep gray fog Oi.</span></p>

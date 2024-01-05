@@ -1,5 +1,7 @@
 # 史官
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiguan_1.md)
+
 <p><span class="chinese">周代史官与周礼之间有着密切的关系。</span><span class="english">Zhou Dynasty's historiographers and Zhouli have a close relationship.</span></p>
 
 <p><span class="chinese">史官的王官之学是阴阳五行家的知识背景。</span><span class="english">Historiographers' expertise was the knowledge background of the Yin-Yang school.</span></p>

@@ -1,5 +1,7 @@
 # 染色体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ranseti.md)
+
 <p><span class="chinese">属于或关于常染色体的。</span><span class="english">Of or relating to an autosome.</span></p>
 
 <p><span class="chinese">染色体数量、X染色体、Y染色体</span><span class="english">Chromosome numbers and Xs and Ys</span></p>

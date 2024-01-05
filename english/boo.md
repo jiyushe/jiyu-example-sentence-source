@@ -1,5 +1,7 @@
 # boo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boo.md)
+
 <p><span class="chinese">为什么鬼魂要讲“boo”？</span><span class="english">Why do ghosts say "boo"?</span></p>
 
 <p><span class="chinese">食尸鬼出嘘约克咬一口！</span><span class="english">Thee ghouls are taking a bite out of Boo York!</span></p>

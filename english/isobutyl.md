@@ -1,5 +1,7 @@
 # isobutyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isobutyl.md)
+
 <p><span class="chinese">以硫酸镓为催化剂，正丁酸和异丁醇为原料合成了丁酸异丁酯。</span><span class="english">Isobutyl butyrate was synthesized by using gallium sulphate as the catalyst.</span></p>
 
 <p><span class="chinese">以冰醋酸、异丁醇为原料，硫酸高铈为催化剂合成乙酸异丁酯。</span><span class="english">A method for synthesis of isobutyl acetate based on ceric sulfate as catalyst was developed.</span></p>

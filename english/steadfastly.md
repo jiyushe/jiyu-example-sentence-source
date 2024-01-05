@@ -1,5 +1,7 @@
 # steadfastly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/steadfastly.md)
+
 <p><span class="chinese">但莫斯科坚决拒绝合作。</span><span class="english">But Moscow has steadfastly declined to cooperate.</span></p>
 
 <p><span class="chinese">但是美国坚决不同意。</span><span class="english">But America has steadfastly disagreed with him on that.</span></p>

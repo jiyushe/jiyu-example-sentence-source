@@ -1,5 +1,7 @@
 # learnable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/learnable.md)
+
 <p><span class="chinese">它并不容易，但是是可以学习的。</span><span class="english">It is not easy, but is learnable.</span></p>
 
 <p><span class="chinese">清醒梦完全是门可以学会的技能。</span><span class="english">Lucid dreaming is a completely learnable skill.</span></p>

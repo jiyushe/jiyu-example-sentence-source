@@ -1,5 +1,7 @@
 # genie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/genie.md)
+
 <p><span class="chinese">我要扮个妖怪。</span><span class="english">I'm gonna be a genie.</span></p>
 
 <p><span class="chinese">迈达斯国王碰见了一个精灵。</span><span class="english">King Midas met a genie.</span></p>

@@ -1,5 +1,7 @@
 # thankless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thankless.md)
+
 <p><span class="chinese">拯救世界是一个费力不讨好的任务。</span><span class="english">SAVING the world is a thankless task.</span></p>
 
 <p><span class="chinese">乔，你可千万别告诉他说我是个志恩负义的人呀。</span><span class="english">Don't tell him, Joe, that I was thankless.</span></p>

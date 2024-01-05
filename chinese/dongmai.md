@@ -1,5 +1,7 @@
 # 冬麦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongmai.md)
+
 <p><span class="chinese">初步探讨了其对冬麦种出苗率的影响。</span><span class="english">Its application in germination rate of winter wheat was also studied.</span></p>
 
 <p><span class="chinese">在关中地区，干旱的困扰一度制约了冬麦的推广和普及。</span><span class="english">In Central Shaanxi area, winter wheat spread once has been restricted by drought.</span></p>

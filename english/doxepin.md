@@ -1,5 +1,7 @@
 # doxepin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doxepin.md)
+
 <p><span class="chinese">盐酸多塞平方案治疗成本最低。</span><span class="english">The cost of therapy with doxepin was lowest.</span></p>
 
 <p><span class="chinese">目的探讨多虑平对咽异感症的疗效。</span><span class="english">OBJECTIVE To study the effects of doxepin on abnormal sensation of throat.</span></p>

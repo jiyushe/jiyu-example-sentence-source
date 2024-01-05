@@ -1,5 +1,7 @@
 # coeliac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coeliac.md)
+
 <p><span class="chinese">我们应该筛查腹腔疾病吗？</span><span class="english">Should we screen for coeliac disease?</span></p>
 
 <p><span class="chinese">这是醇溶蛋白的组成部分是负责腹腔疾病。</span><span class="english">It is the gliadin component of gluten which is responsible for coeliac disease.</span></p>

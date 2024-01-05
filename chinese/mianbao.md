@@ -1,5 +1,7 @@
 # 绵薄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianbao.md)
+
 <p><span class="chinese">愿尽绵薄。</span><span class="english">I'll do what little I can.</span></p>
 
 <p><span class="chinese">我竭尽绵薄之力将仅有的钱都给了他。</span><span class="english">I gave him what little mony I had.</span></p>

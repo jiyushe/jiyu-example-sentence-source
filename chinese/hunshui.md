@@ -1,5 +1,7 @@
 # 昏睡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunshui.md)
+
 <p><span class="chinese">什么是昏睡病？</span><span class="english">What is sleeping sickness?</span></p>
 
 <p><span class="chinese">多少次你昏睡不醒?。</span><span class="english">How many days have you just slept away?</span></p>

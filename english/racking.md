@@ -1,5 +1,7 @@
 # racking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/racking.md)
+
 <p><span class="chinese">有一次，宙斯头痛欲裂。</span><span class="english">On one occasion Zeus suffered a racking headache.</span></p>
 
 <p><span class="chinese">即便绞尽脑汁，他还是连一个例女也念不出来。</span><span class="english">Even after racking his brains he couldn't think of a single example.</span></p>

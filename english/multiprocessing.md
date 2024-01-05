@@ -1,5 +1,7 @@
 # multiprocessing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multiprocessing.md)
+
 <p><span class="chinese">这即是对称的多重处理支援。</span><span class="english">This is known as symmetric multiprocessing support.</span></p>
 
 <p><span class="chinese">其中，服务器程序实现了并发处理客户机请求的能力。</span><span class="english">The server has the ability of multiprocessing the requests from the clients.</span></p>

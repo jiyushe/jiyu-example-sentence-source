@@ -1,5 +1,7 @@
 # principia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/principia.md)
+
 <p><span class="chinese">归纳提出了总体设计中应注意的主要原则。</span><span class="english">It is presented systematically the design principia of tank and armored vehicles.</span></p>
 
 <p><span class="chinese">针对高校教师激励中存在的问题，提出了岗位津贴制度需要把握的原则。</span><span class="english">Post forward the use principia of post allowance aim to the teacher motivation problem.</span></p>

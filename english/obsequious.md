@@ -1,5 +1,7 @@
 # obsequious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obsequious.md)
+
 <p><span class="chinese">他对有权势者谄媚。</span><span class="english">He is obsequious to men in power.</span></p>
 
 <p><span class="chinese">不，请让我在你心里长保忠贞。</span><span class="english">No, let me be obsequious in thy heart.</span></p>

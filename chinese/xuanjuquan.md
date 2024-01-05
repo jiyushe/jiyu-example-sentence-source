@@ -1,5 +1,7 @@
 # 选举权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanjuquan.md)
+
 <p><span class="chinese">年满十八岁者有选举权。</span><span class="english">Eighteen-year-olds qualify to vote.</span></p>
 
 <p><span class="chinese">今天的女性拥有选举权。</span><span class="english">Today women have the right to vote.</span></p>

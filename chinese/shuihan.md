@@ -1,5 +1,7 @@
 # 水旱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuihan.md)
+
 <p><span class="chinese">本研究对水旱灾害损失进行了系统的研究。</span><span class="english">In this study, flood and drought losses of the system.</span></p>
 
 <p><span class="chinese">这个国家经常遭受水旱灾害。</span><span class="english">The country has always suffered from floods and drought.</span></p>

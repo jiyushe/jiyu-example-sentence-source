@@ -1,5 +1,7 @@
 # memorandum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/memorandum.md)
+
 <p><span class="chinese">有关适航性的警告性备忘录。</span><span class="english">An advisory memorandum regarding airworthiness.</span></p>
 
 <p><span class="chinese">将…记入议事录，将…记入备忘录。</span><span class="english">To record in a memorandum or the minutes of a meeting.</span></p>

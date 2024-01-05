@@ -1,5 +1,7 @@
 # 到此为止
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daociweizhi.md)
+
 <p><span class="chinese">此路到此为止。</span><span class="english">The road ends here.</span></p>
 
 <p><span class="chinese">好，到此为止。</span><span class="english">Anyway, enough of that.</span></p>

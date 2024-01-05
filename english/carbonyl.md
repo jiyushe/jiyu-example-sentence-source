@@ -1,5 +1,7 @@
 # carbonyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carbonyl.md)
+
 <p><span class="chinese">壳聚糖辐照后并未发现有羰基形成。</span><span class="english">No evidence for carbonyl formation was observed.</span></p>
 
 <p><span class="chinese">摘要对羰基合成反应的温度进行了研究。</span><span class="english">The temperature of carbonyl synthesis reaction is studied.</span></p>

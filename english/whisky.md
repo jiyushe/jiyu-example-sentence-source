@@ -1,5 +1,7 @@
 # whisky 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whisky.md)
+
 <p><span class="chinese">这是一个威士忌蒸馏器。</span><span class="english">This is a whisky still.</span></p>
 
 <p><span class="chinese">威士忌是加冰还是直饮？</span><span class="english">Whisky with ice or not?</span></p>

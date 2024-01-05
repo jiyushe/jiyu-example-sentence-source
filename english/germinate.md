@@ -1,5 +1,7 @@
 # germinate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/germinate.md)
+
 <p><span class="chinese">种子在春天发芽。</span><span class="english">Seeds germinate in the spring.</span></p>
 
 <p><span class="chinese">春风一刮，芽儿萌发。</span><span class="english">Spring breeze, sprout germinate.</span></p>

@@ -1,5 +1,7 @@
 # 瓜农
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guanong.md)
+
 <p><span class="chinese">当然，单纯的指责瓜农缺德无济于事。</span><span class="english">Of course, simply the accusation Watermelon unethical to no avail.</span></p>
 
 <p><span class="chinese">几个男孩去偷西瓜，瓜农却放狗咬他们。</span><span class="english">Some boys went to steal water melons but the farmer set this dog on them.</span></p>

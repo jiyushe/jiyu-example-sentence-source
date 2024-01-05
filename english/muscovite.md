@@ -1,5 +1,7 @@
 # muscovite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/muscovite.md)
+
 <p><span class="chinese">莫斯科人善饮伏特加酒。</span><span class="english">Muscovite kind drink vodka.</span></p>
 
 <p><span class="chinese">年轻的莫斯科人一定没注意到这步将军。</span><span class="english">The young Muscovite must have overlooked this intermediate check.</span></p>

@@ -1,5 +1,7 @@
 # 断壁残垣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duanbicanyuan.md)
+
 <p><span class="chinese">一些断壁残垣仍在危险地竖立着。</span><span class="english">Apartment blocks still standing list dangerously.</span></p>
 
 <p><span class="chinese">眨一下眼睛看看所有东西只剩断壁残垣。</span><span class="english">Blink your eyes just once and see everything in ruins.</span></p>

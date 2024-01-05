@@ -1,5 +1,7 @@
 # naturalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/naturalism.md)
+
 <p><span class="chinese">自然主义与脆弱的环境</span><span class="english">Naturalism and the Perishable Environment</span></p>
 
 <p><span class="chinese">我们是自然主义的实践者和倡导者。</span><span class="english">We are the supporter and practioner of Naturalism.</span></p>

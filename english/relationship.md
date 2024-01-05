@@ -1,5 +1,7 @@
 # relationship 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relationship.md)
+
 <p><span class="chinese">它们的关系很糟糕。</span><span class="english">It's a troubled relationship.</span></p>
 
 <p><span class="chinese">何为正常的两性关系?</span><span class="english">What’s normal in a relationship?</span></p>

@@ -1,5 +1,7 @@
 # symmetrical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/symmetrical.md)
+
 <p><span class="chinese">而且还显得非常对称</span><span class="english">It's also very symmetrical.</span></p>
 
 <p><span class="chinese">对称的男人围起来更好。</span><span class="english">And symmetrical men smell better.</span></p>

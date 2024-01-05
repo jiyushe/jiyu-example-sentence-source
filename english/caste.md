@@ -1,5 +1,7 @@
 # caste
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caste.md)
+
 <p><span class="chinese">所有的人都是生而为那个种姓的。</span><span class="english">All are born into their caste.</span></p>
 
 <p><span class="chinese">他自己来自于封建主阶层。</span><span class="english">He himself comes from the feudal caste.</span></p>

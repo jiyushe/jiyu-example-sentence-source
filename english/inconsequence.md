@@ -1,5 +1,7 @@
 # inconsequence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inconsequence.md)
+
 <p><span class="chinese">我和那些抛开生命中所有矛盾的人们在一起。</span><span class="english">I was with people who had shed all the inconsequence of earlier life.</span></p>
 
 <p><span class="chinese">我知道为什么合逻辑的自由会比紊乱的自由来得好。</span><span class="english">I tell how there may be a better wildness of logic than of inconsequence.</span></p>

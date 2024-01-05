@@ -1,5 +1,7 @@
 # compaq
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compaq.md)
+
 <p><span class="chinese">早上好，这里是康柏公司。</span><span class="english">Good morning. This is Compaq.</span></p>
 
 <p><span class="chinese">惠普公司完成了其与康柏电脑公司的合并。</span><span class="english">HP completes its merger transaction with Compaq Computer Corp.</span></p>

@@ -1,5 +1,7 @@
 # unbidden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unbidden.md)
+
 <p><span class="chinese">他径自走进了屋子。</span><span class="english">He walked into the room unbidden.</span></p>
 
 <p><span class="chinese">这些字句从我的笔端滚滚流出。</span><span class="english">The words flowed unbidden from my pen.</span></p>

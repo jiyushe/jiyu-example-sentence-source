@@ -1,5 +1,7 @@
 # kashmir
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kashmir.md)
+
 <p><span class="chinese">我们在克什米尔避暑。</span><span class="english">We summered in Kashmir.</span></p>
 
 <p><span class="chinese">亚瑟•帕维兹克什米尔报道。</span><span class="english">Athar Parvaiz reports from Kashmir.</span></p>

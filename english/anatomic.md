@@ -1,5 +1,7 @@
 # anatomic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anatomic.md)
+
 <p><span class="chinese">甲状腺毗邻关系复杂。</span><span class="english">Anatomic sturcture around thyroid is complex.</span></p>
 
 <p><span class="chinese">为什么，我们容忍解剖学对女性性器官如此的含糊其辞？</span><span class="english">Why do we tolerate such anatomic equivocation of women’s genitals?</span></p>

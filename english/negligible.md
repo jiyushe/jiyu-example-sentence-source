@@ -1,5 +1,7 @@
 # negligible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/negligible.md)
+
 <p><span class="chinese">这质量几乎可以忽略。</span><span class="english">And this mass is almost negligible.</span></p>
 
 <p><span class="chinese">他的地理知识少得可怜。</span><span class="english">His knowledge of geography is negligible.</span></p>

@@ -1,5 +1,7 @@
 # 俏皮话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaopihua.md)
+
 <p><span class="chinese">他的俏皮话使会谈的气氛活跃起来了。</span><span class="english">His witticisms souped up the talks.</span></p>
 
 <p><span class="chinese">他说俏皮话贬低我的能力。</span><span class="english">He made a wisecrack about my ability.</span></p>

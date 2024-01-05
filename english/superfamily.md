@@ -1,5 +1,7 @@
 # superfamily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superfamily.md)
+
 <p><span class="chinese">研究CCK受体的多态性可能反映G蛋白偶联受体家族的一些普遍规律。</span><span class="english">Study of CCK receptor polymorphism may reveal some universal rules in GPCR superfamily.</span></p>
 
 <p><span class="chinese">葡萄糖调节蛋白58是蛋白二硫化物异构酶家族成员之一。</span><span class="english">Glucose-regulated protein 58 is a member of the protein disulphide isomerase superfamily.</span></p>

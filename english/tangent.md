@@ -1,5 +1,7 @@
 # tangent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tangent.md)
+
 <p><span class="chinese">一条与曲面相切的直线。</span><span class="english">And that line is tangent to the surface.</span></p>
 
 <p><span class="chinese">方向就是轨道的切线方向。</span><span class="english">The direction is tangent to the trajectory.</span></p>

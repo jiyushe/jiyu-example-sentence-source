@@ -1,5 +1,7 @@
 # 封锁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengsuo.md)
+
 <p><span class="chinese">封锁进气口。</span><span class="english">Blocked air intake.</span></p>
 
 <p><span class="chinese">他们封锁了隧道。</span><span class="english">They blanked off the tunnel.</span></p>

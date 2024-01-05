@@ -1,5 +1,7 @@
 # philistine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/philistine.md)
+
 <p><span class="chinese">庸人往往是势利鬼。</span><span class="english">The philistine is often a snob.</span></p>
 
 <p><span class="chinese">腓利士人来自梭烈谷。</span><span class="english">A philistine from the valley of Sorek.</span></p>

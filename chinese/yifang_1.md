@@ -1,5 +1,7 @@
 # 医方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yifang_1.md)
+
 <p><span class="chinese">第四部分是关于医方违约责任的探讨。</span><span class="english">Part 4 is about compensation of the doctors' breach of contract.</span></p>
 
 <p><span class="chinese">医疗过错是医方承担医疗责任的核心所在。</span><span class="english">The negligence of medical action is the focus of medical liability.</span></p>

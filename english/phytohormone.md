@@ -1,5 +1,7 @@
 # phytohormone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phytohormone.md)
+
 <p><span class="chinese">乙烯是一种化学结构简单的气体荷尔蒙。</span><span class="english">Ethylene is a gaseous phytohormone with a very simple chemical structure.</span></p>
 
 <p><span class="chinese">用植物激素研究了冠瘿瘤的逆转。</span><span class="english">The reversion of crown galls was investigated by means of induction with phytohormone.</span></p>

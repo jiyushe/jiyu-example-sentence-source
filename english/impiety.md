@@ -1,5 +1,7 @@
 # impiety
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impiety.md)
+
 <p><span class="chinese">他最后的行为就是这一种不孝。</span><span class="english">His last act must be a deed of impiety.</span></p>
 
 <p><span class="chinese">他干了啥事,腐化与亵渎神明又是指什么？</span><span class="english">What did he do? What did corruption ? and impiety mean?</span></p>

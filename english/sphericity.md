@@ -1,5 +1,7 @@
 # sphericity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sphericity.md)
+
 <p><span class="chinese">另有一些胞体呈球形，突起较短。</span><span class="english">The bodies of some other cells showed sphericity with short processes.</span></p>
 
 <p><span class="chinese">本文根据形态计量学原理，对正廿面体病毒的圆球度进行了推导和计算。</span><span class="english">The sphericity formula of icosahedral viruses has been derived and calculated.</span></p>

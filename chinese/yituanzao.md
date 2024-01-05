@@ -1,5 +1,7 @@
 # 一团糟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yituanzao.md)
+
 <p><span class="chinese">怎么弄的一团糟？</span><span class="english">What a mess!</span></p>
 
 <p><span class="chinese">我们完全一团糟。</span><span class="english">We were a mess.</span></p>

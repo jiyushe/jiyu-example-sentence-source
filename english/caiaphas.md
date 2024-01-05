@@ -1,5 +1,7 @@
 # caiaphas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caiaphas.md)
+
 <p><span class="chinese">亚那就把耶稣解到大祭司该亚法那里，仍是捆着解去的。</span><span class="english">Now Annas had sent him bound unto Caiaphas the high priest.</span></p>
 
 <p><span class="chinese">在天亮之前，在祭司长们和议会的面前。</span><span class="english">Before the High Priest Caiaphas and Sanhedrin before day light.</span></p>

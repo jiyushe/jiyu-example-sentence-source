@@ -1,5 +1,7 @@
 # 高耸入云
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaosongruyun.md)
+
 <p><span class="chinese">是玻璃幕墙高耸入云的闹市区？</span><span class="english">A downtown of glass towers?</span></p>
 
 <p><span class="chinese">那幢摩天大楼高耸入云。</span><span class="english">The skyscraper towers into the clouds.</span></p>

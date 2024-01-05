@@ -1,5 +1,7 @@
 # unfurl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unfurl.md)
+
 <p><span class="chinese">当旋风把我的大旗张扬。</span><span class="english">When the whirlwinds my banner unfurl.</span></p>
 
 <p><span class="chinese">记忆，从指南山麓延伸！</span><span class="english">Fond memories unfurl from the foot of Nanshan!</span></p>

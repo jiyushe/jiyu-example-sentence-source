@@ -1,5 +1,7 @@
 # hick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hick.md)
+
 <p><span class="chinese">你是一个乡下佬。</span><span class="english">You're a hick.</span></p>
 
 <p><span class="chinese">他是个讨厌的乡巴佬。</span><span class="english">He is an obnoxious hick.</span></p>

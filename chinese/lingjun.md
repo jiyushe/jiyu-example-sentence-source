@@ -1,5 +1,7 @@
 # 领军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingjun.md)
+
 <p><span class="chinese">这项研究由语言学家吉尔莫福德领军。</span><span class="english">Linguist Jill Morford led the study.</span></p>
 
 <p><span class="chinese">而且她是这个领域的领军人物，</span><span class="english">and she is really at the front of her field,</span></p>

@@ -1,5 +1,7 @@
 # 开远
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaiyuan_2.md)
+
 <p><span class="chinese">她一直站在那里，直到他的车开远看不见了。</span><span class="english">She stood there until his car was out of sight.</span></p>
 
 <p><span class="chinese">杰克回头看了一眼鲍勃的警车，已经开远啦，直到消失不见。</span><span class="english">Jack turned around in time to see Bob's car pull away and head down the road.</span></p>

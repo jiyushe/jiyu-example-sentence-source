@@ -1,5 +1,7 @@
 # 浮浅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuqian.md)
+
 <p><span class="chinese">我听说在绿岛浮浅很不错。</span><span class="english">I heard that Green Island has good snorkeling.</span></p>
 
 <p><span class="chinese">不要成为一个挂名的、掉以轻心的、浮浅的基督徒。</span><span class="english">Don't be a nominal, casual, superficial Christian.</span></p>

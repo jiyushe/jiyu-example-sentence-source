@@ -1,5 +1,7 @@
 # 马口铁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/makoutie.md)
+
 <p><span class="chinese">开马口铁罐头的器具。</span><span class="english">An appliance for opening tin cans.</span></p>
 
 <p><span class="chinese">而且他用塑料替代了原先的马口铁。</span><span class="english">And instead of tin, he went with plastic.</span></p>

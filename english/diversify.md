@@ -1,5 +1,7 @@
 # diversify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diversify.md)
+
 <p><span class="chinese">山陵和树林点缀景色。</span><span class="english">Hill and woods diversify the landscape.</span></p>
 
 <p><span class="chinese">山陵和树木点缀景色。</span><span class="english">Hills and woods diversify the landscape.</span></p>

@@ -1,5 +1,7 @@
 # 实实在在
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishizaizai.md)
+
 <p><span class="chinese">我们面临着实实在在的威胁。</span><span class="english">We face real threats.</span></p>
 
 <p><span class="chinese">我会给你一个实实在在的B减。</span><span class="english">I'd say a solid B minus.</span></p>

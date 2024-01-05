@@ -1,5 +1,7 @@
 # sponsorship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sponsorship.md)
+
 <p><span class="chinese">得到高管层或董事会的支持</span><span class="english">Sponsorship at the C-level or by the Board of Directors</span></p>
 
 <p><span class="chinese">担保金必须由赞助人签署。</span><span class="english">A sponsorship bond is required to be signed by the sponsor.</span></p>

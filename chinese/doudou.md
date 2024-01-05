@@ -1,5 +1,7 @@
 # 兜兜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/doudou.md)
+
 <p><span class="chinese">我们开车兜兜风好吗？</span><span class="english">Shall we go for a ridden a car?</span></p>
 
 <p><span class="chinese">你得带我去兜兜风。</span><span class="english">You have to take me for a ride.</span></p>

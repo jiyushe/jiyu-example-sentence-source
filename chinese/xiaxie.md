@@ -1,5 +1,7 @@
 # 下泄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaxie.md)
+
 <p><span class="chinese">因此，将长期下泄“枯水”流量。</span><span class="english">As a result, it will discharge at "low water" continuously.</span></p>
 
 <p><span class="chinese">蛋白尿属于中医“精气下泄”范畴。</span><span class="english">Proteinuria is correspondant to "Essence and vital Energy callapse" of TCM.</span></p>

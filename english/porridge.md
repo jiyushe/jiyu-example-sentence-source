@@ -1,5 +1,7 @@
 # porridge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/porridge.md)
+
 <p><span class="chinese">麦片粥？</span><span class="english">Porridge?</span></p>
 
 <p><span class="chinese">豌豆粥有点儿烫。</span><span class="english">Pease porridge hot.</span></p>

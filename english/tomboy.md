@@ -1,5 +1,7 @@
 # tomboy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tomboy.md)
+
 <p><span class="chinese">我是来自新斯科舍的假小子。</span><span class="english">I'm a tomboy from Nova Scotia.</span></p>
 
 <p><span class="chinese">你妹妹到底是个什么样的人啊？</span><span class="english">My sister is kind of a tomboy.</span></p>

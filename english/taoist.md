@@ -1,5 +1,7 @@
 # taoist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taoist.md)
+
 <p><span class="chinese">啊，这不就是一座道观嘛？</span><span class="english">Oh, isn't this a Taoist temple?</span></p>
 
 <p><span class="chinese">后来，我们去道观溜达了一圈。</span><span class="english">Then we visited a Taoist temple.</span></p>

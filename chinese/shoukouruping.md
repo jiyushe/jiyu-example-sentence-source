@@ -1,5 +1,7 @@
 # 守口如瓶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoukouruping.md)
+
 <p><span class="chinese">委内瑞拉官员对此守口如瓶。</span><span class="english">Venezuelan officials were tight-lipped.</span></p>
 
 <p><span class="chinese">最好的是俱乐部的每个人都对交易守口如瓶。</span><span class="english">The amazing thing was that no-one in the club said a word.</span></p>

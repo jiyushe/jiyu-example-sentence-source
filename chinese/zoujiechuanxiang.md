@@ -1,5 +1,7 @@
 # 走街串巷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zoujiechuanxiang.md)
+
 <p><span class="chinese">我走街串巷找到了他的新住所。</span><span class="english">I went round the streets and found his new abode.</span></p>
 
 <p><span class="chinese">流动送货车走街串巷。</span><span class="english">The mobile grocery carts travel through the lanes.</span></p>

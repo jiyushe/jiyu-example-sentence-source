@@ -1,5 +1,7 @@
 # nightmarish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nightmarish.md)
+
 <p><span class="chinese">什麽样痛苦的折磨曾出现在这里？</span><span class="english">What nightmarish tortures took place here?</span></p>
 
 <p><span class="chinese">尖叫、哭泣、祈祷、呕吐，一个恶梦般混乱喧闹的场面。</span><span class="english">A nightmarish bedlam of shrieking weeping praying and vomiting.</span></p>

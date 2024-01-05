@@ -1,5 +1,7 @@
 # 志在必得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizaibidei.md)
+
 <p><span class="chinese">他是志在必得呀。</span><span class="english">Is this your best score?</span></p>
 
 <p><span class="chinese">她对此次奖学金志在必得。</span><span class="english">She is confident of being awarded this scholarship.</span></p>

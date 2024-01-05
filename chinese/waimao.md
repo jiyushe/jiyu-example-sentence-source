@@ -1,5 +1,7 @@
 # 外貌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waimao.md)
+
 <p><span class="chinese">外貌好，气质佳。</span><span class="english">Good looks, good temperament.</span></p>
 
 <p><span class="chinese">在家练习玩外貌—名称游戏。</span><span class="english">Practice the face-name game at home.</span></p>

@@ -1,5 +1,7 @@
 # decrypt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decrypt.md)
+
 <p><span class="chinese">如果安全策略要求，则对请求进行解密。</span><span class="english">Decrypt the request if the security policies dictate it.</span></p>
 
 <p><span class="chinese">如果安全策略要求，则对请求进行解密。</span><span class="english">Decrypt the response if the security policies dictate it.</span></p>

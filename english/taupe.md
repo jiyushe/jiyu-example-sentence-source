@@ -1,5 +1,7 @@
 # taupe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taupe.md)
+
 <p><span class="chinese">褐色的还是淡黄色的？</span><span class="english">The taupe or the buff?</span></p>
 
 <p><span class="chinese">灰褐色是最完美的中性颜色。</span><span class="english">The perfect neutral is taupe.</span></p>

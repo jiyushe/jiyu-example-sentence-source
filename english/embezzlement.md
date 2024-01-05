@@ -1,5 +1,7 @@
 # embezzlement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embezzlement.md)
+
 <p><span class="chinese">他们贪污挪用公款使商行破产了。</span><span class="english">Their embezzlement bankrupted the firm.</span></p>
 
 <p><span class="chinese">侵占罪的认定问题。</span><span class="english">The respect asserted of embezzlement crime.</span></p>

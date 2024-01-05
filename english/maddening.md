@@ -1,5 +1,7 @@
 # maddening
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maddening.md)
+
 <p><span class="chinese">音乐现在变得急骤了。</span><span class="english">The music became maddening now.</span></p>
 
 <p><span class="chinese">尽管如此，这可能是一本走火入魔的书。</span><span class="english">Still, this can be a maddening book.</span></p>

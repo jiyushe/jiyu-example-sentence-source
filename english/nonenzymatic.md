@@ -1,5 +1,7 @@
 # nonenzymatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonenzymatic.md)
+
 <p><span class="chinese">本文探讨了香蕉汁储藏中非酶褐变的原因与动力学。</span><span class="english">The paper discussed causes and kinetics of nonenzymatic browning during banana juice storage.</span></p>
 
 <p><span class="chinese">依帕司他可减轻糖尿病个体的氧化应激，并抑制蛋白非酶糖化。</span><span class="english">Epalrestat can improve oxidative stress in diabetics and inhibit the nonenzymatic glycation of protein.</span></p>

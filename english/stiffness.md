@@ -1,5 +1,7 @@
 # stiffness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stiffness.md)
+
 <p><span class="chinese">机器外客的刚度。</span><span class="english">The stiffness of machinery casing support.</span></p>
 
 <p><span class="chinese">你有颈项痛或颈项强直吗？</span><span class="english">Do you have pain or stiffness in your neck?</span></p>

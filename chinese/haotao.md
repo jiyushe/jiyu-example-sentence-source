@@ -1,5 +1,7 @@
 # 嚎啕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haotao.md)
+
 <p><span class="chinese">她对着父亲的遗体嚎啕大哭。</span><span class="english">She wailed over her father's remains.</span></p>
 
 <p><span class="chinese">那件坏消息使她嚎啕大哭。</span><span class="english">That bad news caused her emotinal outburst.</span></p>

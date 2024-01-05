@@ -1,5 +1,7 @@
 # 粗陋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/culou.md)
+
 <p><span class="chinese">这所房子盖得很粗陋。</span><span class="english">This is a crudely built house.</span></p>
 
 <p><span class="chinese">自己地孩子们叫它在一个设备粗陋城镇。</span><span class="english">My children call it at a one-horse town.</span></p>

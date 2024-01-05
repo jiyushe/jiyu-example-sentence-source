@@ -1,5 +1,7 @@
 # 惊涛骇浪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingtaohailang.md)
+
 <p><span class="chinese">惊涛骇浪朝着船头冲打过来。</span><span class="english">Heavy seas broke over the bows.</span></p>
 
 <p><span class="chinese">海鸥在惊涛骇浪上翱翔。</span><span class="english">Seagulls hover over the surging waves.</span></p>

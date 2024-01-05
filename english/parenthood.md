@@ -1,5 +1,7 @@
 # parenthood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parenthood.md)
+
 <p><span class="chinese">我还参加“有计划的生育”。</span><span class="english">and I also am a participant with Planned Parenthood.</span></p>
 
 <p><span class="chinese">选择同居或单身父母的人变得很少。</span><span class="english">Cohabitation and single parenthood by choice were very rare.</span></p>

@@ -1,5 +1,7 @@
 # sheepish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sheepish.md)
+
 <p><span class="chinese">博比望着她腼腆地咧嘴一笑。</span><span class="english">Bobby looked at her with a sheepish grin.</span></p>
 
 <p><span class="chinese">中国的领导人如此低调并非没有道理。</span><span class="english">China’s leaders have reason to be sheepish.</span></p>

@@ -1,5 +1,7 @@
 # 和谐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hexie.md)
+
 <p><span class="chinese">和谐的生活。</span><span class="english">Live harmoniously.</span></p>
 
 <p><span class="chinese">这是个和谐音</span><span class="english">Here is a consonance.</span></p>

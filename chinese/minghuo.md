@@ -1,5 +1,7 @@
 # 明火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minghuo.md)
+
 <p><span class="chinese">不要用明火直接烧用。</span><span class="english">Do not use direct fire with fire.</span></p>
 
 <p><span class="chinese">不要使用蜡烛或任何明火。</span><span class="english">Don't use candles or any open flames.</span></p>

@@ -1,5 +1,7 @@
 # 侦破
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenpo.md)
+
 <p><span class="chinese">侦破发生在210纳米的紫外线。</span><span class="english">The detection takes place by UV at 210 nm.</span></p>
 
 <p><span class="chinese">警察上周侦破了一件凶杀案。</span><span class="english">The police cracked a murder case last week.</span></p>

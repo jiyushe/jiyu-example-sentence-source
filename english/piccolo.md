@@ -1,5 +1,7 @@
 # piccolo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piccolo.md)
+
 <p><span class="chinese">短笛若隐若现，小提琴浅吟低唱。</span><span class="english">The piccolo peeped the tune, the violins sang languidly.</span></p>
 
 <p><span class="chinese">其中一个两个月以后被捕，另一个就是洛皮科洛先生。</span><span class="english">One was arrested two months later. The second was Mr Lo Piccolo.</span></p>

@@ -1,5 +1,7 @@
 # 见机行事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianjixingshi.md)
+
 <p><span class="chinese">他是一个能见机行事的人。</span><span class="english">He is a man who knows the time of day.</span></p>
 
 <p><span class="chinese">我们不知怎么做，所以必须见机行事。</span><span class="english">We don't know what to do now, so we must play by ear.</span></p>

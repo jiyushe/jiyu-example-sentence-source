@@ -1,5 +1,7 @@
 # 出名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuming.md)
+
 <p><span class="chinese">但我为什么会出名呢海格?。</span><span class="english">But why am I famous, Hagrid?</span></p>
 
 <p><span class="chinese">你的城市以什么而出名?</span><span class="english">What is your city famous for?</span></p>

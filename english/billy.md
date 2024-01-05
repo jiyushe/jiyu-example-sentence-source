@@ -1,5 +1,7 @@
 # billy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/billy.md)
+
 <p><span class="chinese">谢谢了，比利-寇根。</span><span class="english">Thanks, Billy Corgan.</span></p>
 
 <p><span class="chinese">傻毕利喜欢百合花。</span><span class="english">Silly Billy loves lily.</span></p>

@@ -1,5 +1,7 @@
 # 中庸之道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongyongzhidao.md)
+
 <p><span class="chinese">他喜欢信守中庸之道。</span><span class="english">He likes to stick to a happy medium.</span></p>
 
 <p><span class="chinese">中庸之道是最好的准则。</span><span class="english">Moderation in all things is the best of rules.</span></p>

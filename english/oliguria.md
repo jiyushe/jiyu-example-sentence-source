@@ -1,5 +1,7 @@
 # oliguria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oliguria.md)
+
 <p><span class="chinese">鉴别肾前性少尿和肾性少尿。</span><span class="english">Identification of prerenal oliguria and renal oliguria.</span></p>
 
 <p><span class="chinese">用于鉴别肾前性因素或急性肾功能衰竭引起的少尿。</span><span class="english">Used to identify factors or pre-renal acute renal failure caused by oliguria.</span></p>

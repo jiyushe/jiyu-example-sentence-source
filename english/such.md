@@ -1,5 +1,7 @@
 # such 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/such.md)
+
 <p><span class="chinese">这种鬼天气！</span><span class="english">Such weather!</span></p>
 
 <p><span class="chinese">我太不像话了“</span><span class="english">I'm such a jerk.</span></p>

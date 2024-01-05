@@ -1,5 +1,7 @@
 # humic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humic.md)
+
 <p><span class="chinese">腐植酸全部采用黄腐酸。</span><span class="english">The use of humic acid FA.</span></p>
 
 <p><span class="chinese">腐植酸钠如何化验?。</span><span class="english">Humic acerbity natrium how assay?</span></p>

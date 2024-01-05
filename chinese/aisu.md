@@ -1,5 +1,7 @@
 # 哀诉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aisu.md)
+
 <p><span class="chinese">我是极客，听我哀诉！</span><span class="english">I am geek, hear me whimper!</span></p>
 
 <p><span class="chinese">输家总是哀诉他们已经尽力了。</span><span class="english">Losers always whine about their best.</span></p>

@@ -1,5 +1,7 @@
 # foresaw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foresaw.md)
+
 <p><span class="chinese">这确实是佛洛伊德的先知之明。</span><span class="english">This is certainly what Freud foresaw.</span></p>
 
 <p><span class="chinese">几乎没有人预见到苏联帝国的崩溃。</span><span class="english">Few people foresaw the collapse of the Soviet empire.</span></p>

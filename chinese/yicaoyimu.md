@@ -1,5 +1,7 @@
 # 一草一木
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yicaoyimu.md)
+
 <p><span class="chinese">请爱护沟内一草一木。</span><span class="english">Please cherish the plants in the valley.</span></p>
 
 <p><span class="chinese">思念大学里的一草一木。</span><span class="english">Missing the grass and trees in the college.</span></p>

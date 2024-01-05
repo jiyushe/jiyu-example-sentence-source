@@ -1,5 +1,7 @@
 # atmospheric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atmospheric.md)
+
 <p><span class="chinese">假如我们没有大气压力。</span><span class="english">If we did not have atmospheric pressure.</span></p>
 
 <p><span class="chinese">大气物理学和气象学是复杂的。</span><span class="english">Atmospheric physics and meteorology are complex.</span></p>

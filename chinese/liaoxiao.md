@@ -1,5 +1,7 @@
 # 疗效
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liaoxiao.md)
+
 <p><span class="chinese">疗效是硬道理。</span><span class="english">Effect is the last word.</span></p>
 
 <p><span class="chinese">疗效更好，药效更持久。</span><span class="english">Works Better. Lasts Longer.</span></p>

@@ -1,5 +1,7 @@
 # 啼笑皆非
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tixiaojiefei.md)
+
 <p><span class="chinese">真是集天下之大荒，让人啼笑皆非！</span><span class="english">It set the world of Da Huang, ridiculous people!</span></p>
 
 <p><span class="chinese">吴小沫不得已与母亲各种啼笑皆非的“逼婚”展开机智“斗争”。</span><span class="english">Small foam to wu with mother various cay forced marriage wit struggle.</span></p>

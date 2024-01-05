@@ -1,5 +1,7 @@
 # newt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/newt.md)
+
 <p><span class="chinese">当纽特处于顺风顺水的势头时，要让他止步是很难的。</span><span class="english">When he was on a roll, Newt was hard to stop.</span></p>
 
 <p><span class="chinese">斯凯夫的手下还与纽特·金里奇的盟友密切合作。</span><span class="english">Scaife’s people also worked closely with allies of Newt Gingrich.</span></p>

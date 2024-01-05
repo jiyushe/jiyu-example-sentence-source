@@ -1,5 +1,7 @@
 # saigon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saigon.md)
+
 <p><span class="chinese">再给西贡一两天的时间吧。</span><span class="english">Give Saigon a day or so.</span></p>
 
 <p><span class="chinese">金边到吴哥，西贡到河内。</span><span class="english">And Phnom Penh to Angkor, Saigon to Honai.</span></p>

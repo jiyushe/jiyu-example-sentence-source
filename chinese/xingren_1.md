@@ -1,5 +1,7 @@
 # 行人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingren_1.md)
+
 <p><span class="chinese">我们需要走行人穿越道。</span><span class="english">We need a crosswalk.</span></p>
 
 <p><span class="chinese">人生如逆旅，我亦是行人。</span><span class="english">What is a great life?</span></p>

@@ -1,5 +1,7 @@
 # 有效期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youxiaoqi.md)
+
 <p><span class="chinese">机票有效期30天内往返。</span><span class="english">Validity for 30days only.</span></p>
 
 <p><span class="chinese">我的签证有效期只剩一天了。</span><span class="english">My visa expires in one day.</span></p>

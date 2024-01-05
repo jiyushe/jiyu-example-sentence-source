@@ -1,5 +1,7 @@
 # optima
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/optima.md)
+
 <p><span class="chinese">为了避免陷入局部最优，对变异算子进行了改进。</span><span class="english">Moreover, we improve the mutation to avoid the remaining local optima of GAs.</span></p>
 
 <p><span class="chinese">在优化引擎中使用了遗传算法用来避免局部的优化解。</span><span class="english">In the optimization engine, genetic algorithm is adopted to avoid local optima.</span></p>

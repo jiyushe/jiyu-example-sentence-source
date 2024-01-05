@@ -1,5 +1,7 @@
 # minx
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minx.md)
+
 <p><span class="chinese">多久疯丫头持续多久？</span><span class="english">How long does Minx last?</span></p>
 
 <p><span class="chinese">你是否像艳妇一样风骚？</span><span class="english">Are you mean like a minx?</span></p>

@@ -1,5 +1,7 @@
 # reservior
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reservior.md)
+
 <p><span class="chinese">再往前行，很快就来的汤浦水库了。</span><span class="english">Walking ahead, very soon I reached Tang Pu Reservior.</span></p>
 
 <p><span class="chinese">制动气室，动力转向油罐，储气筒。</span><span class="english">Brake chamber, power steering oil tank, air reservior.</span></p>

@@ -1,5 +1,7 @@
 # labourer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/labourer.md)
+
 <p><span class="chinese">又说，工人得工价是应当的。</span><span class="english">And, The labourer is worthy of his reward.</span></p>
 
 <p><span class="chinese">他早先给地主扛过长活。</span><span class="english">He used to be a long-term labourer for a landlord.</span></p>

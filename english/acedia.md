@@ -1,5 +1,7 @@
 # acedia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acedia.md)
+
 <p><span class="chinese">带着绝望的心，她上吊自尽了。</span><span class="english">Taking acedia heart, commit suicide of her hang oneself.</span></p>
 
 <p><span class="chinese">但是如果你能了解其中的道理，你就能远离“怠惰”对你的侵害。</span><span class="english">But if you know the truth , you are protected from Acedia.</span></p>

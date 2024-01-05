@@ -1,5 +1,7 @@
 # 并发症
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingfazheng.md)
+
 <p><span class="chinese">此并发症也不多见。</span><span class="english">This complication is also infrequent.</span></p>
 
 <p><span class="chinese">鸡尾酒疗法也有并发症。</span><span class="english">Treatment with HAART has complications.</span></p>

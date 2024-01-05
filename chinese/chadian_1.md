@@ -1,5 +1,7 @@
 # 茶点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chadian_1.md)
+
 <p><span class="chinese">今天早上我做了些茶点。</span><span class="english">I made tea cookies this morning.</span></p>
 
 <p><span class="chinese">我想吃一顿好茶点。</span><span class="english">I should like to have a good tea.</span></p>

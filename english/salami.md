@@ -1,5 +1,7 @@
 # salami
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salami.md)
+
 <p><span class="chinese">火腿，生菜，西红柿，美乃汁，白吐司。</span><span class="english">Salami , lettuce, tomato, and mayonnaise on white bread.</span></p>
 
 <p><span class="chinese">卡拉马它橄榄、香菇、朝鲜蓟嫩心和沙拉米。</span><span class="english">Olives, Shiitake Mushrooms, Artichoke Hearts, and Salami.</span></p>

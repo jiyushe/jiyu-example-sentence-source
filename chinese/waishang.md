@@ -1,5 +1,7 @@
 # 外伤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waishang.md)
+
 <p><span class="chinese">外伤比内伤更容易得到谅解。</span><span class="english">An injury is forgiven more easily</span></p>
 
 <p><span class="chinese">只有尸体才不会为受到的外伤而报复。</span><span class="english">A dead body revenges not injuries.</span></p>

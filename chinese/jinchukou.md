@@ -1,5 +1,7 @@
 # 进出口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinchukou.md)
+
 <p><span class="chinese">我经营进出口业务的。</span><span class="english">I'm in the import-export business.</span></p>
 
 <p><span class="chinese">浙江杭州丝绸集团进出口。</span><span class="english">Zhejiang Hangzhou Silk Group Imp &. Exp.</span></p>

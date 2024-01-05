@@ -1,5 +1,7 @@
 # rayleigh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rayleigh.md)
+
 <p><span class="chinese">在瑞利衰落信道上，性能亦有改善。</span><span class="english">In Rayleigh channel, the capacity is also improved.</span></p>
 
 <p><span class="chinese">反演方面的研究是瑞雷波勘探的核心。</span><span class="english">Inversion research is the core of Rayleigh wave exploration.</span></p>

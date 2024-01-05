@@ -1,5 +1,7 @@
 # phenomenological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phenomenological.md)
+
 <p><span class="chinese">宇宙暴胀理论的唯象描述。</span><span class="english">A Phenomenological Theory of Cosmic Inflation.</span></p>
 
 <p><span class="chinese">而我们则打一开始就面临着一个现象学的问题。</span><span class="english">We face at the start a phenomenological problem.</span></p>

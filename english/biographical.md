@@ -1,5 +1,7 @@
 # biographical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biographical.md)
+
 <p><span class="chinese">传记文学具有两面性。</span><span class="english">Biographical literature is a bi-lateral fact.</span></p>
 
 <p><span class="chinese">其他科学家补充了传记细节。</span><span class="english">Other scientists filled in biographical details.</span></p>

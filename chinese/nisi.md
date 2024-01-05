@@ -1,5 +1,7 @@
 # 溺死
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nisi.md)
+
 <p><span class="chinese">他在称赞中溺死了“。</span><span class="english">He drowned in the ovation.</span></p>
 
 <p><span class="chinese">他决定把这畜生溺死。</span><span class="english">He decided to drown the animal.</span></p>

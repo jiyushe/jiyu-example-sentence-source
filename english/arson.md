@@ -1,5 +1,7 @@
 # arson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arson.md)
+
 <p><span class="chinese">纵火者是谁？</span><span class="english">Arson person who be?</span></p>
 
 <p><span class="chinese">他纵火烧了自己的房子。</span><span class="english">Of or involving arson.</span></p>

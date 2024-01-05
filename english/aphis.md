@@ -1,5 +1,7 @@
 # aphis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aphis.md)
+
 <p><span class="chinese">对大豆蚜的空间分布型进行了研究。</span><span class="english">The spatial distribution of Aphis glycines was studied.</span></p>
 
 <p><span class="chinese">有翅蚜在各处理间的数量差异都未达到显著水平。</span><span class="english">The winged aphis also have no significant difference in all nitrogen area.</span></p>

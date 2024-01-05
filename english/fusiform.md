@@ -1,5 +1,7 @@
 # fusiform
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fusiform.md)
+
 <p><span class="chinese">直根长圆锥形，很少纺锤形。</span><span class="english">Taproot long-conic, rarely fusiform.</span></p>
 
 <p><span class="chinese">北美凸鲈有着梭状的体型。</span><span class="english">Saugers have a fusiform body structure.</span></p>

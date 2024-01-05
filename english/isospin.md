@@ -1,5 +1,7 @@
 # isospin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isospin.md)
+
 <p><span class="chinese">交换力的条件与同位旋完全无关。</span><span class="english">The condition of an exchange force has nothing to do with isospin.</span></p>
 
 <p><span class="chinese">推广了原来的RVUU模型，进一步分离了粒子的同位旋自由度。</span><span class="english">We generalize the previous RVUU model to he able to identify the isospin degree of freedom of particles.</span></p>

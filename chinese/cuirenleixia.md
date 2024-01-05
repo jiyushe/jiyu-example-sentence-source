@@ -1,5 +1,7 @@
 # 催人泪下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuirenleixia.md)
+
 <p><span class="chinese">受够了催人泪下的说教。</span><span class="english">Enough of tear jerking moralizing.</span></p>
 
 <p><span class="chinese">是啊，我就喜欢催人泪下的好故事。</span><span class="english">Yes, I always love a good tear-jerker.</span></p>

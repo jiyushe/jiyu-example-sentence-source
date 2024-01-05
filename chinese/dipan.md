@@ -1,5 +1,7 @@
 # 地盘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dipan.md)
+
 <p><span class="chinese">这是我的地盘。</span><span class="english">This is my thing.</span></p>
 
 <p><span class="chinese">你在我的地盘呢，记得吗？</span><span class="english">You're on my rez, remember?</span></p>

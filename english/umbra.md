@@ -1,5 +1,7 @@
 # umbra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/umbra.md)
+
 <p><span class="chinese">第一个因素很简单，就是月亮进入阴影的深度。</span><span class="english">The first is simply how deeply the moon goes into the umbra.</span></p>
 
 <p><span class="chinese">阴影的中心要比边缘暗得多，”杂志上说。</span><span class="english">The center of the umbra is much darker than its edges, " it says.</span></p>

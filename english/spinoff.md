@@ -1,5 +1,7 @@
 # spinoff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spinoff.md)
+
 <p><span class="chinese">"美国偶像"是英国真人秀节目"流行偶像"的美国版。</span><span class="english">The show is a spinoff of the British show Pop Idol.</span></p>
 
 <p><span class="chinese">它衍生的科技用途将无穷无尽。</span><span class="english">The possibilities of spinoff technologies are endless.</span></p>

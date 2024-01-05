@@ -1,5 +1,7 @@
 # exorcist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exorcist.md)
+
 <p><span class="chinese">原版的”大法师”是史上最恐怖的一部电影。</span><span class="english">The original Exorcist is the scariest movies of all time.</span></p>
 
 <p><span class="chinese">如果召唤者不小心，便会被他所杀。</span><span class="english">If the Exorcist have not a care, he will slay both him and his fellows.</span></p>

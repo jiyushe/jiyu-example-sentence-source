@@ -1,5 +1,7 @@
 # 要职
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaozhi_2.md)
+
 <p><span class="chinese">他在政府中任要职。</span><span class="english">He occupies an important post in government.</span></p>
 
 <p><span class="chinese">曼联仍不缺身居要职的欣赏者。</span><span class="english">Manchester United still have admirers in high places.</span></p>

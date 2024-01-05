@@ -1,5 +1,7 @@
 # 偏巧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianqiao.md)
+
 <p><span class="chinese">饥饿驱使他去偏巧。</span><span class="english">Hunger drove him to steal.</span></p>
 
 <p><span class="chinese">她偏巧很会说西班牙语。</span><span class="english">She chanced to speak fluent Spanish.</span></p>

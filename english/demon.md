@@ -1,5 +1,7 @@
 # demon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demon.md)
+
 <p><span class="chinese">牛认识一个魔鬼。</span><span class="english">The Bull- man is a demon.</span></p>
 
 <p><span class="chinese">你儿子是个小调皮鬼。</span><span class="english">Your son's a little demon.</span></p>

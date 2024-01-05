@@ -1,5 +1,7 @@
 # stilly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stilly.md)
+
 <p><span class="chinese">罢工虽然解决了，但问题依然存在。</span><span class="english">Strike was over, but problem existed stilly.</span></p>
 
 <p><span class="chinese">他自己则在“唰唰唰”的脚步中睡着了，一动不动。</span><span class="english">But he himself got to sleep in the footsteps, stilly.</span></p>

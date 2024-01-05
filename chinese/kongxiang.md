@@ -1,5 +1,7 @@
 # 空想
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongxiang.md)
+
 <p><span class="chinese">那么，这是他的空想世界。</span><span class="english">Then there is his otherworldliness.</span></p>
 
 <p><span class="chinese">别在空想中蹉跎一生.</span><span class="english">You shouldn't dream your life away.</span></p>

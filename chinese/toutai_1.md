@@ -1,5 +1,7 @@
 # 投胎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toutai_1.md)
+
 <p><span class="chinese">一个人死后就会重新投胎回到人间。</span><span class="english">Once you die you are reborn.</span></p>
 
 <p><span class="chinese">我相信我死后会投胎成蛇。</span><span class="english">I believe I will be reincarnated as a snake.</span></p>

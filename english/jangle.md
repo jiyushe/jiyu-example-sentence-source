@@ -1,5 +1,7 @@
 # jangle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jangle.md)
+
 <p><span class="chinese">这三个男人为了小事而争吵。</span><span class="english">The three men jangle over trifles.</span></p>
 
 <p><span class="chinese">滴噜噜，滴噜噜，金币滚动的声音。</span><span class="english">Jangle jangle, the sound of rolling adena.</span></p>

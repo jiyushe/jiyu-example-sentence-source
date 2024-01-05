@@ -1,5 +1,7 @@
 # 自然光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziranguang.md)
+
 <p><span class="chinese">自然光总是随时空变化着。</span><span class="english">Daylight is always changing with space-time.</span></p>
 
 <p><span class="chinese">太阳的自然光会暴露冷色调打印。</span><span class="english">The sun's natural light will expose cyanotype prints.</span></p>

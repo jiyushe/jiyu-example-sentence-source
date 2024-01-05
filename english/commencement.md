@@ -1,5 +1,7 @@
 # commencement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commencement.md)
+
 <p><span class="chinese">毕业典礼上有人哭吗？</span><span class="english">Did anyone cry in the commencement?</span></p>
 
 <p><span class="chinese">毕业典礼在豪华的大厅举行。</span><span class="english">The commencement was held in the grand hall.</span></p>

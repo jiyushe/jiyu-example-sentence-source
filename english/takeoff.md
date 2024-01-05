@@ -1,5 +1,7 @@
 # takeoff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/takeoff.md)
+
 <p><span class="chinese">这只在起飞的时候才发生</span><span class="english">That happens during takeoff.</span></p>
 
 <p><span class="chinese">请于起飞前一小进到达机场。</span><span class="english">Please reach the airport an hour before takeoff.</span></p>

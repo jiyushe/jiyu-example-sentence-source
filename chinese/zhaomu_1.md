@@ -1,5 +1,7 @@
 # 招募
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaomu_1.md)
+
 <p><span class="chinese">哦，丹尼尔，招募新兵如何？</span><span class="english">Oh, how was the recruit Daniel?</span></p>
 
 <p><span class="chinese">我们需要招募更多的程序师。</span><span class="english">We need to recruit more programmers.</span></p>

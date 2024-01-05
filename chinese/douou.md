@@ -1,5 +1,7 @@
 # 斗殴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/douou.md)
+
 <p><span class="chinese">在一次斗殴中他被击倒在地。</span><span class="english">He was downed in a fight.</span></p>
 
 <p><span class="chinese">他在斗殴时被打得眼眶发青。</span><span class="english">He got a black eye in the fight.</span></p>

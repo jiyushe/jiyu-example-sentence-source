@@ -1,5 +1,7 @@
 # boardwalk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boardwalk.md)
+
 <p><span class="chinese">我们每天在木板路上步行3里路。</span><span class="english">We walk on the boardwalk 3 miles each day.</span></p>
 
 <p><span class="chinese">庭院内由木条铺盖的甲板来自于科尼岛上的旧木板步道。</span><span class="english">The deck planks were reclaimed from the Coney Island boardwalk.</span></p>

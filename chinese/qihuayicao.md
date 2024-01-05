@@ -1,5 +1,7 @@
 # 奇花异草
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qihuayicao.md)
+
 <p><span class="chinese">那里长着大量奇花异草。</span><span class="english">Exotic plants grew there in great abundance.</span></p>
 
 <p><span class="chinese">岸边的奇花异草，是拘留不住奔腾向前的江水的。</span><span class="english">The shore, is detained pentium forward of the water in the river.</span></p>

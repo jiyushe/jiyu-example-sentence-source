@@ -1,5 +1,7 @@
 # equitable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equitable.md)
+
 <p><span class="chinese">好的地税税种具备横向来看较为公平的税基。</span><span class="english">A good local tax has a base that is horizontally equitable.</span></p>
 
 <p><span class="chinese">没有，我刚到，梦梦，快点上来。</span><span class="english">Have not, I equitable arrived, dream dream, quickly came up.</span></p>

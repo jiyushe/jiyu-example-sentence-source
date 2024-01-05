@@ -1,5 +1,7 @@
 # 百合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baihe.md)
+
 <p><span class="chinese">葱属和百合属是近亲。</span><span class="english">Lily is good and pretty.</span></p>
 
 <p><span class="chinese">宛如百合，皓似白雪。</span><span class="english">Lily-like, white as snow.</span></p>

@@ -1,5 +1,7 @@
 # 智勇双全
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiyongshuangquan.md)
+
 <p><span class="chinese">他是个智勇双全的典型。</span><span class="english">He gave an example of bravery and wisdom.</span></p>
 
 <p><span class="chinese">我智勇双全，我无所不能，我他妈的是个失败者。</span><span class="english">I am strong, I am powerful, I am a fucking loser.</span></p>

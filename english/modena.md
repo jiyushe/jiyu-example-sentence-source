@@ -1,5 +1,7 @@
 # modena
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/modena.md)
+
 <p><span class="chinese">我对莫德纳的进球已经是太过遥远的记忆了。</span><span class="english">My goal against Modena is now a distant memory.</span></p>
 
 <p><span class="chinese">摩德纳踢得不错，很有进攻性，但是我们一直高度集中精力。</span><span class="english">Modena did well and were aggressive but we kept concentration high.</span></p>

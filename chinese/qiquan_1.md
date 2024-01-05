@@ -1,5 +1,7 @@
 # 期权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiquan_1.md)
+
 <p><span class="chinese">期权是指购买某样东西的权利</span><span class="english">An option is the right to buy something.</span></p>
 
 <p><span class="chinese">实物期权具有先占性和非独占性。</span><span class="english">Real option has personal and monopolize.</span></p>

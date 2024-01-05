@@ -1,5 +1,7 @@
 # gerry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gerry.md)
+
 <p><span class="chinese">格里高尔突然发现本人变成大甲虫。</span><span class="english">Gerry gore suddenly found himself into big beetle.</span></p>
 
 <p><span class="chinese">格里对修理问题不像我这么在意。</span><span class="english">Gerry is less likely to be bothered by repair problems.</span></p>

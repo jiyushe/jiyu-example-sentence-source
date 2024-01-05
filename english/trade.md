@@ -1,5 +1,7 @@
 # trade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trade.md)
+
 <p><span class="chinese">那是种辛苦的手艺。</span><span class="english">It is a hard trade.</span></p>
 
 <p><span class="chinese">我是服装商。</span><span class="english">I trade in garments.</span></p>

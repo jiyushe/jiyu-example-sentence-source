@@ -1,5 +1,7 @@
 # rarity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rarity.md)
+
 <p><span class="chinese">红色的黄晶那就更加稀有了。</span><span class="english">A red topaz is a rarity.</span></p>
 
 <p><span class="chinese">在沙漠中雨是很少见的。</span><span class="english">Rain is a rarity in the desert.</span></p>

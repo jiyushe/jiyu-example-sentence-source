@@ -1,5 +1,7 @@
 # hainan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hainan.md)
+
 <p><span class="chinese">他们已经在海南岛安家落户。</span><span class="english">They have settled in Hainan.</span></p>
 
 <p><span class="chinese">海南是哪一年建省的呢？</span><span class="english">Hainan is built in what year?</span></p>

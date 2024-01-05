@@ -1,5 +1,7 @@
 # 井底之蛙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingdizhiwa.md)
+
 <p><span class="chinese">也可以说成是“井底之蛙”。</span><span class="english">A frog at the bottom of a well.</span></p>
 
 <p><span class="chinese">但美国人现在都是井底之蛙了。</span><span class="english">But the Americans are oblivious.</span></p>

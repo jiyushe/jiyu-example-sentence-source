@@ -1,5 +1,7 @@
 # dicyandiamide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dicyandiamide.md)
+
 <p><span class="chinese">采用高效液相色谱法控制二甲双胍中双氰胺杂质的限量。</span><span class="english">HPLC was used in the determination of Dicyandiamide in Metformin hydrochloride.</span></p>
 
 <p><span class="chinese">以吗啉、盐酸、双氰胺为原料合成盐酸吗啉呱。</span><span class="english">Morocydine hydrochloride was synthesized with morpholine? hydrochloric acid and dicyandiamide.</span></p>

@@ -1,5 +1,7 @@
 # lunged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lunged.md)
+
 <p><span class="chinese">我的意思是那家伙扑来。</span><span class="english">I mean lunged at the guy.</span></p>
 
 <p><span class="chinese">他用剑猛刺对手。</span><span class="english">He lunged  at his opponent.</span></p>

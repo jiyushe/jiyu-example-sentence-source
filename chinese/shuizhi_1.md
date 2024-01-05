@@ -1,5 +1,7 @@
 # 水质
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuizhi_1.md)
+
 <p><span class="chinese">水质在发生变化吗？</span><span class="english">Is water quality changing?</span></p>
 
 <p><span class="chinese">水质清澈，无污染。</span><span class="english">Water clean and pollution-free.</span></p>

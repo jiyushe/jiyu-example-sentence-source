@@ -1,5 +1,7 @@
 # blueberry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blueberry.md)
+
 <p><span class="chinese">蓝莓冰激凌冰沙。</span><span class="english">Blueberry Ice-cream smoothy.</span></p>
 
 <p><span class="chinese">还是会余下些蓝莓碎末。</span><span class="english">Blueberry bits will remain though.</span></p>

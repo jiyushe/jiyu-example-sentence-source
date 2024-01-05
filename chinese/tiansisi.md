@@ -1,5 +1,7 @@
 # 甜丝丝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiansisi.md)
+
 <p><span class="chinese">有一股甜丝丝的气息，使人隐隐感到像是咖啡。</span><span class="english">There was a sweetish smell, vaguely reminiscent of coffee.</span></p>
 
 <p><span class="chinese">“这酒甜丝丝的就象甘草，”姑娘说，一边放下酒杯。</span><span class="english">"It tastes like licorice, " the girl said and put the glass down.</span></p>

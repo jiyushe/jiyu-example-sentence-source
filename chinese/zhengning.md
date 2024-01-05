@@ -1,5 +1,7 @@
 # 狰狞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengning.md)
+
 <p><span class="chinese">女巫干尸貌狰狞。</span><span class="english">Witches' mummy  maw and  gulf.</span></p>
 
 <p><span class="chinese">他笑得像四十磅大炮一样狰狞。</span><span class="english">He smiled as fierce as a forty-pounder.</span></p>

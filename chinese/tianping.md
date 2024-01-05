@@ -1,5 +1,7 @@
 # 天平
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianping.md)
+
 <p><span class="chinese">天平两边的秤盘平衡吗?</span><span class="english">Do these scales balance?</span></p>
 
 <p><span class="chinese">天平座上，今天是你的生日。</span><span class="english">Go Libra its your birthday.</span></p>

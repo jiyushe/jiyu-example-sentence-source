@@ -1,5 +1,7 @@
 # wipo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wipo.md)
+
 <p><span class="chinese">WIPO为这些活动提供技术援助。</span><span class="english">WIPO is providing technical assistance for this purpose.</span></p>
 
 <p><span class="chinese">该系统由设在瑞士日内瓦的世界知识产权组织国际局管理。</span><span class="english">It is administered by the International Bureau of WIPO located in Geneva, Switzerland.</span></p>

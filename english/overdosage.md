@@ -1,5 +1,7 @@
 # overdosage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overdosage.md)
+
 <p><span class="chinese">有些人死于因训练过度和过量的麻黄碱。</span><span class="english">Some people died because of overtrain and overdosage of Ephedrine.</span></p>
 
 <p><span class="chinese">瞬态可逆的低血压可能发生在意外过量的情况。</span><span class="english">Transient reversible hypotension may occur in cases of accidental overdosage.</span></p>

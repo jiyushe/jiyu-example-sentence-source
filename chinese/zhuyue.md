@@ -1,5 +1,7 @@
 # 逐月
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuyue.md)
+
 <p><span class="chinese">“我希望更多的城市逐月逐月下降，”张说。</span><span class="english">“I expect more cities to fall month-on-month, ” Zhang said.</span></p>
 
 <p><span class="chinese">本文还逐月分析了1996—2001年南北半球的耀斑指数。</span><span class="english">The solar flare index for the interval from 1996-2001 is also investigated.</span></p>

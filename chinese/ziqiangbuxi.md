@@ -1,5 +1,7 @@
 # 自强不息
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziqiangbuxi.md)
+
 <p><span class="chinese">毋恐无怵，自强不息。</span><span class="english">Fear not, be strong.</span></p>
 
 <p><span class="chinese">天行健，君子当自强不息。</span><span class="english">Day line, gentleman when self-improvement.</span></p>

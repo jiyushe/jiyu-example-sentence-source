@@ -1,5 +1,7 @@
 # anglia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anglia.md)
+
 <p><span class="chinese">这是东安格利亚大学的网站。</span><span class="english">This is the website for University of East Anglia.</span></p>
 
 <p><span class="chinese">本是学习东英吉利亚大学政治。</span><span class="english">Ben is learning politics at the University of East Anglia.</span></p>

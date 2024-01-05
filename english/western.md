@@ -1,5 +1,7 @@
 # western 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/western.md)
+
 <p><span class="chinese">他们采用西式的婚礼。</span><span class="english">They had a western wedding.</span></p>
 
 <p><span class="chinese">我想播的是一部西部片。</span><span class="english">I think there's a Western on.</span></p>

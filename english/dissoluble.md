@@ -1,5 +1,7 @@
 # dissoluble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissoluble.md)
+
 <p><span class="chinese">柴达木盆地第四系生物气源岩可溶有机质含量约是不溶有机质含量的2。</span><span class="english">The content of dissoluble organic matter in quaternary source rock of biogenic gas is about 2.</span></p>
 
 <p><span class="chinese">糖元不仅储存能量，还可分解成葡萄糖调节血糖浓度。</span><span class="english">Candy yuan store not only energy, dissoluble still into chroma of dextrose adjustment blood sugar.</span></p>

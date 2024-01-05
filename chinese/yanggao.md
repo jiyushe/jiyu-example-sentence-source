@@ -1,5 +1,7 @@
 # 样稿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanggao.md)
+
 <p><span class="chinese">我审阅了这书的样稿。</span><span class="english">I read the book in proof.</span></p>
 
 <p><span class="chinese">我们得先看看你的样稿。</span><span class="english">Here's what I've done so far.</span></p>

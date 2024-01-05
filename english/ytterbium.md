@@ -1,5 +1,7 @@
 # ytterbium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ytterbium.md)
+
 <p><span class="chinese">采用磁控溅射法制备锰铜薄膜，溅射和真空蒸发法制备镱薄膜。</span><span class="english">Thin film manganin gages and ytterbium gages were fabricated by magnetron sputtering.</span></p>
 
 <p><span class="chinese">镱原子钟甚至可能比铯原子钟更加精确和稳定。</span><span class="english">And an ytterbium clock has the potential to be even more accurate and stable than the cesium chronometer.</span></p>

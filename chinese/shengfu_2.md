@@ -1,5 +1,7 @@
 # 省府
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengfu_2.md)
+
 <p><span class="chinese">这对省府有关部门制定交通政策具有参考价值。</span><span class="english">These are useful for the provincial governments to formulate their traffic policies.</span></p>
 
 <p><span class="chinese">省府夏洛特镇的居民在大街上开起派对，庆祝禁令解除。</span><span class="english">Residents of the capital Charlottetown celebrated the lifting of the ban at a street party.</span></p>

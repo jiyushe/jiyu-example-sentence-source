@@ -1,5 +1,7 @@
 # 综合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zonghe_2.md)
+
 <p><span class="chinese">西朗综合枢纽区。</span><span class="english">Serang integrated hub area.</span></p>
 
 <p><span class="chinese">你要找到一种综合。</span><span class="english">You have to find a synthesis.</span></p>

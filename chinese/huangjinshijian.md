@@ -1,5 +1,7 @@
 # 黄金时间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangjinshijian.md)
+
 <p><span class="chinese">了解你的黄金时间。</span><span class="english">Know your key times.</span></p>
 
 <p><span class="chinese">是啊，这可是个黄金时间。</span><span class="english">Yes, this is the best time.</span></p>

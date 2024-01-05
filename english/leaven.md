@@ -1,5 +1,7 @@
 # leaven
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leaven.md)
+
 <p><span class="chinese">一点面酵能使全团都发起来。</span><span class="english">A little leaven leavens the whole lump.</span></p>
 
 <p><span class="chinese">一点面酵能使全团都发起来。</span><span class="english">A little leaven leaveneth the whole lump.</span></p>

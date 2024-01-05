@@ -1,5 +1,7 @@
 # clinic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clinic.md)
+
 <p><span class="chinese">他在诊所里戒毒。</span><span class="english">He detoxed at a clinic.</span></p>
 
 <p><span class="chinese">开个心理诊所。</span><span class="english">Open up a psych clinic.</span></p>

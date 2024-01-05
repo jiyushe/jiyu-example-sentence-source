@@ -1,5 +1,7 @@
 # 绘制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huizhi_1.md)
+
 <p><span class="chinese">羽海野绘制！</span><span class="english">Feather sea wild draw!</span></p>
 
 <p><span class="chinese">绘制你家的藏宝图.</span><span class="english">Make your own treasure map.</span></p>

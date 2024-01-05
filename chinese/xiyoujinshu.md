@@ -1,5 +1,7 @@
 # 稀有金属
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiyoujinshu.md)
+
 <p><span class="chinese">他们在磨房附近发现了一种稀有金属。</span><span class="english">They found a rare metal near the mill.</span></p>
 
 <p><span class="chinese">黑色岩系将成为PGE和稀有金属的一种新来源。</span><span class="english">Black shales will become a new resource of PGE and rare metals.</span></p>

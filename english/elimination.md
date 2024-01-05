@@ -1,5 +1,7 @@
 # elimination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elimination.md)
+
 <p><span class="chinese">消除交流哼声。</span><span class="english">Elimination of AC hum.</span></p>
 
 <p><span class="chinese">消除了基于浏览器的编码</span><span class="english">Elimination of browser-specific coding</span></p>

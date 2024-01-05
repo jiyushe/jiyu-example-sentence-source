@@ -1,5 +1,7 @@
 # 凡事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanshi.md)
+
 <p><span class="chinese">凡事总是由难而易。</span><span class="english">No news is good news.</span></p>
 
 <p><span class="chinese">凡事结局好，则全部都好。</span><span class="english">Alls well that ends well.</span></p>

@@ -1,5 +1,7 @@
 # lave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lave.md)
+
 <p><span class="chinese">我已尽了我的责任。</span><span class="english">I lave done my duty.</span></p>
 
 <p><span class="chinese">我们上峰有指示，让他们闹去吧。</span><span class="english">We've instructions to lave them be.</span></p>

@@ -1,5 +1,7 @@
 # 江湖骗子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianghupianzi.md)
+
 <p><span class="chinese">江湖骗子受到了猛烈的质问。</span><span class="english">The quack was stormed with questions.</span></p>
 
 <p><span class="chinese">这个江湖骗子吹牛说他能用符咒治好各种疾病。</span><span class="english">The charlatan boasted that he could charm off any disease.</span></p>

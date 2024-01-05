@@ -1,5 +1,7 @@
 # 诱导
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youdao.md)
+
 <p><span class="chinese">诱导底物的影响。</span><span class="english">Effect of inducing substrate.</span></p>
 
 <p><span class="chinese">宗教是诱导人们积德行善的力量吗？</span><span class="english">Is religion a force for good?</span></p>

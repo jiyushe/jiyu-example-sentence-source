@@ -1,5 +1,7 @@
 # mona
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mona.md)
+
 <p><span class="chinese">列昂纳多·达·芬奇！蒙娜丽莎！</span><span class="english">Leonardo Da Vinci! The Mona Lisa!</span></p>
 
 <p><span class="chinese">如果你认为蒙娜莉莎的微笑精彩绝伦。</span><span class="english">If you think the Mona Lisa is stunning.</span></p>

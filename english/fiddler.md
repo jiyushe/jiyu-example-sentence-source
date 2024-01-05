@@ -1,5 +1,7 @@
 # fiddler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fiddler.md)
+
 <p><span class="chinese">招潮蟹就是一座“活钟”。</span><span class="english">The fiddler crab is a living clock.</span></p>
 
 <p><span class="chinese">现在，好心的提琴手，麻烦你。</span><span class="english">And now, kind fiddler , if you please.</span></p>

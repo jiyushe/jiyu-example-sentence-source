@@ -1,5 +1,7 @@
 # 盛器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengqi.md)
+
 <p><span class="chinese">请将烟蒂放入提供旳盛器里。</span><span class="english">Please put your cigarette ends into the receptacle provided.</span></p>
 
 <p><span class="chinese">拆下零件应用盛器妥为保存，不要丢失。</span><span class="english">The dismantled parts should be kept carefully in order to avoid loses.</span></p>

@@ -1,5 +1,7 @@
 # callus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/callus.md)
+
 <p><span class="chinese">形成茧或皮肤的硬结组织。</span><span class="english">Form a callus or callus es.</span></p>
 
 <p><span class="chinese">愈伤组织是多起源的，但主要源于形成层。</span><span class="english">In addtion, there was callus from xylem.</span></p>

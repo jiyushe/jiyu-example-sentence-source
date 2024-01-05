@@ -1,5 +1,7 @@
 # loki
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loki.md)
+
 <p><span class="chinese">面对洛基和捍卫普隆德拉不惜一切代价！</span><span class="english">Face Loki and defend Prontera at all costs!</span></p>
 
 <p><span class="chinese">我已经在处理了，但是这件事涉及到索尔和洛基。</span><span class="english">I have been, but this concerns Thor and Loki.</span></p>

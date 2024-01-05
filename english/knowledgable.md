@@ -1,5 +1,7 @@
 # knowledgable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knowledgable.md)
+
 <p><span class="chinese">你历史学得真不错。</span><span class="english">You've quite knowledgable about history.</span></p>
 
 <p><span class="chinese">他非常博学，而且对我们很严格。</span><span class="english">He is very knowledgable and quite strict with us.</span></p>

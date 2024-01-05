@@ -1,5 +1,7 @@
 # 动作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongzuo.md)
+
 <p><span class="chinese">现在做扩胸动作。</span><span class="english">Now the chest.</span></p>
 
 <p><span class="chinese">动作冒险类的。</span><span class="english">Action and adventure.</span></p>

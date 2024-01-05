@@ -1,5 +1,7 @@
 # cartoonist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cartoonist.md)
+
 <p><span class="chinese">我只是一个漫画家。</span><span class="english">I am a cartoonist.</span></p>
 
 <p><span class="chinese">夏达，30岁，来自杭州的一名漫画家。</span><span class="english">Xia Da, 30, a cartoonist in Hangzhou.</span></p>

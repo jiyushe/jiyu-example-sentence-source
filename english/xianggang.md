@@ -1,5 +1,7 @@
 # xianggang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xianggang.md)
+
 <p><span class="chinese">你是去香港路的中国银行吗？</span><span class="english">Do you mean the Bank of China on Xianggang road?</span></p>
 
 <p><span class="chinese">春天像刚落地的娃娃，从头到脚都是新的，它生长着。</span><span class="english">Spring Xianggang landing dolls from head to toe are new, and it grows.</span></p>

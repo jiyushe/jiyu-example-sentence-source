@@ -1,5 +1,7 @@
 # 总计
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongji.md)
+
 <p><span class="chinese">你的分数总计为508分。</span><span class="english">Your marks sum up to 508.</span></p>
 
 <p><span class="chinese">调查参与者总计1244人。</span><span class="english">Participants totalled 1244.</span></p>

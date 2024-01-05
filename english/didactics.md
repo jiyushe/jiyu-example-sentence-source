@@ -1,5 +1,7 @@
 # didactics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/didactics.md)
+
 <p><span class="chinese">小学理科教授法系其中的一科。</span><span class="english">Science didactics in primary schools in one of these subjects.</span></p>
 
 <p><span class="chinese">在教学论视野中，活动理论有其独特的发展历史。</span><span class="english">In the view of didactics , the activity theory has its own uniquedeveloping history.</span></p>

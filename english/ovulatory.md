@@ -1,5 +1,7 @@
 # ovulatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ovulatory.md)
+
 <p><span class="chinese">排卵功能障碍是造成不孕的一个主要原因。</span><span class="english">Ovulatory dysfunction is a major cause of sterility.</span></p>
 
 <p><span class="chinese">以上均为排卵功能障碍性不孕的主要病机。</span><span class="english">All these are the major causes of ovulatory dysfunetional sterility.</span></p>

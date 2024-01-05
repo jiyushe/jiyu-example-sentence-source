@@ -1,5 +1,7 @@
 # bowie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bowie.md)
+
 <p><span class="chinese">琳达真是非常关心戴维·鲍伊。</span><span class="english">Linda is really nuts about David Bowie.</span></p>
 
 <p><span class="chinese">在十多个赛季中鲍威打了511场，沃顿468场。</span><span class="english">Bowie played in 511 games over 10 seasons.</span></p>

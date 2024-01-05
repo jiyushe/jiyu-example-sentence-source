@@ -1,5 +1,7 @@
 # glycyrrhiza
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glycyrrhiza.md)
+
 <p><span class="chinese">目的对吉尔吉斯斯坦野生粗毛甘草进行生药学研究。</span><span class="english">Objective To study pharmacognosy of wild Glycyrrhiza aspera Pall.</span></p>
 
 <p><span class="chinese">研究了甘草总黄酮的提取工艺。</span><span class="english">The extract technology of glycyrrhiza flavonoids from licorice was studied.</span></p>

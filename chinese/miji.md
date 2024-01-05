@@ -1,5 +1,7 @@
 # 密集
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miji.md)
+
 <p><span class="chinese">子弹密集地射向我们。</span><span class="english">Bullets were spatting down on us.</span></p>
 
 <p><span class="chinese">公交站点20米，公交车密集。</span><span class="english">Bus station 20 meters thick, bus.</span></p>

@@ -1,5 +1,7 @@
 # avalanche
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avalanche.md)
+
 <p><span class="chinese">就在这雪崩后不久。</span><span class="english">Just after the avalanche.</span></p>
 
 <p><span class="chinese">这只是雪崩的开始。</span><span class="english">It’ll just start the avalanche.</span></p>

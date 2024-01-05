@@ -1,5 +1,7 @@
 # misconception
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misconception.md)
+
 <p><span class="chinese">这是一个误解。</span><span class="english">This is a misconception.</span></p>
 
 <p><span class="chinese">但是，这是一种误解。</span><span class="english">But this is a misconception.</span></p>

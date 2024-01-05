@@ -1,5 +1,7 @@
 # amphitheatre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amphitheatre.md)
+
 <p><span class="chinese">我朝四周看去，我看到我们是在一个天然的石头的圆形剧场中。</span><span class="english">Looking beyond them, I see we are in a natural stone amphitheatre.</span></p>
 
 <p><span class="chinese">惠林顿动物园阶梯剧场是一个多功能的表演大厅。</span><span class="english">The Wellington Zoo Amphitheatre is a multi purpose performance space.</span></p>

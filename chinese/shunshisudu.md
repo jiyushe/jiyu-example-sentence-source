@@ -1,5 +1,7 @@
 # 瞬时速度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunshisudu.md)
+
 <p><span class="chinese">另外，还分析了排气孔口瞬时速度的影响因素，对瞬时速度进行了计算。</span><span class="english">In addition, the instantaneous velocity is calculated, and its influencing factors are analyzed.</span></p>
 
 <p><span class="chinese">但德布罗意曾说过,波长是和瞬时速度相联系的,通过这个公式。</span><span class="english">But de Broglie has told us that the wavelength is related to the instant velocity through this formula.</span></p>

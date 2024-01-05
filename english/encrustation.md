@@ -1,5 +1,7 @@
 # encrustation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/encrustation.md)
+
 <p><span class="chinese">第二套样本中包含有铜绿――在一个石灰石盒子上附着的一种化学物质。</span><span class="english">The second set consisted of patina ― a chemical film encrustation on one of the limestone boxes.</span></p>
 
 <p><span class="chinese">或许是近期的盐水浸泡和冰冻使雷神锤盔甲出了问题。</span><span class="english">Maybe his recent saltwater dunking and ice encrustation had caused a problem in the MJOLNIR system.</span></p>

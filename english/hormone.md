@@ -1,5 +1,7 @@
 # hormone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hormone.md)
+
 <p><span class="chinese">我的荷尔蒙过度泛滥。</span><span class="english">My hormone is overdriving.</span></p>
 
 <p><span class="chinese">激素替代疗法。</span><span class="english">Hormone replacement therapy.</span></p>

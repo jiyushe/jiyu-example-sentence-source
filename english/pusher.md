@@ -1,5 +1,7 @@
 # pusher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pusher.md)
+
 <p><span class="chinese">我们从第一天起，就喜欢我们的新技师。</span><span class="english">We took a shine to our new pusher the first day.</span></p>
 
 <p><span class="chinese">分析了推板式垂直分切机的工作原理。</span><span class="english">The working principle of vertical slicer with pusher was analyzed.</span></p>

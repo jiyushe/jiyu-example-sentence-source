@@ -1,5 +1,7 @@
 # bibliography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bibliography.md)
+
 <p><span class="chinese">三是以文献为基础的目录学成就。</span><span class="english">Third, the bibliography achievement based on document.</span></p>
 
 <p><span class="chinese">包含词汇表，连接和一个全面书目。</span><span class="english">Contains glossary, links and a comprehensive bibliography.</span></p>

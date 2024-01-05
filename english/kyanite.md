@@ -1,5 +1,7 @@
 # kyanite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kyanite.md)
+
 <p><span class="chinese">蓝晶石能有效地抑制涂料的高温收缩。</span><span class="english">The linear change after heating may be reduced by adding kyanite.</span></p>
 
 <p><span class="chinese">红柱石属多晶型物，含蓝晶石和硅线石两种不同矿物。</span><span class="english">Andalusite is a polymorph with two other minerals, Kyanite and Sillimanite.</span></p>

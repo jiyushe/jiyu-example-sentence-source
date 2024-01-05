@@ -1,5 +1,7 @@
 # 咸味
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianwei_1.md)
+
 <p><span class="chinese">炙热的阳光，空气中迷漫着咸味，海浪有节奏地拍打着。</span><span class="english">Salty air. Rhythmic waves.</span></p>
 
 <p><span class="chinese">一股咸味道的空气吹来，弄得树木沙沙作响。</span><span class="english">A briny wind blew, rustled the trees.</span></p>

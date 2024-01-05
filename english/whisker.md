@@ -1,5 +1,7 @@
 # whisker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whisker.md)
+
 <p><span class="chinese">我与最后一班公闪车擦肩而过。</span><span class="english">I was missing the last bus by a whisker.</span></p>
 
 <p><span class="chinese">这类晶须中存在着大量的缺陷。</span><span class="english">A lot of defects were detected in the whisker.</span></p>

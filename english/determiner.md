@@ -1,5 +1,7 @@
 # determiner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/determiner.md)
+
 <p><span class="chinese">可数名词复数前不需用限定词。</span><span class="english">Plural count nouns do not need a determiner.</span></p>
 
 <p><span class="chinese">可数名词单数前需用限定词。</span><span class="english">Singular count nouns always take a determiner.</span></p>

@@ -1,5 +1,7 @@
 # 交头接耳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaotoujieer.md)
+
 <p><span class="chinese">人们开始交头接耳并且哄笑。</span><span class="english">People began to talk and laugh.</span></p>
 
 <p><span class="chinese">群众很兴奋，嘁嘁喳喳交头接耳。</span><span class="english">The crowd buzzed with excitement.</span></p>

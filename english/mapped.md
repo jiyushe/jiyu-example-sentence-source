@@ -1,5 +1,7 @@
 # mapped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mapped.md)
+
 <p><span class="chinese">白雅琳筹划了一个在宜家的五小时游玩计划。</span><span class="english">Bai mapped out a five-hour outing.</span></p>
 
 <p><span class="chinese">这些山脉已在地图上标出来了。</span><span class="english">These mountains have been mapped out.</span></p>

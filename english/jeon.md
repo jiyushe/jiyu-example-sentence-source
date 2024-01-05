@@ -1,5 +1,7 @@
 # jeon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jeon.md)
+
 <p><span class="chinese">我对全度妍前辈有很高的敬意。</span><span class="english">I have high respect for Jeon Do Yeon sonbaenim.</span></p>
 
 <p><span class="chinese">全度妍是韩国影坛著名的变色龙，她演各种角色都很投入。</span><span class="english">Jeon is known as a chameleon of Korean cinema, who fully inhabits her roles.</span></p>

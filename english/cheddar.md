@@ -1,5 +1,7 @@
 # cheddar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheddar.md)
+
 <p><span class="chinese">那么，基恩的奶酪究竟有什么特别之处？</span><span class="english">So what makes Keene's cheddar so special?</span></p>
 
 <p><span class="chinese">伊萨克抓起一块披萨和一大块切达干酪。</span><span class="english">Isaak grabbed a pizza and a block of cheddar cheese.</span></p>

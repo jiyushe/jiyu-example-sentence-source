@@ -1,5 +1,7 @@
 # epidemical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epidemical.md)
+
 <p><span class="chinese">采用现场流行病学调查方法。</span><span class="english">The approach of Epidemical Field Research was applied.</span></p>
 
 <p><span class="chinese">本文主要讨论了离散的阶段结构传染病模型。</span><span class="english">In this paper, a discrete stage-structured epidemical model is proposed and studied.</span></p>

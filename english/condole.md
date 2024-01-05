@@ -1,5 +1,7 @@
 # condole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/condole.md)
+
 <p><span class="chinese">我们对他的损失深表同情。</span><span class="english">We condole with him on his loss.</span></p>
 
 <p><span class="chinese">我们对您的不幸表示慰问。</span><span class="english">We condole with you on your misfortune.</span></p>

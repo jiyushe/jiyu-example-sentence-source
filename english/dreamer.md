@@ -1,5 +1,7 @@
 # dreamer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dreamer.md)
+
 <p><span class="chinese">奥巴马的母亲是一个梦想家。</span><span class="english">Obama's mother was a dreamer.</span></p>
 
 <p><span class="chinese">那么，查拉斯的梦想是否幼稚了些？</span><span class="english">So is Charas a naive dreamer?</span></p>

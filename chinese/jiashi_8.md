@@ -1,5 +1,7 @@
 # 驾驶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiashi_8.md)
+
 <p><span class="chinese">那部车好驾驶。</span><span class="english">The car steers well.</span></p>
 
 <p><span class="chinese">驾驶时保持警觉。</span><span class="english">Be alert when driving.</span></p>

@@ -1,5 +1,7 @@
 # xenon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xenon.md)
+
 <p><span class="chinese">右击可指定氙灯为泵激源。</span><span class="english">Xenon lamp as pumping source can be specified.</span></p>
 
 <p><span class="chinese">HID与氙气灯的区别是什么？</span><span class="english">What is the difference between HID and XENON lights?</span></p>

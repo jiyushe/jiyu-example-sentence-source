@@ -1,5 +1,7 @@
 # ridicule
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ridicule.md)
+
 <p><span class="chinese">他的嘲笑惹恼了她。</span><span class="english">His ridicule chafed her.</span></p>
 
 <p><span class="chinese">他受到公众的嘲弄。</span><span class="english">He is exposed to the ridicule of the public.</span></p>

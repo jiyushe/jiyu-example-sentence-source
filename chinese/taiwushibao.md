@@ -1,5 +1,7 @@
 # 泰晤士报
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taiwushibao.md)
+
 <p><span class="chinese">泰晤士报地图册并不属于泰晤士新闻报。</span><span class="english">The Times Atlas is not owned by The Times newspaper.</span></p>
 
 <p><span class="chinese">多梅尼卡利在接受泰晤士报采访时说到。</span><span class="english">Domenicali said in an interview with the Times newspaper.</span></p>

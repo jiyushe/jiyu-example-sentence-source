@@ -1,5 +1,7 @@
 # syncretism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syncretism.md)
+
 <p><span class="chinese">宗教融合也非常重要。</span><span class="english">Syncretism was very important.</span></p>
 
 <p><span class="chinese">另一点是宗教融合。</span><span class="english">The other thing you have is religious syncretism.</span></p>

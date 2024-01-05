@@ -1,5 +1,7 @@
 # modernize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/modernize.md)
+
 <p><span class="chinese">现代化教室，实验室和图书馆</span><span class="english">and modernize classrooms, labs and libraries.</span></p>
 
 <p><span class="chinese">中国军事现代化已进入收获期</span><span class="english">China’s Push to Modernize Military Is Bearing Fruit</span></p>

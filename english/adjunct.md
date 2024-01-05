@@ -1,5 +1,7 @@
 # adjunct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adjunct.md)
+
 <p><span class="chinese">不会给缪斯的冠冕增添一分光彩。</span><span class="english">No adjunct to the Muses' diadem.</span></p>
 
 <p><span class="chinese">电子书籍是印刷书籍的美好的辅助品。</span><span class="english">Electronicbooks are a wonderful adjunct toprint books.</span></p>

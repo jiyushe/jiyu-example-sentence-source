@@ -1,5 +1,7 @@
 # ale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ale.md)
+
 <p><span class="chinese">啤酒会变清的。</span><span class="english">The ale will fine.</span></p>
 
 <p><span class="chinese">用姜啤混合。</span><span class="english">Mix with Ginger Ale.</span></p>

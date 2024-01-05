@@ -1,5 +1,7 @@
 # topless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/topless.md)
+
 <p><span class="chinese">一瓶不响，半瓶晃当。</span><span class="english">A collection of topless jars.</span></p>
 
 <p><span class="chinese">在海滩上你能看到赤裸着上身的女人。</span><span class="english">You can see topless women on beaches.</span></p>

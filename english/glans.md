@@ -1,5 +1,7 @@
 # glans
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glans.md)
+
 <p><span class="chinese">阴蒂头也许仍能感觉到，但不那么容易了。</span><span class="english">The glans can still be felt, but not as easily.</span></p>
 
 <p><span class="chinese">阴蒂头就是阴蒂系统的“王冠之珠”。</span><span class="english">The glans are the "crown jewel" of the clitoral system!</span></p>

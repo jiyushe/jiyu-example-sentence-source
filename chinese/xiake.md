@@ -1,5 +1,7 @@
 # 下课
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiake.md)
+
 <p><span class="chinese">还没到下课时间。</span><span class="english">It isn't time to finish yet.</span></p>
 
 <p><span class="chinese">好了，下课时间该到了。</span><span class="english">Okay.I think our time is up.</span></p>

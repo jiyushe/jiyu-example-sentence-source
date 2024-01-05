@@ -1,5 +1,7 @@
 # electrodynamic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrodynamic.md)
+
 <p><span class="chinese">两个开关点都具有可以非常快地打开和闭合的电动驱动器。</span><span class="english">Both switching points have electrodynamic drives which open and close very quickly.</span></p>
 
 <p><span class="chinese">上述两个基本电动力学性质使超导电性具有无比的重要性。</span><span class="english">These two basic electrodynamic properties give superconductivity its unique interest.</span></p>

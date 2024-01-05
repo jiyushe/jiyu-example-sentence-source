@@ -1,5 +1,7 @@
 # timeouts
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/timeouts.md)
+
 <p><span class="chinese">短时间超时与快速重试</span><span class="english">Short timeouts and quick retries</span></p>
 
 <p><span class="chinese">使用积极地超时策略斩断长尾</span><span class="english">Use aggressive timeouts to cut off the long tail.</span></p>

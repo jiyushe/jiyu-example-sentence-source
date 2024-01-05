@@ -1,5 +1,7 @@
 # expo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expo.md)
+
 <p><span class="chinese">那是世博会的会徽吗?</span><span class="english">Is that the Expo emblem?</span></p>
 
 <p><span class="chinese">世博轴的长度是多少？</span><span class="english">How long is the Expo axis?</span></p>

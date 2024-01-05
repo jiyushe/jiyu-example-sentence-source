@@ -1,5 +1,7 @@
 # 动力机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongliji.md)
+
 <p><span class="chinese">厨房预留炊事动力机械用电负荷100KW。</span><span class="english">Kitchen reserves 100KW three-phase electricity.</span></p>
 
 <p><span class="chinese">动力机、金模具机械。</span><span class="english">Power machine and hardware components machinery.</span></p>

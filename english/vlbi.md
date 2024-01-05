@@ -1,5 +1,7 @@
 # vlbi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vlbi.md)
+
 <p><span class="chinese">该项空间VLBI观测由NASA的地面跟踪站支持。</span><span class="english">The Space VLBI is supported by NASA ground tracking stations.</span></p>
 
 <p><span class="chinese">第一章，介绍了甚长基线的基本概念。</span><span class="english">In Chapter 1, the basic concepts of VLBI were briefly described.</span></p>

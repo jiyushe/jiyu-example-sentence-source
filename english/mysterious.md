@@ -1,5 +1,7 @@
 # mysterious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mysterious.md)
+
 <p><span class="chinese">别那么神神秘秘的。</span><span class="english">Don't be so mysterious.</span></p>
 
 <p><span class="chinese">神秘的石球。</span><span class="english">Mysterious stone balls.</span></p>

@@ -1,5 +1,7 @@
 # arose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arose.md)
+
 <p><span class="chinese">过了一会儿，一位顶小的女孩子站了起来。</span><span class="english">And then a little girl arose.</span></p>
 
 <p><span class="chinese">烟从烟筒冒出来。</span><span class="english">Smoke arose from the chimney.</span></p>

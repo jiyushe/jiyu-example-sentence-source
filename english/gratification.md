@@ -1,5 +1,7 @@
 # gratification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gratification.md)
+
 <p><span class="chinese">我们生活在一个物质充足的世界。</span><span class="english">We live on a world of instant gratification.</span></p>
 
 <p><span class="chinese">我们生活在即时满足的文化中。</span><span class="english">We live in a culture of instant gratification.</span></p>

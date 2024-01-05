@@ -1,5 +1,7 @@
 # fridge 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fridge.md)
+
 <p><span class="chinese">我们管那叫冰箱。</span><span class="english">They call that a fridge.</span></p>
 
 <p><span class="chinese">是谁没关冰箱门？</span><span class="english">Who left the fridge open?</span></p>

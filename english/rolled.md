@@ -1,5 +1,7 @@
 # rolled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rolled.md)
+
 <p><span class="chinese">没有车驶过。</span><span class="english">No cars rolled by.</span></p>
 
 <p><span class="chinese">他滚了一个雪球。</span><span class="english">He rolled a snowball.</span></p>

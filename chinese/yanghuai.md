@@ -1,5 +1,7 @@
 # 洋槐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanghuai.md)
+
 <p><span class="chinese">取自洋槐等树木的硬木。</span><span class="english">Fir or pine wood.</span></p>
 
 <p><span class="chinese">洋槐路22号，见那无人不知的女士。</span><span class="english">Acacia Avenue meet a lady we all know.</span></p>

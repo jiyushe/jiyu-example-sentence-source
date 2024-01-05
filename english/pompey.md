@@ -1,5 +1,7 @@
 # pompey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pompey.md)
+
 <p><span class="chinese">他将自由的转移到英国南部的军港城市。</span><span class="english">He moves to Pompey on a free.</span></p>
 
 <p><span class="chinese">他让庞贝跑了您却让他活着?。</span><span class="english">He let Pompey go and you let him live?!</span></p>

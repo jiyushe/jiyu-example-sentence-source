@@ -1,5 +1,7 @@
 # sightseer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sightseer.md)
+
 <p><span class="chinese">看风景人在楼上看你。</span><span class="english">A sightseer from upstairs watches you.</span></p>
 
 <p><span class="chinese">看风景的人在楼上看你。</span><span class="english">The sightseer on the tower watches you.</span></p>

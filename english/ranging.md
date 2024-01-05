@@ -1,5 +1,7 @@
 # ranging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ranging.md)
+
 <p><span class="chinese">从两岁半到五岁。</span><span class="english">Ranging from two and half to five.</span></p>
 
 <p><span class="chinese">提出了一种新颖的激光测距方法。</span><span class="english">A novel laser ranging method is proposed.</span></p>

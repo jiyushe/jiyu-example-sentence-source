@@ -1,5 +1,7 @@
 # bounteous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bounteous.md)
+
 <p><span class="chinese">上帝的慷慨赐福。</span><span class="english">God 's bounteous blessings.</span></p>
 
 <p><span class="chinese">他有丰富的想象力。</span><span class="english">He has a bounteous imagination.</span></p>

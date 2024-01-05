@@ -1,5 +1,7 @@
 # 楼房
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/loufang.md)
+
 <p><span class="chinese">很多新建的楼房都朝南。</span><span class="english">Many new buildings look south.</span></p>
 
 <p><span class="chinese">这是一幢三层楼房。</span><span class="english">This is a three-storied building.</span></p>

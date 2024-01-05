@@ -1,5 +1,7 @@
 # discrimination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discrimination.md)
+
 <p><span class="chinese">我们没有识别力。</span><span class="english">We have no discrimination.</span></p>
 
 <p><span class="chinese">Viveka意味着歧视。</span><span class="english">Viveka means discrimination.</span></p>

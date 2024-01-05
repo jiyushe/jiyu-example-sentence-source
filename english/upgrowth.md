@@ -1,5 +1,7 @@
 # upgrowth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upgrowth.md)
+
 <p><span class="chinese">儿童孤独症是一种较为严重的发育障碍性疾病。</span><span class="english">Childhood autism is a kind of serious upgrowth obstacle Disease.</span></p>
 
 <p><span class="chinese">土壤因子是影响长春花生长发育的主导因子。</span><span class="english">Soil factor was the leading factor that influenced upgrowth of Catharanthus roseus.</span></p>

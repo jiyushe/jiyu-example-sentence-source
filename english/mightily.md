@@ -1,5 +1,7 @@
 # mightily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mightily.md)
+
 <p><span class="chinese">浩浩荡荡，驶向穿鼻。</span><span class="english">Drive onto to dress a nose vastly and mightily.</span></p>
 
 <p><span class="chinese">主的道大大兴旺而且得胜，就是这样。</span><span class="english">So mightily grew the word of God and prevailed.</span></p>

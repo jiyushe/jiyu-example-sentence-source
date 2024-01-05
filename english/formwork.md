@@ -1,5 +1,7 @@
 # formwork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/formwork.md)
+
 <p><span class="chinese">墙体模板采用釉面竹胶板。</span><span class="english">Glazed bamboo plywood are to be used to make wall formwork.</span></p>
 
 <p><span class="chinese">必须构建模板以防止塑性灌浆泄漏。</span><span class="english">Formwork must be constructed to prevent any leakage of the plastic grout.</span></p>

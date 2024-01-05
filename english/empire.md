@@ -1,5 +1,7 @@
 # empire 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/empire.md)
+
 <p><span class="chinese">媒体帝国，女人，孩子，复仇，名望和玩弄于股掌的各国政要。</span><span class="english">A media empire. Women.</span></p>
 
 <p><span class="chinese">帝国尔布拉夫斯径。</span><span class="english">The Empire Bluffs Trail.</span></p>

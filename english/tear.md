@@ -1,5 +1,7 @@
 # tear 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tear.md)
+
 <p><span class="chinese">生来就不会流一滴泪的顽愚。</span><span class="english">Not to shed a tear.</span></p>
 
 <p><span class="chinese">掉鳄鱼眼泪。</span><span class="english">To shed crocodile tear.</span></p>

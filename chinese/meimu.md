@@ -1,5 +1,7 @@
 # 眉目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meimu.md)
+
 <p><span class="chinese">你的眉目之间。</span><span class="english">Between your eyes and eyebrows.</span></p>
 
 <p><span class="chinese">这时，我们的计划开始有了眉目。</span><span class="english">Our plans now began to take shape.</span></p>

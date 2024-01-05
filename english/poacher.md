@@ -1,5 +1,7 @@
 # poacher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poacher.md)
+
 <p><span class="chinese">老偷猎者是最好的看管人。</span><span class="english">An old poacher makes the best keeper.</span></p>
 
 <p><span class="chinese">这很可能是一个偷猎者干的。</span><span class="english">This was probably the work of a poacher.</span></p>

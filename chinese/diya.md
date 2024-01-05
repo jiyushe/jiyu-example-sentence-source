@@ -1,5 +1,7 @@
 # 低压
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diya.md)
+
 <p><span class="chinese">适合你的最好的低压工作？</span><span class="english">Best Low-Stress Job for You?</span></p>
 
 <p><span class="chinese">低压脱扣试验。</span><span class="english">Under voltage tripping test.</span></p>

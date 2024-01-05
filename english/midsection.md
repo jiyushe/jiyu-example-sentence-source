@@ -1,5 +1,7 @@
 # midsection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/midsection.md)
+
 <p><span class="chinese">莎莉走到菲比旁，重重的躺了下来，把头枕在菲比的腹部上。</span><span class="english">Sally ran over and thudded her head into Phoebe’s midsection.</span></p>
 
 <p><span class="chinese">在靠近默茨冰山中间的地方，两侧日益增大的裂缝正在将该冰山削弱。</span><span class="english">The tongue is already weakened by growing rifts on both sides of its midsection.</span></p>

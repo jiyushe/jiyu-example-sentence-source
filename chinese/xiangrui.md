@@ -1,5 +1,7 @@
 # 祥瑞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangrui.md)
+
 <p><span class="chinese">同时，龙也是一种祥瑞之物。</span><span class="english">Meanwhile, Loong is a mascot.</span></p>
 
 <p><span class="chinese">狮子是祥瑞灵物，象徵吉祥，带来好运。</span><span class="english">Lions brings good luck according to the legends of the chinese.</span></p>

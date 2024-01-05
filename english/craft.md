@@ -1,5 +1,7 @@
 # craft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/craft.md)
+
 <p><span class="chinese">飞行员发动飞机。</span><span class="english">The pilot goosed his craft.</span></p>
 
 <p><span class="chinese">掌握打岔的技巧。</span><span class="english">Master the craft of slurring.</span></p>

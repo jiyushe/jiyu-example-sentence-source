@@ -1,5 +1,7 @@
 # 婉约
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanyue.md)
+
 <p><span class="chinese">湖充满了浪漫婉约的想象。</span><span class="english">The lake is filled with romantic graceful imagination.</span></p>
 
 <p><span class="chinese">小儿子歌声温柔婉约，她一下就知道是孜力巴亚。</span><span class="english">And the singing of her youngest son is soft, graceful and restrained.</span></p>

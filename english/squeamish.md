@@ -1,5 +1,7 @@
 # squeamish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/squeamish.md)
+
 <p><span class="chinese">其他国家的限制可能没有那么严谨。</span><span class="english">Other countries may not be so squeamish.</span></p>
 
 <p><span class="chinese">克服娇气、孤僻、合群的精神文化。</span><span class="english">Overcome squeamish eccentric gregarious spirit culture.</span></p>

@@ -1,5 +1,7 @@
 # 拾荒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shihuang.md)
+
 <p><span class="chinese">不准在公园内拾荒、行乞，衣冠不整者不准入园。</span><span class="english">Scavenging, begging, disheveled were not allowed in the park.</span></p>
 
 <p><span class="chinese">家庭男性成员做像拾荒这样的临时工。</span><span class="english">The male members do odd-work such as rag picking and scrap dealing.</span></p>

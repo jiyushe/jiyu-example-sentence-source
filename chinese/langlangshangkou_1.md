@@ -1,5 +1,7 @@
 # 琅琅上口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/langlangshangkou_1.md)
+
 <p><span class="chinese">这首诗读起来琅琅上口。</span><span class="english">This poem read well.</span></p>
 
 <p><span class="chinese">他把那首诗念得琅琅上口。</span><span class="english">He can recite the poem fluently.</span></p>

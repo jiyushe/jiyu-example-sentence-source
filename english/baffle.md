@@ -1,5 +1,7 @@
 # baffle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baffle.md)
+
 <p><span class="chinese">这你可难不倒我。</span><span class="english">You can't baffle me.</span></p>
 
 <p><span class="chinese">新税收法律使我很费解。</span><span class="english">The new tariff statutes baffle me.</span></p>

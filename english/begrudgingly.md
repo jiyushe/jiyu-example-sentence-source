@@ -1,5 +1,7 @@
 # begrudgingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/begrudgingly.md)
+
 <p><span class="chinese">里克极不情愿地跟在她身后。</span><span class="english">Rick begrudgingly follows.</span></p>
 
 <p><span class="chinese">就由哥哥来抚养他，但这个哥哥十分吝啬。</span><span class="english">He was raised by an older brother who raised him up begrudgingly.</span></p>

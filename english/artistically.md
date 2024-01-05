@@ -1,5 +1,7 @@
 # artistically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/artistically.md)
+
 <p><span class="chinese">房间布置得很美观。</span><span class="english">The room is artistically decorated.</span></p>
 
 <p><span class="chinese">你有发觉这个角色在艺术上令你满足吗？</span><span class="english">Do you find this role artistically satisfying?</span></p>

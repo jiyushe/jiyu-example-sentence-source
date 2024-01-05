@@ -1,5 +1,7 @@
 # neurotoxin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neurotoxin.md)
+
 <p><span class="chinese">铅是一种神经毒素。</span><span class="english">Lead is a neurotoxin.</span></p>
 
 <p><span class="chinese">事实上，我们买的枕头，有些是浸泡到神经毒素里。</span><span class="english">In fact, we take our pillows, we douse them in a neurotoxin.</span></p>

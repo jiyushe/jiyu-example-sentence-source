@@ -1,5 +1,7 @@
 # clutter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clutter.md)
+
 <p><span class="chinese">牛儿偏爱混乱。</span><span class="english">Bulls love clutter.</span></p>
 
 <p><span class="chinese">太多的污点将杂波。</span><span class="english">Too many stains will clutter.</span></p>

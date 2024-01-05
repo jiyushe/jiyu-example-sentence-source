@@ -1,5 +1,7 @@
 # rushed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rushed.md)
+
 <p><span class="chinese">他们急忙进行了这项工作。</span><span class="english">They rushed the work.</span></p>
 
 <p><span class="chinese">那头公牛向我冲过来。</span><span class="english">The bull rushed at me.</span></p>

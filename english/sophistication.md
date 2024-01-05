@@ -1,5 +1,7 @@
 # sophistication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sophistication.md)
+
 <p><span class="chinese">她竭力养成一种老于世故的气派。</span><span class="english">She tried to cultivate an air of sophistication.</span></p>
 
 <p><span class="chinese">白色象征纯洁、洁净和成熟。</span><span class="english">White symbolizes purity, cleanliness, and sophistication.</span></p>

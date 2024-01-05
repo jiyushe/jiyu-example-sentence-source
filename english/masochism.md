@@ -1,5 +1,7 @@
 # masochism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/masochism.md)
+
 <p><span class="chinese">那是被虐狂。</span><span class="english">That's masochism.</span></p>
 
 <p><span class="chinese">该死！这么多！他们是受虐狂么?。</span><span class="english">Hell! What a mass! Are they masochism?</span></p>

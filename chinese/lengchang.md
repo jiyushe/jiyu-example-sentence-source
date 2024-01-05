@@ -1,5 +1,7 @@
 # 冷场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengchang.md)
+
 <p><span class="chinese">一时间出现了令人尴尬的冷场。</span><span class="english">There is an awkward pause.</span></p>
 
 <p><span class="chinese">6月1日，让全国的肯德基冷场！</span><span class="english">May 1, the country's Carrefour cold field!</span></p>

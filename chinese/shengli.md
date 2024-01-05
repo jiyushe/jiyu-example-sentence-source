@@ -1,5 +1,7 @@
 # 生理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengli.md)
+
 <p><span class="chinese">她生理上一切正常。</span><span class="english">She's a-okay physically.</span></p>
 
 <p><span class="chinese">这里是生理功能产生。</span><span class="english">Over here we've got body.</span></p>

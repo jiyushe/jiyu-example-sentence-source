@@ -1,5 +1,7 @@
 # sunburn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sunburn.md)
+
 <p><span class="chinese">她喜欢被晒黑。</span><span class="english">She likes to sunburn.</span></p>
 
 <p><span class="chinese">她可能会晒伤。</span><span class="english">She might get a sunburn.</span></p>

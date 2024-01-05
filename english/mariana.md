@@ -1,5 +1,7 @@
 # mariana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mariana.md)
+
 <p><span class="chinese">马里亚纳海槽是一个正在扩张的弧后盆地。</span><span class="english">The Mariana Trough is an active spreading back-arc basin.</span></p>
 
 <p><span class="chinese">北马里亚那群岛是二战后被割让给美国的。</span><span class="english">The Northern Mariana Islands were ceded to the US after WWII.</span></p>

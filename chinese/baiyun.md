@@ -1,5 +1,7 @@
 # 白云
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baiyun.md)
+
 <p><span class="chinese">白云伴随青风转。</span><span class="english">With this turn white.</span></p>
 
 <p><span class="chinese">白云上有一座城堡。</span><span class="english">There is a castle on a cloud.</span></p>

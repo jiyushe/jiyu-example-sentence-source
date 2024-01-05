@@ -1,5 +1,7 @@
 # fittest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fittest.md)
+
 <p><span class="chinese">例如“适者”的定义是什么？</span><span class="english">E. g. what's the definition of the fittest?</span></p>
 
 <p><span class="chinese">我把它和人类学中适者生存的观点联系起来了。</span><span class="english">I relate it to the idea of survival of the fittest.</span></p>

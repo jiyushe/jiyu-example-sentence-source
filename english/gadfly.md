@@ -1,5 +1,7 @@
 # gadfly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gadfly.md)
+
 <p><span class="chinese">所以她派了一只牛蝇去打扰这只可怜的牛。</span><span class="english">So she sent a gadfly to bother the poor cow.</span></p>
 
 <p><span class="chinese">整整一个星期，牛虻的病都处于严重的状态。</span><span class="english">FOR a week the Gadfly lay in a fearful state.</span></p>

@@ -1,5 +1,7 @@
 # 字符
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zifu.md)
+
 <p><span class="chinese">里面有多少字符？</span><span class="english">How many characters are in it?</span></p>
 
 <p><span class="chinese">现在ASCII码包含字符了。</span><span class="english">Now ASCII involves characters.</span></p>

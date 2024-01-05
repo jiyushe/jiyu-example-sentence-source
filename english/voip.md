@@ -1,5 +1,7 @@
 # voip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/voip.md)
+
 <p><span class="chinese">苹果在信中表示，对谷歌语音是否使用VoIP，它并不知情。</span><span class="english">Apple said in its letter that it does not know if Google Voice uses VoIP.</span></p>
 
 <p><span class="chinese">并且已经成功应用在一种基于单DSP的网络电话终端方案中。</span><span class="english">It has been applied to a VoIP terminal solution based on One-DSP successfully.</span></p>

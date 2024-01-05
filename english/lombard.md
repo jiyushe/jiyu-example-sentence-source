@@ -1,5 +1,7 @@
 # lombard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lombard.md)
+
 <p><span class="chinese">朗巴德支付了大部分房款。</span><span class="english">Lombard paid for most of it.</span></p>
 
 <p><span class="chinese">我们住在伦巴德西街。</span><span class="english">We were in Lombard street west.</span></p>

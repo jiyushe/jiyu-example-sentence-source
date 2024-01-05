@@ -1,5 +1,7 @@
 # chutney
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chutney.md)
+
 <p><span class="chinese">你能告诉我酸辣酱是什么吗？</span><span class="english">Can you tell me about the chutney?</span></p>
 
 <p><span class="chinese">配酸辣酱或腌制洋葱一起食用更佳！</span><span class="english">Serve with Mint Chutney or Pickled Onions.</span></p>

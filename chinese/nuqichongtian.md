@@ -1,5 +1,7 @@
 # 怒气冲天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nuqichongtian.md)
+
 <p><span class="chinese">她与乔发生了怒气冲天的争辩。</span><span class="english">She had a wild argument with Joe.</span></p>
 
 <p><span class="chinese">他怒气冲天地把绸伞猛地掷进一个坑里。</span><span class="english">He hurled the umbrella wrathfully into an excavation.</span></p>

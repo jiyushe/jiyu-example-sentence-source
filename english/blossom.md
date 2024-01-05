@@ -1,5 +1,7 @@
 # blossom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blossom.md)
+
 <p><span class="chinese">枝干末稍，花茎末稍。</span><span class="english">Stem end and blossom end.</span></p>
 
 <p><span class="chinese">它们花开又花落。</span><span class="english">They blossom and then drop.</span></p>

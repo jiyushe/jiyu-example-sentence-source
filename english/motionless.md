@@ -1,5 +1,7 @@
 # motionless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/motionless.md)
+
 <p><span class="chinese">请保持不动。</span><span class="english">Please remain motionless.</span></p>
 
 <p><span class="chinese">我一动不动的站在那儿站了一会。</span><span class="english">I stood motionless for a long time.</span></p>

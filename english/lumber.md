@@ -1,5 +1,7 @@
 # lumber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lumber.md)
+
 <p><span class="chinese">他有一个木材厂。</span><span class="english">He had a lumber mill.</span></p>
 
 <p><span class="chinese">你当伐木工人能熬得住吗?。</span><span class="english">Can you hack it as a lumber jack?</span></p>

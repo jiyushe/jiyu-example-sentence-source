@@ -1,5 +1,7 @@
 # 诗词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shici_2.md)
+
 <p><span class="chinese">本人爱好文学，诗词，英语。</span><span class="english">I love literature, poems and English.</span></p>
 
 <p><span class="chinese">我迷上了中国古代诗词.</span><span class="english">I’m crazy about the ancient China poetry.</span></p>

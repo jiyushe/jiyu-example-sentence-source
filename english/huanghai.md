@@ -1,5 +1,7 @@
 # huanghai
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/huanghai.md)
+
 <p><span class="chinese">我左腿站在黄海上，右腿站在渤海上。</span><span class="english">My left foot stands on HuangHai sea, and right foot on BoHai sea.</span></p>
 
 <p><span class="chinese">你需要乘316路公共汽车去黄海路.然后乘地铁.</span><span class="english">You must take a number 316 bus to Huanghai Road, then take the subway.</span></p>

@@ -1,5 +1,7 @@
 # 骨灰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guhui.md)
+
 <p><span class="chinese">园内设立骨灰存放处。</span><span class="english">Park set up the ashes repository.</span></p>
 
 <p><span class="chinese">请问你有没有到过骨灰龛场的经验?。</span><span class="english">Have you ever been to columbarium?</span></p>

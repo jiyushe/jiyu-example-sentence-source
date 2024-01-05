@@ -1,5 +1,7 @@
 # 英亩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingmu_2.md)
+
 <p><span class="chinese">这个农场有150英亩。</span><span class="english">The farm includes 150 acres.</span></p>
 
 <p><span class="chinese">三十英亩田种了小麦。</span><span class="english">Thirty acres are sown to wheat.</span></p>

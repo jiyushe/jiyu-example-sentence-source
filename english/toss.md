@@ -1,5 +1,7 @@
 # toss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toss.md)
+
 <p><span class="chinese">先扔给玛丽露。</span><span class="english">Toss it first to Mary Lou.</span></p>
 
 <p><span class="chinese">先扔给劳拉李。</span><span class="english">Toss it first to Laura Lee.</span></p>

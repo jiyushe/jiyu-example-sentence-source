@@ -1,5 +1,7 @@
 # kara
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kara.md)
+
 <p><span class="chinese">比如，卡拉喜欢数学和音乐。</span><span class="english">For example, Kara is interested in math and music.</span></p>
 
 <p><span class="chinese">听到大家的赞美，卡拉和贝尔跳起了舞。</span><span class="english">Reveling in the praise, Kara and Bear begin to dance.</span></p>

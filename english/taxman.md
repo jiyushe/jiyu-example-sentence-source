@@ -1,5 +1,7 @@
 # taxman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taxman.md)
+
 <p><span class="chinese">当税务员找上门来。</span><span class="english">But when the taxman comes to the door.</span></p>
 
 <p><span class="chinese">数年来，他一直欺骗罟税务部门。</span><span class="english">He had been cheating the taxman for years.</span></p>

@@ -1,5 +1,7 @@
 # sliding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sliding.md)
+
 <p><span class="chinese">他正在滑滑梯。</span><span class="english">He is sliding.</span></p>
 
 <p><span class="chinese">原来是滑沙呀！</span><span class="english">It's sliding on sand!</span></p>

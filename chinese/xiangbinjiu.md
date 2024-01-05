@@ -1,5 +1,7 @@
 # 香槟酒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangbinjiu.md)
+
 <p><span class="chinese">他们开怀畅饮香槟酒。</span><span class="english">I drink only champagne.</span></p>
 
 <p><span class="chinese">伯顿呷了一口杜松子香槟酒。</span><span class="english">Burton sipped his gin fizz.</span></p>

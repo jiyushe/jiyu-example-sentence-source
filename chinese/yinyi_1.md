@@ -1,5 +1,7 @@
 # 音义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinyi_1.md)
+
 <p><span class="chinese">“趵突”不仅字面古雅，而且音义兼顾。</span><span class="english">"Sudden leap" is not only the literal quaint, but both sound and meaning.</span></p>
 
 <p><span class="chinese">语言是一种音义结合的符号系统，也是一个动态平衡的系统。</span><span class="english">Language is a symbolic system which combines pronunciation and meaning together.</span></p>

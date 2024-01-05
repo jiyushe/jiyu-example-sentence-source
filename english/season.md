@@ -1,5 +1,7 @@
 # season
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/season.md)
+
 <p><span class="chinese">第五季。</span><span class="english">Fifth Season.</span></p>
 
 <p><span class="chinese">过完这一季。</span><span class="english">Crosses this season.</span></p>

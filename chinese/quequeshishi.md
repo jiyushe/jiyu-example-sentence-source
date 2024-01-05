@@ -1,5 +1,7 @@
 # 确确实实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quequeshishi.md)
+
 <p><span class="chinese">我们家确确实实是名门贵族。</span><span class="english">We were really society nobility.</span></p>
 
 <p><span class="chinese">环境的改变确确实实的影响到动物。</span><span class="english">Enviormental changes really matters to animals.</span></p>

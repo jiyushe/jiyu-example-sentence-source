@@ -1,5 +1,7 @@
 # 颁行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banxing_1.md)
+
 <p><span class="chinese">如果一个政府的颁行的法令成了一纸空文,这样的政府还有存在下去的必要吗</span><span class="english">For how can a state government exist if edicts are not put into use?</span></p>
 
 <p><span class="chinese">如果一个政府的颁行的法令成了一纸空文,这样的政府还有存在下去的必要吗"</span><span class="english">For how can a state government exist if edicts are not put into use?"</span></p>

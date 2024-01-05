@@ -1,5 +1,7 @@
 # girt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/girt.md)
+
 <p><span class="chinese">士兵们准备投入战斗。</span><span class="english">The soldiers girt themselves up for battle.</span></p>
 
 <p><span class="chinese">女孩给母亲倒了一玻璃杯牛奶。</span><span class="english">The girt poured a glass of milk for her mother.</span></p>

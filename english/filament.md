@@ -1,5 +1,7 @@
 # filament
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/filament.md)
+
 <p><span class="chinese">花丝筒具长硬毛。</span><span class="english">Filament tube hirsute.</span></p>
 
 <p><span class="chinese">灯丝烧掉了。</span><span class="english">The filament has burnt out.</span></p>

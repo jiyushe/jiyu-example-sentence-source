@@ -1,5 +1,7 @@
 # 通亮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongliang.md)
+
 <p><span class="chinese">却被你的光芒照得通亮。</span><span class="english">Were you shine as a Tongliang.</span></p>
 
 <p><span class="chinese">这条着火的船把这一片水域照得通亮。</span><span class="english">The burning boat lit up the waters.</span></p>

@@ -1,5 +1,7 @@
 # resit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resit.md)
+
 <p><span class="chinese">你什么时候去补考数学？</span><span class="english">When are you going to resit maths?</span></p>
 
 <p><span class="chinese">她下学期得补考数学。</span><span class="english">She has to resit her maths exam next term.</span></p>

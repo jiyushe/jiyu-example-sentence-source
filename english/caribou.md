@@ -1,5 +1,7 @@
 # caribou
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caribou.md)
+
 <p><span class="chinese">卡布里岛还有什么好玩的？</span><span class="english">U caribou island and any fun?</span></p>
 
 <p><span class="chinese">哥威迅人怕驯鹿会消失。</span><span class="english">The Gwich'in feared the caribou would disappear.</span></p>

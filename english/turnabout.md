@@ -1,5 +1,7 @@
 # turnabout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turnabout.md)
+
 <p><span class="chinese">但这个转变并非一帆风顺。</span><span class="english">That turnabout was not easy.</span></p>
 
 <p><span class="chinese">旋转木马开始转起来了。</span><span class="english">The turnabout began to swivel.</span></p>

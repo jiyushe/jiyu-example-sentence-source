@@ -1,5 +1,7 @@
 # 枝干
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhigan.md)
+
 <p><span class="chinese">枝干末稍，花茎末稍。</span><span class="english">Stem end and blossom end.</span></p>
 
 <p><span class="chinese">它翠绿的枝干伸向微风习习的天空。</span><span class="english">Its green boughs in the breezy sky.</span></p>

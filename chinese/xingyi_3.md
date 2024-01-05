@@ -1,5 +1,7 @@
 # 行医
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingyi_3.md)
+
 <p><span class="chinese">派特医生不在这儿行医了.</span><span class="english">Dr. Pat is no longer in practice here.</span></p>
 
 <p><span class="chinese">他在华埠行医多年。</span><span class="english">He doctored in Chinatown for many years.</span></p>

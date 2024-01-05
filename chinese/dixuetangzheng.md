@@ -1,5 +1,7 @@
 # 低血糖症
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dixuetangzheng.md)
+
 <p><span class="chinese">低血糖症有时是显著的临床表现。</span><span class="english">Hypoglycemia is sometimes a prominent clinical manifestation.</span></p>
 
 <p><span class="chinese">严重持续低血糖症，如不及时纠正会造成全身组织器官损伤。</span><span class="english">The severe low blood sugar can injure all tissues and organs if not timely corrected.</span></p>

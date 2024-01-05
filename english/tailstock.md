@@ -1,5 +1,7 @@
 # tailstock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tailstock.md)
+
 <p><span class="chinese">尾座鹅毛笔直径。</span><span class="english">Tailstock quill dia.</span></p>
 
 <p><span class="chinese">尾座套筒锥孔锥度。</span><span class="english">Taper bore of tailstock barrel No.</span></p>

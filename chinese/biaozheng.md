@@ -1,5 +1,7 @@
 # 表征
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaozheng.md)
+
 <p><span class="chinese">祂的挚爱常在幽秘中显明表征</span><span class="english">In secret of His deeper love is shown</span></p>
 
 <p><span class="chinese">精神病专家们很喜欢‘非言语性表征’。</span><span class="english">Psychiatrists love 'nonverbal clues'.</span></p>

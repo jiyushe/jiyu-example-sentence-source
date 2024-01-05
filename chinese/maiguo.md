@@ -1,5 +1,7 @@
 # 卖国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maiguo.md)
+
 <p><span class="chinese">都说李鸿章卖国，可他又有什么能耐呢？</span><span class="english">If you were in his shoes, what could you do?</span></p>
 
 <p><span class="chinese">郎平执教美国女排，是在“卖国”？</span><span class="english">Does Langping guidance USA female vollyball, that is quislism?</span></p>

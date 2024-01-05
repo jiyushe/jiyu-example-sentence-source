@@ -1,5 +1,7 @@
 # multiform
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multiform.md)
+
 <p><span class="chinese">各种物品和各种形式都再现“简约含蓄”。</span><span class="english">All sorts of article and multiform emersion " contracted reservation ".</span></p>
 
 <p><span class="chinese">多功能剧场位于西南角，靠近顶部的位置。</span><span class="english">The multiform theater is connected to the southwest leg close to the top.</span></p>

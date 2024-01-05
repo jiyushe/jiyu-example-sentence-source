@@ -1,5 +1,7 @@
 # hela
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hela.md)
+
 <p><span class="chinese">那天晚上玛尼娅和海拉想打扮得特别漂亮。</span><span class="english">Manya and Hela wanted to be especially ravishing that night.</span></p>
 
 <p><span class="chinese">结论上述结果表明，曲格列酮可以引起混合型细胞死亡。</span><span class="english">Conclusion Troglitazone induced mixed type of cell death in HeLa cells.</span></p>

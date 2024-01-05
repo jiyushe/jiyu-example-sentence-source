@@ -1,5 +1,7 @@
 # neuroanatomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neuroanatomy.md)
+
 <p><span class="chinese">神经解剖学与有关神经系统相关。</span><span class="english">Neuroanatomy deals with the nervous system.</span></p>
 
 <p><span class="chinese">线上神经解剖教程的资讯和内容。</span><span class="english">Online neuroanatomy course information and content.</span></p>

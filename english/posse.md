@@ -1,5 +1,7 @@
 # posse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/posse.md)
+
 <p><span class="chinese">但我不想和一个有后援团的人约会。</span><span class="english">And I don't really want to date someone who has a posse.</span></p>
 
 <p><span class="chinese">那位行政司法长官说，警察们可以在关口截住那些亡命之徒。</span><span class="english">The sheriff said posse could head off the outlaws at the pass.</span></p>

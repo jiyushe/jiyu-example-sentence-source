@@ -1,5 +1,7 @@
 # exam 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exam.md)
+
 <p><span class="chinese">考试？明天？噢噢！</span><span class="english">Exam Tomorrow Oh-oh!</span></p>
 
 <p><span class="chinese">期末考试统一安排。</span><span class="english">One exam is scheduled.</span></p>

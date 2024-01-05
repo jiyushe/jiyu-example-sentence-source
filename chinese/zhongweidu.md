@@ -1,5 +1,7 @@
 # 中纬度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongweidu.md)
+
 <p><span class="chinese">然而北半球中纬度地区水星“呆”时间少于一个小时。</span><span class="english">However, Mercury sets less than one hour after sunset at mid-northern latitudes.</span></p>
 
 <p><span class="chinese">现今中纬度正在变暖，覆雪几乎完全消失。</span><span class="english">Today the midlatitudes are warming up and the snow cover has mostly disappeared.</span></p>

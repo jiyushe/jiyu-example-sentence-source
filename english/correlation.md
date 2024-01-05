@@ -1,5 +1,7 @@
 # correlation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/correlation.md)
+
 <p><span class="chinese">这表示的是相关性</span><span class="english">That's the correlation.</span></p>
 
 <p><span class="chinese">这就称为关联。</span><span class="english">This is refered to as correlation.</span></p>

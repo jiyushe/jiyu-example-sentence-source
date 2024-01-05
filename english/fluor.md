@@ -1,5 +1,7 @@
 # fluor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluor.md)
+
 <p><span class="chinese">得到了一种新的效果显著的除氟方法。</span><span class="english">A new remarkable method of remove fluor was got.</span></p>
 
 <p><span class="chinese">福陆公司成立于1912年，欧文是在美国德克萨斯州。</span><span class="english">Fluor Corporation was founded in 1912 and is based in Irving, Texas.</span></p>

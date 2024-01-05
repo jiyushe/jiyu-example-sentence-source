@@ -1,5 +1,7 @@
 # 悬梁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanliang.md)
+
 <p><span class="chinese">在悲痛中他悬梁自尽了。</span><span class="english">He hanged himself in sorrow.</span></p>
 
 <p><span class="chinese">最后她悬梁自尽遗恨人间。</span><span class="english">She hanged to death at last.</span></p>

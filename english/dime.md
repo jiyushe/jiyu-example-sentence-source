@@ -1,5 +1,7 @@
 # dime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dime.md)
+
 <p><span class="chinese">那些玩意一毛钱一打。</span><span class="english">Those are a dime a dozen.</span></p>
 
 <p><span class="chinese">我会为之花出每一分钱。</span><span class="english">And I pay for every dime of it.</span></p>

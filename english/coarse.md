@@ -1,5 +1,7 @@
 # coarse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coarse.md)
+
 <p><span class="chinese">一个1支的棉纱则是相当粗的了。</span><span class="english">No. 1 cotton is a very coarse yarn.</span></p>
 
 <p><span class="chinese">土布是一种织得粗糙的布。</span><span class="english">Homespun is a cloth of coarse weave.</span></p>

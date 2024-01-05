@@ -1,5 +1,7 @@
 # hiker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hiker.md)
+
 <p><span class="chinese">来徐霞客青年旅舍吧！</span><span class="english">Come to wuxi Hiker Youth Hostel!</span></p>
 
 <p><span class="chinese">有没有可能成为职业的徒步穿越者？</span><span class="english">Is it possible to be a professional hiker?</span></p>

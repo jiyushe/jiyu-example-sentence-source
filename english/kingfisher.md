@@ -1,5 +1,7 @@
 # kingfisher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kingfisher.md)
+
 <p><span class="chinese">翠鸟和新干线高速列车</span><span class="english">The Kingfisher and the Shinkansen Train</span></p>
 
 <p><span class="chinese">澳大利亚高声大叫的翠鸟。</span><span class="english">Australian kingfisher having a loud cackling cry.</span></p>

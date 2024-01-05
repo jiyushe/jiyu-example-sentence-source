@@ -1,5 +1,7 @@
 # derisory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/derisory.md)
+
 <p><span class="chinese">中国提供的也不应该被嘲笑。</span><span class="english">Nor is China’s offer derisory.</span></p>
 
 <p><span class="chinese">然而，在欧洲使用天然气燃料的汽车少的可笑。</span><span class="english">Yet in Europe use of natural-gas vehicles is derisory.</span></p>

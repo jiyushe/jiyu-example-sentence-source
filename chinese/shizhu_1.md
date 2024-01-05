@@ -1,5 +1,7 @@
 # 失主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizhu_1.md)
+
 <p><span class="chinese">盗窃的物品必须要归还失主。</span><span class="english">The stolen property must be restore to its ower.</span></p>
 
 <p><span class="chinese">我拣到一个钱包，希望能找到失主。</span><span class="english">I’m trying to find the owner of a wallet I found.</span></p>

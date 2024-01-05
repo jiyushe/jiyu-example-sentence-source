@@ -1,5 +1,7 @@
 # politician
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/politician.md)
+
 <p><span class="chinese">他是个精明的政客。</span><span class="english">He is a shrewd politician.</span></p>
 
 <p><span class="chinese">他是一位??爽直的政客。</span><span class="english">He is an outspoken politician.</span></p>

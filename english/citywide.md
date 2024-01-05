@@ -1,5 +1,7 @@
 # citywide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/citywide.md)
+
 <p><span class="chinese">像这样全市性停工的情况是大部分人从没有意料到的。</span><span class="english">The occasion for the citywide shutdown was an event most expect never to see again.</span></p>
 
 <p><span class="chinese">甚至在1900年世博会之前，巴黎市便有了修建一条长17公里的全市移动人行道系统的提议。</span><span class="english">Even before the 1900 expo, there had been proposals for a citywide system 17 kilometres long.</span></p>

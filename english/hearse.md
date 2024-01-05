@@ -1,5 +1,7 @@
 # hearse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hearse.md)
+
 <p><span class="chinese">看着辆灵车。</span><span class="english">Look at the hearse.</span></p>
 
 <p><span class="chinese">柩车由一队青年牵引着。</span><span class="english">The hearse was drawn by young men.</span></p>

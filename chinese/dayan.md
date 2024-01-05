@@ -1,5 +1,7 @@
 # 大烟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dayan.md)
+
 <p><span class="chinese">他经常抽根大烟斗。</span><span class="english">He smoked a big pipe.</span></p>
 
 <p><span class="chinese">抽大烟的人声称，抽烟能够提高他们的意识力。</span><span class="english">Pot smokers claim it heightens their awareness.</span></p>

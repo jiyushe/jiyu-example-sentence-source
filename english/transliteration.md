@@ -1,5 +1,7 @@
 # transliteration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transliteration.md)
+
 <p><span class="chinese">是西班牙文「小女孩」的译音。</span><span class="english">"La Nina" is the Spanish "little girl" in transliteration.</span></p>
 
 <p><span class="chinese">我用英文写客家话可能是错的。</span><span class="english">I don't think that the Hakka transliteration is exactly right.</span></p>

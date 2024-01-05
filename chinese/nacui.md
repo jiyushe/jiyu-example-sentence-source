@@ -1,5 +1,7 @@
 # 纳粹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nacui.md)
+
 <p><span class="chinese">看看纳粹主义的理念。</span><span class="english">Look at the ideals of Nazism.</span></p>
 
 <p><span class="chinese">我很气，叫了他一声“死纳粹”。</span><span class="english">" Nazi death" I said angrily.</span></p>

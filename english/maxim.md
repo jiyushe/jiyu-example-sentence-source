@@ -1,5 +1,7 @@
 # maxim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maxim.md)
+
 <p><span class="chinese">怎样理解这些古训？</span><span class="english">How to understand these old maxim ?</span></p>
 
 <p><span class="chinese">请把此格言记在心里。</span><span class="english">Please lay the maxim to your heart.</span></p>

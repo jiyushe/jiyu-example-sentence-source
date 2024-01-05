@@ -1,5 +1,7 @@
 # 大惊失色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dajingshise.md)
+
 <p><span class="chinese">她听到那消息后大惊失色。</span><span class="english">She paled with shock at the news.</span></p>
 
 <p><span class="chinese">他们发现她死了，大惊失色。</span><span class="english">They were alarmed to find her dead.</span></p>

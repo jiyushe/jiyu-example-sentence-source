@@ -1,5 +1,7 @@
 # dockside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dockside.md)
+
 <p><span class="chinese">不，不能提供岸吊。</span><span class="english">No, dockside cranes not available.</span></p>
 
 <p><span class="chinese">粮食也可能延搁在海上或码头上。</span><span class="english">Food can also be held up on the seas or at the dockside.</span></p>

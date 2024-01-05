@@ -1,5 +1,7 @@
 # bakelite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bakelite.md)
+
 <p><span class="chinese">钢管和水平“内部讲师”电木握把。</span><span class="english">Steel pipe and level by "TTT" Bakelite grips.</span></p>
 
 <p><span class="chinese">十点半的时候，外壳用胶木做的电话响了。</span><span class="english">The big black Bakelite phone rang at half past ten.</span></p>

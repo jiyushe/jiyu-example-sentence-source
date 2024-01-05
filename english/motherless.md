@@ -1,5 +1,7 @@
 # motherless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/motherless.md)
+
 <p><span class="chinese">没娘的孩子极需要爱。</span><span class="english">The motherless children were starved of affection.</span></p>
 
 <p><span class="chinese">这些没有母亲的孩子渴望亲情。</span><span class="english">The motherless children were starving for affection.</span></p>

@@ -1,5 +1,7 @@
 # bunyan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bunyan.md)
+
 <p><span class="chinese">那个开卡车的保罗·班扬是什么人？</span><span class="english">Who is this Paul Bunyan with the truck?</span></p>
 
 <p><span class="chinese">保罗是个巨人，他只须迈一小步就能跨过三条街。</span><span class="english">According to legend, Paul Bunyan was a giant.</span></p>

@@ -1,5 +1,7 @@
 # additivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/additivity.md)
+
 <p><span class="chinese">重均官能度具有按当量数分数加和的性质。</span><span class="english">Weighted average functionality possess additivity by equivalent number fraction.</span></p>
 
 <p><span class="chinese">目前所建立的砼损伤模型都有一个共同的不足之处即其所描述的损伤缺乏可加性。</span><span class="english">The existing damage model of concrete has a common defect, i , e, lacking of additivity.</span></p>

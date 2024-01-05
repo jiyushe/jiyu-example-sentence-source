@@ -1,5 +1,7 @@
 # synchronizer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synchronizer.md)
+
 <p><span class="chinese">有没有关于如何使用TSI同步装置的实例?。</span><span class="english">Are there any examples on how to use the TSI Synchronizer?</span></p>
 
 <p><span class="chinese">特种黄铜同步器齿环在应用中耐磨性差。</span><span class="english">Special brass synchronizer tooth ring wear ability is poor in using.</span></p>

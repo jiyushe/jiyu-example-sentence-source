@@ -1,5 +1,7 @@
 # 腰酸背痛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaosuanbeitong.md)
+
 <p><span class="chinese">长时间坐在电脑前腰酸背痛？</span><span class="english">Sitting in front of computer so long you suffer back pain?</span></p>
 
 <p><span class="chinese">可是昨天早上起床时，我已经发现我有点腰酸背痛，而且头有点重，喉咙好痒，想咳嗽。</span><span class="english">But yesterday when I got up, I felt great pain all over my body.</span></p>

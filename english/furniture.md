@@ -1,5 +1,7 @@
 # furniture 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/furniture.md)
+
 <p><span class="chinese">没有家具。</span><span class="english">No furniture.</span></p>
 
 <p><span class="chinese">新家具集。</span><span class="english">New furniture set.</span></p>

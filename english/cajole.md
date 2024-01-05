@@ -1,5 +1,7 @@
 # cajole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cajole.md)
+
 <p><span class="chinese">哄骗是办不到的。</span><span class="english">To cajole is useless.</span></p>
 
 <p><span class="chinese">敌人想尽一切办法诱迫他说出情报。</span><span class="english">The enemy tried every means to cajole him into telling the information.</span></p>

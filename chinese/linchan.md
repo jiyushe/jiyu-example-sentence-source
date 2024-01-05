@@ -1,5 +1,7 @@
 # 临产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linchan.md)
+
 <p><span class="chinese">临产前就会出现分娩先兆。</span><span class="english">Before being in labor, will present the childbirth omen.</span></p>
 
 <p><span class="chinese">你们要尽快赶来，因为我们当中有个孕妇要临产了。</span><span class="english">You should hurry because one of us is about to have a baby.</span></p>

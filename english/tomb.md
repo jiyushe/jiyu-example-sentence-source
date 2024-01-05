@@ -1,5 +1,7 @@
 # tomb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tomb.md)
+
 <p><span class="chinese">他找到了那个大坟墓。</span><span class="english">He stopped the large tomb.</span></p>
 
 <p><span class="chinese">这里就是妇好墓。</span><span class="english">This is the tomb of Fu Hao.</span></p>

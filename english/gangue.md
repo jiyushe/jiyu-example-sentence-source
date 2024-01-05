@@ -1,5 +1,7 @@
 # gangue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gangue.md)
+
 <p><span class="chinese">脉石矿物主要是石英。</span><span class="english">Gangue mineral is primarily quartz.</span></p>
 
 <p><span class="chinese">石英是金矿床主要的脉石矿物。</span><span class="english">Quartz is a primary gangue mineral of the gold deposit.</span></p>

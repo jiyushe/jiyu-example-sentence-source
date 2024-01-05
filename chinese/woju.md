@@ -1,5 +1,7 @@
 # 卧具
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/woju.md)
+
 <p><span class="chinese">不提供卧具，所以得自备睡袋。</span><span class="english">Bedding is not provided, so bring a sleeping bag.</span></p>
 
 <p><span class="chinese">检查被褥。弄净上面的泥土，尽可能保持卧具的干净。</span><span class="english">Remove soil, and keep the bedding as clean as possible.</span></p>

@@ -1,5 +1,7 @@
 # 老婆子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laopozi.md)
+
 <p><span class="chinese">那个令人讨厌的老婆子是谁？</span><span class="english">Who’s that nasty old woman?</span></p>
 
 <p><span class="chinese">这个令人讨厌的老婆子是谁？</span><span class="english">Who's these nasty old woman?</span></p>

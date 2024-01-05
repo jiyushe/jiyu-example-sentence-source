@@ -1,5 +1,7 @@
 # fraternize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fraternize.md)
+
 <p><span class="chinese">我只是在想我们，你知道，亲如兄弟。</span><span class="english">I just thought we'd, you know, fraternize.</span></p>
 
 <p><span class="chinese">亲敌的士兵将受到惩罚。</span><span class="english">Soldiers who fraternize with the enemy will be punished.</span></p>

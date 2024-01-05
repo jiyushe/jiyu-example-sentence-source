@@ -1,5 +1,7 @@
 # kohlrabi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kohlrabi.md)
+
 <p><span class="chinese">大头菜和黄酒都是襄樊的特产。</span><span class="english">Kohlrabi and Yellow Rice Wine are both special products in Xiang Fan.</span></p>
 
 <p><span class="chinese">黄酒和大头菜都是襄樊的特产。</span><span class="english">Kohlrabi and Yellow Rice Wine are both special products in Xiang Fan.</span></p>

@@ -1,5 +1,7 @@
 # enlarger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enlarger.md)
+
 <p><span class="chinese">光线从放大机的镜头发射出。</span><span class="english">The light spreads out from the enlarger lens.</span></p>
 
 <p><span class="chinese">因此我买了一个海鸥120相机及一个简单的放大机。</span><span class="english">So I bought a Seagull 120 camera and a simple enlarger.</span></p>

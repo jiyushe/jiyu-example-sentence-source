@@ -1,5 +1,7 @@
 # stallion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stallion.md)
+
 <p><span class="chinese">超过马种马。</span><span class="english">More stallion than mare.</span></p>
 
 <p><span class="chinese">赛事前，他已把那头牡马详细检验。</span><span class="english">He vetted the stallion before the race.</span></p>

@@ -1,5 +1,7 @@
 # endocrinology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endocrinology.md)
+
 <p><span class="chinese">此项研究是在内分泌学会研讨会上报告的。</span><span class="english">The study was presented at a Society for Endocrinology conference.</span></p>
 
 <p><span class="chinese">贝勒临床内分泌学与新陈代谢最佳实践。</span><span class="english">Bailliere's Best Practice in Clinical Endocrinology and Metabolism.</span></p>

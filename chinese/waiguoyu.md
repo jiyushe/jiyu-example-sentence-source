@@ -1,5 +1,7 @@
 # 外国语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waiguoyu.md)
+
 <p><span class="chinese">他能够说3种外国语。</span><span class="english">He can speak three foreign languages.</span></p>
 
 <p><span class="chinese">他在学习两种外国语。</span><span class="english">He is learning two foreign languages.</span></p>

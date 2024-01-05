@@ -1,5 +1,7 @@
 # talkative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/talkative.md)
+
 <p><span class="chinese">他真是个多嘴多舌的人。</span><span class="english">He is talkative.</span></p>
 
 <p><span class="chinese">她在办公室可是很健谈的。</span><span class="english">She is talkative in office.</span></p>

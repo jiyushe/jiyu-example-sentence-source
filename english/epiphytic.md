@@ -1,5 +1,7 @@
 # epiphytic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epiphytic.md)
+
 <p><span class="chinese">有时归入水龙骨科或珠蕨科。</span><span class="english">Polypodiaceae A family of terrestrial or epiphytic leptosporangiate ferns.</span></p>
 
 <p><span class="chinese">图三著生植物基质含叶鲜重与蚂蚁个体数之关系图。</span><span class="english">Fig. 3. The number of ants in relation to the fresh weight of epiphytic substrate with leaves.</span></p>

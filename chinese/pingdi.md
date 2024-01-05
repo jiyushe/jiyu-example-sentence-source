@@ -1,5 +1,7 @@
 # 平地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingdi.md)
+
 <p><span class="chinese">你能看见那平地而起的风暴吗？</span><span class="english">Could you see the storm rising?</span></p>
 
 <p><span class="chinese">高楼万丈平地起。</span><span class="english">High buildings rise from the flat ground.</span></p>

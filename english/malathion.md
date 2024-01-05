@@ -1,5 +1,7 @@
 # malathion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malathion.md)
+
 <p><span class="chinese">马拉硫磷是一种杀虫剂，以及工程对头虱。</span><span class="english">Malathion is a type of insecticide that works well against head lice.</span></p>
 
 <p><span class="chinese">试验田土壤未检测到农药六六六、滴滴涕和马拉硫磷残留。</span><span class="english">Residue of pesticide 666, DDT and malathion were not detected in the test soil.</span></p>

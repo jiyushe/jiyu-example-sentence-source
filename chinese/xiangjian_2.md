@@ -1,5 +1,7 @@
 # 相间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangjian_2.md)
+
 <p><span class="chinese">它是白蓝相间的。</span><span class="english">It's white and blue.</span></p>
 
 <p><span class="chinese">它的毛白黄相间。</span><span class="english">It's white and yellow.</span></p>

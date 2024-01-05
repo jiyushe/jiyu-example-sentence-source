@@ -1,5 +1,7 @@
 # 甜蜜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianmi.md)
+
 <p><span class="chinese">家,甜蜜的家!</span><span class="english">Home, sweet home.</span></p>
 
 <p><span class="chinese">甜蜜大逃亡。</span><span class="english">The sweet escape.</span></p>

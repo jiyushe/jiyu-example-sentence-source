@@ -1,5 +1,7 @@
 # myself 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/myself.md)
+
 <p><span class="chinese">是啊！我自己。</span><span class="english">Yup! By myself.</span></p>
 
 <p><span class="chinese">我原谅我自己。</span><span class="english">I forgive myself.</span></p>

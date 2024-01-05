@@ -1,5 +1,7 @@
 # 终久
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongjiu.md)
+
 <p><span class="chinese">你岂不知终久必有苦楚吗？</span><span class="english">Do you not know that the end will be bitter?</span></p>
 
 <p><span class="chinese">我们常常不能看透的事，终久可以做到。</span><span class="english">We often do not see through things, and never can be done.</span></p>

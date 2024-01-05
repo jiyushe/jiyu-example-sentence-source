@@ -1,5 +1,7 @@
 # 通信卫星
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongxinweixing.md)
+
 <p><span class="chinese">国际卫星六号通信卫星投入商业使用。</span><span class="english">The Intelsat IV communications satellite goes into commercial operation.</span></p>
 
 <p><span class="chinese">世界各地的电视节目都由通信卫星转播。</span><span class="english">The television programmes from all over the world are bounced off satellites.</span></p>

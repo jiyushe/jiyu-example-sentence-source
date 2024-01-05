@@ -1,5 +1,7 @@
 # westerner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/westerner.md)
+
 <p><span class="chinese">我本质上是一个西方人。</span><span class="english">I am essentially a Westerner.</span></p>
 
 <p><span class="chinese">你可以告诉如此蠢的西方人的是。</span><span class="english">You can tell how stupide westerner are.</span></p>

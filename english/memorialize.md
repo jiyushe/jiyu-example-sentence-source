@@ -1,5 +1,7 @@
 # memorialize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/memorialize.md)
+
 <p><span class="chinese">你希望自己的名字被人记住吗？</span><span class="english">Do you hope to memorialize your name?</span></p>
 
 <p><span class="chinese">你是否希望人们记住你的名字？</span><span class="english">Do you hope to memorialize your name?</span></p>

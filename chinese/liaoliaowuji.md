@@ -1,5 +1,7 @@
 # 寥寥无几
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liaoliaowuji.md)
+
 <p><span class="chinese">有食品的商店寥寥无几。</span><span class="english">Very few stores have any food.</span></p>
 
 <p><span class="chinese">他脾气坏，因而朋友寥寥无几。</span><span class="english">His ugly disposition gained him few friends.</span></p>

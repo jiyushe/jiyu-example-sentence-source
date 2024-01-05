@@ -1,5 +1,7 @@
 # 改变
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaibian.md)
+
 <p><span class="chinese">但是他改变了。</span><span class="english">But he changed.</span></p>
 
 <p><span class="chinese">改变一个习惯。</span><span class="english">Change one habit.</span></p>

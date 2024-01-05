@@ -1,5 +1,7 @@
 # spiritualism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spiritualism.md)
+
 <p><span class="chinese">它是一种“自我”的灵性论。</span><span class="english">It is a spiritualism of 'self'.</span></p>
 
 <p><span class="chinese">但是我仍然没有丧失某些灵性的东西。</span><span class="english">But some spiritualism is still with me.</span></p>

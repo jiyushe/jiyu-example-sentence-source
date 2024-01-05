@@ -1,5 +1,7 @@
 # homologous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homologous.md)
+
 <p><span class="chinese">他们是“同源的”或者是“同构的”。</span><span class="english">They are "homologous" or isomorphic.</span></p>
 
 <p><span class="chinese">四足动物的类似的后部…</span><span class="english">A homologous posterior part in quadrupeds.</span></p>

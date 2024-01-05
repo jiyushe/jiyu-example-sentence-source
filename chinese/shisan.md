@@ -1,5 +1,7 @@
 # 失散
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shisan.md)
+
 <p><span class="chinese">也许我会睡过头醒来后发现羊群早已失散。</span><span class="english">I’d oversleep and lose my flock.</span></p>
 
 <p><span class="chinese">他的家人在战争中失散了。</span><span class="english">His family was severed in the war.</span></p>

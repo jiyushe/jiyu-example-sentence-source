@@ -1,5 +1,7 @@
 # 外线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waixian.md)
+
 <p><span class="chinese">知道了，那外线电话怎么打？</span><span class="english">I see, well what about outside calls?</span></p>
 
 <p><span class="chinese">外线电话费会记在您的账单上的。</span><span class="english">Outside calls will be added to your bill.</span></p>

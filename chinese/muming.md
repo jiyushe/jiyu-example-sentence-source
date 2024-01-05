@@ -1,5 +1,7 @@
 # 慕名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muming.md)
+
 <p><span class="chinese">大部分游客慕名去了同名的中区寺庙。</span><span class="english">Most visitors make for the eponymous central temple.</span></p>
 
 <p><span class="chinese">当地建有国际机场，每年约有2万游客慕名而至。</span><span class="english">It has its own international airport and some 20,000 tourists every year.</span></p>

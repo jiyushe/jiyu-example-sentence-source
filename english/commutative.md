@@ -1,5 +1,7 @@
 # commutative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commutative.md)
+
 <p><span class="chinese">这就是交换律</span><span class="english">You say this is a commutative law.</span></p>
 
 <p><span class="chinese">自然的交换链接也很重要。</span><span class="english">Natural commutative link is very important also.</span></p>

@@ -1,5 +1,7 @@
 # 陷阱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianjing_3.md)
+
 <p><span class="chinese">但这里也有陷阱。</span><span class="english">But there are pitfalls.</span></p>
 
 <p><span class="chinese">这是一个键盘陷阱。</span><span class="english">This is a keyboard trap.</span></p>

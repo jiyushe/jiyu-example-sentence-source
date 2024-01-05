@@ -1,5 +1,7 @@
 # repayment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repayment.md)
+
 <p><span class="chinese">偿还贷款的条款定得很宽。</span><span class="english">The repayment provisions are generous.</span></p>
 
 <p><span class="chinese">您所考虑的还款期是什么时候？</span><span class="english">What repayment period were you thinking of?</span></p>

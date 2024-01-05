@@ -1,5 +1,7 @@
 # 芽接
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yajie_1.md)
+
 <p><span class="chinese">橡胶砧木是芽接树重要组成，对接穗的生长、产量都有影响。</span><span class="english">Rootstock is a important component part of rubber budding tree and has influenced scion yield.</span></p>
 
 <p><span class="chinese">不同部位芽片对核桃方块形芽接成活及生长的影响。</span><span class="english">Effects of different bud on square budding survival rate and grafted seedlings growth of juglans regia l.</span></p>

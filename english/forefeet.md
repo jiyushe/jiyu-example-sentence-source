@@ -1,5 +1,7 @@
 # forefeet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forefeet.md)
+
 <p><span class="chinese">它们的前脚有五枚爪子，后脚则为四枚。</span><span class="english">There are five claws on the forefeet and four on the rear.</span></p>
 
 <p><span class="chinese">如果你把前脚高高搭在墙上，我就可以爬上你的背出去。</span><span class="english">If you put your forefeet high up on the wall, I will climb up your back and get out.</span></p>

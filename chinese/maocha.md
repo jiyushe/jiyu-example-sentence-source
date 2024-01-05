@@ -1,5 +1,7 @@
 # 毛茶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maocha.md)
+
 <p><span class="chinese">云南大叶种鲜叶制成的晒青毛茶。</span><span class="english">The raw material adopts fresh and sun-greened big leaf species tea of Yunnan.</span></p>
 
 <p><span class="chinese">黑毛茶的制造工艺分杀青、初揉、握堆、复揉、干燥五道工序。</span><span class="english">There are five procedures i. e. fixation kneading piling re-kneading and drying.</span></p>

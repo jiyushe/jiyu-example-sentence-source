@@ -1,5 +1,7 @@
 # portrait
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/portrait.md)
+
 <p><span class="chinese">把那幅画像拿下来。</span><span class="english">Down with the portrait.</span></p>
 
 <p><span class="chinese">他的肖像比他本人漂亮。</span><span class="english">His portrait flatters him.</span></p>

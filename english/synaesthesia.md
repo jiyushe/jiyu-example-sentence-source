@@ -1,5 +1,7 @@
 # synaesthesia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synaesthesia.md)
+
 <p><span class="chinese">最常见的联觉类型为何？</span><span class="english">What is the most common type of synaesthesia?</span></p>
 
 <p><span class="chinese">联觉可能对记忆有帮助。</span><span class="english">Synaesthesia may have some benefits on memory.</span></p>

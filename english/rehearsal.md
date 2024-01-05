@@ -1,5 +1,7 @@
 # rehearsal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rehearsal.md)
+
 <p><span class="chinese">你需要来次大彩排。</span><span class="english">And you'll have a big rehearsal.</span></p>
 
 <p><span class="chinese">崔健还得继续排练。</span><span class="english">Cui Jian had a rehearsal to get to.</span></p>

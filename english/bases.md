@@ -1,5 +1,7 @@
 # bases
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bases.md)
+
 <p><span class="chinese">在RNA中也只有四种</span><span class="english">In RNA there's four bases.</span></p>
 
 <p><span class="chinese">基于什么样的评判标准呢？</span><span class="english">On what bases are the criterias?</span></p>

@@ -1,5 +1,7 @@
 # 模仿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mofang_1.md)
+
 <p><span class="chinese">这是一张模仿画。</span><span class="english">This is a pastiche.</span></p>
 
 <p><span class="chinese">一切艺术都是模仿。</span><span class="english">All art is imitation.</span></p>

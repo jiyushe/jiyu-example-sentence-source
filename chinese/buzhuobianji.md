@@ -1,5 +1,7 @@
 # 不着边际
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buzhuobianji.md)
+
 <p><span class="chinese">但这种批评完全不着边际。</span><span class="english">But the critics have it exactly backwards.</span></p>
 
 <p><span class="chinese">拒绝空洞地理想，拒绝不着边际的政治。</span><span class="english">We refuse empty ideals and discursive politics.</span></p>

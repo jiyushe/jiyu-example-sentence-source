@@ -1,5 +1,7 @@
 # disordered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disordered.md)
+
 <p><span class="chinese">也许只是个臆想，从杂乱无章的生活里蹦出的臆想。</span><span class="english">Maybe it's just a fantasy, emerged from the disordered life.</span></p>
 
 <p><span class="chinese">纱线的表层纤维的排列变得紊乱、毛糙。</span><span class="english">The surface fibers of the yarn become disordered and coarse.</span></p>

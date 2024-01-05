@@ -1,5 +1,7 @@
 # 香菜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangcai.md)
+
 <p><span class="chinese">香茅草，红咖喱，香菜。</span><span class="english">Lemon grass, red curry, cilantro.</span></p>
 
 <p><span class="chinese">香菜等绿色调味品。</span><span class="english">Parsley and other green garnishes.</span></p>

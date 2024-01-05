@@ -1,5 +1,7 @@
 # voluntary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/voluntary.md)
+
 <p><span class="chinese">放纵，那么，更多的自愿。</span><span class="english">Intemperance, then, is more voluntary.</span></p>
 
 <p><span class="chinese">工具性条件作用则是有机体的自发行为。</span><span class="english">Instrumental conditioning is voluntary.</span></p>

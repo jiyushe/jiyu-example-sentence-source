@@ -1,5 +1,7 @@
 # photosensitive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photosensitive.md)
+
 <p><span class="chinese">UV光敏干燥辊涂生产线。</span><span class="english">UV coated photosensitive dry roll production lines.</span></p>
 
 <p><span class="chinese">这样一枚高质量的光敏印章就可以交付使用了。</span><span class="english">After above steps , a high quality photosensitive seal is ready for use.</span></p>

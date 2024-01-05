@@ -1,5 +1,7 @@
 # 雨披
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yupi.md)
+
 <p><span class="chinese">这雨披是用尼龙制造的。</span><span class="english">The poncho is made of nylon.</span></p>
 
 <p><span class="chinese">一个雨披将占用最小的空间。</span><span class="english">One poncho will take up minimal space.</span></p>

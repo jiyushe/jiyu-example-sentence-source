@@ -1,5 +1,7 @@
 # lett
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lett.md)
+
 <p><span class="chinese">让我来告诉你！！</span><span class="english">Lett me tell you! !</span></p>
 
 <p><span class="chinese">让我示范给你看。</span><span class="english">Lett me show you how.</span></p>

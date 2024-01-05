@@ -1,5 +1,7 @@
 # 译稿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yigao.md)
+
 <p><span class="chinese">这只是一个非常粗糙的译稿。</span><span class="english">It's just a very rough translation.</span></p>
 
 <p><span class="chinese">所以我们也可甚至相信译稿。</span><span class="english">So we can trust even the translations.</span></p>

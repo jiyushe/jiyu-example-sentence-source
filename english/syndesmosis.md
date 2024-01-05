@@ -1,5 +1,7 @@
 # syndesmosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syndesmosis.md)
+
 <p><span class="chinese">总体上，该器械可在下胫腓联合损伤的恢复期内提供稳定性。</span><span class="english">Overall, this fixation device was found to adequately stabilise the syndesmosis during healing.</span></p>
 
 <p><span class="chinese">下胫腓螺钉固定骨皮质的数目不影响下胫腓的宽度。</span><span class="english">Syndesmosis width was not affected by the number of cortices purchased by the syndesmosis screw.</span></p>

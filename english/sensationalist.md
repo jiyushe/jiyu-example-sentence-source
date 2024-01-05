@@ -1,5 +1,7 @@
 # sensationalist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sensationalist.md)
+
 <p><span class="chinese">三爷对这些误导和煸情的报道简直出离愤怒了！</span><span class="english">Jermaine Jackson slammed such reports as misleading and "sensationalist".</span></p>
 
 <p><span class="chinese">希腊教会们直到今天仍然反对煽情的展现耶稣所受的折磨。</span><span class="english">The Greek churches, even to this day, resist sensationalist presentations of the suffering of Jesus.</span></p>

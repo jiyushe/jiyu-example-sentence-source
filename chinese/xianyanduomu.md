@@ -1,5 +1,7 @@
 # 鲜艳夺目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianyanduomu.md)
+
 <p><span class="chinese">现在盛开着鲜艳夺目的一片小黄花。</span><span class="english">A hundred bright yellow flowers grow.</span></p>
 
 <p><span class="chinese">金黄色和绯红色的灌木，火一般的颜色，鲜艳夺目。</span><span class="english">The bushes,golden and crimson,glowed with the color of fire.</span></p>

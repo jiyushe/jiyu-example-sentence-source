@@ -1,5 +1,7 @@
 # 物以类聚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuyileiju.md)
+
 <p><span class="chinese">物以类聚。</span><span class="english">Birds of a feather flock to gather.</span></p>
 
 <p><span class="chinese">物以类聚，人以群分“</span><span class="english">"Birds of a feather flock together?"</span></p>

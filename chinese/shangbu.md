@@ -1,5 +1,7 @@
 # 商埠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangbu.md)
+
 <p><span class="chinese">自开商埠是近代中国不同于条约口岸的另一种口岸类型。</span><span class="english">"Non-treaty Port" was different from treaty port in modern China.</span></p>
 
 <p><span class="chinese">提出了辟九龙为商埠等有战略眼光的建议。</span><span class="english">His suggestion that Jiulong city must be a commercial port was strategic insight.</span></p>

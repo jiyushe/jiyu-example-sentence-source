@@ -1,5 +1,7 @@
 # unsent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsent.md)
+
 <p><span class="chinese">写不寄出的信。</span><span class="english">Write unsent letters.</span></p>
 
 <p><span class="chinese">它其实是由一封未寄出的信改成的歌曲。</span><span class="english">It's essentially an unsent letter that became a song.</span></p>

@@ -1,5 +1,7 @@
 # firmness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/firmness.md)
+
 <p><span class="chinese">爱情贵忠诚，史诚能坚贞。</span><span class="english">Love ask faith, and faith firmness.</span></p>
 
 <p><span class="chinese">爱情要求信任，信任要求坚定。</span><span class="english">Love asks faith,and faith firmness.</span></p>

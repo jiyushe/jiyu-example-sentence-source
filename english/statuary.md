@@ -1,5 +1,7 @@
 # statuary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/statuary.md)
+
 <p><span class="chinese">他在雕像旁躺下了。</span><span class="english">He lay down beside the statuary.</span></p>
 
 <p><span class="chinese">没有一个雕像能比这更静默。</span><span class="english">No statuary is more silent like this.</span></p>

@@ -1,5 +1,7 @@
 # miserly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/miserly.md)
+
 <p><span class="chinese">爱钱如命的爸爸生个儿子挥霍钱财。</span><span class="english">A miserly father makes a prodigal son.</span></p>
 
 <p><span class="chinese">铁公鸡在汉语中的意思是一毛不拔。</span><span class="english">An iron rooster in Chinese means miserly.</span></p>

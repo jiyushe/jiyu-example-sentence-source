@@ -1,5 +1,7 @@
 # calorific
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calorific.md)
+
 <p><span class="chinese">那巧克力蛋糕看起来很高卡洛里。</span><span class="english">That chocolate cake looks very calorific.</span></p>
 
 <p><span class="chinese">这种装置对于低热值燃气的稳定燃烧能起到较好的作用。</span><span class="english">It can be fixed on some burners using low calorific value gas.</span></p>

@@ -1,5 +1,7 @@
 # blab
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blab.md)
+
 <p><span class="chinese">你知道她会泄露所有秘密的。</span><span class="english">You know she'll just blab all the secrets.</span></p>
 
 <p><span class="chinese">那些故事是假的，全是胡扯。</span><span class="english">Those stories are false, just so much blab.</span></p>

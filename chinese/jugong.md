@@ -1,5 +1,7 @@
 # 居功
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jugong.md)
+
 <p><span class="chinese">这并非我们可以居功的事情。</span><span class="english">This isn't something that we can claim credit for.</span></p>
 
 <p><span class="chinese">陆英与你们白家，居功不小。</span><span class="english">Six Englishes with you white house, take the honor no small.</span></p>

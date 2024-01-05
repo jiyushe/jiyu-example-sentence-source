@@ -1,5 +1,7 @@
 # meaning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meaning.md)
+
 <p><span class="chinese">现在意义大不大？</span><span class="english">Now meaning big?</span></p>
 
 <p><span class="chinese">生命意义的阙如。</span><span class="english">Of life meaning.</span></p>

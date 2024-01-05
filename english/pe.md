@@ -1,5 +1,7 @@
 # pe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pe.md)
+
 <p><span class="chinese">你何时有体育课？</span><span class="english">When do you have PE?</span></p>
 
 <p><span class="chinese">我体育考试不及格。</span><span class="english">I've failed the PE examination.</span></p>

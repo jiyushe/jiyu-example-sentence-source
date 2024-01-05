@@ -1,5 +1,7 @@
 # ingratitude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ingratitude.md)
+
 <p><span class="chinese">这种忘怀是属于自然现象。</span><span class="english">It is the ingratitude of nature.</span></p>
 
 <p><span class="chinese">真正丢人的是忘恩和无礼。</span><span class="english">Only ingratitude and rudeness can.</span></p>

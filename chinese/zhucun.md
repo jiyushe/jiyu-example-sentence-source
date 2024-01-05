@@ -1,5 +1,7 @@
 # 贮存
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhucun.md)
+
 <p><span class="chinese">我们的贮存快完了。</span><span class="english">Our stores are running out.</span></p>
 
 <p><span class="chinese">多余的食物作为脂肪贮存起来。</span><span class="english">Excess food is stored as fat.</span></p>

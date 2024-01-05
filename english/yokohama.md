@@ -1,5 +1,7 @@
 # yokohama
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yokohama.md)
+
 <p><span class="chinese">由横。轮呔提供高性能轮呔的特别优惠价。</span><span class="english">Special discount on Yokohama high performance tire.</span></p>
 
 <p><span class="chinese">横滨市卫生当局正在调查病因。</span><span class="english">Yokohama City Health authorities are investigating the cause.</span></p>

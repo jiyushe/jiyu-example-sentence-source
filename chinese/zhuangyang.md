@@ -1,5 +1,7 @@
 # 壮阳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangyang.md)
+
 <p><span class="chinese">但它真的可以壮阳吗？</span><span class="english">But is it really an aphrodisiac?</span></p>
 
 <p><span class="chinese">多年来，牡蛎一直都被视成壮阳剂。</span><span class="english">Oysters have, for many years, been considered an aphrodisiac.</span></p>

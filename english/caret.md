@@ -1,5 +1,7 @@
 # caret
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caret.md)
+
 <p><span class="chinese">因此，插入美国开始与美国的手段。</span><span class="english">So, caret US means start with US.</span></p>
 
 <p><span class="chinese">我们还推出了插入符号和美元。</span><span class="english">We also introduced the caret and the dollar.</span></p>

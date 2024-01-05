@@ -1,5 +1,7 @@
 # rearm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rearm.md)
+
 <p><span class="chinese">最好的办法就是重新武装自己，展现全新的自己。</span><span class="english">The best way is to rearm themselves and their own new show.</span></p>
 
 <p><span class="chinese">美国应该允许日本拥有核武器！</span><span class="english">The United States should just allow Japan to rearm itself with Nukes!</span></p>

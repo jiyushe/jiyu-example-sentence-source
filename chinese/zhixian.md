@@ -1,5 +1,7 @@
 # 支线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhixian.md)
+
 <p><span class="chinese">做到这一点儿最好的方法就是使用支线故工作节。</span><span class="english">The best way to do this is by using sub-plots.</span></p>
 
 <p><span class="chinese">完成选择史凯利杰统治者的支线剧情。</span><span class="english">Complete the subplot about choosing Skellige's ruler.</span></p>

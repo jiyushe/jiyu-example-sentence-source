@@ -1,5 +1,7 @@
 # pitching
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pitching.md)
+
 <p><span class="chinese">他的投球在大联盟的击球员中是个传奇。</span><span class="english">His pitching was a legend among major league hitters.</span></p>
 
 <p><span class="chinese">飞机令人晕眩地向左倾斜。</span><span class="english">The plane is pitching to the left in a sickening way.</span></p>

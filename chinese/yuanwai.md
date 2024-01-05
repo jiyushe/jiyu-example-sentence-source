@@ -1,5 +1,7 @@
 # 员外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanwai.md)
+
 <p><span class="chinese">你的这点儿小钱王员外根本看不上眼。</span><span class="english">Your money is far too little for the landlord.</span></p>
 
 <p><span class="chinese">在下人们的眼中，张员外是个和善的人。</span><span class="english">In the eyes of the servants, Councillor Zhang is an amiable person.</span></p>

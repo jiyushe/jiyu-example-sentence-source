@@ -1,5 +1,7 @@
 # poop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poop.md)
+
 <p><span class="chinese">这是典型的自闭症便便。</span><span class="english">It was the classic autism poop.</span></p>
 
 <p><span class="chinese">他所有会做的就是吃喝拉撒睡。</span><span class="english">All he does is eat, sleep and poop.</span></p>

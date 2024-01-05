@@ -1,5 +1,7 @@
 # reparation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reparation.md)
+
 <p><span class="chinese">我将要求公司给予赔偿。</span><span class="english">I'll demand reparation from the company.</span></p>
 
 <p><span class="chinese">您来和我们一起吃饭。</span><span class="english">You owe me reparation. You will dine with us.</span></p>

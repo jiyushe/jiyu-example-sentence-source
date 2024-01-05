@@ -1,5 +1,7 @@
 # titillate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/titillate.md)
+
 <p><span class="chinese">辣椒酱挑逗味觉。</span><span class="english">Chilli sauce can titillate our palates.</span></p>
 
 <p><span class="chinese">辣椒酱可以挑逗我们的味觉。</span><span class="english">Chilli sauce can titillate our palates.</span></p>

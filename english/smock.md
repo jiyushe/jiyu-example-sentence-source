@@ -1,5 +1,7 @@
 # smock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smock.md)
+
 <p><span class="chinese">那艺术家的罩衣上沾满了颜料。</span><span class="english">The artist's smock was covered in paint.</span></p>
 
 <p><span class="chinese">一个身穿红色罩衫的女孩迈着轻快的步子下山。</span><span class="english">A girl in a red smock tripped down the hill.</span></p>

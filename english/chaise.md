@@ -1,5 +1,7 @@
 # chaise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chaise.md)
+
 <p><span class="chinese">玛格娜躺在一把躺椅上。</span><span class="english">Magna was lying on a chaise longue.</span></p>
 
 <p><span class="chinese">我们的马车在暴风雪中缓慢地往家走。</span><span class="english">Our chaise slugged home in the storm.</span></p>

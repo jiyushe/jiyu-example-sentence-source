@@ -1,5 +1,7 @@
 # 能人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nengren.md)
+
 <p><span class="chinese">人类而非能人？</span><span class="english">Human But Not Habilis?</span></p>
 
 <p><span class="chinese">她的策略是成为地上树上两个世界都吃得开的能人。</span><span class="english">Her strategy was to be mistress of both worlds.</span></p>

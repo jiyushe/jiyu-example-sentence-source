@@ -1,5 +1,7 @@
 # approvingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/approvingly.md)
+
 <p><span class="chinese">克丽丝汀赞许地环视一下房间。</span><span class="english">Christine surveyed the room approvingly.</span></p>
 
 <p><span class="chinese">一些右翼评论家称赞这张海报。</span><span class="english">Some Right-wing commentators have seized approvingly on the image.</span></p>

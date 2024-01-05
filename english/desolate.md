@@ -1,5 +1,7 @@
 # desolate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/desolate.md)
+
 <p><span class="chinese">是那样的悲凉吗？</span><span class="english">Are so desolate do?</span></p>
 
 <p><span class="chinese">使家庭幸福或荒凉。</span><span class="english">Homes made happy or desolate.</span></p>

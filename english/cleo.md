@@ -1,5 +1,7 @@
 # cleo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cleo.md)
+
 <p><span class="chinese">是阿克，阿克是一条鱼。</span><span class="english">It's Cleo. Cleo is a fish.</span></p>
 
 <p><span class="chinese">Cleo和T-bone来拜访。</span><span class="english">Cleo and T-bone come to visit.</span></p>

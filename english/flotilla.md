@@ -1,5 +1,7 @@
 # flotilla
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flotilla.md)
+
 <p><span class="chinese">于是，船队向西又航行了数英里，抵达沃尔默和蒂尔之间的海滩。</span><span class="english">So the flotilla sailed a few miles to the west.</span></p>
 
 <p><span class="chinese">爱波斯坦计划过要登上那支船队，而佩克上了船。</span><span class="english">Epstein had planned to be aboard the flotilla and Peck was.</span></p>

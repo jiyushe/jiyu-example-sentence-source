@@ -1,5 +1,7 @@
 # cassock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cassock.md)
+
 <p><span class="chinese">在土伦，他穿上红色囚衣。</span><span class="english">At Toulon he was clothed in the red cassock.</span></p>
 
 <p><span class="chinese">的袍子上尽是尘土，汗渍斑斑。</span><span class="english">His black cassock was dusty and sweat-stained.</span></p>

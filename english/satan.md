@@ -1,5 +1,7 @@
 # satan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/satan.md)
+
 <p><span class="chinese">撒旦一拽，默多克没动。</span><span class="english">Satan said.</span></p>
 
 <p><span class="chinese">撒坦说到，“没门。</span><span class="english">Satan says, "No way.</span></p>

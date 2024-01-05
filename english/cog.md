@@ -1,5 +1,7 @@
 # cog
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cog.md)
+
 <p><span class="chinese">那两个齿轮啮合后机器就转动了。</span><span class="english">One cog -wheel engages with another.</span></p>
 
 <p><span class="chinese">锅炉启动点火煤气为焦炉煤气。</span><span class="english">COG will be used to ignite and start boiler.</span></p>

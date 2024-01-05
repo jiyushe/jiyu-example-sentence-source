@@ -1,5 +1,7 @@
 # returnee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/returnee.md)
+
 <p><span class="chinese">博爱和谐海归群在上海已经建立起一个强大的社交网络。</span><span class="english">The returnee group has already set up a strong network in Shanghai.</span></p>
 
 <p><span class="chinese">第一章，探讨“归来者”的反思和记忆。</span><span class="english">Chapter one shows the memory and thinking of history of the Returnee.</span></p>

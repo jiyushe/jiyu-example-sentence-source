@@ -1,5 +1,7 @@
 # 饱餐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baocan.md)
+
 <p><span class="chinese">当天，他美美地饱餐了一顿。</span><span class="english">That day,he ate his fill.</span></p>
 
 <p><span class="chinese">我们接连数周饱餐了父亲猎得的鹿肉。</span><span class="english">The flesh of a deer used as food.</span></p>

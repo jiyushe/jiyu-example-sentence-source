@@ -1,5 +1,7 @@
 # afloat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afloat.md)
+
 <p><span class="chinese">这么多的水是如何维持悬浮状态的？</span><span class="english">How does all this water stay afloat?</span></p>
 
 <p><span class="chinese">几只玩具船在池潭里漂。</span><span class="english">Several toy boats are afloat on the pond.</span></p>

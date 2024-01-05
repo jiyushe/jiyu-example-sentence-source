@@ -1,5 +1,7 @@
 # balletic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/balletic.md)
+
 <p><span class="chinese">有一点是不同的，尽管是有些像芭蕾的。</span><span class="english">One thing it is not, though, is balletic.</span></p>
 
 <p><span class="chinese">但是，动作又不失力量美，就好像芭蕾舞那样。</span><span class="english">There's a strength in that, but it's very balletic.</span></p>

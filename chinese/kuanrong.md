@@ -1,5 +1,7 @@
 # 宽容
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuanrong.md)
+
 <p><span class="chinese">仅仅宽容是不够的。</span><span class="english">Tolerance is not enough.</span></p>
 
 <p><span class="chinese">试一试表现得宽容些。</span><span class="english">Try and show some tolerance.</span></p>

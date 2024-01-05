@@ -1,5 +1,7 @@
 # galea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/galea.md)
+
 <p><span class="chinese">加利亚具2边缘的齿近先端，无喙。</span><span class="english">Galea with 2 marginal teeth near apex, beakless.</span></p>
 
 <p><span class="chinese">对于在飞机上，Galea的建议就是选择坐在出口附近。</span><span class="english">On planes, Galea recommends choosing a seat close to an exit.</span></p>

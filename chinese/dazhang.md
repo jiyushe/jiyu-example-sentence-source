@@ -1,5 +1,7 @@
 # 打仗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dazhang.md)
+
 <p><span class="chinese">或打仗时，救3000个呢？</span><span class="english">Or in wartime? 3000?</span></p>
 
 <p><span class="chinese">他准备好去打仗了吗？</span><span class="english">Was he ready for war?</span></p>

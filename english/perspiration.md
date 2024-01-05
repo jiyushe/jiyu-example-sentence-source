@@ -1,5 +1,7 @@
 # perspiration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perspiration.md)
+
 <p><span class="chinese">成串的汗珠挂在他的脸上。</span><span class="english">The perspiration beaded his face.</span></p>
 
 <p><span class="chinese">当你流汗的时候觉得疼吗？</span><span class="english">Is there pain with your perspiration?</span></p>

@@ -1,5 +1,7 @@
 # livestock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/livestock.md)
+
 <p><span class="chinese">他擅长畜养家畜。</span><span class="english">He is good at breeding livestock.</span></p>
 
 <p><span class="chinese">人畜两旺。</span><span class="english">Both men and livestock are flourishing.</span></p>

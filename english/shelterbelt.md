@@ -1,5 +1,7 @@
 # shelterbelt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shelterbelt.md)
+
 <p><span class="chinese">防护林带挡住了风沙。</span><span class="english">The shelterbelt kept the sand in check.</span></p>
 
 <p><span class="chinese">三北防护林带是一项造林事业。</span><span class="english">The Three North Shelterbelt is a forestation undertaking.</span></p>

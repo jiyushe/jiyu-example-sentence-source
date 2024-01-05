@@ -1,5 +1,7 @@
 # 大模大样
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/damudayang.md)
+
 <p><span class="chinese">她大模大样的走出了房间。</span><span class="english">She swept out the room.</span></p>
 
 <p><span class="chinese">不要大模大样走到任何地方。</span><span class="english">Don't go in a straight line anywhere.</span></p>

@@ -1,5 +1,7 @@
 # cancel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cancel.md)
+
 <p><span class="chinese">我需要为我的取消付款吗？</span><span class="english">Must I pay for my cancel?</span></p>
 
 <p><span class="chinese">单击此处可取消回复。</span><span class="english">Click here to cancel reply.</span></p>

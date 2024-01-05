@@ -1,5 +1,7 @@
 # cabana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cabana.md)
+
 <p><span class="chinese">为更好或更糟的是，那些日子已经过去了。</span><span class="english">Cabana . For better or worse, those days are gone.</span></p>
 
 <p><span class="chinese">“那个时候那就是我们的未来与骄傲”卡巴纳回忆道。</span><span class="english">"That was our future and our pride at that time, " Cabana recalls.</span></p>

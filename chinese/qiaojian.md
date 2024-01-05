@@ -1,5 +1,7 @@
 # 瞧见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaojian.md)
+
 <p><span class="chinese">瞧见了吗？</span><span class="english">See it, up there?</span></p>
 
 <p><span class="chinese">这时阿格斯突然出现，瞧见了他们。</span><span class="english">Then Argus appeared and saw them.</span></p>

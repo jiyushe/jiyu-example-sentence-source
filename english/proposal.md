@@ -1,5 +1,7 @@
 # proposal 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proposal.md)
+
 <p><span class="chinese">我们赞同你的提议。</span><span class="english">We favour your proposal.</span></p>
 
 <p><span class="chinese">他们同意了该建议。</span><span class="english">They okayed the proposal.</span></p>

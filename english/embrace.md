@@ -1,5 +1,7 @@
 # embrace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embrace.md)
+
 <p><span class="chinese">拥抱它吧！</span><span class="english">Embrace it!</span></p>
 
 <p><span class="chinese">他们拥抱。</span><span class="english">They embrace.</span></p>

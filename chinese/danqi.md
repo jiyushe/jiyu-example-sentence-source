@@ -1,5 +1,7 @@
 # 单骑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danqi.md)
+
 <p><span class="chinese">独骑，一骑，匹马，单骑。</span><span class="english">A horse is beside the bear.</span></p>
 
 <p><span class="chinese">我们驾了一辆单骑独座的小马车经过道塞特家的住宅。</span><span class="english">We drove in a buggy past the Dorset house.</span></p>

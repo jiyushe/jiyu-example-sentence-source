@@ -1,5 +1,7 @@
 # congressman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/congressman.md)
+
 <p><span class="chinese">国会议员坦克雷多，让我们</span><span class="english">Congressman Tancredo, let us add to this</span></p>
 
 <p><span class="chinese">因为你哥哥是国会议员。</span><span class="english">Because your brother is Congressman Ludlow.</span></p>

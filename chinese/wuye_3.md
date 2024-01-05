@@ -1,5 +1,7 @@
 # 物业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuye_3.md)
+
 <p><span class="chinese">物业管理法是社会法。</span><span class="english">Therefore, it is the social law.</span></p>
 
 <p><span class="chinese">结果圣艾夫斯物业管理。</span><span class="english">Results St Ives property management.</span></p>

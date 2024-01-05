@@ -1,5 +1,7 @@
 # avon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avon.md)
+
 <p><span class="chinese">雅芳也有同样的经历。</span><span class="english">Avon has the same experience.</span></p>
 
 <p><span class="chinese">第一位雅芳女士大卫.麦可尼是个男人。</span><span class="english">The first Avon lady was a man.</span></p>

@@ -1,5 +1,7 @@
 # 上吊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangdiao.md)
+
 <p><span class="chinese">他用绳子上吊。</span><span class="english">He hung hilf with a rope.</span></p>
 
 <p><span class="chinese">王后上吊自缢了。</span><span class="english">The queen hanged herself.</span></p>

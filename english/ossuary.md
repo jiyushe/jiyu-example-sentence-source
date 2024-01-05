@@ -1,5 +1,7 @@
 # ossuary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ossuary.md)
+
 <p><span class="chinese">而且，据勒迈里说，在墓志铭中同时提及兄弟和父亲的名字显得“很不寻常”。</span><span class="english">Moreover, naming the brother as well as the father on an ossuary was "very unusual, " Lemaire says.</span></p>
 
 <p><span class="chinese">这样一个墓或骨瓮里提到的一个人，并不能证明这个人是真实存在。</span><span class="english">The mention of a character on such a tomb or ossuary does not prove that the person really existed.</span></p>

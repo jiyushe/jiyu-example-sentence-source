@@ -1,5 +1,7 @@
 # reflectivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reflectivity.md)
+
 <p><span class="chinese">定义了部件透射率和反射率。</span><span class="english">The transmissibility and reflectivity of parts are defined.</span></p>
 
 <p><span class="chinese">两干涉臂的端面镀有高反铝膜。</span><span class="english">The two arms are coated with Al films to enhance the reflectivity.</span></p>

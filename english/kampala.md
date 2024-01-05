@@ -1,5 +1,7 @@
 # kampala
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kampala.md)
+
 <p><span class="chinese">这个孤儿院位于坎帕拉的中心。</span><span class="english">It was in the centre of Kampala.</span></p>
 
 <p><span class="chinese">坎培拉是其首都和最大的城市。</span><span class="english">Kampala is the capital and the largest city.</span></p>

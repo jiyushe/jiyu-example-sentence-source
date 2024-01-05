@@ -1,5 +1,7 @@
 # 沙皇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shahuang.md)
+
 <p><span class="chinese">没有人诅咒沙皇。</span><span class="english">None curse the Czar.</span></p>
 
 <p><span class="chinese">作为沙皇要做实事</span><span class="english">You have to do the work.</span></p>

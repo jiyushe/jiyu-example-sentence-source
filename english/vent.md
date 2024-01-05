@@ -1,5 +1,7 @@
 # vent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vent.md)
+
 <p><span class="chinese">发泄你的失意。</span><span class="english">Vent your frustration.</span></p>
 
 <p><span class="chinese">注意那个大的排气孔。</span><span class="english">Note the large exhaust vent.</span></p>

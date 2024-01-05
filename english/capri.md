@@ -1,5 +1,7 @@
 # capri
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capri.md)
+
 <p><span class="chinese">我会和我的现任丈夫在卡普里。</span><span class="english">I will be in Capri with my new husband.</span></p>
 
 <p><span class="chinese">卡普瑞在笑个不停。“快点，你这个懦夫。”</span><span class="english">Capri can't stop laughing. “Come on, you wuss.”</span></p>

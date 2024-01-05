@@ -1,5 +1,7 @@
 # Islamism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/islamism.md)
+
 <p><span class="chinese">即使是被污名化的穆斯林也未影响伊斯兰教的传播。</span><span class="english">Even the worst of Islamism has not been a barrier.</span></p>
 
 <p><span class="chinese">长期以来，伊斯兰主义一直是中国与巴基斯坦关系中的一根刺。</span><span class="english">Islamism has long been a thorn in relations between China and Pakistan.</span></p>

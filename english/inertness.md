@@ -1,5 +1,7 @@
 # inertness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inertness.md)
+
 <p><span class="chinese">所以，这一端有惰性元素。</span><span class="english">So, we have an inertness.</span></p>
 
 <p><span class="chinese">凹凸棒石比表面积大，吸附能力强，化学稳定性好。</span><span class="english">It has large surface area high adsorption and high chemical inertness.</span></p>

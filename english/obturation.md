@@ -1,5 +1,7 @@
 # obturation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obturation.md)
+
 <p><span class="chinese">验证手机结构密闭性。</span><span class="english">Validate the frame obturation of the handset.</span></p>
 
 <p><span class="chinese">林怀民感受得到这种开放与封闭间的交战。</span><span class="english">Lin Huaimin could felt this minitance between open and obturation as well.</span></p>

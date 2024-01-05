@@ -1,5 +1,7 @@
 # 缩短
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suoduan.md)
+
 <p><span class="chinese">缩短你的跨步。</span><span class="english">Shorten your stride.</span></p>
 
 <p><span class="chinese">爱情能缩短距离。</span><span class="english">Love shortens distance.</span></p>

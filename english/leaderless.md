@@ -1,5 +1,7 @@
 # leaderless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leaderless.md)
+
 <p><span class="chinese">这是一个群龙无首的世界。</span><span class="english">It is a leaderless world.</span></p>
 
 <p><span class="chinese">在欢快的以色列人，然后攻击领袖亚述人，谁在逃离的恐慌。</span><span class="english">The jubilant Israelites then attack the leaderless Assyrians, who flee in panic.</span></p>

@@ -1,5 +1,7 @@
 # 茶叶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaye_1.md)
+
 <p><span class="chinese">我们没有茶叶了。</span><span class="english">We're out of tea.</span></p>
 
 <p><span class="chinese">茶叶按磅出售。</span><span class="english">Tea is sold by the pound.</span></p>

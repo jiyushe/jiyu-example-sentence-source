@@ -1,5 +1,7 @@
 # dished
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dished.md)
+
 <p><span class="chinese">她端上了色拉。</span><span class="english">She dished out the salad.</span></p>
 
 <p><span class="chinese">我智胜了我的对手。</span><span class="english">I've dished my competitor.</span></p>

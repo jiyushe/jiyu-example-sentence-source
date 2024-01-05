@@ -1,5 +1,7 @@
 # exhilarating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exhilarating.md)
+
 <p><span class="chinese">而纽约这个城市的节奏也是令人兴奋的。</span><span class="english">The tempo of the city itself is exhilarating.</span></p>
 
 <p><span class="chinese">但是像这种既使人心情振奋又重温文学之路的远足好像并不多见。</span><span class="english">But there are few more exhilarating literary treks.</span></p>

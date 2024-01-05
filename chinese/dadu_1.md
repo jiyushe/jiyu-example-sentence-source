@@ -1,5 +1,7 @@
 # 大都
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dadu_1.md)
+
 <p><span class="chinese">大都即今之北京。</span><span class="english">Dadu says Beijing now.</span></p>
 
 <p><span class="chinese">苍蝇大都不螫人。</span><span class="english">Most flies do not sting.</span></p>

@@ -1,5 +1,7 @@
 # 孤岛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gudao_1.md)
+
 <p><span class="chinese">它能运行孤岛危机么?。</span><span class="english">Can it run Crysis?</span></p>
 
 <p><span class="chinese">没有谁能像一座孤岛。</span><span class="english">No manis an island.</span></p>

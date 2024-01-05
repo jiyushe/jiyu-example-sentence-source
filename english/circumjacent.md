@@ -1,5 +1,7 @@
 # circumjacent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/circumjacent.md)
+
 <p><span class="chinese">第三，销售虚拟社区的周边产品。</span><span class="english">The 3rd, sell the circumjacent product of fictitious community.</span></p>
 
 <p><span class="chinese">网易相关人士表示，这完全是为了完善周边产品。</span><span class="english">The personage expresses related Netease, this is to perfect circumjacent product completely.</span></p>

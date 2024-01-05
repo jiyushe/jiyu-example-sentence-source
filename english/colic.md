@@ -1,5 +1,7 @@
 # colic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colic.md)
+
 <p><span class="chinese">他有严重的腹绞痛。</span><span class="english">He had an awful colic.</span></p>
 
 <p><span class="chinese">应将哭闹与疝痛相区别。</span><span class="english">Crying should be distinguished from colic.</span></p>

@@ -1,5 +1,7 @@
 # cranny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cranny.md)
+
 <p><span class="chinese">一种植物在石缝中生长起来。</span><span class="english">A plant grew in a rocky cranny.</span></p>
 
 <p><span class="chinese">她熟知开罗的每一个角落——这并非一日之功。</span><span class="english">She knows every nook and cranny in and around Cairo — no easy feat.</span></p>

@@ -1,5 +1,7 @@
 # hiccup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hiccup.md)
+
 <p><span class="chinese">他打了多长时间的嗝?。</span><span class="english">How long did he hiccup?</span></p>
 
 <p><span class="chinese">史密斯先生打嗝打了多长时间？</span><span class="english">How long ddi Mr. Smith hiccup?</span></p>

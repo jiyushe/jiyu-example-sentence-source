@@ -1,5 +1,7 @@
 # distiller
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distiller.md)
+
 <p><span class="chinese">铜质蒸馏器。</span><span class="english">Copper distiller.</span></p>
 
 <p><span class="chinese">在家里和办公室，我用的是一款型号为D-3的水蒸馏器。</span><span class="english">In my home and offices I use a water distiller called D-3.</span></p>

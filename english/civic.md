@@ -1,5 +1,7 @@
 # civic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/civic.md)
+
 <p><span class="chinese">他们的主题是“市民性的互锁”。</span><span class="english">Their title of project is "Civic Interlock".</span></p>
 
 <p><span class="chinese">公民是否该有为自己国家服兵役的义务？</span><span class="english">Is there a civic duty to serve one's country?</span></p>

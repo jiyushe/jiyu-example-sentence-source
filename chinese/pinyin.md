@@ -1,5 +1,7 @@
 # 拼音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinyin.md)
+
 <p><span class="chinese">拼音书写查缉和校对。</span><span class="english">Spell check and proofread.</span></p>
 
 <p><span class="chinese">歌词乃以耶鲁拼音标注。</span><span class="english">The lyrics are romanized by Yale.</span></p>

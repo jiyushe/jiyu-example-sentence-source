@@ -1,5 +1,7 @@
 # 衣被
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yibei_2.md)
+
 <p><span class="chinese">我的大衣被钉子钩住了。</span><span class="english">My coat caught on the nail.</span></p>
 
 <p><span class="chinese">她的大衣被钉子钩住了。</span><span class="english">Her coat caught on the nail.</span></p>

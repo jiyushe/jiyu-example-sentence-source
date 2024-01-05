@@ -1,5 +1,7 @@
 # 双料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuangliao.md)
+
 <p><span class="chinese">他喝掉了两杯双料朗姆酒。</span><span class="english">He has knocked back two double rums.</span></p>
 
 <p><span class="chinese">曼彻斯特联队两次获双料冠军。</span><span class="english">Manchester United won the double twice.</span></p>

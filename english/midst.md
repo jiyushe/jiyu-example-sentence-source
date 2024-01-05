@@ -1,5 +1,7 @@
 # midst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/midst.md)
+
 <p><span class="chinese">林中的空地中间有几间小木屋。</span><span class="english">In the midst of a glade were several huts.</span></p>
 
 <p><span class="chinese">在这个整体中，人类显得是如此的卑微。</span><span class="english">In the midst of this, man seems so trivial.</span></p>

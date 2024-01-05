@@ -1,5 +1,7 @@
 # 理念
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linian_1.md)
+
 <p><span class="chinese">NAI公司的理念是？</span><span class="english">The idea behind NAI is?</span></p>
 
 <p><span class="chinese">法律是无由的理念。</span><span class="english">Law is law, just or not.</span></p>

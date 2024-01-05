@@ -1,5 +1,7 @@
 # serrated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serrated.md)
+
 <p><span class="chinese">使用长的锯齿型刀，水平地将每块蛋糕分成两半。</span><span class="english">Using long serrated knife, halve each cake horizontally.</span></p>
 
 <p><span class="chinese">大多数面料可用小的、锯齿边的擂盘。</span><span class="english">The small serrated edge tracing wheel is used for most fabrics.</span></p>

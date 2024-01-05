@@ -1,5 +1,7 @@
 # sewing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sewing.md)
+
 <p><span class="chinese">缝衣机马达“，”</span><span class="english">Sewing Machine Motor.</span></p>
 
 <p><span class="chinese">年年社日停针线。</span><span class="english">Every day to stop sewing.</span></p>

@@ -1,5 +1,7 @@
 # manatee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manatee.md)
+
 <p><span class="chinese">尼尔共同体总部设在马纳提县。</span><span class="english">Neal Communities is based in Manatee County.</span></p>
 
 <p><span class="chinese">治疗流鼻涕的海牛油随处都可以买到。</span><span class="english">Manatee fat is widely available to aid runny noses.</span></p>

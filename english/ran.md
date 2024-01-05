@@ -1,5 +1,7 @@
 # ran
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ran.md)
+
 <p><span class="chinese">我跑了起来，被浇湿了。</span><span class="english">I ran. I got wet.</span></p>
 
 <p><span class="chinese">她往楼上跑去。</span><span class="english">She ran upstairs.</span></p>

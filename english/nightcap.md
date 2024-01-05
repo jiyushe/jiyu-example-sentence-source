@@ -1,5 +1,7 @@
 # nightcap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nightcap.md)
+
 <p><span class="chinese">你们两睡前小喝一杯了？</span><span class="english">Did you two have a nightcap?</span></p>
 
 <p><span class="chinese">记住，你的睡帽有价。</span><span class="english">Remember, your nightcap has a price.</span></p>

@@ -1,5 +1,7 @@
 # 相处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangchu.md)
+
 <p><span class="chinese">我们都相处得很好。</span><span class="english">We all get along.</span></p>
 
 <p><span class="chinese">与喇嘛相处愉快。</span><span class="english">Bill and Loden Lama.</span></p>

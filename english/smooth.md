@@ -1,5 +1,7 @@
 # smooth 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smooth.md)
+
 <p><span class="chinese">木头是光滑的。</span><span class="english">The wood is smooth.</span></p>
 
 <p><span class="chinese">泰国航空如丝般体贴。</span><span class="english">Thai smooth as silk.</span></p>

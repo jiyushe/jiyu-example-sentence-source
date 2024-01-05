@@ -1,5 +1,7 @@
 # 清朝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingchao.md)
+
 <p><span class="chinese">长安居始建于清朝中晚期！</span><span class="english">Long live built dynasty middle-late!</span></p>
 
 <p><span class="chinese">乾隆曾是清朝的皇帝。</span><span class="english">Qianlong was the emperor of Qing dynasty.</span></p>

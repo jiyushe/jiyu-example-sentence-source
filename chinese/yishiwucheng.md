@@ -1,5 +1,7 @@
 # 一事无成
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishiwucheng.md)
+
 <p><span class="chinese">不犯错误的人将一事无成。</span><span class="english">He who makes no mistakes make nothing.</span></p>
 
 <p><span class="chinese">我真是个窝囊废！一事无成！</span><span class="english">I'm such a loser! I achieved nothing !</span></p>

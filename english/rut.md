@@ -1,5 +1,7 @@
 # rut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rut.md)
+
 <p><span class="chinese">我知道有人不长进。</span><span class="english">I know people in a rut.</span></p>
 
 <p><span class="chinese">陷在跑步惯例中是很容易的。</span><span class="english">It's easy toget stuck in a running rut.</span></p>

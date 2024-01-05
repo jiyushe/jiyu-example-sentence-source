@@ -1,5 +1,7 @@
 # 暴光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baoguang.md)
+
 <p><span class="chinese">自动调焦，自动暴光，自动白平衡。</span><span class="english">Auto-focus, auto exposure, auto white balance.</span></p>
 
 <p><span class="chinese">然而，这个行为改变与暴光无关。</span><span class="english">However, this change in behavior was independent of light exposure.</span></p>

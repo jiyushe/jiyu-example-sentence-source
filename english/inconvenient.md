@@ -1,5 +1,7 @@
 # inconvenient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inconvenient.md)
+
 <p><span class="chinese">所以，这种操作方法实际上很不方便。</span><span class="english">So it’s an inconvenient method.</span></p>
 
 <p><span class="chinese">这很麻烦但是很有效。</span><span class="english">This is inconvenient but effective.</span></p>

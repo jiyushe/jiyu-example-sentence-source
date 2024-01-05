@@ -1,5 +1,7 @@
 # revelatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revelatory.md)
+
 <p><span class="chinese">但是，什么才会如写作风格一样给人启示呢？</span><span class="english">But what is just as revelatory is the style.</span></p>
 
 <p><span class="chinese">有些文字纯属陈词滥调，但置身当场却能给人以启示。</span><span class="english">Written down, these are platitudes, but the effect on the spot is revelatory.</span></p>

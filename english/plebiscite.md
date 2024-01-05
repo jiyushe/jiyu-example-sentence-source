@@ -1,5 +1,7 @@
 # plebiscite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plebiscite.md)
+
 <p><span class="chinese">那么就会举行公民投票。</span><span class="english">Then there would be a plebiscite.</span></p>
 
 <p><span class="chinese">他们希望对这两项要求进行公投。</span><span class="english">They want these two demands put to a plebiscite.</span></p>

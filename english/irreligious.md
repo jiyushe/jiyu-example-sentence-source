@@ -1,5 +1,7 @@
 # irreligious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irreligious.md)
+
 <p><span class="chinese">廉价的宗教通常是欺骗的宗教。</span><span class="english">There is nothing more irreligious than self-absorbed religion.</span></p>
 
 <p><span class="chinese">为什么有许多不道德无信仰之辈却获得成功并享有活力四射的健康？</span><span class="english">Why is it many immoral and irreligious people succeed and prosper and enjoy radiant health?</span></p>

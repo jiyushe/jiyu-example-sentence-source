@@ -1,5 +1,7 @@
 # ventromedial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ventromedial.md)
+
 <p><span class="chinese">格拉德维尔于是认为“腹内侧部位损伤患者是完全合理的。</span><span class="english">Gladwell argues that "people with damage to their ventromedial area are perfectly rational."</span></p>
 
 <p><span class="chinese">研究者发现，在女性大脑正中前额叶皮层会出现一种与感受到安全感相关的脑活动。</span><span class="english">The researchers in the ventromedial prefrontal cortex which is associated with a feeling of safety.</span></p>

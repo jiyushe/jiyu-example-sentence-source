@@ -1,5 +1,7 @@
 # proteolysis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proteolysis.md)
+
 <p><span class="chinese">在加热的条件下，猪肉蛋白质发生热变性和热降解。</span><span class="english">Proteolysis and denaturation of porcine proteins on heating were investigated.</span></p>
 
 <p><span class="chinese">这些结果与不活动时膈肌蛋白酶解增加一致。</span><span class="english">These findings are consistent with increased diaphragmatic proteolysis during inactivity.</span></p>

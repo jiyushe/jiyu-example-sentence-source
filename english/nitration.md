@@ -1,5 +1,7 @@
 # nitration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nitration.md)
+
 <p><span class="chinese">N2O5硝化是一种新型的绿色硝化技术。</span><span class="english">Nitration using N2O5 is a new clean technique.</span></p>
 
 <p><span class="chinese">对此的硝化会生成二硝基甲苯。</span><span class="english">The nitration of this may lead to dinitrotoluene.</span></p>

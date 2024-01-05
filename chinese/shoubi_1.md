@@ -1,5 +1,7 @@
 # 手臂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoubi_1.md)
+
 <p><span class="chinese">我讨厌我的粗手臂。</span><span class="english">I hate my arms.</span></p>
 
 <p><span class="chinese">你的手臂断了吗?</span><span class="english">Did you break it?</span></p>

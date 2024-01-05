@@ -1,5 +1,7 @@
 # coagulative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coagulative.md)
+
 <p><span class="chinese">凝血系统实验表明，舒娩镇痛宁不影响凝血功能。</span><span class="english">Data show it has no effect on blood coagulative system.</span></p>
 
 <p><span class="chinese">肿瘤凝固性坏死合并中心液化坏死。</span><span class="english">Tumor coagulative necrosis combining with center liquefactive necrosis.</span></p>

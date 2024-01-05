@@ -1,5 +1,7 @@
 # ensilage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ensilage.md)
+
 <p><span class="chinese">第四，没有开拓新的青贮饲料资源。</span><span class="english">Fourth, has not opened up new ensilage resources.</span></p>
 
 <p><span class="chinese">青贮玉米作为饲料，具有较高的营养价值。</span><span class="english">The ensiling corn has high nutritional value as ensilage.</span></p>

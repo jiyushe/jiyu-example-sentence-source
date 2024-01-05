@@ -1,5 +1,7 @@
 # 草包
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caobao.md)
+
 <p><span class="chinese">那个人是个草包。</span><span class="english">That man is a bungling oaf.</span></p>
 
 <p><span class="chinese">肯就是个甜美的草包美男。</span><span class="english">Ken is a sweet piece of man candy.</span></p>

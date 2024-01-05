@@ -1,5 +1,7 @@
 # apatite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apatite.md)
+
 <p><span class="chinese">涂层为缺钙磷灰石。</span><span class="english">The coatings were calcium-deficient apatite.</span></p>
 
 <p><span class="chinese">材料表面的粗化和活化都有利于类骨磷灰石的成核和生长。</span><span class="english">It is helpful for the formation of bone-like apatite.</span></p>

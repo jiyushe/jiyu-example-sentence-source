@@ -1,5 +1,7 @@
 # zither
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zither.md)
+
 <p><span class="chinese">是古筝吗？</span><span class="english">Is it zither?</span></p>
 
 <p><span class="chinese">这是一只齐特琴吗？</span><span class="english">This is Zoë's sister's zither.</span></p>

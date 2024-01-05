@@ -1,5 +1,7 @@
 # prewar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prewar.md)
+
 <p><span class="chinese">战前蓝调主要是指在二战前录制的乡村蓝调。</span><span class="english">Prewar Blues is country-blues recorded before World War II.</span></p>
 
 <p><span class="chinese">香水代表战前的坠落，魅力和美好时光。</span><span class="english">The perfume represented prewar decadence, glamour and good times in a bottle.</span></p>

@@ -1,5 +1,7 @@
 # complexity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/complexity.md)
+
 <p><span class="chinese">是很难被归类到编程问题里面的。</span><span class="english">Like algorithmic complexity.</span></p>
 
 <p><span class="chinese">它的复杂度是多少？</span><span class="english">What's the complexity of this?</span></p>

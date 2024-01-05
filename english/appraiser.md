@@ -1,5 +1,7 @@
 # appraiser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appraiser.md)
+
 <p><span class="chinese">有时，你将被允许选择自己的鉴定。</span><span class="english">Sometimes, you will be allowed to choose your own appraiser.</span></p>
 
 <p><span class="chinese">评价房地产进入非常深入的讨论发挥何种作用的估价是和如何进行评估。</span><span class="english">What the role of an appraiser is and how to conduct an appraisal.</span></p>

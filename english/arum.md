@@ -1,5 +1,7 @@
 # arum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arum.md)
+
 <p><span class="chinese">类似于天南星的欧洲海芋植物。</span><span class="english">European arum resembling the cuckoo pint.</span></p>
 
 <p><span class="chinese">魔芋是埃及的神与羊的头。</span><span class="english">Arum was an Egyptian god with a Ram's head.</span></p>

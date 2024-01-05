@@ -1,5 +1,7 @@
 # wolfberry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wolfberry.md)
+
 <p><span class="chinese">巨鹿县种植枸杞已有30多年的历史。</span><span class="english">Wolfberry plant more than 30 years of history.</span></p>
 
 <p><span class="chinese">枸杞子能补肝肾。</span><span class="english">Chinese Wolfberry nourishes the liver and kidney.</span></p>

@@ -1,5 +1,7 @@
 # chastening
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chastening.md)
+
 <p><span class="chinese">我从这个可以引以为戒的经历中学到了很多。</span><span class="english">I have learned a lot from the chastening experience.</span></p>
 
 <p><span class="chinese">主啊，祢的安慰是何等的温柔，祢的管教是何等充满爱！</span><span class="english">How tender is Your comfort, Lord. How loving Your chastening.</span></p>

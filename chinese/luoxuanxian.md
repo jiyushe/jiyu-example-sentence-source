@@ -1,5 +1,7 @@
 # 螺旋线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luoxuanxian.md)
+
 <p><span class="chinese">近似的和真实的的黄金螺旋线。</span><span class="english">Approximate and true golden spirals.</span></p>
 
 <p><span class="chinese">那是一个互相缠绕的两条螺旋线的图形。</span><span class="english">It was a graph of two intertwining spirals.</span></p>

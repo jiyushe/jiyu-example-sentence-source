@@ -1,5 +1,7 @@
 # script
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/script.md)
+
 <p><span class="chinese">这是一个静态脚本。</span><span class="english">This is a static script.</span></p>
 
 <p><span class="chinese">那剧本怎么样呢？</span><span class="english">And what about the script?</span></p>

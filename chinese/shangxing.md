@@ -1,5 +1,7 @@
 # 上行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangxing.md)
+
 <p><span class="chinese">上行,不断地上行</span><span class="english">Up. It keeps rising up.</span></p>
 
 <p><span class="chinese">大卫上行之诗。</span><span class="english">Song of Ascents. Of David.</span></p>

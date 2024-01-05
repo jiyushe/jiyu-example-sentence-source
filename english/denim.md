@@ -1,5 +1,7 @@
 # denim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/denim.md)
+
 <p><span class="chinese">丹尼斯穿了一条劳动布牛仔裤。</span><span class="english">Dennis was dressed in denim jeans.</span></p>
 
 <p><span class="chinese">现在共有八块牛仔布了。</span><span class="english">You'll now have eight pieces of denim.</span></p>

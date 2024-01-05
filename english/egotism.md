@@ -1,5 +1,7 @@
 # egotism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/egotism.md)
+
 <p><span class="chinese">自负的人是自己最好的朋友。</span><span class="english">Egotism is obesity of the head.</span></p>
 
 <p><span class="chinese">他被贪婪的私欲所左右。</span><span class="english">He was dominated by greedy egotism.</span></p>

@@ -1,5 +1,7 @@
 # 陈说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenshuo.md)
+
 <p><span class="chinese">陈说他最寂寞，董祖刚笑了。</span><span class="english">Chen said his most lonely, Dongzu just smiled.</span></p>
 
 <p><span class="chinese">“我真应该给你一拳，”老陈说。</span><span class="english">"I should punch you in the face " Mr. Chen said.</span></p>

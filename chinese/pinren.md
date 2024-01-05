@@ -1,5 +1,7 @@
 # 聘任
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinren.md)
+
 <p><span class="chinese">您得到聘任书了吗?。</span><span class="english">Have you got a job offer?</span></p>
 
 <p><span class="chinese">有聘任的仲裁员。</span><span class="english">To have appointed arbitrators.</span></p>

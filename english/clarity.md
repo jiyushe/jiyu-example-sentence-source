@@ -1,5 +1,7 @@
 # clarity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clarity.md)
+
 <p><span class="chinese">这种明澈就是力量。</span><span class="english">This clarity is strength.</span></p>
 
 <p><span class="chinese">你有澄澈的光。</span><span class="english">You have clarity of light.</span></p>

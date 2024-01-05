@@ -1,5 +1,7 @@
 # dial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dial.md)
+
 <p><span class="chinese">金拨号盘。</span><span class="english">Gold dial.</span></p>
 
 <p><span class="chinese">只要加拨0就可以了。</span><span class="english">Just dial zero.</span></p>

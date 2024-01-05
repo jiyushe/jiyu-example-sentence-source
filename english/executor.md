@@ -1,5 +1,7 @@
 # executor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/executor.md)
+
 <p><span class="chinese">遗言执行人把这段大声朗诵了进去。</span><span class="english">The executor relisting it out loud.</span></p>
 
 <p><span class="chinese">诺曼告诉我伯尼是他遗嘱的执行人。</span><span class="english">“Norman told me that Bernie was the executor of his will, ” said Carmen.</span></p>

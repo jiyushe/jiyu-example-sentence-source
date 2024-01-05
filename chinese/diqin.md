@@ -1,5 +1,7 @@
 # 地勤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diqin.md)
+
 <p><span class="chinese">他跟另一个地勤人员进行了例行的无限电联络。</span><span class="english">He routinely radioed another agent on the ground.</span></p>
 
 <p><span class="chinese">艾凡打了一通电话到荷航。一位地勤人员接听。</span><span class="english">Evan places a call to KLM. An agent answers the call.</span></p>

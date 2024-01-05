@@ -1,5 +1,7 @@
 # 熊猫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongmao.md)
+
 <p><span class="chinese">特洛伊熊猫？</span><span class="english">Trojan panda?</span></p>
 
 <p><span class="chinese">咱们看看熊猫吧。</span><span class="english">Let's see pandas.</span></p>

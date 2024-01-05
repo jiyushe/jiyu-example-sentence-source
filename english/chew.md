@@ -1,5 +1,7 @@
 # chew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chew.md)
+
 <p><span class="chinese">老鼠开始咀嚼。</span><span class="english">Mouse starts to chew.</span></p>
 
 <p><span class="chinese">对，嚼嚼咽下去。</span><span class="english">Yes, chew and swallow.</span></p>

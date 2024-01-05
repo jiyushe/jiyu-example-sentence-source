@@ -1,5 +1,7 @@
 # angular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/angular.md)
+
 <p><span class="chinese">有了旋转的角动量。</span><span class="english">It has spin angular momentum.</span></p>
 
 <p><span class="chinese">这是角频率。</span><span class="english">That is the angular frequency.</span></p>

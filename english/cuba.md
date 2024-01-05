@@ -1,5 +1,7 @@
 # cuba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cuba.md)
+
 <p><span class="chinese">你有看到库巴吗？</span><span class="english">Have you seen Cuba?</span></p>
 
 <p><span class="chinese">尤伯罗斯他去了古巴。</span><span class="english">Ueberroth went to Cuba.</span></p>

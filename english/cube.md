@@ -1,5 +1,7 @@
 # cube
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cube.md)
+
 <p><span class="chinese">买一个魔方。</span><span class="english">Buy a Rubix Cube.</span></p>
 
 <p><span class="chinese">立方体有六面。</span><span class="english">A cube has six sides.</span></p>

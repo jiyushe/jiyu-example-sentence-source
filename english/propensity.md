@@ -1,5 +1,7 @@
 # propensity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/propensity.md)
+
 <p><span class="chinese">网上交友者是否倾向于撒谎？</span><span class="english">Do online daters have a propensity to lie?</span></p>
 
 <p><span class="chinese">这个斜率就是边际消费倾向。</span><span class="english">That slope is the marginal propensity to consume.</span></p>

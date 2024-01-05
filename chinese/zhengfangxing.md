@@ -1,5 +1,7 @@
 # 正方形
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengfangxing.md)
+
 <p><span class="chinese">这块手绢是正方形的。</span><span class="english">This hankerchief is square.</span></p>
 
 <p><span class="chinese">正方形是四边形的一种。</span><span class="english">A square is a quadrilateral.</span></p>

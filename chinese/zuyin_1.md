@@ -1,5 +1,7 @@
 # 足音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuyin_1.md)
+
 <p><span class="chinese">地板上不再有足音回荡。</span><span class="english">No footfalls echo on the floor.</span></p>
 
 <p><span class="chinese">日昼夜夜他们的足音在我门前震荡。</span><span class="english">Night and day their steps sound by my door.</span></p>

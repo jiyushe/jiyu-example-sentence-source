@@ -1,5 +1,7 @@
 # hydrobromide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrobromide.md)
+
 <p><span class="chinese">目的研究氢溴酸右美沙芬在健康志愿者体内的血药浓度。</span><span class="english">Objective To study the concentration of dextromethorphan hydrobromide in human plasma.</span></p>
 
 <p><span class="chinese">目的建立痛风口服液中槟榔碱的含量测定方法。</span><span class="english">ObjectiveSet up the method to detect the content of Arecoline hydrobromide in Tongfeng oral liquid.</span></p>

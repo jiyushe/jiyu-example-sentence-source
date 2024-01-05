@@ -1,5 +1,7 @@
 # widget
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/widget.md)
+
 <p><span class="chinese">那么，怎样定义小部件测试呢？</span><span class="english">So, how do you define widget tests?</span></p>
 
 <p><span class="chinese">从数据库读取一个小部件记录。</span><span class="english">Read one widget record from the database.</span></p>

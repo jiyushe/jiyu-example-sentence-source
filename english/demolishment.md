@@ -1,5 +1,7 @@
 # demolishment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demolishment.md)
+
 <p><span class="chinese">2006年，天星码头的迁拆更强化了这类行动。</span><span class="english">The demolishment of the Star Ferry Pier in 2006 intensified such movements.</span></p>
 
 <p><span class="chinese">任何一个骨架系统的破坏均可引起细胞粘弹性系数的显著降低。</span><span class="english">The demolishment of any skeleton system will induce to obvious reduce of coefficient of viscoelasticity.</span></p>

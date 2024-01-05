@@ -1,5 +1,7 @@
 # sharp 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sharp.md)
+
 <p><span class="chinese">你看起来真帅。</span><span class="english">You look sharp.</span></p>
 
 <p><span class="chinese">我需要一支尖的铅笔。</span><span class="english">I need a sharp pencil.</span></p>

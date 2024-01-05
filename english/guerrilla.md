@@ -1,5 +1,7 @@
 # guerrilla
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guerrilla.md)
+
 <p><span class="chinese">游击战争是什么呢？</span><span class="english">What is guerrilla warfare?</span></p>
 
 <p><span class="chinese">这就像打游击战。</span><span class="english">It is just like guerrilla warfare.</span></p>

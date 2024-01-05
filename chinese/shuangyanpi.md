@@ -1,5 +1,7 @@
 # 双眼皮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuangyanpi.md)
+
 <p><span class="chinese">割双眼皮和倒睫的区别?。</span><span class="english">Cut double-fold eyelid medicable trichiasis.</span></p>
 
 <p><span class="chinese">像割双眼皮，年纪大了眼皮会耷下来的！</span><span class="english">Like a double-fold eyelids, with big eyes will be Da down!</span></p>

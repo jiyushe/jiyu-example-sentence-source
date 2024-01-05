@@ -1,5 +1,7 @@
 # 受贿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouhui_1.md)
+
 <p><span class="chinese">他被指控受贿。</span><span class="english">He was charged with bribery.</span></p>
 
 <p><span class="chinese">他因受贿受到惩办。</span><span class="english">He was punished for taking bribes.</span></p>

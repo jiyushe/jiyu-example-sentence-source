@@ -1,5 +1,7 @@
 # ladies
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ladies.md)
+
 <p><span class="chinese">女士优先。</span><span class="english">Ladies first.</span></p>
 
 <p><span class="chinese">他是个很有女人缘的人。</span><span class="english">Red is a ladies man.</span></p>

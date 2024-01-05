@@ -1,5 +1,7 @@
 # hellenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hellenic.md)
+
 <p><span class="chinese">衷心感谢希腊共和国和她热情的团队。</span><span class="english">Heartfelt thanks to the Hellenic Republic and She enthusiastic team.</span></p>
 
 <p><span class="chinese">它反映了，但没有超越文化价值的希腊文明。</span><span class="english">It reflected but did not transcend the cultural values of hellenic civilization.</span></p>

@@ -1,5 +1,7 @@
 # 赞许
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zanxu.md)
+
 <p><span class="chinese">格蕾丝赞许地看着他。</span><span class="english">Grace watches him with approval.</span></p>
 
 <p><span class="chinese">克丽丝汀赞许地环视一下房间。</span><span class="english">Christine surveyed the room approvingly.</span></p>

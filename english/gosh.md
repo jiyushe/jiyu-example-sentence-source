@@ -1,5 +1,7 @@
 # gosh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gosh.md)
+
 <p><span class="chinese">天啊蛋蛋！</span><span class="english">Gosh gooly gee.</span></p>
 
 <p><span class="chinese">哦，天啊，好吧，</span><span class="english">Oh, my gosh. Alright, so</span></p>

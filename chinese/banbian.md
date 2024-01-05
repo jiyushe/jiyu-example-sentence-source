@@ -1,5 +1,7 @@
 # 半边
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banbian.md)
+
 <p><span class="chinese">他用手捂着因牙痛而肿胀的半边脸。</span><span class="english">He cupped his cheek swelled by toothache.</span></p>
 
 <p><span class="chinese">牙痛使他的半边脸肿了起来。</span><span class="english">The toothache puffed out one side of his face.</span></p>

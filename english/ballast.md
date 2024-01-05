@@ -1,5 +1,7 @@
 # ballast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ballast.md)
+
 <p><span class="chinese">压力镇流器。</span><span class="english">Pression ballast.</span></p>
 
 <p><span class="chinese">排出压载水。</span><span class="english">Pump out ballast water.</span></p>

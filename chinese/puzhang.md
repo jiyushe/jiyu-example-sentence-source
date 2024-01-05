@@ -1,5 +1,7 @@
 # 铺张
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/puzhang.md)
+
 <p><span class="chinese">他们的生活也并不奢靡铺张。</span><span class="english">They don’t live an elaborate lifestyle.</span></p>
 
 <p><span class="chinese">他们的生活也并不奢靡铺张。</span><span class="english">Mubarak. They don't live an elaborate lifestyle.</span></p>

@@ -1,5 +1,7 @@
 # 马扎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mazha_1.md)
+
 <p><span class="chinese">这个故事叫做“乞力马扎罗雪。”</span><span class="english">The story is called "The Snows of Kilimanjaro."</span></p>
 
 <p><span class="chinese">精品茶叶，特色工艺马扎，风筝，高档化妆品等。</span><span class="english">Tea boutique, special technology camp, kite, high-end cosmetics etc.</span></p>

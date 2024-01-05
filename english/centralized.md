@@ -1,5 +1,7 @@
 # centralized
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centralized.md)
+
 <p><span class="chinese">控制模型是集中式的。</span><span class="english">The governance model is centralized.</span></p>
 
 <p><span class="chinese">具有集中的日志记录和安全性。</span><span class="english">To have centralized logging and security.</span></p>

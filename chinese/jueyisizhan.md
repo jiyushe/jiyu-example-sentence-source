@@ -1,5 +1,7 @@
 # 决一死战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jueyisizhan.md)
+
 <p><span class="chinese">两位绅士誓要决一死战。</span><span class="english">Two gentlemen swore to fight to the death.</span></p>
 
 <p><span class="chinese">自由存在于每一次争斗中，让我们决一死战。</span><span class="english">Liberty is in every blow! Let us do or die. ----- Robbert Burns, British poet.</span></p>

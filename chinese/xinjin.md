@@ -1,5 +1,7 @@
 # 新近
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinjin.md)
+
 <p><span class="chinese">我新近给你送上了一束玫瑰花。</span><span class="english">I sent thee late a rosy wreath.</span></p>
 
 <p><span class="chinese">该管弦乐队将演奏她新近推出的那首交响曲。</span><span class="english">The orchestra will debut her new symphony.</span></p>

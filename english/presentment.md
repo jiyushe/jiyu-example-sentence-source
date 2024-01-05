@@ -1,5 +1,7 @@
 # presentment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/presentment.md)
+
 <p><span class="chinese">未补记前不得背书转让和提示付款。</span><span class="english">No endorsement or presentment for payment shall be allowed before such retroactive entry.</span></p>
 
 <p><span class="chinese">在其他情况下，并非必须作承兑提示始可使任何当事人履行汇票之责任。</span><span class="english">In NO other case is presentment for acceptance necessary in order to render liable any party to the bill.</span></p>

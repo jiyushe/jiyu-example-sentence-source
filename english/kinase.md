@@ -1,5 +1,7 @@
 # kinase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kinase.md)
+
 <p><span class="chinese">胸苷激酶基因被发现在单纯疱疹病毒。</span><span class="english">Thymidine kinase gene is found in herpes simplex virus.</span></p>
 
 <p><span class="chinese">血清肌酸激酶轻度升高。</span><span class="english">The level of serum creatine kinase was slightly elevated.</span></p>

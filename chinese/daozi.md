@@ -1,5 +1,7 @@
 # 刀子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daozi.md)
+
 <p><span class="chinese">我要你的刀子。</span><span class="english">I want your knife.</span></p>
 
 <p><span class="chinese">她言语尖刻，有一张刀子般的嘴。</span><span class="english">She had an acerbic tongue.</span></p>

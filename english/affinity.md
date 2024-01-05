@@ -1,5 +1,7 @@
 # affinity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affinity.md)
+
 <p><span class="chinese">是处理器亲和性掩码。</span><span class="english">This is the processor affinity mask.</span></p>
 
 <p><span class="chinese">这物质和水有亲和力。</span><span class="english">This substance has an affinity for water.</span></p>

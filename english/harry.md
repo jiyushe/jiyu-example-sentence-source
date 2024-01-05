@@ -1,5 +1,7 @@
 # harry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harry.md)
+
 <p><span class="chinese">做“哈利·波特”有时还真是件麻烦事。</span><span class="english">being Harry Potter.</span></p>
 
 <p><span class="chinese">别闹了，哈利。</span><span class="english">Don't be silly, Harry.</span></p>

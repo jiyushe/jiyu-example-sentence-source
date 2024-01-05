@@ -1,5 +1,7 @@
 # conus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conus.md)
+
 <p><span class="chinese">在一个案例中一个短暂的圆锥髓病变遇到。</span><span class="english">In one case a transient conus medullaris lesion was encountered.</span></p>
 
 <p><span class="chinese">目的动脉圆锥的动脉解剖学观察。</span><span class="english">Objective Observation on arterial distribution of conus arteriosus.</span></p>

@@ -1,5 +1,7 @@
 # 编撰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianzhuan.md)
+
 <p><span class="chinese">突破了传统英汉双解词典的编撰思路和模式。</span><span class="english">It has breaked the mould of traditional dictionary.</span></p>
 
 <p><span class="chinese">她表示已有计划为该系列编撰一本百科全书。</span><span class="english">She has said she plans an encyclopedia on the series.</span></p>

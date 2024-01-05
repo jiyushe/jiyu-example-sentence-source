@@ -1,5 +1,7 @@
 # colon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colon.md)
+
 <p><span class="chinese">什么是清肠呢？</span><span class="english">What is colon cleansing anyway?</span></p>
 
 <p><span class="chinese">你最好还是相信这点吧，”科隆这样回答。</span><span class="english">You better believe it," Colón said.</span></p>

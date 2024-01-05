@@ -1,5 +1,7 @@
 # 其间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qijian.md)
+
 <p><span class="chinese">其间便有我居住的地方。</span><span class="english">Of where I would reside!</span></p>
 
 <p><span class="chinese">云朵飘过其间。</span><span class="english">Where the clouds float thro.</span></p>

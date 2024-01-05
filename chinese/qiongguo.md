@@ -1,5 +1,7 @@
 # 穷国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiongguo.md)
+
 <p><span class="chinese">你怎能说中国也是个穷国？</span><span class="english">Then how can you say China is also a poor country?</span></p>
 
 <p><span class="chinese">末日论者有另外一些理由特别担心穷国。</span><span class="english">Doomsters have other reasons to worry, especially about the poor.</span></p>

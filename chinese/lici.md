@@ -1,5 +1,7 @@
 # 历次
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lici.md)
+
 <p><span class="chinese">她积极参加历次比赛。</span><span class="english">She has taken an active part in all past contests.</span></p>
 
 <p><span class="chinese">在广交会上，历次获得中国名优产品殊荣。</span><span class="english">In the Canton Fair, the previous winning BrandName China.</span></p>

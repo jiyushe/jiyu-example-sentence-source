@@ -1,5 +1,7 @@
 # ceres
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ceres.md)
+
 <p><span class="chinese">离开克瑞斯和巴克斯，维纳斯便心灰意冷。</span><span class="english">Without Ceres and Bacchus, Venus grows cold.</span></p>
 
 <p><span class="chinese">谷神星和灶神星都将成为吸引人的课题。</span><span class="english">Ceres and Vesta will make for interesting subjects.</span></p>

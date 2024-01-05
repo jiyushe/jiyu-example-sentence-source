@@ -1,5 +1,7 @@
 # 草本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caoben.md)
+
 <p><span class="chinese">Mucuna是一种草本类蔬菜。</span><span class="english">Mucuna is a herbaceous vegetable.</span></p>
 
 <p><span class="chinese">小蜜蜂欧芹草本抗痘露。</span><span class="english">Burt's Bees Parsley Blemish Stick.</span></p>

@@ -1,5 +1,7 @@
 # helene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/helene.md)
+
 <p><span class="chinese">恩斯特和林蕙离婚，在1936年。</span><span class="english">Ernst and Helene divorced in 1936.</span></p>
 
 <p><span class="chinese">韩熊娇子和高宇辰同学是我们今年两位闪亮的明星！</span><span class="english">Helene and Lucian are our bright stars this year!</span></p>

@@ -1,5 +1,7 @@
 # 置之不理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizhibuli.md)
+
 <p><span class="chinese">她对他的烦恼置之不理。</span><span class="english">Worry had greyed her hair.</span></p>
 
 <p><span class="chinese">她对他的苦恼置之不理。</span><span class="english">She waved his worries aside.</span></p>

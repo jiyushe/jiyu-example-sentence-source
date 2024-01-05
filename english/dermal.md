@@ -1,5 +1,7 @@
 # dermal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dermal.md)
+
 <p><span class="chinese">皮纹透露哪些天资密码？</span><span class="english">What are talent codes revealed by dermal ridges?</span></p>
 
 <p><span class="chinese">真皮淋巴管与血管丛密切相关。</span><span class="english">Associated with the vascular plexus are the dermal lymphatics.</span></p>

@@ -1,5 +1,7 @@
 # 定型
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingxing.md)
+
 <p><span class="chinese">他的性格已定型。</span><span class="english">His character is set.</span></p>
 
 <p><span class="chinese">我很少用头发定型剂。</span><span class="english">I seldom use hair conditioners.</span></p>

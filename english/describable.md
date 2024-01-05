@@ -1,5 +1,7 @@
 # describable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/describable.md)
+
 <p><span class="chinese">大多数组织都已形成了独特和可以言表的文化。</span><span class="english">Most organizations have developed unique and describable cultures.</span></p>
 
 <p><span class="chinese">方法采用特殊设计的数据结构和算法流程。</span><span class="english">Conclusion This describable algorithm is flexible, adaptable and accommodating.</span></p>

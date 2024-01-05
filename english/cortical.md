@@ -1,5 +1,7 @@
 # cortical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cortical.md)
+
 <p><span class="chinese">肾脏皮质内可见皮质迷路和髓放线。</span><span class="english">In cortex, cortical labyrinths and medullary rays exist.</span></p>
 
 <p><span class="chinese">根以皮层木栓化，代替表皮。</span><span class="english">The cortical corkification of the root replace epidermis.</span></p>

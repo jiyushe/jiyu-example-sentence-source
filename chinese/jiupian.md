@@ -1,5 +1,7 @@
 # 纠偏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiupian.md)
+
 <p><span class="chinese">可以不停机直接在触摸屏上调整封切位置，纠偏等。</span><span class="english">On-line adjustment of cutting positing and film deviation.</span></p>
 
 <p><span class="chinese">能实现自动检测、自动纠偏、自动计米数。</span><span class="english">Automatic detection, rectification metering can be realized.</span></p>

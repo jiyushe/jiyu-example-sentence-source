@@ -1,5 +1,7 @@
 # transcode
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transcode.md)
+
 <p><span class="chinese">您可以使用它来播放视频、转换视频代码和播放流格式视频。</span><span class="english">You can use it to play video, transcode video, and serve streaming video.</span></p>
 
 <p><span class="chinese">这一解决方案给我们带来了一些解决转码规模化问题的时间。</span><span class="english">This solution bought us some time to figure out the transcode scaling issue.</span></p>

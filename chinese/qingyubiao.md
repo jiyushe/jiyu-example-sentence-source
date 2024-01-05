@@ -1,5 +1,7 @@
 # 晴雨表
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingyubiao.md)
+
 <p><span class="chinese">经济就是晴雨表。</span><span class="english">The barometer is economic.</span></p>
 
 <p><span class="chinese">金钱是衡量一个社会的美德的晴雨表。</span><span class="english">Money is the barometer of a society's virtue.</span></p>

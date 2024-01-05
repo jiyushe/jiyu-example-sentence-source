@@ -1,5 +1,7 @@
 # perversely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perversely.md)
+
 <p><span class="chinese">总统似乎是断然地失去了联系。</span><span class="english">The president seems almost perversely out of touch.</span></p>
 
 <p><span class="chinese">要救你脱离恶道，脱离说乖谬话的人。</span><span class="english">It will save you from the way of evil, from those who speak perversely.</span></p>

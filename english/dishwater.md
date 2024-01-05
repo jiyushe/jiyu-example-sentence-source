@@ -1,5 +1,7 @@
 # dishwater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dishwater.md)
+
 <p><span class="chinese">这就像洗碟水一样，一点味道也没有。</span><span class="english">No taste at all, it is just like dishwater.</span></p>
 
 <p><span class="chinese">全国上下盼了一整年，你难道就给他们喝洗碗水。</span><span class="english">Those people wait all year and you want to give them this dishwater.</span></p>

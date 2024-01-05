@@ -1,5 +1,7 @@
 # canny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canny.md)
+
 <p><span class="chinese">这个方法被用来坎尼王景荣谋杀。</span><span class="english">This method was used in Canny Ong murder.</span></p>
 
 <p><span class="chinese">这是一项精明的策略，而且运行良好。</span><span class="english">It is a canny strategy and has worked well.</span></p>

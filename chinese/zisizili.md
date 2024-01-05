@@ -1,5 +1,7 @@
 # 自私自利
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zisizili.md)
+
 <p><span class="chinese">好一个没有心肝、自私自利的小丫头！</span><span class="english">Unfeeling, selfish girl!</span></p>
 
 <p><span class="chinese">思想前瞻还是自私自利？</span><span class="english">Forward-thinking or self-absorbed?</span></p>

@@ -1,5 +1,7 @@
 # centering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centering.md)
+
 <p><span class="chinese">计算法轴系校中。</span><span class="english">Centering of shafting by calculation method.</span></p>
 
 <p><span class="chinese">因为专业一切更定心！</span><span class="english">Because professional more centering everything!</span></p>

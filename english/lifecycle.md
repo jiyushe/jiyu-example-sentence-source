@@ -1,5 +1,7 @@
 # lifecycle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lifecycle.md)
+
 <p><span class="chinese">与其他生命周期工具的互操作</span><span class="english">Interoperation with other lifecycle tools</span></p>
 
 <p><span class="chinese">这些服务的生命周期是什么样的呢？</span><span class="english">What about the lifecycle of these services?</span></p>

@@ -1,5 +1,7 @@
 # senescence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/senescence.md)
+
 <p><span class="chinese">她耳聋眼花，处于老年期。</span><span class="english">She is deaf and blind, in senescence phase.</span></p>
 
 <p><span class="chinese">这说明进化影响或决定着衰老。</span><span class="english">This suggests evolution affects or determines senescence.</span></p>

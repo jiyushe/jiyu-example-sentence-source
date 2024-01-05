@@ -1,5 +1,7 @@
 # gaseous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gaseous.md)
+
 <p><span class="chinese">石油气及其他烃类气。</span><span class="english">Petroleum gases and other gaseous hydrocarbons.</span></p>
 
 <p><span class="chinese">熏蒸剂是以气体形式作用的农药。</span><span class="english">Fumigants are pesticides acting in gaseous phase.</span></p>

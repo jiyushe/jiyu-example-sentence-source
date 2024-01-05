@@ -1,5 +1,7 @@
 # hebrews
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hebrews.md)
+
 <p><span class="chinese">他们是希伯来人吗？</span><span class="english">Are they Hebrews? So am I. Are they Israelites?</span></p>
 
 <p><span class="chinese">有些希伯来人过了约旦河，逃到迦得和基列地。</span><span class="english">Some Hebrews even crossed the Jordan to the land of Gad and Gilead.</span></p>

@@ -1,5 +1,7 @@
 # penthouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/penthouse.md)
+
 <p><span class="chinese">警卫看见了你和兰缇一起，上到顶楼。</span><span class="english">The guards saw you with Lentil. Up at the penthouse.</span></p>
 
 <p><span class="chinese">我的好运气可能永远不会是高档轿车或顶层豪华公寓。</span><span class="english">My fortune may never be fancy cars or a penthouse apartment.</span></p>

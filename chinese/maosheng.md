@@ -1,5 +1,7 @@
 # 茂盛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maosheng.md)
+
 <p><span class="chinese">我躺在茂盛的青草上。</span><span class="english">Couch'd in the leeming grass.</span></p>
 
 <p><span class="chinese">没有水植物就不会长得茂盛。</span><span class="english">Plants will not flourish without water.</span></p>

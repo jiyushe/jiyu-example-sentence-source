@@ -1,5 +1,7 @@
 # 病虫害
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingchonghai.md)
+
 <p><span class="chinese">无病虫害，整齐度好，上花率高。</span><span class="english">No pests, uniformity is good, spend rate.</span></p>
 
 <p><span class="chinese">农作物经常遭受病虫害。</span><span class="english">The crops suffered from frequent blights.</span></p>

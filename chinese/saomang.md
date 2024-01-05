@@ -1,5 +1,7 @@
 # 扫盲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saomang.md)
+
 <p><span class="chinese">我们还有扫盲问题。</span><span class="english">We still have a literacy problem.</span></p>
 
 <p><span class="chinese">成年人扫盲是个难题。</span><span class="english">Adult literacy is a global problem.</span></p>

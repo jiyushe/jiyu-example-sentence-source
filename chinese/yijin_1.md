@@ -1,5 +1,7 @@
 # 衣襟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yijin_1.md)
+
 <p><span class="chinese">您在地球的衣襟上。</span><span class="english">You are on the coving of the earth.</span></p>
 
 <p><span class="chinese">摆弄著衣襟，你好像在笑。</span><span class="english">Toying with a skirt, you seem to laugh.</span></p>

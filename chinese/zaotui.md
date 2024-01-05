@@ -1,5 +1,7 @@
 # 早退
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaotui.md)
+
 <p><span class="chinese">迟到早退是不行的。</span><span class="english">No coming late or going home early!</span></p>
 
 <p><span class="chinese">他们把这个会推早退周四。</span><span class="english">They put off the meeting until Thursday.</span></p>

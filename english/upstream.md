@@ -1,5 +1,7 @@
 # upstream
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upstream.md)
+
 <p><span class="chinese">产业链上游能够产生巨大的利润。</span><span class="english">Big profits happen upstream.</span></p>
 
 <p><span class="chinese">他向上游游去。</span><span class="english">He swam quartering upstream.</span></p>

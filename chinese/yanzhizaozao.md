@@ -1,5 +1,7 @@
 # 言之凿凿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanzhizaozao.md)
+
 <p><span class="chinese">但在思考了这些以后，我确实可以言之凿凿地肯定我现在不会选择购买一幅海报了。</span><span class="english">But having thought about all this, I do know I'm sure as hell not buying one now.</span></p>
 
 <p><span class="chinese">即使还没有言之凿凿的证据，英国和美国已经试图说是阿萨德干的了。</span><span class="english">The British and America are already trying to say Assad did this even though the evidence is not set in stone.</span></p>

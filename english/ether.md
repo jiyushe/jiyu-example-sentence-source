@@ -1,5 +1,7 @@
 # ether
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ether.md)
+
 <p><span class="chinese">乙醚和氯仿的军事用途</span><span class="english">Military Use of Ether and Chloroform</span></p>
 
 <p><span class="chinese">这个显现会与最后一个元素-乙太元素一起到来。</span><span class="english">That comes with the last tattva- the ether.</span></p>

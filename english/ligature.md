@@ -1,5 +1,7 @@
 # ligature
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ligature.md)
+
 <p><span class="chinese">用一个金属圈固定在适当位置。</span><span class="english">Secured in position by a metal ligature.</span></p>
 
 <p><span class="chinese">护士将伤口包上绷带。</span><span class="english">The nurse applied a ligature to the wound.</span></p>

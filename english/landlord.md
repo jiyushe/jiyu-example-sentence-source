@@ -1,5 +1,7 @@
 # landlord
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/landlord.md)
+
 <p><span class="chinese">看！我曾经可是大地主哟！</span><span class="english">Look! I am a landlord !</span></p>
 
 <p><span class="chinese">地主的儿子是贱货！</span><span class="english">Landlord is the son of bitch!</span></p>

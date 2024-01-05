@@ -1,5 +1,7 @@
 # 开间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaijian_1.md)
+
 <p><span class="chinese">我不用再大开间办公室里工作了。</span><span class="english">I don't work in the open-plan office anymore.</span></p>
 
 <p><span class="chinese">嘿，我们开间房，小子如果你决定了我们可以去亲热亲热。</span><span class="english">Hey, let's get a room, shawty we can freak somethin' if you down.</span></p>

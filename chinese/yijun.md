@@ -1,5 +1,7 @@
 # 义军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yijun.md)
+
 <p><span class="chinese">义军被击溃，回波基地沦陷。</span><span class="english">The Rebels were routed and Echo Base was overrun.</span></p>
 
 <p><span class="chinese">“拯救义军。拯救梦想。”——索·格雷拉。</span><span class="english">"Save the Rebellion. Save the dream. " – Saw Gerrera.</span></p>

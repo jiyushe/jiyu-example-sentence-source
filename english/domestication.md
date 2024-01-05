@@ -1,5 +1,7 @@
 # domestication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/domestication.md)
+
 <p><span class="chinese">实际上这源于一个经典威尼斯菜谱。</span><span class="english">It is actually a domestication of a classic Venetian recipe.</span></p>
 
 <p><span class="chinese">我们如何开始,驯化意志型的？</span><span class="english">How can we begin Glaucon? the domestication of the spirited Glaucon?</span></p>

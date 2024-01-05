@@ -1,5 +1,7 @@
 # enclave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enclave.md)
+
 <p><span class="chinese">伦敦也可能变成欧洲的中国飞地。</span><span class="english">London might become a Chinese enclave in Europe.</span></p>
 
 <p><span class="chinese">在饱经战争磨难的欧洲，瑞士是和平的世外桃源。</span><span class="english">Switzerland was an enclave of peace in war-torn Europe.</span></p>

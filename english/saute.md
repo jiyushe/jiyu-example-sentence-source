@@ -1,5 +1,7 @@
 # saute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saute.md)
+
 <p><span class="chinese">炒一盘菜的意思是?。</span><span class="english">To saute a dish, means to?</span></p>
 
 <p><span class="chinese">把虾在黄油里嫩煎。</span><span class="english">Saute the shrimp in butter.</span></p>

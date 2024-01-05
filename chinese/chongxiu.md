@@ -1,5 +1,7 @@
 # 重修
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongxiu.md)
+
 <p><span class="chinese">我们必须把屋顶重修一下。</span><span class="english">We must have the roof redone.</span></p>
 
 <p><span class="chinese">但是，将来我们可以重修新办公室。</span><span class="english">We can rebuild the office later.</span></p>

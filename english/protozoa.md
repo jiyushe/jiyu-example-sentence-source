@@ -1,5 +1,7 @@
 # protozoa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/protozoa.md)
+
 <p><span class="chinese">某些细菌，原虫都可能诱导干扰素形成。</span><span class="english">IFN may also be induced by some bacteria, protozoa.</span></p>
 
 <p><span class="chinese">牛球虫病是牛的重要寄生性原虫病之一。</span><span class="english">Bovine coccidiosis is one of important protozoa diseases.</span></p>

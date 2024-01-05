@@ -1,5 +1,7 @@
 # 色调
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sediao.md)
+
 <p><span class="chinese">这个和紫色色调又什么关系么？</span><span class="english">And what of the violet hue?</span></p>
 
 <p><span class="chinese">没有这些宝石色调的靴子。</span><span class="english">Not these jewel-toned boots.</span></p>

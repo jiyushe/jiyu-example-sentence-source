@@ -1,5 +1,7 @@
 # siva
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/siva.md)
+
 <p><span class="chinese">印度教中湿婆的生殖器的象征。</span><span class="english">The hindu phallic symbol of siva.</span></p>
 
 <p><span class="chinese">他看上去像活生生的湿婆。</span><span class="english">He looked the living image of siva.</span></p>

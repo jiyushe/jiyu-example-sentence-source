@@ -1,5 +1,7 @@
 # 邮电
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youdian_2.md)
+
 <p><span class="chinese">早期的重庆邮电学院中国顶级电子人才发源地。</span><span class="english">Early CUPT the birthplace of China's tope-people.</span></p>
 
 <p><span class="chinese">这城市能提供良好的邮电通信服务吗？</span><span class="english">Can the city provide good postal and telecommunication services?</span></p>

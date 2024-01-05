@@ -1,5 +1,7 @@
 # risen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/risen.md)
+
 <p><span class="chinese">面发起来了。</span><span class="english">The dough has risen.</span></p>
 
 <p><span class="chinese">米价已经上涨了。</span><span class="english">The rice price has risen.</span></p>

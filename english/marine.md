@@ -1,5 +1,7 @@
 # marine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marine.md)
+
 <p><span class="chinese">她丈夫是一名美国水师陆战队士兵。</span><span class="english">Her husband is a U. S. marine.</span></p>
 
 <p><span class="chinese">征来的兵也配叫陆战队吗?。</span><span class="english">What kind of marine is drafted?</span></p>

@@ -1,5 +1,7 @@
 # 宝贝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baobei.md)
+
 <p><span class="chinese">再见，宝贝。</span><span class="english">Ciao, baby.</span></p>
 
 <p><span class="chinese">是啊，宝贝。</span><span class="english">Yeah, baby.</span></p>

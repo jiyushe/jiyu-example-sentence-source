@@ -1,5 +1,7 @@
 # 天年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiannian.md)
+
 <p><span class="chinese">我就盼死神来了结我的天年。</span><span class="english">Then look I death my days should expiate.</span></p>
 
 <p><span class="chinese">这就是为什么富人们要到这里颐养天年，他们的到来为尼斯增色。</span><span class="english">That's why so many rich people have ended up here.</span></p>

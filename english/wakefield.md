@@ -1,5 +1,7 @@
 # wakefield
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wakefield.md)
+
 <p><span class="chinese">托尔金·韦克菲尔德说妇女们已经将此项目持续了18个月。</span><span class="english">Torkin Wakefield says the women spend up to 18 months in the program.</span></p>
 
 <p><span class="chinese">此时此刻，她知道他们在哪了——奥马哈印第安人居留地，威克费尔德东南大约50英里处。</span><span class="english">Now she knew where they were — on the Omaha Indian reservation, about 50 miles southeast of Wakefield.</span></p>

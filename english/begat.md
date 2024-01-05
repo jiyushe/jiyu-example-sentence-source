@@ -1,5 +1,7 @@
 # begat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/begat.md)
+
 <p><span class="chinese">法勒活到三十岁，生了拉吴。</span><span class="english">And Peleg lived thirty years, and begat Reu</span></p>
 
 <p><span class="chinese">俄备得生耶西，耶西生大卫。</span><span class="english">And Obed begat Jesse, and Jesse begat David.</span></p>

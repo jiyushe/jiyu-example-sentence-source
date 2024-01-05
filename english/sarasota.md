@@ -1,5 +1,7 @@
 # sarasota
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sarasota.md)
+
 <p><span class="chinese">他们在萨拉索塔有个基地。</span><span class="english">They got a base in Sarasota , I think.</span></p>
 
 <p><span class="chinese">当时的他不过二十出头，是萨拉索塔的新佛罗里达学院的大二学生。</span><span class="english">Brenner was a sophomore at New College of Florida in Sarasota.</span></p>

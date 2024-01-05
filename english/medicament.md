@@ -1,5 +1,7 @@
 # medicament
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/medicament.md)
+
 <p><span class="chinese">我们愿意提供新技术和配套药剂。</span><span class="english">We would like to provide the new technique and relevant medicament.</span></p>
 
 <p><span class="chinese">对皮质激素类药物及咪唑类药物过敏者禁用。</span><span class="english">Those allergic to corticoid and imidazole medicament are forbidden to use.</span></p>

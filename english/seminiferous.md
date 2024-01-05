@@ -1,5 +1,7 @@
 # seminiferous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seminiferous.md)
+
 <p><span class="chinese">结果35例无精症患者全部在睾丸曲精小管中找到精子。</span><span class="english">Results In the 35 azoospermic cases, sperm are found within the seminiferous tubules.</span></p>
 
 <p><span class="chinese">不同精小管内生殖细胞的发育是不同步的。</span><span class="english">The development of the male germ cells in different seminiferous tubules was different.</span></p>

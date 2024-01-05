@@ -1,5 +1,7 @@
 # aptly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aptly.md)
+
 <p><span class="chinese">高度近视适宜做较正吗?。</span><span class="english">Does high myopia do calibration aptly ?</span></p>
 
 <p><span class="chinese">里斯戴维斯恰好翻译了这个词。</span><span class="english">Rhys Davids has aptly translated the word.</span></p>

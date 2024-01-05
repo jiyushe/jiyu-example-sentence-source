@@ -1,5 +1,7 @@
 # guillotine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guillotine.md)
+
 <p><span class="chinese">实际上我们在自家的房子里也有闸刀。</span><span class="english">We actually have a tame guillotine in our house.</span></p>
 
 <p><span class="chinese">请记住，空想的社会主义乌托邦只带来了法国大革命期间巴黎四处竖立的断头台和苏共集权统治下的古拉格群岛。</span><span class="english">Because utopias lead to the guillotine and the gulag.</span></p>

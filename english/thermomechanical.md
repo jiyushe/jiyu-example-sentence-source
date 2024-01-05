@@ -1,5 +1,7 @@
 # thermomechanical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermomechanical.md)
+
 <p><span class="chinese">提出了斜角切削热力模型。</span><span class="english">A thermomechanical model for oblique cutting was proposed.</span></p>
 
 <p><span class="chinese">工程师使用ANSYS软件分析电脑和主板的热应力。</span><span class="english">Engineers use software from ANSYS to examine thermomechanical stresses in computer packages and boards.</span></p>

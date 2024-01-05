@@ -1,5 +1,7 @@
 # 名画
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minghua.md)
+
 <p><span class="chinese">他站在那里仔细地观赏着名画。</span><span class="english">He stood there -ting the famous painting.</span></p>
 
 <p><span class="chinese">皇上钦赐的名画，怎么可能是假的？</span><span class="english">It's given by the emperor, how can it be fake?</span></p>

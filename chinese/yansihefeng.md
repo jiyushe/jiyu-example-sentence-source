@@ -1,5 +1,7 @@
 # 严丝合缝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yansihefeng.md)
+
 <p><span class="chinese">支架接榫得严丝合缝。</span><span class="english">The tenons of the metal shelf are tightly connected.</span></p>
 
 <p><span class="chinese">内部所有的石块都严丝合缝，连一张卡片都插不进去。</span><span class="english">All of the interior stones fit so well, a card won't fit between them.</span></p>

@@ -1,5 +1,7 @@
 # 整人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengren.md)
+
 <p><span class="chinese">这不纯粹是整人嘛！</span><span class="english">This is not simply the whole people!</span></p>
 
 <p><span class="chinese">蛋糕上的是整人蜡烛吗？</span><span class="english">Are those trick candles on that cake?</span></p>

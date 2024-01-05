@@ -1,5 +1,7 @@
 # 小巧玲珑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoqiaolinglong.md)
+
 <p><span class="chinese">犹如一片片小巧玲珑的金箔，在此季迎接暮色的莅临。</span><span class="english">Like a little and dainty gold, in this season to meet the.</span></p>
 
 <p><span class="chinese">爸爸见我如此喜爱这个小巧玲珑的音乐盒，立刻就买下来了。</span><span class="english">Seeing my love for the cute music box, dad paid for it at once.</span></p>

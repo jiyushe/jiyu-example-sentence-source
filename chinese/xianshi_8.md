@@ -1,5 +1,7 @@
 # 现时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianshi_8.md)
+
 <p><span class="chinese">你现时嘅工作行业系？</span><span class="english">D6. What is your working industry?</span></p>
 
 <p><span class="chinese">你现时嘅工作行业系？</span><span class="english">D7. What is your working industry?</span></p>

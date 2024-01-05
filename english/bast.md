@@ -1,5 +1,7 @@
 # bast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bast.md)
+
 <p><span class="chinese">我和百斯太太说，我得打电话给我朋友百斯太太说，打吧。</span><span class="english">I have to call on friends, " and Mrs Bast said, "Do go".</span></p>
 
 <p><span class="chinese">粉末可见木薄壁细胞、韧皮纤维和棕色块等特征结构。</span><span class="english">There were parenchyma, bast fiber and brown block in powder.</span></p>

@@ -1,5 +1,7 @@
 # palma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palma.md)
+
 <p><span class="chinese">茄马特船长病愈后从帕尔马岛回来了。</span><span class="english">Captain Gaumard, recovered from his illness, had returned from Palma.</span></p>
 
 <p><span class="chinese">每间住处均设有私人浴室，且酒店前设有阳光露台。</span><span class="english">Guests at the Palma Hotel can relax at the beach or on the sun terrace.</span></p>

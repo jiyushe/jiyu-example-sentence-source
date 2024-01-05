@@ -1,5 +1,7 @@
 # 汽酒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qijiu.md)
+
 <p><span class="chinese">来自皮尔蒙特的清甜型汽酒。</span><span class="english">Semi-dry white sparkling wine from Piedmont.</span></p>
 
 <p><span class="chinese">白葡萄汽酒是穷人的香槟。</span><span class="english">Sparkling white wine is the poor man's champagne.</span></p>

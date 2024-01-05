@@ -1,5 +1,7 @@
 # nubian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nubian.md)
+
 <p><span class="chinese">最后对努比亚王朝在古代埃及史上的地位进行评价。</span><span class="english">At last, talking about the historical position of Nubian Dynasty.</span></p>
 
 <p><span class="chinese">他的叔叔沙巴卡在古孟菲斯和底比斯建立了一个努比亚王朝。</span><span class="english">His uncle Shabaka had established a Nubian presence in Memphis and Thebes.</span></p>

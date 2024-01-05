@@ -1,5 +1,7 @@
 # 林农
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linnong.md)
+
 <p><span class="chinese">“三农”问题也包括林业、林区、林农问题。</span><span class="english">The rural issue also includes the issues concerning about forestry, forest zone and foresters.</span></p>
 
 <p><span class="chinese">而从博弈角度考虑，主要是由于国家和林农作为林改的两个重要主体，有着不同的追求。</span><span class="english">In a game theory light, the nation and the farmers as the main body, have a different pursuit goal.</span></p>

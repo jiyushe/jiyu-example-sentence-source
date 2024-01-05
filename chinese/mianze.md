@@ -1,5 +1,7 @@
 # 免责
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianze.md)
+
 <p><span class="chinese">说实话，免责声明哦。</span><span class="english">Truth be told, disclaimer.</span></p>
 
 <p><span class="chinese">是的，他们在亚洲杀了人都可以免责。</span><span class="english">Yes, in Asia they can get away with murder.</span></p>

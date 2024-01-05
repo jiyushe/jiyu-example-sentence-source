@@ -1,5 +1,7 @@
 # blurt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blurt.md)
+
 <p><span class="chinese">小学生也能脱口而出高考题！</span><span class="english">Even primary students can blurt out Gaokao sentences!</span></p>
 
 <p><span class="chinese">而现在，人们却把愤怒散布到电子媒体之中。</span><span class="english">Now, people get angry and blurt things out electronically.</span></p>

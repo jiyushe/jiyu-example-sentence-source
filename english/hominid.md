@@ -1,5 +1,7 @@
 # hominid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hominid.md)
+
 <p><span class="chinese">这原始人吃了粗糙，难以咀嚼的食物。</span><span class="english">This hominid ate a rough and hard to chew diet.</span></p>
 
 <p><span class="chinese">原始人类中任何一个灭绝的猿物种和我们的关系都比黑猩猩更密切。</span><span class="english">A hominid is really any extinct ape more closely related to us than the chimpanzee.</span></p>

@@ -1,5 +1,7 @@
 # barred
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barred.md)
+
 <p><span class="chinese">他把自己关在里面。</span><span class="english">He barred himself in.</span></p>
 
 <p><span class="chinese">她把自己关在里面。</span><span class="english">She barred herself in.</span></p>

@@ -1,5 +1,7 @@
 # contradictory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contradictory.md)
+
 <p><span class="chinese">这是矛盾的。</span><span class="english">That is contradictory.</span></p>
 
 <p><span class="chinese">它几乎是出奇的矛盾</span><span class="english">It's almost insanely contradictory.</span></p>

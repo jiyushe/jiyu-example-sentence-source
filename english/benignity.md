@@ -1,5 +1,7 @@
 # benignity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benignity.md)
+
 <p><span class="chinese">一人一个苹果，说话就亲切多了。</span><span class="english">One person's an apple, talk benignity many.</span></p>
 
 <p><span class="chinese">脸上的笑容愈发的亲切。</span><span class="english">The smiling face on the face delivers more of benignity.</span></p>

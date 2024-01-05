@@ -1,5 +1,7 @@
 # wanda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wanda.md)
+
 <p><span class="chinese">罔达修士当然是知道这个的。</span><span class="english">Of course, Brother Wanda knew this.</span></p>
 
 <p><span class="chinese">旺达紧张不安地在裙子上擦了擦两手。</span><span class="english">Wanda nervously wiped her hands on her skirt.</span></p>

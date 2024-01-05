@@ -1,5 +1,7 @@
 # bun
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bun.md)
+
 <p><span class="chinese">你吃包子吗？</span><span class="english">You like bun?</span></p>
 
 <p><span class="chinese">刘教授吃不吃馒头?。</span><span class="english">Liu eat steamed bun not?</span></p>

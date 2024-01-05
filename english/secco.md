@@ -1,5 +1,7 @@
 # secco
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/secco.md)
+
 <p><span class="chinese">确保各项目包执行赛科标准。</span><span class="english">Ensure SECCO standards are followed.</span></p>
 
 <p><span class="chinese">建立赛科的事故档案。</span><span class="english">Setup documentation of all SECCO incidents.</span></p>

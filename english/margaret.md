@@ -1,5 +1,7 @@
 # margaret
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/margaret.md)
+
 <p><span class="chinese">玛格利特我不认为这是疯狂的。</span><span class="english">Margaret I deny it's madness.</span></p>
 
 <p><span class="chinese">她的名字是玛格丽特•海岭。</span><span class="english">Her name was Margaret Herring.</span></p>

@@ -1,5 +1,7 @@
 # 螟虫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingchong.md)
+
 <p><span class="chinese">他需要一种能消灭玉米螟虫的杀虫剂。</span><span class="english">He needs a pesticide that will kill corn borers.</span></p>
 
 <p><span class="chinese">增量螟虫是用来确定树龄的一个。</span><span class="english">An increment borer is used to determine the age of a tree.</span></p>

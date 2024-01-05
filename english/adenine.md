@@ -1,5 +1,7 @@
 # adenine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adenine.md)
+
 <p><span class="chinese">腺嘌呤具有嘌呤环的结构。</span><span class="english">Adenine has a purine ring structure.</span></p>
 
 <p><span class="chinese">天然的细胞分裂素是腺嘌呤的衍生物。</span><span class="english">Natural cytokinins are all derivatives of adenine.</span></p>

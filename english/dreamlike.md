@@ -1,5 +1,7 @@
 # dreamlike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dreamlike.md)
+
 <p><span class="chinese">这幅梦幻般的照片下面掩盖着悲剧。</span><span class="english">This dreamlike photo belies tragedy.</span></p>
 
 <p><span class="chinese">想给孩子们一个梦幻般的世界吗？</span><span class="english">Want to give the children a dreamlike world?</span></p>

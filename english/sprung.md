@@ -1,5 +1,7 @@
 # sprung
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sprung.md)
+
 <p><span class="chinese">这只弹簧已经被拉松，弹不回去了。</span><span class="english">This spring has been sprung.</span></p>
 
 <p><span class="chinese">我的乒乓球拍裂了。</span><span class="english">My table-tennis bat has sprung.</span></p>

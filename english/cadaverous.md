@@ -1,5 +1,7 @@
 # cadaverous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cadaverous.md)
+
 <p><span class="chinese">苍白的梦何时不再苍白？</span><span class="english">Cadaverous dream when no longer cadaverous ?</span></p>
 
 <p><span class="chinese">皮下水肿则使皮肤显得苍白。</span><span class="english">Hypodermic oedema makes the skin appears cadaverous.</span></p>

@@ -1,5 +1,7 @@
 # lagos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lagos.md)
+
 <p><span class="chinese">本自己搞是拉各斯的一家保付商行。</span><span class="english">Mine is a confirming abode in Lagos.</span></p>
 
 <p><span class="chinese">上图为拉各斯一条拥挤的街道向地平线延展。</span><span class="english">Above, a congested street in Lagos sprawls to the horizon.</span></p>

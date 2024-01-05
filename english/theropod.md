@@ -1,5 +1,7 @@
 # theropod
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theropod.md)
+
 <p><span class="chinese">这是一种兽脚亚目肉食恐龙。</span><span class="english">The type of dinosaur that was found is known as a theropod.</span></p>
 
 <p><span class="chinese">但这并不能完全解释兽脚亚目食肉恐龙的缺位。</span><span class="english">But that does not completely explain the absence of theropod tracks.</span></p>

@@ -1,5 +1,7 @@
 # poetically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poetically.md)
+
 <p><span class="chinese">爱情在诗歌中被比作花朵。</span><span class="english">Love was poetically compared to flower.</span></p>
 
 <p><span class="chinese">我把生命的哨子诗意地吹响。</span><span class="english">I blew the whistle of my life poetically.</span></p>

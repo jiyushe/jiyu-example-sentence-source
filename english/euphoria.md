@@ -1,5 +1,7 @@
 # euphoria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/euphoria.md)
+
 <p><span class="chinese">和谐和安乐感有时也会很危险。</span><span class="english">Harmony and euphoria can be dangerous, too.</span></p>
 
 <p><span class="chinese">也许这能解释兴奋的感觉</span><span class="english">Perhaps that explains the feelings of euphoria.</span></p>

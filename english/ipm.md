@@ -1,5 +1,7 @@
 # ipm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ipm.md)
+
 <p><span class="chinese">我估计IPM会被旁遮普全省接受。</span><span class="english">I predict IPM will be accepted in the whole Punjab.</span></p>
 
 <p><span class="chinese">这个间隔是被界定为对IPM开始和停止程序的直接调用。</span><span class="english">The interval is delimited by explicit calls to IPM start and stop routines.</span></p>

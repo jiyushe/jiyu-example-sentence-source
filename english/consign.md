@@ -1,5 +1,7 @@
 # consign
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consign.md)
+
 <p><span class="chinese">请由“伦敦”号轮船运交下列各物。</span><span class="english">We beg to consign the following per S. S. London.</span></p>
 
 <p><span class="chinese">把这批货用快车运交华纳和史密斯。</span><span class="english">Consign these goods to Warner and Smith by express.</span></p>

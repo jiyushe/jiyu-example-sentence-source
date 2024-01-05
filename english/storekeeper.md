@@ -1,5 +1,7 @@
 # storekeeper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/storekeeper.md)
+
 <p><span class="chinese">店主在不在？</span><span class="english">Storekeeper at not at?</span></p>
 
 <p><span class="chinese">零售店店主陈列他的商品。</span><span class="english">The storekeeper exposed his wares.</span></p>

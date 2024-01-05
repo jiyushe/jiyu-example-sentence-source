@@ -1,5 +1,7 @@
 # nominally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nominally.md)
+
 <p><span class="chinese">走吧，孩子的干爸。</span><span class="english">Let's go, nominally daddy of the baby.</span></p>
 
 <p><span class="chinese">占优势的候选人名义上被任命为总统.</span><span class="english">The  dominant  candidate is nominally  nominated for president.</span></p>

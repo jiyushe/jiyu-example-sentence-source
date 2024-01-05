@@ -1,5 +1,7 @@
 # 行驶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingshi_8.md)
+
 <p><span class="chinese">船朝南行驶。</span><span class="english">The ship steered south.</span></p>
 
 <p><span class="chinese">拐弯卡车靠右行驶。</span><span class="english">Turn Trucks Keep Right.</span></p>

@@ -1,5 +1,7 @@
 # way
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/way.md)
+
 <p><span class="chinese">一条路进。</span><span class="english">One way in.</span></p>
 
 <p><span class="chinese">但这无从得知。</span><span class="english">No way to tell.</span></p>

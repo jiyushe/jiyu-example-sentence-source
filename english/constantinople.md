@@ -1,5 +1,7 @@
 # constantinople
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/constantinople.md)
+
 <p><span class="chinese">拜占庭帝国现在仅存君士坦丁堡和摩里亚地区。</span><span class="english">The empire was left only Constantinople and the Morea.</span></p>
 
 <p><span class="chinese">1204年4月12日，十字军对君士坦丁堡发起进攻。</span><span class="english">April 12, 1204, the Crusaders attack on Constantinople.</span></p>

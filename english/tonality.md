@@ -1,5 +1,7 @@
 # tonality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tonality.md)
+
 <p><span class="chinese">所给调子或音调中的主音。</span><span class="english">The dominant in a given key or tonality.</span></p>
 
 <p><span class="chinese">调性通常与调的意思相同。</span><span class="english">Tonality is, in general, the same as key.</span></p>

@@ -1,5 +1,7 @@
 # rainwater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rainwater.md)
+
 <p><span class="chinese">雨水流掉了。</span><span class="english">The rainwater drained away.</span></p>
 
 <p><span class="chinese">雨水从屋檐滴下来。</span><span class="english">Rainwater trickled from the eaves.</span></p>

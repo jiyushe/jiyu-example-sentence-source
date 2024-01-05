@@ -1,5 +1,7 @@
 # 清正
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingzheng.md)
+
 <p><span class="chinese">想要成为政客的任何人都是不清正廉明的。</span><span class="english">Anyone who wants to be a politician is already dishonest.</span></p>
 
 <p><span class="chinese">加藤清正决定将劝降书送到光海君那边。</span><span class="english">Kato and decided to send QuanJiangShu to light sea king there.</span></p>

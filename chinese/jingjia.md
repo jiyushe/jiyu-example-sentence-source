@@ -1,5 +1,7 @@
 # 井架
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingjia.md)
+
 <p><span class="chinese">井架的风载能力？</span><span class="english">Wind load capacity?</span></p>
 
 <p><span class="chinese">我们就在那块地面上竖起一个井架。</span><span class="english">We put up at the surface an oil derrick.</span></p>

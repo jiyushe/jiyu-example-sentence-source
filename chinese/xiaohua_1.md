@@ -1,5 +1,7 @@
 # 消化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaohua_1.md)
+
 <p><span class="chinese">今天，我的小兔兔因为嚼多了家里的地毯消化不良挂掉了。</span><span class="english">Today, my rabbit died.</span></p>
 
 <p><span class="chinese">凯蒂吃肥肉不消化。</span><span class="english">Katie can't digest fat.</span></p>

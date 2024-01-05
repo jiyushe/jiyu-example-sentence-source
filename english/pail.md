@@ -1,5 +1,7 @@
 # pail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pail.md)
+
 <p><span class="chinese">桶内装着牛奶。</span><span class="english">The pail holds milk.</span></p>
 
 <p><span class="chinese">好好冲洗水桶。</span><span class="english">Give the pail a good swill.</span></p>

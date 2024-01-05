@@ -1,5 +1,7 @@
 # austronesian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/austronesian.md)
+
 <p><span class="chinese">使用南岛语系的人与黑潮的图。</span><span class="english">The picture of the Austronesian languages human and Kuroshio.</span></p>
 
 <p><span class="chinese">东帝汶的两种官方语言是葡萄牙语和德顿语，德顿语是澳斯特罗尼西亚的一种地方语。</span><span class="english">Timor Leste’s two official languages are Portuguese and Tetum, a local Austronesian language.</span></p>

@@ -1,5 +1,7 @@
 # incautiously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incautiously.md)
+
 <p><span class="chinese">一切都变了，一不小心就再也回不去了。</span><span class="english">All have changed, incautiously again also could not go back.</span></p>
 
 <p><span class="chinese">如果一不小心安装了将很难卸载。</span><span class="english">If will incautiously install will have been difficult to unload.</span></p>

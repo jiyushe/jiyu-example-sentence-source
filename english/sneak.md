@@ -1,5 +1,7 @@
 # sneak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sneak.md)
+
 <p><span class="chinese">你是说偷溜进去吗？</span><span class="english">You mean sneak in?</span></p>
 
 <p><span class="chinese">你必须把我们偷偷带进去。</span><span class="english">You must sneak us in.</span></p>

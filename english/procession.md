@@ -1,5 +1,7 @@
 # procession
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/procession.md)
+
 <p><span class="chinese">你看这送亲的队伍好长啊！</span><span class="english">The bridal procession is so long!</span></p>
 
 <p><span class="chinese">他命令他的队伍向后转。</span><span class="english">Crowds turned out for the procession.</span></p>

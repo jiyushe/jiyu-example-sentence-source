@@ -1,5 +1,7 @@
 # 公路网
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongluwang.md)
+
 <p><span class="chinese">广覆盖的公路网建立起来。</span><span class="english">A full-coverage highway network has been set up.</span></p>
 
 <p><span class="chinese">利用枚举法等离散优化方法，确定最优公路网规划方案。</span><span class="english">Through the enumeration method, the optimum plan can be found.</span></p>

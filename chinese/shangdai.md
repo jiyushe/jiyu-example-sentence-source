@@ -1,5 +1,7 @@
 # 上代
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangdai.md)
+
 <p><span class="chinese">为贵会代祷，请寄上代祷资料。</span><span class="english">Pray for your Ministries, Please send me information.</span></p>
 
 <p><span class="chinese">在和其上代病毒环境相同的情况下，这个病毒也会进化吗？</span><span class="english">Did this strain evolve, too, in the same circumstances?</span></p>

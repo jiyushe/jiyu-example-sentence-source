@@ -1,5 +1,7 @@
 # 怨声载道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanshengzaidao.md)
+
 <p><span class="chinese">渔民因此头昏目眩而怨声载道。</span><span class="english">Fishermen complain of dizziness.</span></p>
 
 <p><span class="chinese">你可以听到交易厅中怨声载道。</span><span class="english">You can hear the hollering on the floor.</span></p>

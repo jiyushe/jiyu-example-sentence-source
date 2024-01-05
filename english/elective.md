@@ -1,5 +1,7 @@
 # elective
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elective.md)
+
 <p><span class="chinese">这是我第一次从你们系选课。</span><span class="english">This is my first elective in your department.</span></p>
 
 <p><span class="chinese">实现全校学生选课在线查询。</span><span class="english">School students to achieve elective online inquiries.</span></p>

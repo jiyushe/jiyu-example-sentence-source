@@ -1,5 +1,7 @@
 # squall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/squall.md)
+
 <p><span class="chinese">辛特龙在狂风中大声下达命令。</span><span class="english">Cintron yelled orders over the squall.</span></p>
 
 <p><span class="chinese">飑线中的狂风雷暴。</span><span class="english">Squally thunderstorms within a squall line.</span></p>

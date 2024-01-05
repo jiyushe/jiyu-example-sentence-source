@@ -1,5 +1,7 @@
 # workhorse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/workhorse.md)
+
 <p><span class="chinese">这是中国登月项目中的“老黄牛”。</span><span class="english">This will be the workhorse of China's lunar programme.</span></p>
 
 <p><span class="chinese">指令是重写动作的真正执行机构。</span><span class="english">The RewriteRule directive is the real rewriting workhorse.</span></p>

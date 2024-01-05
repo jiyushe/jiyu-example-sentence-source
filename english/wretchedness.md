@@ -1,5 +1,7 @@
 # wretchedness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wretchedness.md)
+
 <p><span class="chinese">也真是可怜。</span><span class="english">It is really also wretchedness.</span></p>
 
 <p><span class="chinese">她的不幸让他感到十分难受。</span><span class="english">Her wretchedness made him feel miserable.</span></p>

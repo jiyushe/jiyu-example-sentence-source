@@ -1,5 +1,7 @@
 # 索然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suoran.md)
+
 <p><span class="chinese">不幸的婚姻使我们兴味索然。</span><span class="english">The unhappy marriage disgusted us.</span></p>
 
 <p><span class="chinese">社交聚会使他兴致勃勃，可她似乎兴味索然。</span><span class="english">Parties switched him on but they seemed to switch her off.</span></p>

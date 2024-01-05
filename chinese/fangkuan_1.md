@@ -1,5 +1,7 @@
 # 放款
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangkuan_1.md)
+
 <p><span class="chinese">至于透支方式的放款。</span><span class="english">In the case of overdrafts.</span></p>
 
 <p><span class="chinese">这种放款付给息金吗？</span><span class="english">Do you pay interest on this akun?</span></p>

@@ -1,5 +1,7 @@
 # alkalization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alkalization.md)
+
 <p><span class="chinese">天津滨海盐土已出现脱盐碱化趋势，其碱化程度从轻度碱化到重度碱化。</span><span class="english">There is trend of salt-leaching alkalization in Tianjin coast saline soils, which alkaline degree ranges from light to high.</span></p>
 
 <p><span class="chinese">所有患者通过休息、补液、碱化尿液及预防并发症等治疗，均痊愈出院。</span><span class="english">All the patients recovered and discharged after relaxation, fluid infusion, alkalization of urine and dealing with the complications.</span></p>

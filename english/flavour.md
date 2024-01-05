@@ -1,5 +1,7 @@
 # flavour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flavour.md)
+
 <p><span class="chinese">茶叶走味了。</span><span class="english">The tea has lost its flavour.</span></p>
 
 <p><span class="chinese">这茶味好极了。</span><span class="english">The tea has a wonderful flavour.</span></p>

@@ -1,5 +1,7 @@
 # tip 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tip.md)
+
 <p><span class="chinese">五星级的提示。</span><span class="english">Five-star tip.</span></p>
 
 <p><span class="chinese">直尖帽脚趾。</span><span class="english">Straight tip cap toe.</span></p>

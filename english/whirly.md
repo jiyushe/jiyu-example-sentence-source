@@ -1,5 +1,7 @@
 # whirly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whirly.md)
+
 <p><span class="chinese">在呼呼作响的黑暗世界，起伏着不平整的呼吸。</span><span class="english">Roaming around whirly world rough breath in dark.</span></p>
 
 <p><span class="chinese">他们通常被称为“旋鸟”或类似名称。</span><span class="english">They are often called "whirly birds" or some similar title.</span></p>

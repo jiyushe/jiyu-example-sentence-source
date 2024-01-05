@@ -1,5 +1,7 @@
 # 燕子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanzi.md)
+
 <p><span class="chinese">一只燕子飞过去了。</span><span class="english">A swallow flew past.</span></p>
 
 <p><span class="chinese">那只燕子飕地飞掠而过。</span><span class="english">The swallow whirred past.</span></p>

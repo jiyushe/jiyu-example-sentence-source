@@ -1,5 +1,7 @@
 # yachtsman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yachtsman.md)
+
 <p><span class="chinese">一个由有钱人统治的政体。</span><span class="english">A wealthy amateur sportsman, especially an amateur yachtsman.</span></p>
 
 <p><span class="chinese">一个驾驶帆船的人在海上遇险需要救援。</span><span class="english">A yachtsman got in to trouble off the coast and had to be rescued.</span></p>

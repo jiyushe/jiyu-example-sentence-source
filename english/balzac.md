@@ -1,5 +1,7 @@
 # balzac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/balzac.md)
+
 <p><span class="chinese">是巴尔扎克发表的第一部长篇哲理小说。</span><span class="english">Honoré de Balzac was a French novelist and playwright.</span></p>
 
 <p><span class="chinese">是否作者巴尔扎克的文学理论是建立在女性主义之上的？</span><span class="english">Is it Balzac the author professing "literary" ideas on femininity?</span></p>

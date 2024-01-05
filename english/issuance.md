@@ -1,5 +1,7 @@
 # issuance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/issuance.md)
+
 <p><span class="chinese">债券发行去年刷新纪录。</span><span class="english">Bond issuance hit a record last year.</span></p>
 
 <p><span class="chinese">尽管债务违约浪潮汹涌，发债量仍旧激增。</span><span class="english">Debt issuance booms despite a wave of defaults.</span></p>

@@ -1,5 +1,7 @@
 # inocula
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inocula.md)
+
 <p><span class="chinese">也经常有关于固氮螺菌接种剂效果不好或没有效果的报道。</span><span class="english">Often there are poor or no responses to Azospirillum inocula.</span></p>
 
 <p><span class="chinese">接种试验表明，病菌菌丝液和分生孢子液均可作为接种体。</span><span class="english">The mycelia and conidia of Phyllosiicta oryzicola Hara collld be used as inocula.</span></p>

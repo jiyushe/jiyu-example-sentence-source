@@ -1,5 +1,7 @@
 # dungeon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dungeon.md)
+
 <p><span class="chinese">约翰让人将莫德和她的儿子关进了地牢。</span><span class="english">John had Maude and her son cast into a dungeon.</span></p>
 
 <p><span class="chinese">光也驱散囚室的黑暗。</span><span class="english">And light disperses the darkness of the dungeon.</span></p>

@@ -1,5 +1,7 @@
 # prophecy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prophecy.md)
+
 <p><span class="chinese">为什么学习谶?。</span><span class="english">Why Study Prophecy?</span></p>
 
 <p><span class="chinese">我的预言是真的！</span><span class="english">The prophecy was true!</span></p>

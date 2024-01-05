@@ -1,5 +1,7 @@
 # 护肩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hujian.md)
+
 <p><span class="chinese">侏儒的护肩已在大小上变小，而武器则增大了不少。</span><span class="english">Dwarf male shoulder pads have decreased in size, and weapons have increased in size.</span></p>
 
 <p><span class="chinese">永恒之塔装甲类型取决于子项目的位置身穿T恤，信，护肩，手套和靴子。</span><span class="english">Aion Armor types depend on location of sub-wearing T-shirt, shin, shoulder pad, gloves, and boots.</span></p>

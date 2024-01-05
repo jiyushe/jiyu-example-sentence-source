@@ -1,5 +1,7 @@
 # worktable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/worktable.md)
+
 <p><span class="chinese">一个坚固的工作台是必须的。</span><span class="english">A strong worktable is a definitive must.</span></p>
 
 <p><span class="chinese">设备和工作台丝杠覆盖。</span><span class="english">Equipment leadscrew cover and worktable.</span></p>

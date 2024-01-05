@@ -1,5 +1,7 @@
 # apo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apo.md)
+
 <p><span class="chinese">载脂蛋白E在淀粉状蛋白的致死性转变中起着重要的作用。</span><span class="english">Apo E is a key player in the deadly transformation of amyloid. Dr.</span></p>
 
 <p><span class="chinese">猛男密封蜡载脂蛋白60补充猛男抛光线。</span><span class="english">Menzerna Sealing Wax APO 60 complements the Menzerna line of polishes.</span></p>

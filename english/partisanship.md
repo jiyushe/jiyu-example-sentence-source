@@ -1,5 +1,7 @@
 # partisanship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/partisanship.md)
+
 <p><span class="chinese">这第二种担忧则与党派偏见有关。</span><span class="english">The second concern has to do with partisanship.</span></p>
 
 <p><span class="chinese">让我们先把报纸的党派性这一点说清楚。</span><span class="english">Well, let's make clear the partisanship of the newspaper.</span></p>

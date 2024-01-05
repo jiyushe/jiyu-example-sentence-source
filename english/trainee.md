@@ -1,5 +1,7 @@
 # trainee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trainee.md)
+
 <p><span class="chinese">我同意让菲利浦做我的见习生。</span><span class="english">I took on Phillip as my trainee.</span></p>
 
 <p><span class="chinese">要是一个见习生剪我发，可以打折吗？</span><span class="english">Is there any discount if it is done by a trainee?</span></p>

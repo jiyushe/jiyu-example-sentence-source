@@ -1,5 +1,7 @@
 # offense
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/offense.md)
+
 <p><span class="chinese">这是普林司顿进攻。</span><span class="english">It's the Princeton offense.</span></p>
 
 <p><span class="chinese">侵犯是最好的防卫。</span><span class="english">Offense is thebest defense.</span></p>

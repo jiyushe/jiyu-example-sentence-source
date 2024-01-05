@@ -1,5 +1,7 @@
 # 受骗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoupian.md)
+
 <p><span class="chinese">你们感觉受骗了吧？</span><span class="english">Ah, I tricked you.</span></p>
 
 <p><span class="chinese">信任是受骗之母。</span><span class="english">Trust is the mother of deciet.</span></p>

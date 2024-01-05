@@ -1,5 +1,7 @@
 # revascularization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revascularization.md)
+
 <p><span class="chinese">文章就脑血运重建术的应用现状进行综述。</span><span class="english">This article reviews the present application situation of the revascularization.</span></p>
 
 <p><span class="chinese">血管再形成术是一种让阻塞的血管重新开通的手术。</span><span class="english">Revascularization refers to procedures designed to re-open blocked blood vessels.</span></p>

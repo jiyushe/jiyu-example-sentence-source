@@ -1,5 +1,7 @@
 # isolation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isolation.md)
+
 <p><span class="chinese">你完全是孤立无援的。</span><span class="english">You’re in total isolation.</span></p>
 
 <p><span class="chinese">通过细胞培养分离病毒。</span><span class="english">virus isolation by cell culture.</span></p>

@@ -1,5 +1,7 @@
 # attunement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attunement.md)
+
 <p><span class="chinese">抓走这个图片用在你有一天你的点化用。</span><span class="english">Carry this picture with you on the day of your attunement.</span></p>
 
 <p><span class="chinese">燃烧之速是元素使火系调和聚能器技能。</span><span class="english">Burning Speed is an elementalist fire attunement focus skill.</span></p>

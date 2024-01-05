@@ -1,5 +1,7 @@
 # 不攻自破
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bugongzipo.md)
+
 <p><span class="chinese">但PTZ发布招标后，传闻不攻自破。</span><span class="english">But PTZ issue a tender, dispel speculation.</span></p>
 
 <p><span class="chinese">这种谣言在事实面前将不攻自破。</span><span class="english">Facts will eventually scotch these rumours.</span></p>

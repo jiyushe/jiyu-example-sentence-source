@@ -1,5 +1,7 @@
 # prosthetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prosthetic.md)
+
 <p><span class="chinese">共植入人工机械瓣膜719例。</span><span class="english">There were 719 prosthetic heart valves implanted.</span></p>
 
 <p><span class="chinese">她的仿生鳍就像个舵，用来保持平衡。</span><span class="english">Her prosthetic fin acts like a rudder and keeps her stable.</span></p>

@@ -1,5 +1,7 @@
 # bit 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bit.md)
+
 <p><span class="chinese">他咬了一下嘴唇。</span><span class="english">He bit his lip.</span></p>
 
 <p><span class="chinese">或者两者都有一点？</span><span class="english">Or a bit of both?</span></p>

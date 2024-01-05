@@ -1,5 +1,7 @@
 # plight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plight.md)
+
 <p><span class="chinese">我的境况就是如此。</span><span class="english">This had been my plight.</span></p>
 
 <p><span class="chinese">将你的苦境归咎于别人。</span><span class="english">Blame others for your plight.</span></p>

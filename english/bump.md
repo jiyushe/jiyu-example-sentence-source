@@ -1,5 +1,7 @@
 # bump
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bump.md)
+
 <p><span class="chinese">自行车在路上碰着一个土包。</span><span class="english">The bike hit a bump on the road.</span></p>
 
 <p><span class="chinese">他碰得前额隆起一个大包。</span><span class="english">He got a bad bump on his forehead.</span></p>

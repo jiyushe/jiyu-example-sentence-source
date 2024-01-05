@@ -1,5 +1,7 @@
 # 讹误
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ewu.md)
+
 <p><span class="chinese">原文因抄写员粗心而有讹误。</span><span class="english">The text was corrupted by careless copyists.</span></p>
 
 <p><span class="chinese">原文因抄写者粗心而有讹误。</span><span class="english">The text was corrupted by careless copyists.</span></p>

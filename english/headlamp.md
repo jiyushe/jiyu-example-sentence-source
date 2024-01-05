@@ -1,5 +1,7 @@
 # headlamp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headlamp.md)
+
 <p><span class="chinese">这个头灯的重量是80克。</span><span class="english">The weight of this headlamp is 80g.</span></p>
 
 <p><span class="chinese">我的LED照明灯点燃了白色的沙丘。</span><span class="english">My LED headlamp lit the white sand dune.</span></p>

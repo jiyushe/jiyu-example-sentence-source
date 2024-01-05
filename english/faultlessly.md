@@ -1,5 +1,7 @@
 # faultlessly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faultlessly.md)
+
 <p><span class="chinese">今年“奢华而不张扬”的设计理念表现得如此完美。</span><span class="english">This year " costly and not make public " design concept is behaved so faultlessly.</span></p>
 
 <p><span class="chinese">这个假设是我们的框架完美地运行其俩的先决条件。</span><span class="english">This assumption then is a necessary prerequisite for our framework to function faultlessly.</span></p>

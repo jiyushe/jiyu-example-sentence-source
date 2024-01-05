@@ -1,5 +1,7 @@
 # interrogate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interrogate.md)
+
 <p><span class="chinese">查询或更新数据库。</span><span class="english">Interrogate or update a database.</span></p>
 
 <p><span class="chinese">审判人员可以讯问被告人。</span><span class="english">The judges may interrogate the defendant.</span></p>

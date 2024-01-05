@@ -1,5 +1,7 @@
 # 中稻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongdao.md)
+
 <p><span class="chinese">成熟是早中稻。</span><span class="english">Maturity is early to mid-season.</span></p>
 
 <p><span class="chinese">中稻套播黑麦草系统在湖南气候条件下是一种较为合理的粮饲轮作系统。</span><span class="english">The mid-season rice with ryegrass is a best pattern in Hunan province.</span></p>

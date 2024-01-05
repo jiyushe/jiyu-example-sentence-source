@@ -1,5 +1,7 @@
 # lassitude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lassitude.md)
+
 <p><span class="chinese">我们在炎热的夏日有时感到倦怠。</span><span class="english">Sometimes we feel lassitude onahot summer day.</span></p>
 
 <p><span class="chinese">她由于身体疲乏，勇气降到零点。</span><span class="english">Her courage was lowered to zero by her physical lassitude.</span></p>

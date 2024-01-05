@@ -1,5 +1,7 @@
 # 总管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongguan.md)
+
 <p><span class="chinese">我为你祈祷了，总管。</span><span class="english">I have prayed for you, Seneschal.</span></p>
 
 <p><span class="chinese">水是从总管道来的。</span><span class="english">Water is supplied from the mains.</span></p>

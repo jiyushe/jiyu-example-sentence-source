@@ -1,5 +1,7 @@
 # 死硬派
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siyingpai.md)
+
 <p><span class="chinese">他就是那种死硬派的现实主义者。</span><span class="english">He is that kind of hard-boiled realist.</span></p>
 
 <p><span class="chinese">一小撮死硬派企图中止改革。</span><span class="english">A few die-hards are trying to stop the reforms.</span></p>

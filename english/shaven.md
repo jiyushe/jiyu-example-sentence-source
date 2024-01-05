@@ -1,5 +1,7 @@
 # shaven
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shaven.md)
+
 <p><span class="chinese">光脑袋，剃得快。</span><span class="english">A bald head is soon shaven.</span></p>
 
 <p><span class="chinese">光头使他的大圆脸更加突出。</span><span class="english">His shaven head accentuates his large round face.</span></p>

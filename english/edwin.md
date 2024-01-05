@@ -1,5 +1,7 @@
 # edwin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/edwin.md)
+
 <p><span class="chinese">我是爱德温，我带你去旅馆。</span><span class="english">I'm Edwin. I'll show you to your hotel.</span></p>
 
 <p><span class="chinese">艾德温.H。阿姆斯特朗发明调频无线电。</span><span class="english">FM radio invented by Edwin H. Armstrong.</span></p>

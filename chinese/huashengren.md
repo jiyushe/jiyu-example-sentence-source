@@ -1,5 +1,7 @@
 # 花生仁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huashengren.md)
+
 <p><span class="chinese">花生油是将花生仁经过制浸而成的油。</span><span class="english">Peanut oil is made of peanut oil soaked through the system.</span></p>
 
 <p><span class="chinese">我们想知道你们是否能够提供核桃仁和花生仁。</span><span class="english">We want to find out if you can supply walnut meat and peanut kernels.</span></p>

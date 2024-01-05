@@ -1,5 +1,7 @@
 # bailee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bailee.md)
+
 <p><span class="chinese">进口商是银行的代理、委托人和受托者。</span><span class="english">The importer is the agent, trustee and bailee of the bank.</span></p>
 
 <p><span class="chinese">寄托人出于信任把个人财产移交给受托人。</span><span class="english">The delivery of personal property in trust by the bailor to the bailee.</span></p>

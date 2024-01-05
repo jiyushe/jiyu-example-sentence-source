@@ -1,5 +1,7 @@
 # 脑震荡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naozhendang.md)
+
 <p><span class="chinese">我曾有过两次脑震荡。</span><span class="english">I've had two bad concussions.</span></p>
 
 <p><span class="chinese">某些脑震荡后果较常规更为严重。</span><span class="english">Some concussions are more severe than others.</span></p>

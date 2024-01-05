@@ -1,5 +1,7 @@
 # fury
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fury.md)
+
 <p><span class="chinese">狂怒现在成为巧妙的技能。</span><span class="english">Fury now became skill.</span></p>
 
 <p><span class="chinese">他一怒之下便不告而别了。</span><span class="english">He bundled off in a fury.</span></p>

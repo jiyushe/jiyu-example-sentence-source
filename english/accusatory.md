@@ -1,5 +1,7 @@
 # accusatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accusatory.md)
+
 <p><span class="chinese">语调是埋怨责怪的那种。</span><span class="english">The tone was bitter and accusatory.</span></p>
 
 <p><span class="chinese">不要对劳拉生气或指责。</span><span class="english">Don't be angry or accusatory with Laura.</span></p>

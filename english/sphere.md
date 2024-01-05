@@ -1,5 +1,7 @@
 # sphere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sphere.md)
+
 <p><span class="chinese">地球是一个球体。</span><span class="english">The earth is a sphere.</span></p>
 
 <p><span class="chinese">虎纹蛙眼球呈圆球形。</span><span class="english">The eyeball is of sphere.</span></p>

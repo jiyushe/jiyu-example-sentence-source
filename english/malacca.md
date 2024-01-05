@@ -1,5 +1,7 @@
 # malacca
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malacca.md)
+
 <p><span class="chinese">例如，那包括马六甲海峡。</span><span class="english">That includes, for example, the Strait of Malacca.</span></p>
 
 <p><span class="chinese">惟有已预定马六甲上岸观光活动的乘客方可下船。</span><span class="english">Only those pre-booked on Malacca excursions may disembark.</span></p>

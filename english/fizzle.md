@@ -1,5 +1,7 @@
 # fizzle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fizzle.md)
+
 <p><span class="chinese">这就是为什么那些关系很快失去掉火花然后最终失败。</span><span class="english">This is how relationships quickly lose its spark and fizzle out.</span></p>
 
 <p><span class="chinese">没有紧迫感，变化计划很快就会失败。</span><span class="english">Without a sense of urgency, the change program will fizzle out quickly.</span></p>

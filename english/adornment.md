@@ -1,5 +1,7 @@
 # adornment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adornment.md)
+
 <p><span class="chinese">一般装饰门可做户门。</span><span class="english">General adornment door to do a door.</span></p>
 
 <p><span class="chinese">指设在门框四面的装饰造型。</span><span class="english">Point to set in doorcase the adornment modelling all around.</span></p>

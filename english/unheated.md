@@ -1,5 +1,7 @@
 # unheated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unheated.md)
+
 <p><span class="chinese">与此同时，在没有暖气的书房里，我只能就着一杯茶取暖。</span><span class="english">Meantime, here I crouch over a cup of tea in my unheated study.</span></p>
 
 <p><span class="chinese">如果这些食品被接受，接下来则是给予未加热的牛奶。</span><span class="english">If these were tolerated, the subject was then given unheated milk.</span></p>

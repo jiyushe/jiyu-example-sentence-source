@@ -1,5 +1,7 @@
 # 颁布
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banbu.md)
+
 <p><span class="chinese">议会再颁布了那个法律。</span><span class="english">Congress reenacted the law.</span></p>
 
 <p><span class="chinese">国会已颁布了一项新的税法。</span><span class="english">Congress has enacted a new tax law.</span></p>

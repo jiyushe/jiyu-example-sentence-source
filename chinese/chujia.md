@@ -1,5 +1,7 @@
 # 出价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chujia.md)
+
 <p><span class="chinese">请不要出价过高。</span><span class="english">Please do NOT overbid.</span></p>
 
 <p><span class="chinese">您的出价是500个反向链接。</span><span class="english">Your bid is on 500 backlinks.</span></p>

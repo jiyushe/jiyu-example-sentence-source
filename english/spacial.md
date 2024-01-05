@@ -1,5 +1,7 @@
 # spacial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spacial.md)
+
 <p><span class="chinese">管理员可以给任何空间活动或提供优惠券代码。</span><span class="english">Admin Can Give a Coupon Code for any Spacial event or offer.</span></p>
 
 <p><span class="chinese">本程序还适用于其它静定空间机构。</span><span class="english">The program can also be applied to other static spacial mechanism.</span></p>

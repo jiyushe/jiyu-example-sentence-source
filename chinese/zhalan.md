@@ -1,5 +1,7 @@
 # 栅栏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhalan.md)
+
 <p><span class="chinese">他们正在修栅栏。</span><span class="english">They are building a fence.</span></p>
 
 <p><span class="chinese">帮助跛足的狗越过栅栏。</span><span class="english">Help a lame dog over stile.</span></p>

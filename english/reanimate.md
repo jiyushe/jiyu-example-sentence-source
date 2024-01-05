@@ -1,5 +1,7 @@
 # reanimate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reanimate.md)
+
 <p><span class="chinese">这是一种可以使地球重现活力的方法。</span><span class="english">This is a way to reanimate the world.</span></p>
 
 <p><span class="chinese">黑色的是支付2B来掘坟一个生物。</span><span class="english">Black one has 2B to reanimate a creature.</span></p>

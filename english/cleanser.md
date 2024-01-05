@@ -1,5 +1,7 @@
 # cleanser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cleanser.md)
+
 <p><span class="chinese">这款洗面凝胶很好。</span><span class="english">This is a very good cleanser.</span></p>
 
 <p><span class="chinese">黄瓜是天然的洁面剂。</span><span class="english">Cucumber is a natural cleanser.</span></p>

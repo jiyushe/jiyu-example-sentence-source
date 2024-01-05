@@ -1,5 +1,7 @@
 # pulse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pulse.md)
+
 <p><span class="chinese">他的脉象非常平稳。</span><span class="english">His pulse was very even.</span></p>
 
 <p><span class="chinese">让我测一下您的脉搏。</span><span class="english">Lett me feel your pulse.</span></p>

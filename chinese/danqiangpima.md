@@ -1,5 +1,7 @@
 # 单枪匹马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danqiangpima.md)
+
 <p><span class="chinese">内格罗蓬特不必单枪匹马地进行斗争。</span><span class="english">Negroponte won't have to fight alone.</span></p>
 
 <p><span class="chinese">谁也不可能单枪匹马做成这见事的。</span><span class="english">One cannot have done it single-handed.</span></p>

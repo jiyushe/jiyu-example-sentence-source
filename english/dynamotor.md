@@ -1,5 +1,7 @@
 # dynamotor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dynamotor.md)
+
 <p><span class="chinese">介绍了汽轮发电机转轴上的板弹簧模具设计要点以及先进的压制工艺。</span><span class="english">The die design critical points and advanced pressing process of board spring on rotating shaft steamer dynamotor.</span></p>
 
 <p><span class="chinese">对使用小型发电机为UPS供电出现的问题进行探讨，并提供实际的使用例子。</span><span class="english">This thesis discusses the problems which happen when dynamotor is introduced into UPS power supply system through real examples.</span></p>

@@ -1,5 +1,7 @@
 # 不劳而获
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bulaoerhuo.md)
+
 <p><span class="chinese">第十一条，取缔不劳而获的收入。</span><span class="english">The abolition of incomes unearned by work.</span></p>
 
 <p><span class="chinese">只有无知是可以不劳而获的。</span><span class="english">Nothing to be got without pains but ignorance.</span></p>

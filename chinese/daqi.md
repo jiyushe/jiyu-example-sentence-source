@@ -1,5 +1,7 @@
 # 打气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daqi.md)
+
 <p><span class="chinese">我觉得需要打气。</span><span class="english">I think they need air.</span></p>
 
 <p><span class="chinese">给他打打气儿。</span><span class="english">To give him a pep talk!</span></p>

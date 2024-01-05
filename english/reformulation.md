@@ -1,5 +1,7 @@
 # reformulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reformulation.md)
+
 <p><span class="chinese">概述通过新制剂进行药品生命周期管理的研究进展。</span><span class="english">This paper reviews advances in researches of life cycle management using pharmaceutical reformulation.</span></p>
 
 <p><span class="chinese">在所有的再生产完成之前，存储品牌维生素的风险会很高。</span><span class="english">The risk for store-brand vitamins will be particularly high until all of the reformulation is complete.</span></p>

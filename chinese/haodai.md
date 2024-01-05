@@ -1,5 +1,7 @@
 # 好歹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haodai.md)
+
 <p><span class="chinese">好吧，不管好歹，反正我按铃了。</span><span class="english">Well, anyhow, I rang the bell.</span></p>
 
 <p><span class="chinese">好歹也是“发现不老泉的人”耶。</span><span class="english">Discoverer of the Fountain of Youth.</span></p>

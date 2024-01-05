@@ -1,5 +1,7 @@
 # ingrained
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ingrained.md)
+
 <p><span class="chinese">这是卡卡圈坊根深蒂固的一种营销手段。</span><span class="english">This is one of its ingrained marketing tricks.</span></p>
 
 <p><span class="chinese">那么，运动减肥的颂歌是如何变得如此根深蒂固呢？</span><span class="english">Then how did the exercise-to-lose-weight mantra become so ingrained?</span></p>

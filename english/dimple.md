@@ -1,5 +1,7 @@
 # dimple
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dimple.md)
+
 <p><span class="chinese">而且有我迷人的酒窝…</span><span class="english">And has got my charming dimple.</span></p>
 
 <p><span class="chinese">盲目的爱情把豁嘴当酒窝。</span><span class="english">Blind love mistakes a harelip for a dimple.</span></p>

@@ -1,5 +1,7 @@
 # phagocytic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phagocytic.md)
+
 <p><span class="chinese">我们测定了网状内皮系统的吞噬与代谢功能。</span><span class="english">The phagocytic and metabolic functions of the reticuloendothelial system were determined.</span></p>
 
 <p><span class="chinese">检测各组小鼠白细胞数、中性粒细胞游走功能和吞噬功能。</span><span class="english">The leukocyte count, the neutrophil migration function and the phagocytic power were detected.</span></p>

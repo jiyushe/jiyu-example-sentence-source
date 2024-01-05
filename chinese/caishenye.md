@@ -1,5 +1,7 @@
 # 财神爷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caishenye.md)
+
 <p><span class="chinese">我希望像财神爷一样有钱。</span><span class="english">I wish I were rich as Plutos.</span></p>
 
 <p><span class="chinese">顾客就是我们的财神爷。</span><span class="english">Customers are our Gods of Wealth.</span></p>

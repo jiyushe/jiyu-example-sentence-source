@@ -1,5 +1,7 @@
 # catamaran
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catamaran.md)
+
 <p><span class="chinese">登船?同志们?不，我们只是发明了双体船。</span><span class="english">Boarding? Us? No, we're just inventing the catamaran.</span></p>
 
 <p><span class="chinese">双体船和计划管理，由AARP赞同。</span><span class="english">The Program is administered by Catamaran and endorsed by AARP.</span></p>

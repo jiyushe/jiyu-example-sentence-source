@@ -1,5 +1,7 @@
 # hew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hew.md)
+
 <p><span class="chinese">他由一个民兵看守着。</span><span class="english">Hew as watched over by a militiaman.</span></p>
 
 <p><span class="chinese">这一代人不再以党的路线为行事标准。</span><span class="english">This generation doesn't hew to the party line.</span></p>

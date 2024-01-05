@@ -1,5 +1,7 @@
 # ferment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ferment.md)
+
 <p><span class="chinese">葡萄酒开始发酵了。</span><span class="english">The wine is beginning to ferment.</span></p>
 
 <p><span class="chinese">它们虽没有变腐但的确发酵了。</span><span class="english">They will not  putrefy but rather ferment.</span></p>

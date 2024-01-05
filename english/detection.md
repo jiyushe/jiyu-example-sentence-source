@@ -1,5 +1,7 @@
 # detection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/detection.md)
+
 <p><span class="chinese">一个发情检测工具。</span><span class="english">A heat detection tool.</span></p>
 
 <p><span class="chinese">非常高的查杀率。</span><span class="english">Really great detection rate.</span></p>

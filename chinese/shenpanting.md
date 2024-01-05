@@ -1,5 +1,7 @@
 # 审判庭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenpanting.md)
+
 <p><span class="chinese">他在审判庭上总想坐在最显眼的位置上.</span><span class="english">He always wanted the number one seat in the courtroom.</span></p>
 
 <p><span class="chinese">不过不管他到底是淮，他都为自己能够加入审判庭，有报酬的猎杀恶魔而感到非常快乐。</span><span class="english">Whoever he is, he, smore than happy to join the Inquisition and get paid to kill demons.</span></p>

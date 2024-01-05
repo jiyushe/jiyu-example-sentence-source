@@ -1,5 +1,7 @@
 # exactness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exactness.md)
+
 <p><span class="chinese">因为守时是一种仁爱，他总是守时的。</span><span class="english">As exactness is kindness, he was exact.</span></p>
 
 <p><span class="chinese">我们目前只需要一个大略估计，晚一点才需要精确的答案。</span><span class="english">At this time all we need is a ballpark figure. Exactness comes later.</span></p>

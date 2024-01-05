@@ -1,5 +1,7 @@
 # 干燥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganzao.md)
+
 <p><span class="chinese">滋润干燥的皮肤。</span><span class="english">Moisturize dry skin.</span></p>
 
 <p><span class="chinese">在汗湿的头发上套上一顶干燥的帽子。</span><span class="english">Put a dry hat on wet hair.</span></p>

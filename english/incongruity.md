@@ -1,5 +1,7 @@
 # incongruity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incongruity.md)
+
 <p><span class="chinese">怎样解决这一明显的不一致呢？</span><span class="english">How do we resolve this apparent incongruity?</span></p>
 
 <p><span class="chinese">休斯敦的图腾可能正是一个代表不协调的神灵。</span><span class="english">Houston’s totem could be the Imp of Incongruity.</span></p>

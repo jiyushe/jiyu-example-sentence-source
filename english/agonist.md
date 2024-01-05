@@ -1,5 +1,7 @@
 # agonist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agonist.md)
+
 <p><span class="chinese">受体激动剂是兽药的一种。</span><span class="english">Agonist is one kind of veterinary.</span></p>
 
 <p><span class="chinese">反向激动剂指一种新分类概念。</span><span class="english">Inverse agonist is a new type of classification.</span></p>

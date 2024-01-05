@@ -1,5 +1,7 @@
 # grecian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grecian.md)
+
 <p><span class="chinese">爱神曾造访过一位希腊少女。</span><span class="english">Love visited a Grecian maid.</span></p>
 
 <p><span class="chinese">少年不再，惟余水仙。</span><span class="english">A jonquil, not a Grecian lad.</span></p>

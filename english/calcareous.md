@@ -1,5 +1,7 @@
 # calcareous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calcareous.md)
+
 <p><span class="chinese">钙质砂是一种易破碎粒状材料。</span><span class="english">Calcareous sand is a kind of easily crushed granular materials.</span></p>
 
 <p><span class="chinese">容矿岩石主要为钙质粉砂岩、粉砂质板岩。</span><span class="english">The host rocks are mainly calcareous siltstone and silty slate.</span></p>

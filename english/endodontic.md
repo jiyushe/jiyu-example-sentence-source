@@ -1,5 +1,7 @@
 # endodontic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endodontic.md)
+
 <p><span class="chinese">不，在这种情况下我不介绍你采用牙根管治疗法。</span><span class="english">No, I don't recommend endodontic treatment for this condition.</span></p>
 
 <p><span class="chinese">把这颗牙保住的唯一办法就是进行牙髓治疗。</span><span class="english">The only way that the tooth can be saved is by endodontic treatment.</span></p>

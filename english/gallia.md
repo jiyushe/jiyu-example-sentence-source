@@ -1,5 +1,7 @@
 # gallia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gallia.md)
+
 <p><span class="chinese">加利亚是卓越的飞行员和灵巧的战士。</span><span class="english">Gallia was a superb pilot and skillful warrior.</span></p>
 
 <p><span class="chinese">加利亚是一位身材高挑匀称的人类女性。</span><span class="english">Gallia was a tall human female with a trim build.</span></p>

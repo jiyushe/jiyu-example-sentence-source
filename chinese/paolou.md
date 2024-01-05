@@ -1,5 +1,7 @@
 # 炮楼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paolou.md)
+
 <p><span class="chinese">顿时炮楼响了枪。</span><span class="english">Immediately fired the gun turret ring.</span></p>
 
 <p><span class="chinese">山上的炮楼把下面的海港地区置于射程之内。</span><span class="english">The fortress on the hill covered the harbour area beneath.</span></p>

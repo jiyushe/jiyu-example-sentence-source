@@ -1,5 +1,7 @@
 # 一无所获
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwusuohuo.md)
+
 <p><span class="chinese">除此以外就是一无所获</span><span class="english">And it's going to be 0 otherwise.</span></p>
 
 <p><span class="chinese">于是埃克曼坐下来仔细观察影片，可一无所获。</span><span class="english">So Ekman sat and looked at the film. Nothing.</span></p>

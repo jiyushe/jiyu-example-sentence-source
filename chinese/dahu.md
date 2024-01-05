@@ -1,5 +1,7 @@
 # 大户
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dahu.md)
+
 <p><span class="chinese">大户人家，大话人生…</span><span class="english">My family is my life!</span></p>
 
 <p><span class="chinese">村里住着一个大户人家。</span><span class="english">There lives a big family in a village.</span></p>

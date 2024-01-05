@@ -1,5 +1,7 @@
 # leo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leo.md)
+
 <p><span class="chinese">狮子座是彻底的火相星座。</span><span class="english">Leo is Fire to the core!</span></p>
 
 <p><span class="chinese">太阳是狮子座的守护星。</span><span class="english">Leo is ruled by the Sun.</span></p>

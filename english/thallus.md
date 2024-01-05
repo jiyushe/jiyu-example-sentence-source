@@ -1,5 +1,7 @@
 # thallus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thallus.md)
+
 <p><span class="chinese">大部分的原植体现在被归属为复杂的原生生物。</span><span class="english">Most thallus plants are currently classified as complex protists.</span></p>
 
 <p><span class="chinese">本发明属于一种饲料的技术领域，尤其涉及一种菌体发酵饲料。</span><span class="english">The invention belongs to the technical field of forage, in particular to a thallus fermenting forage.</span></p>

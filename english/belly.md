@@ -1,5 +1,7 @@
 # belly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/belly.md)
+
 <p><span class="chinese">肚皮舞之夜！</span><span class="english">Belly Dance Night!</span></p>
 
 <p><span class="chinese">他的肚子腆着。</span><span class="english">His belly protrudes.</span></p>

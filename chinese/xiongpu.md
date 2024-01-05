@@ -1,5 +1,7 @@
 # 胸脯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongpu.md)
+
 <p><span class="chinese">你瞧瞧那大胸脯。</span><span class="english">Look at those knockers.</span></p>
 
 <p><span class="chinese">瞧他胸脯上的肉疙瘩。</span><span class="english">See the muscles on his chest.</span></p>

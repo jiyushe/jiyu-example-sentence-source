@@ -1,5 +1,7 @@
 # cornwall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cornwall.md)
+
 <p><span class="chinese">康沃尔的男人稳稳地站着。</span><span class="english">Men of Cornwall stand ye steady.</span></p>
 
 <p><span class="chinese">九龙塘歌和老街7号和9号屋。</span><span class="english">House 7,9, Cornwall Street, Kowloon Tong.</span></p>

@@ -1,5 +1,7 @@
 # 大海捞针
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dahailaozhen.md)
+
 <p><span class="chinese">就是大海捞针。</span><span class="english">It is a needle in a haystack.</span></p>
 
 <p><span class="chinese">要找到一个优秀的测谎家，如同大海捞针</span><span class="english">A Good Lie Detector is Hard to Find</span></p>

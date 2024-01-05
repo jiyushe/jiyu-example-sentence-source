@@ -1,5 +1,7 @@
 # leasing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leasing.md)
+
 <p><span class="chinese">如欲招租，请与我们联系。</span><span class="english">Please contact us for leasing opportunities.</span></p>
 
 <p><span class="chinese">群租是一个严重的社会问题。</span><span class="english">Group-oriented leasing is a serious social matter.</span></p>

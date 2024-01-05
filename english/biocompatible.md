@@ -1,5 +1,7 @@
 # biocompatible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biocompatible.md)
+
 <p><span class="chinese">聚乙烯醇具备优良的生物相容性和大量可以用于修饰的羟基。</span><span class="english">The polyvinyl alcohol is biocompatible and has lots of hydroxyls which can be modified.</span></p>
 
 <p><span class="chinese">Biocoral是源于天然珊瑚的碳酸钙，具有可吸收性和生物相容性。</span><span class="english">Biocoral is calcium carbonate derived from natural coral, is resorbable and biocompatible.</span></p>

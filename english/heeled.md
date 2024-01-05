@@ -1,5 +1,7 @@
 # heeled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heeled.md)
+
 <p><span class="chinese">小苗均已埋植了。</span><span class="english">Young plants were heeled in.</span></p>
 
 <p><span class="chinese">他用脚后跟碰了碰我，于是我就不再说了。</span><span class="english">He heeled me, so I didn't say.</span></p>

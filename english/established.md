@@ -1,5 +1,7 @@
 # established
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/established.md)
+
 <p><span class="chinese">亚信峰会成立于1992年。</span><span class="english">CICA was established in 1992.</span></p>
 
 <p><span class="chinese">他确立了他的学说。</span><span class="english">He has established his theory.</span></p>

@@ -1,5 +1,7 @@
 # 往年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangnian.md)
+
 <p><span class="chinese">我叫李老大，往年25。</span><span class="english">I call Li old big. toyear25.</span></p>
 
 <p><span class="chinese">往年炎天将有新的型号问世。</span><span class="english">A new model will come out this summer.</span></p>

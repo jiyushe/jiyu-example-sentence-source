@@ -1,5 +1,7 @@
 # tuscan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tuscan.md)
+
 <p><span class="chinese">托斯卡纳山城镇招手。</span><span class="english">Tuscan hill towns beckon.</span></p>
 
 <p><span class="chinese">火车进入托斯卡尼平原时我们兴致很高。</span><span class="english">We enter the Tuscan plain in heightened spirits.</span></p>

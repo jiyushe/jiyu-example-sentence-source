@@ -1,5 +1,7 @@
 # daqing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daqing.md)
+
 <p><span class="chinese">我是大庆人。</span><span class="english">I am from Daqing.</span></p>
 
 <p><span class="chinese">在大庆，为大庆人！</span><span class="english">In Daqing, For Daqing People.</span></p>

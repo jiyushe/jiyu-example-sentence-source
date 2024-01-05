@@ -1,5 +1,7 @@
 # aborigine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aborigine.md)
+
 <p><span class="chinese">你这是在跟一个土著人打交道。</span><span class="english">You're dealing with an aborigine.</span></p>
 
 <p><span class="chinese">一名土著人突然用相当标准的英语说道。</span><span class="english">Said one aborigine suddenly in very orthodox English.</span></p>

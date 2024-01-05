@@ -1,5 +1,7 @@
 # enclosure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enclosure.md)
+
 <p><span class="chinese">世界上囿上帝麽?。</span><span class="english">In the world enclosure God?</span></p>
 
 <p><span class="chinese">笼子是养鸟的地方。</span><span class="english">A cage is an enclosure for birds.</span></p>

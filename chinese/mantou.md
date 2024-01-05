@@ -1,5 +1,7 @@
 # 馒头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mantou.md)
+
 <p><span class="chinese">刘教授吃不吃馒头?。</span><span class="english">Liu eat steamed bun not?</span></p>
 
 <p><span class="chinese">馒头赫格德是一个有远见的。</span><span class="english">Manju Hegde is a visionary.</span></p>

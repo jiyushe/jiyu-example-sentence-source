@@ -1,5 +1,7 @@
 # glyceryl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glyceryl.md)
+
 <p><span class="chinese">十七烷酸的一种甘油酯。</span><span class="english">A glyceryl ester of margaric acid.</span></p>
 
 <p><span class="chinese">所述成形制品也可包含稀释剂、三乙酸甘油酯。</span><span class="english">The shaped article may also comprise a diluent, glyceryl triacetate.</span></p>

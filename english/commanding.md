@@ -1,5 +1,7 @@
 # commanding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commanding.md)
+
 <p><span class="chinese">你现在是该营营长了。</span><span class="english">You're now the commanding officer.</span></p>
 
 <p><span class="chinese">就像指挥潍柴动力。</span><span class="english">Resemble commanding Wei bavin motive force.</span></p>

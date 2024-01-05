@@ -1,5 +1,7 @@
 # smolder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smolder.md)
+
 <p><span class="chinese">闷火很快变为烈焰。</span><span class="english">The smolder will soon be a flame.</span></p>
 
 <p><span class="chinese">火仍然在废墟下面燃烧着。</span><span class="english">The fires still smolder beneath the ruins.</span></p>

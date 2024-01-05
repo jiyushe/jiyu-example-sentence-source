@@ -1,5 +1,7 @@
 # 史学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shixue.md)
+
 <p><span class="chinese">你从什么时候起开史学西班牙语？</span><span class="english">From when did you pick up Spanish?</span></p>
 
 <p><span class="chinese">第五例则有关史学之用。</span><span class="english">The fifth principle is about the use of history.</span></p>

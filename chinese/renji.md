@@ -1,5 +1,7 @@
 # 人迹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renji.md)
+
 <p><span class="chinese">而我选了人迹更少的一条。</span><span class="english">I took the one less travelled by.</span></p>
 
 <p><span class="chinese">所有的街灯已灭，嗅无人迹。</span><span class="english">All the streets were dark and bare.</span></p>

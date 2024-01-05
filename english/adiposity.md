@@ -1,5 +1,7 @@
 # adiposity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adiposity.md)
+
 <p><span class="chinese">对肥胖具有很好减肥清脂作用。</span><span class="english">To adiposity have very good clear grease effect reducing weight.</span></p>
 
 <p><span class="chinese">然而，最初的蛋白尿和肥胖症之间的联系仍不清楚。</span><span class="english">However, the link between early albuminuria and adiposity remains unclear.</span></p>

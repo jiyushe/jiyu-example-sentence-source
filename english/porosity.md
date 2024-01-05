@@ -1,5 +1,7 @@
 # porosity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/porosity.md)
+
 <p><span class="chinese">煤成气储集空间主要是次生孔隙。</span><span class="english">The main reservoir space of coal gas is induced porosity.</span></p>
 
 <p><span class="chinese">浅埋藏似能保留具白垩状结构的孔隙。</span><span class="english">Shallow burial seems to preserve chalky textured porosity.</span></p>

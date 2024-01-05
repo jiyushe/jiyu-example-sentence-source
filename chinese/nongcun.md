@@ -1,5 +1,7 @@
 # 农村
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongcun.md)
+
 <p><span class="chinese">我们在农村，一个农场里。</span><span class="english">We're on a farm.</span></p>
 
 <p><span class="chinese">杨柳住在农村。</span><span class="english">Yang Liu lives on the farm.</span></p>

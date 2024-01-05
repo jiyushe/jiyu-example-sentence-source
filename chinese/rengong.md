@@ -1,5 +1,7 @@
 # 人工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rengong.md)
+
 <p><span class="chinese">它是人工混合出来的对吧</span><span class="english">Is it concocted?</span></p>
 
 <p><span class="chinese">什么是安全的人工合成物？</span><span class="english">What are safe synthetics?</span></p>

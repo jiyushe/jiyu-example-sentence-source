@@ -1,5 +1,7 @@
 # 军乐队
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junyuedui.md)
+
 <p><span class="chinese">还是似军乐队声震云霄?。</span><span class="english">Or boom like a military band?</span></p>
 
 <p><span class="chinese">军乐队游行通过大街。</span><span class="english">The brass band paraded the main street.</span></p>

@@ -1,5 +1,7 @@
 # brainy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brainy.md)
+
 <p><span class="chinese">不要自作聪明地提供解决办法。</span><span class="english">Don’t try to offer brainy solutions.</span></p>
 
 <p><span class="chinese">一是住得离别的聪明人很近。</span><span class="english">One is to live near other brainy changeophiles.</span></p>

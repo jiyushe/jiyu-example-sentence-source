@@ -1,5 +1,7 @@
 # 叛变
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/panbian.md)
+
 <p><span class="chinese">她叛变投敌了。</span><span class="english">She defected to the enemy.</span></p>
 
 <p><span class="chinese">那名官员叛变投敌了。</span><span class="english">The officer deserted to the enemy.</span></p>

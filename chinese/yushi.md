@@ -1,5 +1,7 @@
 # 于是
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yushi.md)
+
 <p><span class="chinese">于是我去了。</span><span class="english">I went over.</span></p>
 
 <p><span class="chinese">于是他这么做了。</span><span class="english">So he did it.</span></p>

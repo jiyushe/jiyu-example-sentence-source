@@ -1,5 +1,7 @@
 # 枯水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kushui.md)
+
 <p><span class="chinese">川江斗笠子滩为枯水急流滩险。</span><span class="english">Doulizi beach is the dry rapids in Chuanjiang River.</span></p>
 
 <p><span class="chinese">因此，将长期下泄“枯水”流量。</span><span class="english">As a result, it will discharge at "low water" continuously.</span></p>

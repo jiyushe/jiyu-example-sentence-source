@@ -1,5 +1,7 @@
 # unimpressive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unimpressive.md)
+
 <p><span class="chinese">办公室破旧不堪，而学生呢，多数资质平平。</span><span class="english">He had a dumpy office and taught mostly unimpressive students.</span></p>
 
 <p><span class="chinese">到目前为止，各国应对贸易下跌的举动没有给人留下深刻印象。</span><span class="english">So far, the global response to declining trade has been unimpressive.</span></p>

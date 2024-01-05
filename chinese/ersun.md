@@ -1,5 +1,7 @@
 # 儿孙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ersun.md)
+
 <p><span class="chinese">儿孙共三十三人。</span><span class="english">These sons and daughters of his were thirty-three in all.</span></p>
 
 <p><span class="chinese">时如梭，儿孙齐膝下，共享天伦乐。</span><span class="english">When the flies, their knee, the sharing of family happiness.</span></p>

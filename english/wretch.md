@@ -1,5 +1,7 @@
 # wretch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wretch.md)
+
 <p><span class="chinese">他是个大胆的恶汉。</span><span class="english">He was a bold wretch.</span></p>
 
 <p><span class="chinese">小坏蛋，你跑哪儿去了？</span><span class="english">Where have you been, wretch?</span></p>

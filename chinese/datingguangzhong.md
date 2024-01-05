@@ -1,5 +1,7 @@
 # 大庭广众
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/datingguangzhong.md)
+
 <p><span class="chinese">大庭广众之下…是不礼貌的。</span><span class="english">Burping in public is bad manners.</span></p>
 
 <p><span class="chinese">没想到，他会在大庭广众这么说。</span><span class="english">To think he should say that in public.</span></p>

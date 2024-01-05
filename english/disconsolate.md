@@ -1,5 +1,7 @@
 # disconsolate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disconsolate.md)
+
 <p><span class="chinese">惆怅感是什么东西？</span><span class="english">Disconsolate what thing is feeling?</span></p>
 
 <p><span class="chinese">现在我们当中已经有人悲不自胜了。</span><span class="english">Now some of us were left disconsolate.</span></p>

@@ -1,5 +1,7 @@
 # slope 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slope.md)
+
 <p><span class="chinese">走下斜坡。</span><span class="english">Go down the slope.</span></p>
 
 <p><span class="chinese">它有这样的斜率。</span><span class="english">It has this slope here.</span></p>

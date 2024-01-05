@@ -1,5 +1,7 @@
 # 心电图
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xindiantu.md)
+
 <p><span class="chinese">需要查一下心电图。</span><span class="english">A cardiogram is necessary.</span></p>
 
 <p><span class="chinese">然后，她会做一个心电图。</span><span class="english">Then, she'll do a cardiogram.</span></p>

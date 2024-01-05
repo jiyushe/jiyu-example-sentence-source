@@ -1,5 +1,7 @@
 # 劝导
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quandao.md)
+
 <p><span class="chinese">我们也是劝导的动物。</span><span class="english">We are persuadable animals.</span></p>
 
 <p><span class="chinese">老师劝导他克服学习中的困难。</span><span class="english">The teacher wised him to overcome the difficulties in his study.</span></p>

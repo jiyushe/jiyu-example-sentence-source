@@ -1,5 +1,7 @@
 # seedbed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seedbed.md)
+
 <p><span class="chinese">他们将土耙平作为苗床。</span><span class="english">They raked the soil smooth for a seedbed.</span></p>
 
 <p><span class="chinese">冬季扦插要做好苗床的保温工作。</span><span class="english">Cutting winter insulation to do a good job seedbed of work.</span></p>

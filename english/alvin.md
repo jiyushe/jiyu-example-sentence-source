@@ -1,5 +1,7 @@
 # alvin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alvin.md)
+
 <p><span class="chinese">艾尔文与花栗鼠。</span><span class="english">Alvin And The Chipmunks.</span></p>
 
 <p><span class="chinese">那个按摩师，阿尔文·格里芬怎样了？</span><span class="english">What about that chiropractor, Alvin Griffin?</span></p>

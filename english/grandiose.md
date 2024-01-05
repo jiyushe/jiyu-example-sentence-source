@@ -1,5 +1,7 @@
 # grandiose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grandiose.md)
+
 <p><span class="chinese">但素有这些这都是一种浮夸的盛装游行。</span><span class="english">But it is all a grandiose pageant.</span></p>
 
 <p><span class="chinese">我从来没有接近大而无当项目。</span><span class="english">I had never been close to Grandiose Project.</span></p>

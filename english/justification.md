@@ -1,5 +1,7 @@
 # justification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/justification.md)
+
 <p><span class="chinese">但这样的贫富差距肯定需要一些存在的理由。</span><span class="english">But this surely needs some justification.</span></p>
 
 <p><span class="chinese">成圣是称义的结果。</span><span class="english">Sanctification is the result of justification.</span></p>

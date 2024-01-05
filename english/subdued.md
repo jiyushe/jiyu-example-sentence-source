@@ -1,5 +1,7 @@
 # subdued
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subdued.md)
+
 <p><span class="chinese">这样亚扪人就被以色列人制伏了。</span><span class="english">Thus Israel subdued Ammon.</span></p>
 
 <p><span class="chinese">凯撒在公元前五十年时征服高卢。</span><span class="english">Caesar subdued Gaul in 50 B. C.</span></p>

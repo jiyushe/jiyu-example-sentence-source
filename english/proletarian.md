@@ -1,5 +1,7 @@
 # proletarian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proletarian.md)
+
 <p><span class="chinese">我是个无产阶级者。</span><span class="english">I am a proletarian.</span></p>
 
 <p><span class="chinese">孙犁是一位无产阶级作家。</span><span class="english">Sun Li is a proletarian writer.</span></p>

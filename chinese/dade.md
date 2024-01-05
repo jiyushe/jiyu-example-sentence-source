@@ -1,5 +1,7 @@
 # 大德
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dade.md)
+
 <p><span class="chinese">按著他极美的大德赞美他。</span><span class="english">Praise him for his surpassing greatness.</span></p>
 
 <p><span class="chinese">诸大德！现在到了诵出这二不定戒。</span><span class="english">Now, venerable sirs, the Two Indefinite Rules come up for recitation.</span></p>

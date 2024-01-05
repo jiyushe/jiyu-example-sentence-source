@@ -1,5 +1,7 @@
 # dredge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dredge.md)
+
 <p><span class="chinese">它被称作挖泥机。</span><span class="english">It is called dredge.</span></p>
 
 <p><span class="chinese">不要拖锚。</span><span class="english">Do not dredge anchor.</span></p>

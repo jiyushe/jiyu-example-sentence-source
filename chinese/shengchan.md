@@ -1,5 +1,7 @@
 # 生产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengchan.md)
+
 <p><span class="chinese">淀粉糖生产技术。</span><span class="english">Corn sugar technology.</span></p>
 
 <p><span class="chinese">什么是六西格码精益生产？</span><span class="english">What is 6 Sigma Lean ?</span></p>

@@ -1,5 +1,7 @@
 # 速决
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sujue.md)
+
 <p><span class="chinese">她具有坚强的意志和速决的才能。</span><span class="english">She had a strong will and power of rapid decision.</span></p>
 
 <p><span class="chinese">拿破仑期盼着的速决速胜迟迟没有发生。</span><span class="english">The quick, decisive victory that Napoleon expected never happened.</span></p>

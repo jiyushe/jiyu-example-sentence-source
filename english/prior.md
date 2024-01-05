@@ -1,5 +1,7 @@
 # prior
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prior.md)
+
 <p><span class="chinese">用事先皮肤白白净净的！</span><span class="english">With prior skin scrub!</span></p>
 
 <p><span class="chinese">我的名字叫托马斯普赖尔。</span><span class="english">My name 's thomas prior.</span></p>

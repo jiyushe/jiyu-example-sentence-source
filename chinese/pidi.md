@@ -1,5 +1,7 @@
 # 匹敌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pidi.md)
+
 <p><span class="chinese">有谁能与佩里克匹敌？</span><span class="english">Has anyone matched Perec?</span></p>
 
 <p><span class="chinese">他在音乐方面没有匹敌。</span><span class="english">He has no equal in music.</span></p>

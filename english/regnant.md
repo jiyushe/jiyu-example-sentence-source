@@ -1,5 +1,7 @@
 # regnant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regnant.md)
+
 <p><span class="chinese">脑血栓系统治疗方案？</span><span class="english">Is cerebral thrombus regnant cure plan?</span></p>
 
 <p><span class="chinese">隋代是历史上统治短暂的统一王朝之一。</span><span class="english">Sui Dai is one of regnant and brief unified reigns on the history.</span></p>

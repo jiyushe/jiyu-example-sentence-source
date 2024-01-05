@@ -1,5 +1,7 @@
 # 右倾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youqing_1.md)
+
 <p><span class="chinese">大多数字体是向右倾斜的。</span><span class="english">Most handwriting slants to the right.</span></p>
 
 <p><span class="chinese">他一贯被认为右倾保守。</span><span class="english">He was always regarded as a Right-deviationist conservative.</span></p>

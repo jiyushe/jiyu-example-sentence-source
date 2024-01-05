@@ -1,5 +1,7 @@
 # 绞痛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaotong.md)
+
 <p><span class="chinese">他有严重的腹绞痛。</span><span class="english">He had an awful colic.</span></p>
 
 <p><span class="chinese">一阵一阵的绞痛，我认为。</span><span class="english">A colicky pain, I think.</span></p>

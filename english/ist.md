@@ -1,5 +1,7 @@
 # ist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ist.md)
+
 <p><span class="chinese">我的名字是林心怡。</span><span class="english">Mein Name ist Lin Xinyi.</span></p>
 
 <p><span class="chinese">喂，米勒先生在吗？</span><span class="english">Hallo?Ist Herr Müller da?</span></p>

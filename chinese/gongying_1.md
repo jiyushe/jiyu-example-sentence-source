@@ -1,5 +1,7 @@
 # 公营
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongying_1.md)
+
 <p><span class="chinese">正轨公营医院，隆下巴手术平安有保证。</span><span class="english">Track public hospitals, Long chin surgery is guaranteed safe.</span></p>
 
 <p><span class="chinese">一直以来国内学术界鲜有对荷属东印度的公营局制度进行研究。</span><span class="english">Until now in our country, there has been few relative research on it.</span></p>

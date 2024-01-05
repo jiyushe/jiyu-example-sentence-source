@@ -1,5 +1,7 @@
 # nous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nous.md)
+
 <p><span class="chinese">在其位的，是那些缺乏投资常识的官僚。</span><span class="english">Bureaucrats with little investment nous are in charge.</span></p>
 
 <p><span class="chinese">代词on被用于表示“我们”时比nous常见得多。</span><span class="english">The pronoun on is used much more often to mean we than nous.</span></p>

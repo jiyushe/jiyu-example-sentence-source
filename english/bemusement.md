@@ -1,5 +1,7 @@
 # bemusement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bemusement.md)
+
 <p><span class="chinese">这是一种消遣，许多巴基斯坦人迎接与困惑。</span><span class="english">It is a pastime that many pakistanis greet with bemusement.</span></p>
 
 <p><span class="chinese">这些系统的部署，使企业陷入了“信息孤岛”的困惑。</span><span class="english">The deployment of these systems, make enterprise run into the bemusement of "Information Isolated Island".</span></p>

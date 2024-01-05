@@ -1,5 +1,7 @@
 # 药膏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaogao.md)
+
 <p><span class="chinese">这是您的药膏.</span><span class="english">And here's your ointment.</span></p>
 
 <p><span class="chinese">不要涂抹药膏。</span><span class="english">Do NOT apply ointments or salves.</span></p>

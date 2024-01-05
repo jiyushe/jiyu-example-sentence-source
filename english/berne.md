@@ -1,5 +1,7 @@
 # berne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/berne.md)
+
 <p><span class="chinese">伯尔尼被选定为他的居住地。</span><span class="english">Berne was chosen as his place of residence.</span></p>
 
 <p><span class="chinese">一年之后，她来伯尔尼两人住在了一块。</span><span class="english">After a year, she comes to live with him in Berne.</span></p>

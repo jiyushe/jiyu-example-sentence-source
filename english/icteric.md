@@ -1,5 +1,7 @@
 # icteric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/icteric.md)
+
 <p><span class="chinese">急性黄疸型肝炎是主要的临床类型。</span><span class="english">Acute icteric viral hepatitis was the main clinical type.</span></p>
 
 <p><span class="chinese">晚期可有肝肿大、黄疸、浮肿、腹水。</span><span class="english">Terminal can have hepatomegaly , icteric , bloated , ascites.</span></p>

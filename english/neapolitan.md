@@ -1,5 +1,7 @@
 # neapolitan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neapolitan.md)
+
 <p><span class="chinese">这个传说纪录是由目前很难被翻译的那不勒斯方言写成。</span><span class="english">It is written in the hard-to-translate Neapolitan dialect.</span></p>
 
 <p><span class="chinese">他是一个叫做那波里坦的意粉厨师的儿子，其一生参与制作过的电影有500部左右。</span><span class="english">The son of a Neapolitan pasta-maker, he was linked to about 500 films.</span></p>

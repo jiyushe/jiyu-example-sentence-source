@@ -1,5 +1,7 @@
 # plata
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plata.md)
+
 <p><span class="chinese">普拉塔是银。</span><span class="english">Plata is silver.</span></p>
 
 <p><span class="chinese">在拉普拉塔河中坐落松树和桉树树。</span><span class="english">Nestled amidst pine and eucalyptus trees by the Rio de la Plata.</span></p>

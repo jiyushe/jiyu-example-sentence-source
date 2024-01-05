@@ -1,5 +1,7 @@
 # 怀才不遇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huaicaibuyu.md)
+
 <p><span class="chinese">或许你觉得自己怀才不遇又超额工作。</span><span class="english">Or you feel underappreciated and over-worked.</span></p>
 
 <p><span class="chinese">先把才子分为出人头地与怀才不遇两种。</span><span class="english">First with wit is divided into two unsuccessful preeminence.</span></p>

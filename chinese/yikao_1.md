@@ -1,5 +1,7 @@
 # 倚靠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yikao_1.md)
+
 <p><span class="chinese">女孩倚靠在书桌上。</span><span class="english">The girl leaned on the desk.</span></p>
 
 <p><span class="chinese">我倚靠衪必不惧怕。</span><span class="english">I will trust and not be afraid.</span></p>

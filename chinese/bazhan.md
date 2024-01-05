@@ -1,5 +1,7 @@
 # 霸占
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bazhan.md)
+
 <p><span class="chinese">我觉得像是霸占了他的东西。</span><span class="english">I felt that I owed him something.</span></p>
 
 <p><span class="chinese">是你占有你的资产，别让资产反过霸占了你。</span><span class="english">Don’t let your possessions own you.</span></p>

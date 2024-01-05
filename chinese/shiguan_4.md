@@ -1,5 +1,7 @@
 # 石棺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiguan_4.md)
+
 <p><span class="chinese">我建起巨大的石棺。</span><span class="english">I build massive sarcophagi.</span></p>
 
 <p><span class="chinese">其中一具石棺仍然密封着。</span><span class="english">One sarcophagus was still sealed.</span></p>

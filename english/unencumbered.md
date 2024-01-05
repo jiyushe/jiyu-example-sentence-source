@@ -1,5 +1,7 @@
 # unencumbered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unencumbered.md)
+
 <p><span class="chinese">很久以前，自己一个人无牵无挂，好不自在。</span><span class="english">A long time ago, a man unencumbered own good uncomfortable.</span></p>
 
 <p><span class="chinese">我希望悬挂式滑翔能给我带来无拘无束的纯粹飞行体验。</span><span class="english">I hoped hang gliding would deliver the unencumbered essence of flight.</span></p>

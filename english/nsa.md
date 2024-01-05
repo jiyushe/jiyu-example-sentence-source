@@ -1,5 +1,7 @@
 # nsa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nsa.md)
+
 <p><span class="chinese">听说你以前是国安局的破译员?。</span><span class="english">I heard you used to be a code breaker for the NSA.</span></p>
 
 <p><span class="chinese">国家安全局已经建议将密级水平上升到128位加密。</span><span class="english">The NSA recommends 128-bit encryption up to the secret level.</span></p>

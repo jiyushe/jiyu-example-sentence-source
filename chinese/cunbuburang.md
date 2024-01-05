@@ -1,5 +1,7 @@
 # 寸步不让
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cunbuburang.md)
+
 <p><span class="chinese">但是这儿的门卫寸步不让。</span><span class="english">But the guard stood his ground.</span></p>
 
 <p><span class="chinese">他对他的原则寸步不让。</span><span class="english">He refused to compromise his principles.</span></p>

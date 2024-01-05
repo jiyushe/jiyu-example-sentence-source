@@ -1,5 +1,7 @@
 # diplegia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diplegia.md)
+
 <p><span class="chinese">方法对26例痉挛型脑瘫患儿进行步态分析。</span><span class="english">Methods The gaits of 26 spastic diplegia cerebral palsy children were analyzed.</span></p>
 
 <p><span class="chinese">目的研究双侧痉挛型脑瘫患儿的步态特征。</span><span class="english">Objective To study the gait characteristics of spastic diplegia cerebral palsy children.</span></p>

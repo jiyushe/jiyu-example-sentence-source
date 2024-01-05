@@ -1,5 +1,7 @@
 # boney
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boney.md)
+
 <p><span class="chinese">我真的不喜欢多骨的M的音乐…</span><span class="english">L don't really like Boney M's music.</span></p>
 
 <p><span class="chinese">眼眉间的线条都只是轻微的隆起。</span><span class="english">The boney eyebrow ridges are only slightly developed.</span></p>

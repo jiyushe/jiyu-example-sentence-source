@@ -1,5 +1,7 @@
 # 强手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangshou.md)
+
 <p><span class="chinese">“别担心我们，”拉维说，“我们玩强手棋。”</span><span class="english">"Don't worry about us, " Lovey said.</span></p>
 
 <p><span class="chinese">他们面临去年的优胜强手的严重威胁。</span><span class="english">They face a mauling by last year's winners.</span></p>

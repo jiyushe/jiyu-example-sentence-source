@@ -1,5 +1,7 @@
 # 境况
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingkuang.md)
+
 <p><span class="chinese">一种境况是讨厌自己。</span><span class="english">First is self-loathing.</span></p>
 
 <p><span class="chinese">我的境况就是如此。</span><span class="english">This had been my plight.</span></p>

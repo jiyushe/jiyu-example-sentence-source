@@ -1,5 +1,7 @@
 # wyoming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wyoming.md)
+
 <p><span class="chinese">因此怀俄明州被称为“牛仔州”。</span><span class="english">So Wyoming is the Cowboy State.</span></p>
 
 <p><span class="chinese">夏米尔还活着，在怀俄明州的牲口棚里。</span><span class="english">Shamire lives in the barn in Wyoming.</span></p>

@@ -1,5 +1,7 @@
 # 虔诚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiancheng_1.md)
+
 <p><span class="chinese">老和尚非常虔诚，也非常穷。</span><span class="english">He was also very poor.</span></p>
 
 <p><span class="chinese">她是一个虔诚的天主教徒。</span><span class="english">She is a good Catholic.</span></p>

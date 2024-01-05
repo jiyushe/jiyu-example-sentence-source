@@ -1,5 +1,7 @@
 # mote
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mote.md)
+
 <p><span class="chinese">那样它是的尘埃！</span><span class="english">So mote it be!</span></p>
 
 <p><span class="chinese">眼中移动的是小鸟还是尘埃？</span><span class="english">To prove if what I see be bird or mote.</span></p>

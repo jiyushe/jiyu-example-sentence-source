@@ -1,5 +1,7 @@
 # mpm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mpm.md)
+
 <p><span class="chinese">MPM的技术正在向空间应用领域扩展。</span><span class="english">MPM technique is expanding to space application.</span></p>
 
 <p><span class="chinese">MPM已经在雷达、电子对抗和通讯等领域得到应用。</span><span class="english">MPM have been using widely in the fields of Radar, ECM, Communications and so on.</span></p>

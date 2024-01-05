@@ -1,5 +1,7 @@
 # maze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maze.md)
+
 <p><span class="chinese">这个小区就像一个迷宫。</span><span class="english">This neighborhood is like a maze.</span></p>
 
 <p><span class="chinese">穴居沙龟打一个迂曲的地洞。</span><span class="english">The gopher digs a maze of tunnels.</span></p>

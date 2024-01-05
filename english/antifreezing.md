@@ -1,5 +1,7 @@
 # antifreezing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antifreezing.md)
+
 <p><span class="chinese">是防冻增效的关键措施之一。</span><span class="english">Antifreezing efficiency is one of the key measures.</span></p>
 
 <p><span class="chinese">再对3种常用防冻剂进行了筛选。</span><span class="english">Later the 3 common antifreezing agents were studied.</span></p>

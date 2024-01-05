@@ -1,5 +1,7 @@
 # make
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/make.md)
+
 <p><span class="chinese">我做了一个纸船。</span><span class="english">I make a.</span></p>
 
 <p><span class="chinese">音乐制作。</span><span class="english">Make music.</span></p>

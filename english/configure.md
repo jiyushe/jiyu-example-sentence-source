@@ -1,5 +1,7 @@
 # configure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/configure.md)
+
 <p><span class="chinese">配置监控器模型。</span><span class="english">Configure the monitor model.</span></p>
 
 <p><span class="chinese">但是，您需要配置它。</span><span class="english">But you need to configure it.</span></p>

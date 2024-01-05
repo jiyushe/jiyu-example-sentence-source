@@ -1,5 +1,7 @@
 # 章法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangfa.md)
+
 <p><span class="chinese">今天，我们很欣赏这种似乎不循章法的笔触</span><span class="english">Today we venerate this seemingly unruly brush strokes</span></p>
 
 <p><span class="chinese">高低句意要合乎逻辑。别毫无章法乱跳。</span><span class="english">Move logically from one idea to the next. Don't skip steps.</span></p>

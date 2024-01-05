@@ -1,5 +1,7 @@
 # gazette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gazette.md)
+
 <p><span class="chinese">报纸就是平常的四页纸。</span><span class="english">The Gazette was an ordinary four-page sheet.</span></p>
 
 <p><span class="chinese">总督得于宪报公布命令，修改附表。</span><span class="english">The Governor may by order published in the Gazette amend the Schedule.</span></p>

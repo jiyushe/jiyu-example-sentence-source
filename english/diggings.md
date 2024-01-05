@@ -1,5 +1,7 @@
 # diggings
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diggings.md)
+
 <p><span class="chinese">挖掘过程就像是在揭我们国家的伤口。</span><span class="english">The diggings were like opening the wound of our nation.</span></p>
 
 <p><span class="chinese">我在金矿采掘区或偏僻的森林地带，要比在这儿好得多。</span><span class="english">I shall be better in the diggings or the backwoods than ever I could be here.</span></p>

@@ -1,5 +1,7 @@
 # milieu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/milieu.md)
+
 <p><span class="chinese">突然之间，你移出了主流环境。</span><span class="english">All of a sudden you move outside the mainstream milieu.</span></p>
 
 <p><span class="chinese">这家人住在加州的伯克利市，一个以热情著称的地方。</span><span class="english">The setting is Berkeley, California—a welcoming milieu.</span></p>

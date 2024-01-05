@@ -1,5 +1,7 @@
 # 标志牌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaozhipai.md)
+
 <p><span class="chinese">那里有块“禁止停车”的标志牌。</span><span class="english">There's a sign that says NO PARKING.</span></p>
 
 <p><span class="chinese">禁止在标志牌提示的时间段内转左。</span><span class="english">Do not turn left during the times shown.</span></p>

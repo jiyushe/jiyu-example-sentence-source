@@ -1,5 +1,7 @@
 # 构词法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/goucifa.md)
+
 <p><span class="chinese">你知道英语单词的构词法吗？</span><span class="english">Do you know word formation in English words?</span></p>
 
 <p><span class="chinese">按汉语构词法创造新词对译西方术语。</span><span class="english">Creating new words according to Chinese way of word formation.</span></p>

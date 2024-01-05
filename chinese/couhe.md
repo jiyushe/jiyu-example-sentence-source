@@ -1,5 +1,7 @@
 # 凑合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/couhe.md)
+
 <p><span class="chinese">凑合在这儿栖宿一夜吧！</span><span class="english">Sleep here for the night.</span></p>
 
 <p><span class="chinese">“凑合活着呗，”麦科伊说。</span><span class="english">Just keeping alive, M' Coy said.</span></p>

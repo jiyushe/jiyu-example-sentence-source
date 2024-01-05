@@ -1,5 +1,7 @@
 # entreaty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entreaty.md)
+
 <p><span class="chinese">奎尔普太太仅能大着胆子做出一种哀求的姿势。</span><span class="english">Mrs. Quilp dared only make a gesture of entreaty.</span></p>
 
 <p><span class="chinese">奎尔普太太仅能大着胆子做出一种哀求的姿势。</span><span class="english">Mrs. Quilp durst only make a gesture of entreaty.</span></p>

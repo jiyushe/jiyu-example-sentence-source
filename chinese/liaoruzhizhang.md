@@ -1,5 +1,7 @@
 # 了如指掌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liaoruzhizhang.md)
+
 <p><span class="chinese">杰德对马了如指掌。</span><span class="english">Jed knew all about horse.</span></p>
 
 <p><span class="chinese">我们真的对自己了如指掌吗？</span><span class="english">But do we know really know ourselves?</span></p>

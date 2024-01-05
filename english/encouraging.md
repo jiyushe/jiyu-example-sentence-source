@@ -1,5 +1,7 @@
 # encouraging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/encouraging.md)
+
 <p><span class="chinese">爱是激励的指示牌。</span><span class="english">Love is encouraging signs.</span></p>
 
 <p><span class="chinese">他给了赛蒙一个鼓励的微笑。</span><span class="english">He gave an encouraging smile.</span></p>

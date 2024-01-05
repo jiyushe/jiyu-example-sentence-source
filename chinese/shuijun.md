@@ -1,5 +1,7 @@
 # 水军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuijun.md)
+
 <p><span class="chinese">你怎样看待网络水军？</span><span class="english">How do you think of online 'water army'?</span></p>
 
 <p><span class="chinese">再来报到，向水军兄弟们问好！</span><span class="english">Check again, say hello to the brothers navy!</span></p>

@@ -1,5 +1,7 @@
 # 当机立断
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangjiliduan.md)
+
 <p><span class="chinese">我会杀了他，当机立断。</span><span class="english">I would kill him, I wouldn't hesitate.</span></p>
 
 <p><span class="chinese">我们需要当机立断，攻破狱政改革这个难题。</span><span class="english">We need to grasp the nettle of prison reform.</span></p>

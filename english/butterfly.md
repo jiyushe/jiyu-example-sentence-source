@@ -1,5 +1,7 @@
 # butterfly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/butterfly.md)
+
 <p><span class="chinese">蝴蝶飞落。</span><span class="english">Butterfly flying.</span></p>
 
 <p><span class="chinese">蝴蝶飞飞。</span><span class="english">Fly, fly, butterfly.</span></p>

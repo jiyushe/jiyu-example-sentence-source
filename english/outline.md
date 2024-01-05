@@ -1,5 +1,7 @@
 # outline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outline.md)
+
 <p><span class="chinese">画出…的轮廓，画…的略图。</span><span class="english">Outline a map of North America.</span></p>
 
 <p><span class="chinese">他画了壹张意大利的略图。</span><span class="english">He drew an outline map of Italy.</span></p>

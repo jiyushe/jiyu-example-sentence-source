@@ -1,5 +1,7 @@
 # 极值
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jizhi_1.md)
+
 <p><span class="chinese">而大多数人的不幸福极值在40到50多岁，全球平均值为46岁。</span><span class="english">The global average is 46.</span></p>
 
 <p><span class="chinese">经济学家经常碰到的是求整体极值。</span><span class="english">Economists are usually interested in global extrema.</span></p>

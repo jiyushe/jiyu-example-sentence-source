@@ -1,5 +1,7 @@
 # paragenesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paragenesis.md)
+
 <p><span class="chinese">矿石中共生或伴生的有益组分有银、铜、铅、锌等。</span><span class="english">Useful compositions which are associations or paragenesis with the ore are Ag, Cu, Pb and Zn, etc.</span></p>
 
 <p><span class="chinese">本文选择了金顶矿床铅锌与硫酸盐矿床共存共生关系作为研究对象。</span><span class="english">This article selects the lead zinc and the sulfate ore deposit coexistence paragenesis relations in deposit as research object.</span></p>

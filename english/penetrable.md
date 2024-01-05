@@ -1,5 +1,7 @@
 # penetrable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/penetrable.md)
+
 <p><span class="chinese">感应透热技术已经广泛地应用于锻造钢坯的生产中。</span><span class="english">Penetrable induction heating are widely used in billet forging.</span></p>
 
 <p><span class="chinese">有些时候他可以使我们的防守更具有穿透力。</span><span class="english">It kind of opened up our defense at times and let us be penetrable.</span></p>

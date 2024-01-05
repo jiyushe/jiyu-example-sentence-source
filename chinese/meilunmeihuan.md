@@ -1,5 +1,7 @@
 # 美轮美奂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meilunmeihuan.md)
+
 <p><span class="chinese">世上，许多的事物都美轮美奂，令人陶醉。</span><span class="english">In this world, many things are beautiful, charming.</span></p>
 
 <p><span class="chinese">美轮美奂的东方明珠塔让我们感到震撼。</span><span class="english">We are amazed by the grandeur of the Oriental Pearl.</span></p>

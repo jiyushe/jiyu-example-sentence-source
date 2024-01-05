@@ -1,5 +1,7 @@
 # petulance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/petulance.md)
+
 <p><span class="chinese">他假装出摇滚明星般倔傲的任性。</span><span class="english">He affects the disdainful petulance of a rock star.</span></p>
 
 <p><span class="chinese">气急损坏的埃迪一怒之下希图用摩托车将两人撞死。</span><span class="english">Flustered damaged Eddie petulance attempts by motorcycle will both die.</span></p>

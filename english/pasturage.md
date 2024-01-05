@@ -1,5 +1,7 @@
 # pasturage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pasturage.md)
+
 <p><span class="chinese">这道栅栏侵害了我们牧场的共有权。</span><span class="english">This fence contravenes our common right to pasturage.</span></p>
 
 <p><span class="chinese">在满屋的笑声中，畜牧局长的脸红了。</span><span class="english">In the laugh of houseful, the face of pasturage director is red.</span></p>

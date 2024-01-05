@@ -1,5 +1,7 @@
 # 吹灰之力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuihuizhili.md)
+
 <p><span class="chinese">我可以不花吹灰之力干好那工作。</span><span class="english">I can do the work standing on my head.</span></p>
 
 <p><span class="chinese">不用吹灰之力，我们就可以享受日出日落。</span><span class="english">Without lifting a finger, we get to enjoy sunrises and sunsets.</span></p>

@@ -1,5 +1,7 @@
 # slovenia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slovenia.md)
+
 <p><span class="chinese">你去过斯洛文尼亚吗？</span><span class="english">Have you ever been to Slovenia?</span></p>
 
 <p><span class="chinese">胡锦涛说，中斯两国人民有着传统友谊。</span><span class="english">Hu said that China and Slovenia had a traditional friendship.</span></p>

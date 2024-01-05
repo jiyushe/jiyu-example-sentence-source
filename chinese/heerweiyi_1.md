@@ -1,5 +1,7 @@
 # 合而为一
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heerweiyi_1.md)
+
 <p><span class="chinese">死者裸身他们应合而为一</span><span class="english">Dead men naked they shall be one</span></p>
 
 <p><span class="chinese">简言之，这两项特性合而为一了。</span><span class="english">In short, the two traits go together.</span></p>

@@ -1,5 +1,7 @@
 # extrusion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extrusion.md)
+
 <p><span class="chinese">子层在设计中空挤压。</span><span class="english">The sub-floor extrusion is hollow in design.</span></p>
 
 <p><span class="chinese">寻觅，吸吮和吞咽，喷出反射。</span><span class="english">Rooting, Sucking and Swallow, Extrusion Reflex.</span></p>

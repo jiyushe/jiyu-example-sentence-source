@@ -1,5 +1,7 @@
 # imitated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imitated.md)
+
 <p><span class="chinese">他模仿公鸡打鸣。</span><span class="english">He imitated the cock's crow.</span></p>
 
 <p><span class="chinese">他在绘画上师法古人。</span><span class="english">He imitated the ancients in painting.</span></p>

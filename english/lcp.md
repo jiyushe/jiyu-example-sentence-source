@@ -1,5 +1,7 @@
 # lcp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lcp.md)
+
 <p><span class="chinese">连结控制协定讯框被用来完成每个连结控制协定阶段的工作。</span><span class="english">LCP frames are used to accomplish the work of each of the LCP phases.</span></p>
 
 <p><span class="chinese">结论LCP是治疗肱骨近端粉碎性骨折较理想的方法。</span><span class="english">Conclusions LCP is effective for comminuted proximal humeral fracture.</span></p>

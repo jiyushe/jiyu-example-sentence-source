@@ -1,5 +1,7 @@
 # 失之交臂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizhijiaobi.md)
+
 <p><span class="chinese">若悲伤感怀，你会与他们失之交臂。</span><span class="english">Be sad , and you lose them all.</span></p>
 
 <p><span class="chinese">我们总是与生命中许多机会失之交臂。</span><span class="english">"We always lose many chances we take in our lives.</span></p>

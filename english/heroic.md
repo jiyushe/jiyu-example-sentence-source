@@ -1,5 +1,7 @@
 # heroic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heroic.md)
+
 <p><span class="chinese">她是巾帼英雄。</span><span class="english">She is a heroic woman.</span></p>
 
 <p><span class="chinese">他身上透出一股英气。</span><span class="english">He shows a heroic spirit.</span></p>

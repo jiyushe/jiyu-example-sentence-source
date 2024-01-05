@@ -1,5 +1,7 @@
 # sheffield
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sheffield.md)
+
 <p><span class="chinese">也许他们可以去谢菲尔德？</span><span class="english">Perhaps they could both head to Sheffield?</span></p>
 
 <p><span class="chinese">我准备下班回谢菲尔德，于是跟他们道别。</span><span class="english">I was going home to Sheffield so I said my goodbyes.</span></p>

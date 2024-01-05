@@ -1,5 +1,7 @@
 # 内功
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neigong.md)
+
 <p><span class="chinese">大家都不能用内功攻击就算了，为什么只有敌人可以而我不可以……</span><span class="english">You don't question what you believe, you can not. But I must.</span></p>
 
 <p><span class="chinese">小王站在椅子上，这样看节目就看得更清楚些。我不知道今日新开金牛无内功。</span><span class="english">Xiao Wang stood up on a chair so as to see the performance better.</span></p>

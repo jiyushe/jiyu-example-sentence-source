@@ -1,5 +1,7 @@
 # succubus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/succubus.md)
+
 <p><span class="chinese">她不再是那个轮番变幻的魔女了。</span><span class="english">She was no longer the alternate succubus.</span></p>
 
 <p><span class="chinese">作为回报，永恒的女妖希望她的灵魂。</span><span class="english">As redound, lasting succubus hopes her soul.</span></p>

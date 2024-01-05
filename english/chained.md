@@ -1,5 +1,7 @@
 # chained
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chained.md)
+
 <p><span class="chinese">他用链条把自行车拴在栅栏上。</span><span class="english">He chained his bike to the fence.</span></p>
 
 <p><span class="chinese">他把自行车栓到桩子上。</span><span class="english">He chained his bicycle to the post.</span></p>

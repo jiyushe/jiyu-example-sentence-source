@@ -1,5 +1,7 @@
 # 约定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yueding.md)
+
 <p><span class="chinese">我们约定好了是在5点钟。</span><span class="english">We stipulated at 5 o'clock.</span></p>
 
 <p><span class="chinese">这是一个公共约定。</span><span class="english">This is a common convention.</span></p>

@@ -1,5 +1,7 @@
 # china
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/china.md)
+
 <p><span class="chinese">中国饭店。</span><span class="english">China Hotel.</span></p>
 
 <p><span class="chinese">我很喜欢中国。</span><span class="english">I like China.</span></p>

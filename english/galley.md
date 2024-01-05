@@ -1,5 +1,7 @@
 # galley
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/galley.md)
+
 <p><span class="chinese">早晨一个巨浪哗啦一声把厨房的一扇门冲坏了。</span><span class="english">In the morning a sea smashed one of the galley doors.</span></p>
 
 <p><span class="chinese">居住舱的厨房要提供14天的食物给养。</span><span class="english">The HAB galley will accommodate a 14 day food supply.</span></p>

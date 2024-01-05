@@ -1,5 +1,7 @@
 # 老父
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laofu_1.md)
+
 <p><span class="chinese">这真是难为了老父。</span><span class="english">It was so hard for my dad.</span></p>
 
 <p><span class="chinese">这女人一直坚强地陪伴奄奄一息的老父直到他去世。</span><span class="english">The woman sat beside her dying father's bed to the bitter end.</span></p>

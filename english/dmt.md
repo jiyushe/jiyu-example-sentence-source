@@ -1,5 +1,7 @@
 # dmt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dmt.md)
+
 <p><span class="chinese">并就扁铲试验在实际岩土工程中的运用进行了一些探讨。</span><span class="english">And the engineering applications of DMT are discussed in some aspects.</span></p>
 
 <p><span class="chinese">警察声称，他们发现了一种名为二甲基色胺的致幻的化学药物。</span><span class="english">Police say they found a lab where chemicals could create a hallucinogenic drug known as DMT.</span></p>

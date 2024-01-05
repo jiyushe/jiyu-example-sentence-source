@@ -1,5 +1,7 @@
 # 枕头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhentou.md)
+
 <p><span class="chinese">早上好，枕头。</span><span class="english">Good morning, bed.</span></p>
 
 <p><span class="chinese">给我一个枕头好吗?。</span><span class="english">May I have a pillow?</span></p>

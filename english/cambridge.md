@@ -1,5 +1,7 @@
 # cambridge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cambridge.md)
+
 <p><span class="chinese">我现在住在剑桥。</span><span class="english">Now I live in Cambridge.</span></p>
 
 <p><span class="chinese">请告诉我到剑桥该怎么走？</span><span class="english">How can I get to Cambridge?</span></p>

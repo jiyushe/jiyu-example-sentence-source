@@ -1,5 +1,7 @@
 # 苦口婆心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kukoupoxin.md)
+
 <p><span class="chinese">我苦口婆心，再三劝说。</span><span class="english">I described, and enforced them earnestly.</span></p>
 
 <p><span class="chinese">这是母亲苦口婆心的爱，可是她也是很气愤的。</span><span class="english">Hers is a labour of love but she is angry too.</span></p>

@@ -1,5 +1,7 @@
 # 诗坛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shitan_2.md)
+
 <p><span class="chinese">你读过英语诗坛上大师级诗人的作品吗？</span><span class="english">Have you read the great masters of English poetry?</span></p>
 
 <p><span class="chinese">吴绮是清初诗坛一位非常活跃的文人。</span><span class="english">Wu Qi is a very active poet in early Qing Dynasty.</span></p>

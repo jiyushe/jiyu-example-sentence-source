@@ -1,5 +1,7 @@
 # 强弱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangruo.md)
+
 <p><span class="chinese">用关连线描绘出强弱关系。</span><span class="english">Relationship lines depict strength of relationship.</span></p>
 
 <p><span class="chinese">好吧,节奏是,强弱弱,是这样的</span><span class="english">Okay. So that's strong, weak, weak, in that fashion.</span></p>

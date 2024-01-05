@@ -1,5 +1,7 @@
 # rhizome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhizome.md)
+
 <p><span class="chinese">根状茎粗度反映了根状茎的成熟程度。</span><span class="english">Thickness reflects the mature degree of rhizome.</span></p>
 
 <p><span class="chinese">白茅根能清热利尿。</span><span class="english">Cogongrass Rhizome clears heat and induces diuresis.</span></p>

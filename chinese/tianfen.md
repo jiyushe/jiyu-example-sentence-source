@@ -1,5 +1,7 @@
 # 天分
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianfen.md)
+
 <p><span class="chinese">他有妙语连珠的天分。</span><span class="english">He has a genius for epigram.</span></p>
 
 <p><span class="chinese">我知道他情况很好，我也知道他有这个天分。</span><span class="english">I know he is good. I know he has such talent.</span></p>

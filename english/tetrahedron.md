@@ -1,5 +1,7 @@
 # tetrahedron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tetrahedron.md)
+
 <p><span class="chinese">因此在空间中是一个三角形，空间中是一个四面体，等等。</span><span class="english">Thus one has a triangle in , a tetrahedron in , etc.</span></p>
 
 <p><span class="chinese">四面体型的四根等长的键。</span><span class="english">And now you have a tetrahedron with equal length bonds.</span></p>

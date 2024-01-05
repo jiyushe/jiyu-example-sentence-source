@@ -1,5 +1,7 @@
 # androgen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/androgen.md)
+
 <p><span class="chinese">哪些食物雄性激素含量高？</span><span class="english">Which food androgen contents are high?</span></p>
 
 <p><span class="chinese">睾丸甾酮是一种雄性激素或雄性类固醇激素。</span><span class="english">Testosterone is an androgen or male steroid hormone.</span></p>

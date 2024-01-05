@@ -1,5 +1,7 @@
 # 不露声色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bulushengse.md)
+
 <p><span class="chinese">我还是面无表情、不露声色。</span><span class="english">Again I was impassive and expressionless.</span></p>
 
 <p><span class="chinese">在生意场上，不露声色会非常有用的。</span><span class="english">In business a poker face can be very useful.</span></p>

@@ -1,5 +1,7 @@
 # 刮目相看
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guamuxiangkan.md)
+
 <p><span class="chinese">盼望有一天您能对我刮目相看。</span><span class="english">I hope to earn your respect someday.</span></p>
 
 <p><span class="chinese">所有这一切意味着他的下一个企业一定会令人刮目相看，它很可能是风险投资公司。</span><span class="english">A venture capital company seems likely.</span></p>

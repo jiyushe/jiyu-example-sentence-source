@@ -1,5 +1,7 @@
 # weeper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weeper.md)
+
 <p><span class="chinese">如果是后者，那他们也将是感性的哭泣者。</span><span class="english">For the latter, this will be a weeper.</span></p>
 
 <p><span class="chinese">由此才使得泪水和哀哭者一同得到转变。</span><span class="english">And that will transform both the tears and the weeper.</span></p>

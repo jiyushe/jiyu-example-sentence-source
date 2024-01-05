@@ -1,5 +1,7 @@
 # 投放
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toufang.md)
+
 <p><span class="chinese">把你的阴影投放在日规上。</span><span class="english">Lay thy shadow on the sundials.</span></p>
 
 <p><span class="chinese">把你的影子投放在日规上。</span><span class="english">Lay your shadows over the sundial.</span></p>

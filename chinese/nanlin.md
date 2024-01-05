@@ -1,5 +1,7 @@
 # 南邻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanlin.md)
+
 <p><span class="chinese">南邻长江、南接沪宁高速公路。</span><span class="english">South neighbour Yangtze River, south meets the Shanghai and Nanjinghighway.</span></p>
 
 <p><span class="chinese">甚至蒙古世界性的自由主义者也公然蔑视他们的南邻。</span><span class="english">Even cosmopolitan liberals are unabashedly disdainful of their southern neighbours.</span></p>

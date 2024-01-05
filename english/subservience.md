@@ -1,5 +1,7 @@
 # subservience
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subservience.md)
+
 <p><span class="chinese">承顺者未必是忠诚。</span><span class="english">Subservience is not loyalty.</span></p>
 
 <p><span class="chinese">加尔文教不为政府服务。</span><span class="english">Calvinism isn't a religion of subservience to any government.</span></p>

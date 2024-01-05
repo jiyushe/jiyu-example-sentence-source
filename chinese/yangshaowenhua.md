@@ -1,5 +1,7 @@
 # 仰韶文化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangshaowenhua.md)
+
 <p><span class="chinese">仰韶文化是黄河中游地区重要的新石器时代文化。</span><span class="english">The culture is in the middle of the Yellow River at the New Stone Age.</span></p>
 
 <p><span class="chinese">仰韶文化是距今约5000～7000年中国新石器时代的一种文化。</span><span class="english">Yangshao culture is now about 5000 to 7000 of a Neolithic culture in China.</span></p>

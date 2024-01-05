@@ -1,5 +1,7 @@
 # 暑天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shutian.md)
+
 <p><span class="chinese">在暑天喝柠檬水，会使人精神抖擞。</span><span class="english">Lemonade on a hot day is very refreshing.</span></p>
 
 <p><span class="chinese">冰淇淋在暑天销路好。</span><span class="english">Ice-cream always goes well in hot weather.</span></p>

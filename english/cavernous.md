@@ -1,5 +1,7 @@
 # cavernous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cavernous.md)
+
 <p><span class="chinese">从未踏进这个广袤渊深的宇宙。</span><span class="english">Never stepped into such a cavernous space.</span></p>
 
 <p><span class="chinese">人的仇恨正在淡渊的尽尾熊熊燃焚。</span><span class="english">My hatred burns through the cavernous deeps.</span></p>

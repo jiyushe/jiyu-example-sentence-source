@@ -1,5 +1,7 @@
 # dice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dice.md)
+
 <p><span class="chinese">铁、木和冰是固体。</span><span class="english">A dice is a solid.</span></p>
 
 <p><span class="chinese">把茄子切成丁儿。</span><span class="english">Dice the eggplant.</span></p>

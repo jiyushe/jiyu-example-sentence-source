@@ -1,5 +1,7 @@
 # 所到之处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suodaozhichu.md)
+
 <p><span class="chinese">所到之处，以满足总理若斯潘。</span><span class="english">They went to meet prime minister Jospin.</span></p>
 
 <p><span class="chinese">他们所到之处都有人欢呼。</span><span class="english">Everywhere they appeared they were ovations.</span></p>

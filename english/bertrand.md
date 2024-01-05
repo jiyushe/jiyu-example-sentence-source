@@ -1,5 +1,7 @@
 # bertrand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bertrand.md)
+
 <p><span class="chinese">最好的例证就是伯特兰兰·罗素的作品了。</span><span class="english">The best example is Bertrand Russell's work.</span></p>
 
 <p><span class="chinese">最好的例证就是伯特兰·罗素的作品了。</span><span class="english">The best example is Bertrand Russell’s work.</span></p>

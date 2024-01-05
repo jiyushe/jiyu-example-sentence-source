@@ -1,5 +1,7 @@
 # 漫长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manchang.md)
+
 <p><span class="chinese">今天真是漫长的一天。</span><span class="english">It's been a long day.</span></p>
 
 <p><span class="chinese">为自己铺下一条更平坦更漫长的路。</span><span class="english">I have long way to go.</span></p>

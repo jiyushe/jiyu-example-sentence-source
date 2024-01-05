@@ -1,5 +1,7 @@
 # 王八
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangba.md)
+
 <p><span class="chinese">我要宰掉那个王八蛋。</span><span class="english">I'll kill the fucker.</span></p>
 
 <p><span class="chinese">我要是知道的话，就是王八蛋。</span><span class="english">I am blowed if I know.</span></p>

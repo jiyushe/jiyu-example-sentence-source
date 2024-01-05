@@ -1,5 +1,7 @@
 # forfeit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forfeit.md)
+
 <p><span class="chinese">他因工作过度而丧失了健康。</span><span class="english">His health was the forfeit he paid for overworking.</span></p>
 
 <p><span class="chinese">如果你违背了义务，那也就会被剥夺权利。</span><span class="english">If you breach those responsibilities, you also forfeit your rights.</span></p>

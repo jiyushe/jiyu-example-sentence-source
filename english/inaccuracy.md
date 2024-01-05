@@ -1,5 +1,7 @@
 # inaccuracy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inaccuracy.md)
+
 <p><span class="chinese">确保它是一个合法的报道失实。</span><span class="english">Make sure it is a legitimate inaccuracy.</span></p>
 
 <p><span class="chinese">这张蓝图有点不准。</span><span class="english">There is a slight inaccuracy in this blueprint.</span></p>

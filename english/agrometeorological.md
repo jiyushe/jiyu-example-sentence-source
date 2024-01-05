@@ -1,5 +1,7 @@
 # agrometeorological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agrometeorological.md)
+
 <p><span class="chinese">洪水灾害风险区划是洪水风险管理的基本依据。</span><span class="english">The risk regionalization of agrometeorological calamities was accompl.</span></p>
 
 <p><span class="chinese">土壤水分测定是农业气象观测员的一项重要业务之一。</span><span class="english">Measurement of soil moisture is one of important operation of agrometeorological observer.</span></p>

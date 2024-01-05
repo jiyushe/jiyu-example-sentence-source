@@ -1,5 +1,7 @@
 # rba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rba.md)
+
 <p><span class="chinese">平心而论,澳洲央行的成功也有一部分归功于好运气.</span><span class="english">To be fair, the RBA owes some of its success to good fortune.</span></p>
 
 <p><span class="chinese">“可能对我的澳大利亚央行预测也有不利影响”，他说。</span><span class="english">“Possibly there are downside risks to my RBA forecasts,” he said.</span></p>

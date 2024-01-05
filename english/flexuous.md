@@ -1,5 +1,7 @@
 # flexuous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flexuous.md)
+
 <p><span class="chinese">情节是复杂的，他们是曲折和戏剧。</span><span class="english">The plots are complicated, and they are flexuous and dramatic.</span></p>
 
 <p><span class="chinese">她那躲躲闪闪的柔弱身体，也变成了那片景物中不可分割的一个部分。</span><span class="english">Her flexuous and stealthy figure became an integral part of the scene.</span></p>

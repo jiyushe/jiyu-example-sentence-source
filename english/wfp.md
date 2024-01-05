@@ -1,5 +1,7 @@
 # wfp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wfp.md)
+
 <p><span class="chinese">但是，世界粮食计划署的女发言人卡塞拉表示，这仍然不够。</span><span class="english">But WFP spokeswoman Emilia Casella says that is not enough.</span></p>
 
 <p><span class="chinese">据联合国世界粮食计划署表明，仅需20欧分即可为一名儿童提供一份营养餐。</span><span class="english">WFP just 20 Euro cents to provide a nutritious meal to a child at school.</span></p>

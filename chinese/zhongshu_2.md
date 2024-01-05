@@ -1,5 +1,7 @@
 # 种树
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongshu_2.md)
+
 <p><span class="chinese">我们种树，后人乘凉。</span><span class="english">We planted the trees.</span></p>
 
 <p><span class="chinese">那种树总是传奇世界私服很伤心?。</span><span class="english">What tree is always very sad?</span></p>

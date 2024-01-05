@@ -1,5 +1,7 @@
 # cauda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cauda.md)
+
 <p><span class="chinese">应用激光多普勒血流仪检测马尾神经血流量。</span><span class="english">The blood flow of cauda equina was measured with laser Doppler flowmeter.</span></p>
 
 <p><span class="chinese">目的探讨提高马尾神经损伤的手术治愈率与方法。</span><span class="english">Objective To improve the therapeutic effect of cauda equine injury with microsurgery.</span></p>

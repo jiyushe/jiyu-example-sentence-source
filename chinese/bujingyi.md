@@ -1,5 +1,7 @@
 # 不经意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bujingyi.md)
+
 <p><span class="chinese">他不经意把杯子打碎了。</span><span class="english">He inadvertently broke the glass.</span></p>
 
 <p><span class="chinese">然后在某个不经意的瞬间。</span><span class="english">Then in some nonchalant instantaneous.</span></p>

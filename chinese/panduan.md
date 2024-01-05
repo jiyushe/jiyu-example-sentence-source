@@ -1,5 +1,7 @@
 # 判断
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/panduan.md)
+
 <p><span class="chinese">我敢判断我们队准能获胜。</span><span class="english">I bet our team will win.</span></p>
 
 <p><span class="chinese">你不会总对事情妄加判断了。</span><span class="english">You don't judge as much.</span></p>

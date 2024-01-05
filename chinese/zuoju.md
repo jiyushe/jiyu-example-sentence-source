@@ -1,5 +1,7 @@
 # 坐具
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoju.md)
+
 <p><span class="chinese">椅子是一种有靠背、有的还有扶手的坐具。</span><span class="english">There is a chair back, there are some handrails of Zuoju.</span></p>
 
 <p><span class="chinese">坐具不合适，同样也可以引起腰痛。</span><span class="english">A thing to sit on is improper, also can cause lumbago likewise.</span></p>

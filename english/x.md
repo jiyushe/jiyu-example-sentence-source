@@ -1,5 +1,7 @@
 # x
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/x.md)
+
 <p><span class="chinese">的值是1，Y是2，X，is，1，，Y，is，2。,好的，它是起作用的。</span><span class="english">X Okay. It worked.</span></p>
 
 <p><span class="chinese">现在是一个占位符。，X，is，now，placeholder。,我放置在哪里呢？</span><span class="english">X What do I place?</span></p>

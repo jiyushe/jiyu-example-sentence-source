@@ -1,5 +1,7 @@
 # nothingness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nothingness.md)
+
 <p><span class="chinese">苍穹为虚无关阖。</span><span class="english">Space closes up into nothingness.</span></p>
 
 <p><span class="chinese">人在无物中变得贫穷。</span><span class="english">Man goes a-beggaring into nothingness.</span></p>

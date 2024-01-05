@@ -1,5 +1,7 @@
 # motherhood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/motherhood.md)
+
 <p><span class="chinese">母性。</span><span class="english">Motherhood.</span></p>
 
 <p><span class="chinese">原因更多的是关于女性倾向和母性。</span><span class="english">It's mostly about female preference and motherhood.</span></p>

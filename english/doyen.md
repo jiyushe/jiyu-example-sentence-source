@@ -1,5 +1,7 @@
 # doyen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doyen.md)
+
 <p><span class="chinese">1993年，港产电影抵达238部，吴宇森作为元老级导演隆重进入好莱坞市场。</span><span class="english">In 1993. it hadvertising campaign produced a list 238 films the doyen director.</span></p>
 
 <p><span class="chinese">剑桥大学教授，业内资深人士西蒙。拜伦-科恩，也得出类似结论。</span><span class="english">Simon Baron- Cohen , a doyen of the field who works at Cambridge University, draws similar conclusions.</span></p>

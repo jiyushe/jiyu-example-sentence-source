@@ -1,5 +1,7 @@
 # thinkable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thinkable.md)
+
 <p><span class="chinese">可想的也就是可能的。</span><span class="english">What is thinkable is also possible.</span></p>
 
 <p><span class="chinese">所有能被想象的也是可能的。</span><span class="english">What is thinkable is also possible.</span></p>

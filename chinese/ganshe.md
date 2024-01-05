@@ -1,5 +1,7 @@
 # 干涉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganshe.md)
+
 <p><span class="chinese">我决不容许任何干涉行径。</span><span class="english">I will brook no interference.</span></p>
 
 <p><span class="chinese">于是另一位神着手干涉此事。</span><span class="english">So another god, Shiva, intervened.</span></p>

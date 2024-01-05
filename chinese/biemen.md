@@ -1,5 +1,7 @@
 # 憋闷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biemen.md)
+
 <p><span class="chinese">在这个窄狭的房间里面我感到憋闷。</span><span class="english">I am -ling in this close room.</span></p>
 
 <p><span class="chinese">他主诉胸部憋闷。</span><span class="english">He complained of having a chest.</span></p>

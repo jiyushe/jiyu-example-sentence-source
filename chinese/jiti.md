@@ -1,5 +1,7 @@
 # 机体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiti.md)
+
 <p><span class="chinese">这只是对机体破坏。</span><span class="english">It just does body damage.</span></p>
 
 <p><span class="chinese">病菌会侵入机体。</span><span class="english">Germs invade the organism.</span></p>

@@ -1,5 +1,7 @@
 # 教主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaozhu.md)
+
 <p><span class="chinese">教主，没字幕也没文本啦？</span><span class="english">Caption and text will be added. Thx.</span></p>
 
 <p><span class="chinese">嘿，上东区的各位，这里是花边新闻教主。</span><span class="english">Hey upper east siders, Gossip Girl here.</span></p>

@@ -1,5 +1,7 @@
 # 鼓劲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gujin_2.md)
+
 <p><span class="chinese">当我沮丧时，我的同室室友给我鼓劲。</span><span class="english">When I get despondent my roommate cheer me up.</span></p>
 
 <p><span class="chinese">没错，这给那些害羞的人鼓劲了。</span><span class="english">True, this provides encouragement to the timid.</span></p>

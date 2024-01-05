@@ -1,5 +1,7 @@
 # ini
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ini.md)
+
 <p><span class="chinese">ini中的参数register_globals必须关闭。</span><span class="english">Register_globals should be turned off in php.ini.</span></p>
 
 <p><span class="chinese">无法从媒体INI文件中读取敺动器名称。</span><span class="english">Cannot read the device name from the media . INI file.</span></p>

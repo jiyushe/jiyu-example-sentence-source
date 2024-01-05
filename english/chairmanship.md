@@ -1,5 +1,7 @@
 # chairmanship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chairmanship.md)
+
 <p><span class="chinese">他冒称自己是主席。</span><span class="english">He arrogated the chairmanship.</span></p>
 
 <p><span class="chinese">他将被派担任主席。</span><span class="english">He will be appointed to the chairmanship.</span></p>

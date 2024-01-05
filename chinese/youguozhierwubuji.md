@@ -1,5 +1,7 @@
 # 有过之而无不及
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youguozhierwubuji.md)
+
 <p><span class="chinese">论起才干，他跟他哥哥不相上下，或许还有过之而无不及。</span><span class="english">In ability he equals and perhaps surpasses his brother.</span></p>
 
 <p><span class="chinese">一个城镇可能有的问题我们都有了——而且有过之而无不及。</span><span class="english">Whatever problem a town can have we have it-with knobs on.</span></p>

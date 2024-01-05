@@ -1,5 +1,7 @@
 # multiattribute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multiattribute.md)
+
 <p><span class="chinese">DC的选址是一个多属性决策问题。</span><span class="english">Selection of the DC location is a multiattribute decision-making problem.</span></p>
 
 <p><span class="chinese">多属性决策问题的属性值是决定方案排序的基础。</span><span class="english">Attribute values in multiattribute decision-making are the base of the alternatives' ranking.</span></p>

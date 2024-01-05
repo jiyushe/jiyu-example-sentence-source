@@ -1,5 +1,7 @@
 # 经久不衰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingjiubushuai.md)
+
 <p><span class="chinese">但是现在，你的喜剧能够经久不衰。</span><span class="english">But now, your comedy can live on forever.</span></p>
 
 <p><span class="chinese">这在哲学上也是一个经久不衰的问题。</span><span class="english">And that's a perennial issue in philosophy.</span></p>

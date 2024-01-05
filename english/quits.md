@@ -1,5 +1,7 @@
 # quits
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quits.md)
+
 <p><span class="chinese">真正的大侠决不放弃。</span><span class="english">A good warrior never quits.</span></p>
 
 <p><span class="chinese">有时我真想一死了之。</span><span class="english">Sometimes, I just want to call it quits.</span></p>

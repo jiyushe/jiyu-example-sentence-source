@@ -1,5 +1,7 @@
 # breakdown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breakdown.md)
+
 <p><span class="chinese">不过这是个相当不错的分类。</span><span class="english">But it's a pretty good breakdown.</span></p>
 
 <p><span class="chinese">准备工作分解结构。</span><span class="english">Prepare the work breakdown structure.</span></p>

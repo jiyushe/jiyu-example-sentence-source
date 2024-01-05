@@ -1,5 +1,7 @@
 # simplistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/simplistic.md)
+
 <p><span class="chinese">那是一个过于简单化的观点。</span><span class="english">That is far too simplistic a view.</span></p>
 
 <p><span class="chinese">简单化和试验性的派森ETL包。</span><span class="english">Simplistic and experimental python ETL package.</span></p>

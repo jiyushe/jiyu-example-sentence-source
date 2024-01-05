@@ -1,5 +1,7 @@
 # dashing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dashing.md)
+
 <p><span class="chinese">蝴蝶结在鞋面点缀。</span><span class="english">Dashing embellishment at vamp.</span></p>
 
 <p><span class="chinese">一匹狂奔的马将他撞倒。</span><span class="english">A dashing horse bowled him over.</span></p>

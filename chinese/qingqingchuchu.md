@@ -1,5 +1,7 @@
 # 清清楚楚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingqingchuchu.md)
+
 <p><span class="chinese">你的话我听得清清楚楚。</span><span class="english">I hear you loud and clear.</span></p>
 
 <p><span class="chinese">慢慢说，生活讲究清清楚楚，明明白白。</span><span class="english">Say it slow, make things clear.</span></p>

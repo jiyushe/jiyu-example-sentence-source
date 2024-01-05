@@ -1,5 +1,7 @@
 # 变化莫测
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianhuamoce.md)
+
 <p><span class="chinese">生活够多么古怪！多么变化莫测！</span><span class="english">How life is strange and changeful!</span></p>
 
 <p><span class="chinese">秋天的云，女人的心—变化莫测。</span><span class="english">A winter weather and women's thoughts change oft.</span></p>

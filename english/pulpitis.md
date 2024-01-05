@@ -1,5 +1,7 @@
 # pulpitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pulpitis.md)
+
 <p><span class="chinese">目的评价急性牙髓炎一次性根管充填法治疗的疗效。</span><span class="english">Objective Evaluation one-time root canal treatment acute pulpitis effect.</span></p>
 
 <p><span class="chinese">目的观察清胃散口服液治疗急性牙髓炎的临床疗效。</span><span class="english">Objective To observe the clinical effect of Qingweisan on acute pulpitis.</span></p>

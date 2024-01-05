@@ -1,5 +1,7 @@
 # sag
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sag.md)
+
 <p><span class="chinese">它不容易松弛下陷。</span><span class="english">It doesn's sag easily.</span></p>
 
 <p><span class="chinese">我想一位淑女是不会穿宽松裤的。</span><span class="english">I don't think a lady would sag.</span></p>

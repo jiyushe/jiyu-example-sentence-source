@@ -1,5 +1,7 @@
 # elated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elated.md)
+
 <p><span class="chinese">今天的中国扬眉吐气。</span><span class="english">Today China is proud and elated.</span></p>
 
 <p><span class="chinese">会拥有烦恼,也会欢欣愉悦</span><span class="english">We're worried. We'll get elated.</span></p>

@@ -1,5 +1,7 @@
 # mound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mound.md)
+
 <p><span class="chinese">啊，这座土堆就是陵墓啊？</span><span class="english">Is this mound the mausoleum?</span></p>
 
 <p><span class="chinese">没想到这里还有这么大的敖包。</span><span class="english">There is such a huge Obo mound.</span></p>

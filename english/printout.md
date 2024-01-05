@@ -1,5 +1,7 @@
 # printout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/printout.md)
+
 <p><span class="chinese">这次搜索的区间。</span><span class="english">Notice the printout here.</span></p>
 
 <p><span class="chinese">通常，您希望创建流程的打印输出。</span><span class="english">Often times, you want to create a printout of the process.</span></p>

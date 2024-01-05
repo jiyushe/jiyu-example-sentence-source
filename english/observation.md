@@ -1,5 +1,7 @@
 # observation 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/observation.md)
+
 <p><span class="chinese">还有别的意见吗？，罗杰？</span><span class="english">Another observation?Roger?</span></p>
 
 <p><span class="chinese">很敏锐的观察力。</span><span class="english">That's a keen observation.</span></p>

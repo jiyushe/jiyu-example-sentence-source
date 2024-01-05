@@ -1,5 +1,7 @@
 # bivalve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bivalve.md)
+
 <p><span class="chinese">这种精美的双壳贝的两扇完全对称。</span><span class="english">Both halves of this delicate bivalve are exactly matched.</span></p>
 
 <p><span class="chinese">但是，你可曾听说过有人试图用打字机来剖开陆生的壳类动物吗？</span><span class="english">But did you ever notice anyone try to open the terrestrial bivalve with a typewriter?</span></p>

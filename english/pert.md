@@ -1,5 +1,7 @@
 # pert
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pert.md)
+
 <p><span class="chinese">她是一个冒失的孩子。</span><span class="english">She is a pert child.</span></p>
 
 <p><span class="chinese">她戴著一顶雅致的小帽子。</span><span class="english">She wore a pert little hat.</span></p>

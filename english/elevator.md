@@ -1,5 +1,7 @@
 # elevator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elevator.md)
+
 <p><span class="chinese">我可以搭电梯吗？</span><span class="english">Can I use an elevator?</span></p>
 
 <p><span class="chinese">我搭电梯上去。</span><span class="english">I go up by the elevator.</span></p>

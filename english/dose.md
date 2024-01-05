@@ -1,5 +1,7 @@
 # dose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dose.md)
+
 <p><span class="chinese">伊斯兰都教授我们什么？</span><span class="english">What dose Islam teach?</span></p>
 
 <p><span class="chinese">李萍喜欢吃肉吗？</span><span class="english">Dose Li Ping like meat?</span></p>

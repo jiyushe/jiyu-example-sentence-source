@@ -1,5 +1,7 @@
 # 细粮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiliang.md)
+
 <p><span class="chinese">增加粗粮的摄入以取代细粮。</span><span class="english">Increase whole-grain intake by replacing refined grains with whole grains.</span></p>
 
 <p><span class="chinese">人不能总吃细粮，吃点五谷杂粮也是有益健康的。</span><span class="english">Men can not always eat flour and rice, it is good for health to eat some cereals.</span></p>

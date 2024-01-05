@@ -1,5 +1,7 @@
 # 水晶宫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuijinggong.md)
+
 <p><span class="chinese">水晶宫队以三比零完胜诺丁汉森林队。</span><span class="english">Crystal Palace thrashed Nottingham Forest three-nil.</span></p>
 
 <p><span class="chinese">后来水晶宫搬到了伦敦南郊。</span><span class="english">Later, the Crystal Palace was moved to South London.</span></p>

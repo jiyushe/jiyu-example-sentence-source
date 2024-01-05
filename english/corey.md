@@ -1,5 +1,7 @@
 # corey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corey.md)
+
 <p><span class="chinese">另外，还有一位叫科里的明星参演了这部电影。</span><span class="english">Plus, one of the Corey guys.</span></p>
 
 <p><span class="chinese">科里-布鲁尔有着光明的未来。</span><span class="english">Corey Brewer has a bright future.</span></p>

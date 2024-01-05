@@ -1,5 +1,7 @@
 # 龙王
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/longwang.md)
+
 <p><span class="chinese">你也许会想，“究竟谁是龙王呢？”</span><span class="english">Is It The King of Dragon?</span></p>
 
 <p><span class="chinese">难道我们赤手空拳去对付龙王？</span><span class="english">Does our bare hand deal with Long Wang?</span></p>

@@ -1,5 +1,7 @@
 # infra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infra.md)
+
 <p><span class="chinese">红外光谱、紫外光谱分析表明了刚性链高分子PAM在PA6中已经生成。</span><span class="english">Infra spectrum and UV spectrum analysis showed that rigid PAM molecules formed in PA6.</span></p>
 
 <p><span class="chinese">石英手表实在有失身份，所以只能暂时使用，或者是当作一种牢固的休闲手表来使。</span><span class="english">Quartz is simply infra dig, so keep that for your throwaway or unbreakable casual watch.</span></p>

@@ -1,5 +1,7 @@
 # 菩萨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pusa.md)
+
 <p><span class="chinese">地藏王菩萨啊！</span><span class="english">Earth Store Bodhisattva!</span></p>
 
 <p><span class="chinese">感恩地藏王菩萨！</span><span class="english">To Earth Store Bodhisattva!</span></p>

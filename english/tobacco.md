@@ -1,5 +1,7 @@
 # tobacco
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tobacco.md)
+
 <p><span class="chinese">这是一种味淡的烟。</span><span class="english">This is a mild tobacco.</span></p>
 
 <p><span class="chinese">每枝香烟烟草减。</span><span class="english">Less tobacco per cigarette.</span></p>

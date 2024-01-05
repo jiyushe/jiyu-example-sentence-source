@@ -1,5 +1,7 @@
 # introspection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/introspection.md)
+
 <p><span class="chinese">他鼓励他们反省。</span><span class="english">He urges introspection.</span></p>
 
 <p><span class="chinese">这个组织需要内省。</span><span class="english">The organization needs introspection.</span></p>

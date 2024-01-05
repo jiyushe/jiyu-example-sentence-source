@@ -1,5 +1,7 @@
 # intraspinal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intraspinal.md)
+
 <p><span class="chinese">目的探讨椎管内淋巴管瘤的影像特征。</span><span class="english">Objective To evaluate the imaging features of intraspinal lymphangioma.</span></p>
 
 <p><span class="chinese">目的为了提高对椎管内囊肿的诊断及治疗水平。</span><span class="english">Objective To improve the diagnosis and treatment level of intraspinal cysts.</span></p>

@@ -1,5 +1,7 @@
 # alluvium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alluvium.md)
+
 <p><span class="chinese">属于或关于冲积层的。</span><span class="english">Of or relating to alluvium.</span></p>
 
 <p><span class="chinese">土壤轻土壤组成的冲积土和沙子。</span><span class="english">Soil Light soil composed of alluvium and sand.</span></p>

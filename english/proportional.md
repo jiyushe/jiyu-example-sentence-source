@@ -1,5 +1,7 @@
 # proportional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proportional.md)
+
 <p><span class="chinese">它与向量场成比例。</span><span class="english">It is proportional to this vector field.</span></p>
 
 <p><span class="chinese">他们一般都是成反比的。</span><span class="english">They are usually inversely proportional.</span></p>

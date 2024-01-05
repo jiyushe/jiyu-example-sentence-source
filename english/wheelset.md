@@ -1,5 +1,7 @@
 # wheelset
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wheelset.md)
+
 <p><span class="chinese">这个轮组适合我的体重么？</span><span class="english">Does this wheelset fit a rider of my weight?</span></p>
 
 <p><span class="chinese">每一个拥有高端轮组的人，都必须要有一对“普通”的轮子。</span><span class="english">Everyone who owns a high-end wheelset must also have a pair of "normal" wheels.</span></p>

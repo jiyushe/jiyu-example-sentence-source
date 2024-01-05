@@ -1,5 +1,7 @@
 # 麦茬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maicha.md)
+
 <p><span class="chinese">他这几天打算清理地里的麦茬儿。</span><span class="english">He is going to clear away wheat stubble in the field.</span></p>
 
 <p><span class="chinese">小麦茬子堆在了田埂边上。</span><span class="english">He piled the wheat stubble along the ridge of the fields.</span></p>

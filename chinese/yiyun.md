@@ -1,5 +1,7 @@
 # 疑云
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyun.md)
+
 <p><span class="chinese">愁雾疑云罪恶忧惊。</span><span class="english">Melt the clouds of sin and sadness.</span></p>
 
 <p><span class="chinese">成功是疑云中透明出一线银光。</span><span class="english">The silver itne in the clouds of doubt.</span></p>

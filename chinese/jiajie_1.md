@@ -1,5 +1,7 @@
 # 假借
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiajie_1.md)
+
 <p><span class="chinese">邪教是假借宗教名义。</span><span class="english">The cults borrow the religious name.</span></p>
 
 <p><span class="chinese">这是一场假借解放的名义而进行的战争。</span><span class="english">It is a war that waged in the name of liberation.</span></p>

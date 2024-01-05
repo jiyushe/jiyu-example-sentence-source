@@ -1,5 +1,7 @@
 # incised
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incised.md)
+
 <p><span class="chinese">腹壁被分层切开。</span><span class="english">The abdominal wall was incised layer by layer.</span></p>
 
 <p><span class="chinese">切开的眉毛是在形状的箭头。</span><span class="english">The eyebrows are incised in the shape of chevrons.</span></p>

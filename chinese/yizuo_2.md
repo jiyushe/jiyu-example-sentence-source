@@ -1,5 +1,7 @@
 # 遗作
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizuo_2.md)
+
 <p><span class="chinese">这是他最后的遗作了。</span><span class="english">This is the last posthumous issue.</span></p>
 
 <p><span class="chinese">不过有人推测是古代突厥人的遗作。</span><span class="english">But some presume they were made by Turks.</span></p>

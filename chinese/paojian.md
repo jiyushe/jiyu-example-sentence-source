@@ -1,5 +1,7 @@
 # 炮舰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paojian.md)
+
 <p><span class="chinese">还需要一艘新的浅水炮舰。</span><span class="english">One new monitor is also needed.</span></p>
 
 <p><span class="chinese">他还表示他们遭到坦克和海军炮舰的炮击。</span><span class="english">He also said they had been shelled by tanks and navy gunboats.</span></p>

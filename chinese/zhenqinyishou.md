@@ -1,5 +1,7 @@
 # 珍禽异兽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenqinyishou.md)
+
 <p><span class="chinese">珍禽异兽出没，孔雀大象穿梭。</span><span class="english">Yishou setting of rare birds, peacocks elephant shuttle.</span></p>
 
 <p><span class="chinese">在大片的原始森林中，有很多珍禽异兽。</span><span class="english">In the vast primeval forest, there are many rare birds and unusual animals.</span></p>

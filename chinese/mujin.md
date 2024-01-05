@@ -1,5 +1,7 @@
 # 木槿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mujin.md)
+
 <p><span class="chinese">木槿花茶能降低血压吗？</span><span class="english">Can hibiscus tea lower blood pressure?</span></p>
 
 <p><span class="chinese">其市场名为“苯胺紫”或“木槿紫”。</span><span class="english">The dye is marketed as "aniline purple" or "mauveine. "</span></p>

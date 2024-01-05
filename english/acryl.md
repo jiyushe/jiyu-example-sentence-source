@@ -1,5 +1,7 @@
 # acryl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acryl.md)
+
 <p><span class="chinese">采用无缩变亚克力光学透镜。</span><span class="english">With non-distortion acryl optical lens.</span></p>
 
 <p><span class="chinese">产品以中、高档压克力饰品为主。</span><span class="english">The main products are top grade acryl ornaments.</span></p>

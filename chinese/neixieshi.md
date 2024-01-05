@@ -1,5 +1,7 @@
 # 内斜视
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neixieshi.md)
+
 <p><span class="chinese">探讨共同性内斜视对立体视觉的影响。</span><span class="english">To investigate the influence of concomitant esotropia on stereovision.</span></p>
 
 <p><span class="chinese">目的探讨神经麻痹性内斜视的手术治疗方法与效果。</span><span class="english">Objective To study the surgical method and effect of nerve paralysis esotropia.</span></p>

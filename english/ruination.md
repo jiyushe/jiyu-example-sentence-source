@@ -1,5 +1,7 @@
 # ruination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ruination.md)
+
 <p><span class="chinese">你早晚得把我假了！</span><span class="english">You'll be the ruination of me!</span></p>
 
 <p><span class="chinese">过度劳累搞垮了他的身体。</span><span class="english">Overwork is the ruination of his health.</span></p>

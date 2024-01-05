@@ -1,5 +1,7 @@
 # 半信半疑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banxinbanyi.md)
+
 <p><span class="chinese">我对这个消息半信半疑。</span><span class="english">I dubitate the information.</span></p>
 
 <p><span class="chinese">而一些人类专家却对此半信半疑。</span><span class="english">Some human experts are dubious.</span></p>

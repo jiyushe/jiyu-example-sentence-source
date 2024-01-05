@@ -1,5 +1,7 @@
 # 翘首以待
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaoshouyidai.md)
+
 <p><span class="chinese">现在中国观众能做的只有翘首以待了。</span><span class="english">For now, though, Chinese filmgoers can only wait.</span></p>
 
 <p><span class="chinese">该基金的筹资时机不太好,投资者一直在翘首以待看看黑石最终筹得的资金规模.</span><span class="english">Blackstone began raising the fund, BCP VI, about two years ago.</span></p>

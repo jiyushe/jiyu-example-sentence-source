@@ -1,5 +1,7 @@
 # saleable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saleable.md)
+
 <p><span class="chinese">设计有销路的服装。</span><span class="english">The design of saleable garments.</span></p>
 
 <p><span class="chinese">你的产品适合在国际市场上销售吗？</span><span class="english">Is this your product saleable in the international market?</span></p>

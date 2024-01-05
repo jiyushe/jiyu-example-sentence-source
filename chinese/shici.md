@@ -1,5 +1,7 @@
 # 实词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shici.md)
+
 <p><span class="chinese">本来，幸福这个实词。</span><span class="english">Originally, happiness this noun.</span></p>
 
 <p><span class="chinese">词法部分包括实词和虚词。</span><span class="english">Morphology comprises notional words and function words.</span></p>

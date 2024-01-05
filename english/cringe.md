@@ -1,5 +1,7 @@
 # cringe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cringe.md)
+
 <p><span class="chinese">当我想到我承担的风险时，我也会害怕。</span><span class="english">I cringe when I think of the risks I took.</span></p>
 
 <p><span class="chinese">是的，你也许还犹豫，畏畏缩缩，不过不要担心。</span><span class="english">Yes, you might cringe at them, but that’s ok.</span></p>

@@ -1,5 +1,7 @@
 # 列阵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liezhen.md)
+
 <p><span class="chinese">是激光列阵吗？</span><span class="english">Is that a laser array?</span></p>
 
 <p><span class="chinese">我们锁定目标，记录了整个列阵。</span><span class="english">We may turn onto a target, we record from a whole array.</span></p>

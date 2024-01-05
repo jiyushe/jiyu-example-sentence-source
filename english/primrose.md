@@ -1,5 +1,7 @@
 # primrose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/primrose.md)
+
 <p><span class="chinese">是迎春花的臂膀。</span><span class="english">Is arm of primrose.</span></p>
 
 <p><span class="chinese">我看见他在樱草花山上。</span><span class="english">I saw him on Primrose Hill.</span></p>

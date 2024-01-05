@@ -1,5 +1,7 @@
 # expectantly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expectantly.md)
+
 <p><span class="chinese">他充满期待地望着她。</span><span class="english">He looks expectantly at her.</span></p>
 
 <p><span class="chinese">但你可以充满期待地朝前看。</span><span class="english">You can look expectantly toward the future.</span></p>

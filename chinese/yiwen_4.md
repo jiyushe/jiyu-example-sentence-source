@@ -1,5 +1,7 @@
 # 轶闻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwen_4.md)
+
 <p><span class="chinese">例如，美联社报道的一则轶闻中说</span><span class="english">Take, for example, an anecdote reported by the Associated Press</span></p>
 
 <p><span class="chinese">科顿的书把内容详实的社会历史和丰富的古怪轶闻结合起来。</span><span class="english">Corton's book combines meticulous social history with a wealth of eccentric detail.</span></p>

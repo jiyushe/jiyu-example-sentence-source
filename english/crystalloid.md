@@ -1,5 +1,7 @@
 # crystalloid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crystalloid.md)
+
 <p><span class="chinese">天然气水合物是一种结晶状固态简单化合物。</span><span class="english">Natural gas hydrate is a kind of simple crystalloid solid hydrate.</span></p>
 
 <p><span class="chinese">除此之外，更有激动人心的幸运大抽奖，27’液晶彩电、数码相机等大奖等待着你！</span><span class="english">Moreover, surprising gifts such as 27' liquid- crystalloid TV set and digital camera are waiting for you.</span></p>

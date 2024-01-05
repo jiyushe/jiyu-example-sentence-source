@@ -1,5 +1,7 @@
 # inched
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inched.md)
+
 <p><span class="chinese">这个虫子慢慢地爬来。</span><span class="english">The worm inched along.</span></p>
 
 <p><span class="chinese">这条虫子向前慢慢移动着。</span><span class="english">The worm inched along.</span></p>

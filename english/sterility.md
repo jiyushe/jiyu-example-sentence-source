@@ -1,5 +1,7 @@
 # sterility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sterility.md)
+
 <p><span class="chinese">医生与护士身穿白色代表着洁净无菌。</span><span class="english">Doctors and nurses wear white to imply sterility.</span></p>
 
 <p><span class="chinese">排卵功能障碍是造成不孕的一个主要原因。</span><span class="english">Ovulatory dysfunction is a major cause of sterility.</span></p>

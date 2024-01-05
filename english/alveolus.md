@@ -1,5 +1,7 @@
 # alveolus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alveolus.md)
+
 <p><span class="chinese">鼓膜中心则留下一变干的小孔。</span><span class="english">Tympanic center leaves the alveolus of one desiccate.</span></p>
 
 <p><span class="chinese">有的有很多分散的小孔，就像筛子上的小孔。</span><span class="english">Some has a lot of dispersive alveolus , resemble the alveolus on bolt.</span></p>

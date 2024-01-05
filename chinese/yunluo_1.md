@@ -1,5 +1,7 @@
 # 陨落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunluo_1.md)
+
 <p><span class="chinese">然而我不担心思想会否自空中陨落。</span><span class="english">I worry lest Hugin should fall in flight.</span></p>
 
 <p><span class="chinese">发达国家中也会有国家走向陨落吗？</span><span class="english">Can states fail within the developed world?</span></p>

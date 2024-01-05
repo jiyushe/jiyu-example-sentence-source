@@ -1,5 +1,7 @@
 # clubfoot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clubfoot.md)
+
 <p><span class="chinese">结果显示，他们的那段历史是内翻足和脊柱侧弯的家族病史。</span><span class="english">It reveals a family history of clubfoot and scoliosis.</span></p>
 
 <p><span class="chinese">目的提高儿童顽固性马蹄内翻足畸形的治疗效果。</span><span class="english">Objective To improve the treatment of refractory clubfoot in children.</span></p>

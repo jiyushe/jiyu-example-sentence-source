@@ -1,5 +1,7 @@
 # succumb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/succumb.md)
+
 <p><span class="chinese">然而，我却需要看它，向它屈服。</span><span class="english">And yet I succumb to watching it.</span></p>
 
 <p><span class="chinese">他不会对这样的条款做出让步的。</span><span class="english">He would not succumb to such an item.</span></p>

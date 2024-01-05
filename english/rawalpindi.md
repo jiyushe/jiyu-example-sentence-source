@@ -1,5 +1,7 @@
 # rawalpindi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rawalpindi.md)
+
 <p><span class="chinese">拉合尔巴基斯坦东北部一座城市，位于靠近印度边界的拉瓦尔品第东南。</span><span class="english">A city of northeast Pakistan near the Indian border southeast of Rawalpindi.</span></p>
 
 <p><span class="chinese">这起枪击事件发生在连接伊斯兰堡和拉瓦尔品第的交通繁忙的高速公路上。</span><span class="english">The shooting took place on the busy highway between Islamabad and Rawalpindi.</span></p>

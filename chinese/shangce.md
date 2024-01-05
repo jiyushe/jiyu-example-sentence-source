@@ -1,5 +1,7 @@
 # 上策
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangce.md)
+
 <p><span class="chinese">利己心是最坏的顾问。自私非上策。</span><span class="english">Self is a bad counselor.</span></p>
 
 <p><span class="chinese">诚实才是上策。</span><span class="english">Honesty is the best policy.</span></p>

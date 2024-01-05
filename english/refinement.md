@@ -1,5 +1,7 @@
 # refinement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refinement.md)
+
 <p><span class="chinese">在这里要表现得高贵优雅一点。</span><span class="english">Act with some elegance and refinement here.</span></p>
 
 <p><span class="chinese">她母亲是一个非常文雅的女人。</span><span class="english">Her mother is a woman with great refinement.</span></p>

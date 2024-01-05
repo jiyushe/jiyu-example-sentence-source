@@ -1,5 +1,7 @@
 # 证明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengming_2.md)
+
 <p><span class="chinese">特此证明。</span><span class="english">Hereby certify.</span></p>
 
 <p><span class="chinese">怎么证明这一切呢?</span><span class="english">How to prove it?</span></p>

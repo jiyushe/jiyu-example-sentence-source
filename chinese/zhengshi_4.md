@@ -1,5 +1,7 @@
 # 正视
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengshi_4.md)
+
 <p><span class="chinese">你必须正视现实。</span><span class="english">You must envisage realities.</span></p>
 
 <p><span class="chinese">正视它，我们才会活的坦然！</span><span class="english">Face it, we will live in calm!</span></p>

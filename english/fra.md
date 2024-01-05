@@ -1,5 +1,7 @@
 # fra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fra.md)
+
 <p><span class="chinese">拉胡德先生和FRA首先应当理解这种混乱的局面，然后作出决定。</span><span class="english">It is up to Mr LaHood and the FRA to make sense of this jumble.</span></p>
 
 <p><span class="chinese">联邦铁路局预期投入允许的高铁运行数量将有显著增长。</span><span class="english">FRA expects a significant increase in the number of HSR operations.</span></p>

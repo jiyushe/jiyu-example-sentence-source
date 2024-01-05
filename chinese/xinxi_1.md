@@ -1,5 +1,7 @@
 # 欣喜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinxi_1.md)
+
 <p><span class="chinese">石敢当欣喜异常照做。</span><span class="english">Stone do I dare joy anomaly.</span></p>
 
 <p><span class="chinese">他们幸福而欣喜有加。</span><span class="english">They were happy and over-joyed.</span></p>

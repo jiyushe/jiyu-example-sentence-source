@@ -1,5 +1,7 @@
 # 雪豹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuebao_2.md)
+
 <p><span class="chinese">雪豹桌面。</span><span class="english">Snow Leopard desktop.</span></p>
 
 <p><span class="chinese">两者都在雪豹操作系统中得到了反映。</span><span class="english">Both are reflected in Snow Leopard.</span></p>

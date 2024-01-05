@@ -1,5 +1,7 @@
 # 摩托
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/motuo.md)
+
 <p><span class="chinese">她总是骑轻便摩托去她的商店。</span><span class="english">She always scoots to her shop.</span></p>
 
 <p><span class="chinese">你知道摩托摩托代表什么吗?。</span><span class="english">You know what Moto Moto means?</span></p>

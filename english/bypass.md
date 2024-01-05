@@ -1,5 +1,7 @@
 # bypass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bypass.md)
+
 <p><span class="chinese">所以我们只好绕道而行。</span><span class="english">So we have to bypass.</span></p>
 
 <p><span class="chinese">跟我套近乎旳麻烦你请绕道。</span><span class="english">Follow me. Trouble you please bypass.</span></p>

@@ -1,5 +1,7 @@
 # dreamy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dreamy.md)
+
 <p><span class="chinese">梦幻般美好的期待总是会被现实打败。</span><span class="english">Reality always trumps dreamy expectations.</span></p>
 
 <p><span class="chinese">一切都如此美丽，如此平静，如此空灵。</span><span class="english">It's all so beautiful, so peaceful, so dreamy.</span></p>

@@ -1,5 +1,7 @@
 # triticum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triticum.md)
+
 <p><span class="chinese">高分子麦谷蛋白亚基多样性分析。</span><span class="english">Allelic Variations of High Molecular Weight Glutenin Subunits in Triticum polonicum L.</span></p>
 
 <p><span class="chinese">一粒系小麦是多倍体小麦染色体组的供体物种之一，是小麦的重要基础物种。</span><span class="english">Einkorn wheat is the donor species of polyploidy wheat. It is one of the important basic species of Triticum.</span></p>

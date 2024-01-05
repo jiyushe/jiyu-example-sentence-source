@@ -1,5 +1,7 @@
 # 窑洞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaodong_1.md)
+
 <p><span class="chinese">我敢打赌我能在_日本_找到那个窑洞。</span><span class="english">I bet I can find that cave in Japan.</span></p>
 
 <p><span class="chinese">这种窑洞大雨时很容易倒塌。</span><span class="english">These caves collapse easily in heavy rains.</span></p>

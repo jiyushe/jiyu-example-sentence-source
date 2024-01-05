@@ -1,5 +1,7 @@
 # 出席
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuxi.md)
+
 <p><span class="chinese">君与吾均未出席。</span><span class="english">You nor I was present.</span></p>
 
 <p><span class="chinese">出席所有的课程。</span><span class="english">Attend all the classes.</span></p>

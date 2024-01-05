@@ -1,5 +1,7 @@
 # species
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/species.md)
+
 <p><span class="chinese">什么是植物种？</span><span class="english">What Is a Plant Species?</span></p>
 
 <p><span class="chinese">但物种和生态圈不能搬家。</span><span class="english">Species and habitats can't.</span></p>

@@ -1,5 +1,7 @@
 # 栋梁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongliang_1.md)
+
 <p><span class="chinese">年青人是国家的栋梁。</span><span class="english">You are our familys pillar.</span></p>
 
 <p><span class="chinese">这样的人是国傢的栋梁。</span><span class="english">Such men are the spine of the nation.</span></p>

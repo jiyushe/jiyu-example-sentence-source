@@ -1,5 +1,7 @@
 # 胜似
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengsi_1.md)
+
 <p><span class="chinese">流水塘景胜似画。</span><span class="english">Water makes the pond more picturesque.</span></p>
 
 <p><span class="chinese">我们要称赞你的爱情，胜似称赞美酒。</span><span class="english">We will extol your love more than wine.</span></p>

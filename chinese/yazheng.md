@@ -1,5 +1,7 @@
 # 雅正
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yazheng.md)
+
 <p><span class="chinese">在这个快节拍地世界里，很多价值不雅正在发作严重转变。</span><span class="english">In this fast-paced world, many values are undergoing major changes.</span></p>
 
 <p><span class="chinese">妮维雅正利用它的品牌号召力在新兴市场赢得忠实用户。</span><span class="english">Nivea is using its brand strength to win loyalty in emerging markets.</span></p>

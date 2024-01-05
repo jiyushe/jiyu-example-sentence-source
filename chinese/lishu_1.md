@@ -1,5 +1,7 @@
 # 礼数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lishu_1.md)
+
 <p><span class="chinese">她说这是老礼数。</span><span class="english">She said that was an old tradition.</span></p>
 
 <p><span class="chinese">你的信息一定要真诚，有礼数。</span><span class="english">Be genuine and polite in your message.</span></p>

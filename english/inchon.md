@@ -1,5 +1,7 @@
 # inchon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inchon.md)
+
 <p><span class="chinese">他们抵达仁川港西北海岸。</span><span class="english">They arrived at the port of Inchon on the northwest coast.</span></p>
 
 <p><span class="chinese">如今，作为一名营级指挥官，他在釜山及仁川的表现良好。</span><span class="english">Now, as a battalion commander, he had done well at Pusan and Inchon.</span></p>

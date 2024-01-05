@@ -1,5 +1,7 @@
 # protein
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/protein.md)
+
 <p><span class="chinese">想补充蛋白质练出肌肉线条？</span><span class="english">Protein to Build Muscle?</span></p>
 
 <p><span class="chinese">摄入更多的蛋白帧镣水果。</span><span class="english">Eat more protein and fruit.</span></p>

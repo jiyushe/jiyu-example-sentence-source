@@ -1,5 +1,7 @@
 # 抵偿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dichang_1.md)
+
 <p><span class="chinese">我们想知道你们是否做抵偿贸易。</span><span class="english">We wonder whether you do  counter trade.</span></p>
 
 <p><span class="chinese">他们的财产被扣押以抵偿租金。</span><span class="english">Their goods were distrained upon for rent.</span></p>

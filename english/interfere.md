@@ -1,5 +1,7 @@
 # interfere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interfere.md)
+
 <p><span class="chinese">怎么管不着?</span><span class="english">Why shouldn't we interfere?</span></p>
 
 <p><span class="chinese">那些树挡住了视线。</span><span class="english">The trees interfere with the view.</span></p>

@@ -1,5 +1,7 @@
 # calculous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calculous.md)
+
 <p><span class="chinese">结石需要做手术吗。</span><span class="english">Does calculous need become an operation.</span></p>
 
 <p><span class="chinese">可咱们下学期才要修微积分。</span><span class="english">We won't take a calculous class until next term.</span></p>

@@ -1,5 +1,7 @@
 # ptosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ptosis.md)
+
 <p><span class="chinese">孩子左眼睛突发性上睑下垂。</span><span class="english">Sudden child left eye ptosis.</span></p>
 
 <p><span class="chinese">她有慢性左眼睑下垂和轻度外周性水肿。</span><span class="english">She had chronic ptosis of the left eyelid and mild peripheral edema.</span></p>

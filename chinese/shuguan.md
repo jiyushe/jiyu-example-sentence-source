@@ -1,5 +1,7 @@
 # 树冠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuguan.md)
+
 <p><span class="chinese">八角形表冠设置蓝色凸圆形树冠。</span><span class="english">Octagonal-shaped crown set with blue cabochon crown.</span></p>
 
 <p><span class="chinese">修剪通过剪除部分树冠而改变根冠比。</span><span class="english">Pruning, by removing part of the top, alters this ratio.</span></p>

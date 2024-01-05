@@ -1,5 +1,7 @@
 # added
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/added.md)
+
 <p><span class="chinese">现在，我已经添加它了。</span><span class="english">I have added it.</span></p>
 
 <p><span class="chinese">将添加一个用户库。</span><span class="english">A user library is added.</span></p>

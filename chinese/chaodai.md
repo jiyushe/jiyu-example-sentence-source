@@ -1,5 +1,7 @@
 # 朝代
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaodai.md)
+
 <p><span class="chinese">但有生气的朝代已经结束。</span><span class="english">But the dynamic dynasty has gone.</span></p>
 
 <p><span class="chinese">明代是铸造铁狮子最多的朝代。</span><span class="english">Most of them were cast in Ming dynasty.</span></p>

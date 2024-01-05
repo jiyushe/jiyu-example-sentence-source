@@ -1,5 +1,7 @@
 # 月色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuese.md)
+
 <p><span class="chinese">月色皎美令她陶醉。</span><span class="english">The beauty of the moon ensorcelled her.</span></p>
 
 <p><span class="chinese">陪伴著柠檬月色迷迷濛濛。</span><span class="english">Keeping company the hazy lemon Moonlight.</span></p>

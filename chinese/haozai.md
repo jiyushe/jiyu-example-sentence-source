@@ -1,5 +1,7 @@
 # 好在
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haozai.md)
+
 <p><span class="chinese">好在，亡羊补牢，犹未晚也。</span><span class="english">But it is not too late.</span></p>
 
 <p><span class="chinese">好在这些致命生物又游走了。</span><span class="english">But the lethal creature bobbed off.</span></p>

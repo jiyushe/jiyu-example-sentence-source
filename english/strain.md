@@ -1,5 +1,7 @@
 # strain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strain.md)
+
 <p><span class="chinese">他肌肉过劳。</span><span class="english">He had a muscular strain.</span></p>
 
 <p><span class="chinese">你会拉伤或过度用力吗？</span><span class="english">Can you strain or over exert?</span></p>

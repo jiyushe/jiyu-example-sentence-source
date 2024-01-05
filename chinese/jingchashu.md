@@ -1,5 +1,7 @@
 # 警察署
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingchashu.md)
+
 <p><span class="chinese">王母让王德彪给警察署打电话，王德彪这才知道沈怀玉被抓。</span><span class="english">She asked Wang Debiao to call the police, Wang Debiao knew that Shen Huaiyu was arrested.</span></p>
 
 <p><span class="chinese">改天到警察署来，我带你参观。</span><span class="english">I’m dory if my facile effort upset you. Come to the police facility someday and I’ll show you around.</span></p>

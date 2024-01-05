@@ -1,5 +1,7 @@
 # 守财奴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoucainu.md)
+
 <p><span class="chinese">我们不能做守财奴。</span><span class="english">We can’t be misers.</span></p>
 
 <p><span class="chinese">他是个不折不扣的守财奴。</span><span class="english">He's a real scrooge.</span></p>

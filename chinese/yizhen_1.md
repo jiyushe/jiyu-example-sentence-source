@@ -1,5 +1,7 @@
 # 义诊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhen_1.md)
+
 <p><span class="chinese">新加坡的慈济义诊中心终于找到新家了！</span><span class="english">Singapore Tzu Chi Free Clinic has finally found a new home.</span></p>
 
 <p><span class="chinese">中国爱加倍基金会将于今年，常德举行唇腭裂义诊。</span><span class="english">Chinese Agape Foundation will have a cleft palate medical mission in Changde this year.</span></p>

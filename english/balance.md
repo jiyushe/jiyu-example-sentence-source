@@ -1,5 +1,7 @@
 # balance 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/balance.md)
+
 <p><span class="chinese">气候平衡理论说。</span><span class="english">Climatic Balance.</span></p>
 
 <p><span class="chinese">熊是与平衡相关的。</span><span class="english">Bear is about balance.</span></p>

@@ -1,5 +1,7 @@
 # 强权政治
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangquanzhengzhi.md)
+
 <p><span class="chinese">这是彻头彻尾的强权政治。</span><span class="english">This is out-and-out power politics.</span></p>
 
 <p><span class="chinese">超级大国正在玩弄强权政治。</span><span class="english">Super-power is playing power politics.</span></p>

@@ -1,5 +1,7 @@
 # headstone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headstone.md)
+
 <p><span class="chinese">济慈只希望一个无名的墓碑。</span><span class="english">Keats wanted an anonymous headstone.</span></p>
 
 <p><span class="chinese">我们得找到这块被圣殿骑士赞扬过的基石。</span><span class="english">We must find this headstone praised by Templars.</span></p>

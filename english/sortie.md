@@ -1,5 +1,7 @@
 # sortie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sortie.md)
+
 <p><span class="chinese">时间足以让一个最后的出击。</span><span class="english">Time enough for one last sortie.</span></p>
 
 <p><span class="chinese">你今天不许出击。</span><span class="english">I forbid you to make a sortie today.</span></p>

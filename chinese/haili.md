@@ -1,5 +1,7 @@
 # 海里
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haili.md)
+
 <p><span class="chinese">我们在这个海里游泳。</span><span class="english">We swim in the sea.</span></p>
 
 <p><span class="chinese">之后我们降速到175海里每小时。</span><span class="english">Then we slow to 175 knots.</span></p>

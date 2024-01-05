@@ -1,5 +1,7 @@
 # 养殖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangzhi.md)
+
 <p><span class="chinese">您介意吃养殖鱼吗？</span><span class="english">Don't mind a farmed fish?</span></p>
 
 <p><span class="chinese">添加新蔵养殖厂！</span><span class="english">Added new Kura farming plant!</span></p>

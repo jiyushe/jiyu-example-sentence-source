@@ -1,5 +1,7 @@
 # insular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insular.md)
+
 <p><span class="chinese">研究其他书法家学习岛屿半安色尔字体形式。</span><span class="english">Study other calligraphers to learn the Insular half-uncial form.</span></p>
 
 <p><span class="chinese">写作岛屿半安色尔字体的书法形式，可以很优雅。</span><span class="english">Writing calligraphy in Insular half-uncial form can be very elegant.</span></p>

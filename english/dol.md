@@ -1,5 +1,7 @@
 # dol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dol.md)
+
 <p><span class="chinese">我还有什么不知道的？</span><span class="english">What dol need to know?</span></p>
 
 <p><span class="chinese">我现在就要起床吗?。</span><span class="english">Dol have to get up now?</span></p>

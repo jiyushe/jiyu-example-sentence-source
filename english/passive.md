@@ -1,5 +1,7 @@
 # passive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/passive.md)
+
 <p><span class="chinese">他的反应是被动的。</span><span class="english">His response was passive.</span></p>
 
 <p><span class="chinese">我们有被动直观化。</span><span class="english">We have passive visualizations.</span></p>

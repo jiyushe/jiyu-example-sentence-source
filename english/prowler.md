@@ -1,5 +1,7 @@
 # prowler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prowler.md)
+
 <p><span class="chinese">可是我们总是粗心大意，没有防范这潜行者。</span><span class="english">But we are often careless, unmindful of the prowler.</span></p>
 
 <p><span class="chinese">小偷和跟踪狂的区别在哪里呢？</span><span class="english">What’s the difference between a prowler and a stalker?</span></p>

@@ -1,5 +1,7 @@
 # 破败
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pobai.md)
+
 <p><span class="chinese">这楼已破败不堪。</span><span class="english">The building is now a ruin.</span></p>
 
 <p><span class="chinese">一幢幢的房子傲然矗立在一度只是破败陋室的地方。</span><span class="english">White houses prank where once were huts.</span></p>

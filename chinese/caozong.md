@@ -1,5 +1,7 @@
 # 操纵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caozong.md)
+
 <p><span class="chinese">把船操纵使风对左舷船尾。</span><span class="english">Keep wind on port quarter.</span></p>
 
 <p><span class="chinese">操纵塘鹅的喙。</span><span class="english">Engineered the gannet's beak.</span></p>

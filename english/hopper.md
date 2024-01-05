@@ -1,5 +1,7 @@
 # hopper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hopper.md)
+
 <p><span class="chinese">范·霍珀太太纵声大笑。</span><span class="english">Mrs Van Hopper gave her fat laugh.</span></p>
 
 <p><span class="chinese">这简直就是太空跳跃者。</span><span class="english">For it is, literally, a space hopper.</span></p>

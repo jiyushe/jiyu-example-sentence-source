@@ -1,5 +1,7 @@
 # athenian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/athenian.md)
+
 <p><span class="chinese">你必定是一个雅典人或西哥特人。</span><span class="english">You must be an Athenian or a Visigoth.</span></p>
 
 <p><span class="chinese">雅典的集会所就是他的讲堂。</span><span class="english">The Athenian agora was his teaching room.</span></p>

@@ -1,5 +1,7 @@
 # nonalignment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonalignment.md)
+
 <p><span class="chinese">我国奉行不结盟政策。</span><span class="english">Our country pursues a policy of nonalignment.</span></p>
 
 <p><span class="chinese">国际事务中保持中立或不结盟的政策。</span><span class="english">A policy of neutrality or nonalignment in international affairs.</span></p>

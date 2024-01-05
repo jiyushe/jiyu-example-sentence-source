@@ -1,5 +1,7 @@
 # 标志
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaozhi.md)
+
 <p><span class="chinese">的蓝相子标志。</span><span class="english">Blue sub-symbol.</span></p>
 
 <p><span class="chinese">凯丽，摸取一个标志。</span><span class="english">Kally, pick a sign.</span></p>

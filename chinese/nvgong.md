@@ -1,5 +1,7 @@
 # 女工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nvgong.md)
+
 <p><span class="chinese">是一个挤奶女工的力量。</span><span class="english">A milkmaid's.</span></p>
 
 <p><span class="chinese">哪一个洗衣女工想要手表？</span><span class="english">Which washerwoman wants to watch?</span></p>

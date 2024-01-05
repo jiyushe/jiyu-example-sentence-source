@@ -1,5 +1,7 @@
 # 通用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongyong.md)
+
 <p><span class="chinese">但通用电气的股价在那一周还是下跌。</span><span class="english">The stock fell for the week.</span></p>
 
 <p><span class="chinese">通用较不反对声请破产了吗?</span><span class="english">GM LESS OPPOSED TO BANKRUPTCY?</span></p>

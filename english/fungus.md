@@ -1,5 +1,7 @@
 # fungus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fungus.md)
+
 <p><span class="chinese">对小麦造成侵袭的一种铁锈菌。</span><span class="english">Rust fungus that attacks wheat.</span></p>
 
 <p><span class="chinese">最毒的蘑菇是什么？</span><span class="english">Which is most poisonous fungus?</span></p>

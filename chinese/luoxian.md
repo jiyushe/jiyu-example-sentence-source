@@ -1,5 +1,7 @@
 # 裸线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luoxian.md)
+
 <p><span class="chinese">裸线式电热元件通常用镍铬合金丝制成。</span><span class="english">The open wire heating elements are usually made of nichrome wire.</span></p>
 
 <p><span class="chinese">裸线由蒸汽保护，以阻止裸铜线被氧化。</span><span class="english">The bare wire was protection by steam, so prevent copper bare wire oxidation.</span></p>

@@ -1,5 +1,7 @@
 # 天竺葵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianzhukui.md)
+
 <p><span class="chinese">我出去给天竺葵浇水。</span><span class="english">I went out to water the geraniums.</span></p>
 
 <p><span class="chinese">天竺葵柱头上的花粉颗粒。</span><span class="english">Grains of pollen on a geranium stigma.</span></p>

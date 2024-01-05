@@ -1,5 +1,7 @@
 # saline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saline.md)
+
 <p><span class="chinese">生理盐水含有盐分。</span><span class="english">Saline contains salt.</span></p>
 
 <p><span class="chinese">用盐溶液清洗镜片。</span><span class="english">Wash the lenses in saline solution.</span></p>

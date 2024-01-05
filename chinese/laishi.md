@@ -1,5 +1,7 @@
 # 来使
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laishi.md)
+
 <p><span class="chinese">我该做些什么来使她高兴呢？</span><span class="english">What ought lto do to cheer her up?</span></p>
 
 <p><span class="chinese">法兰西并不需要科西嘉来使它自己伟大。</span><span class="english">France needs no Corsica to be great.</span></p>

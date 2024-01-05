@@ -1,5 +1,7 @@
 # 扼死
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/esi.md)
+
 <p><span class="chinese">我把他扼死了。</span><span class="english">I choked him to death.</span></p>
 
 <p><span class="chinese">碰到毒蛇，就得把它扼死。</span><span class="english">Mett snakes, have to strangle it.</span></p>

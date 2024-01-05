@@ -1,5 +1,7 @@
 # confession
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confession.md)
+
 <p><span class="chinese">承认罪恶。</span><span class="english">Confession of sin.</span></p>
 
 <p><span class="chinese">他已在口供上签字画押。</span><span class="english">He has signed his confession.</span></p>

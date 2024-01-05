@@ -1,5 +1,7 @@
 # 全球定位系统
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanqiudingweixitong.md)
+
 <p><span class="chinese">全球定位系统的信号怎样编码，以作准确的三角测量？</span><span class="english">How are GPS signals encoded to allow precise triangulation?</span></p>
 
 <p><span class="chinese">差分技术在全球定位系统数据分析中的运用。</span><span class="english">Use of differencing techniques in the analysis of GPS data.</span></p>

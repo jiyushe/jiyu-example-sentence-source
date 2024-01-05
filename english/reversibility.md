@@ -1,5 +1,7 @@
 # reversibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reversibility.md)
+
 <p><span class="chinese">可逆性观点是理解量子计算的关键。</span><span class="english">This idea of reversibility is critical to understanding quantum computing.</span></p>
 
 <p><span class="chinese">在某种程度上，这也可以被理解为时间在权力上的可逆。</span><span class="english">To some extent, that can be comprehended as time's reversibility on power.</span></p>

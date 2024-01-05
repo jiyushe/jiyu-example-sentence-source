@@ -1,5 +1,7 @@
 # emulsify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emulsify.md)
+
 <p><span class="chinese">它还拥有一个令人惊讶的能力，乳化不可能酱汁。</span><span class="english">It also has a surprising capacity to emulsify impossible sauces.</span></p>
 
 <p><span class="chinese">与水、低纯度酒精、乙二醇或甘油不会发生乳化。</span><span class="english">Does not emulsify with water, lower alcohols, glycols or glycerine.</span></p>

@@ -1,5 +1,7 @@
 # duh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duh.md)
+
 <p><span class="chinese">就像是我们中文里说的“废话”！</span><span class="english">All I said was "duh".</span></p>
 
 <p><span class="chinese">呃，我感觉像自己是个白痴。</span><span class="english">Duh. I felt like an idiot.</span></p>

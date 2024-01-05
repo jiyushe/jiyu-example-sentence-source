@@ -1,5 +1,7 @@
 # recommendable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recommendable.md)
+
 <p><span class="chinese">他们的计划在许多方面全部是可取的。</span><span class="english">Their plan is recommendable in many ways.</span></p>
 
 <p><span class="chinese">是一本非常好的HSK语法辅导书。</span><span class="english">It is a recommendable HSK grammar reference and exercise book.</span></p>

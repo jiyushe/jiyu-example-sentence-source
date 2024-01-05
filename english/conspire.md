@@ -1,5 +1,7 @@
 # conspire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conspire.md)
+
 <p><span class="chinese">人们总是串通一气不把真情告诉我。</span><span class="english">People always conspire to keep the truth from me.</span></p>
 
 <p><span class="chinese">你和他串通一起反对我，是吧，毒蛇？</span><span class="english">And you conspire with him against me, do you, viper?</span></p>

@@ -1,5 +1,7 @@
 # 流动资金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liudongzijin.md)
+
 <p><span class="chinese">是的，的确，中国确实有着流动资金。</span><span class="english">Yes, indeed, China does have cash flow.</span></p>
 
 <p><span class="chinese">折旧及摊销不应被视为衡量我们的流动资金。</span><span class="english">EBITDA should not be considered as a measure of our liquidity.</span></p>

@@ -1,5 +1,7 @@
 # mortuary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mortuary.md)
+
 <p><span class="chinese">我想我是把鞭子忘在停尸房了。</span><span class="english">I think I left my riding crop in the mortuary.</span></p>
 
 <p><span class="chinese">停尸房中摆满了僵冷的尸体。</span><span class="english">In the mortuary there are many stiffened corpses.</span></p>

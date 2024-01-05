@@ -1,5 +1,7 @@
 # 松子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songzi.md)
+
 <p><span class="chinese">伯顿呷了一口杜松子香槟酒。</span><span class="english">Burton sipped his gin fizz.</span></p>
 
 <p><span class="chinese">杜松子酒和甜苦艾酒。</span><span class="english">I ordered gin and vermouth.</span></p>

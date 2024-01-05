@@ -1,5 +1,7 @@
 # 使徒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shitu_1.md)
+
 <p><span class="chinese">岂都是使徒吗。</span><span class="english">Are all apostles?</span></p>
 
 <p><span class="chinese">你们读过使徒行传了吗？</span><span class="english">Have you read Acts yet?</span></p>

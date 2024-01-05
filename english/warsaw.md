@@ -1,5 +1,7 @@
 # warsaw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/warsaw.md)
+
 <p><span class="chinese">但是，他们的呼吁被华沙无视了。</span><span class="english">However, their appeal was ignored by Warsaw.</span></p>
 
 <p><span class="chinese">他们将于次日袭击华沙。</span><span class="english">They were going to raid Warsaw the next day.</span></p>

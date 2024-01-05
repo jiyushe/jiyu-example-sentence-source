@@ -1,5 +1,7 @@
 # newman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/newman.md)
+
 <p><span class="chinese">好莱坞老牌演员保罗·纽曼去世，享年83岁。</span><span class="english">Actor Paul Newman dies at age 83.</span></p>
 
 <p><span class="chinese">但纽曼有他特有的优势。</span><span class="english">But Newman had unique advantages.</span></p>

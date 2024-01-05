@@ -1,5 +1,7 @@
 # 辛夷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinyi_5.md)
+
 <p><span class="chinese">木兰，亦称辛夷，别称木力芽。</span><span class="english">Mulan, as well Xinyi, known as bud wood edge.</span></p>
 
 <p><span class="chinese">辛夷，中草药名，即玉兰科望春花，亦称辛夷花。</span><span class="english">Xinyi , a herb name, is a kind of spring flower, also called Xinyi flower.</span></p>

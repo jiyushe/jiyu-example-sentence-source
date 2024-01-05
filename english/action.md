@@ -1,5 +1,7 @@
 # action
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/action.md)
+
 <p><span class="chinese">制定行动计划。</span><span class="english">Plan for action.</span></p>
 
 <p><span class="chinese">用行动捐助。</span><span class="english">Donation by Action.</span></p>

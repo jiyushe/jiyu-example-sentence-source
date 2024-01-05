@@ -1,5 +1,7 @@
 # hanky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hanky.md)
+
 <p><span class="chinese">给我看看你的手帕。</span><span class="english">Show me your hanky.</span></p>
 
 <p><span class="chinese">我有一块黄手帕。</span><span class="english">I've a yellow hanky.</span></p>

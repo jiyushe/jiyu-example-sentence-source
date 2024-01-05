@@ -1,5 +1,7 @@
 # playstation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/playstation.md)
+
 <p><span class="chinese">认为可以胜过猪您的游戏？</span><span class="english">Think that you can outplay a pig on your Playstation?</span></p>
 
 <p><span class="chinese">谁今晚在场上控制大卫鲁伊兹？</span><span class="english">Who was controlling David Luiz tonight on the Playstation?</span></p>

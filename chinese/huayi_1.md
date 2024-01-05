@@ -1,5 +1,7 @@
 # 划一
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huayi_1.md)
+
 <p><span class="chinese">从A到B划一条线。</span><span class="english">Draw a line from A to B.</span></p>
 
 <p><span class="chinese">猫也可以审察国王，意为大家划一。</span><span class="english">A cat may look at a king.</span></p>

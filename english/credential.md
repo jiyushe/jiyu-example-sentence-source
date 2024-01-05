@@ -1,5 +1,7 @@
 # credential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/credential.md)
+
 <p><span class="chinese">拿到文凭等所有证书。</span><span class="english">and I'm going to get my credential and everything.</span></p>
 
 <p><span class="chinese">而身为律师的奥德松不符合这项要求。</span><span class="english">Mr. Oddsson, a lawyer, doesn't have that credential.</span></p>

@@ -1,5 +1,7 @@
 # 陨石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunshi_1.md)
+
 <p><span class="chinese">什么是陨石？</span><span class="english">What’s meteorites?</span></p>
 
 <p><span class="chinese">欧，看，亨利，陨石！</span><span class="english">Ooh, look, Henry. Meteorites.</span></p>

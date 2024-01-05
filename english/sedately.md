@@ -1,5 +1,7 @@
 # sedately
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sedately.md)
+
 <p><span class="chinese">在中国的西南一角，这里的人们阔别那片喧嚣安详的活着。</span><span class="english">Life in the country's south-west glides along rather sedately.</span></p>
 
 <p><span class="chinese">消瘦的妇女们安静的坐在路边出售纺织品和民族手工艺品。</span><span class="english">Perched sedately on the kerbside, wizened women sell textiles and ethnic handicrafts.</span></p>

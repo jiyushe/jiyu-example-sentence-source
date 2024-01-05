@@ -1,5 +1,7 @@
 # branchial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/branchial.md)
+
 <p><span class="chinese">烂鳃病的症状？</span><span class="english">The symptom of sodden branchial disease?</span></p>
 
 <p><span class="chinese">它们有一条推进用的尾巴，咽及鳃裂。</span><span class="english">IV. They present a propulsive tail, pharynx and branchial openings.</span></p>

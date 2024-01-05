@@ -1,5 +1,7 @@
 # 石子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizi_5.md)
+
 <p><span class="chinese">我的鞋里有一粒石子。</span><span class="english">I have a stone in my shoe.</span></p>
 
 <p><span class="chinese">一个破碎的石子，独自痛哭。</span><span class="english">Left a hard-bitten stone alone.</span></p>

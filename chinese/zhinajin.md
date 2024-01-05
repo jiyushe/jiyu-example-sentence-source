@@ -1,5 +1,7 @@
 # 滞纳金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhinajin.md)
+
 <p><span class="chinese">自动化交付肩负所有费用避免滞纳金。</span><span class="english">Pay bills automatically to avoid late fees.</span></p>
 
 <p><span class="chinese">缓缴的社会保险费不计收滞纳金。</span><span class="english">Hold over the non-collection of social insurance fines.</span></p>

@@ -1,5 +1,7 @@
 # 因子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinzi_1.md)
+
 <p><span class="chinese">其他星球上的复制因子？</span><span class="english">Replicators on other planets?</span></p>
 
 <p><span class="chinese">这是一种换算因子。</span><span class="english">Well, it's a conversion factor.</span></p>

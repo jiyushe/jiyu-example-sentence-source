@@ -1,5 +1,7 @@
 # 教练机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaolianji.md)
+
 <p><span class="chinese">我的父亲自己承包了教练机销售业务，那天他病的那么重，身体那么累。</span><span class="english">My father, a self-employed sales trainer, was that sick, that tired.</span></p>
 
 <p><span class="chinese">官方原型涂刷方案的L-15高级教练机。</span><span class="english">The L-15 advanced trainer in its official prototype painting scheme.</span></p>

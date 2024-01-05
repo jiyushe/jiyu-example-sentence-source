@@ -1,5 +1,7 @@
 # rating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rating.md)
+
 <p><span class="chinese">是温情？</span><span class="english">Was it the rating of warmth?</span></p>
 
 <p><span class="chinese">动力伞的技能等级是如何划分的？</span><span class="english">What is this PPG rating thing?</span></p>

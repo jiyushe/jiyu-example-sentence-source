@@ -1,5 +1,7 @@
 # inoculate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inoculate.md)
+
 <p><span class="chinese">假象你出于自己正担心的事情中。</span><span class="english">Inoculate yourself against a feared event.</span></p>
 
 <p><span class="chinese">一队医生来给新兵打防疫针。</span><span class="english">A corps of doctors arrived to inoculate the recruits.</span></p>

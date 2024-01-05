@@ -1,5 +1,7 @@
 # yerba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yerba.md)
+
 <p><span class="chinese">实际上，喝的是巴拉圭茶，那是一种让人很轻松的茶。</span><span class="english">Actually , yerba mates , which is this very soothing tea drink.</span></p>
 
 <p><span class="chinese">这里是芳草艺术中心，就在苏玛区里。</span><span class="english">Right here is Yerba Buena Center for the Arts  and so that's right here in SoMa.</span></p>

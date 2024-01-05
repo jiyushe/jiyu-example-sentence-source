@@ -1,5 +1,7 @@
 # oxfam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oxfam.md)
+
 <p><span class="chinese">乐施会毅行者每年何时举行？</span><span class="english">Oxfam Trailwalker year be held?</span></p>
 
 <p><span class="chinese">我想你听说过乐施会。</span><span class="english">I imagine you've heard of Oxfam.</span></p>

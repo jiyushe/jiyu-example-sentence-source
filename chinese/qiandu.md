@@ -1,5 +1,7 @@
 # 迁都
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiandu.md)
+
 <p><span class="chinese">现在到了迁都的时候了吗？</span><span class="english">Is it time to move the capital now?</span></p>
 
 <p><span class="chinese">随着德国军队横扫巴黎大街小巷，法国政府决定迁都到波多尔市。</span><span class="english">As the German army swept toward Paris, the government decided to move to Bordeaux.</span></p>

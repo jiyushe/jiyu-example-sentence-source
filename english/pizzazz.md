@@ -1,5 +1,7 @@
 # pizzazz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pizzazz.md)
+
 <p><span class="chinese">我们想要有生气的人干这项工作。</span><span class="english">We want someone for the job who has lots of pizzazz.</span></p>
 
 <p><span class="chinese">普通的抽屉也给这些空间一点活力。</span><span class="english">Custom drawers also give this space a little pizzazz.</span></p>

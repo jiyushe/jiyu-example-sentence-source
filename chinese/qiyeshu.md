@@ -1,5 +1,7 @@
 # 七叶树
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiyeshu.md)
+
 <p><span class="chinese">那是一棵七叶树。</span><span class="english">That is a conker tree.</span></p>
 
 <p><span class="chinese">你看到过汤姆·史密斯的七叶树吗？</span><span class="english">Have you seen Tom Smith'sconker?</span></p>

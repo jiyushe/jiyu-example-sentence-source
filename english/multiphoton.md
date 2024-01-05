@@ -1,5 +1,7 @@
 # multiphoton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multiphoton.md)
+
 <p><span class="chinese">这一理论模型可推广应用于多光子过程。</span><span class="english">The theoretical scheme can be extended to the application for multiphoton processes.</span></p>
 
 <p><span class="chinese">本文报道了测量多光于电离谱的一整套硬件和软件系统。</span><span class="english">We report the hard and software systems for measuring multiphoton ionization spectra.</span></p>

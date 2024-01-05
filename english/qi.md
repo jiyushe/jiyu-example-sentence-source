@@ -1,5 +1,7 @@
 # qi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/qi.md)
+
 <p><span class="chinese">玉万为之气结。</span><span class="english">Jade wan qi junction.</span></p>
 
 <p><span class="chinese">你知道七里港吗？</span><span class="english">Do you know Qi Li harbour?</span></p>

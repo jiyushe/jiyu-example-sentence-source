@@ -1,5 +1,7 @@
 # 刻本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keben.md)
+
 <p><span class="chinese">明代各个重刻本都出自浙本，亦无出自蜀刻之书。</span><span class="english">All the editions of Ming Dynasty originate from the Zhe edition.</span></p>
 
 <p><span class="chinese">理由是传统的彩色刷设计是前申请刻本。</span><span class="english">The coloured grounds are traditionally brush applied before the design is block printed.</span></p>

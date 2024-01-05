@@ -1,5 +1,7 @@
 # 刑警
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingjing.md)
+
 <p><span class="chinese">广州一名资深刑警表示。</span><span class="english">A senior gumshoe of Guangzhou expresses.</span></p>
 
 <p><span class="chinese">这是最新的一个，刚从国际刑警组织传过来的。</span><span class="english">Here's the latest candidate, just in from Interpol.</span></p>

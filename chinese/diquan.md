@@ -1,5 +1,7 @@
 # 地权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diquan.md)
+
 <p><span class="chinese">而农村地权制度是农村土地问题的核心所在。</span><span class="english">And the rural land property system is the hard core.</span></p>
 
 <p><span class="chinese">“平均地权”是孙中山“民生主义”的内容之一。</span><span class="english">The equality in land properties was one of the important content of Dr.</span></p>

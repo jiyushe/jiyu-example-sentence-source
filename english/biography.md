@@ -1,5 +1,7 @@
 # biography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biography.md)
+
 <p><span class="chinese">也可以是一本传记。</span><span class="english">It could be biography.</span></p>
 
 <p><span class="chinese">撰写人物传记的能力。</span><span class="english">Skills of writing a biography.</span></p>

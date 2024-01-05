@@ -1,5 +1,7 @@
 # fatwa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fatwa.md)
+
 <p><span class="chinese">判例就像医药，只有具备资格的药剂师才能开出。</span><span class="english">A fatwa is a medicine which has to be given by a qualified physician.</span></p>
 
 <p><span class="chinese">亵渎，它可能会都我振奋，并得到我说，教令。</span><span class="english">Desecrating it would probably both cheer me up and get me that fatwa.</span></p>

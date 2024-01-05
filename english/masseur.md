@@ -1,5 +1,7 @@
 # masseur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/masseur.md)
+
 <p><span class="chinese">这�有男按摩师吗？</span><span class="english">Do you have a masseur here?</span></p>
 
 <p><span class="chinese">按摩师替我推拿背。</span><span class="english">The masseur kneaded my back.</span></p>

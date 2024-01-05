@@ -1,5 +1,7 @@
 # frightful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frightful.md)
+
 <p><span class="chinese">他们大打出手，从来没有这麽厉害。</span><span class="english">They had the most frightful set-to.</span></p>
 
 <p><span class="chinese">这是我们一生之中的一个非常难过的时刻。</span><span class="english">This is a frightful moment in our life.</span></p>

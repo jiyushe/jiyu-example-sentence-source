@@ -1,5 +1,7 @@
 # board 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/board.md)
+
 <p><span class="chinese">我们在她家搭伙。</span><span class="english">We board at her house.</span></p>
 
 <p><span class="chinese">我犯了一个卡板切割。</span><span class="english">I made a card board cut.</span></p>

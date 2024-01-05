@@ -1,5 +1,7 @@
 # hutu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hutu.md)
+
 <p><span class="chinese">这三个男人属于胡图族反叛分子。</span><span class="english">The three men were rebel Hutu.</span></p>
 
 <p><span class="chinese">总之，种族灭绝给了没有土地的胡图族发动阶级斗争的接口。</span><span class="english">In short, the genocide gave landless Hutu the cover they needed to initiate class warfare.</span></p>

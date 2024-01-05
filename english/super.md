@@ -1,5 +1,7 @@
 # super
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/super.md)
+
 <p><span class="chinese">我饿得前胸贴后背了。</span><span class="english">I'm super hungry.</span></p>
 
 <p><span class="chinese">他们可是超级顺风耳哦！</span><span class="english">They are super ears.</span></p>

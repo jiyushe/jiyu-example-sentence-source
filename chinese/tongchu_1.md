@@ -1,5 +1,7 @@
 # 痛楚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongchu_1.md)
+
 <p><span class="chinese">需要必然的痛楚。</span><span class="english">Requires sorest need.</span></p>
 
 <p><span class="chinese">她们的勇气和痛楚常常萦绕我心。</span><span class="english">Their courage and pain haunt me.</span></p>

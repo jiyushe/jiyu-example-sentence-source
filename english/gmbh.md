@@ -1,5 +1,7 @@
 # gmbh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gmbh.md)
+
 <p><span class="chinese">德国凯乐金霸有限公司于1878年成立于德国慕尼黑。</span><span class="english">Keller & Kalmbach GmbH was established in Munich, Germany in 1878.</span></p>
 
 <p><span class="chinese">Ritto有限公司2006年创造的收入大约为2千5百万欧元。</span><span class="english">Ritto GmbH & Co KG generated revenue of nearly �25 million in 2006.</span></p>

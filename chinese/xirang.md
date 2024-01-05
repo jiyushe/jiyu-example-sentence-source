@@ -1,5 +1,7 @@
 # 熙攘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xirang.md)
+
 <p><span class="chinese">米尔锥喜欢熙攘的人群和乐队。</span><span class="english">Mildred liked the crowd and the band.</span></p>
 
 <p><span class="chinese">我讨厌这城市的喧嚣熙攘。</span><span class="english">I hate the hustle and bustle of the city.</span></p>

@@ -1,5 +1,7 @@
 # 耍脾气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuapiqi.md)
+
 <p><span class="chinese">他动不动就耍脾气。</span><span class="english">His temper is easily ruffled.</span></p>
 
 <p><span class="chinese">不要害怕孩子的眼泪和耍脾气。</span><span class="english">Don't be afraid of your child's tears or anger.</span></p>

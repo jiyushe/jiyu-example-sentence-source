@@ -1,5 +1,7 @@
 # immunohistochemical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immunohistochemical.md)
+
 <p><span class="chinese">方法HE染色和免疫组织化学检测。</span><span class="english">Methods HE staining and immunohistochemical assays.</span></p>
 
 <p><span class="chinese">免疫组化载玻片用DEPC处理后备用。</span><span class="english">Immunohistochemical glass covers were dealt with DEPC for use.</span></p>

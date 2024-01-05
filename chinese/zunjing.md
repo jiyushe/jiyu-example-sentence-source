@@ -1,5 +1,7 @@
 # 尊敬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zunjing.md)
+
 <p><span class="chinese">我很尊敬他。</span><span class="english">I  respect him.</span></p>
 
 <p><span class="chinese">被尊敬。</span><span class="english">Being respected.</span></p>

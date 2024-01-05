@@ -1,5 +1,7 @@
 # 察言观色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chayanguanse.md)
+
 <p><span class="chinese">我必须察言观色把他防!</span><span class="english">I shall have to watch my step.</span></p>
 
 <p><span class="chinese">聪明的车一向善于察言观色。</span><span class="english">A wise car hears one word and understands two.</span></p>

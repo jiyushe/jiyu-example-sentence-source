@@ -1,5 +1,7 @@
 # 潜意识
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianyishi.md)
+
 <p><span class="chinese">什麽是潜意识销售?。</span><span class="english">What is Hypno-Selling?</span></p>
 
 <p><span class="chinese">哎吆！那是个潜意识的暗示吗？不！</span><span class="english">WHOOPS ! Is that a subliminal hint? NO!</span></p>

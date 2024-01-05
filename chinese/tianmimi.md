@@ -1,5 +1,7 @@
 # 甜蜜蜜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianmimi.md)
+
 <p><span class="chinese">心中甜蜜蜜的。</span><span class="english">In heart honey honey sweetness.</span></p>
 
 <p><span class="chinese">只想与我相亲相爱甜甜蜜蜜。</span><span class="english">Than to love and be loved by me.</span></p>

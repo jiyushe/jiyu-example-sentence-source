@@ -1,5 +1,7 @@
 # anew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anew.md)
+
 <p><span class="chinese">麻烦可能再次爆发。</span><span class="english">Trouble could flare anew.</span></p>
 
 <p><span class="chinese">咹，你好。真傐兴再次见到你。</span><span class="english">Hi, Ann. Nice to see you anew.</span></p>

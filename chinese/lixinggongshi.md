@@ -1,5 +1,7 @@
 # 例行公事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lixinggongshi.md)
+
 <p><span class="chinese">它可不只是每天的例行公事哦。</span><span class="english">It's not only a daily routine.</span></p>
 
 <p><span class="chinese">收集邮票是我的例行公事。</span><span class="english">Collecting stamps is my routine.</span></p>

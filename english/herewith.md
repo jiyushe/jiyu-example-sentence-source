@@ -1,5 +1,7 @@
 # herewith
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/herewith.md)
+
 <p><span class="chinese">附信附上一套样品。</span><span class="english">A set of samples is enclosed herewith.</span></p>
 
 <p><span class="chinese">随信附上十镑支票一张。</span><span class="english">I enclose herewith a cheque for 10 pounds.</span></p>

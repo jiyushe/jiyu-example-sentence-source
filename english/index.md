@@ -1,5 +1,7 @@
 # index 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/index.md)
+
 <p><span class="chinese">您已经拥有了一个索引。</span><span class="english">So you have an index.</span></p>
 
 <p><span class="chinese">这本书有个索引。</span><span class="english">The book has an index.</span></p>

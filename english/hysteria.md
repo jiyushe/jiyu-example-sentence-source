@@ -1,5 +1,7 @@
 # hysteria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hysteria.md)
+
 <p><span class="chinese">那是种歇斯底里悳微笑。</span><span class="english">That is one kind of hysteria smile.</span></p>
 
 <p><span class="chinese">对我来说，伟大的真理都与歇斯底里有关。</span><span class="english">For me the great truths are laced with hysteria.</span></p>

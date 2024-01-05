@@ -1,5 +1,7 @@
 # 俯视
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fushi.md)
+
 <p><span class="chinese">“俯视”的意思就是从高处往下看。</span><span class="english">Fushi" means to look down at".</span></p>
 
 <p><span class="chinese">他俯视着盐商街。</span><span class="english">He looked down into Salter street.</span></p>

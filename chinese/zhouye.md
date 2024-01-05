@@ -1,5 +1,7 @@
 # 昼夜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhouye.md)
+
 <p><span class="chinese">又何念昼夜，虚实？</span><span class="english">In a night, or in a day.</span></p>
 
 <p><span class="chinese">地球昼夜不停地运转。</span><span class="english">The earth moves day and night.</span></p>

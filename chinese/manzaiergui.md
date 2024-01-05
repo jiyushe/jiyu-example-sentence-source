@@ -1,5 +1,7 @@
 # 满载而归
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manzaiergui.md)
+
 <p><span class="chinese">祝快乐满载而归！</span><span class="english">I wish happiness yourselves!</span></p>
 
 <p><span class="chinese">可以说是扫兴而来满载而归。</span><span class="english">Can be said to be disappointing from fruitful.</span></p>

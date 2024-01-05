@@ -1,5 +1,7 @@
 # underline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underline.md)
+
 <p><span class="chinese">写下它并且强调它。</span><span class="english">Write this down and underline it.</span></p>
 
 <p><span class="chinese">请在重要事项的下面划线。</span><span class="english">Please underline the important items.</span></p>

@@ -1,5 +1,7 @@
 # stylebook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stylebook.md)
+
 <p><span class="chinese">顺便说下，真正的语法学家已经将所有样本熟记于心。</span><span class="english">Real grammarians, by the way, have memorized the AP Stylebook.</span></p>
 
 <p><span class="chinese">它提供了写好英文新闻的要诀，及写作手册。</span><span class="english">It provides the secrets of writing English news and a stylebook.</span></p>

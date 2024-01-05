@@ -1,5 +1,7 @@
 # unattended
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unattended.md)
+
 <p><span class="chinese">无人看守的桌面。</span><span class="english">Unattended desktop.</span></p>
 
 <p><span class="chinese">这条命令构建了一个无人参与的包。</span><span class="english">This one command builds a package unattended.</span></p>

@@ -1,5 +1,7 @@
 # soothingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soothingly.md)
+
 <p><span class="chinese">“我在这呢，萨莎，”他安慰说。</span><span class="english">"I have you, Sasha, " he said soothingly.</span></p>
 
 <p><span class="chinese">就会好起来的，＇她轻柔地安慰说。</span><span class="english">It will be all right, ' she cooed soothingly.</span></p>

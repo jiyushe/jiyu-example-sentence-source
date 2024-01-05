@@ -1,5 +1,7 @@
 # 凝冻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ningdong.md)
+
 <p><span class="chinese">寒冷恐惧将这哭僵的孩子凝冻！</span><span class="english">Frigidity and horror have frozen this crying baby!</span></p>
 
 <p><span class="chinese">凝冻天气致云南昭通数千车辆滞留。</span><span class="english">Icy weather strands thousands of vehicles in SW China.</span></p>

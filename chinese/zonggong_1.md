@@ -1,5 +1,7 @@
 # 总攻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zonggong_1.md)
+
 <p><span class="chinese">你们可能都听说过即将发起总攻的传言。</span><span class="english">Now, y'all might've heard rumors about the armada happening soon.</span></p>
 
 <p><span class="chinese">他们发起全线总攻，不给敌人以任何喘息机会。</span><span class="english">They attacked all along the line and gave the enemy no breathing spell.</span></p>

@@ -1,5 +1,7 @@
 # 老生常谈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laoshengchangtan.md)
+
 <p><span class="chinese">无非是老生常谈。</span><span class="english">It's no more than a platitude.</span></p>
 
 <p><span class="chinese">老生常谈，“</span><span class="english">Sober statement of an old problem.</span></p>

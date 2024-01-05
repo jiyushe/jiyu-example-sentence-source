@@ -1,5 +1,7 @@
 # sacrosanct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sacrosanct.md)
+
 <p><span class="chinese">狡猾的狐狸急中生智，装出一副神圣不可侵犯的样子。</span><span class="english">The fox was very quick-witted and pretended to be sacrosanct.</span></p>
 
 <p><span class="chinese">菲利普·格拉斯不屑于创立不变的、神圣的原始文本。</span><span class="english">Philip Glass is ignorant of establishing an immutable, sacrosanct urtext.</span></p>

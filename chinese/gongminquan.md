@@ -1,5 +1,7 @@
 # 公民权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongminquan.md)
+
 <p><span class="chinese">2000年，德国为公民权开辟了一条新路。</span><span class="english">In 2000 it opened a pathway to citizenship.</span></p>
 
 <p><span class="chinese">柯林不享有公民权，所以不能参加投票。</span><span class="english">Colin is debarred from voting as he is not a citizen.</span></p>

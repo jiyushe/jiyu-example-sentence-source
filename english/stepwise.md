@@ -1,5 +1,7 @@
 # stepwise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stepwise.md)
+
 <p><span class="chinese">移徙常常是分步骤进行的。</span><span class="english">Migration is often stepwise.</span></p>
 
 <p><span class="chinese">他们寻求的是一种循序渐进的工作方式。</span><span class="english">They are looking for a stepwise approach.</span></p>

@@ -1,5 +1,7 @@
 # archetype
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/archetype.md)
+
 <p><span class="chinese">每一个原型都有自己的长处，短处，天性，和恐惧。</span><span class="english">Every archetype has strengths, weaknesses, gifts, and fears.</span></p>
 
 <p><span class="chinese">金凯瑞挑战可爱疯子的喜剧刻版印象。</span><span class="english">Mr. Carrey defies the comic archetype of the lovable lunatic.</span></p>

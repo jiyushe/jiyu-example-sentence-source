@@ -1,5 +1,7 @@
 # conscientiously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conscientiously.md)
+
 <p><span class="chinese">凭良心说，我恐怕不能够去当牧师。</span><span class="english">I fear I could not conscientiously do so.</span></p>
 
 <p><span class="chinese">你按部就班地干，做到老也是穷死。</span><span class="english">If you work conscientiously you 'll only die a pauper.</span></p>

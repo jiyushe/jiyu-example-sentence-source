@@ -1,5 +1,7 @@
 # 研读
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yandu_1.md)
+
 <p><span class="chinese">我们研读不同的经文。</span><span class="english">We read from different texts.</span></p>
 
 <p><span class="chinese">我们每天做的只是研读。</span><span class="english">All that we do every day is study.</span></p>

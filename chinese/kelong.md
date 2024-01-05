@@ -1,5 +1,7 @@
 # 克隆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kelong.md)
+
 <p><span class="chinese">传播这个克隆病毒！</span><span class="english">Send in the Cloner!</span></p>
 
 <p><span class="chinese">我是凯瑟琳•克隆博格。</span><span class="english">I'm Catherine Cronenberg.</span></p>

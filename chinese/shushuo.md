@@ -1,5 +1,7 @@
 # 述说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shushuo.md)
+
 <p><span class="chinese">她述说了他的罪恶。</span><span class="english">She recounted his sins.</span></p>
 
 <p><span class="chinese">汹涌的波涛在述说什么？</span><span class="english">What are the wild waves saying?</span></p>

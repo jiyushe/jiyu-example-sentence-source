@@ -1,5 +1,7 @@
 # PhD
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phd.md)
+
 <p><span class="chinese">第一个拿到天文学学位的人。</span><span class="english">First PhD in astronomy.</span></p>
 
 <p><span class="chinese">罗伯特·D·恩赖特博士警告道。</span><span class="english">cautions Robert D. Enright, PhD.</span></p>

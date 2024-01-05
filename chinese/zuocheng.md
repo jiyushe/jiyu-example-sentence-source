@@ -1,5 +1,7 @@
 # 作成
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuocheng.md)
+
 <p><span class="chinese">这个曲子是即席作成的。</span><span class="english">The song was composed extempore.</span></p>
 
 <p><span class="chinese">你也可以作成小型的菜肉陷煎蛋饼。</span><span class="english">You can make mini frittata, too.</span></p>

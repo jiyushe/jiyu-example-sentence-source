@@ -1,5 +1,7 @@
 # 太阳灯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taiyangdeng.md)
+
 <p><span class="chinese">避免日光浴床和太阳灯。</span><span class="english">Avoid sunlamps and tanning parlours.</span></p>
 
 <p><span class="chinese">过度使用太阳灯灯浴床会引发皮肤癌。</span><span class="english">The overuse of the sunbed may cause the skin cancer.</span></p>

@@ -1,5 +1,7 @@
 # 打更
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dageng.md)
+
 <p><span class="chinese">我希望打更多比赛。</span><span class="english">I'd like to play more.</span></p>
 
 <p><span class="chinese">有些惩罚比打更严重。</span><span class="english">There are things worse than beatings.</span></p>

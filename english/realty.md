@@ -1,5 +1,7 @@
 # realty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/realty.md)
+
 <p><span class="chinese">土地被称为不动产。</span><span class="english">Land is referred to as realty.</span></p>
 
 <p><span class="chinese">彩色电视真是一个奇迹。</span><span class="english">Colour television is realty a wonder.</span></p>

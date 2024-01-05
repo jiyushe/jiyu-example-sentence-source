@@ -1,5 +1,7 @@
 # cst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cst.md)
+
 <p><span class="chinese">他希望科技委更好地围绕当前部的工作重点开展工作。</span><span class="english">He expressed the hope that the CST better focus on the current work of the Department.</span></p>
 
 <p><span class="chinese">药液的表面张力与靶标的临界表面张力愈接近，药液在靶标上容易润湿铺展。</span><span class="english">Dilution is easier wetting and spreading on target with its ST nearer to CST of target.</span></p>

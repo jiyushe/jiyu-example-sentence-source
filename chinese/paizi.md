@@ -1,5 +1,7 @@
 # 拍子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paizi.md)
+
 <p><span class="chinese">这是二拍子的</span><span class="english">So it's duple meter.</span></p>
 
 <p><span class="chinese">我拍子要换线。</span><span class="english">I need my racquet restrung.</span></p>

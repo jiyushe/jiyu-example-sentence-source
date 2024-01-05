@@ -1,5 +1,7 @@
 # rove
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rove.md)
+
 <p><span class="chinese">他喜欢漫游于山青水秀之乡。</span><span class="english">He loved to rove the green hills and clear waters.</span></p>
 
 <p><span class="chinese">罗夫表示他将多花些时间与家人共享天伦。</span><span class="english">Rove says he wants to spend more time with his family.</span></p>

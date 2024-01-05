@@ -1,5 +1,7 @@
 # 公愤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongfen_1.md)
+
 <p><span class="chinese">公愤之后迎来了这场改革。</span><span class="english">After the outrage comes the reform.</span></p>
 
 <p><span class="chinese">他的行为激起公愤。</span><span class="english">His behavior outraged public opinion.</span></p>

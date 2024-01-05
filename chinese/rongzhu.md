@@ -1,5 +1,7 @@
 # 熔铸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongzhu.md)
+
 <p><span class="chinese">这个铸工厂熔铸铁。</span><span class="english">The foundry smelts iron.</span></p>
 
 <p><span class="chinese">熔铸设备，铝棒均质炉组，挤压设备。</span><span class="english">Hangxing Aluminium equipment plant Co. , Ltd.</span></p>

@@ -1,5 +1,7 @@
 # teamwork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teamwork.md)
+
 <p><span class="chinese">想鼓励团队合作？</span><span class="english">Want to foster teamwork?</span></p>
 
 <p><span class="chinese">能暸解团队合作的意义。</span><span class="english">Know the meaning of teamwork.</span></p>

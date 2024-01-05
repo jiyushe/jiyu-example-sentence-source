@@ -1,5 +1,7 @@
 # 古书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gushu.md)
+
 <p><span class="chinese">你能获得那本珍本古书吗?。</span><span class="english">Can you procure that rare old book ?</span></p>
 
 <p><span class="chinese">在古书里对我显示你的肖像。</span><span class="english">Show me your image in some antique book.</span></p>

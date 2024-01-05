@@ -1,5 +1,7 @@
 # 柱石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhushi_2.md)
+
 <p><span class="chinese">我要称他为社会的柱石。</span><span class="english">I should like to call him a pillar of society.</span></p>
 
 <p><span class="chinese">我们寄望巴玛下一代的信徒能成为教会的柱石。</span><span class="english">It is the next generation now in Pammal church.</span></p>

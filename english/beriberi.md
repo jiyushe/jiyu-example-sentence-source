@@ -1,5 +1,7 @@
 # beriberi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beriberi.md)
+
 <p><span class="chinese">脚气病是如何对待？</span><span class="english">How is beriberi treated?</span></p>
 
 <p><span class="chinese">我这个人有人气，还有脚气。</span><span class="english">My someone gas , Still there is the beriberi.</span></p>

@@ -1,5 +1,7 @@
 # viciously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/viciously.md)
+
 <p><span class="chinese">我恶意地挥砍身边的一只猫！</span><span class="english">I slash viciously at a nearby cat!</span></p>
 
 <p><span class="chinese">前门的门铃激烈地发出刺耳的声响。</span><span class="english">The front door bell jangled viciously.</span></p>

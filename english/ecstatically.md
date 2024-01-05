@@ -1,5 +1,7 @@
 # ecstatically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ecstatically.md)
+
 <p><span class="chinese">“随我来,”男孩欣喜若狂地说?</span><span class="english">“Come with me,” said the boy, ecstatically.</span></p>
 
 <p><span class="chinese">在这个心醉神迷地美丽的电影中，墙壁从不翻倒，不过女人做。</span><span class="english">In this ecstatically beautiful film, walls never tumble, only women do.</span></p>

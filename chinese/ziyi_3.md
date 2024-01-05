@@ -1,5 +1,7 @@
 # 自已
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziyi_3.md)
+
 <p><span class="chinese">现在则是我等亨利，他不能自已地消失，没有一点征兆。</span><span class="english">Now I wait for Henry.</span></p>
 
 <p><span class="chinese">他只是不能自已</span><span class="english">He just couldn't stop.</span></p>

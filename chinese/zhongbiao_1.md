@@ -1,5 +1,7 @@
 # 钟表
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongbiao_1.md)
+
 <p><span class="chinese">“哼，”钟表匠说。</span><span class="english">"Hm, " said the clockmaker.</span></p>
 
 <p><span class="chinese">钟表为什么都是顺时针转的？</span><span class="english">Why do clocks run clockwise?</span></p>

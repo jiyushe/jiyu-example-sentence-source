@@ -1,5 +1,7 @@
 # 赤条条
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chitiaotiao.md)
+
 <p><span class="chinese">我们都是赤条条地来到这个世界的。</span><span class="english">We all come into the world without possessions.</span></p>
 
 <p><span class="chinese">把工具袋丢下，赤条条的，白白的。</span><span class="english">Then naked and white, all their bags left behind.</span></p>

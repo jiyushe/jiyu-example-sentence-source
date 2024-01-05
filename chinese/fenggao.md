@@ -1,5 +1,7 @@
 # 奉告
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenggao.md)
+
 <p><span class="chinese">“无可奉告”就是一条奉告。</span><span class="english">“No comment” is a comment.</span></p>
 
 <p><span class="chinese">我想奉告一件使你感到惊讶的事。</span><span class="english">C. I'd like to tell you something that will make you surprised.</span></p>

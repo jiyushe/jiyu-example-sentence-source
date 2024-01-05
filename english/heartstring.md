@@ -1,5 +1,7 @@
 # heartstring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heartstring.md)
+
 <p><span class="chinese">拨动我心弦，歌唱。</span><span class="english">On my heartstring freedom sings.</span></p>
 
 <p><span class="chinese">回味，触动心弦的遐想。</span><span class="english">The fancy of the touch heartstring.</span></p>

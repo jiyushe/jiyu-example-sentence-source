@@ -1,5 +1,7 @@
 # 自勉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zimian_2.md)
+
 <p><span class="chinese">自勉性和人际交往能力。</span><span class="english">Self-motivated and excellent interpersonal skills.</span></p>
 
 <p><span class="chinese">“您的要求，是我们的追求”是公司的自勉和承诺。</span><span class="english">That"Your requirement is our pursuing"is Zhongli is assiduity and promise.</span></p>

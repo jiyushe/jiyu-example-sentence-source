@@ -1,5 +1,7 @@
 # 地轴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dizhou.md)
+
 <p><span class="chinese">地球围着地轴自西向东转。</span><span class="english">The Earth rotates from west-to-east on its axis.</span></p>
 
 <p><span class="chinese">地球围绕太阳旋转，并以地轴作自转。</span><span class="english">The earth spins round the sun, and on its own axis.</span></p>

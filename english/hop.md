@@ -1,5 +1,7 @@
 # hop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hop.md)
+
 <p><span class="chinese">我能单脚跳。</span><span class="english">I can hop.</span></p>
 
 <p><span class="chinese">快点，跳上来。</span><span class="english">Come on, hop up.</span></p>

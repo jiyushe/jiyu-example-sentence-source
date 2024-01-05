@@ -1,5 +1,7 @@
 # downward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downward.md)
+
 <p><span class="chinese">呼气，进入下犬式。</span><span class="english">Exhale into Downward Dog.</span></p>
 
 <p><span class="chinese">呼气，回到下犬式。</span><span class="english">Exhale back to Downward Dog.</span></p>

@@ -1,5 +1,7 @@
 # atomistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atomistic.md)
+
 <p><span class="chinese">准连续体方法是一种将连续介质方法和原子模拟相耦合的多尺度模拟方法。</span><span class="english">The quasicontinuum method is a multiscale method which mixes continuum and atomistic approaches.</span></p>
 
 <p><span class="chinese">你会学到在统计力学中，是如何用原子论的概念,阐释热力学的。</span><span class="english">You'd learn about statistical mechanics, and how the atomistic concepts rationalize thermodynamics.</span></p>

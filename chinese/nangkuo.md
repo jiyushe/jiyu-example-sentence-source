@@ -1,5 +1,7 @@
 # 囊括
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nangkuo.md)
+
 <p><span class="chinese">伏特加酒，囊括了许多时区，作曲家们。</span><span class="english">Vodka, lots of time zones, composers.</span></p>
 
 <p><span class="chinese">大教代表队囊括了全部乒乓球比赛的奖项。</span><span class="english">Jean carried off all the prizes in the competition.</span></p>

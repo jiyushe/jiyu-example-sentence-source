@@ -1,5 +1,7 @@
 # 裂痕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liehen.md)
+
 <p><span class="chinese">这块玻璃有一道裂痕。</span><span class="english">There is a crack in the glass.</span></p>
 
 <p><span class="chinese">他们面前有个巨大的裂痕。</span><span class="english">A huge chasm gaped before them.</span></p>

@@ -1,5 +1,7 @@
 # 劫掠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jielve.md)
+
 <p><span class="chinese">村民们遭到大规模的劫掠。</span><span class="english">The villagers were systematically plundered.</span></p>
 
 <p><span class="chinese">我们的海岸曾被威金族的海盗劫掠。</span><span class="english">Our coasts were preyed upon by Viking pirates.</span></p>

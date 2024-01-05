@@ -1,5 +1,7 @@
 # 一穷二白
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiqiongerbai.md)
+
 <p><span class="chinese">有些国家一穷二白。</span><span class="english">There is nothing in some of these countries.</span></p>
 
 <p><span class="chinese">听上赴不错。我这个星期真的是一穷二白了！</span><span class="english">That sounds great. I'm really broke this week!</span></p>

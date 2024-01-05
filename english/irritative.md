@@ -1,5 +1,7 @@
 # irritative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irritative.md)
+
 <p><span class="chinese">对皮肤及眼睛有强烈的刺激性。</span><span class="english">It is strong irritative to skin and eyes.</span></p>
 
 <p><span class="chinese">刺激症状随着重复暴露而减轻。</span><span class="english">Irritative symptoms lessened with repeated exposures.</span></p>

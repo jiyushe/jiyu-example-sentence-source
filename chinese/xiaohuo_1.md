@@ -1,5 +1,7 @@
 # 小火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaohuo_1.md)
+
 <p><span class="chinese">小火、慢火是最好的。</span><span class="english">Low and slow is best.</span></p>
 
 <p><span class="chinese">调小火，加入油桃。</span><span class="english">Reduce heat. Add nectarines.</span></p>

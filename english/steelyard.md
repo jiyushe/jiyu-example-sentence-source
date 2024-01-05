@@ -1,5 +1,7 @@
 # steelyard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/steelyard.md)
+
 <p><span class="chinese">这儿有一个巨大的秤。</span><span class="english">There is a huge steelyard here.</span></p>
 
 <p><span class="chinese">把这个戒指在杆秤上称一称。</span><span class="english">Weigh this ring in the small steelyard.</span></p>

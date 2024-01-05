@@ -1,5 +1,7 @@
 # amr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amr.md)
+
 <p><span class="chinese">抗菌素耐药性将现代医学的成就置于危险境地。</span><span class="english">The achievements of modern medicine are put at risk by AMR.</span></p>
 
 <p><span class="chinese">抗菌素耐药性会威胁到卫生安全并破坏贸易和经济</span><span class="english">AMR threatens health security, and damages trade and economies</span></p>

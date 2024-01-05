@@ -1,5 +1,7 @@
 # 冬衣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongyi_1.md)
+
 <p><span class="chinese">冬衣还是高跟鞋？</span><span class="english">winter coat or high-heeled shoes?</span></p>
 
 <p><span class="chinese">冬衣还是高跟鞋？</span><span class="english">Winter coats and high-heeled shoes?</span></p>

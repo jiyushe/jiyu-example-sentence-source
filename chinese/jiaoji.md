@@ -1,5 +1,7 @@
 # 交际
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoji.md)
+
 <p><span class="chinese">这是交际的禅宗。</span><span class="english">It's social Zen.</span></p>
 
 <p><span class="chinese">他是个交际广的人。</span><span class="english">He is a man of many contacts.</span></p>

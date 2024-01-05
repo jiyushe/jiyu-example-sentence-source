@@ -1,5 +1,7 @@
 # voyage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/voyage.md)
+
 <p><span class="chinese">在航行中他晕船。</span><span class="english">He got seasick during the voyage.</span></p>
 
 <p><span class="chinese">人生常被比做海上航行。</span><span class="english">Life is often likened to sea voyage.</span></p>

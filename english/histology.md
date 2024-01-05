@@ -1,5 +1,7 @@
 # histology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/histology.md)
+
 <p><span class="chinese">课程主要分为正课及实验课。</span><span class="english">This class for histology includes lecture and laboratory.</span></p>
 
 <p><span class="chinese">其中17例患者及12例健康者行骨组织学观察。</span><span class="english">Bone histology was observed in 17 cirrhosis and 12 controls.</span></p>

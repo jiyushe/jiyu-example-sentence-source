@@ -1,5 +1,7 @@
 # 过早
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guozao.md)
+
 <p><span class="chinese">你的乌发是否过早的变白了？</span><span class="english">Are you going gray too early?</span></p>
 
 <p><span class="chinese">您的乌发是否过早变白了?。</span><span class="english">Are you going grey too early?</span></p>

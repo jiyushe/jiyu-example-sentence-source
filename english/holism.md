@@ -1,5 +1,7 @@
 # holism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/holism.md)
+
 <p><span class="chinese">阐述整体观念的基本概念及主要内容。</span><span class="english">The concept of holism and its main contents.</span></p>
 
 <p><span class="chinese">迪昂-奎因论题与整体论密切相关。</span><span class="english">Duhem-Quine thesis is closely related to holism.</span></p>

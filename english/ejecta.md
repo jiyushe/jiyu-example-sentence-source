@@ -1,5 +1,7 @@
 # ejecta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ejecta.md)
+
 <p><span class="chinese">全球都能发现这一撞击的喷发物。</span><span class="english">The ejecta from the impact are found all over the world.</span></p>
 
 <p><span class="chinese">首先，如此巨大的撞击本应当有温度极高的大量熔岩喷出。</span><span class="english">For one thing, such a large impact should have thrown out huge quantities of superhot ejecta.</span></p>

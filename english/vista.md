@@ -1,5 +1,7 @@
 # vista
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vista.md)
+
 <p><span class="chinese">见到你很高兴，直到香格里拉景色。</span><span class="english">Nice to meet you, hasta la vista.</span></p>
 
 <p><span class="chinese">再见了宝贝，下次再见。</span><span class="english">Hasta la vista baby, see you next time.</span></p>

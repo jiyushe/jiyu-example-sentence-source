@@ -1,5 +1,7 @@
 # perugia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perugia.md)
+
 <p><span class="chinese">我当时在佩鲁贾一个朋友的公寓里。</span><span class="english">I was at a friend’s apartment in Perugia.</span></p>
 
 <p><span class="chinese">意大利中部佩鲁贾东南偏东一城镇。</span><span class="english">A town of central Italy east-southeast of Perugia.</span></p>

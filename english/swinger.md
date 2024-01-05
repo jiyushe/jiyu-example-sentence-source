@@ -1,5 +1,7 @@
 # swinger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swinger.md)
+
 <p><span class="chinese">那个女孩可不赶时髦。</span><span class="english">That girl is not a swinger.</span></p>
 
 <p><span class="chinese">当年，我自己也是“荡桦树“的能手。</span><span class="english">So was I once myself a swinger of birches.</span></p>

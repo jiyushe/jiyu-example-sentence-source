@@ -1,5 +1,7 @@
 # 香菇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianggu_1.md)
+
 <p><span class="chinese">香菇切成小粒。</span><span class="english">Finely chop the mushroom.</span></p>
 
 <p><span class="chinese">如何挑选新鲜的香菇？</span><span class="english">How to pick fresh mushrooms?</span></p>

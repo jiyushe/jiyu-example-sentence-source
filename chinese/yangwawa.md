@@ -1,5 +1,7 @@
 # 洋娃娃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangwawa.md)
+
 <p><span class="chinese">那是兰兰的洋娃娃。</span><span class="english">That's Lan Lan's doll.</span></p>
 
 <p><span class="chinese">跟你的洋娃娃办家家酒。</span><span class="english">Play house with your dolls.</span></p>

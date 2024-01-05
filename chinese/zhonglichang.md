@@ -1,5 +1,7 @@
 # 重力场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhonglichang.md)
+
 <p><span class="chinese">在重力场或者电场里面，就做不到了。</span><span class="english">A gravitational field or an electric field, you can't.</span></p>
 
 <p><span class="chinese">在这个过程中我们尝试获得一个厚纸板的重力场。</span><span class="english">In the process we will try to achieve gravitation of a cardboard.</span></p>

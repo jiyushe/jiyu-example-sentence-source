@@ -1,5 +1,7 @@
 # devote
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/devote.md)
+
 <p><span class="chinese">花一年时间投入到工作中。</span><span class="english">Devote a year to your career.</span></p>
 
 <p><span class="chinese">我希望你能投身于我！</span><span class="english">I hope you can devote youself to me!</span></p>

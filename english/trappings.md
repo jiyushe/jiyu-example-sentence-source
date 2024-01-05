@@ -1,5 +1,7 @@
 # trappings
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trappings.md)
+
 <p><span class="chinese">但是艾利亚的小屋却没有这些现代化的“诱惑”。</span><span class="english">Eliyah's cabin, though, has none of these modern trappings.</span></p>
 
 <p><span class="chinese">我们是一个企业经营性质的共和国。</span><span class="english">We are a Corporate Run country with the trappings of a Republic.</span></p>

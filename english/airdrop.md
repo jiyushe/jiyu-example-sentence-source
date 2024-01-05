@@ -1,5 +1,7 @@
 # airdrop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airdrop.md)
+
 <p><span class="chinese">空投一具可放置的步哨机枪。</span><span class="english">Airdrop a placeable Sentry Gun.</span></p>
 
 <p><span class="chinese">随着部队的推进，他们获得了更多空投补给。</span><span class="english">As the troops advanced, they received more supplies by airdrop.</span></p>

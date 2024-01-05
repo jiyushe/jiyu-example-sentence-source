@@ -1,5 +1,7 @@
 # destructively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/destructively.md)
+
 <p><span class="chinese">对宇宙毁灭性的制造空间垃圾。</span><span class="english">Destructively make room garbage to the cosmos.</span></p>
 
 <p><span class="chinese">我们调查和揭露非法采伐和破坏性采伐木材的贸易。</span><span class="english">We investigate and expose the trade in illegal and destructively logged timber.</span></p>

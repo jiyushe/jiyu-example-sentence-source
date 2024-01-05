@@ -1,5 +1,7 @@
 # adorning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adorning.md)
+
 <p><span class="chinese">让礼貌成为你的华饰！</span><span class="english">Let courtesy be your adorning.</span></p>
 
 <p><span class="chinese">下一步是装饰圣诞树。</span><span class="english">Adorning the tree is the next step.</span></p>

@@ -1,5 +1,7 @@
 # consternation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consternation.md)
+
 <p><span class="chinese">他那红通的脸显得又惊惶又疲乏。</span><span class="english">His rubicund face expressed consternation and fatigue.</span></p>
 
 <p><span class="chinese">这两个受惊的朋友万分恐惧地从桌上跳下来。</span><span class="english">The affrighted friends jumped from the table in the consternation.</span></p>

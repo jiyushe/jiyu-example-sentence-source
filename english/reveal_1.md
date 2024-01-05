@@ -1,5 +1,7 @@
 # reveal 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reveal_1.md)
+
 <p><span class="chinese">并且它们中有很多爆点。</span><span class="english">And they have plenty to reveal.</span></p>
 
 <p><span class="chinese">这样的说话技巧是“放话”。</span><span class="english">This way is to reveal the news.</span></p>

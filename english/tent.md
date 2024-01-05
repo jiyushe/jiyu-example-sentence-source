@@ -1,5 +1,7 @@
 # tent 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tent.md)
+
 <p><span class="chinese">我的帐篷是防水的。</span><span class="english">My tent is waterproof.</span></p>
 
 <p><span class="chinese">他们在帐篷里面吗？</span><span class="english">Were they in the tent?</span></p>

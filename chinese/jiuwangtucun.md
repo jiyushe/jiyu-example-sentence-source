@@ -1,5 +1,7 @@
 # 救亡图存
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuwangtucun.md)
+
 <p><span class="chinese">救亡图存的民族使命迫在眉睫。</span><span class="english">To salvage China from subjugation was an urgent mission for the Chinese nation.</span></p>
 
 <p><span class="chinese">在当时救亡图存的迫切需要下，他把科学视为解决问题的利器。</span><span class="english">In that save-demand needing time, he regarded science as the sharp tool to save China.</span></p>

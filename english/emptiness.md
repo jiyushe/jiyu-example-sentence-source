@@ -1,5 +1,7 @@
 # emptiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emptiness.md)
+
 <p><span class="chinese">缚手缚脚的空旷。</span><span class="english">All vanishes into emptiness.</span></p>
 
 <p><span class="chinese">你凝望着的是何等的空虚！</span><span class="english">What emptiness do you gaze upon!</span></p>

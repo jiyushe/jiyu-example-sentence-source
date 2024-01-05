@@ -1,5 +1,7 @@
 # despotism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/despotism.md)
+
 <p><span class="chinese">专制主义，我够了。</span><span class="english">I've had enough of despotism.</span></p>
 
 <p><span class="chinese">它是实行专制制度的国家之决不妥协的敌人。</span><span class="english">She is the irreconcilable enemy of the despotism of the State.</span></p>

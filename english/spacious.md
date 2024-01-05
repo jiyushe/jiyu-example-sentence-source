@@ -1,5 +1,7 @@
 # spacious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spacious.md)
+
 <p><span class="chinese">屋子宽绰。</span><span class="english">The room is spacious.</span></p>
 
 <p><span class="chinese">我需要一个宽敞的房子.</span><span class="english">I need a spacious apartment.</span></p>

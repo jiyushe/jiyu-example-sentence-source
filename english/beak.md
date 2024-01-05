@@ -1,5 +1,7 @@
 # beak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beak.md)
+
 <p><span class="chinese">操纵塘鹅的喙。</span><span class="english">Engineered the gannet's beak.</span></p>
 
 <p><span class="chinese">鸟有喙和一双小圆珠般而亮晶晶的眼睛。</span><span class="english">A bird has a beak and two beady eyes.</span></p>

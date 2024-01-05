@@ -1,5 +1,7 @@
 # 水平线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuipingxian.md)
+
 <p><span class="chinese">水平横杆，水平线，水平条。</span><span class="english">A horizontal bar, line, or stripe.</span></p>
 
 <p><span class="chinese">而耶路撒冷处于水平线上796公尺。</span><span class="english">Jerusalem is 796 meters above sea level.</span></p>

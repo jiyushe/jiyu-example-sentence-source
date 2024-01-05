@@ -1,5 +1,7 @@
 # 狂犬病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuangquanbing.md)
+
 <p><span class="chinese">这就是所谓的狂犬病。</span><span class="english">This is called hydrophobia.</span></p>
 
 <p><span class="chinese">那只狗染上狂犬病，口吐白沫。</span><span class="english">The rabid dog foamed at the mouth.</span></p>

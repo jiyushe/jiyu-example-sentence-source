@@ -1,5 +1,7 @@
 # 花枝招展
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huazhizhaozhan.md)
+
 <p><span class="chinese">她打扮得花枝招展。</span><span class="english">She was colourfully dressed.</span></p>
 
 <p><span class="chinese">她总是打扮得花枝招展。</span><span class="english">She is always colourfully dressed.</span></p>

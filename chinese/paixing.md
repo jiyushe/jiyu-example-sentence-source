@@ -1,5 +1,7 @@
 # 派性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paixing.md)
+
 <p><span class="chinese">只是表示他们具有党派性。</span><span class="english">it just means they are partisan.</span></p>
 
 <p><span class="chinese">闹派性要不要反对？</span><span class="english">Will they oppose factionalism or not?</span></p>

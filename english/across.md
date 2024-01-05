@@ -1,5 +1,7 @@
 # across
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/across.md)
+
 <p><span class="chinese">我们碰到了他。</span><span class="english">We came across him.</span></p>
 
 <p><span class="chinese">跨湖。我游湖跨越。</span><span class="english">I swam across the lake.</span></p>

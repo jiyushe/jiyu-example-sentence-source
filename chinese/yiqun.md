@@ -1,5 +1,7 @@
 # 衣裙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiqun.md)
+
 <p><span class="chinese">我妹妹穿着一件蓝色的衣裙。</span><span class="english">My sister wore a blue dress.</span></p>
 
 <p><span class="chinese">她穿上了她最好白勺衣裙。</span><span class="english">She had put on her best dress.</span></p>

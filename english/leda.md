@@ -1,5 +1,7 @@
 # leda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leda.md)
+
 <p><span class="chinese">这就是成功之道。</span><span class="english">This is the way leda to success.</span></p>
 
 <p><span class="chinese">想象丽达一诗中，强奸。</span><span class="english">Again, think of the rape of Leda.</span></p>

@@ -1,5 +1,7 @@
 # 手枪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouqiang.md)
+
 <p><span class="chinese">她仍然保留着那支格洛克手枪。</span><span class="english">She still had the Glock.</span></p>
 
 <p><span class="chinese">剑和手枪插在腰间。</span><span class="english">Swords and pistols in your belts.</span></p>

@@ -1,5 +1,7 @@
 # quickly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quickly.md)
+
 <p><span class="chinese">如果你走得快的话。</span><span class="english">If you walk quickly.</span></p>
 
 <p><span class="chinese">时间不慢，它很快。</span><span class="english">Time passes quickly.</span></p>

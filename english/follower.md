@@ -1,5 +1,7 @@
 # follower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/follower.md)
+
 <p><span class="chinese">伊斯兰教的信徒或追随者。</span><span class="english">A believer or follower of Jainism.</span></p>
 
 <p><span class="chinese">一个追随者又会带来其他的追随者。</span><span class="english">One follower led to another, quite literally.</span></p>

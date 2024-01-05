@@ -1,5 +1,7 @@
 # zoologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zoologist.md)
+
 <p><span class="chinese">他是一个动物学家。</span><span class="english">He is a zoologist.</span></p>
 
 <p><span class="chinese">我是动物学家，裸猿又是一种动物。</span><span class="english">I am a zoologist and the naked ape is an animal.</span></p>

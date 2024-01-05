@@ -1,5 +1,7 @@
 # 奶奶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nainai.md)
+
 <p><span class="chinese">再见，奶奶！</span><span class="english">Bye, Grandma!</span></p>
 
 <p><span class="chinese">她没有奶奶。</span><span class="english">She has none.</span></p>

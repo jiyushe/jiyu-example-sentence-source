@@ -1,5 +1,7 @@
 # bulk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bulk.md)
+
 <p><span class="chinese">购买散装。</span><span class="english">Buy bulk.</span></p>
 
 <p><span class="chinese">批量访问方法和驱动程序。</span><span class="english">The bulk access method and driver.</span></p>

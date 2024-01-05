@@ -1,5 +1,7 @@
 # te
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/te.md)
+
 <p><span class="chinese">真爱之路从来不平坦。</span><span class="english">Te road to true love never flat.</span></p>
 
 <p><span class="chinese">所有的工作都完成了，你们可以休息了。</span><span class="english">All te ork done, you can ave a rest.</span></p>

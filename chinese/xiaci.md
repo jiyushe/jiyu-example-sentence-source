@@ -1,5 +1,7 @@
 # 下次
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaci.md)
+
 <p><span class="chinese">下次再见</span><span class="english">I'll see you then.</span></p>
 
 <p><span class="chinese">下次节目见。</span><span class="english">See you next time.</span></p>

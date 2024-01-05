@@ -1,5 +1,7 @@
 # mottle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mottle.md)
+
 <p><span class="chinese">斑斑驳驳，生意葱茏。</span><span class="english">To mark or mottle with spots.</span></p>
 
 <p><span class="chinese">留下斑斑点点的痕迹。</span><span class="english">To mark or mottle with spots.</span></p>

@@ -1,5 +1,7 @@
 # 孔庙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongmiao.md)
+
 <p><span class="chinese">请带我到孔庙去。</span><span class="english">Please take me to the Confucian Temple.</span></p>
 
 <p><span class="chinese">然后他将参观曲阜的孔庙。</span><span class="english">Then he will visit the Temple of Confucius in Qufu.</span></p>

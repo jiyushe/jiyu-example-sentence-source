@@ -1,5 +1,7 @@
 # 上人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangren.md)
+
 <p><span class="chinese">人还没有明白地定上人将来的计划。</span><span class="english">I can't be sure of my future plans.</span></p>
 
 <p><span class="chinese">软风一阵一阵地吹上人面，怪痒痒的。</span><span class="english">And a gentle breeze caressed one's face.</span></p>

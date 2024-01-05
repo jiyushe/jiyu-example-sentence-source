@@ -1,5 +1,7 @@
 # floppy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/floppy.md)
+
 <p><span class="chinese">我要买一片磁片。</span><span class="english">I would like a floppy disk.</span></p>
 
 <p><span class="chinese">没有检测到软碟机。</span><span class="english">No floppy drive was detected.</span></p>

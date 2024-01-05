@@ -1,5 +1,7 @@
 # callosity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/callosity.md)
+
 <p><span class="chinese">但唐古拉又是残酷无情的。</span><span class="english">But Tanggula is brutal callosity.</span></p>
 
 <p><span class="chinese">长年俯地作画，令他双手布满老茧。</span><span class="english">For years, he prone paint and his hands full of callosity.</span></p>

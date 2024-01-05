@@ -1,5 +1,7 @@
 # anna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anna.md)
+
 <p><span class="chinese">很好，你怎么样，安娜？</span><span class="english">How are you, Anna?</span></p>
 
 <p><span class="chinese">安娜喜欢吃豆角吗？</span><span class="english">Does Anna like beans?</span></p>

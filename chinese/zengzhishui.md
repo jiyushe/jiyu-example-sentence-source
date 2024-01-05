@@ -1,5 +1,7 @@
 # 增值税
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zengzhishui.md)
+
 <p><span class="chinese">我们算出的是32.95英镑，其中包括增值税。</span><span class="english">We reckon ￡32.95. Including VAT.</span></p>
 
 <p><span class="chinese">金税工程布下增值税“生命线”。</span><span class="english">Golden tax project "lifeline" hooks VAT.</span></p>

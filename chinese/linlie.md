@@ -1,5 +1,7 @@
 # 凛冽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linlie.md)
+
 <p><span class="chinese">你可害怕寒风凛冽？</span><span class="english">Do You Fear the Wind?</span></p>
 
 <p><span class="chinese">用温软的空气去换凛冽的寒风?。</span><span class="english">Hot air for a cold breeze?</span></p>

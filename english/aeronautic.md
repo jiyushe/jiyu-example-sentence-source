@@ -1,5 +1,7 @@
 # aeronautic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aeronautic.md)
+
 <p><span class="chinese">对多功能航空地面电源系统做了总体介绍。</span><span class="english">And it introduces the multifunctional aeronautic ground power system as a whole.</span></p>
 
 <p><span class="chinese">多功能性是现在航空地面电源系统提出的一个新的要求。</span><span class="english">The multifunctional technology is a new demand of aeronautic ground power system.</span></p>

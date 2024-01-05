@@ -1,5 +1,7 @@
 # anesthetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anesthetic.md)
+
 <p><span class="chinese">麻醉药仍未过。</span><span class="english">He's still under the anesthetic.</span></p>
 
 <p><span class="chinese">麻醉柜，台，盘。</span><span class="english">Anesthetic cabinet, table, or tray.</span></p>

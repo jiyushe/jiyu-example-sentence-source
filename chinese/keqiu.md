@@ -1,5 +1,7 @@
 # 渴求
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keqiu.md)
+
 <p><span class="chinese">可是，在他心中却有极深的属灵渴求。</span><span class="english">He had a deep spiritual hunger.</span></p>
 
 <p><span class="chinese">有些运动是渴求资源的。</span><span class="english">Some sports are resource-hungry.</span></p>

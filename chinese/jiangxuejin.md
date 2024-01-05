@@ -1,5 +1,7 @@
 # 奖学金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangxuejin.md)
+
 <p><span class="chinese">奖学金？当然有，</span><span class="english">Scholarship? I'd say certainly,</span></p>
 
 <p><span class="chinese">关于移动健康联合奖学金</span><span class="english">About the mHealth Alliance Award</span></p>

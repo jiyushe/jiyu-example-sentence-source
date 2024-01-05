@@ -1,5 +1,7 @@
 # crony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crony.md)
+
 <p><span class="chinese">他总是批评印度的裙带资本主义，这使得他的选择有限。</span><span class="english">He is a critic of crony capitalism in India, which limits his options.</span></p>
 
 <p><span class="chinese">看来，权贵资本主义在太平洋两岸都是如鱼得水。</span><span class="english">Crony capitalism, on both sides of the Pacific, it appears, has its rewards.</span></p>

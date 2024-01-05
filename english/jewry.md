@@ -1,5 +1,7 @@
 # jewry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jewry.md)
+
 <p><span class="chinese">针对这些政策，新的趋势出现在俄罗斯犹太人。</span><span class="english">In response to these policies, new trends appeared in Russian Jewry.</span></p>
 
 <p><span class="chinese">首先考察了20世纪70年代初期及以前的苏联犹太人移民动机。</span><span class="english">The motivation of Soviet jewry living before 20 century 70 s is firstly reviewed.</span></p>

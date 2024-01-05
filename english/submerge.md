@@ -1,5 +1,7 @@
 # submerge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/submerge.md)
+
 <p><span class="chinese">一有危险迹象，潜艇就会潜入水中。</span><span class="english">At the first sign of danger the submarine would submerge.</span></p>
 
 <p><span class="chinese">一家公司需要一艘潜水艇潜水至深海。</span><span class="english">A company needed a submarine to submerge into the deep sea.</span></p>

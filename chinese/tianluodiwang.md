@@ -1,5 +1,7 @@
 # 天罗地网
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianluodiwang.md)
+
 <p><span class="chinese">假如你已经布下天罗地网，敌军就不会走进圈套。</span><span class="english">If your ambush is properly set, the enemy won't walk into it.</span></p>
 
 <p><span class="chinese">他的气息，就像一张天罗地网，将她整个人笼罩住。</span><span class="english">His breathing is like a tight dragnet and covers with her whole individual.</span></p>

@@ -1,5 +1,7 @@
 # capsaicin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capsaicin.md)
+
 <p><span class="chinese">辣椒里的辣椒素帮助高血压实验鼠降低血压</span><span class="english">Hot Peppers' Capsaicin Helps Hypertensive Rats</span></p>
 
 <p><span class="chinese">在红辣椒里，辣椒素是辣味的始作俑者。</span><span class="english">In chilies, capsaicin is what makes them spicy and “hot.”</span></p>

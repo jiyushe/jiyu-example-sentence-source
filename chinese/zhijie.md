@@ -1,5 +1,7 @@
 # 枝节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhijie.md)
+
 <p><span class="chinese">不要忽略枝节问题。</span><span class="english">Don't neglect minor issues.</span></p>
 
 <p><span class="chinese">不要把时间浪费在枝节事情上。</span><span class="english">Don't waste time on nonessentials.</span></p>

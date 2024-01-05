@@ -1,5 +1,7 @@
 # rhe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhe.md)
+
 <p><span class="chinese">因为他不欠任何人的帐。</span><span class="english">For rhe owes not any man.</span></p>
 
 <p><span class="chinese">你可以改变世界！</span><span class="english">You can change rhe world!</span></p>

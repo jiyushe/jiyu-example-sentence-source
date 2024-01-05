@@ -1,5 +1,7 @@
 # pneumatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pneumatic.md)
+
 <p><span class="chinese">气压式头部音乐按摩器。</span><span class="english">Pneumatic Head music massager.</span></p>
 
 <p><span class="chinese">新的充气橡胶轮胎。</span><span class="english">New pneumatic tyres, of rubber.</span></p>

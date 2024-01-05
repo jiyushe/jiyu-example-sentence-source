@@ -1,5 +1,7 @@
 # 举棋不定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juqibuding.md)
+
 <p><span class="chinese">他在两种意见之间举棋不定。</span><span class="english">He seesawed between two opinions.</span></p>
 
 <p><span class="chinese">在两个追求者之间，她举棋不定。</span><span class="english">She vacillated between her two admirers.</span></p>

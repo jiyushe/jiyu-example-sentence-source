@@ -1,5 +1,7 @@
 # stope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stope.md)
+
 <p><span class="chinese">采场液流系统的研究是就地浸出的关键技术之一。</span><span class="english">The liquid flow system of a stope is a key for stope leaching.</span></p>
 
 <p><span class="chinese">文章介绍了回采工作面的调斜方法。</span><span class="english">This paper introduces the method of slope adjustment of stope face.</span></p>

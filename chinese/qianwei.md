@@ -1,5 +1,7 @@
 # 前卫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianwei.md)
+
 <p><span class="chinese">我们都是具有前卫思想的人！</span><span class="english">We were so ahead of our time.</span></p>
 
 <p><span class="chinese">现在，他们的右前卫正在盘球前进。</span><span class="english">Now their inside right forward's dribbling.</span></p>

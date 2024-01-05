@@ -1,5 +1,7 @@
 # supermassive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supermassive.md)
+
 <p><span class="chinese">剧烈的星系合并能喂养超大质量黑洞。</span><span class="english">Violent galaxy mergers can feed supermassive black holes.</span></p>
 
 <p><span class="chinese">因此，这更像黑洞有更多的机会，自我规管。</span><span class="english">So it's more like supermassive black holes have more opportunity to self-regulate.</span></p>

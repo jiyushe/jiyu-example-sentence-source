@@ -1,5 +1,7 @@
 # 木屐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muji.md)
+
 <p><span class="chinese">在这里你可以买到各种颜色和款式的木屐鞋。</span><span class="english">Here you may buy klomps of all colors and sizes.</span></p>
 
 <p><span class="chinese">看一下木屐鞋的生产过程。</span><span class="english">But let us look at the process of klomps production.</span></p>

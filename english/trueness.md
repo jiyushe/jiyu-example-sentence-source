@@ -1,5 +1,7 @@
 # trueness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trueness.md)
+
 <p><span class="chinese">然而，我将失去我的纯真。</span><span class="english">However, I will lose my trueness.</span></p>
 
 <p><span class="chinese">这份真实，让上海显得更为强大。</span><span class="english">This trueness and sincerity, makes Shanghai even stronger.</span></p>

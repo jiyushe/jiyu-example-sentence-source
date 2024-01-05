@@ -1,5 +1,7 @@
 # hypotenuse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypotenuse.md)
+
 <p><span class="chinese">直角三角形的一个角的邻边与斜边之比。</span><span class="english">Ratio of the adjacent side to the hypotenuse.</span></p>
 
 <p><span class="chinese">直角三角形的一个角的对边与斜边之比。</span><span class="english">Ratio of the opposite side to the hypotenuse.</span></p>

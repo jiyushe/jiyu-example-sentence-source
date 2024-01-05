@@ -1,5 +1,7 @@
 # lymphoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lymphoid.md)
+
 <p><span class="chinese">淋巴球在淋巴组织中成熟。</span><span class="english">Lymphocytes mature in the lymphoid organs.</span></p>
 
 <p><span class="chinese">非淋巴细胞可分为两类。</span><span class="english">Non- lymphoid cells can be classified into two groups.</span></p>

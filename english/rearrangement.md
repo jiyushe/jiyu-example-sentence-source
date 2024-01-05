@@ -1,5 +1,7 @@
 # rearrangement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rearrangement.md)
+
 <p><span class="chinese">这本书要重排铅字。</span><span class="english">The rearrangement type is wanted to this book.</span></p>
 
 <p><span class="chinese">我只是整理了一下，有什么问题？</span><span class="english">And I also did a little bit of rearrangement. Yes?</span></p>

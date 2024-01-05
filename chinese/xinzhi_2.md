@@ -1,5 +1,7 @@
 # 心智
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinzhi_2.md)
+
 <p><span class="chinese">她的心智已失去活力。</span><span class="english">Her mind has lost its spring.</span></p>
 
 <p><span class="chinese">生命在于鲜活心智。</span><span class="english">Life is always freshening mind.</span></p>

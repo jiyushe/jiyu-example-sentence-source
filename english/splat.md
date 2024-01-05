@@ -1,5 +1,7 @@
 # splat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/splat.md)
+
 <p><span class="chinese">成功在那边，就在你摔跤的地方的后面。</span><span class="english">Success is that way. Just a little after the splat.</span></p>
 
 <p><span class="chinese">天文学家们带着他们的“大长木板”理论爬上舞台。</span><span class="english">Astronomers have came forward to grab the stage with their "Big Splat" Moon theory.</span></p>

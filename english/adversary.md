@@ -1,5 +1,7 @@
 # adversary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adversary.md)
+
 <p><span class="chinese">他在会议上抨击了对手。</span><span class="english">He tilted his adversary at the meeting.</span></p>
 
 <p><span class="chinese">尘埃是磁盘的最大敌人。</span><span class="english">Dust is a deejay's affliction adversary.</span></p>

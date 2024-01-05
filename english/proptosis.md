@@ -1,5 +1,7 @@
 # proptosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proptosis.md)
+
 <p><span class="chinese">目的探讨儿童突眼的CT表现特点。</span><span class="english">Objective To explore the CT findings of proptosis in children.</span></p>
 
 <p><span class="chinese">手术引流治疗，视力和上眼睑下垂很快改善。</span><span class="english">Surgical drainage resulted in dramatic improvement of proptosis and vision.</span></p>

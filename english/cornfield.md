@@ -1,5 +1,7 @@
 # cornfield
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cornfield.md)
+
 <p><span class="chinese">猎手们骑着马从麦田里走过去。</span><span class="english">The hunters rode over the cornfield.</span></p>
 
 <p><span class="chinese">亲爱的勋啊，你就是我的麦田！</span><span class="english">Honey hoon, you are the cornfield of mine.</span></p>

@@ -1,5 +1,7 @@
 # renumber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/renumber.md)
+
 <p><span class="chinese">我的意思是特殊古董。</span><span class="english">And I mean renumber one hasly old school.</span></p>
 
 <p><span class="chinese">拖动侧边手柄可拉伸并重新编号。</span><span class="english">Drag a side handle to stretch and renumber.</span></p>

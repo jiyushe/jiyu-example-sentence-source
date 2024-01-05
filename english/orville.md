@@ -1,5 +1,7 @@
 # orville
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orville.md)
+
 <p><span class="chinese">奥维尔和威尔伯·赖特制造一架飞机。</span><span class="english">Orville and Wilbur Wright made an aeroplane.</span></p>
 
 <p><span class="chinese">威尔伯和奥维尔赖特有4要飞。</span><span class="english">Wilbur and Orville Wright had 4 wanted to fly.</span></p>

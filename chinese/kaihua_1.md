@@ -1,5 +1,7 @@
 # 开花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaihua_1.md)
+
 <p><span class="chinese">牡丹正在开花。</span><span class="english">Peonies are in flower.</span></p>
 
 <p><span class="chinese">祝你三八节乐开花！</span><span class="english">Wish you joy bloom march!</span></p>

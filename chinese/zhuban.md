@@ -1,5 +1,7 @@
 # 主办
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuban.md)
+
 <p><span class="chinese">2012年奥运会主办权花落谁家？</span><span class="english">Who will Host the 2012 Olympics?</span></p>
 
 <p><span class="chinese">究竟什么是主办银行制?。</span><span class="english">What on earth is lead bank system?</span></p>

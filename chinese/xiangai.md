@@ -1,5 +1,7 @@
 # 相爱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangai.md)
+
 <p><span class="chinese">相爱，不要相战！</span><span class="english">Make love, not war!</span></p>
 
 <p><span class="chinese">对于两个相爱旳亼来说。</span><span class="english">For the two love Diji.</span></p>

@@ -1,5 +1,7 @@
 # 香榧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangfei.md)
+
 <p><span class="chinese">第三个选择是把香榧保存在研究中心。</span><span class="english">The third option is to preserve Torreya in research centers.</span></p>
 
 <p><span class="chinese">目前，专家们提出了三个方式去解决香榧数量下降。</span><span class="english">Experts are considering three ways to address the decline of Torreya.</span></p>

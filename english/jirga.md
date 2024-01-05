@@ -1,5 +1,7 @@
 # jirga
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jirga.md)
+
 <p><span class="chinese">一个塔利班的代表告诉新闻报社他们在支尔格发动了对族长会议的袭击。</span><span class="english">A representative of the Taliban told news agencies that they carried out the attacks on the jirga.</span></p>
 
 <p><span class="chinese">2002年中期，阿富汗代表参加阿富汗国民议会，选举卡尔扎伊为国家领导。</span><span class="english">In mid-2002 Afghan delegates attended a loya jirga and selected Hamid Karzai as the country's leader.</span></p>

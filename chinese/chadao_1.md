@@ -1,5 +1,7 @@
 # 茶道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chadao_1.md)
+
 <p><span class="chinese">从那时起，茶道在日本才算是完全建立起来了。</span><span class="english">Since then Teaism is fully established in Japan.</span></p>
 
 <p><span class="chinese">文佛山茶道馆是景区最有神韵的一景。</span><span class="english">Wenfu Teahouse is one of the most enthralling attractions.</span></p>

@@ -1,5 +1,7 @@
 # 骤然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhouran.md)
+
 <p><span class="chinese">气温骤然下降。</span><span class="english">The temperature suddenly dropped.</span></p>
 
 <p><span class="chinese">在那个地点，悬崖骤然变得陡峭起来。</span><span class="english">The cliff drops away at that point.</span></p>

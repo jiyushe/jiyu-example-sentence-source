@@ -1,5 +1,7 @@
 # infernal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infernal.md)
+
 <p><span class="chinese">滚开，你这地狱之鸟！嘘！</span><span class="english">Begone, you infernal avian! Shoo!</span></p>
 
 <p><span class="chinese">不要发出那种讨厌的闹声！</span><span class="english">Don' t make that infernal noise !</span></p>

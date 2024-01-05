@@ -1,5 +1,7 @@
 # anovulatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anovulatory.md)
+
 <p><span class="chinese">PCOS以雄激素过多与持续不排卵为主要特征。</span><span class="english">PCOS mainly characterizes androgen excess along with chronic anovulatory.</span></p>
 
 <p><span class="chinese">目的探讨治疗无排卵型功血的简单、有效的方法。</span><span class="english">Objective To explore a convenient and effective treatment method for anovulatory functional bleeding.</span></p>

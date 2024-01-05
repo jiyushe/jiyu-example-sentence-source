@@ -1,5 +1,7 @@
 # multistage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multistage.md)
+
 <p><span class="chinese">多段式火箭把导弹发射至空中。</span><span class="english">A multistage rocket projects missiles into space.</span></p>
 
 <p><span class="chinese">多层操作可以提高热效率。</span><span class="english">A multistage operation improves the thermal efficiency.</span></p>

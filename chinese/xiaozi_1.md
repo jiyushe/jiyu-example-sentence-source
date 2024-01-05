@@ -1,5 +1,7 @@
 # 小子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaozi_1.md)
+
 <p><span class="chinese">我闻到你的气味了，臭小子！</span><span class="english">I smell you, boy!</span></p>
 
 <p><span class="chinese">小子，你找死！</span><span class="english">Boy, you quest die!</span></p>

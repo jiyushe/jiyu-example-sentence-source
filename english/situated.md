@@ -1,5 +1,7 @@
 # situated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/situated.md)
+
 <p><span class="chinese">漠诃处于中国最北部。</span><span class="english">Mohe is situated in the extreme north of China.</span></p>
 
 <p><span class="chinese">我们学校位于北部郊区。</span><span class="english">Our college is situated in the northen suburbs.</span></p>

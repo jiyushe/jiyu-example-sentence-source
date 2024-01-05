@@ -1,5 +1,7 @@
 # infuriate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infuriate.md)
+
 <p><span class="chinese">这种对比让中国官员大动肝火。</span><span class="english">The comparisons infuriate Chinese officials.</span></p>
 
 <p><span class="chinese">他的观点将会棘突主流的历史学家。</span><span class="english">His view will infuriate mainstream historians.</span></p>

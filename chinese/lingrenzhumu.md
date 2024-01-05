@@ -1,5 +1,7 @@
 # 令人瞩目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingrenzhumu.md)
+
 <p><span class="chinese">女性写作在90年代取得了令人瞩目的成绩。</span><span class="english">Women's writing made distinguished achievements in the l990s.</span></p>
 
 <p><span class="chinese">札嘎其鱼市场上最令人瞩目的是这里的“女掌门”。</span><span class="english">Zagreb honk the fish on the most remarkable here is the "female rated".</span></p>

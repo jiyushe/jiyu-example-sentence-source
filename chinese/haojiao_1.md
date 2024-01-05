@@ -1,5 +1,7 @@
 # 号角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haojiao_1.md)
+
 <p><span class="chinese">你听见号角声了吗。雏儿?。</span><span class="english">I know you hear"em."</span></p>
 
 <p><span class="chinese">让预言的号角奏鸣！</span><span class="english">The trumpet of a prophecy!</span></p>

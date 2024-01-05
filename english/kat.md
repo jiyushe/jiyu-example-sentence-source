@@ -1,5 +1,7 @@
 # kat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kat.md)
+
 <p><span class="chinese">嗯？哇！各位，大家都认识我的朋友凯特吗?。</span><span class="english">Yeah? Whoo! Hey, guys, everyone know my friend, Kat?</span></p>
 
 <p><span class="chinese">又拿出一块，这块重峦叠嶂，比前一块奇巧许多。</span><span class="english">It took one, the peaks, than before a lot of kit kat.</span></p>

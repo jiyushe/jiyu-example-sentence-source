@@ -1,5 +1,7 @@
 # treadle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/treadle.md)
+
 <p><span class="chinese">一定要开车床才算劳动？</span><span class="english">To work a treadle . Or operate a lathe?</span></p>
 
 <p><span class="chinese">所以他们重新使用踏板抽水机。</span><span class="english">So they are using their treadle pumps again.</span></p>

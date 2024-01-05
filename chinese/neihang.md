@@ -1,5 +1,7 @@
 # 内行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neihang.md)
+
 <p><span class="chinese">他针线活是内行。</span><span class="english">He's adept in needlecraft.</span></p>
 
 <p><span class="chinese">怪不得他这么内行。</span><span class="english">No wonder he is so experienced.</span></p>

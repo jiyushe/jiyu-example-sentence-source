@@ -1,5 +1,7 @@
 # surmountable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surmountable.md)
+
 <p><span class="chinese">直到几周前，经济动荡似乎还不在话下。</span><span class="english">Until recent weeks, the economic troubles seemed surmountable. Mr.</span></p>
 
 <p><span class="chinese">而孔子是太阳和月亮，是不可能超越的。</span><span class="english">But Confucius is the sun and the moon so that he is not surmountable at all.</span></p>

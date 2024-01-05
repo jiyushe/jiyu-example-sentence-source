@@ -1,5 +1,7 @@
 # vortical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vortical.md)
+
 <p><span class="chinese">讨论了前缘分离涡为主体的旋涡流场。</span><span class="english">The vortical flow dominated by leading edge separated vortex is investigated.</span></p>
 
 <p><span class="chinese">也或是一种内在语言的矛盾统一。</span><span class="english">The Pheonix bird is idealized by glaring colours in a vortical drifting world.</span></p>

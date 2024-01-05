@@ -1,5 +1,7 @@
 # countless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/countless.md)
+
 <p><span class="chinese">窜入记忆里的还有数不清的体育赛事。</span><span class="english">There are countless sporting events.</span></p>
 
 <p><span class="chinese">或是伊莱恩的工作糗事。</span><span class="english">or Elaine's countless work faux-pas.</span></p>

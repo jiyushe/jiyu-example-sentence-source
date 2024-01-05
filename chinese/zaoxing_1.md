@@ -1,5 +1,7 @@
 # 造形
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaoxing_1.md)
+
 <p><span class="chinese">雕塑是一种造形艺术。</span><span class="english">Sculpture is a plastic art.</span></p>
 
 <p><span class="chinese">这个工厂制造高速齿轮造形机。</span><span class="english">This factory makes high speed gear shapers.</span></p>

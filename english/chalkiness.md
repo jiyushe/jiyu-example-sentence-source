@@ -1,5 +1,7 @@
 # chalkiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chalkiness.md)
+
 <p><span class="chinese">两个乌黑不等于唯一清白。</span><span class="english">Two blacks do not do a chalkiness.</span></p>
 
 <p><span class="chinese">你得服这些白色药片。</span><span class="english">You get to took these chalkiness pills.</span></p>

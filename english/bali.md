@@ -1,5 +1,7 @@
 # bali
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bali.md)
+
 <p><span class="chinese">带他们去巴厘岛。</span><span class="english">Take them to Bali.</span></p>
 
 <p><span class="chinese">你想去巴里岛的白色沙滩？</span><span class="english">You wanna dance on a beach in Bali?</span></p>

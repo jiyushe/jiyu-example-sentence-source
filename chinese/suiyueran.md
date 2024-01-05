@@ -1,5 +1,7 @@
 # 随遇而安
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suiyueran.md)
+
 <p><span class="chinese">但我，相信随遇而安。</span><span class="english">But I believe in settling.</span></p>
 
 <p><span class="chinese">保罗总是随遇而安，不过他很快长大。</span><span class="english">Paul was happy-go-lucky, but he grew up fast.</span></p>

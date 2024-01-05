@@ -1,5 +1,7 @@
 # 句号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juhao.md)
+
 <p><span class="chinese">俺们吃了年糕句号。</span><span class="english">We eat rice cakes.</span></p>
 
 <p><span class="chinese">五十九元句号。</span><span class="english">It's fifty-nine yuan.</span></p>

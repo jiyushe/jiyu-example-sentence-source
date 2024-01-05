@@ -1,5 +1,7 @@
 # 屈枉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quwang.md)
+
 <p><span class="chinese">第7节告诉我们，钱财可以屈枉公正。</span><span class="english">In verse 7 we are reminded that money talks.</span></p>
 
 <p><span class="chinese">不可在穷人争讼的事上屈枉正直。</span><span class="english">Do not deny justice to your poor people in their lawsuits.</span></p>

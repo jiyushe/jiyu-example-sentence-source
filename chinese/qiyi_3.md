@@ -1,5 +1,7 @@
 # 歧异
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiyi_3.md)
+
 <p><span class="chinese">但在特定议题和想法上，双方仍有歧异。</span><span class="english">But differences remain on specifics and philosophy.</span></p>
 
 <p><span class="chinese">双宾语句中引进与事的介词在汉语方言中颇有歧异。</span><span class="english">The dative markers are very different in Chinese dialects.</span></p>

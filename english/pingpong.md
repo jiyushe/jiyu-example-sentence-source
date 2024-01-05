@@ -1,5 +1,7 @@
 # pingpong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pingpong.md)
+
 <p><span class="chinese">她乒乓球打得很好。</span><span class="english">She plays pingpong very well.</span></p>
 
 <p><span class="chinese">我最喜欢的运动是打乒乓球。</span><span class="english">My favorite sport is pingpong.</span></p>

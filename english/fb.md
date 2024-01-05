@@ -1,5 +1,7 @@
 # fb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fb.md)
+
 <p><span class="chinese">想看到你做了几个库务局网页。</span><span class="english">Would like to see a few FB pages you have done.</span></p>
 
 <p><span class="chinese">高兴地看到，这个设置在库务局终于出现。</span><span class="english">Glad to see this setting finally appearing on FB.</span></p>

@@ -1,5 +1,7 @@
 # 屠宰场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuzaichang.md)
+
 <p><span class="chinese">有回是在屠宰场。</span><span class="english">Once down by the slaughter-house.</span></p>
 
 <p><span class="chinese">我们有一些刀子在屠宰场。</span><span class="english">We have some carving knives in the abattoir.</span></p>

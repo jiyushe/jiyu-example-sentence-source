@@ -1,5 +1,7 @@
 # unbounded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unbounded.md)
+
 <p><span class="chinese">他的野心毫无止境。</span><span class="english">His ambition is unbounded.</span></p>
 
 <p><span class="chinese">老演员对他的搭档给予了极高的赞扬。</span><span class="english">The older actor is unbounded in his praise for his co-star.</span></p>

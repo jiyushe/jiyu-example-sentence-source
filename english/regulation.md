@@ -1,5 +1,7 @@
 # regulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regulation.md)
+
 <p><span class="chinese">没有关于修订规例。</span><span class="english">No regulation on revisions.</span></p>
 
 <p><span class="chinese">这种调整具有时间敏感性。</span><span class="english">This regulation is time-sensitive.</span></p>

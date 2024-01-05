@@ -1,5 +1,7 @@
 # erudition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erudition.md)
+
 <p><span class="chinese">他的博学来自他的刻苦钻研。</span><span class="english">His erudition comes from his assiduous study.</span></p>
 
 <p><span class="chinese">这种博学是极受赞赏和尊重的。</span><span class="english">Such erudition is greatly praised and honoured.</span></p>

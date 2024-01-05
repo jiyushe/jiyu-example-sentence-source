@@ -1,5 +1,7 @@
 # talbot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/talbot.md)
+
 <p><span class="chinese">大宝王子是大宝庄园之副牌酒。</span><span class="english">Connétable Talbot is the second wine of Chateau Talbot.</span></p>
 
 <p><span class="chinese">遇难者中有一位澳大利亚最富商人，肯。塔尔伯特。</span><span class="english">Among the dead is one of Australia's richest men, Ken Talbot.</span></p>

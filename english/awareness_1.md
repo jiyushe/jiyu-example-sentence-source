@@ -1,5 +1,7 @@
 # awareness 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/awareness_1.md)
+
 <p><span class="chinese">要有食品安全意识。</span><span class="english">Use food safety awareness.</span></p>
 
 <p><span class="chinese">三月份是职业道德宣传月。</span><span class="english">March is Ethics Awareness Month.</span></p>

@@ -1,5 +1,7 @@
 # 跃然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yueran.md)
+
 <p><span class="chinese">它还跃然于民众和文化之间。</span><span class="english">It is evident in the people and the culture.</span></p>
 
 <p><span class="chinese">他的性格跃然显现于他年写的文章中。</span><span class="english">His personality comes through with in his writing.</span></p>

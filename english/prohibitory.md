@@ -1,5 +1,7 @@
 # prohibitory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prohibitory.md)
+
 <p><span class="chinese">该发誓的贞洁创造只是一个禁止性障碍婚姻。</span><span class="english">The vow of chastity creates only a prohibitory impediment to marriage.</span></p>
 
 <p><span class="chinese">混淆理论是划定商标禁用权范围的理论基础。</span><span class="english">The theoretical basis for the defining of the prohibitory right is confusion theory.</span></p>

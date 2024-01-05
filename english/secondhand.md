@@ -1,5 +1,7 @@
 # secondhand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/secondhand.md)
+
 <p><span class="chinese">这架照相机是新的还是旧的?</span><span class="english">Is this camera new or secondhand?</span></p>
 
 <p><span class="chinese">该如何避免吸入二手烟？</span><span class="english">How can secondhand smoke be avoided?</span></p>

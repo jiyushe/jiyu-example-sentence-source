@@ -1,5 +1,7 @@
 # 锁链
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suolian.md)
+
 <p><span class="chinese">锁链捆得再紧。</span><span class="english">The chain's too tight.</span></p>
 
 <p><span class="chinese">怎样的锤打？怎样的锁链？</span><span class="english">What the hammer? what the chain?</span></p>

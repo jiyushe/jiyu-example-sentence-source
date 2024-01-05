@@ -1,5 +1,7 @@
 # broadcaster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/broadcaster.md)
+
 <p><span class="chinese">广播电台中断音乐节目。</span><span class="english">The broadcaster bit off the music programme.</span></p>
 
 <p><span class="chinese">播音员在昨天收到了这封信。</span><span class="english">The letter was received by the broadcaster yesterday.</span></p>

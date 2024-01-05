@@ -1,5 +1,7 @@
 # sexologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sexologist.md)
+
 <p><span class="chinese">性学家方刚发表博文呼吁设立公开的裸体浴场，经媒体报道引发社会广泛争论。</span><span class="english">Vincent Fang sexologist Bowen made a public plea for a nude beach, media reports sparked widespread controversy.</span></p>
 
 <p><span class="chinese">中国人名大学著名社会学家和性学家潘绥铭，定义1978年以前的中国为一个“无性社会”。</span><span class="english">Pan Suiming, a famous sociologist and sexologist from Renmin University of China, defined pre-1978 China as a "sexless society".</span></p>

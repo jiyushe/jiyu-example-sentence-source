@@ -1,5 +1,7 @@
 # 相扑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangpu.md)
+
 <p><span class="chinese">这是一本论述日本相扑的书。</span><span class="english">This is a book on Japanese sumo.</span></p>
 
 <p><span class="chinese">相扑选手在这里集中训练。</span><span class="english">Wrestlers train in sumo stables here.</span></p>

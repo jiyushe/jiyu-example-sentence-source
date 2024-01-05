@@ -1,5 +1,7 @@
 # 焦炭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaotan.md)
+
 <p><span class="chinese">没有焦炭就不能炼铁。</span><span class="english">Without coke iron cannot be smelted.</span></p>
 
 <p><span class="chinese">精煤、中煤、煤泥、焦炭销售。</span><span class="english">Plant, China coal, Meini, coke sales.</span></p>

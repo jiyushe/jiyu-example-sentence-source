@@ -1,5 +1,7 @@
 # metamorphism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metamorphism.md)
+
 <p><span class="chinese">中温榴辉岩与低温榴辉岩具有不同的变质作用特征。</span><span class="english">MT eclogites are different from LT eclogites in metamorphism.</span></p>
 
 <p><span class="chinese">五台山早元古代高压变质作用研究。</span><span class="english">Early Proterozoic high-pressure metamorphism in the Wutaishan.</span></p>

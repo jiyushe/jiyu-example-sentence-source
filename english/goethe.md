@@ -1,5 +1,7 @@
 # goethe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goethe.md)
+
 <p><span class="chinese">这本书一开头引用了歌德的隽语。</span><span class="english">The book began with a quotation from Goethe.</span></p>
 
 <p><span class="chinese">其实，浮士德失明与否是全剧的关键情结。</span><span class="english">In fact, the key complex of it is whether Goethe is blind.</span></p>

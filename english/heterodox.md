@@ -1,5 +1,7 @@
 # heterodox
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heterodox.md)
+
 <p><span class="chinese">中国有很多非正统内容的书籍。</span><span class="english">There's lots of books with heterodox ideas published in China.</span></p>
 
 <p><span class="chinese">保罗没有过分迁就我某些更显异端的经济学思路。</span><span class="english">Paul did not indulge some of my more heterodox economic thinking.</span></p>

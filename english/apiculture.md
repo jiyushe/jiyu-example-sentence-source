@@ -1,5 +1,7 @@
 # apiculture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apiculture.md)
+
 <p><span class="chinese">我认为养蜂就是最佳的选择。</span><span class="english">I think apiculture is first-rate choice.</span></p>
 
 <p><span class="chinese">在以后，养蜂业是一个有潜力的行业。</span><span class="english">Apiculture is a potential industry in the future.</span></p>

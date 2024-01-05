@@ -1,5 +1,7 @@
 # masonry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/masonry.md)
+
 <p><span class="chinese">那你怎么到石工区来了？</span><span class="english">Then why are you in the masonry section?</span></p>
 
 <p><span class="chinese">一块建筑用石块砸伤。</span><span class="english">I was hurt by a piece of falling masonry.</span></p>

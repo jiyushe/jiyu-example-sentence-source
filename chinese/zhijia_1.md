@@ -1,5 +1,7 @@
 # 支架
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhijia_1.md)
+
 <p><span class="chinese">热镀锌金属支架。</span><span class="english">Hot galvanizing metal bracket.</span></p>
 
 <p><span class="chinese">筒管支架不合适。</span><span class="english">Improper arms of bobbin holder.</span></p>

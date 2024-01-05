@@ -1,5 +1,7 @@
 # stupid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stupid.md)
+
 <p><span class="chinese">你是三八。</span><span class="english">You are stupid.</span></p>
 
 <p><span class="chinese">一只愚蠢的袋熊。</span><span class="english">A stupid wombat.</span></p>

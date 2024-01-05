@@ -1,5 +1,7 @@
 # 作价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuojia.md)
+
 <p><span class="chinese">红木桌作价五英镑被拍卖了。</span><span class="english">A mahogany table was knocked down for five pounds.</span></p>
 
 <p><span class="chinese">我会把整项技术一次性作价转让。</span><span class="english">I will put the whole price of a one-time transfer of technology.</span></p>

@@ -1,5 +1,7 @@
 # 空房
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongfang.md)
+
 <p><span class="chinese">我们还有一间空房。</span><span class="english">We have a room available.</span></p>
 
 <p><span class="chinese">你这还有空房吗？</span><span class="english">Have you got any vacant room?</span></p>

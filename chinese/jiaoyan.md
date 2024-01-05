@@ -1,5 +1,7 @@
 # 校验
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoyan.md)
+
 <p><span class="chinese">垂直冗余码校验?。</span><span class="english">VRC? Vertical Redundancy Checking?</span></p>
 
 <p><span class="chinese">正在进行后台奇偶校验。</span><span class="english">Background parity check in progress.</span></p>

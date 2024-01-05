@@ -1,5 +1,7 @@
 # overspend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overspend.md)
+
 <p><span class="chinese">这是人们过度消费的原因。</span><span class="english">It's why people overspend.</span></p>
 
 <p><span class="chinese">不要在朋友和孩子身上花太多时间。</span><span class="english">Don't overspend on friends or children.</span></p>

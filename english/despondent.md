@@ -1,5 +1,7 @@
 # despondent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/despondent.md)
+
 <p><span class="chinese">他还开始变得沮丧不已。</span><span class="english">De Koff also became despondent.</span></p>
 
 <p><span class="chinese">我们只能失望地回到山洞里。</span><span class="english">We head back to our caves, despondent.</span></p>

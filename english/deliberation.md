@@ -1,5 +1,7 @@
 # deliberation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deliberation.md)
+
 <p><span class="chinese">该计划正在商酌中。</span><span class="english">The scheme is now under deliberation.</span></p>
 
 <p><span class="chinese">这样的审议，并无实质意义。</span><span class="english">Any such deliberation would have no real significance.</span></p>

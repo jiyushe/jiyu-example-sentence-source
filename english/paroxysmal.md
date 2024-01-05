@@ -1,5 +1,7 @@
 # paroxysmal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paroxysmal.md)
+
 <p><span class="chinese">为何会突发性胸闷，呼吸急促？</span><span class="english">Why to meet paroxysmal bosom is frowsty, is breath hurried?</span></p>
 
 <p><span class="chinese">地震是一种破坏性极大的突发性自然灾害。</span><span class="english">Earthquake is a huge devastative and paroxysmal natural disaster.</span></p>

@@ -1,5 +1,7 @@
 # 书局
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuju.md)
+
 <p><span class="chinese">我觉得这间书局种类跟别家不太一样…</span><span class="english">I think you will like this bookstore.</span></p>
 
 <p><span class="chinese">今天，妈妈带我去一间好大间的书局。</span><span class="english">Mummy brought me to a very big bookshop.</span></p>

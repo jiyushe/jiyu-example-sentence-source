@@ -1,5 +1,7 @@
 # augural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/augural.md)
+
 <p><span class="chinese">自杀的前兆是什么？</span><span class="english">Of the suicide augural what be?</span></p>
 
 <p><span class="chinese">他的说法也许是一个法律诉讼的前兆。</span><span class="english">His view perhaps is lawsuit of a law is augural.</span></p>

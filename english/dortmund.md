@@ -1,5 +1,7 @@
 # dortmund
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dortmund.md)
+
 <p><span class="chinese">中后卫，22岁，多特蒙德</span><span class="english">Defender, 22, Borussia Dortmund</span></p>
 
 <p><span class="chinese">有沙尔克、多特蒙德和门兴。</span><span class="english">You had Schalke, Dortmund and Monchengladbach.</span></p>

@@ -1,5 +1,7 @@
 # hardened
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hardened.md)
+
 <p><span class="chinese">淬硬工具钢。</span><span class="english">Hardened tool steel.</span></p>
 
 <p><span class="chinese">你们的心还是愚顽吗?</span><span class="english">Are your hearts hardened?</span></p>

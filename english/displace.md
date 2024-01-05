@@ -1,5 +1,7 @@
 # displace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/displace.md)
+
 <p><span class="chinese">用泥浆泵替水泥浆。</span><span class="english">Displace cement with the mud pumps!</span></p>
 
 <p><span class="chinese">我在试图取代他的工作。</span><span class="english">I'm trying to displace him in his job.</span></p>

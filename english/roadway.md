@@ -1,5 +1,7 @@
 # roadway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roadway.md)
+
 <p><span class="chinese">一群鹅挺着脖子在大道上走着。</span><span class="english">A flock of geese perked down the roadway.</span></p>
 
 <p><span class="chinese">他击出的球撞到一棵树上而反弹到路上。</span><span class="english">His drive hit a tree and caromed off into a roadway.</span></p>

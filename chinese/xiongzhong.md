@@ -1,5 +1,7 @@
 # 胸中
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongzhong.md)
+
 <p><span class="chinese">恻隐之心在她胸中起伏。</span><span class="english">Pity heaved her breast.</span></p>
 
 <p><span class="chinese">我强忍住胸中的怒火。</span><span class="english">I tried to subdue my fury.</span></p>

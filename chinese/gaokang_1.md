@@ -1,5 +1,7 @@
 # 高抗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaokang_1.md)
+
 <p><span class="chinese">山杏、杜梨则高抗。</span><span class="english">Mountain apricot, Duli pear were high resistant.</span></p>
 
 <p><span class="chinese">结果表明，春江06高抗白背飞虱。</span><span class="english">Results showed that CJ-06 was highly resistant to WBPH.</span></p>

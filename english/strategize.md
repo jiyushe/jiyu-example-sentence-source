@@ -1,5 +1,7 @@
 # strategize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strategize.md)
+
 <p><span class="chinese">将军责成我制订战略行动计划。</span><span class="english">The general ordered me to strategize.</span></p>
 
 <p><span class="chinese">接下来考虑如何减轻贵公司的劣势.</span><span class="english">Next strategize on how you can mitigate your company's weaknesses</span></p>

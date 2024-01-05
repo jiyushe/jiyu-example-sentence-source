@@ -1,5 +1,7 @@
 # shampoo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shampoo.md)
+
 <p><span class="chinese">试试干洗发露吧。</span><span class="english">Try a dry shampoo.</span></p>
 
 <p><span class="chinese">你想洗头吗？</span><span class="english">Would you like shampoo?</span></p>

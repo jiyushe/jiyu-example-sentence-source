@@ -1,5 +1,7 @@
 # moonlighting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moonlighting.md)
+
 <p><span class="chinese">我在一所社区大学兼职当讲师。</span><span class="english">I'm moonlighting as a teacher at a community college.</span></p>
 
 <p><span class="chinese">我得要开始兼差才能让收支平衡些。</span><span class="english">I will have to start moonlighting to make both ends meet.</span></p>

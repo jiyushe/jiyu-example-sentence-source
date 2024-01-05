@@ -1,5 +1,7 @@
 # 橡皮圈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangpiquan.md)
+
 <p><span class="chinese">我要一些橡皮圈。</span><span class="english">I want some rubber bands.</span></p>
 
 <p><span class="chinese">你那条臃肿的橡皮圈叫做手臂?。</span><span class="english">You call that flabby rubber band an arm?</span></p>

@@ -1,5 +1,7 @@
 # scsi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scsi.md)
+
 <p><span class="chinese">是否显示SCSI驱动器的驱动器和可挂载卷。</span><span class="english">Whether to display drives and mountable volumes from SCSI drives.</span></p>
 
 <p><span class="chinese">用户安装升级通过三点五英寸DOS的软盘或SCSI兼容。</span><span class="english">User-installed upgrades via 3.5 in. DOS-compatible diskette or SCSI.</span></p>

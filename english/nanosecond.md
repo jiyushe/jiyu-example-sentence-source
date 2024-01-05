@@ -1,5 +1,7 @@
 # nanosecond
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nanosecond.md)
+
 <p><span class="chinese">1纳秒为十亿分之一秒。</span><span class="english">A nanosecond is one-billionth of a second.</span></p>
 
 <p><span class="chinese">一个毫微秒是一百万分之一秒。</span><span class="english">One nanosecond is 1 billionth of a second.</span></p>

@@ -1,5 +1,7 @@
 # 眉梢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meishao.md)
+
 <p><span class="chinese">脸红一直红到眉梢。</span><span class="english">A flush mounts to the brow.</span></p>
 
 <p><span class="chinese">当四十个严冬围攻你的眉梢</span><span class="english">When forty winters shall besiege thy brow</span></p>

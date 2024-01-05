@@ -1,5 +1,7 @@
 # 卖家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maijia_2.md)
+
 <p><span class="chinese">上海花鸟鱼虫市场上的一位卖家。</span><span class="english">A merchant at the Shanghai market.</span></p>
 
 <p><span class="chinese">你的估价单被卖家回绝了。</span><span class="english">Your estimate was rejected by the seller.</span></p>

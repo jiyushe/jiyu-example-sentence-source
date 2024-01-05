@@ -1,5 +1,7 @@
 # outburst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outburst.md)
+
 <p><span class="chinese">这将是你最后一次发飙了。</span><span class="english">This will be your last outburst.</span></p>
 
 <p><span class="chinese">恒星爆发数年后的回光</span><span class="english">Light Echo Years After Stellar Outburst</span></p>

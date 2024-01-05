@@ -1,5 +1,7 @@
 # sou
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sou.md)
+
 <p><span class="chinese">他一个钱也没有。</span><span class="english">He has n't a sou.</span></p>
 
 <p><span class="chinese">并且家里一个苏也没有！</span><span class="english">And not a sou in the house!</span></p>

@@ -1,5 +1,7 @@
 # ancestress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ancestress.md)
+
 <p><span class="chinese">第五部分力图发掘女祠堂在徽州妇女观念中的意义。</span><span class="english">The focus of the fifth part is the influence of ancestress temple upon Huizhou women.</span></p>
 
 <p><span class="chinese">第五部分力图发掘女祠堂在徽州妇女观念中的意义。</span><span class="english">The focus of the fifth part is the influence of ancestress temple upon Huizhuou women.</span></p>

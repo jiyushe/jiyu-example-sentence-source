@@ -1,5 +1,7 @@
 # father 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/father.md)
+
 <p><span class="chinese">所以她叫来我的父亲。</span><span class="english">my. FATHER.</span></p>
 
 <p><span class="chinese">你的父亲。</span><span class="english">Your father.</span></p>

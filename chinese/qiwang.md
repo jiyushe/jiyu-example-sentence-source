@@ -1,5 +1,7 @@
 # 企望
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiwang.md)
+
 <p><span class="chinese">相反地，她却对生活充满了企望。</span><span class="english">Instead, she aspired towards life.</span></p>
 
 <p><span class="chinese">当然，我们都企望孩子获得成功。</span><span class="english">Of course we want our kids to succeed.</span></p>

@@ -1,5 +1,7 @@
 # 成排
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengpai.md)
+
 <p><span class="chinese">成排的高大树木成为道路的界线。</span><span class="english">Tall trees bordered the road.</span></p>
 
 <p><span class="chinese">这里有成排的赌桌。</span><span class="english">There are rows of gaming tables.</span></p>

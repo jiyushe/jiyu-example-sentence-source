@@ -1,5 +1,7 @@
 # 习题
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiti.md)
+
 <p><span class="chinese">我们得做大量习题。</span><span class="english">We've got tons of exercises.</span></p>
 
 <p><span class="chinese">最好的方法是做习题。</span><span class="english">The best way is to do exercises.</span></p>

@@ -1,5 +1,7 @@
 # seedless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seedless.md)
+
 <p><span class="chinese">西瓜是怎样变得无籽的？</span><span class="english">How did a watermelon get seedless?</span></p>
 
 <p><span class="chinese">然而，更多的乐趣是在小而无籽的西瓜上面。</span><span class="english">The game, however, is in small, seedless melons.</span></p>

@@ -1,5 +1,7 @@
 # amend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amend.md)
+
 <p><span class="chinese">请修改。</span><span class="english">Please amend.</span></p>
 
 <p><span class="chinese">他们说“阿们”送他归天。</span><span class="english">They amend him to death.</span></p>

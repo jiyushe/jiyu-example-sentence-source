@@ -1,5 +1,7 @@
 # uriel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uriel.md)
+
 <p><span class="chinese">乌列尔发扬慈悲与和平。</span><span class="english">Uriel promotes compassion and peace.</span></p>
 
 <p><span class="chinese">乌利尔，圣天使之一，掌管世界与地狱。</span><span class="english">Uriel , one of the holy angels, who is over the world and over Tartarus.</span></p>

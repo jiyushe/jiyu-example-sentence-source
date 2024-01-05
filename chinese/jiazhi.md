@@ -1,5 +1,7 @@
 # 价值
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiazhi.md)
+
 <p><span class="chinese">我们的价值是什么？</span><span class="english">What do we value?</span></p>
 
 <p><span class="chinese">我的价值如何最大化？</span><span class="english">What do I value most?</span></p>

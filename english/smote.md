@@ -1,5 +1,7 @@
 # smote
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smote.md)
+
 <p><span class="chinese">我的头痛又发作了。</span><span class="english">My headache smote again.</span></p>
 
 <p><span class="chinese">那辆汽车撞到了树上。</span><span class="english">The car smote against a tree.</span></p>

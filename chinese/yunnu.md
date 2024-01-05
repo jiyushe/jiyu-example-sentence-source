@@ -1,5 +1,7 @@
 # 愠怒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunnu.md)
+
 <p><span class="chinese">生气，不悦一阵愠怒。</span><span class="english">A fit of petulant sulkiness.</span></p>
 
 <p><span class="chinese">“他是一位绅士。”孩子愠怒地说。</span><span class="english">"He is a gentleman, " said the lad sullenly.</span></p>

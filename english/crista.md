@@ -1,5 +1,7 @@
 # crista
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crista.md)
+
 <p><span class="chinese">从界嵴至右心耳，P细胞有逐渐增多的倾向。</span><span class="english">The numbers of P cell had a tendency of increasing from crista terminalis to aurical.</span></p>
 
 <p><span class="chinese">但是，我们三人中，克莉丝汀的态度最为明确，她说出了我们的心里话。</span><span class="english">But of the three of us, Crista was the most adamant , giving language to our feelings.</span></p>

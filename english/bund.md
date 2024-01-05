@@ -1,5 +1,7 @@
 # bund
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bund.md)
+
 <p><span class="chinese">外滩对游客来说是必游之地，怎么说？</span><span class="english">The Bund is a must to visitors.</span></p>
 
 <p><span class="chinese">请告诉我去外滩的路好吗？</span><span class="english">Could you show me the way to the Bund?</span></p>

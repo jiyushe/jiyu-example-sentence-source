@@ -1,5 +1,7 @@
 # irishman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irishman.md)
+
 <p><span class="chinese">这是我的朋友，爱尔兰人。</span><span class="english">That's my friend, Irishman.</span></p>
 
 <p><span class="chinese">每根都是一个人、爱尔兰人或北方佬。</span><span class="english">Each one is a man, an Irishman , or a Yankee man.</span></p>

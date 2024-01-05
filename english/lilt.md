@@ -1,5 +1,7 @@
 # lilt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lilt.md)
+
 <p><span class="chinese">她讲话的声音柔和而抑扬顿挫，有些威尔士口音。</span><span class="english">Her voice had a soft Welsh lilt to it.</span></p>
 
 <p><span class="chinese">她的声音里透出一种轻快活泼，这是以前没有的。</span><span class="english">There was a lilt in her voice which was new.</span></p>

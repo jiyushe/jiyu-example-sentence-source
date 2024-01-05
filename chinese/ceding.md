@@ -1,5 +1,7 @@
 # 测定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ceding.md)
+
 <p><span class="chinese">玻璃转变温度是用DSC仪来测定的。</span><span class="english">DSC was used to measure Tg.</span></p>
 
 <p><span class="chinese">基础泪液分泌测定值。</span><span class="english">Value of basal tear secretion.</span></p>

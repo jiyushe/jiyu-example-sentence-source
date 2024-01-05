@@ -1,5 +1,7 @@
 # 冒烟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maoyan.md)
+
 <p><span class="chinese">壁炉在冒烟吗？</span><span class="english">Is the fireplace smoking?</span></p>
 
 <p><span class="chinese">是的，他气得七窍冒烟。</span><span class="english">Yes, he was really fuming.</span></p>

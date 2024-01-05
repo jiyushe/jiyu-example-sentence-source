@@ -1,5 +1,7 @@
 # microminiature
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microminiature.md)
+
 <p><span class="chinese">这位57岁的艺术家是西伯利亚首位从事被他称为“微小型艺术”的人。</span><span class="english">The 57-year-old was the first in Siberia to make what he calls "microminiature" art.</span></p>
 
 <p><span class="chinese">研究提高铟组件超小型泵浦固体连续激光器的抗冲击性能方法。</span><span class="english">Study on the advance methods of improving the indium module microminiature Diode-Laser's resistance of impact.</span></p>

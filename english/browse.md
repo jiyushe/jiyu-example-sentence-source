@@ -1,5 +1,7 @@
 # browse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/browse.md)
+
 <p><span class="chinese">浏览或购买维克森今天。</span><span class="english">Browse or Buy Vixen Today.</span></p>
 
 <p><span class="chinese">浏览并获得这些消息。</span><span class="english">Browse and get the messages.</span></p>

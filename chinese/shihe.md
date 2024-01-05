@@ -1,5 +1,7 @@
 # 失和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shihe.md)
+
 <p><span class="chinese">他们的争吵使两个朋友失和。</span><span class="english">Their quarrel estranged the two friends.</span></p>
 
 <p><span class="chinese">所以她才会和家人失和，因为这些规则。</span><span class="english">The rift with her family, that's what it's about? These rules.</span></p>

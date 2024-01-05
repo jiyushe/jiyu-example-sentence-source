@@ -1,5 +1,7 @@
 # yorker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yorker.md)
+
 <p><span class="chinese">嘿吹吹我的口哨来吧“纽约客”！</span><span class="english">Hey blow my whistle Come on"The New Yorker"!</span></p>
 
 <p><span class="chinese">“你是土生土长的纽约人吗？”艾姆斯问嘉莉。</span><span class="english">"Are you a born New Yorker?" asked Ames of Carrie.</span></p>

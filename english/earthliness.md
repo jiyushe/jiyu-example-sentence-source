@@ -1,5 +1,7 @@
 # earthliness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earthliness.md)
+
 <p><span class="chinese">在清代通俗小说创作中，更出现不少此类母题互相抄袭的小说史现象。</span><span class="english">In the earthliness novel produce of Ming Qing, there are many motifs copying phenomena.</span></p>
 
 <p><span class="chinese">两天住郊区，暂时抛却尘世烦恼，心无杂念地享受天伦之乐。</span><span class="english">Rural living two days, temporary scholar earthliness trouble hearts without access to family happiness ideas.</span></p>

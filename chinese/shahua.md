@@ -1,5 +1,7 @@
 # 傻话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shahua.md)
+
 <p><span class="chinese">怎么说这样的傻话！</span><span class="english">What a daft thing to say!</span></p>
 
 <p><span class="chinese">我们微笑，说着傻话。</span><span class="english">I wish you were here by my side.</span></p>

@@ -1,5 +1,7 @@
 # infrequently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infrequently.md)
+
 <p><span class="chinese">大机会可不常来。</span><span class="english">Big opportunities come infrequently.</span></p>
 
 <p><span class="chinese">不要常吃腌制或熏烤的肉。</span><span class="english">Eat cured or smoked meats infrequently.</span></p>

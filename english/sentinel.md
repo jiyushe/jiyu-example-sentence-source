@@ -1,5 +1,7 @@
 # sentinel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sentinel.md)
+
 <p><span class="chinese">“我亲自去站岗！”伊林说。</span><span class="english">"I'll be sentinel myself! " said Ilyin.</span></p>
 
 <p><span class="chinese">闭孔淋巴结可能是宫颈癌的前哨淋巴结。</span><span class="english">Obturator lymph node may be the sentinel node.</span></p>

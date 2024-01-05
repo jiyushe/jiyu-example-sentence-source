@@ -1,5 +1,7 @@
 # 汤剂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tangji.md)
+
 <p><span class="chinese">汤剂药物浸剂，比如加糖的大麦汤。</span><span class="english">A medicinal infusion, such as sweetened barley water.</span></p>
 
 <p><span class="chinese">可是，我知道你今晚没用复方汤剂！</span><span class="english">However, I'm sure that you didn't use Polyjuice Potion tonight!</span></p>

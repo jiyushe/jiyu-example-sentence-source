@@ -1,5 +1,7 @@
 # fragrance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fragrance.md)
+
 <p><span class="chinese">香味扑鼻。</span><span class="english">A fragrance greeted us.</span></p>
 
 <p><span class="chinese">我是否那芬芳一缕？</span><span class="english">Am I the fragrance of it?</span></p>

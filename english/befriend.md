@@ -1,5 +1,7 @@
 # befriend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/befriend.md)
+
 <p><span class="chinese">他们可能与我们交好，他们也可能会吃掉我们。</span><span class="english">They might befriend us. They might eat us.</span></p>
 
 <p><span class="chinese">你又是如何成为失败的朋友并且脱离恐惧呢？</span><span class="english">How do you befriend failure and cast out fear?</span></p>

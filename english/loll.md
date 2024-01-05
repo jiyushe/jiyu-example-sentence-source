@@ -1,5 +1,7 @@
 # loll
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loll.md)
+
 <p><span class="chinese">下次可别伸出舌头来嘲笑人了。</span><span class="english">Next time don't loll out your tongue out.</span></p>
 
 <p><span class="chinese">别这样，听话，劳尔，你现在都是一个大男孩了。</span><span class="english">Now, come on, Loll. You're a big boy now.</span></p>

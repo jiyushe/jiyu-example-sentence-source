@@ -1,5 +1,7 @@
 # arachnid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arachnid.md)
+
 <p><span class="chinese">巨骆驼蜘蛛会用爪子捕获体型不及蜘蛛纲动物的猎物。</span><span class="english">It uses its claws to catch its prey, which is never bigger than the arachnid itself.</span></p>
 
 <p><span class="chinese">举起这只小动物，他把它放到了路另一边的一朵花上。</span><span class="english">Lifting the tiny arachnid , he transported it over to the opposite side of the road.</span></p>

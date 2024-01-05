@@ -1,5 +1,7 @@
 # gnome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gnome.md)
+
 <p><span class="chinese">51侏儒的玩笑惹火了人类村庄。</span><span class="english">Gnome pranksters have angered a village of humans.</span></p>
 
 <p><span class="chinese">哦，侏儒姑娘看起来和虫耳朵一样可爱。</span><span class="english">Oh, and the Gnome girlies are cute as a bug's ear.</span></p>

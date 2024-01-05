@@ -1,5 +1,7 @@
 # kalium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kalium.md)
+
 <p><span class="chinese">中华绒螯蟹钾的含量明显高于钠。</span><span class="english">The content of kalium was more than sodium.</span></p>
 
 <p><span class="chinese">用光谱分析技术手段探索了苹果花钾素含量的估测方法。</span><span class="english">The kalium content in apple flowers are estimated by using a spectroscopic technology.</span></p>

@@ -1,5 +1,7 @@
 # 坚贞不渝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianzhenbuyu.md)
+
 <p><span class="chinese">所以我的诗也一样坚贞不渝。</span><span class="english">Therefore my verse to constancy confined.</span></p>
 
 <p><span class="chinese">于是，这位坚贞不渝的姑娘和自己的爱人罗兰举行了婚礼。</span><span class="english">Thus the faithful girl was married to her sweetheart Roland.</span></p>

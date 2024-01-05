@@ -1,5 +1,7 @@
 # vocal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vocal.md)
+
 <p><span class="chinese">舌头是一个发音器官。</span><span class="english">Thetongue is a vocal organ.</span></p>
 
 <p><span class="chinese">终于舆论哗然。</span><span class="english">Public opinion at last became vocal.</span></p>

@@ -1,5 +1,7 @@
 # 无不
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wubu.md)
+
 <p><span class="chinese">无不称快。</span><span class="english">All without exception were glad.</span></p>
 
 <p><span class="chinese">我的评论完全无不必要。</span><span class="english">My comment is totally uncalled-for.</span></p>

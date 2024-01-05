@@ -1,5 +1,7 @@
 # rwandan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rwandan.md)
+
 <p><span class="chinese">我是卢安达的一个小孩，我只有八岁。</span><span class="english">I'm a Rwandan boy, and I'm only eight years old.</span></p>
 
 <p><span class="chinese">我是卢安达的一个小孩，我只有八岁。</span><span class="english">I am a Rwandan boy, and I'm only eight years old.</span></p>

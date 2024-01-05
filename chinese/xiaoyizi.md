@@ -1,5 +1,7 @@
 # 小姨子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoyizi.md)
+
 <p><span class="chinese">你如何看待男人的“小姨子情结”？</span><span class="english">How do you think of the men's "sister-in-law complex"?</span></p>
 
 <p><span class="chinese">我哥在他小姨子的婚礼上喝多了。</span><span class="english">My brother got pickled at his sister-in-law's wedding.</span></p>

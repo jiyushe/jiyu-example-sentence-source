@@ -1,5 +1,7 @@
 # flattering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flattering.md)
+
 <p><span class="chinese">一些使用阿谀的巧言。</span><span class="english">Some with a flattering word.</span></p>
 
 <p><span class="chinese">别再那样拍我马屁。</span><span class="english">Stop flattering me like that.</span></p>

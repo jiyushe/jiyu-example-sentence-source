@@ -1,5 +1,7 @@
 # returned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/returned.md)
+
 <p><span class="chinese">我又回去干我的事。</span><span class="english">I returned to my work.</span></p>
 
 <p><span class="chinese">我回到丁我的矮凳上。</span><span class="english">I returned to my stool.</span></p>

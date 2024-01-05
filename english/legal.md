@@ -1,5 +1,7 @@
 # legal 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legal.md)
+
 <p><span class="chinese">法律签收。</span><span class="english">Legal sign-off.</span></p>
 
 <p><span class="chinese">主要是法律上的问题。</span><span class="english">Legal ones, mostly.</span></p>

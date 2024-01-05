@@ -1,5 +1,7 @@
 # joseph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/joseph.md)
+
 <p><span class="chinese">约瑟夫沉默不语。</span><span class="english">Joseph was quiet.</span></p>
 
 <p><span class="chinese">对于约瑟·斯蒂格利茨来说呢？</span><span class="english">And Joseph Stiglitz?</span></p>

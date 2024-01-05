@@ -1,5 +1,7 @@
 # 柔顺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/roushun.md)
+
 <p><span class="chinese">那将会是一样的温软和柔顺吗？</span><span class="english">That would be this soft and warm?</span></p>
 
 <p><span class="chinese">他表面上的柔顺使人人受骗。</span><span class="english">His apparent meekness deceives everyone.</span></p>

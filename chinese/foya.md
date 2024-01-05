@@ -1,5 +1,7 @@
 # 佛牙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/foya.md)
+
 <p><span class="chinese">接着说佛牙舍利。</span><span class="english">Cue the Buddha tooth.</span></p>
 
 <p><span class="chinese">在缅甸佛牙舍利无疑很受欢迎。</span><span class="english">The tooth clearly is popular in Myanmar.</span></p>

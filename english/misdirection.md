@@ -1,5 +1,7 @@
 # misdirection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misdirection.md)
+
 <p><span class="chinese">在硬币消失的魔术中就运用了一个简单的误导手法。</span><span class="english">A simple example of misdirection is used in the coin drop trick.</span></p>
 
 <p><span class="chinese">整个会面就是一场精心安排的误导破案的表演。</span><span class="english">The whole meeting was an elaborately staged act of misdirection.</span></p>

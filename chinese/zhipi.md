@@ -1,5 +1,7 @@
 # 植皮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhipi.md)
+
 <p><span class="chinese">嘿，李娜。是的，他们确实完全没有做植皮。</span><span class="english">Hi Liane, no, they did not use any skin grafting at all.</span></p>
 
 <p><span class="chinese">在止血完成后，最好将DNT从植皮部位移去。</span><span class="english">It is recommended to remove DNT from donor site after hemostasis achieved.</span></p>

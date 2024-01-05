@@ -1,5 +1,7 @@
 # 海盆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haipen.md)
+
 <p><span class="chinese">三个海盆都被1900米的等深线所圈闭。</span><span class="english">All three basins are enclosed by the 1900m depth contour.</span></p>
 
 <p><span class="chinese">三个海盆都被1900米的等深线所圈闭。</span><span class="english">All three basins are enclosed by the 1900 m depth contour.</span></p>

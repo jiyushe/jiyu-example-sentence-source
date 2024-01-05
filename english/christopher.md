@@ -1,5 +1,7 @@
 # christopher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/christopher.md)
+
 <p><span class="chinese">在克里斯托弗·李与J。</span><span class="english">When Christopher Lee and J. R.</span></p>
 
 <p><span class="chinese">克里斯托弗·因塔格里塔报道。</span><span class="english">Christopher Intagliata reports.</span></p>

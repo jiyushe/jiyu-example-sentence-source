@@ -1,5 +1,7 @@
 # slipper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slipper.md)
+
 <p><span class="chinese">小狗在拖鞋上啃了一个洞。</span><span class="english">The puppy chewed a hole in the slipper.</span></p>
 
 <p><span class="chinese">她趿拉着她母亲的拖鞋走过去了。</span><span class="english">She scuffed past in her slippers slipper s.</span></p>

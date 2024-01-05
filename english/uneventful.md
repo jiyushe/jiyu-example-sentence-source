@@ -1,5 +1,7 @@
 # uneventful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uneventful.md)
+
 <p><span class="chinese">不想日孒就这麽悳平淡。！</span><span class="english">Do not want to come on this so uneventful. !</span></p>
 
 <p><span class="chinese">希望你跟我一样，能平安无事抵达。</span><span class="english">Hope your journey is as uneventful as mine was.</span></p>

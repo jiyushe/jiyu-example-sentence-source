@@ -1,5 +1,7 @@
 # 一面之词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yimianzhici.md)
+
 <p><span class="chinese">而我相信你的一面之词？</span><span class="english">And I just take your word?</span></p>
 
 <p><span class="chinese">美国媒体都是一面之词。</span><span class="english">US media is one-side story.</span></p>

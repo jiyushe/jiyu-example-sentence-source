@@ -1,5 +1,7 @@
 # clang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clang.md)
+
 <p><span class="chinese">门当啷一声打开了。</span><span class="english">The door opened with a heavy clang.</span></p>
 
 <p><span class="chinese">伐木丁丁。</span><span class="english">Clang, clang goes the woodman's axe.</span></p>

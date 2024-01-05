@@ -1,5 +1,7 @@
 # 一分为二
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yifenweier.md)
+
 <p><span class="chinese">一分为二。</span><span class="english">One divides into two.</span></p>
 
 <p><span class="chinese">我的大脑被一分为二。</span><span class="english">My brain gets split apart.</span></p>

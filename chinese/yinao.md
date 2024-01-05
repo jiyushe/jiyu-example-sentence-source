@@ -1,5 +1,7 @@
 # 乙脑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinao.md)
+
 <p><span class="chinese">估计约有30亿人生活在乙脑流行的地区。</span><span class="english">An estimated three billion people live in JE-endemic areas.</span></p>
 
 <p><span class="chinese">这些收费的疫苗包括乙脑、乙肝和百白破。</span><span class="english">These charge vaccine including Japanese encephalitis, hepatitis B and DPT.</span></p>

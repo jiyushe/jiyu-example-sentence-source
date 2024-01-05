@@ -1,5 +1,7 @@
 # eclogite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eclogite.md)
+
 <p><span class="chinese">榴辉岩转化成含帘石的斜长角闪岩。</span><span class="english">As a result, the eclogite was transformed to epidote-bearing amphibolite.</span></p>
 
 <p><span class="chinese">该俯冲板片熔融前通常变质为含水的榴辉岩。</span><span class="english">The subducted slabs was metamorphosed to water-bearing eclogite before being melted.</span></p>

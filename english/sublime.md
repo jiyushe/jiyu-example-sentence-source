@@ -1,5 +1,7 @@
 # sublime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sublime.md)
+
 <p><span class="chinese">并感受其一片漆黑的庄严</span><span class="english">And feel its total dark sublime</span></p>
 
 <p><span class="chinese">一个是宏伟的，另一个是崇高的。</span><span class="english">The one is magnificent, the other sublime.</span></p>

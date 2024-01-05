@@ -1,5 +1,7 @@
 # 炭火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanhuo.md)
+
 <p><span class="chinese">他们在炭火上烤火鸡。</span><span class="english">They broiled a turkey over charcoal.</span></p>
 
 <p><span class="chinese">他们的整片老街区都充溢着炭火的气味。</span><span class="english">The smell of charcoal filters throughout their old neighborhoods.</span></p>

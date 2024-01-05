@@ -1,5 +1,7 @@
 # woo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woo.md)
+
 <p><span class="chinese">吴雨我的意思是告诉你。</span><span class="english">Oh woo I mean to tell you.</span></p>
 
 <p><span class="chinese">这些都是用来向教授求爱的武器啊。</span><span class="english">Weapons needed to woo the professors.</span></p>

@@ -1,5 +1,7 @@
 # 亚文化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yawenhua.md)
+
 <p><span class="chinese">一个繁荣的杰哈迪亚文化出现了。</span><span class="english">A thriving jihadi subculture has emerged.</span></p>
 
 <p><span class="chinese">他们倾向于流入工作的亚文化领域。</span><span class="english">They tend to drift into work subcultures.</span></p>

@@ -1,5 +1,7 @@
 # nominee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nominee.md)
+
 <p><span class="chinese">马克被提名为司库。</span><span class="english">Mark is the nominee for Treasurer.</span></p>
 
 <p><span class="chinese">埃玛被提名为司库。</span><span class="english">Elma was the nominee for Treasurer.</span></p>

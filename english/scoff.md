@@ -1,5 +1,7 @@
 # scoff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scoff.md)
+
 <p><span class="chinese">也许你们会嘲笑我。</span><span class="english">Maybe you will scoff.</span></p>
 
 <p><span class="chinese">你喜欢嘲笑。</span><span class="english">You are pleased to scoff.</span></p>

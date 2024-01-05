@@ -1,5 +1,7 @@
 # 统一体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongyiti.md)
+
 <p><span class="chinese">理想是多层次的统一体。</span><span class="english">An ideal is a multi-level entity.</span></p>
 
 <p><span class="chinese">幸福存在于一个连续统一体。</span><span class="english">Happiness resides on a continuum.</span></p>

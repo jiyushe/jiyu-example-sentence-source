@@ -1,5 +1,7 @@
 # subcontractor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subcontractor.md)
+
 <p><span class="chinese">你们是加工者或分包商吗？</span><span class="english">Are you a preparer or a subcontractor?</span></p>
 
 <p><span class="chinese">科学应用国际公司是子承包商。</span><span class="english">Science Applications International Corp. is the subcontractor.</span></p>

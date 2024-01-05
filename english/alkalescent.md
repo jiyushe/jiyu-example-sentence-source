@@ -1,5 +1,7 @@
 # alkalescent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alkalescent.md)
+
 <p><span class="chinese">哪些是碱性疏菜、水果？</span><span class="english">What is alkalescent scanty dish, fruit?</span></p>
 
 <p><span class="chinese">所以，估计香蕉皮上的白色粉是洗衣粉，或类似的碱性物质。</span><span class="english">So i just guess the white powder should be the launder powder or other alkalescent chemical.</span></p>

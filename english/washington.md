@@ -1,5 +1,7 @@
 # washington
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/washington.md)
+
 <p><span class="chinese">是华盛顿奇才队吗？</span><span class="english">Is it Washington Wizards?</span></p>
 
 <p><span class="chinese">现在，我住在华盛顿。</span><span class="english">Now, I live in Washington.</span></p>

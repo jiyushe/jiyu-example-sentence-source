@@ -1,5 +1,7 @@
 # liquefiable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liquefiable.md)
+
 <p><span class="chinese">建立的修正液化指数公式可对可液化场地进行液化概率评价。</span><span class="english">The probabilistic evaluation of liquefaction to liquefiable sites is carried out by an equation established by the author.</span></p>
 
 <p><span class="chinese">研究结论可为液化场地浅埋结构物的抗震设计提供可靠的依据和参考。</span><span class="english">These results provide the foundation and references for the seismic design of shallow underground structures in the liquefiable soils.</span></p>

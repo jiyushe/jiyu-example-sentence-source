@@ -1,5 +1,7 @@
 # unexploded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unexploded.md)
+
 <p><span class="chinese">戴维斯说还发现一个未爆炸的装置。</span><span class="english">An unexploded device was also recovered, Davis said.</span></p>
 
 <p><span class="chinese">好些未爆弹仍深埋在土里。</span><span class="english">Unexploded bombs still lie buried deep in the earth.</span></p>

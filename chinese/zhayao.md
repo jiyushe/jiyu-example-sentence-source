@@ -1,5 +1,7 @@
 # 炸药
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhayao.md)
+
 <p><span class="chinese">她们把炸药带戴在我头上。</span><span class="english">They put it over my head.</span></p>
 
 <p><span class="chinese">用自己的炸药炸死自己。</span><span class="english">Hoist with one's own petard.</span></p>

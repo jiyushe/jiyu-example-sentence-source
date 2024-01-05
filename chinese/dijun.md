@@ -1,5 +1,7 @@
 # 帝君
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dijun.md)
+
 <p><span class="chinese">这个帝君这样地纯洁？</span><span class="english">This emperor gentleman so is the ground clean and pure?</span></p>
 
 <p><span class="chinese">观其地位，好似就在帝君之后。</span><span class="english">View its position, agreeable afterward emperor gentleman.</span></p>

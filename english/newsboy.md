@@ -1,5 +1,7 @@
 # newsboy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/newsboy.md)
+
 <p><span class="chinese">一个报童在尖声叫卖号外。</span><span class="english">A newsboy was screaming an extra.</span></p>
 
 <p><span class="chinese">一个报童在尖声叫卖号外。</span><span class="english">Charles finally caught on as a newsboy.</span></p>

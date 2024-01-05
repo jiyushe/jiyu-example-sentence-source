@@ -1,5 +1,7 @@
 # 宁愿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ningyuan.md)
+
 <p><span class="chinese">我宁愿待在家里。</span><span class="english">I'd rather stay home.</span></p>
 
 <p><span class="chinese">所以有些人宁愿不去医院。</span><span class="english">Some prefer not to go.</span></p>

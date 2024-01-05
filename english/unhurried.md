@@ -1,5 +1,7 @@
 # unhurried
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unhurried.md)
+
 <p><span class="chinese">乱云飞渡仍从容！</span><span class="english">Clouds scud past still unhurried !</span></p>
 
 <p><span class="chinese">他说话时语调不紧不慢。</span><span class="english">When he talked, his tone was unhurried.</span></p>

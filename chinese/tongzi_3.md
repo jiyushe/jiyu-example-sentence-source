@@ -1,5 +1,7 @@
 # 筒子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongzi_3.md)
+
 <p><span class="chinese">你可以使用筒子运送水。</span><span class="english">You can send the water by using a tube.</span></p>
 
 <p><span class="chinese">槽筒与筒子支架设置不正确。</span><span class="english">Cone holder incorrectly set to winding drum.</span></p>

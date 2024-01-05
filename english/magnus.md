@@ -1,5 +1,7 @@
 # magnus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magnus.md)
+
 <p><span class="chinese">詹姆士医生给玛格纳斯带了什么礼物？</span><span class="english">What "gift" does Dr. James Watson bring for Magnus?</span></p>
 
 <p><span class="chinese">特外特恩，是这个种子库计画的经理。</span><span class="english">Magnus Bredeli Tveiten is the vault's project manager.</span></p>

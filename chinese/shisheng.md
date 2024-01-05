@@ -1,5 +1,7 @@
 # 失声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shisheng.md)
+
 <p><span class="chinese">姜窦痛哭失声。</span><span class="english">Ginger sinus in tears.</span></p>
 
 <p><span class="chinese">是坐在地上失声大哭？</span><span class="english">Was sitting on the floor and cry?</span></p>

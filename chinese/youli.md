@@ -1,5 +1,7 @@
 # 有力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youli.md)
+
 <p><span class="chinese">爪强而有力，善掘洞。</span><span class="english">Claw is strong, good earth.</span></p>
 
 <p><span class="chinese">那男子有着强壮有力的肌肉。</span><span class="english">The man has sinewy muscles.</span></p>

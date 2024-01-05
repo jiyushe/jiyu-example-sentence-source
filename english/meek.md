@@ -1,5 +1,7 @@
 # meek
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meek.md)
+
 <p><span class="chinese">温柔的人有福了。</span><span class="english">Blessed are the meek.</span></p>
 
 <p><span class="chinese">但你虽一向温和却很勇敢。</span><span class="english">But thou wast ever bravely meek.</span></p>

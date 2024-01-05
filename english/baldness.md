@@ -1,5 +1,7 @@
 # baldness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baldness.md)
+
 <p><span class="chinese">科学家研究用干细胞培植发囊治疗男性秃头。</span><span class="english">Male-Pattern Baldness Found Rooted in Stem Cells.</span></p>
 
 <p><span class="chinese">吉尔忍不住拿他的秃顶开玩笑。</span><span class="english">Jill couldn't resist makeing jokes about his baldness.</span></p>

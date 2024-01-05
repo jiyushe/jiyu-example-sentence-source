@@ -1,5 +1,7 @@
 # 瞥见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piejian.md)
+
 <p><span class="chinese">她瞥见他走了。</span><span class="english">She glimpsed him leaving.</span></p>
 
 <p><span class="chinese">你们在幻灯片里瞥见了啥子?。</span><span class="english">Who do you see in the slide?</span></p>

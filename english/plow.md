@@ -1,5 +1,7 @@
 # plow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plow.md)
+
 <p><span class="chinese">这种犁耕地不沾泥。</span><span class="english">This plow sours well.</span></p>
 
 <p><span class="chinese">那时的犁是用马拉的。</span><span class="english">the farm plow was horse-drawn.</span></p>

@@ -1,5 +1,7 @@
 # 酒花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuhua.md)
+
 <p><span class="chinese">酒花是啤酒的重要原料之一。</span><span class="english">Hop is one of important raw materials for bittering beer.</span></p>
 
 <p><span class="chinese">煮沸或煮泡的添加酒花的麦芽汁有多方面的原因。</span><span class="english">The boiling or brewing of the wort with the hops serves several purposes.</span></p>

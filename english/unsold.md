@@ -1,5 +1,7 @@
 # unsold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsold.md)
+
 <p><span class="chinese">在泰勒斯威尔的房子仍然没卖掉。</span><span class="english">The house in Taylorsville is still unsold.</span></p>
 
 <p><span class="chinese">本盘以货物未售出为准。</span><span class="english">This offer is subject to the goods being unsold.</span></p>

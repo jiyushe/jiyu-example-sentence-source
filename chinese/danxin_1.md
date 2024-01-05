@@ -1,5 +1,7 @@
 # 担心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danxin_1.md)
+
 <p><span class="chinese">不要盲目担心。</span><span class="english">Do not worry.</span></p>
 
 <p><span class="chinese">我很担心。</span><span class="english">I was afraid.</span></p>

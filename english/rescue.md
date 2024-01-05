@@ -1,5 +1,7 @@
 # rescue 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rescue.md)
+
 <p><span class="chinese">Nero是一条搜救犬。</span><span class="english">Nero is a rescue dog.</span></p>
 
 <p><span class="chinese">营救队待命。</span><span class="english">Stand by rescue team.</span></p>

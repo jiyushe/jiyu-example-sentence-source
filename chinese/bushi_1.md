@@ -1,5 +1,7 @@
 # 布施
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bushi_1.md)
+
 <p><span class="chinese">掌握机会布施，是有福之人。</span><span class="english">Grab the opportunity to give, is a blessed man.</span></p>
 
 <p><span class="chinese">全部的财产都布施光了，然而却没获得什么福报。</span><span class="english">He had given away all his wealth but gained nothing.</span></p>

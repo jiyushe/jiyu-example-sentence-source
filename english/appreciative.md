@@ -1,5 +1,7 @@
 # appreciative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appreciative.md)
+
 <p><span class="chinese">私下里他的感激之情恐怕并没有这么多。</span><span class="english">He will be less appreciative in private.</span></p>
 
 <p><span class="chinese">这位演员受到热烈喝彩，心里感到乐滋滋的。</span><span class="english">The actor basked in appreciative applause.</span></p>

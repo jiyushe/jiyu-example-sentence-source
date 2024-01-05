@@ -1,5 +1,7 @@
 # 讥讽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jifeng_1.md)
+
 <p><span class="chinese">汤姆的讥讽令他十分窘迫。</span><span class="english">He was hazed by Tom's satire.</span></p>
 
 <p><span class="chinese">我们都对他的想法报以讥讽的大笑。</span><span class="english">We all snorted  about his idea.</span></p>

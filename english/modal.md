@@ -1,5 +1,7 @@
 # modal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/modal.md)
+
 <p><span class="chinese">莫代尔是什么？</span><span class="english">What's is Modal?</span></p>
 
 <p><span class="chinese">是一个情态动词。</span><span class="english">"Can" is a modal verb.</span></p>

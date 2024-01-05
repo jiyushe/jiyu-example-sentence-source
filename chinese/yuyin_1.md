@@ -1,5 +1,7 @@
 # 语音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuyin_1.md)
+
 <p><span class="chinese">先说语音</span><span class="english">So, phonology.</span></p>
 
 <p><span class="chinese">语音输入?。</span><span class="english">VI? Voice Input?</span></p>

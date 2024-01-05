@@ -1,5 +1,7 @@
 # present
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/present.md)
+
 <p><span class="chinese">什么礼物!</span><span class="english">What present?</span></p>
 
 <p><span class="chinese">现在还没有。</span><span class="english">Not at present.</span></p>

@@ -1,5 +1,7 @@
 # 赠品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zengpin.md)
+
 <p><span class="chinese">息票，赠品券，附单，配给券。</span><span class="english">The allotment of ration coupons.</span></p>
 
 <p><span class="chinese">为毛我从来没收到过这种免费赠品？</span><span class="english">Why do I never get any freebies?</span></p>

@@ -1,5 +1,7 @@
 # verbosity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/verbosity.md)
+
 <p><span class="chinese">赘言的第一步要提高你的词汇量。</span><span class="english">The first step toward verbosity is  improving your vocabulary.</span></p>
 
 <p><span class="chinese">提供一些赘言水平给一种较好的使用者经验。</span><span class="english">Provides several verbosity levels for a better user experience.</span></p>

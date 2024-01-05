@@ -1,5 +1,7 @@
 # 正直
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengzhi_5.md)
+
 <p><span class="chinese">我很正直。</span><span class="english">I have integrity.</span></p>
 
 <p><span class="chinese">正直的言语力量何其大。</span><span class="english">How forcible are right words!</span></p>

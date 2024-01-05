@@ -1,5 +1,7 @@
 # shoreline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shoreline.md)
+
 <p><span class="chinese">解掉岸缆，开始移泊。</span><span class="english">Let go shoreline and commenced shifting.</span></p>
 
 <p><span class="chinese">浪头拍击着海岸线。</span><span class="english">The waves battered against the shoreline.</span></p>

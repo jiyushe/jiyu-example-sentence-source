@@ -1,5 +1,7 @@
 # bethel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bethel.md)
+
 <p><span class="chinese">于是二人下到伯特利。</span><span class="english">So they went down to Bethel.</span></p>
 
 <p><span class="chinese">约瑟家打发人去窥探伯特利。</span><span class="english">And the house of Joseph sent to descry Bethel.</span></p>

@@ -1,5 +1,7 @@
 # demonstrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demonstrate.md)
+
 <p><span class="chinese">用于展示变化趋势。</span><span class="english">Used to demonstrate trends.</span></p>
 
 <p><span class="chinese">他站起来进行演示。</span><span class="english">He stands up to demonstrate.</span></p>

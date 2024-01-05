@@ -1,5 +1,7 @@
 # antifouling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antifouling.md)
+
 <p><span class="chinese">作为高级防污漆，适用于海生物生长严重的海域。</span><span class="english">A superior antifouling for use in waters with severe fouling.</span></p>
 
 <p><span class="chinese">下水道防污盖，由孔板折边制成托盘形盖。</span><span class="english">The utility model relates to an antifouling cover of a sewer.</span></p>

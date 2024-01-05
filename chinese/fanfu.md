@@ -1,5 +1,7 @@
 # 反复
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanfu.md)
+
 <p><span class="chinese">我反复看了十遍。</span><span class="english">So I watched it 10 times.</span></p>
 
 <p><span class="chinese">是反复浏览一份目录。</span><span class="english">It's de-scanning a catalog.</span></p>

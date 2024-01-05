@@ -1,5 +1,7 @@
 # repent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repent.md)
+
 <p><span class="chinese">悔之晚矣。</span><span class="english">It's too late to repent.</span></p>
 
 <p><span class="chinese">即使到了现在，她也不后悔。</span><span class="english">Even now she doesn't repent.</span></p>

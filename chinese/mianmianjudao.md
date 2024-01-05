@@ -1,5 +1,7 @@
 # 面面俱到
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianmianjudao.md)
+
 <p><span class="chinese">不要为所有人面面俱到。</span><span class="english">Stop trying to be all things to all people.</span></p>
 
 <p><span class="chinese">关于种族平等，欧盟指令也无法面面俱到。</span><span class="english">There are no all-embracing EC directives on race equality.</span></p>

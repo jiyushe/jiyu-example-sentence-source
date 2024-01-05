@@ -1,5 +1,7 @@
 # scaly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scaly.md)
+
 <p><span class="chinese">这铁管上有鳞状般的铁锈。</span><span class="english">This iron pipe is scaly with rust.</span></p>
 
 <p><span class="chinese">那只既狡猾又活泼的蛇有六十条多鳞的条纹。</span><span class="english">A tricky frisky snake with sixty super scaly stripes.</span></p>

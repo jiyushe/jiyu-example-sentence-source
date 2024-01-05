@@ -1,5 +1,7 @@
 # 松脆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songcui.md)
+
 <p><span class="chinese">这点心松脆可口。</span><span class="english">The pastry is light and crisp.</span></p>
 
 <p><span class="chinese">脆饼干是一种薄的、松脆的饼干。</span><span class="english">Shortbread is a short crumbly cookie.</span></p>

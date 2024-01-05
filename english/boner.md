@@ -1,5 +1,7 @@
 # boner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boner.md)
+
 <p><span class="chinese">因此，他们把邦德赶出了家门。</span><span class="english">So they drove Boner out of the door.</span></p>
 
 <p><span class="chinese">就在那个时候，邦德打电话来了。</span><span class="english">Just at that moment, Boner was calling.</span></p>

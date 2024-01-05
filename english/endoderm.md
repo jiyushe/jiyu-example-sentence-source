@@ -1,5 +1,7 @@
 # endoderm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endoderm.md)
+
 <p><span class="chinese">连续切片见内皮层有剥脱现象。</span><span class="english">Successive section sees endoderm has exfoliate phenomenon.</span></p>
 
 <p><span class="chinese">这跟他自己是同质性，跟随他的外胚层与内胚层延续下去。</span><span class="english">This is homogeneous with himself and in continuity with his ectoderm and his endoderm.</span></p>

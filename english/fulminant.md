@@ -1,5 +1,7 @@
 # fulminant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fulminant.md)
+
 <p><span class="chinese">凝血酶原时间在慢性重型肝炎预后中的评价。</span><span class="english">Fulminant hepatitis in patients with chronic liver disease.</span></p>
 
 <p><span class="chinese">急性肝衰竭的另一种类型是暴发性肝衰竭。</span><span class="english">Another term for acute liver failure is fulminant hepatic failure.</span></p>

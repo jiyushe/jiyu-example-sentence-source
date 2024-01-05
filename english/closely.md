@@ -1,5 +1,7 @@
 # closely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/closely.md)
+
 <p><span class="chinese">非常相关的问题。</span><span class="english">Closely related question.</span></p>
 
 <p><span class="chinese">他详细地查问了这事。</span><span class="english">He inquired closely about it.</span></p>

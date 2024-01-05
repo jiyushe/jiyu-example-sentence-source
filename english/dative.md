@@ -1,5 +1,7 @@
 # dative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dative.md)
+
 <p><span class="chinese">这种化学键称为配位键。</span><span class="english">This is called a dative bond.</span></p>
 
 <p><span class="chinese">与格单词，与格形式。</span><span class="english">A word or form in the dative case.</span></p>

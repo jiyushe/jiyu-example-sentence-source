@@ -1,5 +1,7 @@
 # sartorial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sartorial.md)
+
 <p><span class="chinese">这一趋势的转变已转化为顶级品牌的销售收益。</span><span class="english">The sartorial shift has translated into sales gains for top brands.</span></p>
 
 <p><span class="chinese">裁剪技术依赖于经过几何测量的美丽胴体。</span><span class="english">Sartorial techniques insist on the beauty of a geometrically measurable body.</span></p>

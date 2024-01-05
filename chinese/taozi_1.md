@@ -1,5 +1,7 @@
 # 桃子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taozi_1.md)
+
 <p><span class="chinese">加入桃子。</span><span class="english">Add peaches.</span></p>
 
 <p><span class="chinese">桃子成熟了。</span><span class="english">The peaches are ripe.</span></p>

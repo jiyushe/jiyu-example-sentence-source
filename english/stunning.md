@@ -1,5 +1,7 @@
 # stunning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stunning.md)
+
 <p><span class="chinese">这些结果令人吃惊。</span><span class="english">These results are stunning.</span></p>
 
 <p><span class="chinese">你看上去直钩人心魂。</span><span class="english">You look absolutely stunning.</span></p>

@@ -1,5 +1,7 @@
 # aether
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aether.md)
+
 <p><span class="chinese">血浆样品用乙醚提取。</span><span class="english">And the plasma sample was extracted with aether.</span></p>
 
 <p><span class="chinese">乙醚对细胞的存活率影响不大。</span><span class="english">Aether has little influence on the cell livability.</span></p>

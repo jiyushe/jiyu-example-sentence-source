@@ -1,5 +1,7 @@
 # peony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peony.md)
+
 <p><span class="chinese">那是我的芍药。</span><span class="english">That is my peony.</span></p>
 
 <p><span class="chinese">办一张牡丹卡试试。</span><span class="english">Try a Peony Card.</span></p>

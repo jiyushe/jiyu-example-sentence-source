@@ -1,5 +1,7 @@
 # junket
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/junket.md)
+
 <p><span class="chinese">还是他妻子让他去公费旅游?。</span><span class="english">Or did his wife send him on a junket?</span></p>
 
 <p><span class="chinese">他从来没有公费旅游过。</span><span class="english">He has never taken a government-paid junket.</span></p>

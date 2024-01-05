@@ -1,5 +1,7 @@
 # 主公
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhugong.md)
+
 <p><span class="chinese">主公送了他一枚戒指。</span><span class="english">The Tetrarch sent him the ring.</span></p>
 
 <p><span class="chinese">我觉得主公也怕他。</span><span class="english">I think he is afraid of him the Tetrarch.</span></p>

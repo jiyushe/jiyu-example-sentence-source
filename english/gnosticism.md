@@ -1,5 +1,7 @@
 # gnosticism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gnosticism.md)
+
 <p><span class="chinese">我们在班上讲过诺斯替教。</span><span class="english">I've talked in the class about Gnosticism.</span></p>
 
 <p><span class="chinese">灵知主义并不能被描述为“自我救赎”。</span><span class="english">Gnosticism cannot be described as "self-salvation."</span></p>

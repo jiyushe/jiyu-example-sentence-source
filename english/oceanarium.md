@@ -1,5 +1,7 @@
 # oceanarium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oceanarium.md)
+
 <p><span class="chinese">我们全家人在游览水族馆。</span><span class="english">Our family is visiting the oceanarium.</span></p>
 
 <p><span class="chinese">我们全家人在游览海底隧道。</span><span class="english">Our family is visiting the oceanarium.</span></p>

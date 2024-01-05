@@ -1,5 +1,7 @@
 # galleon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/galleon.md)
+
 <p><span class="chinese">鲁伊斯还没有被正式指控在帆船组进行调查。</span><span class="english">Ruiz has not been formally charged in the Galleon Group investigation.</span></p>
 
 <p><span class="chinese">西班牙大型帆船，盖伦，是游戏装备精良的战船，同时能够装载大批货物。</span><span class="english">Galleon is well-armed warship also capable of taking aboard large amounts of cargo.</span></p>

@@ -1,5 +1,7 @@
 # rebroadcast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rebroadcast.md)
+
 <p><span class="chinese">这节目重播。</span><span class="english">This program is a rebroadcast.</span></p>
 
 <p><span class="chinese">今晚没有足球赛的转播了。</span><span class="english">There's no rebroadcast of the soccer game tonight.</span></p>

@@ -1,5 +1,7 @@
 # aram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aram.md)
+
 <p><span class="chinese">丹丝兰生气的分开了娘家。</span><span class="english">DanSi aram angry separated the home.</span></p>
 
 <p><span class="chinese">亚兰国和以色列国三年没有争战。</span><span class="english">For three years there was no war between Aram and Israel.</span></p>

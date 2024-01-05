@@ -1,5 +1,7 @@
 # 短发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duanfa.md)
+
 <p><span class="chinese">你理短发的确很帅。</span><span class="english">Short hair really becomes you.</span></p>
 
 <p><span class="chinese">短发，香港，恋爱。其实什么都不关我事。</span><span class="english">Actually, I still loved that guy.</span></p>

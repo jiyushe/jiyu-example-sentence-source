@@ -1,5 +1,7 @@
 # breakfast 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breakfast_1.md)
+
 <p><span class="chinese">吃早餐。</span><span class="english">Eat breakfast.</span></p>
 
 <p><span class="chinese">我喜欢吃早餐。</span><span class="english">I liked breakfast.</span></p>

@@ -1,5 +1,7 @@
 # 怯怯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qieqie.md)
+
 <p><span class="chinese">我怯怯乔乔冰冷。</span><span class="english">I fear the cold.</span></p>
 
 <p><span class="chinese">怯怯乔乔源于无知。</span><span class="english">Fear hasways springs from ignorance.</span></p>

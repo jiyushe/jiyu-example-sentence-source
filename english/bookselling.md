@@ -1,5 +1,7 @@
 # bookselling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bookselling.md)
+
 <p><span class="chinese">像这样的小玩意儿最有可能成为电子书销售下一个篇章的主角。</span><span class="english">Gizmos such as these are the likeliest heroes of the next chapter of electronic bookselling.</span></p>
 
 <p><span class="chinese">也有人认为ASDA,乐购和其他超市连锁快把独立图书销售业逼垮。</span><span class="english">Asda, Tesco and the supermarket chains are said to be draining the life out of independent bookselling.</span></p>

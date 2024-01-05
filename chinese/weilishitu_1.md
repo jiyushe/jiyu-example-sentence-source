@@ -1,5 +1,7 @@
 # 惟利是图
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weilishitu_1.md)
+
 <p><span class="chinese">这女人可惟利是图了。</span><span class="english">This chick's a mercenary.</span></p>
 
 <p><span class="chinese">那些医院简直就是惟利是图。</span><span class="english">It is invidious profiteering those hospitals.</span></p>

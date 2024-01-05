@@ -1,5 +1,7 @@
 # sensitizer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sensitizer.md)
+
 <p><span class="chinese">该药能增强抗体的应激能力。</span><span class="english">It can increase stress ability of sensitizer.</span></p>
 
 <p><span class="chinese">用于油墨或感光剂的调色。</span><span class="english">Applied to the color mixing of oil ink or sensitizer.</span></p>

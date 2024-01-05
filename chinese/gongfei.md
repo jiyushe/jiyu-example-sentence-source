@@ -1,5 +1,7 @@
 # 公费
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongfei.md)
+
 <p><span class="chinese">工人享受公费医疗。</span><span class="english">Workers enjoy free medical care.</span></p>
 
 <p><span class="chinese">我们中国公民享受公费医疗。</span><span class="english">We Chinese enjoy free medical care.</span></p>

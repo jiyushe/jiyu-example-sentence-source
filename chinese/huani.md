@@ -1,5 +1,7 @@
 # 花呢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huani.md)
+
 <p><span class="chinese">种什么花呢？</span><span class="english">What kinds of tweed?</span></p>
 
 <p><span class="chinese">为什么不给她送些花呢?。</span><span class="english">Whynot give her some flowers?</span></p>

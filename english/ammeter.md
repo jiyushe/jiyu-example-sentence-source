@@ -1,5 +1,7 @@
 # ammeter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ammeter.md)
+
 <p><span class="chinese">那个电表上的度数是多少?</span><span class="english">What does that ammeter read?</span></p>
 
 <p><span class="chinese">他十分经心在意地望着电流计。</span><span class="english">He was very attentive to the ammeter.</span></p>

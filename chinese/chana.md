@@ -1,5 +1,7 @@
 # 刹那
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chana.md)
+
 <p><span class="chinese">永恒宁非是刹那时光。</span><span class="english">And eternity in an hour.</span></p>
 
 <p><span class="chinese">在刹那生命可以精彩。</span><span class="english">And in shart measures life may perfect be.</span></p>

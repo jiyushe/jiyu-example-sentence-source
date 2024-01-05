@@ -1,5 +1,7 @@
 # 伏击
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuji.md)
+
 <p><span class="chinese">他们伏击入侵者。</span><span class="english">They ambushed the invaders.</span></p>
 
 <p><span class="chinese">匪徒伏击野营者。</span><span class="english">The gang bushwhacked the campers.</span></p>

@@ -1,5 +1,7 @@
 # johnston
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/johnston.md)
+
 <p><span class="chinese">我想出去，庄士敦先生！</span><span class="english">I want to go out , Mr, Johnston !</span></p>
 
 <p><span class="chinese">税务庄街道办事处驻河联北街。</span><span class="english">The tax office in Johnston Street North River Alliance.</span></p>

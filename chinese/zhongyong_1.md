@@ -1,5 +1,7 @@
 # 中用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongyong_1.md)
+
 <p><span class="chinese">他膀喜欢在说话中用比喻。</span><span class="english">He likes to talk in similitude.</span></p>
 
 <p><span class="chinese">老妇人说她年纪大了，不中用了。</span><span class="english">The old lady said she was lamed by age.</span></p>

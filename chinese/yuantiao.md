@@ -1,5 +1,7 @@
 # 远眺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuantiao.md)
+
 <p><span class="chinese">并可远眺中央花园。</span><span class="english">And overlooking the central garden.</span></p>
 
 <p><span class="chinese">我将远眺这世界的无奈。</span><span class="english">I will overlook the inconveniences of the world.</span></p>

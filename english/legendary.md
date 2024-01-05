@@ -1,5 +1,7 @@
 # legendary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legendary.md)
+
 <p><span class="chinese">她是个传奇。</span><span class="english">She was legendary.</span></p>
 
 <p><span class="chinese">他可是个传奇式的人物哦。</span><span class="english">He was a legendary figure.</span></p>

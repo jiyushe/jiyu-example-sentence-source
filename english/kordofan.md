@@ -1,5 +1,7 @@
 # kordofan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kordofan.md)
+
 <p><span class="chinese">南科尔多凡省拥有苏丹北部大部分石油储备。</span><span class="english">South Kordofan holds most of northern Sudan's oil reserves.</span></p>
 
 <p><span class="chinese">联邦卫生部向世卫组织报告了南科尔多凡州的黄热病暴发。</span><span class="english">The Federal Ministry of Health reported to WHO an outbreak of yellow fever in the South Kordofan State.</span></p>

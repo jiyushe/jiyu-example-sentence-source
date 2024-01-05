@@ -1,5 +1,7 @@
 # urgent 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urgent.md)
+
 <p><span class="chinese">是急件吗？</span><span class="english">Is it urgent?</span></p>
 
 <p><span class="chinese">这件事很急。</span><span class="english">It's very urgent.</span></p>

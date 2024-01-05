@@ -1,5 +1,7 @@
 # ascertain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ascertain.md)
+
 <p><span class="chinese">共培养时间的确定。</span><span class="english">Ascertain of the time of co-culture.</span></p>
 
 <p><span class="chinese">我确定我没有说错话或是在开玩笑。</span><span class="english">I ascertain me misspeak or being joking.</span></p>

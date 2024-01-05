@@ -1,5 +1,7 @@
 # threshing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/threshing.md)
+
 <p><span class="chinese">我们同在打扫脱粒桨。</span><span class="english">On we sweep with threshing oar.</span></p>
 
 <p><span class="chinese">他们在谷仓打谷。</span><span class="english">They are threshing in the barn.</span></p>

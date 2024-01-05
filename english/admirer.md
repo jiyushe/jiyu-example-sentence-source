@@ -1,5 +1,7 @@
 # admirer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/admirer.md)
+
 <p><span class="chinese">娜塔莉有位神秘的爱慕者。</span><span class="english">Natalie has a secret admirer.</span></p>
 
 <p><span class="chinese">他宣称是拜伦的仰慕者。</span><span class="english">He claims to be an admirer of Byron.</span></p>

@@ -1,5 +1,7 @@
 # 人证
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renzheng.md)
+
 <p><span class="chinese">因为我们需要生命的人证。</span><span class="english">Because we need witnesses to our lives.</span></p>
 
 <p><span class="chinese">有一个人证有点倾向于在回答问题之前做冗长的解释。</span><span class="english">One witness rather tended to preface his replies with lengthy explanations.</span></p>

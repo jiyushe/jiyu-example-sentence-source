@@ -1,5 +1,7 @@
 # dishware
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dishware.md)
+
 <p><span class="chinese">我们的餐具。</span><span class="english">Our dishware.</span></p>
 
 <p><span class="chinese">你可以带自己的餐具去啊。</span><span class="english">You can bring your own dishware if you like.</span></p>

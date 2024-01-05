@@ -1,5 +1,7 @@
 # sickroom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sickroom.md)
+
 <p><span class="chinese">一群人重新涌入病房。</span><span class="english">A team of humans re- stream out into sickroom.</span></p>
 
 <p><span class="chinese">病房里有一个氧气瓶，以防万一。</span><span class="english">There is an oxygen cylinder in the sickroom in case.</span></p>

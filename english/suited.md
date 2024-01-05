@@ -1,5 +1,7 @@
 # suited
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suited.md)
+
 <p><span class="chinese">巴黎适合我。</span><span class="english">Paris suited me.</span></p>
 
 <p><span class="chinese">完全不适合化妆。</span><span class="english">Not suited to make-up at all.</span></p>

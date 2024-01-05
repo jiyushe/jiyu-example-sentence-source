@@ -1,5 +1,7 @@
 # 社员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sheyuan.md)
+
 <p><span class="chinese">贵社里有谁可以教育新社员？</span><span class="english">Who in your club can educate new members?</span></p>
 
 <p><span class="chinese">新社员无所不在，陶德曼说。</span><span class="english">New members are everywhere, Dochterman said.</span></p>

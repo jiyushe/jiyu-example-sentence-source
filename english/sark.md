@@ -1,5 +1,7 @@
 # sark
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sark.md)
+
 <p><span class="chinese">萨克岛是根西岛的属地。</span><span class="english">Sark is a dependency of Guernscy.</span></p>
 
 <p><span class="chinese">因为这个原因，卡蒂萨克号失去了领先的地位。</span><span class="english">Because of this, the Cutty Sark lost her lead.</span></p>

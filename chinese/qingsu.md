@@ -1,5 +1,7 @@
 # 倾诉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingsu.md)
+
 <p><span class="chinese">你静静地听他倾诉。</span><span class="english">and you listen to him.</span></p>
 
 <p><span class="chinese">如果向俗人把我们的爱情倾诉。</span><span class="english">To tell the laity our love.</span></p>

@@ -1,5 +1,7 @@
 # 支脉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhimai.md)
+
 <p><span class="chinese">山的支脉上似乎有它自己的小气候，是很冷的那种。</span><span class="english">Branch hill seems to have it's own micro-climate and it's a cold one.</span></p>
 
 <p><span class="chinese">如图所示，加州南海岸山脉中的圣塔露西亚支脉延伸入大瑟尔那多岩石的海岸线中。</span><span class="english">The Santa Lucia Range sprawls down to the rocky coastline in Big Sur, California.</span></p>

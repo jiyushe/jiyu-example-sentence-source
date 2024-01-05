@@ -1,5 +1,7 @@
 # farcical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/farcical.md)
+
 <p><span class="chinese">我选择小轮车比赛，不可思议的是它居然成为了奥运会比赛项目。</span><span class="english">I'm adopting the BMX event because it's farcical that it is in the Olympics.</span></p>
 
 <p><span class="chinese">大山用相声的形式讲述师傅姜昆在学英语的笑话。</span><span class="english">Dashan tells the story of his mentor Jiang Kun's farcical attempt at learning English.</span></p>

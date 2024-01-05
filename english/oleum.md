@@ -1,5 +1,7 @@
 # oleum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oleum.md)
+
 <p><span class="chinese">工况也包括了发烟硫酸。</span><span class="english">The operation conditions include oleum.</span></p>
 
 <p><span class="chinese">目的观察桉叶油的体外杀螨效果。</span><span class="english">Results Oleum eucalypti was highly powerful to kill D.</span></p>

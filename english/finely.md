@@ -1,5 +1,7 @@
 # finely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/finely.md)
+
 <p><span class="chinese">把洋葱切细。</span><span class="english">Chop an onion finely.</span></p>
 
 <p><span class="chinese">香菇切成小粒。</span><span class="english">Finely chop the mushroom.</span></p>

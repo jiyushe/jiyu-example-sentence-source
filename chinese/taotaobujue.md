@@ -1,5 +1,7 @@
 # 滔滔不绝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taotaobujue.md)
+
 <p><span class="chinese">这块儿可以滔滔不绝讲个半天</span><span class="english">One could go on and on here.</span></p>
 
 <p><span class="chinese">他还像从前一样滔滔不绝地说着话。</span><span class="english">He talked as volubly as ever.</span></p>

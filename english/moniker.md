@@ -1,5 +1,7 @@
 # moniker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moniker.md)
+
 <p><span class="chinese">脑残这个绰号更适合你。</span><span class="english">Brainless would be a more apt moniker for you.</span></p>
 
 <p><span class="chinese">每张照片都取名为“闭上你的双眼，和世界说永别。”</span><span class="english">Each bore the moniker "Close Your Eyes and Say Goodbye."</span></p>

@@ -1,5 +1,7 @@
 # renegotiate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/renegotiate.md)
+
 <p><span class="chinese">最坏的情况是，他们可能得重新协商此项交易。</span><span class="english">In a worst case scenario they might have to renegotiate the deal.</span></p>
 
 <p><span class="chinese">因为这些理由，郑仁哲说，他想就这项协定重新进行协商。</span><span class="english">For these reasons, Jung says he wants to renegotiate the agreement.</span></p>

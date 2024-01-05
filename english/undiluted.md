@@ -1,5 +1,7 @@
 # undiluted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undiluted.md)
+
 <p><span class="chinese">这可能会稀释好消息。</span><span class="english">That may not be undiluted good news.</span></p>
 
 <p><span class="chinese">洗涤剂不能被使用未稀释。</span><span class="english">Detergents must not be used undiluted.</span></p>

@@ -1,5 +1,7 @@
 # 未来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weilai.md)
+
 <p><span class="chinese">赢在未来！</span><span class="english">Win the Future!</span></p>
 
 <p><span class="chinese">它一点未来性都没有。</span><span class="english">It has no future.</span></p>

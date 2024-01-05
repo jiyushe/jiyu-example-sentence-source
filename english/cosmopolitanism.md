@@ -1,5 +1,7 @@
 # cosmopolitanism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cosmopolitanism.md)
+
 <p><span class="chinese">坚持某种乐观的概念，一个新的世界主义。</span><span class="english">A certain optimism adheres to the notion of a new cosmopolitanism.</span></p>
 
 <p><span class="chinese">你甚至会说互联网天生就是世界主义的。</span><span class="english">You might even say that the internet is cosmopolitanism by nature.</span></p>

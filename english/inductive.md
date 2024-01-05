@@ -1,5 +1,7 @@
 # inductive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inductive.md)
+
 <p><span class="chinese">好，演绎还是归纳？</span><span class="english">Okay, deductive or inductive?</span></p>
 
 <p><span class="chinese">你不能用事物的本身去定义事物。</span><span class="english">This is an inductive definition.</span></p>

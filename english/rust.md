@@ -1,5 +1,7 @@
 # rust
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rust.md)
+
 <p><span class="chinese">锈能够折断铁。</span><span class="english">Rust breaks iron.</span></p>
 
 <p><span class="chinese">脑子都要锈掉了。</span><span class="english">The brain to rust out.</span></p>

@@ -1,5 +1,7 @@
 # 声威
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengwei.md)
+
 <p><span class="chinese">上了年岁的人很有声威，遭到尊崇。</span><span class="english">The older person is very prestige, be respected.</span></p>
 
 <p><span class="chinese">他这样做了，公司很快就重振声威了。</span><span class="english">This he did, and again the company quickly rebounded.</span></p>

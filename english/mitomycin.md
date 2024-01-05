@@ -1,5 +1,7 @@
 # mitomycin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mitomycin.md)
+
 <p><span class="chinese">建立了丝裂霉素C的薄层扫描测定方法。</span><span class="english">TLC-densitometry of mitomycin C was established.</span></p>
 
 <p><span class="chinese">目的总结丝裂霉素C在眼科领域的应用现状。</span><span class="english">OBJECTIVE To review the applications of mitomycin C in ophthalmology.</span></p>

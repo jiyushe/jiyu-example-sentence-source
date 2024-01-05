@@ -1,5 +1,7 @@
 # susceptibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/susceptibility.md)
+
 <p><span class="chinese">易感性。</span><span class="english">Susceptibility.</span></p>
 
 <p><span class="chinese">什么机理导致了睡眠和患感冒的几率？</span><span class="english">What mechanisms might link sleep to cold susceptibility?</span></p>

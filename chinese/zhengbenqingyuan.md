@@ -1,5 +1,7 @@
 # 正本清源
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengbenqingyuan.md)
+
 <p><span class="chinese">你想学到正本清源的中医吗？</span><span class="english">Do you want to learn authentic Chinese medicine in native China?</span></p>
 
 <p><span class="chinese">值中国制定物权法之际，我们必须正本清源，树立正确的所有权观念。</span><span class="english">So we must know what's wrong and what's right and have a good notion of ownership.</span></p>

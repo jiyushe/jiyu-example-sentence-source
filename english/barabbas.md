@@ -1,5 +1,7 @@
 # barabbas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barabbas.md)
+
 <p><span class="chinese">释放巴拉巴给我们！</span><span class="english">Release Barabbas to us!</span></p>
 
 <p><span class="chinese">当时，有一个出名的囚犯叫巴拉巴。</span><span class="english">And they had then a notable prisoner, called Barabbas.</span></p>

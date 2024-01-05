@@ -1,5 +1,7 @@
 # footboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/footboard.md)
+
 <p><span class="chinese">踏板技巧是一个重要又容易被忽视的问题。</span><span class="english">The skill of the footboard is an important and easy to be ignored question.</span></p>
 
 <p><span class="chinese">轮式专用机械车运行过程中，允许在脚踏板上站人。</span><span class="english">When a wheeled machinery moves, people are allowed to stand on the footboard.</span></p>

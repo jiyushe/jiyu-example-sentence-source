@@ -1,5 +1,7 @@
 # 乃是
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naishi.md)
+
 <p><span class="chinese">并且心乃是不死的存在。</span><span class="english">Furthermore, mind is immortal.</span></p>
 
 <p><span class="chinese">此非土聚乃是殊妙大宝塔耳。</span><span class="english">It is a wonderful great Stupa.</span></p>

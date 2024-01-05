@@ -1,5 +1,7 @@
 # chlorhexidine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chlorhexidine.md)
+
 <p><span class="chinese">本发明所用的碱是洗必泰本身。</span><span class="english">The base used in accordance with the invention is chlorhexidine itself.</span></p>
 
 <p><span class="chinese">目的采用RP-HPLC法测定创口贴吸水垫中葡萄糖酸氯己定的含量。</span><span class="english">OBJECTIVE To determine Chlorhexidine gluconate in Absorbent wound pad paste by RP-HPLC.</span></p>

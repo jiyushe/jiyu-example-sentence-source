@@ -1,5 +1,7 @@
 # santana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/santana.md)
+
 <p><span class="chinese">她上星期买了一辆桑塔那汽车。</span><span class="english">She bought a Santana last week.</span></p>
 
 <p><span class="chinese">后来他又买了第二辆车，是一架大众桑塔纳。</span><span class="english">He has since bought a second car, a VW Santana.</span></p>

@@ -1,5 +1,7 @@
 # glee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glee.md)
+
 <p><span class="chinese">脚步欢跳时，长发不再起</span><span class="english">My hair no longer bounds to my foot’s glee</span></p>
 
 <p><span class="chinese">雀跃，也不再象姑娘们，在鬓发间。</span><span class="english">My hair no longer bounds to my foot's glee.</span></p>

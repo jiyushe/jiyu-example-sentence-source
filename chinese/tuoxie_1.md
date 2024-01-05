@@ -1,5 +1,7 @@
 # 拖鞋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuoxie_1.md)
+
 <p><span class="chinese">不久前她还有一双拖鞋可穿。</span><span class="english">Some time ago she had slippers.</span></p>
 
 <p><span class="chinese">再做一双有衬里的御寒拖鞋</span><span class="english">Fair lined slippers for the cold</span></p>

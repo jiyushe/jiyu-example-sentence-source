@@ -1,5 +1,7 @@
 # lengthy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lengthy.md)
+
 <p><span class="chinese">漫长的编辑-编译-调试周期。</span><span class="english">Lengthy edit-compile-debug cycle.</span></p>
 
 <p><span class="chinese">那确实是相当冗长的一张纸。</span><span class="english">It was a rather lengthy piece of paper.</span></p>

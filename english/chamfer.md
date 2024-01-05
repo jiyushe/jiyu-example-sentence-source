@@ -1,5 +1,7 @@
 # chamfer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chamfer.md)
+
 <p><span class="chinese">酒槽鼻能治好的吗？</span><span class="english">Can wine chamfer bazoo cure?</span></p>
 
 <p><span class="chinese">拖到绘图页上。右击可设置切角角度。</span><span class="english">Drag onto the page. Right-click to set chamfer angle.</span></p>

@@ -1,5 +1,7 @@
 # gaming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gaming.md)
+
 <p><span class="chinese">MMO游戏非常流行。</span><span class="english">MMO gaming is hugely popular.</span></p>
 
 <p><span class="chinese">这里有成排的赌桌。</span><span class="english">There are rows of gaming tables.</span></p>

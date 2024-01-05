@@ -1,5 +1,7 @@
 # experiential
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/experiential.md)
+
 <p><span class="chinese">像其他人学习经验。</span><span class="english">Experiential learning from others.</span></p>
 
 <p><span class="chinese">经验阻力系数法。</span><span class="english">Experiential drag coefficient method.</span></p>

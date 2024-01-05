@@ -1,5 +1,7 @@
 # mitigation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mitigation.md)
+
 <p><span class="chinese">这就是定期获得收益和风险规避。</span><span class="english">That's coupon clipping and risk mitigation.</span></p>
 
 <p><span class="chinese">减排和适应必须携手共进。</span><span class="english">Mitigation and adaptation must go hand in hand.</span></p>

@@ -1,5 +1,7 @@
 # sanitation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sanitation.md)
+
 <p><span class="chinese">水和卫生设施如何？</span><span class="english">What about water and sanitation?</span></p>
 
 <p><span class="chinese">提高面包店的卫生、整洁度。</span><span class="english">Improve sanitation at shop level.</span></p>

@@ -1,5 +1,7 @@
 # 冒牌货
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maopaihuo.md)
+
 <p><span class="chinese">如果你使用了我的电脑，就会觉得你自己的是个冒牌货。</span><span class="english">If you used my computer, you would think yours was fake.</span></p>
 
 <p><span class="chinese">不过，那里卖的设计师品牌，绝大多数都是冒牌货。</span><span class="english">But the majority of designer products sold in Iran are fake.</span></p>

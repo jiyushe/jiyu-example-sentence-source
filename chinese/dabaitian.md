@@ -1,5 +1,7 @@
 # 大白天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dabaitian.md)
+
 <p><span class="chinese">那辆汽车大白天被人偷走了。</span><span class="english">The car was stolen in broad daylight.</span></p>
 
 <p><span class="chinese">这大白天的你怎么净说梦话呀？</span><span class="english">Are you dreaming in the broad day light?</span></p>

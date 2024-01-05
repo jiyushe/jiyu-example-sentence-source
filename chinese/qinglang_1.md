@@ -1,5 +1,7 @@
 # 晴朗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinglang_1.md)
+
 <p><span class="chinese">今天天气很好，很晴朗。</span><span class="english">It’s nice and sunny today.</span></p>
 
 <p><span class="chinese">看那晴朗无云的天空！</span><span class="english">Look at this cloudless sky!</span></p>

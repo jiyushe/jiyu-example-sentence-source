@@ -1,5 +1,7 @@
 # homeless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homeless.md)
+
 <p><span class="chinese">他们都是未被计入官方统计的“隐性无家可归”人口。</span><span class="english">They are the hidden homeless.</span></p>
 
 <p><span class="chinese">如何帮助无家的流浪人?。</span><span class="english">How to Help a Homeless Person?</span></p>

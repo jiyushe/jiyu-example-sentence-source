@@ -1,5 +1,7 @@
 # 死死
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sisi_2.md)
+
 <p><span class="chinese">伦纳德死死盯着她。</span><span class="english">Leonard stared back at her.</span></p>
 
 <p><span class="chinese">总之，我的目标是生生死死不为人所知。</span><span class="english">Enough, it is my purpose to live and die unknown.</span></p>

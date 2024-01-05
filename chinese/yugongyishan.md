@@ -1,5 +1,7 @@
 # 愚公移山
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yugongyishan.md)
+
 <p><span class="chinese">有一种执着，叫愚公移山。</span><span class="english">There is a belief, called Jingwei.</span></p>
 
 <p><span class="chinese">愚公移山是北京最为经典的场地。</span><span class="english">Yugong Yishan is a Beijing classic.</span></p>

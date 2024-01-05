@@ -1,5 +1,7 @@
 # laurence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laurence.md)
+
 <p><span class="chinese">正如劳伦斯解释的那样，这一切就是要让数据起作用。</span><span class="english">As Laurence explains, it’s all about making the data work.</span></p>
 
 <p><span class="chinese">“全都不对，是劳伦斯老先生送来的，”马奇太太答道。</span><span class="english">"All wrong. Old Mr. Laurence sent it, " replied Mrs. March.</span></p>

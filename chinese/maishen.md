@@ -1,5 +1,7 @@
 # 卖身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maishen.md)
+
 <p><span class="chinese">男人可以去乞食，女人就得去卖身。</span><span class="english">Man begs, woman sells.</span></p>
 
 <p><span class="chinese">你也像凯迪那样卖身了么?。</span><span class="english">Did you sell your body like Candy?</span></p>

@@ -1,5 +1,7 @@
 # dural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dural.md)
+
 <p><span class="chinese">里根脑血肿的部位处于硬脑膜与脑实质之间。</span><span class="english">The hematoma lay between the dural and the brain.</span></p>
 
 <p><span class="chinese">硬脑膜强化，伴有邻近的鼻旁窦强化。</span><span class="english">Dural enhancement with enhancement in adjacent paranasal sinus.</span></p>

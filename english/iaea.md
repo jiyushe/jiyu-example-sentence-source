@@ -1,5 +1,7 @@
 # iaea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iaea.md)
+
 <p><span class="chinese">世卫组织和原子能机构在抗击癌症方面负有共同的使命，两者相辅相成。</span><span class="english">WHO and the IAEA have complementary mandates when it comes to fighting cancer.</span></p>
 
 <p><span class="chinese">天野之弥说，国际原子能机构将在10月间，和叙利亚官员就这项问题举行会晤。</span><span class="english">Amano said IAEA staff will meet with Syrian officials on the matter in October.</span></p>

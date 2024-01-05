@@ -1,5 +1,7 @@
 # feud
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feud.md)
+
 <p><span class="chinese">他们抛弃旧怨。</span><span class="english">They buried the feud.</span></p>
 
 <p><span class="chinese">侮辱只是起到了加剧长期不和的作用。</span><span class="english">Insults only served to inflame the feud.</span></p>

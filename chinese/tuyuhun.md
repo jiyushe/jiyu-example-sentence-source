@@ -1,5 +1,7 @@
 # 吐谷浑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuyuhun.md)
+
 <p><span class="chinese">吐谷浑的首领阿豺有二十个儿子。</span><span class="english">A'cai, chief of Tu Gu Hun, had 20 sons.</span></p>
 
 <p><span class="chinese">吐谷浑与北魏、隋朝和唐朝的关系。</span><span class="english">Tuyguhun with the Northern Wei, Sui and Tang Dynasty relationship.</span></p>

@@ -1,5 +1,7 @@
 # 象征
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangzheng_1.md)
+
 <p><span class="chinese">金钱只是一个象征。</span><span class="english">It is only a symbol.</span></p>
 
 <p><span class="chinese">梦具有象征意义。</span><span class="english">Dreams had symbolism.</span></p>

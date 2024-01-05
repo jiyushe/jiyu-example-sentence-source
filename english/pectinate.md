@@ -1,5 +1,7 @@
 # pectinate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pectinate.md)
+
 <p><span class="chinese">鲸鱼用?们栉齿状的牙齿来捉浮游生物。</span><span class="english">Whales use their pectinate teeth to gather plankton.</span></p>
 
 <p><span class="chinese">鲸鱼用牠们栉齿状的牙齿来捉浮游生物。</span><span class="english">Whales use their pectinate teeth to gather plankton.</span></p>

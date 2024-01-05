@@ -1,5 +1,7 @@
 # avenger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avenger.md)
+
 <p><span class="chinese">这里的另一个格鲁曼飞机，隧道掘进机复仇者。</span><span class="english">Here's another Grumman aircraft, the TBM Avenger.</span></p>
 
 <p><span class="chinese">成为复仇者给他指明一条道路，一个赎救自我的机会。</span><span class="english">Being an Avenger gives Clint his path and redeems him.</span></p>

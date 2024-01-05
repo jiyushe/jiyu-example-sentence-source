@@ -1,5 +1,7 @@
 # 横跨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hengkua.md)
+
 <p><span class="chinese">一座桥横跨在运河之上。</span><span class="english">A bridge arches the canal.</span></p>
 
 <p><span class="chinese">一座桥横跨小河。</span><span class="english">A bridge spanned the rill.</span></p>

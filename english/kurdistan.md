@@ -1,5 +1,7 @@
 # kurdistan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kurdistan.md)
+
 <p><span class="chinese">他说，最后多数毯子被送往卢安达和库德斯坦。</span><span class="english">Much of it, he said, ended up in Rwanda and Kurdistan.</span></p>
 
 <p><span class="chinese">我们在伊朗库尔德斯坦一个镇上的同一所学校任教。</span><span class="english">We taught in the same school in a town in Iranian Kurdistan.</span></p>

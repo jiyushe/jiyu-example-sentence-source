@@ -1,5 +1,7 @@
 # salubrious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salubrious.md)
+
 <p><span class="chinese">他们住在一个非常有益絔档牡厍?。</span><span class="english">They live in a very salubrious area.</span></p>
 
 <p><span class="chinese">他们居住在清洁的环境里。</span><span class="english">They live in a salubrious neighbourhood.</span></p>

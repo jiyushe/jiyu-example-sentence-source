@@ -1,5 +1,7 @@
 # telstar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telstar.md)
+
 <p><span class="chinese">通讯卫星，首枚电视转播卫星被发射。</span><span class="english">Telstar , the first satellite to carry TV broadcasts was launched.</span></p>
 
 <p><span class="chinese">泰事达也是实验室冻干机前三大生产商之一。</span><span class="english">TELSTAR is also one of the 3 leading manufacturers of laboratory freeze dryers.</span></p>

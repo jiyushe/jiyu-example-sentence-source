@@ -1,5 +1,7 @@
 # 压缩空气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yasuokongqi.md)
+
 <p><span class="chinese">压缩空气也很有用。</span><span class="english">Compressed air will work, too.</span></p>
 
 <p><span class="chinese">压缩空气系统和制氮机。</span><span class="english">Compressed air systems, and nitrogen.</span></p>

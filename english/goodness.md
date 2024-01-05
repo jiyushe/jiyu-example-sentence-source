@@ -1,5 +1,7 @@
 # goodness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goodness.md)
+
 <p><span class="chinese">恩慈是体恤的爱。</span><span class="english">Goodness is love's character.</span></p>
 
 <p><span class="chinese">宁静，美好，欢乐。</span><span class="english">Peace and goodness and jollity.</span></p>

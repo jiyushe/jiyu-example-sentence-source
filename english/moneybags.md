@@ -1,5 +1,7 @@
 # moneybags
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moneybags.md)
+
 <p><span class="chinese">您想成为“大富翁”吗？</span><span class="english">Do you want to be a moneybags ?</span></p>
 
 <p><span class="chinese">阔佬，你有女友了吗？</span><span class="english">You have a girlfriend, moneybags?</span></p>

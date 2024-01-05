@@ -1,5 +1,7 @@
 # fluoroscopy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluoroscopy.md)
+
 <p><span class="chinese">你需要透视检查。</span><span class="english">You need to have a fluoroscopy done.</span></p>
 
 <p><span class="chinese">造影是使用透视查看心血管系统。</span><span class="english">Angiography is the use of fluoroscopy to view the cardiovascular system.</span></p>

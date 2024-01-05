@@ -1,5 +1,7 @@
 # 毛驴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maolv.md)
+
 <p><span class="chinese">小毛驴在那里？</span><span class="english">Where is donkey?</span></p>
 
 <p><span class="chinese">小毛驴，小毛驴，我求求你。</span><span class="english">Donkey, donkey. I beg you.</span></p>

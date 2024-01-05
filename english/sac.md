@@ -1,5 +1,7 @@
 # sac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sac.md)
+
 <p><span class="chinese">成熟胚囊内具七个细胞。</span><span class="english">The mature embryo sac has seven cells.</span></p>
 
 <p><span class="chinese">卵黄囊逐渐被血管化了。</span><span class="english">The yolk sac is gradually vascularized.</span></p>

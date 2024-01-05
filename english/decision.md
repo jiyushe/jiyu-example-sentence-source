@@ -1,5 +1,7 @@
 # decision 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decision.md)
+
 <p><span class="chinese">我的决定？</span><span class="english">My decision?</span></p>
 
 <p><span class="chinese">这是他们的决定。</span><span class="english">It is their decision.</span></p>

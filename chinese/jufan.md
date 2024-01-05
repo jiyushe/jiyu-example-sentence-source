@@ -1,5 +1,7 @@
 # 举凡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jufan.md)
+
 <p><span class="chinese">举凡最美之人，其部位比例，必有异于常人之处。</span><span class="english">There is no excellent beauty that hath not some strangeness in the proportion.</span></p>
 
 <p><span class="chinese">举凡交流的层级、交流的法令、交流的事项，都可更加开放。</span><span class="english">Such as the level, regulations and items in respect of intercourse could open more.</span></p>

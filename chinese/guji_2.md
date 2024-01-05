@@ -1,5 +1,7 @@
 # 古迹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guji_2.md)
+
 <p><span class="chinese">汉代到清代的各式古迹</span><span class="english">Various Han through Qing Monuments.</span></p>
 
 <p><span class="chinese">伯沙对伦敦的古迹产生了很大的热情。</span><span class="english">There are a lot of historic spots in China.</span></p>

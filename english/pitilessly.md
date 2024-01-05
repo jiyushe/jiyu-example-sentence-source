@@ -1,5 +1,7 @@
 # pitilessly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pitilessly.md)
+
 <p><span class="chinese">空气冷冰冰地，我心里已经开始怀疑自己。</span><span class="english">The air was pitilessly raw and already my heart misgave me.</span></p>
 
 <p><span class="chinese">所有那些逾越界限的人们都将受到她无情的鞭笞与惩罚。</span><span class="english">All those who overstep the limit are pitilessly punished by her.</span></p>

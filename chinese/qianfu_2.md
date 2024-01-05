@@ -1,5 +1,7 @@
 # 纤夫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianfu_2.md)
+
 <p><span class="chinese">真正的纤夫！</span><span class="english">Real boat tracker !</span></p>
 
 <p><span class="chinese">纤夫们在拖拉一只船。</span><span class="english">The towers are dragging a ship.</span></p>

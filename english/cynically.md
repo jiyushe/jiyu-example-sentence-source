@@ -1,5 +1,7 @@
 # cynically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cynically.md)
+
 <p><span class="chinese">这一点有时候私下里不无嘲讽地承认。</span><span class="english">In private this was sometimes cynically admitted.</span></p>
 
 <p><span class="chinese">你和我在一起的时候怀疑过会找到有更好的人吗？</span><span class="english">Were you cynically staying with me till you found someone better?</span></p>

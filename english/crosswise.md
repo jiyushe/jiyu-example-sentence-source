@@ -1,5 +1,7 @@
 # crosswise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crosswise.md)
+
 <p><span class="chinese">将大葱斜切成3-英寸长的段。</span><span class="english">Cut crosswise into3- inch pieces.</span></p>
 
 <p><span class="chinese">将面团切成大小相等的四块。</span><span class="english">Cut the dough crosswise into four equal pieces.</span></p>

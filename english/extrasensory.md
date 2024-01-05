@@ -1,5 +1,7 @@
 # extrasensory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extrasensory.md)
+
 <p><span class="chinese">本博士八年来一直默默从事超感官知觉试验。</span><span class="english">Dr. Bem has been quietly testing extrasensory perception claims for 8 years.</span></p>
 
 <p><span class="chinese">假如你去问一位心理学家，他可能会说这是一种超感知觉，或者称之为“ESP”。</span><span class="english">If you asked a parapsychologist, he might say you have extrasensory perception, or ESP.</span></p>

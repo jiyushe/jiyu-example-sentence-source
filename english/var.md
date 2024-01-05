@@ -1,5 +1,7 @@
 # var
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/var.md)
+
 <p><span class="chinese">对福建茶秆竹的土壤水文效应进行了分析研究。</span><span class="english">The soil hydrology effect of Pseudosasa amabilis var.</span></p>
 
 <p><span class="chinese">均在常规体外循环和心脏停搏下手术，共架血管桥101支。</span><span class="english">The total number or vessel grafts wore 101. 10 PTS had VAR.</span></p>

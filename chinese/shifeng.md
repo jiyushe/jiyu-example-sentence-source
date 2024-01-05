@@ -1,5 +1,7 @@
 # 侍奉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shifeng.md)
+
 <p><span class="chinese">我们每天都侍奉黑魔王。</span><span class="english">We serve the Dark Lord every day.</span></p>
 
 <p><span class="chinese">你们不能又侍奉神，又侍奉玛门。</span><span class="english">You cannot serve both God and Money.</span></p>

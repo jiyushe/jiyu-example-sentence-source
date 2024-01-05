@@ -1,5 +1,7 @@
 # 豇豆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangdou.md)
+
 <p><span class="chinese">豇豆也被称为黑眼豆。</span><span class="english">Cowpeas are also called black-eyed peas.</span></p>
 
 <p><span class="chinese">与花生相比豇豆有好几种优点。</span><span class="english">Cowpeas have a number of advantages over groundnuts.</span></p>

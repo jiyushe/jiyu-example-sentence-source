@@ -1,5 +1,7 @@
 # 植物群落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiwuqunluo.md)
+
 <p><span class="chinese">多层次植物群落。</span><span class="english">Multi-tier plant community.</span></p>
 
 <p><span class="chinese">澎湖群岛之植物群落与植物区系。</span><span class="english">The vegetation and flora of the Pescadore Islands.</span></p>

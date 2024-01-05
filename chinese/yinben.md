@@ -1,5 +1,7 @@
 # 印本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinben.md)
+
 <p><span class="chinese">你可以在这里阅读的论文预印本。</span><span class="english">You can read a preprint of the paper here.</span></p>
 
 <p><span class="chinese">感谢您将你的否定论文的预印本发给我。</span><span class="english">Thank you for sending me the preprint of your Disproof.</span></p>

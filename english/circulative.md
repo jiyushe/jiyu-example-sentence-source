@@ -1,5 +1,7 @@
 # circulative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/circulative.md)
+
 <p><span class="chinese">母液可以循环使用，溶剂可以回收。</span><span class="english">The recovered solvent and mother solution can be circulative used.</span></p>
 
 <p><span class="chinese">把这种循环性的发展视为一种无重量的经济会更恰当一些。</span><span class="english">Regard development of this kind of circulative as a kind of imponderable economy the meeting is a few more appropriate.</span></p>

@@ -1,5 +1,7 @@
 # dichotomous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dichotomous.md)
+
 <p><span class="chinese">花序二歧的聚伞花序。</span><span class="english">Inflorescences a dichotomous cyme.</span></p>
 
 <p><span class="chinese">二分类数据不应作计数资料处理。</span><span class="english">Count data should not be treated they are dichotomous data.</span></p>

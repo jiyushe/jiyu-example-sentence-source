@@ -1,5 +1,7 @@
 # 上午
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangwu.md)
+
 <p><span class="chinese">这个上午过去了。</span><span class="english">So the forenoon passed.</span></p>
 
 <p><span class="chinese">他今天上午迟到了。</span><span class="english">He was behind this morning.</span></p>

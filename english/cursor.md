@@ -1,5 +1,7 @@
 # cursor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cursor.md)
+
 <p><span class="chinese">通过游标进行循环。</span><span class="english">Loop through the cursor.</span></p>
 
 <p><span class="chinese">按衬垫移动光标。</span><span class="english">Press D-pad to move cursor.</span></p>

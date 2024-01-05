@@ -1,5 +1,7 @@
 # 虚设
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xushe.md)
+
 <p><span class="chinese">他的风范与野心标志着他作为一个不真实的黑人男子，一个虚设。</span><span class="english">His demeanor and ambition mark him as an inauthentic black man, a sellout.</span></p>
 
 <p><span class="chinese">走私很猖獗，政府的禁运令行同虚设。</span><span class="english">Smuggling is rampant so the embargo imposed by the government seems useless.</span></p>

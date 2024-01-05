@@ -1,5 +1,7 @@
 # compunction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compunction.md)
+
 <p><span class="chinese">你曾经为后悔而付出代价吗？</span><span class="english">Have you even pay out expense for compunction?</span></p>
 
 <p><span class="chinese">把你的信心和责备分开。</span><span class="english">Separate your compunction from your confidence.</span></p>

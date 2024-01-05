@@ -1,5 +1,7 @@
 # 激昂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiang_1.md)
+
 <p><span class="chinese">但是，这景象似乎让他激昂。</span><span class="english">But this seems to make him giddy.</span></p>
 
 <p><span class="chinese">教练的话使队员们的情绪激昂起来。</span><span class="english">The coachs talk heated the team members.</span></p>

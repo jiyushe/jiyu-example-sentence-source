@@ -1,5 +1,7 @@
 # 闻风丧胆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenfengsangdan.md)
+
 <p><span class="chinese">核辐射的无形性和潜伏性令人类闻风丧胆。</span><span class="english">Nuclear radiation, invisible and insidious, gives us the creeps.</span></p>
 
 <p><span class="chinese">不列颠亲卫骑兵是精锐的重骑兵部队，他们锋利的军刀令敌人闻风丧胆。</span><span class="english">Horse Guards are an elite heavy cavalry unit, with a fierce reputation and deadly sabres.</span></p>

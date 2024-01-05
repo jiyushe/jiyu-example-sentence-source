@@ -1,5 +1,7 @@
 # 招贴画
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaotiehua.md)
+
 <p><span class="chinese">我喜欢的一幅招贴画上面写有，“生活是个测验。</span><span class="english">One of my favorite posters says, “ Life is a test.</span></p>
 
 <p><span class="chinese">但是礼品店里有很多招贴画、明信片及书籍。</span><span class="english">But, our gift shop has lots of posters, postcards and books.</span></p>

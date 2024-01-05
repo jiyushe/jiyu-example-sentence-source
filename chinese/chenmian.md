@@ -1,5 +1,7 @@
 # 沉湎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenmian.md)
+
 <p><span class="chinese">他们常常沉湎于酒。</span><span class="english">They often deal on wine.</span></p>
 
 <p><span class="chinese">它所沉湎的，正是我们最惧怕的。</span><span class="english">It indulges in what we fear the most.</span></p>

@@ -1,5 +1,7 @@
 # phonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phonic.md)
+
 <p><span class="chinese">语音知识的功能相当类似。</span><span class="english">Phonic knowledge operates quite similarly.</span></p>
 
 <p><span class="chinese">我一定要好好的运用音标，来解决不会的单词。</span><span class="english">I must learn well phonic tone in order to unerstand unknown words.</span></p>

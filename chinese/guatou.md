@@ -1,5 +1,7 @@
 # 寡头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guatou.md)
+
 <p><span class="chinese">两个寡头政权都没能持续哪怕一年。</span><span class="english">Neither oligarchic regime lasted even as long as a year.</span></p>
 
 <p><span class="chinese">北方有寡头的趋势,南方也一样</span><span class="english">The North had budding oligarchies, just like the South did.</span></p>

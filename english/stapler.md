@@ -1,5 +1,7 @@
 # stapler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stapler.md)
+
 <p><span class="chinese">你有钉书机吗？</span><span class="english">Have you get a stapler?</span></p>
 
 <p><span class="chinese">我可以借你的订书机吗?。</span><span class="english">May I borrow your stapler ?</span></p>

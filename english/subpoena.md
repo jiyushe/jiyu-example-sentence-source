@@ -1,5 +1,7 @@
 # subpoena
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subpoena.md)
+
 <p><span class="chinese">就是传票。</span><span class="english">It is known as the subpoena.</span></p>
 
 <p><span class="chinese">人民法院会贴出告示传唤被告。</span><span class="english">People court can stick an annunciate subpoena the accused.</span></p>

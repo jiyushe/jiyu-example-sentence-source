@@ -1,5 +1,7 @@
 # buzz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buzz.md)
+
 <p><span class="chinese">蜜蜂嗡嗡叫，忙着去赶工。</span><span class="english">Buzz bee, busy work.</span></p>
 
 <p><span class="chinese">我们生活在忙乱中。</span><span class="english">We live in the buzz.</span></p>

@@ -1,5 +1,7 @@
 # 国计民生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guojiminsheng.md)
+
 <p><span class="chinese">食品安全，关系到国计民生。</span><span class="english">Food safety is related to people's livelihood.</span></p>
 
 <p><span class="chinese">电力行业是一个关系到国计民生的基础行业。</span><span class="english">Food safety is a major event in people's livelihood.</span></p>

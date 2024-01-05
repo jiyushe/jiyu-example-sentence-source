@@ -1,5 +1,7 @@
 # 音容笑貌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinrongxiaomao.md)
+
 <p><span class="chinese">他的音容笑貌依然萦绕我们的耳际。</span><span class="english">His happy laughter still rings in our ears.</span></p>
 
 <p><span class="chinese">我们记得他们的音容笑貌，他们的歌声，他们的梦想。</span><span class="english">We knew their smiles, their songs, their dreams.</span></p>

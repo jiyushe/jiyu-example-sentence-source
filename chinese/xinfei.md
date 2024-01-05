@@ -1,5 +1,7 @@
 # 心扉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinfei.md)
+
 <p><span class="chinese">向他们打开心扉。</span><span class="english">Open up to others.</span></p>
 
 <p><span class="chinese">所以，敞开你的心扉吧。</span><span class="english">So open your heart.</span></p>

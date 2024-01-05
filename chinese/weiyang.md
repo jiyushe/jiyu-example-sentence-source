@@ -1,5 +1,7 @@
 # 喂养
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiyang.md)
+
 <p><span class="chinese">她喂养着一只猫。</span><span class="english">She has a cat.</span></p>
 
 <p><span class="chinese">如果可以就人乳喂养。</span><span class="english">Breast-feed if you can.</span></p>

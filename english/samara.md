@@ -1,5 +1,7 @@
 # samara
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/samara.md)
+
 <p><span class="chinese">果一核果，浆果，蒴果，或。</span><span class="english">Fruit a drupe, berry, capsule, or samara.</span></p>
 
 <p><span class="chinese">萨马拉地区开始运行第一个轨道巴士。</span><span class="english">There is the first rail bus in Samara oblast.</span></p>

@@ -1,5 +1,7 @@
 # misjudge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misjudge.md)
+
 <p><span class="chinese">现在轮到他低估自己的对手了。</span><span class="english">It was now his turn to misjudge his opponent.</span></p>
 
 <p><span class="chinese">她才十岁，但决不能小瞧她。</span><span class="english">She is only ten, but you must not misjudge her.</span></p>

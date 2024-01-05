@@ -1,5 +1,7 @@
 # hepatica
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hepatica.md)
+
 <p><span class="chinese">未发现对肝片吸虫感染有高抵抗力的品种。</span><span class="english">Sheep breeds with high resistance against Fasciola hepatica has not been found.</span></p>
 
 <p><span class="chinese">目的调查大理地区鼠类动物肝毛细线虫感染的情况。</span><span class="english">Objective To investigate the infection rate of Capillaria hepatica in rats in Dali.</span></p>

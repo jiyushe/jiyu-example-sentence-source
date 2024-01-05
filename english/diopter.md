@@ -1,5 +1,7 @@
 # diopter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diopter.md)
+
 <p><span class="chinese">CCT随近视眼患者屈光度数的增加有变薄的趋势。</span><span class="english">CCT will become thicker and thicker as myopia diopter increases.</span></p>
 
 <p><span class="chinese">学生远视屈光度逐渐下降，下降幅度随年龄组段的递增而减少。</span><span class="english">Following the age group increase the range of diopter declining is decrease.</span></p>

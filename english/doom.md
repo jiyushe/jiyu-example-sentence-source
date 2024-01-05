@@ -1,5 +1,7 @@
 # doom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doom.md)
+
 <p><span class="chinese">他的劫数已定。</span><span class="english">His doom is sealed.</span></p>
 
 <p><span class="chinese">汤姆不愿意坐以待毙。</span><span class="english">Tom would not await his doom.</span></p>

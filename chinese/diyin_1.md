@@ -1,5 +1,7 @@
 # 低音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diyin_1.md)
+
 <p><span class="chinese">现在是低音部</span><span class="english">Now the basses.</span></p>
 
 <p><span class="chinese">能唱出来低音吗？</span><span class="english">Can you sing that bass?</span></p>

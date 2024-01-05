@@ -1,5 +1,7 @@
 # 相形见绌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangxingjianchu.md)
+
 <p><span class="chinese">本使他的同事们都相形见绌。</span><span class="english">Ben overshadows all his colleagues.</span></p>
 
 <p><span class="chinese">她使所有的竞争者都相形见绌。</span><span class="english">She outshines all of other competitors.</span></p>

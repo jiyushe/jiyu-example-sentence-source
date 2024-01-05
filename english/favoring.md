@@ -1,5 +1,7 @@
 # favoring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/favoring.md)
+
 <p><span class="chinese">喜欢红色来自太阳崇拜</span><span class="english">Favoring red comes from worship of the sun</span></p>
 
 <p><span class="chinese">州长公开表明过他赞成修筑那新公路。</span><span class="english">The governor is on record as favoring the new highway.</span></p>

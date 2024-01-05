@@ -1,5 +1,7 @@
 # craniocerebral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/craniocerebral.md)
+
 <p><span class="chinese">颅脑损伤是颌面骨折最常见的合并伤。</span><span class="english">Craniocerebral injury is the most common associated injure.</span></p>
 
 <p><span class="chinese">全部颅脑爆炸伤动物均合并有中度以下的肺脏冲击伤。</span><span class="english">All the animals of craniocerebral injury combined with lung blast injury.</span></p>

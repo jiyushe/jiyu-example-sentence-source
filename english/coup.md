@@ -1,5 +1,7 @@
 # coup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coup.md)
+
 <p><span class="chinese">这真是一个便于调试的高招！</span><span class="english">A real coup for debugging!</span></p>
 
 <p><span class="chinese">代比在1990年的一次政变中，夺得政权。</span><span class="english">Deby who took power in a coup in 1990.</span></p>

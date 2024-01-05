@@ -1,5 +1,7 @@
 # blasphemy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blasphemy.md)
+
 <p><span class="chinese">口出恶言，加禁一周。</span><span class="english">Add another week for blasphemy.</span></p>
 
 <p><span class="chinese">这僭妄的话，现在你们都听见了。</span><span class="english">Look, now you have heard the blasphemy</span></p>

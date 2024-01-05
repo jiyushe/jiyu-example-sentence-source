@@ -1,5 +1,7 @@
 # sleeve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sleeve.md)
+
 <p><span class="chinese">别用袖子擦鼻子!</span><span class="english">Don't sleeve your nose!</span></p>
 
 <p><span class="chinese">鸡英上袖位打褶。</span><span class="english">Pleated cuff at sleeve join.</span></p>

@@ -1,5 +1,7 @@
 # pos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pos.md)
+
 <p><span class="chinese">请把借阅卡放在POS机上。</span><span class="english">Please put your card on the POS.</span></p>
 
 <p><span class="chinese">匹配方式是否应根据职位而有所不同？</span><span class="english">Should fit vary by pos ITion in the company?</span></p>

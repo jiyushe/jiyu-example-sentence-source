@@ -1,5 +1,7 @@
 # xl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xl.md)
+
 <p><span class="chinese">大于XL度身订造须付附加费。</span><span class="english">Surcharge for extra big sizes beyond XL.</span></p>
 
 <p><span class="chinese">我们相信这对特大城市来说是一个好消息。</span><span class="english">We are confident that we leave Cities XL in good hands.</span></p>

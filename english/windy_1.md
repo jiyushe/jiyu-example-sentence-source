@@ -1,5 +1,7 @@
 # windy 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/windy_1.md)
+
 <p><span class="chinese">耸立在刮风的天空下。</span><span class="english">Stark in a windy sky.</span></p>
 
 <p><span class="chinese">多云且有风的。</span><span class="english">It's cloudy and windy.</span></p>

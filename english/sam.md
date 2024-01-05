@@ -1,5 +1,7 @@
 # sam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sam.md)
+
 <p><span class="chinese">山姆。</span><span class="english">Sam.</span></p>
 
 <p><span class="chinese">山姆和谁？</span><span class="english">Sam and?</span></p>

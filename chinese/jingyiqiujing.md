@@ -1,5 +1,7 @@
 # 精益求精
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingyiqiujing.md)
+
 <p><span class="chinese">明锴包装，精益求精！</span><span class="english">Ming Kai Packaging, Excellence!</span></p>
 
 <p><span class="chinese">帕克会有时间如此精益求精吗？</span><span class="english">Will Parker have time to be so fastidious?</span></p>

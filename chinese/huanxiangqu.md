@@ -1,5 +1,7 @@
 # 幻想曲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanxiangqu.md)
+
 <p><span class="chinese">班卓琴，怪诞的幻想曲，作品15。</span><span class="english">Le banjo, Fantaisie grotesque, Op. 15</span></p>
 
 <p><span class="chinese">烟花，为大型乐队而作的幻想曲，作品第四。</span><span class="english">Fireworks, Fantasy for big Orchestra, Op. 4</span></p>

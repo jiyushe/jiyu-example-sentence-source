@@ -1,5 +1,7 @@
 # secant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/secant.md)
+
 <p><span class="chinese">我们中的大多数不能分辨正切余切。</span><span class="english">Most of us can’t tell our secant from our cotangent.</span></p>
 
 <p><span class="chinese">割线的定义是一条通过曲线上两点的直线。</span><span class="english">A secant is defined as line passing through two points of the curve.</span></p>

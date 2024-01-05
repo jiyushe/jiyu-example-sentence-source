@@ -1,5 +1,7 @@
 # 业户
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yehu.md)
+
 <p><span class="chinese">各业户须提前24小时填妥此表格并交予管理处安排。</span><span class="english">Application should be submitted to the management office 24 hours in advance.</span></p>
 
 <p><span class="chinese">此外，去年度之业户泊车证，已于2009年1月1日起无效。</span><span class="english">Besides, the old PERMITS are declared void and invalid as from January 1, 2009.</span></p>

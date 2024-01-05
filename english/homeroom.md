@@ -1,5 +1,7 @@
 # homeroom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homeroom.md)
+
 <p><span class="chinese">玛丽，这是你的集合教室，213教室。</span><span class="english">Mary, this is your homeroom. It's 213.</span></p>
 
 <p><span class="chinese">那么，你为什么迟了二十分钟才来集合教室?。</span><span class="english">Then why are you twenty minutes late for homeroom?</span></p>

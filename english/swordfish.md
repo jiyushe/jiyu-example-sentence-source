@@ -1,5 +1,7 @@
 # swordfish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swordfish.md)
+
 <p><span class="chinese">这就是“箭鱼”的世界。</span><span class="english">This is the world of Swordfish.</span></p>
 
 <p><span class="chinese">这就是“箭鱼”的世界。</span><span class="english">This is the world of Swordfish.</span></p>

@@ -1,5 +1,7 @@
 # masai
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/masai.md)
+
 <p><span class="chinese">肯尼亚马塞马拉，狮子袭击一只水牛。</span><span class="english">Lions attack a buffalo on the Masai Mara in Kenya</span></p>
 
 <p><span class="chinese">该国境内一处闻名于世的地区就是马赛马拉。</span><span class="english">One of its world-famous regions is the Masai Mara.</span></p>

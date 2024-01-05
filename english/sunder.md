@@ -1,5 +1,7 @@
 # sunder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sunder.md)
+
 <p><span class="chinese">我不想让我们有隔阂。</span><span class="english">I don't want to sunder us.</span></p>
 
 <p><span class="chinese">它可以击破众神的宝座。</span><span class="english">It may sunder the thrones of gods.</span></p>

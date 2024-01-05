@@ -1,5 +1,7 @@
 # pancreatitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pancreatitis.md)
+
 <p><span class="chinese">得胰腺炎会有什么症状？</span><span class="english">What symptom can pancreatitis have?</span></p>
 
 <p><span class="chinese">它也可能后续的攻击急性胰腺炎。</span><span class="english">It may also follow attacks of acute pancreatitis.</span></p>

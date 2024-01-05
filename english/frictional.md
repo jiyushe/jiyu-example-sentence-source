@@ -1,5 +1,7 @@
 # frictional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frictional.md)
+
 <p><span class="chinese">所以这个是摩擦力。</span><span class="english">So there is also a frictional force.</span></p>
 
 <p><span class="chinese">摩擦力是怎么做的？</span><span class="english">How does the frictional force do that?</span></p>

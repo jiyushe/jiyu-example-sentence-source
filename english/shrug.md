@@ -1,5 +1,7 @@
 # shrug 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shrug.md)
+
 <p><span class="chinese">我耸耸肩。</span><span class="english">I shrug.</span></p>
 
 <p><span class="chinese">经典的单肩耸动。</span><span class="english">Classic one-sided shrug.</span></p>

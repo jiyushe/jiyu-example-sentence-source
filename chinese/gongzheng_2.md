@@ -1,5 +1,7 @@
 # 工整
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongzheng_2.md)
+
 <p><span class="chinese">请把字写得工整些，以便我能认识。</span><span class="english">Please write neatly so that I can ead it.</span></p>
 
 <p><span class="chinese">所有提名表格必须工整书写或用打字机填写。</span><span class="english">All entries should be legibly written or typewritten.</span></p>

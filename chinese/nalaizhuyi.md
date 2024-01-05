@@ -1,5 +1,7 @@
 # 拿来主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nalaizhuyi.md)
+
 <p><span class="chinese">拿来主义和修改主义都是违反原创主义的。</span><span class="english">Both plagiarism and revisionism are doctrines against originalism.</span></p>
 
 <p><span class="chinese">始终是用拿来主义的态度接受的。</span><span class="english">In regards to foreign popular culture, I always take it and use it.</span></p>

@@ -1,5 +1,7 @@
 # doggedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doggedly.md)
+
 <p><span class="chinese">找到你的激情，坚持不懈地追求它。</span><span class="english">Find your passion, and pursue it doggedly.</span></p>
 
 <p><span class="chinese">他们失败了，但他们顽强地坚持了下来。</span><span class="english">They failed, but they doggedly kept at it.</span></p>

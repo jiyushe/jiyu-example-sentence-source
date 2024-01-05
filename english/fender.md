@@ -1,5 +1,7 @@
 # fender
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fender.md)
+
 <p><span class="chinese">碰撞把我们汽车挡泥板给撞凹下去了。</span><span class="english">The impact  dented our car's fender.</span></p>
 
 <p><span class="chinese">启动问题。“GTS的挡泥板上的燃气轮机。</span><span class="english">GTS of the "fender" on the gas turbines.</span></p>

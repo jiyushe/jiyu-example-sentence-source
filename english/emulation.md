@@ -1,5 +1,7 @@
 # emulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emulation.md)
+
 <p><span class="chinese">用户模式模拟没有这么完整。</span><span class="english">User-mode emulation is less complete.</span></p>
 
 <p><span class="chinese">硬件仿真也有自己的优点。</span><span class="english">Hardware emulation does have its advantages.</span></p>

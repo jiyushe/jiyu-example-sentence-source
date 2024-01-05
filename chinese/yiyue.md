@@ -1,5 +1,7 @@
 # 一月
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyue.md)
+
 <p><span class="chinese">他明年一月退休。</span><span class="english">He retires next January.</span></p>
 
 <p><span class="chinese">尼科尔一月份回到家中。</span><span class="english">Nichole came home in January.</span></p>

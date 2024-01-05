@@ -1,5 +1,7 @@
 # unnaturally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unnaturally.md)
+
 <p><span class="chinese">可是，很奇怪，我感到难以言表的幸福。</span><span class="english">But strangely, I was almost unnaturally happy.</span></p>
 
 <p><span class="chinese">那天，这些鸟瞰起来格外煞白。</span><span class="english">They looked unnaturally white, that day, those birds.</span></p>

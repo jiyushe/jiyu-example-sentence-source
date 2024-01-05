@@ -1,5 +1,7 @@
 # jut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jut.md)
+
 <p><span class="chinese">我刚换了班，准备出去。</span><span class="english">I switched shifts and jut got off.</span></p>
 
 <p><span class="chinese">出头的椽子先腐烂。</span><span class="english">The rafters that jut out rot first.</span></p>

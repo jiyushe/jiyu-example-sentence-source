@@ -1,5 +1,7 @@
 # mounting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mounting.md)
+
 <p><span class="chinese">包括所有安装五金件。</span><span class="english">All Mounting Hardware Included.</span></p>
 
 <p><span class="chinese">壁挂式安装在驾控台。</span><span class="english">Wall mounting type install in W. H.</span></p>

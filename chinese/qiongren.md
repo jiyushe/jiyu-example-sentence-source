@@ -1,5 +1,7 @@
 # 穷人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiongren.md)
+
 <p><span class="chinese">那是属于穷人的。</span><span class="english">It belonged to the poor.</span></p>
 
 <p><span class="chinese">我们是农民，是穷人。</span><span class="english">We are farmers and poor.</span></p>

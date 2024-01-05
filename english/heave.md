@@ -1,5 +1,7 @@
 # heave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heave.md)
+
 <p><span class="chinese">我船现在可以起锚吗？</span><span class="english">Can I heave up now?</span></p>
 
 <p><span class="chinese">你船必须起锚。</span><span class="english">You must heave up anchor.</span></p>

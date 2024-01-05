@@ -1,5 +1,7 @@
 # dilution
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dilution.md)
+
 <p><span class="chinese">对于股东来说，这将意味着股权稀释。</span><span class="english">For shareholders 33, that would mean dilution 34.</span></p>
 
 <p><span class="chinese">解决污染物的通用方法就是稀释法。</span><span class="english">The current solution to pollution is generally dilution.</span></p>

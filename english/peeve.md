@@ -1,5 +1,7 @@
 # peeve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peeve.md)
+
 <p><span class="chinese">她对这很气恼。</span><span class="english">She was in a peeve over it.</span></p>
 
 <p><span class="chinese">这是我个人的一点小小忌讳。</span><span class="english">This is a pet peeve of mine.</span></p>

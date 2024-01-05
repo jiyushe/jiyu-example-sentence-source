@@ -1,5 +1,7 @@
 # 世事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishi.md)
+
 <p><span class="chinese">但是世事无完美。</span><span class="english">But nothing’s perfect.</span></p>
 
 <p><span class="chinese">不谙世事的谭小燕信以为真。</span><span class="english">Xiao-yan tan of believe.</span></p>

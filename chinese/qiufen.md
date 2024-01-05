@@ -1,5 +1,7 @@
 # 秋分
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiufen.md)
+
 <p><span class="chinese">2011年的春秋分和冬夏至</span><span class="english">Equinoxes and Solstices of 2011</span></p>
 
 <p><span class="chinese">这两个分点，人们分别称之为春分和秋分。</span><span class="english">We call the equinoxes spring and fall.</span></p>

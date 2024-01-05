@@ -1,5 +1,7 @@
 # 皱巴巴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhoubaba.md)
+
 <p><span class="chinese">一名男子点燃皱巴巴的香烟，深深地吸着。</span><span class="english">One man lighted a crack pipe, inhaling deeply.</span></p>
 
 <p><span class="chinese">那是因为我的手始终皱巴巴的！</span><span class="english">That's 'cause my hands is permanently puckered !</span></p>

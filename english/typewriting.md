@@ -1,5 +1,7 @@
 # typewriting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/typewriting.md)
+
 <p><span class="chinese">你是什么时候开始学打字的？</span><span class="english">When did you begin learning typewriting?</span></p>
 
 <p><span class="chinese">在电脑上打字是你的专职工作。</span><span class="english">Typewriting on computer is your full-time job.</span></p>

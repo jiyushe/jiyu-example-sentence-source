@@ -1,5 +1,7 @@
 # 争地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengdi.md)
+
 <p><span class="chinese">英国为了争地，在法国打了很多仗，结果有赢有输。</span><span class="english">England fought numerously for land in France and ended up winning and losing.</span></p>
 
 <p><span class="chinese">因此几乎不需要进行任何安置工作，也无需为建设这些风电场去争地。</span><span class="english">So no people needed to be resettled and no land seized to build these wind farms.</span></p>

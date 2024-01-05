@@ -1,5 +1,7 @@
 # theatre 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theatre.md)
+
 <p><span class="chinese">这家剧院有六个太平门。</span><span class="english">The theatre has six exits.</span></p>
 
 <p><span class="chinese">她匆匆离开戏院。</span><span class="english">She bopped off the theatre.</span></p>

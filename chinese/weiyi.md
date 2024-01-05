@@ -1,5 +1,7 @@
 # 偎依
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiyi.md)
+
 <p><span class="chinese">常常拥抱和偎依。</span><span class="english">Hug and snuggle more often.</span></p>
 
 <p><span class="chinese">她偎依在他的胸前。</span><span class="english">She snuggled up to his chest.</span></p>

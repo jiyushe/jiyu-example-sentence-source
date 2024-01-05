@@ -1,5 +1,7 @@
 # diversely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diversely.md)
+
 <p><span class="chinese">关于这点是众家所说纷纭。</span><span class="english">Was the numerous families says diversely about this.</span></p>
 
 <p><span class="chinese">许多城市旅馆和各色各样汽车旅馆属于这一类。</span><span class="english">Many city hotels and diversely located motels fall into this group.</span></p>

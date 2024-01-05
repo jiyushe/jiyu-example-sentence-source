@@ -1,5 +1,7 @@
 # xiangtan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xiangtan.md)
+
 <p><span class="chinese">欢迎各位来到湘潭大学！</span><span class="english">Welcome to Xiangtan University.</span></p>
 
 <p><span class="chinese">湖南省湘潭县人。</span><span class="english">Xiangtan County in Hunan Province.</span></p>

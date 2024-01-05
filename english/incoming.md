@@ -1,5 +1,7 @@
 # incoming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incoming.md)
+
 <p><span class="chinese">来料、进料加工业务。</span><span class="english">Incoming feed processing business.</span></p>
 
 <p><span class="chinese">我们的资金分配情况如何？</span><span class="english">How does AFK manage incoming funds?</span></p>

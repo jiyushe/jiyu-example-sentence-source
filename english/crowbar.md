@@ -1,5 +1,7 @@
 # crowbar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crowbar.md)
+
 <p><span class="chinese">我们可以用铁橇来应用杠杆原理。</span><span class="english">We can use a crowbar to apply leverage.</span></p>
 
 <p><span class="chinese">Michael肩上扛着一条撬棍在房内踱步。</span><span class="english">Michael paces with a crowbar over his shoulder.</span></p>

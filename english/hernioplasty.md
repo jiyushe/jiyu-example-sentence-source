@@ -1,5 +1,7 @@
 # hernioplasty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hernioplasty.md)
+
 <p><span class="chinese">目的对发生嵌闭性疝的猕猴，采用疝手术治疗法挽救其生命。</span><span class="english">Objective To perform hernioplasty to save the life of Rhesus monkey.</span></p>
 
 <p><span class="chinese">目的探讨无张力疝修补手术在治疗腹股沟疝中的临床疗效。</span><span class="english">Objective To explore the clinical effect of tension-free hernioplasty.</span></p>

@@ -1,5 +1,7 @@
 # offhand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/offhand.md)
+
 <p><span class="chinese">他好像对人爱搭不理的。</span><span class="english">He appears offhand with people.</span></p>
 
 <p><span class="chinese">他似乎对人爱搭不睬的。</span><span class="english">He appears offhand with people.</span></p>

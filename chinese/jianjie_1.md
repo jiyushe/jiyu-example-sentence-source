@@ -1,5 +1,7 @@
 # 鉴戒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianjie_1.md)
+
 <p><span class="chinese">你要以此为鉴戒。</span><span class="english">Let this be an example to you.</span></p>
 
 <p><span class="chinese">鉴戒别在冰上滑倒了。</span><span class="english">Be careful not to slip on the ice.</span></p>

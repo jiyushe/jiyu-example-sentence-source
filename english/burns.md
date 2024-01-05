@@ -1,5 +1,7 @@
 # burns
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burns.md)
+
 <p><span class="chinese">像乔治-伯恩斯。</span><span class="english">Like George Burns.</span></p>
 
 <p><span class="chinese">这暖炉烧油。</span><span class="english">This stove burns oil.</span></p>

@@ -1,5 +1,7 @@
 # garden 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/garden.md)
+
 <p><span class="chinese">橄榄园。</span><span class="english">Olive Garden.</span></p>
 
 <p><span class="chinese">一道对着花园的铁栏门。</span><span class="english">A gate on a garden.</span></p>

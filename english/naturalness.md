@@ -1,5 +1,7 @@
 # naturalness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/naturalness.md)
+
 <p><span class="chinese">似乎，这种自然性是卡夫卡式的。</span><span class="english">It seems that this naturalness is Kafka's.</span></p>
 
 <p><span class="chinese">她怀疑这么一大笔欠帐是否正常。</span><span class="english">She doubted the naturalness of so large a bill.</span></p>

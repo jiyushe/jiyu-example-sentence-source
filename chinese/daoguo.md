@@ -1,5 +1,7 @@
 # 岛国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daoguo.md)
+
 <p><span class="chinese">日本是个岛国。</span><span class="english">Japan is an island country.</span></p>
 
 <p><span class="chinese">他们把珠宝盗窃犯从那个岛国引渡回来。</span><span class="english">They extradited the jewel thief from the island state.</span></p>

@@ -1,5 +1,7 @@
 # 壁毯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bitan.md)
+
 <p><span class="chinese">这块壁毯的图案很有现代派的味道。</span><span class="english">This tapestry's pattern is very modern.</span></p>
 
 <p><span class="chinese">柏柏尔小地毯可以当色彩艳丽的壁毯。</span><span class="english">A Berber rug makes a colourful wall-hanging.</span></p>

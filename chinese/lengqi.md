@@ -1,5 +1,7 @@
 # 冷气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengqi.md)
+
 <p><span class="chinese">苏珊紧张地倒吸一口冷气。</span><span class="english">Susan swallowed nervously.</span></p>
 
 <p><span class="chinese">下面的观众们倒吸了～口冷气。</span><span class="english">Then the whole crowd gasped.</span></p>

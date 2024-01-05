@@ -1,5 +1,7 @@
 # picric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/picric.md)
+
 <p><span class="chinese">在这方面它类似于苦味酸。</span><span class="english">In this respect it resembles picric acid.</span></p>
 
 <p><span class="chinese">通过研究，找出了苦味酸废水较为可行的处理方法。</span><span class="english">We find out feasible treatment method of picric acid wastewater.</span></p>

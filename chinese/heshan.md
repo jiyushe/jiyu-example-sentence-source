@@ -1,5 +1,7 @@
 # 和善
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heshan.md)
+
 <p><span class="chinese">他有一张和善的面庞。</span><span class="english">He has a kind face.</span></p>
 
 <p><span class="chinese">我是世上最和善的人。</span><span class="english">I'm the mildest man alive.</span></p>

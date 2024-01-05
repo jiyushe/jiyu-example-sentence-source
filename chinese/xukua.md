@@ -1,5 +1,7 @@
 # 虚夸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xukua.md)
+
 <p><span class="chinese">他的虚夸的言辞并非新鲜。</span><span class="english">His rhetoric was not new.</span></p>
 
 <p><span class="chinese">浮华虚夸一向是为了掩饰内在的绝望。</span><span class="english">Grandiosity is always a cover for despair.</span></p>

@@ -1,5 +1,7 @@
 # 乡巴佬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangbalao.md)
+
 <p><span class="chinese">他是个讨厌的乡巴佬。</span><span class="english">He is an obnoxious hick.</span></p>
 
 <p><span class="chinese">他是个蠢才乡巴佬！</span><span class="english">He was the village idiot!</span></p>

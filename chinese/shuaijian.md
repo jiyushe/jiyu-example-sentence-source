@@ -1,5 +1,7 @@
 # 衰减
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuaijian.md)
+
 <p><span class="chinese">浓度随时间线性衰减。</span><span class="english">It decays linearly in time.</span></p>
 
 <p><span class="chinese">语音移动衰减代码?。</span><span class="english">VMAC? Voice Mobile Attenuation Code?</span></p>

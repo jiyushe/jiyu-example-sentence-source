@@ -1,5 +1,7 @@
 # 金光闪闪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinguangshanshan.md)
+
 <p><span class="chinese">金光闪闪的长金链！</span><span class="english">A big, shiny gold chain!</span></p>
 
 <p><span class="chinese">金光闪闪，同样是赏心悦目。</span><span class="english">Golden Rays is also very attractive.</span></p>

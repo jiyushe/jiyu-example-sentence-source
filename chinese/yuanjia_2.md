@@ -1,5 +1,7 @@
 # 远嫁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanjia_2.md)
+
 <p><span class="chinese">希望他远嫁后能找到好状态，我认为这是一个皆大欢喜的离别。</span><span class="english">I hope he finds the right situation. I think it was a good move for us.</span></p>
 
 <p><span class="chinese">邻家女孩将要远嫁美国，嫁给一位中年医生。</span><span class="english">The next-door girl is going to marry a middle-aged doctor far away in USA.</span></p>

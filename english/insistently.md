@@ -1,5 +1,7 @@
 # insistently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insistently.md)
+
 <p><span class="chinese">她脸上立刻露出了不同意的表情。</span><span class="english">An insistently disapproving expression came upon her face.</span></p>
 
 <p><span class="chinese">但是，在这种亲切感下存在着这样的危险。</span><span class="english">But there is a danger in claiming such kinship too insistently.</span></p>

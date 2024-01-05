@@ -1,5 +1,7 @@
 # 不含糊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buhanhu.md)
+
 <p><span class="chinese">不含糊你，这确实是个好东西。</span><span class="english">I am not afraid of you.</span></p>
 
 <p><span class="chinese">描述是清楚的和不含糊的吗？</span><span class="english">Is the description exact and not vague?</span></p>

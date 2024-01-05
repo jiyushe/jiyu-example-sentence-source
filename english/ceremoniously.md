@@ -1,5 +1,7 @@
 # ceremoniously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ceremoniously.md)
+
 <p><span class="chinese">最后要隆重推荐的就是这次的亮点！</span><span class="english">What should recommend ceremoniously finally is this window!</span></p>
 
 <p><span class="chinese">大会将于今年十二月在北京隆重开幕。</span><span class="english">The meeting will begin the following December in Beijing ceremoniously.</span></p>

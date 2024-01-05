@@ -1,5 +1,7 @@
 # basso
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/basso.md)
+
 <p><span class="chinese">来自古俄罗斯深沉男低。</span><span class="english">Basso Profondo From Old Russia.</span></p>
 
 <p><span class="chinese">在本场演出里，则将由吉他来演奏通奏低音。</span><span class="english">Basso continuo will be played here by the guitar.</span></p>

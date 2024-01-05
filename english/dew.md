@@ -1,5 +1,7 @@
 # dew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dew.md)
+
 <p><span class="chinese">灌溉天边朝露。</span><span class="english">Dew irrigation horizon.</span></p>
 
 <p><span class="chinese">露水是种好东西，先生。</span><span class="english">Dew is a good thing, sir.</span></p>

@@ -1,5 +1,7 @@
 # vendetta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vendetta.md)
+
 <p><span class="chinese">V字仇杀队---娜塔莉.波特曼</span><span class="english">Natalie Portman — V for Vendetta</span></p>
 
 <p><span class="chinese">我没有私人仇报克拉伦斯托马斯。</span><span class="english">I have no personal vendetta against Clarence Thomas.</span></p>

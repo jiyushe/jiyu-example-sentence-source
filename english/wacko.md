@@ -1,5 +1,7 @@
 # wacko
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wacko.md)
+
 <p><span class="chinese">我的意思是，它真的发疯了。</span><span class="english">I mean, it's really going wacko.</span></p>
 
 <p><span class="chinese">在英语中“wacko”是什么意思呢？</span><span class="english">What does the word "Wacko" mean?</span></p>

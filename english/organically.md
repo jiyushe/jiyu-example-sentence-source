@@ -1,5 +1,7 @@
 # organically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/organically.md)
+
 <p><span class="chinese">绿色食品绿色食品是最佳食物吗?</span><span class="english">Are organically grown foods the best food choices?</span></p>
 
 <p><span class="chinese">大量有机结合碳沉积在内陆湖泊底部。</span><span class="english">Much organically bound carbon is deposited on inland lake bottoms.</span></p>

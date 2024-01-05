@@ -1,5 +1,7 @@
 # 总称
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongcheng_1.md)
+
 <p><span class="chinese">蛇是爬行纲有鳞目蛇亚目的总称。</span><span class="english">The snake is a reptile Squamata Serpentes.</span></p>
 
 <p><span class="chinese">我们不能让人的总称为我们的错误而偿命。</span><span class="english">We cannot let humans pay for our mistakes.</span></p>

@@ -1,5 +1,7 @@
 # 结合能
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieheneng.md)
+
 <p><span class="chinese">所以，“E“是结合能。</span><span class="english">So, e is binding energy.</span></p>
 
 <p><span class="chinese">对n等于2，结合能是多少？</span><span class="english">So for n equals 2, what would the binding energy be?</span></p>

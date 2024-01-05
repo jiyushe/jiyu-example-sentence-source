@@ -1,5 +1,7 @@
 # neurasthenia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neurasthenia.md)
+
 <p><span class="chinese">也许我的神经衰弱就是因此而来的吧。</span><span class="english">Maybe it is the reason of I have neurasthenia.</span></p>
 
 <p><span class="chinese">她已开始接受神经衰弱的治疗。</span><span class="english">She was already being treated for neurasthenia.</span></p>

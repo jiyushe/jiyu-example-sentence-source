@@ -1,5 +1,7 @@
 # rwanda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rwanda.md)
+
 <p><span class="chinese">卢旺达离完全恢复还很远。</span><span class="english">Rwanda is far from fully recovered.</span></p>
 
 <p><span class="chinese">卢旺达陷于种族灭绝的阵痛。</span><span class="english">Rwanda was in the throes of genocide.</span></p>

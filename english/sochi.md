@@ -1,5 +1,7 @@
 # sochi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sochi.md)
+
 <p><span class="chinese">预计它将在毗邻的索契举办2014年冬奥会前建成。</span><span class="english">It is expected to be ready in time for the 2014 Winter Olympics in nearby Sochi.</span></p>
 
 <p><span class="chinese">两位总统在普京位于黑海度假地索契的总统休闲别墅举行了磋商。</span><span class="english">They conferred at Mr. Putin's presidential retreat in the Black Sea resort of Sochi.</span></p>

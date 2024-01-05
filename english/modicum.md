@@ -1,5 +1,7 @@
 # modicum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/modicum.md)
+
 <p><span class="chinese">至少，她希望能遇到一个对她有一点点吸引力的人。</span><span class="english">At a minimum, she hopes for at least a modicum of attraction.</span></p>
 
 <p><span class="chinese">基本节点显示在顶部，包含少量核心字段。</span><span class="english">The basic node is shown at top and includes a modicum of core fields.</span></p>

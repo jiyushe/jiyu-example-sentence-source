@@ -1,5 +1,7 @@
 # contempt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contempt.md)
+
 <p><span class="chinese">亲暱必生轻蔑。</span><span class="english">Familiarity brings contempt.</span></p>
 
 <p><span class="chinese">相似的人会相轻“</span><span class="english">"Similarity breeds contempt?"</span></p>

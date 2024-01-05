@@ -1,5 +1,7 @@
 # 战役
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanyi.md)
+
 <p><span class="chinese">这战役也结束了。</span><span class="english">The battle was over.</span></p>
 
 <p><span class="chinese">那就能赢得我们的战役。</span><span class="english">It is to win our wars.</span></p>

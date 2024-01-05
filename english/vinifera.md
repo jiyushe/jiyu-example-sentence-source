@@ -1,5 +1,7 @@
 # vinifera
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vinifera.md)
+
 <p><span class="chinese">加入不同种类的葡萄使用独特的调配方法。</span><span class="english">A unique blend of premium vinifera and hybrid grapes.</span></p>
 
 <p><span class="chinese">一般来说，欧洲葡萄被归类为具有欧亚种葡萄品种源自。</span><span class="english">In general, European grapes are classed as having originated from the cultivar Vitis vinifera.</span></p>

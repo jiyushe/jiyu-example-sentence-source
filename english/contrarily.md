@@ -1,5 +1,7 @@
 # contrarily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contrarily.md)
+
 <p><span class="chinese">GGT升高峰值出现早的预后较好，反之差。</span><span class="english">The GGT peak value appeared early was good prognosis, contrarily was bad.</span></p>
 
 <p><span class="chinese">反之，又可能任一学门皆无法肯定其为「专业」之一部份？</span><span class="english">Contrarily , any science probably can not affirm it is a part of the profession?</span></p>

@@ -1,5 +1,7 @@
 # interconnection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interconnection.md)
+
 <p><span class="chinese">它反映了诸量之间的一种链式的连系。</span><span class="english">It reflects a chain-like interconnection between quantities.</span></p>
 
 <p><span class="chinese">协调并网政策和设备采购计划。</span><span class="english">Align interconnection policies with utility procurement plans.</span></p>

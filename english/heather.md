@@ -1,5 +1,7 @@
 # heather
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heather.md)
+
 <p><span class="chinese">希瑟说道。</span><span class="english">Heather said.</span></p>
 
 <p><span class="chinese">我讨厌的朋友。</span><span class="english">I hate Heather.</span></p>

@@ -1,5 +1,7 @@
 # busby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/busby.md)
+
 <p><span class="chinese">我在巴士比高中已四年了。</span><span class="english">I have been at Busby High School for four years.</span></p>
 
 <p><span class="chinese">巴斯比说，“也许他漂得太远，听不到我们的声音。”</span><span class="english">"Maybe he's already drifted too far to hear, " Busby said.</span></p>

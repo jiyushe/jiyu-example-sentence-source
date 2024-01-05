@@ -1,5 +1,7 @@
 # sic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sic.md)
+
 <p><span class="chinese">碳化硅生产是高耗能行业。</span><span class="english">SiC synthesis is a high-energy-costing industry.</span></p>
 
 <p><span class="chinese">铝液对粘土结合碳化硅侵蚀属于晶间腐蚀。</span><span class="english">The corrosion of clay-bonded SiC is grain boundary erosion.</span></p>

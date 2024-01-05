@@ -1,5 +1,7 @@
 # selectivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/selectivity.md)
+
 <p><span class="chinese">这第一桶金，让生活的可选择性丰富极了。</span><span class="english">The first bucket of gold can make her life full of selectivity.</span></p>
 
 <p><span class="chinese">直方图用于计算谓词的选择率。</span><span class="english">Histograms are used to calculate the selectivity of the predicates.</span></p>

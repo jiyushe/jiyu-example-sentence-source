@@ -1,5 +1,7 @@
 # star
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/star.md)
+
 <p><span class="chinese">我的那颗星?</span><span class="english">My star?</span></p>
 
 <p><span class="chinese">星号二。</span><span class="english">Star two.</span></p>

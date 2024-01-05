@@ -1,5 +1,7 @@
 # scooter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scooter.md)
+
 <p><span class="chinese">他有一辆滑板车吗？</span><span class="english">Does he have a scooter?</span></p>
 
 <p><span class="chinese">我骑轻型机车去那儿。</span><span class="english">I got there by scooter.</span></p>

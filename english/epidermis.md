@@ -1,5 +1,7 @@
 # epidermis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epidermis.md)
+
 <p><span class="chinese">最外面的一层叫表皮。</span><span class="english">The outermost is the epidermis.</span></p>
 
 <p><span class="chinese">它以周皮代替表皮。</span><span class="english">The periderm of root replaces epidermis.</span></p>

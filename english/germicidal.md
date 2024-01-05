@@ -1,5 +1,7 @@
 # germicidal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/germicidal.md)
+
 <p><span class="chinese">使用方便，并有杀菌作用，对皮肤无伤害。</span><span class="english">It uses very convenient and has germicidal function.</span></p>
 
 <p><span class="chinese">酸化电位水的主要杀菌因子是有效氯。</span><span class="english">The main germicidal factor of EOW is available chlorine.</span></p>

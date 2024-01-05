@@ -1,5 +1,7 @@
 # 雷打不动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leidabudong.md)
+
 <p><span class="chinese">友谊时间表雷打不动。</span><span class="english">Make time for friendships.</span></p>
 
 <p><span class="chinese">算法和基本原理是雷打不动的。</span><span class="english">Algorithms and basic fundamentals don't.</span></p>

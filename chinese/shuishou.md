@@ -1,5 +1,7 @@
 # 水手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuishou.md)
+
 <p><span class="chinese">干杯！我的水手们！</span><span class="english">Drink up! My hearties!</span></p>
 
 <p><span class="chinese">她戴着顶水手帽。</span><span class="english">She wears a sailor hat.</span></p>

@@ -1,5 +1,7 @@
 # isdn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isdn.md)
+
 <p><span class="chinese">ISDN通信终端接入因特网具有十分重要的实际应用价值。</span><span class="english">It is very useful for ISDN MTE to access INTERNET.</span></p>
 
 <p><span class="chinese">半速动行的ISDN通道对电话呼叫来说是有效的。</span><span class="english">Not enough ISDN channels are available to make the call.</span></p>

@@ -1,5 +1,7 @@
 # 公干
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gonggan.md)
+
 <p><span class="chinese">有何公干?</span><span class="english">What important business brings you here?</span></p>
 
 <p><span class="chinese">上周的外出公干真把我累坏了…</span><span class="english">Last week's business trip really put me out tired.</span></p>

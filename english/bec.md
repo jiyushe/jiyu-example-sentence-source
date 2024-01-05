@@ -1,5 +1,7 @@
 # bec
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bec.md)
+
 <p><span class="chinese">她也是我今年教的BEC班的学生.</span><span class="english">She is also my student in BEC class this year.</span></p>
 
 <p><span class="chinese">成为菁英的工具，商务英语引领你走向成功。</span><span class="english">The tools for the top, BEC steers you towards success.</span></p>

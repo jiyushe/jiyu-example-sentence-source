@@ -1,5 +1,7 @@
 # bossed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bossed.md)
+
 <p><span class="chinese">他对他妻子发号施令。</span><span class="english">He bossed his wife about.</span></p>
 
 <p><span class="chinese">我受不了经理的颐指气使。</span><span class="english">I can't stand being bossed around by the manager.</span></p>

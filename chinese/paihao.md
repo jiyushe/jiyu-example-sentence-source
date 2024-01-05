@@ -1,5 +1,7 @@
 # 牌号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paihao.md)
+
 <p><span class="chinese">先生你能看见街道牌号吗？</span><span class="english">Sir , can you see a street sign ?</span></p>
 
 <p><span class="chinese">那辆出租车的牌号是多少？</span><span class="english">What is the license plate of the taxi.</span></p>

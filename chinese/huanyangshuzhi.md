@@ -1,5 +1,7 @@
 # 环氧树脂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanyangshuzhi.md)
+
 <p><span class="chinese">水性环氧树脂涂料。</span><span class="english">Water-based epoxy top coatings.</span></p>
 
 <p><span class="chinese">含硅环氧树脂稳定性能良好。</span><span class="english">Silico-epoxy resin has good stability.</span></p>

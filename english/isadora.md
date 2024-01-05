@@ -1,5 +1,7 @@
 # isadora
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isadora.md)
+
 <p><span class="chinese">伊莎多拉·邓肯卒于1927年。</span><span class="english">Isadora Duncan died in 1927.</span></p>
 
 <p><span class="chinese">伊莎多拉。邓肯并不喜欢芭蕾舞。</span><span class="english">Isadora Duncan did not like ballet.</span></p>

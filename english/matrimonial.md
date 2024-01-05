@@ -1,5 +1,7 @@
 # matrimonial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/matrimonial.md)
+
 <p><span class="chinese">婚姻的价码因性别和年龄而异。</span><span class="english">The matrimonial price tag varies by gender and age.</span></p>
 
 <p><span class="chinese">傲慢与偏见，金钱，婚姻价值取向，婚姻观。</span><span class="english">Pride and prejudice, money, matrimonial value orientation, marriage.</span></p>

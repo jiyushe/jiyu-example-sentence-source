@@ -1,5 +1,7 @@
 # 鄙弃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biqi_1.md)
+
 <p><span class="chinese">她鄙弃我要帮助她的所有提议。</span><span class="english">She disdained all my offers of help.</span></p>
 
 <p><span class="chinese">花根是鄙弃荣名的花朵。</span><span class="english">A root is a flower that disdains fame.</span></p>

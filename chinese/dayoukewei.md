@@ -1,5 +1,7 @@
 # 大有可为
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dayoukewei.md)
+
 <p><span class="chinese">淡水养鱼大有可为。</span><span class="english">There are bright prospects for freshwater fish farming.</span></p>
 
 <p><span class="chinese">选种培育以提高产量会大有可为。</span><span class="english">There is potential for selective breeding for better yields.</span></p>

@@ -1,5 +1,7 @@
 # 分类学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenleixue.md)
+
 <p><span class="chinese">阿帆想成为一位植物分类学者。</span><span class="english">A-Fan wants to be a taxonomist of plants.</span></p>
 
 <p><span class="chinese">号分类学是一个标识符分类法。</span><span class="english">Number taxonomy is an identifier taxonomy.</span></p>

@@ -1,5 +1,7 @@
 # 白手起家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baishouqijia.md)
+
 <p><span class="chinese">他从烤果子奶油蛋糕白手起家。</span><span class="english">He baked the torte from scratch.</span></p>
 
 <p><span class="chinese">或许是我是“白手起家”，从平地上建我们自己的工厂？</span><span class="english">Or do we build our own plant from the ground up?</span></p>

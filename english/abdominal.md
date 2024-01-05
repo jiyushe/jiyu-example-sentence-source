@@ -1,5 +1,7 @@
 # abdominal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abdominal.md)
+
 <p><span class="chinese">腹部搏动性肿块消失。</span><span class="english">The abdominal pulsatile mass disappeared.</span></p>
 
 <p><span class="chinese">腹部超音波的提示和技巧。</span><span class="english">Tips and tricks for abdominal ultrasound.</span></p>

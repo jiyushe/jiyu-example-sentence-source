@@ -1,5 +1,7 @@
 # edd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/edd.md)
+
 <p><span class="chinese">EDD可以回答这些问题。</span><span class="english">EDD is a way to answer these questions.</span></p>
 
 <p><span class="chinese">EDD是基于事实的软件开发。</span><span class="english">EDD is fact-based software development.</span></p>

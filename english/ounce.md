@@ -1,5 +1,7 @@
 # ounce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ounce.md)
+
 <p><span class="chinese">一盎斯是十六分之一磅。</span><span class="english">An ounce is one sixteenth of a pound.</span></p>
 
 <p><span class="chinese">一盎司的糖含约100大卡的热量。</span><span class="english">An ounce of sugar has about 100 calor ies.</span></p>

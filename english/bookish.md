@@ -1,5 +1,7 @@
 # bookish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bookish.md)
+
 <p><span class="chinese">他写信的风格是文诌诌的。</span><span class="english">He writes in a bookish style.</span></p>
 
 <p><span class="chinese">不要书生气十足。</span><span class="english">Don't be so bookish and unrealistic.</span></p>

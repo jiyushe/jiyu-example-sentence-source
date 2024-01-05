@@ -1,5 +1,7 @@
 # tokio
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tokio.md)
+
 <p><span class="chinese">德国乐队“东京酒店”成立于2001年。</span><span class="english">Tokio Hotel is a German band founded in 2001.</span></p>
 
 <p><span class="chinese">东京则是较小的日本次区的中心。</span><span class="english">Tokio is the main hub of the small Japanese zone.</span></p>

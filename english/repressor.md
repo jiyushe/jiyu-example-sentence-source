@@ -1,5 +1,7 @@
 # repressor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repressor.md)
+
 <p><span class="chinese">他们新近确认的抑制剂转化可以部分解答这个问题。</span><span class="english">The newly identified repressor switch could provide part of the answer.</span></p>
 
 <p><span class="chinese">人类胎儿血红蛋白的表达由发育阶段特定的抑制因子BCL11A调控。</span><span class="english">Human fetal hemoglobin expression is regulated by the developmental stage-specific repressor BCL11A.</span></p>

@@ -1,5 +1,7 @@
 # 杀气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaqi_1.md)
+
 <p><span class="chinese">我可以感觉一股杀气在我后背挪动。</span><span class="english">I can feel a Kung-Fu chill riding up my spine!</span></p>
 
 <p><span class="chinese">够杀气，拔刀兄的摄影功夫也不错呀！</span><span class="english">Combative , brother Badao your photography is really not bad!</span></p>

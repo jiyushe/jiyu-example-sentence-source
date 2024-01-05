@@ -1,5 +1,7 @@
 # 引力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinli.md)
+
 <p><span class="chinese">不存在引力子。</span><span class="english">There is no graviton.</span></p>
 
 <p><span class="chinese">引力是一个常数。</span><span class="english">Gravity is a constant.</span></p>

@@ -1,5 +1,7 @@
 # 顺和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunhe.md)
+
 <p><span class="chinese">顺和实业公司1991年成立于香港。</span><span class="english">Shun Wo Company was established in Hong Kong in 1991.</span></p>
 
 <p><span class="chinese">海藻中的胶质被用来使冰淇淋滑顺和乳化。</span><span class="english">A gelatinous substance in seaweed is used to make ice cream smooth and creamy.</span></p>

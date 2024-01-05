@@ -1,5 +1,7 @@
 # executive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/executive.md)
+
 <p><span class="chinese">他是新来的销售主管。</span><span class="english">He's our new Marketing Executive.</span></p>
 
 <p><span class="chinese">他是非常出色的总统。</span><span class="english">He's an excellent Chief Executive.</span></p>

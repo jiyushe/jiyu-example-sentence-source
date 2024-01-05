@@ -1,5 +1,7 @@
 # empathetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/empathetic.md)
+
 <p><span class="chinese">谈及儿子连日以来为情所困。</span><span class="english">Since the days of son for empathetic.</span></p>
 
 <p><span class="chinese">专业人才懂得如何跟别人感同身受。</span><span class="english">Professionals know how to be empathetic.</span></p>

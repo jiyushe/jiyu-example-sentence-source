@@ -1,5 +1,7 @@
 # interventricular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interventricular.md)
+
 <p><span class="chinese">方法用大体解剖法观测山羊房间隔的卵圆窝、室间隔膜部和肌部。</span><span class="english">Methods The oval fossa and the interventricular septum of goat heart were observed by gross anatomy method.</span></p>
 
 <p><span class="chinese">心脏室间隔的断面显示了广泛的急性心肌梗死。</span><span class="english">The interventricular septum of the heart has been sectioned to reveal an extensive acute myocardial infarction.</span></p>

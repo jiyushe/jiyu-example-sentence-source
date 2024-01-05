@@ -1,5 +1,7 @@
 # 挑肥拣瘦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaofeijianshou.md)
+
 <p><span class="chinese">要饭的不能挑肥拣瘦。</span><span class="english">Beggers can't be choosers.</span></p>
 
 <p><span class="chinese">乞丐不能挑肥拣瘦。</span><span class="english">Beggars cannot be choosers.</span></p>

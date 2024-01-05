@@ -1,5 +1,7 @@
 # 抢手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangshou_1.md)
+
 <p><span class="chinese">来看看下列五个抢手的在线学位。</span><span class="english">Check out these five smart online degree options.</span></p>
 
 <p><span class="chinese">按摩椅一向是父亲节的抢手礼物。</span><span class="english">Massage chairs are popular gifts for Father's Day.</span></p>

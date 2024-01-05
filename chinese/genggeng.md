@@ -1,5 +1,7 @@
 # 耿耿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/genggeng.md)
+
 <p><span class="chinese">他对那次受辱仍耿耿于怀。</span><span class="english">The insult still rankled in his mind.</span></p>
 
 <p><span class="chinese">我仍对那次的事故耿耿于怀。</span><span class="english">I'm still screwed-up about the accident.</span></p>

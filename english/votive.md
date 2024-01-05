@@ -1,5 +1,7 @@
 # votive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/votive.md)
+
 <p><span class="chinese">我们树立这块石碑。</span><span class="english">We set to-day a votive stone.</span></p>
 
 <p><span class="chinese">然后迅速做出奉献提供的到来。</span><span class="english">And then quickly make a votive offering soon.</span></p>

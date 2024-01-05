@@ -1,5 +1,7 @@
 # indignant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indignant.md)
+
 <p><span class="chinese">我对他们的卑劣行径感到愤慨。</span><span class="english">I was indignant at their mean actions.</span></p>
 
 <p><span class="chinese">听了这消息他们非常愤怒。</span><span class="english">At this news they were highly indignant.</span></p>

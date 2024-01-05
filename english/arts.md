@@ -1,5 +1,7 @@
 # arts
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arts.md)
+
 <p><span class="chinese">大师级的艺术。</span><span class="english">Master of Arts.</span></p>
 
 <p><span class="chinese">我是学文科的。</span><span class="english">I major in arts.</span></p>

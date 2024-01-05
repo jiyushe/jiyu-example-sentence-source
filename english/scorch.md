@@ -1,5 +1,7 @@
 # scorch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scorch.md)
+
 <p><span class="chinese">肉要烧焦了。</span><span class="english">The meat will scorch.</span></p>
 
 <p><span class="chinese">烧焦他们的灵魂。</span><span class="english">To scorch their souls.</span></p>

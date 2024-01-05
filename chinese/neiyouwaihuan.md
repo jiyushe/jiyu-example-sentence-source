@@ -1,5 +1,7 @@
 # 内忧外患
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neiyouwaihuan.md)
+
 <p><span class="chinese">不平安，因为心中没有方向，内忧外患。</span><span class="english">No peace, for they are lacking directions.</span></p>
 
 <p><span class="chinese">他们所处的时代，各种矛盾极其尖锐，内忧外患相当严重。</span><span class="english">There were various contradictions and serious dangers in their age.</span></p>

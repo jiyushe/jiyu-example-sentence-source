@@ -1,5 +1,7 @@
 # 造物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaowu.md)
+
 <p><span class="chinese">造物大与小。</span><span class="english">All creatures great and small.</span></p>
 
 <p><span class="chinese">真正律法，就是业力或者造物律法。</span><span class="english">True law is karmic or creational law.</span></p>

@@ -1,5 +1,7 @@
 # laziness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laziness.md)
+
 <p><span class="chinese">她的懒惰让我气愤。</span><span class="english">Her laziness maddens me.</span></p>
 
 <p><span class="chinese">懒则衰。</span><span class="english">Laziness leads to debility.</span></p>

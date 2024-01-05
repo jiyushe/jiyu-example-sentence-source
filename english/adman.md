@@ -1,5 +1,7 @@
 # adman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adman.md)
+
 <p><span class="chinese">我的爸爸是一个广告商人，同时也是一位美术老师。</span><span class="english">My father is an adman meanwhile an art instructor.</span></p>
 
 <p><span class="chinese">成为公司最积极最热情的广告人。</span><span class="english">Become the most positive and enthusiastic adman in the agency.</span></p>

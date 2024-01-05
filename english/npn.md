@@ -1,5 +1,7 @@
 # npn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/npn.md)
+
 <p><span class="chinese">硅NPN晶体管。射频功率驱动器。</span><span class="english">Silicon NPN transistor. RF power driver.</span></p>
 
 <p><span class="chinese">双极NPN装置在一个密封的金属包装TO18。</span><span class="english">Bipolar NPN Device in a Hermetically sealed TO18 Metal Package.</span></p>

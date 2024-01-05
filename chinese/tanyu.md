@@ -1,5 +1,7 @@
 # 痰盂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanyu.md)
+
 <p><span class="chinese">金痰盂，金把手。</span><span class="english">Gold spittoons , gold handles.</span></p>
 
 <p><span class="chinese">遗憾的是西方经济学论文坑内的痰盂被打裂。</span><span class="english">It's a pity that the spitbox in the pit was hit and split.</span></p>

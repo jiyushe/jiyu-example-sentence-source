@@ -1,5 +1,7 @@
 # shetland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shetland.md)
+
 <p><span class="chinese">茹斯蒂羊肉是设得兰群岛的美食。</span><span class="english">Reestit mutton is a delicacy of Shetland.</span></p>
 
 <p><span class="chinese">泥炭地滑坡是设德兰群岛沼泽地常见的特征。</span><span class="english">Peat slides are a regular feature of the Shetland bogs.</span></p>

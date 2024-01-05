@@ -1,5 +1,7 @@
 # recurve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recurve.md)
+
 <p><span class="chinese">反曲弓的尺寸。</span><span class="english">Recurve bow size.</span></p>
 
 <p><span class="chinese">本文是针对反曲弓的。</span><span class="english">This article will deal with Recurve Bows.</span></p>

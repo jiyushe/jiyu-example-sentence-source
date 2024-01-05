@@ -1,5 +1,7 @@
 # guyana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guyana.md)
+
 <p><span class="chinese">圭亚那是个明显的例外。</span><span class="english">Guyana is the notable exception.</span></p>
 
 <p><span class="chinese">淋巴丝虫病并不仅仅只限于圭亚那。</span><span class="english">Lymphatic filariasis isn’t limited to Guyana.</span></p>

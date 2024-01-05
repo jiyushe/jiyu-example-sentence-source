@@ -1,5 +1,7 @@
 # 一经
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yijing_1.md)
+
 <p><span class="chinese">一经学生开始小考。</span><span class="english">Once students begin the quiz.</span></p>
 
 <p><span class="chinese">这种产品一经上市便反响强烈。</span><span class="english">The response has been strong.</span></p>

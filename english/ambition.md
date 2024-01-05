@@ -1,5 +1,7 @@
 # ambition 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ambition.md)
+
 <p><span class="chinese">我很佩服她的野心。</span><span class="english">I admire her ambition.</span></p>
 
 <p><span class="chinese">他的野心毫无止境。</span><span class="english">His ambition is unbounded.</span></p>

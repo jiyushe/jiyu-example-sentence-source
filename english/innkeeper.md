@@ -1,5 +1,7 @@
 # innkeeper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/innkeeper.md)
+
 <p><span class="chinese">客栈老板就是经营客栈的人。</span><span class="english">An innkeeper is a person who keeps an inn.</span></p>
 
 <p><span class="chinese">客栈老板之死仍然是个谜。</span><span class="english">The death of the innkeeper still remains a mystery.</span></p>

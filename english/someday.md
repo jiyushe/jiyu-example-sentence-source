@@ -1,5 +1,7 @@
 # someday
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/someday.md)
+
 <p><span class="chinese">你可以改天做啊。</span><span class="english">You can do it someday.</span></p>
 
 <p><span class="chinese">我希望有一天我也能找到它。</span><span class="english">I hope I find it someday.</span></p>

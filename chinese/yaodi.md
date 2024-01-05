@@ -1,5 +1,7 @@
 # 要地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaodi.md)
+
 <p><span class="chinese">如果你失败了，可不要地回来找我。</span><span class="english">If you fail, do not come snivelling.</span></p>
 
 <p><span class="chinese">您可以自由地选择您想要地选项。</span><span class="english">Feel free to choose the ones that you want.</span></p>

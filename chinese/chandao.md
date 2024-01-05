@@ -1,5 +1,7 @@
 # 铲刀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chandao.md)
+
 <p><span class="chinese">有人用铲刀在空中砍下去了。</span><span class="english">Someone struck through the air with a spade.</span></p>
 
 <p><span class="chinese">更长的铲刀，提高了作业效率。</span><span class="english">The longer moldboard improves working efficiency.</span></p>

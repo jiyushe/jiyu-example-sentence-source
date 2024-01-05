@@ -1,5 +1,7 @@
 # raincoat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/raincoat.md)
+
 <p><span class="chinese">他扎好雨衣的带子。</span><span class="english">He belted up his raincoat.</span></p>
 
 <p><span class="chinese">他将雨衣裹裹紧。</span><span class="english">He pulls his raincoat tighter.</span></p>

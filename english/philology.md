@@ -1,5 +1,7 @@
 # philology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/philology.md)
+
 <p><span class="chinese">语文学对你不会有很大用途。</span><span class="english">Philology would never be of much use to you.</span></p>
 
 <p><span class="chinese">文献学是一门具有边缘性、综合性、交叉性的学科。</span><span class="english">The philology is a frontier, Comprehensive and overlapping subject.</span></p>

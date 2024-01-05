@@ -1,5 +1,7 @@
 # 批准
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pizhun.md)
+
 <p><span class="chinese">不需要批准。</span><span class="english">No approval needed.</span></p>
 
 <p><span class="chinese">交易由管理员批准。</span><span class="english">Deals for approval by admin.</span></p>

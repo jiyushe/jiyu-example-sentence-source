@@ -1,5 +1,7 @@
 # 交通站
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaotongzhan.md)
+
 <p><span class="chinese">如果你的办公室感觉就像是交通站，不要让它那么吸引人。</span><span class="english">If your office feels like Grand Central, make it less inviting.</span></p>
 
 <p><span class="chinese">当时交通站的负责人是县委宣传干事李联奎。</span><span class="english">At that time, the responsible person of the station was Li Liankui, the communication chief.</span></p>

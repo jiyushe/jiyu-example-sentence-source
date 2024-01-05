@@ -1,5 +1,7 @@
 # upwardly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upwardly.md)
+
 <p><span class="chinese">前有领养老金的人扯着后腿，后有地位渐显的年轻选民们拽着胳膊。</span><span class="english">Yet as pensioners tug one way, upwardly mobile young voters pull another.</span></p>
 
 <p><span class="chinese">典型地背斜是岩层向上凸起的褶曲。</span><span class="english">Anticlines are arch-shaped folds in which rock layers are upwardly convex.</span></p>

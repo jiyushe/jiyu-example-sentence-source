@@ -1,5 +1,7 @@
 # netmeeting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/netmeeting.md)
+
 <p><span class="chinese">为什么不用网络会议代替电话会议呢？还是免费的。</span><span class="english">Why don't we use Netmeeting instead of teleconference? It's free.</span></p>
 
 <p><span class="chinese">我们为什么不用网络会议代替电话会议呢?还是免费的。</span><span class="english">Why don't we use Netmeeting instead of teleconference ? It's free.</span></p>

@@ -1,5 +1,7 @@
 # unbearable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unbearable.md)
+
 <p><span class="chinese">热天气是无法忍受的。</span><span class="english">The heat is unbearable.</span></p>
 
 <p><span class="chinese">无法承受的重担！</span><span class="english">Unbearable responsibility!</span></p>

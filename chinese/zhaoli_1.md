@@ -1,5 +1,7 @@
 # 照理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoli_1.md)
+
 <p><span class="chinese">照理应该常常看到他们两人在一起呀。</span><span class="english">They must have seen them together for ever.</span></p>
 
 <p><span class="chinese">我希望，我现在可以谈啦，照理也该谈谈。</span><span class="english">I can talk of it now, I hope, as Iought to do.</span></p>

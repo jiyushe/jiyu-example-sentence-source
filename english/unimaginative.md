@@ -1,5 +1,7 @@
 # unimaginative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unimaginative.md)
+
 <p><span class="chinese">接气性，是无想象力窘蹙者最后的借口。</span><span class="english">Donsistency is the last refuge of the unimaginative.</span></p>
 
 <p><span class="chinese">逃学的孩子们都缺乏想像力。</span><span class="english">Children who play truant from school are unimaginative.</span></p>

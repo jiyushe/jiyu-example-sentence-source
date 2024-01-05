@@ -1,5 +1,7 @@
 # webby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/webby.md)
+
 <p><span class="chinese">威比奖于1996年开始创立。</span><span class="english">The Webby Awards were established in 1996.</span></p>
 
 <p><span class="chinese">丝网玻璃的运用更体现了这种平衡。</span><span class="english">Of webby glass apply more reflected this kind of balance.</span></p>

@@ -1,5 +1,7 @@
 # inoperative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inoperative.md)
+
 <p><span class="chinese">如果没有水流出，说明阀门不起作用。</span><span class="english">If no water flows, valve is inoperative.</span></p>
 
 <p><span class="chinese">传真机接收功能运行不正常。</span><span class="english">The Fax machine is inoperative for receiving.</span></p>

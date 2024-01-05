@@ -1,5 +1,7 @@
 # 纵横交错
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zonghengjiaocuo.md)
+
 <p><span class="chinese">管道纵横交错。</span><span class="english">Ducts and pipes crisscross.</span></p>
 
 <p><span class="chinese">这座城市里运河纵横交错。</span><span class="english">The city is criss-crossed with canals.</span></p>

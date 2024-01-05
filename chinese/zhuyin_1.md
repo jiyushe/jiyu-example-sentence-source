@@ -1,5 +1,7 @@
 # 主音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuyin_1.md)
+
 <p><span class="chinese">唱主音。</span><span class="english">Sing the tonic.</span></p>
 
 <p><span class="chinese">我们说这就是主音。</span><span class="english">We said this is the tonic.</span></p>

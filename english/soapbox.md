@@ -1,5 +1,7 @@
 # soapbox
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soapbox.md)
+
 <p><span class="chinese">有几个街头演说者在室外音乐台边上试讲。</span><span class="english">A few soapbox orators are tuning up near the bandstand.</span></p>
 
 <p><span class="chinese">而其他开发人员会轮流站上临时讲台。</span><span class="english">And other developers will be taking their turns on the Soapbox.</span></p>

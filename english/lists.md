@@ -1,5 +1,7 @@
 # lists
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lists.md)
+
 <p><span class="chinese">人民大众爱死列表了。</span><span class="english">People like lists.</span></p>
 
 <p><span class="chinese">避免一个项目清单。</span><span class="english">Avoid one-item lists.</span></p>

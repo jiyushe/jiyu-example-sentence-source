@@ -1,5 +1,7 @@
 # magnetotelluric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magnetotelluric.md)
+
 <p><span class="chinese">另外在大地电磁测勘上要特别注意的是接收能量上的选择。</span><span class="english">Another critical factor in a magnetotelluric survey is the selection of the energy passband.</span></p>
 
 <p><span class="chinese">海底大地电磁探测要解决的首要问题是海底信号采集。</span><span class="english">The main problem of marine magnetotelluric prospecting is the acquisition of marine sea bottom signal.</span></p>

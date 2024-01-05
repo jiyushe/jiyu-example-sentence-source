@@ -1,5 +1,7 @@
 # 抗争
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kangzheng.md)
+
 <p><span class="chinese">他们抗争，我们等待。</span><span class="english">They fight. We wait.</span></p>
 
 <p><span class="chinese">她聪颖灵透、大胆抗争、招式独特。</span><span class="english">She is clever, bold and peculiar.</span></p>

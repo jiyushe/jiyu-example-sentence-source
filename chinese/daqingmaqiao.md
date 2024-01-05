@@ -1,5 +1,7 @@
 # 打情骂俏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daqingmaqiao.md)
+
 <p><span class="chinese">班里的女孩们都喜欢和他打情骂俏。</span><span class="english">All the girls hit on him in class.</span></p>
 
 <p><span class="chinese">班上的女孩子们都喜欢和他打情骂俏。</span><span class="english">All the girls hit on him in the class.</span></p>

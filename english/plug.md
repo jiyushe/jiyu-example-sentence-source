@@ -1,5 +1,7 @@
 # plug 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plug.md)
+
 <p><span class="chinese">拔掉塞子，把水放掉。</span><span class="english">Pull the plug out.</span></p>
 
 <p><span class="chinese">把它插到你的路由器里。</span><span class="english">Plug it into your router.</span></p>

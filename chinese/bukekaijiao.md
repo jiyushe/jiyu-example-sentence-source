@@ -1,5 +1,7 @@
 # 不可开交
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bukekaijiao.md)
+
 <p><span class="chinese">抽水抽得不可开交。</span><span class="english">Pumping that water up to her neck.</span></p>
 
 <p><span class="chinese">我们过去常打得不可开交。</span><span class="english">We used to fight like cats and dogs.</span></p>

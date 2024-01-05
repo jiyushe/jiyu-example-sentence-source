@@ -1,5 +1,7 @@
 # pamper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pamper.md)
+
 <p><span class="chinese">因此请宠爱它们。</span><span class="english">So pamper them.</span></p>
 
 <p><span class="chinese">别把你的小女儿娇坏了!</span><span class="english">Don't pamper your little daughter.</span></p>

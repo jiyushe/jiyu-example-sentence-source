@@ -1,5 +1,7 @@
 # 小组
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaozu_1.md)
+
 <p><span class="chinese">参加一个兴趣小组。</span><span class="english">Join a hobby group.</span></p>
 
 <p><span class="chinese">分小组讨论。</span><span class="english">Discuss in groups first.</span></p>

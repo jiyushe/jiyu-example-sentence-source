@@ -1,5 +1,7 @@
 # 笔端
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biduan.md)
+
 <p><span class="chinese">这些字句从我的笔端滚滚流出。</span><span class="english">The words flowed unbidden from my pen.</span></p>
 
 <p><span class="chinese">他搜寻上帝于自己身上，于自然界中，于诗人及思想家之笔端。</span><span class="english">He searched in himself, in Nature, in the message of poets and thinkers.</span></p>

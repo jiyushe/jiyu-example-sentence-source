@@ -1,5 +1,7 @@
 # 意趣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiqu.md)
+
 <p><span class="chinese">阿瑟，我也是这样的，因此我们俩肯定意趣相投。</span><span class="english">But so am I, Arthur. So we're sure to agree.</span></p>
 
 <p><span class="chinese">这是广受欢迎、意趣盎然的包价旅游热点。</span><span class="english">This is a popular and lively package tour hotspot.</span></p>

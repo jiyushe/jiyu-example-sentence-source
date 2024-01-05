@@ -1,5 +1,7 @@
 # subroutine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subroutine.md)
+
 <p><span class="chinese">它的参数是一个方法名字和子函数引用。</span><span class="english">It takes a method name and a subroutine reference.</span></p>
 
 <p><span class="chinese">这样可以跳过任何那个子路径中的代码。</span><span class="english">This would skip any remaining code in that subroutine.</span></p>

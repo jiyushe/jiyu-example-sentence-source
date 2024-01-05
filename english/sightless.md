@@ -1,5 +1,7 @@
 # sightless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sightless.md)
+
 <p><span class="chinese">向我呈现出你美丽的影像。</span><span class="english">Presents thy shadow to my sightless view.</span></p>
 
 <p><span class="chinese">把你的倩影献给我失明的双眸。</span><span class="english">Presents thy shadow to my sightless view.</span></p>

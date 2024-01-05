@@ -1,5 +1,7 @@
 # 凝固
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ninggu.md)
+
 <p><span class="chinese">这是凝固一切的声响。</span><span class="english">It's a petrifying sound.</span></p>
 
 <p><span class="chinese">骆驼的奶水不会凝固。</span><span class="english">Camel's milk does not curdle.</span></p>

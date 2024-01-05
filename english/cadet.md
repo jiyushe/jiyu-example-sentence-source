@@ -1,5 +1,7 @@
 # cadet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cadet.md)
+
 <p><span class="chinese">他是个军官学校学生。</span><span class="english">He is a cadet.</span></p>
 
 <p><span class="chinese">尼古拉斯是海军学校的一名新学员。</span><span class="english">Nicholas is a new cadet.</span></p>

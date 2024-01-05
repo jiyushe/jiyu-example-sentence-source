@@ -1,5 +1,7 @@
 # benioff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benioff.md)
+
 <p><span class="chinese">就拿贝尼奥夫六月份发表的一次主旨演讲来说吧。</span><span class="english">Take this keynote Benioff delivered in June.</span></p>
 
 <p><span class="chinese">或许，埃里森只是想让贝尼奥夫闭嘴。</span><span class="english">Maybe Ellison just wanted to silence Benioff.</span></p>

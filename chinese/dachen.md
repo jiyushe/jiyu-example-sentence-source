@@ -1,5 +1,7 @@
 # 大臣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dachen.md)
+
 <p><span class="chinese">大臣们简直怕得要命。</span><span class="english">Ministers are simply terrified.</span></p>
 
 <p><span class="chinese">内政大臣发言人Brig。</span><span class="english">Interior Ministry spokesman Brig.</span></p>

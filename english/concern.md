@@ -1,5 +1,7 @@
 # concern 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concern.md)
+
 <p><span class="chinese">这不关我的事。</span><span class="english">It’s no concern of mine.</span></p>
 
 <p><span class="chinese">谢谢你的关心。</span><span class="english">Thanks for your concern.</span></p>

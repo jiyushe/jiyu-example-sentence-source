@@ -1,5 +1,7 @@
 # 传世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuanshi.md)
+
 <p><span class="chinese">我不知道新开传世我会改的，我保证。</span><span class="english">I'll chcontinually being ange! I promise.</span></p>
 
 <p><span class="chinese">乐府元白体，诗文传世长。</span><span class="english">Yue Fu Yuan white, handed down the long poems.</span></p>

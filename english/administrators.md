@@ -1,5 +1,7 @@
 # administrators
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/administrators.md)
+
 <p><span class="chinese">接下来，测试管理员角色。</span><span class="english">Next, you test the administrators role.</span></p>
 
 <p><span class="chinese">仅针对管理员自动接收UAC提示</span><span class="english">Disable UAC Prompts for Administrators Only</span></p>

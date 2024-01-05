@@ -1,5 +1,7 @@
 # snooze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snooze.md)
+
 <p><span class="chinese">它可真是个贪睡的小家伙。</span><span class="english">It is really a snooze of a small guy.</span></p>
 
 <p><span class="chinese">在得失眠症之前我没有为睡眠发过愁。</span><span class="english">Before the insomnia I didn’t hit snooze.</span></p>

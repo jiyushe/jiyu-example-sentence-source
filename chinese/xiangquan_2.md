@@ -1,5 +1,7 @@
 # 项圈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangquan_2.md)
+
 <p><span class="chinese">这两只的脖子上戴有项圈。</span><span class="english">These two are marked with collars.</span></p>
 
 <p><span class="chinese">它脖子上戴着一个破项圈。</span><span class="english">Around his neck was a crude collar.</span></p>

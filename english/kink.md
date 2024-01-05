@@ -1,5 +1,7 @@
 # kink
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kink.md)
+
 <p><span class="chinese">这折下是明显地开始出现了。</span><span class="english">This kink is beginning to be obvious now!</span></p>
 
 <p><span class="chinese">把铁丝拉紧，别让它扭成结。</span><span class="english">Keep the wire stretched tight don't let it kink.</span></p>

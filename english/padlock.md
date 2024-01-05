@@ -1,5 +1,7 @@
 # padlock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/padlock.md)
+
 <p><span class="chinese">婚姻如同一把锁。</span><span class="english">Wedlock is a padlock.</span></p>
 
 <p><span class="chinese">一个劣质的挂锁引发一个撬锁者。</span><span class="english">A bad padlock invites a picklock.</span></p>

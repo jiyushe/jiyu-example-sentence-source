@@ -1,5 +1,7 @@
 # 校园
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoyuan_1.md)
+
 <p><span class="chinese">校园被辐射。</span><span class="english">Schoolyards irradiated.</span></p>
 
 <p><span class="chinese">这是个非常城市化的校园。</span><span class="english">It's a very urban campus.</span></p>

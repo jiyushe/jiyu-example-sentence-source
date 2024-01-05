@@ -1,5 +1,7 @@
 # sheeting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sheeting.md)
+
 <p><span class="chinese">用珍珠条将槽尾空余处填充。</span><span class="english">Fill void with epe sheeting.</span></p>
 
 <p><span class="chinese">面板通过钣金加工成型。</span><span class="english">The faceplate is shaped through sheeting.</span></p>

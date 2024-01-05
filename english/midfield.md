@@ -1,5 +1,7 @@
 # midfield
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/midfield.md)
+
 <p><span class="chinese">曼奇尼实际上输掉了中场。</span><span class="english">Mancini had effectively lost his midfield.</span></p>
 
 <p><span class="chinese">利物浦的中场看起来慢吞吞的，很平凡。</span><span class="english">Liverpool's midfield looked slow and stodgy.</span></p>

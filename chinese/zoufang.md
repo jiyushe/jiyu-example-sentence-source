@@ -1,5 +1,7 @@
 # 走访
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zoufang.md)
+
 <p><span class="chinese">走访不遇为怅。</span><span class="english">Sorry not to have found you at home.</span></p>
 
 <p><span class="chinese">当走访大学校园时我感到震惊。</span><span class="english">I’m shocked when I go to college campuses.</span></p>

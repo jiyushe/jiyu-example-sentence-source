@@ -1,5 +1,7 @@
 # 推定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuiding.md)
+
 <p><span class="chinese">利用豚草及核放射物对沉积物进行年代推定</span><span class="english">Dating sediments using ragweed and nuclear fallout</span></p>
 
 <p><span class="chinese">这一证据支持了我认为她有罪的推定。</span><span class="english">This evidence supports my argument that she is guilty.</span></p>

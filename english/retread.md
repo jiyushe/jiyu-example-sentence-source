@@ -1,5 +1,7 @@
 # retread
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retread.md)
+
 <p><span class="chinese">他不应该去特殊学校学怎么翻修轮胎。</span><span class="english">He's not going to some special school to learn how to retread tires.</span></p>
 
 <p><span class="chinese">他不会去什么特殊学校学习怎样翻新轮胎。</span><span class="english">He's not going to some special school to learn how to retread tires.</span></p>

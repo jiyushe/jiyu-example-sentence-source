@@ -1,5 +1,7 @@
 # 扶老携幼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fulaoxieyou.md)
+
 <p><span class="chinese">每逢假日，人们扶老携幼来此游览，或聚会、或野餐、或游泳。</span><span class="english">On holidays, whole families will come and have an outing here, chatting, picnicking or having a dip in the river.</span></p>
 
 <p><span class="chinese">因此，每到除夕，村村寨寨的人们便扶老携幼，逃往深山，以躲避“年”的伤害。</span><span class="english">Therefore, every New Year's Eve, people young and old in the open air, fled to the mountains to escape ", " harm.</span></p>

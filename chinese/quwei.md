@@ -1,5 +1,7 @@
 # 趣味
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quwei.md)
+
 <p><span class="chinese">或者说半趣味。</span><span class="english">Or perhaps half-interesting.</span></p>
 
 <p><span class="chinese">那里的一切都趣味盎然。</span><span class="english">What is there is interesting.</span></p>

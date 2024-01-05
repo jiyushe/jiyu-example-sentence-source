@@ -1,5 +1,7 @@
 # empiricist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/empiricist.md)
+
 <p><span class="chinese">从经验主义的观点看，这是一个令人困惑的局面。</span><span class="english">From an empiricist point of view, this is a baffling situation.</span></p>
 
 <p><span class="chinese">不过，经验主义可以体现在不同方面。</span><span class="english">But there are different respects in which one can be an empiricist.</span></p>

@@ -1,5 +1,7 @@
 # vehement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vehement.md)
+
 <p><span class="chinese">以它全部狂暴激烈的表演，出于多种原因。</span><span class="english">With all its angry and vehement play of cause.</span></p>
 
 <p><span class="chinese">动作朴质，喊声激越。</span><span class="english">The movements are simple and the shouts vehement.</span></p>

@@ -1,5 +1,7 @@
 # ukraine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ukraine.md)
+
 <p><span class="chinese">在乌克兰，没什么事是确定的。</span><span class="english">In Ukraine nothing is ever fixed.</span></p>
 
 <p><span class="chinese">乌克兰可以从中吸取教训。</span><span class="english">Ukraine can learn from that experience.</span></p>

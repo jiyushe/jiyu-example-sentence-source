@@ -1,5 +1,7 @@
 # 他俩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taliang.md)
+
 <p><span class="chinese">他俩打得火热。</span><span class="english">They two are enamored.</span></p>
 
 <p><span class="chinese">接济他俩钱儿。</span><span class="english">Help him with some money.</span></p>

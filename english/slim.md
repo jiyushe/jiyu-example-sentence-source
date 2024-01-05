@@ -1,5 +1,7 @@
 # slim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slim.md)
+
 <p><span class="chinese">用汤来瘦身。</span><span class="english">Slim down with soup.</span></p>
 
 <p><span class="chinese">她身量修长。</span><span class="english">She is tall and slim.</span></p>

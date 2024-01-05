@@ -1,5 +1,7 @@
 # 序文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuwen.md)
+
 <p><span class="chinese">“协议”，其含义与序文中所作界定相同。</span><span class="english">"Agreement" shall have the meaning defined in the preamble.</span></p>
 
 <p><span class="chinese">序文提出疑问，本论剖析疑问，定论处理疑问。</span><span class="english">Preamble question, body, analyze the question, word processing question.</span></p>

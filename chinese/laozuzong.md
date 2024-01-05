@@ -1,5 +1,7 @@
 # 老祖宗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laozuzong.md)
+
 <p><span class="chinese">现在这个问题出现的时候，要去问老祖宗。</span><span class="english">Now this problem appears, we should go to our ancestors.</span></p>
 
 <p><span class="chinese">我们吃过这个苦头，我们的老祖宗也吃过这个苦头。</span><span class="english">We sufferedfrom this, and our forefathers suffered form this.</span></p>

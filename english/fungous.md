@@ -1,5 +1,7 @@
 # fungous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fungous.md)
+
 <p><span class="chinese">茎由皮层。木质部和海绵状的髓组成。</span><span class="english">The bine is comprised by cerebral cortex, xylem and fungous marrow.</span></p>
 
 <p><span class="chinese">种子常三棱状，常内卷在具海绵状纤维质体内。</span><span class="english">Seed Chang Sanleng shape, constant involute be in a fungous fiber plastid inside.</span></p>

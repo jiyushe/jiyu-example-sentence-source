@@ -1,5 +1,7 @@
 # headlong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headlong.md)
+
 <p><span class="chinese">我头朝下跳入海中。</span><span class="english">I dived headlong into the sea.</span></p>
 
 <p><span class="chinese">他扑通一声跳进河里。</span><span class="english">He leapt headlong into the river.</span></p>

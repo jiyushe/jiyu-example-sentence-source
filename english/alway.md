@@ -1,5 +1,7 @@
 # alway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alway.md)
+
 <p><span class="chinese">春不总是千篇一律的。</span><span class="english">Springs are not alway the same.</span></p>
 
 <p><span class="chinese">她总是缠着他要礼物。</span><span class="english">She is alway worrying him for presents.</span></p>

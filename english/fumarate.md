@@ -1,5 +1,7 @@
 # fumarate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fumarate.md)
+
 <p><span class="chinese">目的改进富马酸氯马斯汀片剂的工艺处方。</span><span class="english">Objective To improve the prescription of Clemastine Fumarate Tablets.</span></p>
 
 <p><span class="chinese">补充延胡索酸钠对血浆测定项目没有产生影响。</span><span class="english">Sodium fumarate supplementation had no effect on plasma measurements.</span></p>

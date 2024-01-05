@@ -1,5 +1,7 @@
 # relativism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relativism.md)
+
 <p><span class="chinese">科学知识社会学真的是相对主义吗?。</span><span class="english">Is SSK a Kind of Relativism?</span></p>
 
 <p><span class="chinese">所以相对论是真的。</span><span class="english">Therefore relativism is true.</span></p>

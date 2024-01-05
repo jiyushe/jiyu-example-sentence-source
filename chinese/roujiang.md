@@ -1,5 +1,7 @@
 # 肉酱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/roujiang.md)
+
 <p><span class="chinese">比如芹菜室，牛排室，还有肉酱室。</span><span class="english">Celery in one. Steak in another.</span></p>
 
 <p><span class="chinese">于是我买了很贵的意大利面和肉酱，看上去非常美味。</span><span class="english">I bought expensive pasta and sauce etc.</span></p>

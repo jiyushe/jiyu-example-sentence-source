@@ -1,5 +1,7 @@
 # automaton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/automaton.md)
+
 <p><span class="chinese">要击败这部1770年的自动国际象棋机似乎不太可能。</span><span class="english">It was nearly impossible to beat this chess-playing automaton of 1770.</span></p>
 
 <p><span class="chinese">自动论编译程序单词识别论。</span><span class="english">Automaton theory is a basic theory of compile routine for identifying words.</span></p>

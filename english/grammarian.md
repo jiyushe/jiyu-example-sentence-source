@@ -1,5 +1,7 @@
 # grammarian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grammarian.md)
+
 <p><span class="chinese">我喜欢当语言讲评人。</span><span class="english">I love being the grammarian.</span></p>
 
 <p><span class="chinese">不只一位语法家讨论过这个问题。</span><span class="english">More grammarian have treated this subject.</span></p>

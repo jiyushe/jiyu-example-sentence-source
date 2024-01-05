@@ -1,5 +1,7 @@
 # amethyst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amethyst.md)
+
 <p><span class="chinese">钻石，红宝石，绿宝石，紫水晶</span><span class="english">diamond, ruby, emerald, amethyst</span></p>
 
 <p><span class="chinese">在火焰里凝结的琥珀和紫晶。</span><span class="english">In flames of amber and of amethyst.</span></p>

@@ -1,5 +1,7 @@
 # diatribe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diatribe.md)
+
 <p><span class="chinese">他开始长篇大论地进行抨击。</span><span class="english">He launched into a long diatribe.</span></p>
 
 <p><span class="chinese">我要在我的谩骂中揭露这一点。</span><span class="english">Here I am exposing them in my diatribe.</span></p>

@@ -1,5 +1,7 @@
 # 挨门挨户
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aimenaihu.md)
+
 <p><span class="chinese">他挨门挨户乞讨。</span><span class="english">He begged from door to door.</span></p>
 
 <p><span class="chinese">他们在圣诞节时常去挨门挨户地唱圣诞颂歌。</span><span class="english">They often went carolling at Christmas.</span></p>

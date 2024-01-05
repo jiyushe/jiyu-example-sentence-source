@@ -1,5 +1,7 @@
 # myriad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/myriad.md)
+
 <p><span class="chinese">众星拱月。</span><span class="english">A myriad of stars surround the moon.</span></p>
 
 <p><span class="chinese">描绘出顺义万千气象。</span><span class="english">Portraying myriad pictures for Shunyi.</span></p>

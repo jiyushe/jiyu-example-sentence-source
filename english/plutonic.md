@@ -1,5 +1,7 @@
 # plutonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plutonic.md)
+
 <p><span class="chinese">暗色岩是一种火成岩。</span><span class="english">Trap rock is a form of plutonic igneous rock.</span></p>
 
 <p><span class="chinese">深层搅拌桩是软土地基处理中的一项新技术，具有安全可靠、经济实用的优点。</span><span class="english">Plutonic mixing pile is a new technique in deal with ooze foundation. It is safety, reliable, and economical.</span></p>

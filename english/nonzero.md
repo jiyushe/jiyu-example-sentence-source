@@ -1,5 +1,7 @@
 # nonzero
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonzero.md)
+
 <p><span class="chinese">如果给定链表为空，则返回非零值。</span><span class="english">Returns a nonzero value if the given list is empty.</span></p>
 
 <p><span class="chinese">其值必须是正的非零整数。</span><span class="english">Its value must be a positive nonzero integer number.</span></p>

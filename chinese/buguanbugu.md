@@ -1,5 +1,7 @@
 # 不管不顾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buguanbugu.md)
+
 <p><span class="chinese">她说，两年的时间，他对之不管不顾，任由它慢慢长大。</span><span class="english">For two years, she says, he ignored it and it kept growing.</span></p>
 
 <p><span class="chinese">保持头脑明锐，说不爱就不爱，这也算是一种特别的不管不顾的勇气。</span><span class="english">And there is a kind of desperate courage in being lucid and refusing to love.</span></p>

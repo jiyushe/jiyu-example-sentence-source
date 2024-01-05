@@ -1,5 +1,7 @@
 # 魂不附体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunbufuti.md)
+
 <p><span class="chinese">她吓得魂不附体。</span><span class="english">She was scared out of wits.</span></p>
 
 <p><span class="chinese">一只老鼠把她吓得魂不附体。</span><span class="english">A mouse scared her out of her wits.</span></p>

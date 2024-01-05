@@ -1,5 +1,7 @@
 # 海葬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haizang.md)
+
 <p><span class="chinese">但另一个挥之不去的问题是，为什么选择的是海葬？</span><span class="english">But the lingering question is, Why at sea?</span></p>
 
 <p><span class="chinese">海葬的具体地点并未透露。</span><span class="english">The exact location of the burial was not revealed.</span></p>

@@ -1,5 +1,7 @@
 # 关于
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guanyu.md)
+
 <p><span class="chinese">你能给我介绍一下关于这个项目的详细情况吗？</span><span class="english">Could you give me some details about this project?</span></p>
 <p><span class="chinese">我们需要讨论一下关于下个月会议的安排。</span><span class="english">We need to discuss arrangements for next month's meeting.</span></p>
 <p><span class="chinese">她写了一篇文章关于环保的重要性。</span><span class="english">She wrote an article about the importance of environmental protection.</span></p>

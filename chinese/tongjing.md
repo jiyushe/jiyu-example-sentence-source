@@ -1,5 +1,7 @@
 # 痛经
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongjing.md)
+
 <p><span class="chinese">最有可能引起痛经的原因是什么？</span><span class="english">What is likely causing my symptoms?</span></p>
 
 <p><span class="chinese">有什么办法可以治疗痛经？</span><span class="english">What method can treat dysmenorrhoea?</span></p>

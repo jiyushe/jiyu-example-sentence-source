@@ -1,5 +1,7 @@
 # method 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/method_1.md)
+
 <p><span class="chinese">采样方法。</span><span class="english">Sampling method.</span></p>
 
 <p><span class="chinese">法犸说道。</span><span class="english">The method Mao says.</span></p>

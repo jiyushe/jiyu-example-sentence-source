@@ -1,5 +1,7 @@
 # concent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concent.md)
+
 <p><span class="chinese">电视音乐会上的那位？</span><span class="english">At the concent on TV?</span></p>
 
 <p><span class="chinese">我昨天去听音乐会了。</span><span class="english">I went to concent yesterday.</span></p>

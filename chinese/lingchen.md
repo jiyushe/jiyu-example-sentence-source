@@ -1,5 +1,7 @@
 # 凌晨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingchen.md)
+
 <p><span class="chinese">在凌晨3点你的电话铃响起。</span><span class="english">YOUR phone rings at 3am.</span></p>
 
 <p><span class="chinese">有一个贫穷的凌晨一点兰比。</span><span class="english">There's a poor wee little lamby.</span></p>

@@ -1,5 +1,7 @@
 # 用笔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongbi.md)
+
 <p><span class="chinese">我用一台电脑写作，不用笔。</span><span class="english">I write with a computer instead of a pen.</span></p>
 
 <p><span class="chinese">我还在用笔写，它是我的老朋友了。</span><span class="english">I'm still using the pen. It's my old friend.</span></p>

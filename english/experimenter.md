@@ -1,5 +1,7 @@
 # experimenter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/experimenter.md)
+
 <p><span class="chinese">你会得到实验者的号码。</span><span class="english">You get the phone number of the experimenter.</span></p>
 
 <p><span class="chinese">表格调查你们认为实验的有多大魅力。</span><span class="english">The forms ask how attracted you are to the experimenter.</span></p>

@@ -1,5 +1,7 @@
 # 月子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuezi.md)
+
 <p><span class="chinese">我月子里是在小床上睡的。</span><span class="english">I was in crib when I was just born.</span></p>
 
 <p><span class="chinese">治好疟疾，过完月子后，就带我回了农村。</span><span class="english">She brought me back to the village after the malaria was cured.</span></p>

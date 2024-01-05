@@ -1,5 +1,7 @@
 # hydrogen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrogen.md)
+
 <p><span class="chinese">让我们看一看氢原子。</span><span class="english">Let's look for hydrogen.</span></p>
 
 <p><span class="chinese">水是由氧和氢组成。</span><span class="english">Hydrogen is highly explosive.</span></p>

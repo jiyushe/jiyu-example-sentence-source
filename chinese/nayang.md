@@ -1,5 +1,7 @@
 # 那样
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nayang.md)
+
 <p><span class="chinese">你是那样的吗？</span><span class="english">Is that you?</span></p>
 
 <p><span class="chinese">那样它是的尘埃！</span><span class="english">So mote it be!</span></p>

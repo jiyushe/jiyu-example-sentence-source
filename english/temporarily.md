@@ -1,5 +1,7 @@
 # temporarily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/temporarily.md)
+
 <p><span class="chinese">她笑言暂时没有。</span><span class="english">She smiled temporarily.</span></p>
 
 <p><span class="chinese">我暂时住在甲洞。</span><span class="english">I am staying in Kepong temporarily.</span></p>

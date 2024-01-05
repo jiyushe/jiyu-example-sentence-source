@@ -1,5 +1,7 @@
 # 县委
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianwei.md)
+
 <p><span class="chinese">我是巴东县委书记陈行甲。</span><span class="english">I Badong county party secretary Chen row A.</span></p>
 
 <p><span class="chinese">第二天，我见到了他们县委书记。</span><span class="english">The next day, I saw them county wei secretary.</span></p>

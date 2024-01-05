@@ -1,5 +1,7 @@
 # mutiny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mutiny.md)
+
 <p><span class="chinese">换言之，你怕发生一场哗变。</span><span class="english">In other words, you fear a mutiny.</span></p>
 
 <p><span class="chinese">在船上不执行命令就是哗变。</span><span class="english">Failure to obey orders on a ship is mutiny.</span></p>

@@ -1,5 +1,7 @@
 # 装饰品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangshipin.md)
+
 <p><span class="chinese">在山洞里发现的步枪装饰品。</span><span class="english">Rifle decorations found in a cave.</span></p>
 
 <p><span class="chinese">祭坛的装饰品不应如此俗丽。</span><span class="english">The altarpiece should not be so gaudy.</span></p>

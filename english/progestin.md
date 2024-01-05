@@ -1,5 +1,7 @@
 # progestin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/progestin.md)
+
 <p><span class="chinese">然而，他非常喜欢不带任何副作用的孕酮植入。</span><span class="english">He did, however, like the progestin implant, which caused no side effects.</span></p>
 
 <p><span class="chinese">小剂量利维爱用于反加疗法，与其它反加方案组比更具优越性。</span><span class="english">Low dose Tibolone is a better option than other estrogen and progestin therapy.</span></p>

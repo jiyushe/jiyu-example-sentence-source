@@ -1,5 +1,7 @@
 # revolted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revolted.md)
+
 <p><span class="chinese">他的话让我恶心。</span><span class="english">His words revolted me.</span></p>
 
 <p><span class="chinese">这景象使他厌恶。</span><span class="english">The scene revolted him.</span></p>

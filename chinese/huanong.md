@@ -1,5 +1,7 @@
 # 花农
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanong.md)
+
 <p><span class="chinese">荷兰花农多利用电脑从事生产，以降低成本，增加收益。</span><span class="english">Holland's growers do most of their production by computer to chop costs.</span></p>
 
 <p><span class="chinese">勾画了一个以专业插画帮助花农，这个免费视频图。</span><span class="english">Sketch out a drawing of a flower with the help of a professional illustrator in this free video.</span></p>

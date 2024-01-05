@@ -1,5 +1,7 @@
 # capital 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capital.md)
+
 <p><span class="chinese">这艘船是主力舰吗？</span><span class="english">Is it a capital ship?</span></p>
 
 <p><span class="chinese">什么是资本性资产?。</span><span class="english">What is capital asset?</span></p>

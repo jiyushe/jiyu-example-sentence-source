@@ -1,5 +1,7 @@
 # bollocks
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bollocks.md)
+
 <p><span class="chinese">哦，我真是猪头了！</span><span class="english">Oh, that's me bollocks !</span></p>
 
 <p><span class="chinese">我是说，她都是在胡说。</span><span class="english">I mean, it was all bollocks.</span></p>

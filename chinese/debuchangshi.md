@@ -1,5 +1,7 @@
 # 得不偿失
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/debuchangshi.md)
+
 <p><span class="chinese">得不偿失。</span><span class="english">The gain is outweighed by the loss.</span></p>
 
 <p><span class="chinese">这就是为什么我把这看作一种得不偿失。</span><span class="english">This is why I say this is a Pyrrhic victory.</span></p>

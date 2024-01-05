@@ -1,5 +1,7 @@
 # transmembrane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transmembrane.md)
+
 <p><span class="chinese">第五个外显子编码跨膜结构域。</span><span class="english">The fifth exon codes for the transmembrane domain.</span></p>
 
 <p><span class="chinese">CD36是一种跨膜糖蛋白，可与多种配基相结合，它在体内的分布广泛。</span><span class="english">CD36 is a transmembrane glycoprotein and can combine with a variety of ligands.</span></p>

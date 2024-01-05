@@ -1,5 +1,7 @@
 # 作家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuojia_2.md)
+
 <p><span class="chinese">我是一名作家。</span><span class="english">I am a writer.</span></p>
 
 <p><span class="chinese">作家写作品。</span><span class="english">Writers write.</span></p>

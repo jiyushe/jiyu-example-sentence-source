@@ -1,5 +1,7 @@
 # treasury
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/treasury.md)
+
 <p><span class="chinese">购买长期国库券还是短期国库券呢</span><span class="english">Either in treasury bonds or treasury bills.</span></p>
 
 <p><span class="chinese">财政部强烈反对这种方法。</span><span class="english">The Treasury strongly opposes this approach.</span></p>

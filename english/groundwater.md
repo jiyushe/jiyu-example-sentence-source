@@ -1,5 +1,7 @@
 # groundwater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/groundwater.md)
+
 <p><span class="chinese">地下水系统是一个复杂的随机系统。</span><span class="english">Groundwater system is an intricate and stochastic system.</span></p>
 
 <p><span class="chinese">潜水淡化落后于土壤脱盐。</span><span class="english">Dilution of groundwater falls behind of soil desalinization.</span></p>

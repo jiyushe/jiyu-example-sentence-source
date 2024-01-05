@@ -1,5 +1,7 @@
 # qualified
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/qualified.md)
+
 <p><span class="chinese">我就没资格唠叨。</span><span class="english">I'm not qualified to gab.</span></p>
 
 <p><span class="chinese">你完全有资格一试。</span><span class="english">You’re obviously qualified.</span></p>

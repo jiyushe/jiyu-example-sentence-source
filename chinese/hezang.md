@@ -1,5 +1,7 @@
 # 合葬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hezang.md)
+
 <p><span class="chinese">我一生的幸福啊，都已在这里，与你合葬。</span><span class="english">All my life's bliss is in the grave with thee.</span></p>
 
 <p><span class="chinese">墓冢为李鸿章与赵氏夫人的合葬墓。</span><span class="english">Actually this is a joint tomb both for Li and his wife.</span></p>

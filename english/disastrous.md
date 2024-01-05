@@ -1,5 +1,7 @@
 # disastrous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disastrous.md)
+
 <p><span class="chinese">还是健忘是悲惨的？</span><span class="english">Or amnesia is disastrous?</span></p>
 
 <p><span class="chinese">迟到将是灾难性的。</span><span class="english">A tardy arrival is disastrous.</span></p>

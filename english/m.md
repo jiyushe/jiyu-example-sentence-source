@@ -1,5 +1,7 @@
 # m
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/m.md)
+
 <p><span class="chinese">米肠子。</span><span class="english">M intestines.</span></p>
 
 <p><span class="chinese">对于所有米技术。</span><span class="english">For all M. Tech.</span></p>

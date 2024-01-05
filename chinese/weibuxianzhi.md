@@ -1,5 +1,7 @@
 # 未卜先知
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weibuxianzhi.md)
+
 <p><span class="chinese">谁可以未卜先知呢？</span><span class="english">Who could foresee?</span></p>
 
 <p><span class="chinese">我们怎么可能未卜先知？</span><span class="english">How were we supposed to know?</span></p>

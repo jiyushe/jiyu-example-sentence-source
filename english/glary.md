@@ -1,5 +1,7 @@
 # glary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glary.md)
+
 <p><span class="chinese">但是在今晚，明亮的月亮到午夜以后才会下去。</span><span class="english">Tonight, however, the glary moon won't set till after midnight.</span></p>
 
 <p><span class="chinese">中华民族是个历史悠久的民族，有着光辉灿烂的文化传统。</span><span class="english">The Chinese Nation is a big family with a long history and glary cultural tradition.</span></p>

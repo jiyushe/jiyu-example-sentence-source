@@ -1,5 +1,7 @@
 # odorless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/odorless.md)
+
 <p><span class="chinese">白色或类白色结晶性粉末，无气味。</span><span class="english">White or white crystalline powder, odorless.</span></p>
 
 <p><span class="chinese">无色，无味，不燃，惰性，压缩气体。</span><span class="english">Colorless, odorless non-flammable, inert compress gas.</span></p>

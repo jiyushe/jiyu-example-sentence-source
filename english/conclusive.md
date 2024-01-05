@@ -1,5 +1,7 @@
 # conclusive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conclusive.md)
+
 <p><span class="chinese">但是对于人体的研究远未得到定论。</span><span class="english">Butthe body of research is far from conclusive.</span></p>
 
 <p><span class="chinese">萨拉·潘恩认真地擦洗着煎锅，从外到里一丝不苟。</span><span class="english">Sarah Penn washed the frying-pan with a conclusive air.</span></p>

@@ -1,5 +1,7 @@
 # 钠灯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nadeng.md)
+
 <p><span class="chinese">能代替汞灯、钠灯使用。</span><span class="english">Instead of mercury lamp and sodium lamp.</span></p>
 
 <p><span class="chinese">小吃摊儿都点着一盏盏钠灯。</span><span class="english">The snack bars at the night market all have sodium lamps.</span></p>

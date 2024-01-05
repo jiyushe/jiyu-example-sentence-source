@@ -1,5 +1,7 @@
 # baccarat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baccarat.md)
+
 <p><span class="chinese">百家乐有一个非常低的赌场优势。</span><span class="english">Baccarat has a very low house edge.</span></p>
 
 <p><span class="chinese">开心百家乐是经典赌场游戏。</span><span class="english">Happy baccarat is a classic casino game.</span></p>

@@ -1,5 +1,7 @@
 # discontent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discontent.md)
+
 <p><span class="chinese">他强压制住不满。</span><span class="english">Discontent smouldered in him.</span></p>
 
 <p><span class="chinese">不满是进步的开始。</span><span class="english">Discontent is the furst step in progress.</span></p>

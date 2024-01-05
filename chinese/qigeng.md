@@ -1,5 +1,7 @@
 # 起更
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qigeng.md)
+
 <p><span class="chinese">也许您发得起更高的工资。</span><span class="english">Perhaps you can afford more.</span></p>
 
 <p><span class="chinese">他表示，他们付得起更多的税费。</span><span class="english">He says they can afford to pay more.</span></p>

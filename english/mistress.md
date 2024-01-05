@@ -1,5 +1,7 @@
 # mistress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mistress.md)
+
 <p><span class="chinese">月亮是冷傲的情人。</span><span class="english">The moon is a harsh mistress.</span></p>
 
 <p><span class="chinese">现在去告诉你的女主人。</span><span class="english">Go now and tell your mistress.</span></p>

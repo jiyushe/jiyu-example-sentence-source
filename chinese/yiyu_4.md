@@ -1,5 +1,7 @@
 # 易于
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyu_4.md)
+
 <p><span class="chinese">这块木板易于穿孔。</span><span class="english">This board bores easily.</span></p>
 
 <p><span class="chinese">这种糨糊易于搅拌。</span><span class="english">This paste stirs easily.</span></p>

@@ -1,5 +1,7 @@
 # supplier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supplier.md)
+
 <p><span class="chinese">作为他们的供应商名册。</span><span class="english">UNGM as their supplier roster.</span></p>
 
 <p><span class="chinese">恒天裕盛是一家专业礼品供应商。</span><span class="english">We are a specialized present supplier.</span></p>

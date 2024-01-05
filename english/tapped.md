@@ -1,5 +1,7 @@
 # tapped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tapped.md)
+
 <p><span class="chinese">她轻轻地敲敲门。</span><span class="english">She tapped at the door.</span></p>
 
 <p><span class="chinese">他轻叩窗子。</span><span class="english">He tapped on the window.</span></p>

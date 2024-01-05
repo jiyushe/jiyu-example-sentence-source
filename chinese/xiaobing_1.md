@@ -1,5 +1,7 @@
 # 笑柄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaobing_1.md)
+
 <p><span class="chinese">我们的店是一个笑柄！</span><span class="english">Our store is a laughingstock!</span></p>
 
 <p><span class="chinese">当你跟别人不一样，你就会成为笑柄。</span><span class="english">When you are weird, you are a joke.</span></p>

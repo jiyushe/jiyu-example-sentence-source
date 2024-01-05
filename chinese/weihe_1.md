@@ -1,5 +1,7 @@
 # 威吓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weihe_1.md)
+
 <p><span class="chinese">匪徒用左轮手枪威吓他。</span><span class="english">The robber menaced him with a revolver.</span></p>
 
 <p><span class="chinese">我决不会因受到威吓而放弃职守。</span><span class="english">I will never be hectored out of doing my duty.</span></p>

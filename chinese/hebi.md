@@ -1,5 +1,7 @@
 # 何必
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hebi.md)
+
 <p><span class="chinese">所以何必撒谎呢？</span><span class="english">So why lie?</span></p>
 
 <p><span class="chinese">何必嘞?</span><span class="english">Why so much fuss?</span></p>

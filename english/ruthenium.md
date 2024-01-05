@@ -1,5 +1,7 @@
 # ruthenium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ruthenium.md)
+
 <p><span class="chinese">这金属配合物的核心要素是钌。</span><span class="english">This metal complex's core element is ruthenium.</span></p>
 
 <p><span class="chinese">可以用钌红来鉴定果胶。</span><span class="english">Pectins are demonstrated by staining with ruthenium red.</span></p>

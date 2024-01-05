@@ -1,5 +1,7 @@
 # narrative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/narrative.md)
+
 <p><span class="chinese">还有简短的讲述。</span><span class="english">and short narrative.</span></p>
 
 <p><span class="chinese">旧式叙述体已经不再。</span><span class="english">The old narrative is broken.</span></p>

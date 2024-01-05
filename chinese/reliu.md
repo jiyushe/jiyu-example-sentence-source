@@ -1,5 +1,7 @@
 # 热流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/reliu.md)
+
 <p><span class="chinese">我愿意感情的热流溢于心间。</span><span class="english">I love a hot flow of feeling fill my heart.</span></p>
 
 <p><span class="chinese">第三章，提出热流道计算机辅助概念设计的过程框架。</span><span class="english">In chapter 3, the process frame of hot runner CACD was put forward.</span></p>

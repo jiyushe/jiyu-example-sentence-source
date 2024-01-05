@@ -1,5 +1,7 @@
 # tinnitus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tinnitus.md)
+
 <p><span class="chinese">长期服用塞乐特会不会引起耳鸣呢？</span><span class="english">Long-term use plug Lete will it cause tinnitus?</span></p>
 
 <p><span class="chinese">强烈的噪音会导致老年性耳聋和耳鸣.</span><span class="english">Loud noise contributes to presbycusis and tinnitus.</span></p>

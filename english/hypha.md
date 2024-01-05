@@ -1,5 +1,7 @@
 # hypha
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypha.md)
+
 <p><span class="chinese">菌丝细胞一般呈长形竹节状。</span><span class="english">Hypha cell is long type like bamboo segment.</span></p>
 
 <p><span class="chinese">菌丝和分生孢子致病性减弱。</span><span class="english">The pathogenicity of hypha and spore was weakened.</span></p>

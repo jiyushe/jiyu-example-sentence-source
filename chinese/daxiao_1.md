@@ -1,5 +1,7 @@
 # 大校
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daxiao_1.md)
+
 <p><span class="chinese">金将军认为徐大校与大量中国军事最高机密关联紧密。</span><span class="english">Jin said Xu was extremely close to China's top military brass.</span></p>
 
 <p><span class="chinese">据新华社报道，飞行员大校邱光华再过一个月就退休了。</span><span class="english">The pilot, Col. Qiu Guanghua, had been just one month from retirement, Xinhua said.</span></p>

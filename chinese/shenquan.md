@@ -1,5 +1,7 @@
 # 神权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenquan.md)
+
 <p><span class="chinese">现在类似的神权政体甚至很难改掉。</span><span class="english">Even now quasi-theocracy dies hard.</span></p>
 
 <p><span class="chinese">滑铁卢是神权的伥鬼。</span><span class="english">Waterloo bears divine right on its crupper.</span></p>

@@ -1,5 +1,7 @@
 # 飞行器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feixingqi.md)
+
 <p><span class="chinese">他给我的孩子们买过喷气飞行器。</span><span class="english">He bought my kids jetpacks.</span></p>
 
 <p><span class="chinese">在此358年前的1545年，己有飞行器在空中飞行了。</span><span class="english">It flew 358 years earlier in 1545.</span></p>

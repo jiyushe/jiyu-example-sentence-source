@@ -1,5 +1,7 @@
 # subsurface
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subsurface.md)
+
 <p><span class="chinese">地下灌溉的适用性是有限制的。</span><span class="english">Subsurface irrigation is limited in its adaptation.</span></p>
 
 <p><span class="chinese">天然二氧化碳气藏是一种地下资源。</span><span class="english">Natural carbon dioxide gas pool is a kind of subsurface resources.</span></p>

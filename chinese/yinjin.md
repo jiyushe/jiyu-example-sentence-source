@@ -1,5 +1,7 @@
 # 引进
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinjin.md)
+
 <p><span class="chinese">或者说他引进了一个新概念。</span><span class="english">Or he introduced a new concept.</span></p>
 
 <p><span class="chinese">服悟员把我们引进了候车室。</span><span class="english">The porter ushered us into the room.</span></p>

@@ -1,5 +1,7 @@
 # 晕头转向
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuntouzhuanxiang.md)
+
 <p><span class="chinese">他与她沉溺情海，爱得晕头转向。</span><span class="english">He is head over-heels in love with her.</span></p>
 
 <p><span class="chinese">我挥拳打了他一下，把他打得晕头转向。</span><span class="english">I took a swing at him and knocked him silly.</span></p>

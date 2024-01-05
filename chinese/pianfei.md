@@ -1,5 +1,7 @@
 # 偏废
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianfei.md)
+
 <p><span class="chinese">偏废任何一方，都是和马克思主义的人生价值观背道而驰的。</span><span class="english">Suppressed any party, are and marxism unbiblical values in life.</span></p>
 
 <p><span class="chinese">三者的任一不足或偏废，都可能威胁到政治稳定的局面。</span><span class="english">Any problem in any one of three facts will menace political situation.</span></p>

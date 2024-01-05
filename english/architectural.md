@@ -1,5 +1,7 @@
 # architectural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/architectural.md)
+
 <p><span class="chinese">这所房子是建造学地成绩。</span><span class="english">The house is an architectural triumph.</span></p>
 
 <p><span class="chinese">作为基本体系结构单元的主题</span><span class="english">The topic as the basic architectural unit</span></p>

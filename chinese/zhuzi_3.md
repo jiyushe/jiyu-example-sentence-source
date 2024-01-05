@@ -1,5 +1,7 @@
 # 珠子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuzi_3.md)
+
 <p><span class="chinese">当心眼珠子！</span><span class="english">Beware of eye pupil son!</span></p>
 
 <p><span class="chinese">是晨曦遗漏的珠子么？</span><span class="english">Is bead which the dawn omits?</span></p>

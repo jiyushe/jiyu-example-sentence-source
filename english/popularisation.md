@@ -1,5 +1,7 @@
 # popularisation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/popularisation.md)
+
 <p><span class="chinese">然而中国科协自身无法改变这种自上而下的普及模式。</span><span class="english">But CAST alone cannot change the top-down model for popularisation.</span></p>
 
 <p><span class="chinese">另外一个问题是要改善科学传播与科学普及的方法。</span><span class="english">Another would be to revise the approach to science communication and popularisation.</span></p>

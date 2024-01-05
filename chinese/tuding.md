@@ -1,5 +1,7 @@
 # 图钉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuding.md)
+
 <p><span class="chinese">他把那张地图钉在桌子上。</span><span class="english">He pinned the map down to the table.</span></p>
 
 <p><span class="chinese">那是蒂姆一堆锡制的图钉。</span><span class="english">That is Tim's stack of tin thumbtacks.</span></p>

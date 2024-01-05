@@ -1,5 +1,7 @@
 # recover 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recover.md)
+
 <p><span class="chinese">找回星星。</span><span class="english">Recover tde star.</span></p>
 
 <p><span class="chinese">成绩弥补？</span><span class="english">To recover the grade?</span></p>

@@ -1,5 +1,7 @@
 # 当之无愧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangzhiwukui.md)
+
 <p><span class="chinese">享受一个当之无愧的假期吧！</span><span class="english">Take a well-deserved break!</span></p>
 
 <p><span class="chinese">场上或场下都是当之无愧的领袖。</span><span class="english">The leader on and off the court.</span></p>

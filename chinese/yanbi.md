@@ -1,5 +1,7 @@
 # 岩壁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanbi.md)
+
 <p><span class="chinese">我真的爱岩壁。</span><span class="english">I really love rock.</span></p>
 
 <p><span class="chinese">只有你和岩壁。</span><span class="english">It's you and the rock face.</span></p>

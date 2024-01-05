@@ -1,5 +1,7 @@
 # borer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/borer.md)
+
 <p><span class="chinese">增量螟虫是用来确定树龄的一个。</span><span class="english">An increment borer is used to determine the age of a tree.</span></p>
 
 <p><span class="chinese">毒素可以帮助农作物抵抗害虫，尤其是玉米钻孔虫。</span><span class="english">This poison helps the plants resist insect, especially the maize borer.</span></p>

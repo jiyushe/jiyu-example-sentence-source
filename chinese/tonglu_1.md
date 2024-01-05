@@ -1,5 +1,7 @@
 # 通路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tonglu_1.md)
+
 <p><span class="chinese">希望在那里获得到安南的通路。</span><span class="english">He hoped to obtain a passage to Annam.</span></p>
 
 <p><span class="chinese">这条通路由磷酸化来控制。</span><span class="english">This pathway operates by phosphorylation.</span></p>

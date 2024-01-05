@@ -1,5 +1,7 @@
 # buzzword
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buzzword.md)
+
 <p><span class="chinese">营销是现在的时髦词汇。</span><span class="english">E-marketing is the current buzzword.</span></p>
 
 <p><span class="chinese">BuzzWord在设计上是一个惊人的成就。</span><span class="english">BuzzWord is a stunning achievement in design.</span></p>

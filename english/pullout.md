@@ -1,5 +1,7 @@
 # pullout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pullout.md)
+
 <p><span class="chinese">如此爱你，以至于不能自拔！</span><span class="english">So love you , that I Can't pullout !</span></p>
 
 <p><span class="chinese">迈克尔Oquendo说，撤军是一个坏主意。</span><span class="english">Michael Oquendo says the pullout is a bad idea.</span></p>

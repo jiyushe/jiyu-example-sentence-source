@@ -1,5 +1,7 @@
 # 商队
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangdui.md)
+
 <p><span class="chinese">商人们那天晚上在商队旅馆过夜。</span><span class="english">The merchants lied at a caravanserai that night.</span></p>
 
 <p><span class="chinese">哈桑老人和儿子纳苏，带领商队与风沙搏斗。</span><span class="english">Hassan and Nassau lead the caravan and sand fight.</span></p>

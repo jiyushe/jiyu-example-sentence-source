@@ -1,5 +1,7 @@
 # evangelism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evangelism.md)
+
 <p><span class="chinese">什么是传福音？</span><span class="english">What is Evangelism?</span></p>
 
 <p><span class="chinese">它需要一定程度的传道和领袖工作。</span><span class="english">It takes a degree of evangelism and leadership.</span></p>

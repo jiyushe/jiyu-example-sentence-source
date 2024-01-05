@@ -1,5 +1,7 @@
 # eastern 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eastern.md)
+
 <p><span class="chinese">我在远东公司服务。</span><span class="english">I'm with Far Eastern.</span></p>
 
 <p><span class="chinese">天空东方变成了粉红色。</span><span class="english">The eastern sky pinkened.</span></p>

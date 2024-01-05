@@ -1,5 +1,7 @@
 # levitate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/levitate.md)
+
 <p><span class="chinese">他想使桌子腾空悬起。</span><span class="english">He tried to levitate the table.</span></p>
 
 <p><span class="chinese">鬼魂只是悬浮在水面上方。</span><span class="english">Ghosts will simply levitate over the water.</span></p>

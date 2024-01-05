@@ -1,5 +1,7 @@
 # 口蹄疫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/koutiyi.md)
+
 <p><span class="chinese">然而与口蹄疫不同的是，Q-feve对人类也有危害。</span><span class="english">But unlike foot and mouth, Q-fever infects people.</span></p>
 
 <p><span class="chinese">正在查看朝鲜的牛是否有口蹄疫症状。</span><span class="english">Cattle in North Korea being checked for signs of FMD.</span></p>

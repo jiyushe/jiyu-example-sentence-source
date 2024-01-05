@@ -1,5 +1,7 @@
 # immunodeficiency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immunodeficiency.md)
+
 <p><span class="chinese">艾滋病病毒是指人体免疫缺损病毒。</span><span class="english">HIV stands for human immunodeficiency virus.</span></p>
 
 <p><span class="chinese">滴虫感染可引起人体免疫缺陷病毒的传播。</span><span class="english">The infection facilitates transmission of the human immunodeficiency virus.</span></p>

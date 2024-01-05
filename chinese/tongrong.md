@@ -1,5 +1,7 @@
 # 通融
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongrong.md)
+
 <p><span class="chinese">你或者你的挚爱焦躁时，要学着理解通融。</span><span class="english">Be understanding if you or your loved one is upset.</span></p>
 
 <p><span class="chinese">我们是尽可能地通融迁就你的。</span><span class="english">As much as we would like to accommodate you, Miss Roffe.</span></p>

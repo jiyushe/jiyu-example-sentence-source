@@ -1,5 +1,7 @@
 # unfreeze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unfreeze.md)
+
 <p><span class="chinese">解冻文件系统。</span><span class="english">Unfreeze the file system.</span></p>
 
 <p><span class="chinese">微波炉需要花一点时间才能将温度调到足够解冻它。</span><span class="english">It takes the microwave time to warm up your dinner enough to unfreeze it.</span></p>

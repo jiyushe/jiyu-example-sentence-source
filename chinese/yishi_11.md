@@ -1,5 +1,7 @@
 # 逸事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishi_11.md)
+
 <p><span class="chinese">哼！让你把逸事搞得一团糟。</span><span class="english">Hur! Trust you to make a mess of it.</span></p>
 
 <p><span class="chinese">报纸上尽是些关于王室成员趣闻逸事的报道。</span><span class="english">The papers are full of stories about the royals.</span></p>

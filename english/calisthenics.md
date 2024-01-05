@@ -1,5 +1,7 @@
 # calisthenics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calisthenics.md)
+
 <p><span class="chinese">我们一起做柔软操。</span><span class="english">Let us do calisthenics.</span></p>
 
 <p><span class="chinese">我喜欢做健美操。</span><span class="english">I like to do calisthenics.</span></p>

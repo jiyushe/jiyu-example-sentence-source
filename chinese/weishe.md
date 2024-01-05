@@ -1,5 +1,7 @@
 # 威慑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weishe.md)
+
 <p><span class="chinese">处罚封犯罪有强大的威慑作用。</span><span class="english">Punishment is a strong deterrent to crime.</span></p>
 
 <p><span class="chinese">核武器是终极的威慑力量。</span><span class="english">Nuclear weapons are the ultimate deterrent.</span></p>

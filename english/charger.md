@@ -1,5 +1,7 @@
 # charger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/charger.md)
+
 <p><span class="chinese">它有自己的干电池充电器。</span><span class="english">It has its own battery charger.</span></p>
 
 <p><span class="chinese">充电器需要数分钟检测电池满否。</span><span class="english">Can I leave batteries in the charger?</span></p>

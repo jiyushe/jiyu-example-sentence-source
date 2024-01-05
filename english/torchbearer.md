@@ -1,5 +1,7 @@
 # torchbearer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/torchbearer.md)
+
 <p><span class="chinese">我感到作为一名火炬手很高兴。</span><span class="english">I feel so good as the torchbearer.</span></p>
 
 <p><span class="chinese">作为火炬手，你如何表达自己的心情？</span><span class="english">What's the feeling to be a torchbearer ?</span></p>

@@ -1,5 +1,7 @@
 # 孳生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zisheng_1.md)
+
 <p><span class="chinese">蛆在乳酪里孳生。</span><span class="english">Maggots breed in cheese.</span></p>
 
 <p><span class="chinese">肥皂能孳生细菌。</span><span class="english">Bar soaps can harbor germs.</span></p>

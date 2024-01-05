@@ -1,5 +1,7 @@
 # 静静
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingjing_1.md)
+
 <p><span class="chinese">现在被装进黑色塑胶袋的我静静躺在掩埋场里。</span><span class="english">I am in a plastic bag in a landfill now.</span></p>
 
 <p><span class="chinese">它一直在静静关爱着古通州。</span><span class="english">It has quietly loved the ancient Tongzhou.</span></p>

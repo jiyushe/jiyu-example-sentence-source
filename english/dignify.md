@@ -1,5 +1,7 @@
 # dignify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dignify.md)
+
 <p><span class="chinese">我不想让罗德因为我的回答而骄傲。</span><span class="english">I didn't want to dignify Rod with an answer.</span></p>
 
 <p><span class="chinese">我不认为你的菜豆建议值得考虑。</span><span class="english">I won't even dignify your navy bean suggestion.</span></p>

@@ -1,5 +1,7 @@
 # mimosa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mimosa.md)
+
 <p><span class="chinese">我有几分一盆含羞草。</span><span class="english">I kind of a basin of mimosa.</span></p>
 
 <p><span class="chinese">这就是含羞草“害羞”的原因。</span><span class="english">This is the Mimosa "shy" reasons.</span></p>

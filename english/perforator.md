@@ -1,5 +1,7 @@
 # perforator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perforator.md)
+
 <p><span class="chinese">大射孔器可在裸眼井中使用，以减小地层损害。</span><span class="english">The mega perforator can be used in an open hole to reduce formation damage.</span></p>
 
 <p><span class="chinese">本文简要介绍它的设计原理和结构及工程应用。</span><span class="english">In this paper, tho design principles, structures and applications of the perforator.</span></p>

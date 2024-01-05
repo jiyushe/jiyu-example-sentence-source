@@ -1,5 +1,7 @@
 # expense
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expense.md)
+
 <p><span class="chinese">你出的起这笔费用吗？</span><span class="english">Can you afford the expense?</span></p>
 
 <p><span class="chinese">费用高得使人不敢问津。</span><span class="english">The expense is prohibitive.</span></p>

@@ -1,5 +1,7 @@
 # operant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/operant.md)
+
 <p><span class="chinese">行为条件贯穿在整个游戏中。</span><span class="english">Operant conditioning occurs all throughout games.</span></p>
 
 <p><span class="chinese">操作行为可以利用强化加以控制。</span><span class="english">Operant behavior can be used to strengthen control.</span></p>

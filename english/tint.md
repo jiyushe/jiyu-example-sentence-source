@@ -1,5 +1,7 @@
 # tint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tint.md)
+
 <p><span class="chinese">淡色是纯色与白色混杂后的成果。</span><span class="english">A tint is the hue mixed with white.</span></p>
 
 <p><span class="chinese">酒色明亮，淡麦杆色略带一丝青绿。</span><span class="english">Bright white straw with a green tint.</span></p>

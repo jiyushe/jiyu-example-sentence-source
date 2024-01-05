@@ -1,5 +1,7 @@
 # 赡养
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanyang_1.md)
+
 <p><span class="chinese">她赡养老母亲。</span><span class="english">She supports her old mother.</span></p>
 
 <p><span class="chinese">汉特是他一家的主要赡养者。</span><span class="english">Hunter is the chief support of the family.</span></p>

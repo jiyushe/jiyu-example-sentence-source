@@ -1,5 +1,7 @@
 # detent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/detent.md)
+
 <p><span class="chinese">制动器是鼠标轮的一个凹口。</span><span class="english">A detent is one notch of the mouse wheel.</span></p>
 
 <p><span class="chinese">周六，900多名示威者被警方逮捕。</span><span class="english">On Saturday, more than 900 demonstrators were detent by police.</span></p>

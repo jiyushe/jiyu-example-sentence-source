@@ -1,5 +1,7 @@
 # lucre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lucre.md)
+
 <p><span class="chinese">利欲使他不辨是非。</span><span class="english">He was blinded by the lust of lucre.</span></p>
 
 <p><span class="chinese">她仅仅为钱财而嫁给了一个外国人。</span><span class="english">She married a foreigner for mere lucre.</span></p>

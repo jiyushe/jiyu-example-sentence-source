@@ -1,5 +1,7 @@
 # drew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drew.md)
+
 <p><span class="chinese">他长叹一声。</span><span class="english">He drew a deep sigh.</span></p>
 
 <p><span class="chinese">他离开了我。</span><span class="english">He drew away from me.</span></p>

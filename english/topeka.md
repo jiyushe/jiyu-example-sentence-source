@@ -1,5 +1,7 @@
 # topeka
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/topeka.md)
+
 <p><span class="chinese">美国堪萨斯州中东一城市，位于托皮卡西南。</span><span class="english">A city of east-central Kansas southwest of Topeka.</span></p>
 
 <p><span class="chinese">在堪萨斯州的托皮卡，开车穿过游行队伍也是违法的。</span><span class="english">In Topeka , Kansas, it is illegal to drive ones car through a parade.</span></p>

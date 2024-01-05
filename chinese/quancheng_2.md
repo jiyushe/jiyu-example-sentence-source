@@ -1,5 +1,7 @@
 # 全称
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quancheng_2.md)
+
 <p><span class="chinese">G全称的含义是成功的马球运动。</span><span class="english">Victory horse polo game V. H. P.</span></p>
 
 <p><span class="chinese">它的全称形式是“美国之音”。</span><span class="english">Its full form is Voice of America.</span></p>

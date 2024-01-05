@@ -1,5 +1,7 @@
 # talon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/talon.md)
+
 <p><span class="chinese">当我有了一对尖锐的利爪。</span><span class="english">When I have a talon with a keen edge.</span></p>
 
 <p><span class="chinese">女性永远难逃减肥的魔爪。</span><span class="english">Woman can't run away from talon of slimming forever.</span></p>

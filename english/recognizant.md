@@ -1,5 +1,7 @@
 # recognizant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recognizant.md)
+
 <p><span class="chinese">见于神经衰弱，也见于轻度意识障碍时。</span><span class="english">See at neurasthenic, also see at spending recognizant obstacle gently when.</span></p>
 
 <p><span class="chinese">继而出现不同程度的意识障碍，表现为朦胧状态，精神错乱。</span><span class="english">Then appears the recognizant obstacle of different level, expression is fugue, crackbrained.</span></p>

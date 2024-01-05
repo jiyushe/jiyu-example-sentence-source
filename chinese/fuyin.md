@@ -1,5 +1,7 @@
 # 福音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuyin.md)
+
 <p><span class="chinese">传教福音。</span><span class="english">He evangelizes the gospel.</span></p>
 
 <p><span class="chinese">他选择了路加福音。</span><span class="english">He took the Gospel of Luke.</span></p>

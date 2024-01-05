@@ -1,5 +1,7 @@
 # planar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/planar.md)
+
 <p><span class="chinese">提出的完整画隐线图标记方法也适用于平面立体画隐线图。</span><span class="english">This labeling method can also be used for planar objects.</span></p>
 
 <p><span class="chinese">设计了一种结构简单的H形双面印刷超宽带单极子天线。</span><span class="english">A novel simple H-shaped printed planar antenna is designed.</span></p>

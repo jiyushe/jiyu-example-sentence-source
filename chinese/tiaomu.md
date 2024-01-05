@@ -1,5 +1,7 @@
 # 条目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaomu.md)
+
 <p><span class="chinese">那是一个柒的条目。</span><span class="english">It was a stone ip thread.</span></p>
 
 <p><span class="chinese">每个通用条目由12字节。</span><span class="english">Each IFD entry consists of 12 bytes.</span></p>

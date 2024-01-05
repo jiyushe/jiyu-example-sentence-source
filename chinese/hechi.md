@@ -1,5 +1,7 @@
 # 呵斥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hechi.md)
+
 <p><span class="chinese">“安静！”她低声呵斥。</span><span class="english">Be quiet! ' she hissed.</span></p>
 
 <p><span class="chinese">人们生气地呵斥它们。</span><span class="english">The men hooted angrily at them.</span></p>

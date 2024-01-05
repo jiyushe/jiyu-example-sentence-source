@@ -1,5 +1,7 @@
 # consequently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consequently.md)
+
 <p><span class="chinese">这里，我将是使用同样的推理方法，它将有助于我以下的论述。</span><span class="english">The same method will consequently help me here.</span></p>
 
 <p><span class="chinese">你表现的像一个胆小的人，所以就失败了。</span><span class="english">Consequently you come across as a timid person. Fail.</span></p>

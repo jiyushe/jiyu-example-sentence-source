@@ -1,5 +1,7 @@
 # 别有用心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bieyouyongxin.md)
+
 <p><span class="chinese">把故事安排在屠场，是别有用心的。</span><span class="english">To set the film in an abattoir is itself devious.</span></p>
 
 <p><span class="chinese">有关报道毫无根据，是别有用心的。</span><span class="english">Relevant report is totally groundless and out of ulterior motives.</span></p>

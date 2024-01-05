@@ -1,5 +1,7 @@
 # kookaburra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kookaburra.md)
+
 <p><span class="chinese">笑翠鸟又在哈哈大笑了！</span><span class="english">The kookaburra is laughing again!</span></p>
 
 <p><span class="chinese">翠鸟栖息在一棵老桉树上。</span><span class="english">Kookaburra sits on an lod gum tree.</span></p>

@@ -1,5 +1,7 @@
 # lev
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lev.md)
+
 <p><span class="chinese">粗心读者以为保罗在此推翻了利未记11章的教训。</span><span class="english">NKJV Some think that Paul overthrew all that God said in Lev. 11.</span></p>
 
 <p><span class="chinese">列弗还没经历过这么多的战斗，他们没机会对抗雇佣军。</span><span class="english">Lev had not seen much of the fight, they'd had no chance against mercenaries.</span></p>

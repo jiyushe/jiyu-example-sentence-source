@@ -1,5 +1,7 @@
 # 乱来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luanlai.md)
+
 <p><span class="chinese">乱来于事无补。</span><span class="english">To hugger-mugger won't help you.</span></p>
 
 <p><span class="chinese">别乱来，不要让他失血太多。</span><span class="english">Freeze, don't make him to lose too much blood.</span></p>

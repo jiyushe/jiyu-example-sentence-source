@@ -1,5 +1,7 @@
 # unalloyed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unalloyed.md)
+
 <p><span class="chinese">协议的失败对中国来说，是一次纯粹的胜利。</span><span class="english">And its defeat is an unalloyed triumph for China.</span></p>
 
 <p><span class="chinese">纯粹地献身于神是非常困难的。</span><span class="english">It is very difficult to have unalloyed devotion to God.</span></p>

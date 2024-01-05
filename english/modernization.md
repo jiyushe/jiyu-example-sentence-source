@@ -1,5 +1,7 @@
 # modernization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/modernization.md)
+
 <p><span class="chinese">现代化不等于西方化。</span><span class="english">Modernization is not Westernization.</span></p>
 
 <p><span class="chinese">老战斗机经历了现代化的历程。</span><span class="english">Old jets undergo the process of modernization.</span></p>

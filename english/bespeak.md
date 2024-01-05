@@ -1,5 +1,7 @@
 # bespeak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bespeak.md)
+
 <p><span class="chinese">今日之事件乃预示他日之不幸。</span><span class="english">Today's event bespeak future tragedy.</span></p>
 
 <p><span class="chinese">今日之事件乃预示他日之不幸。</span><span class="english">Today's events bespeak future tragedy.</span></p>

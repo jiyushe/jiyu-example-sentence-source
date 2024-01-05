@@ -1,5 +1,7 @@
 # retard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retard.md)
+
 <p><span class="chinese">我是智力迟钝，还是乐极生悲?。</span><span class="english">Am I retard? Or am I just overjoyed?</span></p>
 
 <p><span class="chinese">我就是这样干的，聪明点，可别做个窝囊废</span><span class="english">That's what I did, be smart, don't be a retard</span></p>

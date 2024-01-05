@@ -1,5 +1,7 @@
 # 破口大骂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pokoudama.md)
+
 <p><span class="chinese">她破口大骂，毫无忌惮。</span><span class="english">She shouted abuse without any restraint.</span></p>
 
 <p><span class="chinese">他站起来时撞了头，便破口大骂。</span><span class="english">He hit his head as he stood up and cursed loudly.</span></p>

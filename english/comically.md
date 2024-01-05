@@ -1,5 +1,7 @@
 # comically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comically.md)
+
 <p><span class="chinese">史前怪物的展览幼稚可笑。</span><span class="english">The display of prehistoric monsters is comically naive.</span></p>
 
 <p><span class="chinese">在女孩的肩膀上坐着一只正在挠头的小猴子。</span><span class="english">On the girl's shoulder sat a little marmoset scratching its head comically.</span></p>

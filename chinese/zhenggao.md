@@ -1,5 +1,7 @@
 # 征稿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenggao.md)
+
 <p><span class="chinese">计算机科学相关征稿信息。</span><span class="english">CFP information on computer science.</span></p>
 
 <p><span class="chinese">数据库技术相关国际会议征稿信息。</span><span class="english">International CFP information on database engineering.</span></p>

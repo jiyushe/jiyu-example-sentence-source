@@ -1,5 +1,7 @@
 # 四方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sifang.md)
+
 <p><span class="chinese">海风吹，海浪涌，随我飘流四方。</span><span class="english">And I float everywhere at sea.</span></p>
 
 <p><span class="chinese">四方体可以用塑料做成。</span><span class="english">The squares can be made of plastics.</span></p>

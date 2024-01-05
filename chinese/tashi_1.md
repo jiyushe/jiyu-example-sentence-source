@@ -1,5 +1,7 @@
 # 踏实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tashi_1.md)
+
 <p><span class="chinese">我是大力牛，踏实讲信用。</span><span class="english">I am MACHO OX, solid and trusty.</span></p>
 
 <p><span class="chinese">您时常会感觉非常不踏实。</span><span class="english">At times youll feel very ungrounded.</span></p>

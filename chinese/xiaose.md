@@ -1,5 +1,7 @@
 # 萧瑟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaose.md)
+
 <p><span class="chinese">秋风萧瑟。</span><span class="english">The autumn wind is soughing.</span></p>
 
 <p><span class="chinese">我笑了，在那个萧瑟的秋季。</span><span class="english">I smiled, in the bleak autumn.</span></p>

@@ -1,5 +1,7 @@
 # 零嘴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingzui.md)
+
 <p><span class="chinese">她藉着叫卖零嘴赚了许多钱。</span><span class="english">She earned a lot of money by peddling snacks.</span></p>
 
 <p><span class="chinese">我下午都会吃一点零嘴。</span><span class="english">I always have a little snack in the afternoon.</span></p>

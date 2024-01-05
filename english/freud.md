@@ -1,5 +1,7 @@
 # Freud
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freud.md)
+
 <p><span class="chinese">弗洛依德的另一个故事。</span><span class="english">One other thing on Freud.</span></p>
 
 <p><span class="chinese">那是一场西格蒙德弗洛伊德的战争。</span><span class="english">That war was Sigmund Freud.</span></p>

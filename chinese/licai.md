@@ -1,5 +1,7 @@
 # 理财
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/licai.md)
+
 <p><span class="chinese">这就是理财的作用。</span><span class="english">That's what finance is about.</span></p>
 
 <p><span class="chinese">内人没有理财的概念。</span><span class="english">My wife has no concept of money.</span></p>

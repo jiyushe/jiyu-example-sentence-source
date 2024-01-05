@@ -1,5 +1,7 @@
 # potassic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/potassic.md)
+
 <p><span class="chinese">蚀变以钾化与硅化和成矿关系最为密切。</span><span class="english">Potassic and silicification in all alteration type are most close to mineralization.</span></p>
 
 <p><span class="chinese">就合理使用肥料来讲，钾肥已成为我国农业发展的瓶颈。</span><span class="english">As for intelligent use of fertilizer, the potassic fertilizer is a choke point in China.</span></p>

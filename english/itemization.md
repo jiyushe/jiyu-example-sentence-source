@@ -1,5 +1,7 @@
 # itemization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/itemization.md)
+
 <p><span class="chinese">这是为了鼓励圣骑士更广泛的物品选择。</span><span class="english">This is to encourage a wider variety of itemization for the Paladin.</span></p>
 
 <p><span class="chinese">这将会对一些属性非常防御向的装备有利。</span><span class="english">It is good for itemization to have some stats which are very defensive oriented.</span></p>

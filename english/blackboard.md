@@ -1,5 +1,7 @@
 # blackboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blackboard.md)
+
 <p><span class="chinese">黑板向内。</span><span class="english">In the blackboard.</span></p>
 
 <p><span class="chinese">他开始用粉笔在一块“黑板”上算题。</span><span class="english">But it was not a blackboard.</span></p>

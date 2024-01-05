@@ -1,5 +1,7 @@
 # 鬼话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guihua.md)
+
 <p><span class="chinese">但，别信那些鬼话。</span><span class="english">But don’t believe it.</span></p>
 
 <p><span class="chinese">他说的是骗人的鬼话。</span><span class="english">What he said is deceitful words.</span></p>

@@ -1,5 +1,7 @@
 # onward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/onward.md)
+
 <p><span class="chinese">我们向前跑去。</span><span class="english">We paced onward.</span></p>
 
 <p><span class="chinese">那匹马向前直冲。</span><span class="english">The horse dashed onward.</span></p>

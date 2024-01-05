@@ -1,5 +1,7 @@
 # hydrogeology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrogeology.md)
+
 <p><span class="chinese">矿区水文地质条件简单。</span><span class="english">The hydrogeology condition of mining area is simple.</span></p>
 
 <p><span class="chinese">这一主题被分为水文地质学和地质水文学。</span><span class="english">The subject matter was subdivided into geohydrology and hydrogeology.</span></p>

@@ -1,5 +1,7 @@
 # technocracy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/technocracy.md)
+
 <p><span class="chinese">他认为，我们必须放弃对技术统治论的信仰。</span><span class="english">He argues that we must abandon the extreme faith in technocracy.</span></p>
 
 <p><span class="chinese">中国这种不受约束的技术官僚管治，绝非良决善策的保证。</span><span class="english">Such unconstrained technocracy is no guarantee of good ideas or decisions.</span></p>

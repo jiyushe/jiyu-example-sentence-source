@@ -1,5 +1,7 @@
 # sport 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sport.md)
+
 <p><span class="chinese">运动健儿们。</span><span class="english">Sport athletes.</span></p>
 
 <p><span class="chinese">我喜欢这项运动。</span><span class="english">I love this sport.</span></p>

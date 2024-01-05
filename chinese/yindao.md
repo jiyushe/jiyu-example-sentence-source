@@ -1,5 +1,7 @@
 # 引导
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yindao.md)
+
 <p><span class="chinese">引导文件。</span><span class="english">Boot files.</span></p>
 
 <p><span class="chinese">引导性冥想治疗法。</span><span class="english">Guided meditation.</span></p>

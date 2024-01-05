@@ -1,5 +1,7 @@
 # 信史
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinshi_1.md)
+
 <p><span class="chinese">简单地说，三村信史是个非常不错的家伙。</span><span class="english">Basically Shinji Mimura was a good guy.</span></p>
 
 <p><span class="chinese">信史带来了有关于战场的消息。</span><span class="english">The messenger brought tidings from the battlefield.</span></p>

@@ -1,5 +1,7 @@
 # toxoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toxoid.md)
+
 <p><span class="chinese">建议进行类毒素强化注射。</span><span class="english">Toxoid booster injections are recommended.</span></p>
 
 <p><span class="chinese">市售马抗破伤风血清经标记后效果满意。</span><span class="english">The commercially supplied horse anti-tetanus toxoid serum was used satisfactorily.</span></p>

@@ -1,5 +1,7 @@
 # brenner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brenner.md)
+
 <p><span class="chinese">穿越布里纳山口的汽车旅行令人十分愉快。</span><span class="english">The bus trip through the Brenner was lovely.</span></p>
 
 <p><span class="chinese">当时的他不过二十出头，是萨拉索塔的新佛罗里达学院的大二学生。</span><span class="english">Brenner was a sophomore at New College of Florida in Sarasota.</span></p>

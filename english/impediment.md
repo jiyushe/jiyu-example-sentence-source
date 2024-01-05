@@ -1,5 +1,7 @@
 # impediment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impediment.md)
+
 <p><span class="chinese">第二阻力是内疚感，她说。</span><span class="english">The second impediment is guilt, she said.</span></p>
 
 <p><span class="chinese">这个散置障碍物可以被移开吗？</span><span class="english">Is it a loose impediment which may be removed?</span></p>

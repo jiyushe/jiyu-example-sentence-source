@@ -1,5 +1,7 @@
 # diner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diner.md)
+
 <p><span class="chinese">询问就餐者是否准备点菜了。</span><span class="english">Asking if a diner is ready to order.</span></p>
 
 <p><span class="chinese">所以，我们都不喜欢这的菜？</span><span class="english">So none of us ever liked this diner?</span></p>

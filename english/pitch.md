@@ -1,5 +1,7 @@
 # pitch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pitch.md)
+
 <p><span class="chinese">其中之一是音高。</span><span class="english">One is pitch.</span></p>
 
 <p><span class="chinese">那球投得好。</span><span class="english">That was a good pitch.</span></p>

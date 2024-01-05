@@ -1,5 +1,7 @@
 # 罅隙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaxi.md)
+
 <p><span class="chinese">小客体永远无法跨越这个罅隙。</span><span class="english">The petit a never crosses this gap.</span></p>
 
 <p><span class="chinese">全地球不会流失，应该死亡并并非一个罅隙。</span><span class="english">The state did not leak since death is not a crack.</span></p>

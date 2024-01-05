@@ -1,5 +1,7 @@
 # bulldoze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bulldoze.md)
+
 <p><span class="chinese">他们强行使他签署这个契约。</span><span class="english">They bulldoze him into signing the contract.</span></p>
 
 <p><span class="chinese">然而，最重要的事情是不要用推土机推平贫民窟。</span><span class="english">But the main thing is not to bulldoze the slums.</span></p>

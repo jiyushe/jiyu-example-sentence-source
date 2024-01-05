@@ -1,5 +1,7 @@
 # 干货
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganhuo_1.md)
+
 <p><span class="chinese">组织干货及蔬菜的储存。</span><span class="english">Organises the storage of dry goods and vegetables.</span></p>
 
 <p><span class="chinese">近些年来，埃及在干货上尝试相似的运作模式。</span><span class="english">In recent years Egypt has tried something similar with dry goods.</span></p>

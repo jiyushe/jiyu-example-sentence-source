@@ -1,5 +1,7 @@
 # 油纸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youzhi_3.md)
+
 <p><span class="chinese">用吸油纸吸去油光。</span><span class="english">Use blotting paper to remove shine.</span></p>
 
 <p><span class="chinese">石板瓦下面垫着油纸。</span><span class="english">The slates were underlaid with oilpaper.</span></p>

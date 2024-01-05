@@ -1,5 +1,7 @@
 # immateriality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immateriality.md)
+
 <p><span class="chinese">此外，不能忽视非重要性对审计风险的影响。</span><span class="english">Moreover, the infection that immateriality to auditing risk cannot be ignored.</span></p>
 
 <p><span class="chinese">企业赖以生存和发展的核心价值正由有形资产向无形资产演变。</span><span class="english">The kernel value on which enterprises rely is changing from materiality to immateriality.</span></p>

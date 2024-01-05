@@ -1,5 +1,7 @@
 # worker 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/worker.md)
+
 <p><span class="chinese">我是个勇敢的寻宝人。</span><span class="english">I'm a brave worker.</span></p>
 
 <p><span class="chinese">我是个脑力劳动者。</span><span class="english">I am a mental worker.</span></p>

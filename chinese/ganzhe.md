@@ -1,5 +1,7 @@
 # 甘蔗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganzhe.md)
+
 <p><span class="chinese">而且甘蔗比玉米的占地少。</span><span class="english">And sugarcane needs less land than maize.</span></p>
 
 <p><span class="chinese">他把甘蔗截成几节。</span><span class="english">He cut the sugarcane into several pieces.</span></p>

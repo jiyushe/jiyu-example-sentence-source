@@ -1,5 +1,7 @@
 # 襁褓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangbao_1.md)
+
 <p><span class="chinese">襁褓是什么？。</span><span class="english">What Is Swaddling?</span></p>
 
 <p><span class="chinese">师傅在襁褓中发现他。</span><span class="english">Shifu found him as a cub.</span></p>

@@ -1,5 +1,7 @@
 # calculation 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calculation.md)
+
 <p><span class="chinese">我进行了一个计算。</span><span class="english">I performed a calculation.</span></p>
 
 <p><span class="chinese">我们就可以做所有的计算。</span><span class="english">We can do the whole calculation.</span></p>

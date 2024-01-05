@@ -1,5 +1,7 @@
 # 篮板球
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lanbanqiu.md)
+
 <p><span class="chinese">他抢了四个篮板球。</span><span class="english">He grabbed four rebounds.</span></p>
 
 <p><span class="chinese">这是透明的篮板球。</span><span class="english">This is a transparent backboard.</span></p>

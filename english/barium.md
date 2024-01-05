@@ -1,5 +1,7 @@
 # barium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barium.md)
+
 <p><span class="chinese">过氧化钡加锌粉。</span><span class="english">Barium peroxide and zinc dust.</span></p>
 
 <p><span class="chinese">最后吞完所剩钡餐。</span><span class="english">Finish the rest of the barium meal.</span></p>

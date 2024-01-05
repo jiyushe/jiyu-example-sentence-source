@@ -1,5 +1,7 @@
 # alba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alba.md)
+
 <p><span class="chinese">口腔卫生对杰西卡也十分重要。？？？</span><span class="english">Oral hygiene is important to Jessica Alba.</span></p>
 
 <p><span class="chinese">杰西卡阿尔芭试镜中的罕见镜头。</span><span class="english">Rare footage from inside a Jessica Alba audition.</span></p>

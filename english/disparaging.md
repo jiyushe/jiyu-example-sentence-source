@@ -1,5 +1,7 @@
 # disparaging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disparaging.md)
+
 <p><span class="chinese">土著对澳大利亚土著人的贬义称呼…</span><span class="english">Used as a disparaging term for an australian aborigine.</span></p>
 
 <p><span class="chinese">别同我说这话——不然我会对你的判断说出不恭的话来。</span><span class="english">Don't tell me so -- lest I should say something disparaging to your judgment.</span></p>

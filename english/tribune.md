@@ -1,5 +1,7 @@
 # tribune
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tribune.md)
+
 <p><span class="chinese">苏丹论坛报。</span><span class="english">Sudan Tribune.</span></p>
 
 <p><span class="chinese">他并不算是一名父母官。</span><span class="english">He is an unlikely tribune of the people.</span></p>

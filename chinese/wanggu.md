@@ -1,5 +1,7 @@
 # 亡故
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanggu.md)
+
 <p><span class="chinese">为你叔叔的亡故我深表缺憾。</span><span class="english">I'm deeply sory for your uncle's detoh.</span></p>
 
 <p><span class="chinese">不幸的是，约翰六岁时，他的父母便双双亡故。</span><span class="english">When John was six, both his parents died.</span></p>

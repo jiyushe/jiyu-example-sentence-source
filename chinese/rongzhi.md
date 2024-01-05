@@ -1,5 +1,7 @@
 # 溶质
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongzhi.md)
+
 <p><span class="chinese">那么CS2就是溶质。</span><span class="english">So now the CS2 is the solute.</span></p>
 
 <p><span class="chinese">每千克溶剂的溶质摩尔数。</span><span class="english">Moles per kilograms of solvent.</span></p>

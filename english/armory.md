@@ -1,5 +1,7 @@
 # armory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/armory.md)
+
 <p><span class="chinese">艾弗瑞是军队的兵工厂。</span><span class="english">Avery is army's armory.</span></p>
 
 <p><span class="chinese">你有去过我的打铁铺吗？</span><span class="english">Have you been to my armory?</span></p>

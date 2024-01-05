@@ -1,5 +1,7 @@
 # 风光旖旎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengguangyini.md)
+
 <p><span class="chinese">昨夜风光旖旎如画。</span><span class="english">Last night the scenery was striking and picturesque.</span></p>
 
 <p><span class="chinese">我爱你风光旖旎壮丽的河山。</span><span class="english">I love you beautiful scenery magnificent's native land.</span></p>

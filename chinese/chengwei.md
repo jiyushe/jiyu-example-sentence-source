@@ -1,5 +1,7 @@
 # 成为
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengwei.md)
+
 <p><span class="chinese">克林顿将在1996年成为总统。</span><span class="english">Clinton in 96.</span></p>
 
 <p><span class="chinese">我成为了一个实干家。</span><span class="english">I became a Doer.</span></p>

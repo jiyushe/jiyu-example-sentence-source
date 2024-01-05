@@ -1,5 +1,7 @@
 # 心疼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinteng.md)
+
 <p><span class="chinese">你们的话让我心疼。</span><span class="english">Your words hurt my heart.</span></p>
 
 <p><span class="chinese">一句心疼说得我泪流满面。</span><span class="english">A love that I burst into tears.</span></p>

@@ -1,5 +1,7 @@
 # 委会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weihui.md)
+
 <p><span class="chinese">顾委会将成为香港电台的「太上皇」？</span><span class="english">Would Panel Be RTHK's Overlord?</span></p>
 
 <p><span class="chinese">队委会由李全强同志负责。</span><span class="english">The team committee will be in the charge of Li Qiang.</span></p>

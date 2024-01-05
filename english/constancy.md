@@ -1,5 +1,7 @@
 # constancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/constancy.md)
+
 <p><span class="chinese">松树是节操的象征。</span><span class="english">The pine is a badge of constancy.</span></p>
 
 <p><span class="chinese">所以我的诗也一样坚贞不渝。</span><span class="english">Therefore my verse to constancy confined.</span></p>

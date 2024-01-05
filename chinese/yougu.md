@@ -1,5 +1,7 @@
 # 幽谷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yougu.md)
+
 <p><span class="chinese">堕落到死荫的幽谷。</span><span class="english">Fell to the valley of death.</span></p>
 
 <p><span class="chinese">高山，幽谷，沃野，森林。</span><span class="english">Field and forest, vale and mountain.</span></p>

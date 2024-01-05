@@ -1,5 +1,7 @@
 # 架设
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiashe_1.md)
+
 <p><span class="chinese">架设排排座椅。</span><span class="english">Set the benches up.</span></p>
 
 <p><span class="chinese">架设自动化构建。</span><span class="english">Setup automated builds.</span></p>

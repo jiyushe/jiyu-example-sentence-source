@@ -1,5 +1,7 @@
 # bedside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bedside.md)
+
 <p><span class="chinese">电铃在床的旁边。</span><span class="english">The bell is on the bedside.</span></p>
 
 <p><span class="chinese">把阿士匹灵放在床边。</span><span class="english">Why keep aspirin by your bedside?</span></p>

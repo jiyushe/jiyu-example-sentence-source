@@ -1,5 +1,7 @@
 # 冷食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengshi.md)
+
 <p><span class="chinese">冷食热食均可。</span><span class="english">Can be served cold or hot.</span></p>
 
 <p><span class="chinese">我的牙齿对冷食过敏。</span><span class="english">My teeth are very sensitive to cold food.</span></p>

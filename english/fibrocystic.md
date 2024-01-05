@@ -1,5 +1,7 @@
 # fibrocystic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fibrocystic.md)
+
 <p><span class="chinese">抽吸细胞学检查为纤维囊性变。</span><span class="english">Aspiration cytologic examination reealed a fibrocystic change.</span></p>
 
 <p><span class="chinese">抽吸细胞学检查为纤维囊性变。</span><span class="english">Aspiration cytologic examination revealed a fibrocystic change.</span></p>

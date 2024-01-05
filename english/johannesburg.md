@@ -1,5 +1,7 @@
 # johannesburg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/johannesburg.md)
+
 <p><span class="chinese">他当时在约翰内斯堡过周末。</span><span class="english">He was in Johannesburg for the weekend.</span></p>
 
 <p><span class="chinese">记者彼得·鲍尔斯在约翰内斯堡继续为您报道</span><span class="english">Peter Biles is in Johannesburg and has more</span></p>

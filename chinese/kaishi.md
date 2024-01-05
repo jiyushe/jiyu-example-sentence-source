@@ -1,5 +1,7 @@
 # 开释
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaishi.md)
+
 <p><span class="chinese">开释时之砂能够让时光倒流。</span><span class="english">Releasing the Sand turns back time.</span></p>
 
 <p><span class="chinese">开释你的热情，让美梦成真。</span><span class="english">Tak your passion and mak it com tru.</span></p>

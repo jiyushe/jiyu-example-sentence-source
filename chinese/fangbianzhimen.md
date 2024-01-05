@@ -1,5 +1,7 @@
 # 方便之门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangbianzhimen.md)
+
 <p><span class="chinese">开方便之门，闭是非之口。</span><span class="english">Open the door, closed the mouth of right and wrong.</span></p>
 
 <p><span class="chinese">这为网络上用暴力法攻击开了方便之门。</span><span class="english">This opens it to a brute-force attack over a network.</span></p>

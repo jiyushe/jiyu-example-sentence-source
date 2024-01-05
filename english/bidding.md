@@ -1,5 +1,7 @@
 # bidding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bidding.md)
+
 <p><span class="chinese">这是我们的投标书。</span><span class="english">This is our tender bidding.</span></p>
 
 <p><span class="chinese">红鹰、白鹰也来助战。</span><span class="english">Red eagle, white eagle also to bidding.</span></p>

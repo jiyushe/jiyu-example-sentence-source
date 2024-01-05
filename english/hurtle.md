@@ -1,5 +1,7 @@
 # hurtle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hurtle.md)
+
 <p><span class="chinese">我冲他点点头，嗯不错。</span><span class="english">I hurtle he order, H'm quite good.</span></p>
 
 <p><span class="chinese">然后转身冲入雨中。</span><span class="english">Then turn round to hurtle into rain.</span></p>

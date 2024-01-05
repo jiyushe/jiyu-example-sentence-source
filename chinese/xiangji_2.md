@@ -1,5 +1,7 @@
 # 相继
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangji_2.md)
+
 <p><span class="chinese">相继发表了两个重要的研究。</span><span class="english">Allis published two major studies.</span></p>
 
 <p><span class="chinese">勒伯夫和佐拉在同一月内相继退役。</span><span class="english">Leb?uf and Zola retired in one month.</span></p>

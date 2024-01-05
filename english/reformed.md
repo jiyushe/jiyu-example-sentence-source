@@ -1,5 +1,7 @@
 # reformed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reformed.md)
+
 <p><span class="chinese">他已改变了他的坏习惯。</span><span class="english">He has reformed his bad habits.</span></p>
 
 <p><span class="chinese">那些我们还没有真正改革过的。</span><span class="english">that we haven't really reformed.</span></p>

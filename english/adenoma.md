@@ -1,5 +1,7 @@
 # adenoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adenoma.md)
+
 <p><span class="chinese">这个病人曾长过绒毛状腺瘤。</span><span class="english">The patient had a villous adenoma.</span></p>
 
 <p><span class="chinese">皮质腺瘤是结节硬化的特异性表现。</span><span class="english">Adenoma sebaceum is pathognomonic of tuberous sclerosis.</span></p>

@@ -1,5 +1,7 @@
 # 左倾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoqing.md)
+
 <p><span class="chinese">虽然我一直都投工党的票，可是我不认为我是过于左倾的。</span><span class="english">I always voted Labour but I wouldn't say I was too leftwing.</span></p>
 
 <p><span class="chinese">多年来，他的政治看法都比较左倾。</span><span class="english">From his political piont of view, he has been pink for years.</span></p>

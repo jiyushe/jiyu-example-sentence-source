@@ -1,5 +1,7 @@
 # 西餐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xican.md)
+
 <p><span class="chinese">我原以为你不喜欢西餐的。</span><span class="english">I thought you didn't like western food.</span></p>
 
 <p><span class="chinese">烹调西餐就像在实验室里做实验一样。</span><span class="english">I think it is like a testing laboratory.</span></p>

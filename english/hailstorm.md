@@ -1,5 +1,7 @@
 # hailstorm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hailstorm.md)
+
 <p><span class="chinese">这场雹子把庄稼毁了。</span><span class="english">The hailstorm ruined the crops.</span></p>
 
 <p><span class="chinese">这些苹果两角钱一只。</span><span class="english">A hailstorm hurt the apple crop.</span></p>

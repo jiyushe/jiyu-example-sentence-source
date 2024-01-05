@@ -1,5 +1,7 @@
 # habitable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/habitable.md)
+
 <p><span class="chinese">人类发现了第一个宜居外星球？</span><span class="english">The first habitable exoplanet?</span></p>
 
 <p><span class="chinese">没有周期是36天的行星。</span><span class="english">The 36-day habitable world wasn't there.</span></p>

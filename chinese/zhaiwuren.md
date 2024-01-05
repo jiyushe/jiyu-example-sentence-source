@@ -1,5 +1,7 @@
 # 债务人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaiwuren.md)
+
 <p><span class="chinese">在销售合同中，此债务人为卖方。</span><span class="english">That debtor in a sales contract is the Seller.</span></p>
 
 <p><span class="chinese">我争论说债务人很可能处在双重困境中。</span><span class="english">I  debated that the  debtor was  doubtless in double troubles.</span></p>

@@ -1,5 +1,7 @@
 # 雄黄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xionghuang.md)
+
 <p><span class="chinese">人们喝雄黄侍者护本身免于害病。</span><span class="english">People drink realgar wine to protect themselves from illness.</span></p>
 
 <p><span class="chinese">请问银朱和雄黄用什么制法可以减毒?。</span><span class="english">With what do vermilion and realgar make a law you can reduce toxin excuse me?</span></p>

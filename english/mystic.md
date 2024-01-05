@@ -1,5 +1,7 @@
 # mystic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mystic.md)
+
 <p><span class="chinese">神秘瀑布镇回归之日近了。</span><span class="english">A return to Mystic Falls really is near.</span></p>
 
 <p><span class="chinese">奈沙马兰认为这是一种神秘的对话。</span><span class="english">Shyamalan sees it as a mystic conversation.</span></p>

@@ -1,5 +1,7 @@
 # rejoicing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rejoicing.md)
+
 <p><span class="chinese">在马德里，轻松与欢快交织一片。</span><span class="english">In Madrid, relief and rejoicing intertwine</span></p>
 
 <p><span class="chinese">终点预示着一个巨大欢庆的时刻。</span><span class="english">The end bespeaks a time of great rejoicing.</span></p>

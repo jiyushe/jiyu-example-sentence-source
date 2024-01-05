@@ -1,5 +1,7 @@
 # altercation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/altercation.md)
+
 <p><span class="chinese">这是国际商业信贷银行之间开始后，印度板球联赛和争吵。</span><span class="english">It was started after altercation between the BCCI and the Indian Cricket League.</span></p>
 
 <p><span class="chinese">黛米10月下旬以来一直在一个在康复中心。</span><span class="english">Lovato has been in rehab since late October after a "short, physical altercation" with a dancer.</span></p>

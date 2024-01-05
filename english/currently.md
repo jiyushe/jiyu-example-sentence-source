@@ -1,5 +1,7 @@
 # currently 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/currently.md)
+
 <p><span class="chinese">该市现今有10口深水井。</span><span class="english">The city currently has 10.</span></p>
 
 <p><span class="chinese">她的专栏目前在第60页。</span><span class="english">She is currently on page 60.</span></p>

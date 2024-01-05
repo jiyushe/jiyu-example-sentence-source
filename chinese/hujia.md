@@ -1,5 +1,7 @@
 # 护甲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hujia.md)
+
 <p><span class="chinese">增加的护甲从23点增加到25点。</span><span class="english">Armor increased to 25 from 23.</span></p>
 
 <p><span class="chinese">你可以用魔法护甲灌输你发现。</span><span class="english">You can imbue armor with magic you found.</span></p>

@@ -1,5 +1,7 @@
 # quadrennial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quadrennial.md)
+
 <p><span class="chinese">美国每四年举行一次总统选举。</span><span class="english">The United States has a quadrennial election.</span></p>
 
 <p><span class="chinese">奥运会算是每四年一次的全球终极竞争。</span><span class="english">The Olympics may be the ultimate quadrennial global competition.</span></p>

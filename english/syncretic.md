@@ -1,5 +1,7 @@
 # syncretic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syncretic.md)
+
 <p><span class="chinese">这是个融合的宗教影像，还是基督教的？</span><span class="english">Is this a syncretic religious vision, or is it a Christian one?</span></p>
 
 <p><span class="chinese">要建立坚定的心体合一，我们首先必须专心。</span><span class="english">Want to build sturdy heart system syncretic , we above all must absorption.</span></p>

@@ -1,5 +1,7 @@
 # 立足
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lizu.md)
+
 <p><span class="chinese">立足齐鲁，誉满九洲，是我们的目标。</span><span class="english">Based Qilu, famed Jiuzhou is our goal.</span></p>
 
 <p><span class="chinese">我们以客户为中心、立足市场。</span><span class="english">We are customer-focused, market-based.</span></p>

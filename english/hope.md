@@ -1,5 +1,7 @@
 # hope 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hope.md)
+
 <p><span class="chinese">我看到希望。</span><span class="english">I see hope.</span></p>
 
 <p><span class="chinese">但愿不会如此。</span><span class="english">I hope not so.</span></p>

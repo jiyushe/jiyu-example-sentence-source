@@ -1,5 +1,7 @@
 # immanence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immanence.md)
+
 <p><span class="chinese">对本质的内在存在加以这样的规定，就是根据。</span><span class="english">The immanence of essence thus defined is the Ground.</span></p>
 
 <p><span class="chinese">一个中央的想法，自由神学是神的内在。</span><span class="english">A central idea of liberal theology is divine immanence.</span></p>

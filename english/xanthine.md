@@ -1,5 +1,7 @@
 # xanthine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xanthine.md)
+
 <p><span class="chinese">SOD试剂盒采用黄嘌呤氧化酶法测其总活力。</span><span class="english">SOD total activity was detected by xanthine oxidase.</span></p>
 
 <p><span class="chinese">LD检测采用酶法，SOD检测采用黄嘌呤氧化酶法。</span><span class="english">LD and SOD are detected each by enzymic method, xanthine oxidase method.</span></p>

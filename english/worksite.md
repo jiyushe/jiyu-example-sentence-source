@@ -1,5 +1,7 @@
 # worksite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/worksite.md)
+
 <p><span class="chinese">我们快拢工地了。</span><span class="english">We are almost on the worksite now.</span></p>
 
 <p><span class="chinese">他将每隔一天去工地。</span><span class="english">He will go the worksite every other day.</span></p>

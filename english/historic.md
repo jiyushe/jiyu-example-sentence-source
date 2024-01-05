@@ -1,5 +1,7 @@
 # historic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/historic.md)
+
 <p><span class="chinese">朔州为著名的历史重镇。</span><span class="english">ShuoZhou is a famous historic town.</span></p>
 
 <p><span class="chinese">白头海雕饮食历史回溯</span><span class="english">Tracing Bald Eagles' Historic Diets</span></p>

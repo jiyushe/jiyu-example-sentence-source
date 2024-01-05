@@ -1,5 +1,7 @@
 # phylogenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phylogenic.md)
+
 <p><span class="chinese">方法形态分类和系统发育分析相结合的方法。</span><span class="english">Methods Combination of morphological classification and phylogenic analysis.</span></p>
 
 <p><span class="chinese">目前这两个基因已广泛用于植物系统发育分析。</span><span class="english">Now these tow genes have been widely used in the phylogenic analysis of plant.</span></p>

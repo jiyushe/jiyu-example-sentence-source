@@ -1,5 +1,7 @@
 # 宝石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baoshi.md)
+
 <p><span class="chinese">深邃的宝石红。</span><span class="english">Deep ruby-red.</span></p>
 
 <p><span class="chinese">宝石是可以伪装的。</span><span class="english">Stones can be disguised.</span></p>

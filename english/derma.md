@@ -1,5 +1,7 @@
 # derma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/derma.md)
+
 <p><span class="chinese">皮肤萎缩波及表皮、真皮和皮下组织。</span><span class="english">Skin atrophy affects cuticular, derma and subcutaneous tissue.</span></p>
 
 <p><span class="chinese">该系统为人工皮肤的生产、研究奠定了基础。</span><span class="english">This system has laid the foundations for production and research of artificial derma.</span></p>

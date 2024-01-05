@@ -1,5 +1,7 @@
 # 农用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongyong.md)
+
 <p><span class="chinese">本文介绍了农用林业的含义。</span><span class="english">This paper introduces the meaning of agroforestry.</span></p>
 
 <p><span class="chinese">一名男子和一名儿童在一辆撞毁的农用卡车上被发现。</span><span class="english">A man and a child were found in the Cave-in produce truck.</span></p>

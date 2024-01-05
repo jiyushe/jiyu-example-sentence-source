@@ -1,5 +1,7 @@
 # 编组
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianzu.md)
+
 <p><span class="chinese">现在需要一个类处理编组。</span><span class="english">Now you need a class to handle marshalling.</span></p>
 
 <p><span class="chinese">分类编组是另一种方法。</span><span class="english">Categorizing is another means of organization.</span></p>

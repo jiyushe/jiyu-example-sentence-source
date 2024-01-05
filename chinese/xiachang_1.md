@@ -1,5 +1,7 @@
 # 狭长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiachang_1.md)
+
 <p><span class="chinese">丛林中狭长的湖泊上波光闪闪。</span><span class="english">Long lakes shine in the jungle.</span></p>
 
 <p><span class="chinese">绑在上小狭长三角旗。</span><span class="english">A small pennon borne on a lance.</span></p>

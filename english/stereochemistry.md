@@ -1,5 +1,7 @@
 # stereochemistry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stereochemistry.md)
+
 <p><span class="chinese">第一部分有详述立体化学一章。</span><span class="english">Part I is concluded by a detailed chapter on stereochemistry.</span></p>
 
 <p><span class="chinese">立体化学研究立体异构体以及不对称合成法。</span><span class="english">Stereochemistry deals with stereoisomers and with asymmetric synthesis.</span></p>

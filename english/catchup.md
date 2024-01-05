@@ -1,5 +1,7 @@
 # catchup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catchup.md)
+
 <p><span class="chinese">时间尽管不早了，他们仍继续学习。</span><span class="english">Late as it was, they continued to study. catchup tv.</span></p>
 
 <p><span class="chinese">你相信吗，他甚至把调味酱放到冰淇淋里。</span><span class="english">Can you believe it, he even puts catchup on his ice cream.</span></p>

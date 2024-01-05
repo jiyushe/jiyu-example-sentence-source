@@ -1,5 +1,7 @@
 # biomaterial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biomaterial.md)
+
 <p><span class="chinese">分析了胶原生物矿化的机制。</span><span class="english">The mechanism of collagen biomaterial was discussed.</span></p>
 
 <p><span class="chinese">丝素蛋白在生物材料方面有非常广阔的应用前景。</span><span class="english">Fibroin protein will have a extensively wide uses on biomaterial.</span></p>

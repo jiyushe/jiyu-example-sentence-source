@@ -1,5 +1,7 @@
 # 锲而不舍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qieerbushe.md)
+
 <p><span class="chinese">锲而不舍，金石可镂。</span><span class="english">Perseverance, stone can be used.</span></p>
 
 <p><span class="chinese">锲而不舍，金石可镂。</span><span class="english">Perseverance can carve mental and gold.</span></p>

@@ -1,5 +1,7 @@
 # dickensian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dickensian.md)
+
 <p><span class="chinese">或者有点像狄更斯笔下的世界？</span><span class="english">Or maybe Dickensian?</span></p>
 
 <p><span class="chinese">狄更斯式的地方，汤姆。</span><span class="english">A Dickensian place, Tom.</span></p>

@@ -1,5 +1,7 @@
 # 腮帮子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saibangzi.md)
+
 <p><span class="chinese">他的腮帮子里塞满梨。</span><span class="english">His cheek is stuffed with pear.</span></p>
 
 <p><span class="chinese">他的腮帮子里塞满苹果。</span><span class="english">His cheek is stuffed with apple.</span></p>

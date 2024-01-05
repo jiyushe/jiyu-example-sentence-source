@@ -1,5 +1,7 @@
 # clockmaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clockmaker.md)
+
 <p><span class="chinese">“哼，”钟表匠说。</span><span class="english">"Hm, " said the clockmaker.</span></p>
 
 <p><span class="chinese">约翰·克鲁西是一位钟表匠。</span><span class="english">John Kruesi was a clockmaker.</span></p>

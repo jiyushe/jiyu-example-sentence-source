@@ -1,5 +1,7 @@
 # 香皂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangzao.md)
+
 <p><span class="chinese">我们有香皂和不加香水的肥皂。</span><span class="english">We have perfumed and unscented soap.</span></p>
 
 <p><span class="chinese">这种美容香皂泡沫很多。</span><span class="english">The beauty soap lathers up very well.</span></p>

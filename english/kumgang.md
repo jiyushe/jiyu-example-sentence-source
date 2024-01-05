@@ -1,5 +1,7 @@
 # kumgang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kumgang.md)
+
 <p><span class="chinese">朝鲜将冻结韩国当局在金刚山地区资产。</span><span class="english">DPRK to freeze S. Korea's assets in Mt. Kumgang.</span></p>
 
 <p><span class="chinese">一对姐妹在金刚山景区巨幅地图前找位置。</span><span class="english">A couple point out sites on massive map along a wall in Mount Kumgang resort.</span></p>

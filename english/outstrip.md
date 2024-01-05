@@ -1,5 +1,7 @@
 # outstrip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outstrip.md)
+
 <p><span class="chinese">马比人跑得快。</span><span class="english">A horse can outstrip a man.</span></p>
 
 <p><span class="chinese">你可能瞒过世人，但你没有翅膀飞离你心中的神。</span><span class="english">You may outstrip men, but you have no wings to fly from your own god.</span></p>

@@ -1,5 +1,7 @@
 # downy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downy.md)
+
 <p><span class="chinese">霜霉病可能很严重。</span><span class="english">Downy mildew can be severe.</span></p>
 
 <p><span class="chinese">他恶狠狠地瞪了她一眼，象一只满身是绒毛的小猫头鹰。</span><span class="english">He glowered at her like a downy young owl.</span></p>

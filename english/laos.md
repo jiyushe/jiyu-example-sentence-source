@@ -1,5 +1,7 @@
 # laos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laos.md)
+
 <p><span class="chinese">老挝应该是最容易到达的。</span><span class="english">Laos should be the easiest stretch.</span></p>
 
 <p><span class="chinese">胡主席访问老挝的时间是19日到20日。</span><span class="english">President Hu will visit Laos from 19th to 20th.</span></p>

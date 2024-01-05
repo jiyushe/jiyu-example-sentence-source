@@ -1,5 +1,7 @@
 # defunct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defunct.md)
+
 <p><span class="chinese">当唯一的继承人死去了之后没儿子，那这个姓就要绝迹了。</span><span class="english">A family name becomes defunct when the only heir dies any son.</span></p>
 
 <p><span class="chinese">当唯一的继承人死去了之后没儿子，那这个姓就要绝迹了。</span><span class="english">A family name becomes defunct when the only heir dies without any son.</span></p>

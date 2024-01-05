@@ -1,5 +1,7 @@
 # 电脑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diannao.md)
+
 <p><span class="chinese">我的电脑？</span><span class="english">My computer?</span></p>
 
 <p><span class="chinese">有了电脑。</span><span class="english">With computer.</span></p>

@@ -1,5 +1,7 @@
 # o
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/o.md)
+
 <p><span class="chinese">凤兮！</span><span class="english">O Feng!</span></p>
 
 <p><span class="chinese">哦，谁人可堪忍受？</span><span class="english">O who can stand?</span></p>

@@ -1,5 +1,7 @@
 # zetetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zetetic.md)
+
 <p><span class="chinese">②落实探究性学习的探索。</span><span class="english">Carries out the zetetic study the exploration.</span></p>
 
 <p><span class="chinese">培养探究性学习，激发学生的创造激情。</span><span class="english">The raise zetetic study, stimulates student's creation fervor.</span></p>

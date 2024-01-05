@@ -1,5 +1,7 @@
 # 雅人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaren.md)
+
 <p><span class="chinese">马雅人知道如何生存。</span><span class="english">The Mayans know how to survive.</span></p>
 
 <p><span class="chinese">马雅人的历法预言了世界将于西元2012年12月21日毁灭。</span><span class="english">The Mayan calendar predicts that life will end on December 21, 2012.</span></p>

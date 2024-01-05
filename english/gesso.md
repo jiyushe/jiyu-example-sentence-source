@@ -1,5 +1,7 @@
 # gesso
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gesso.md)
+
 <p><span class="chinese">骨折打石膏要多久？</span><span class="english">How long does fracture hit gesso to want?</span></p>
 
 <p><span class="chinese">骨折了，绑着石膏怎么上学啊？</span><span class="english">Fracture, how binding gesso to go to school?</span></p>

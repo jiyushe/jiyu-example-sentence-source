@@ -1,5 +1,7 @@
 # week
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/week.md)
+
 <p><span class="chinese">哪怕一周。</span><span class="english">One week.</span></p>
 
 <p><span class="chinese">在别墅待了一周。</span><span class="english">One week. Retreat.</span></p>

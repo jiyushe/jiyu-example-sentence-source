@@ -1,5 +1,7 @@
 # hooligan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hooligan.md)
+
 <p><span class="chinese">他被一个流氓引上了邪路。</span><span class="english">He was ledastray by a hooligan.</span></p>
 
 <p><span class="chinese">那个流氓说他杀掉了那个女人。</span><span class="english">The hooligan said he had iced the woman.</span></p>

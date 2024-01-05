@@ -1,5 +1,7 @@
 # carbene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carbene.md)
+
 <p><span class="chinese">碳烯也可与醇反应。</span><span class="english">The carbene also reacts with alcohols.</span></p>
 
 <p><span class="chinese">卡宾的基态有单线态和三线态两种状态。</span><span class="english">The basic state of carbene is singlet or triplet.</span></p>

@@ -1,5 +1,7 @@
 # passband
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/passband.md)
+
 <p><span class="chinese">基频与通频的正则扩大。</span><span class="english">Orthonormal expansions at baseband and passband.</span></p>
 
 <p><span class="chinese">这方法降低了增益，但加宽了放大器的通频带。</span><span class="english">This reduces gain but widens the amplifier's passband.</span></p>

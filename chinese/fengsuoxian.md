@@ -1,5 +1,7 @@
 # 封锁线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengsuoxian.md)
+
 <p><span class="chinese">他们闯过封锁线来到边境地区。</span><span class="english">They ran a blockade and got to the border.</span></p>
 
 <p><span class="chinese">该船在偷越封锁线时被截获。</span><span class="english">The ship was captured in running the blockade.</span></p>

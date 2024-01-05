@@ -1,5 +1,7 @@
 # hermaphroditic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hermaphroditic.md)
+
 <p><span class="chinese">灌木或乔木，常绿，或许两性，无刺。</span><span class="english">Shrubs or small trees, evergreen, hermaphroditic.</span></p>
 
 <p><span class="chinese">花两性的或植株功能上为雌雄异株。</span><span class="english">Flowers hermaphroditic or plants functionally dioecious.</span></p>

@@ -1,5 +1,7 @@
 # 陌生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mosheng.md)
+
 <p><span class="chinese">他站在一条陌生的街道上。</span><span class="english">He stood in a strange street.</span></p>
 
 <p><span class="chinese">观看剧目里的陌生角色，是否明智？</span><span class="english">in this strangest of theatres?</span></p>

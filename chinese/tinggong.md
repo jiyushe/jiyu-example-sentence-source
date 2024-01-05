@@ -1,5 +1,7 @@
 # 停工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tinggong.md)
+
 <p><span class="chinese">有停工期。</span><span class="english">There is downtime.</span></p>
 
 <p><span class="chinese">停工期一般做什么？</span><span class="english">What do you do in your downtime?</span></p>

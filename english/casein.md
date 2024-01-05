@@ -1,5 +1,7 @@
 # casein
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/casein.md)
+
 <p><span class="chinese">构成干酪素和奶酪的分子反射光线。</span><span class="english">The molecules that make up Casein and cream reflect light.</span></p>
 
 <p><span class="chinese">以干酪素酶解产物为介质对膜分离进行了研究。</span><span class="english">The membrane separation for casein zymohydrolysis was studied.</span></p>

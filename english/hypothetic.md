@@ -1,5 +1,7 @@
 # hypothetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypothetic.md)
+
 <p><span class="chinese">我可以问你个假设的问题吗？</span><span class="english">Can I ask you a hypothetic al question?</span></p>
 
 <p><span class="chinese">假设，天马舰是一天结束，笏将你怎么做。</span><span class="english">Hypothetic , tml is the day to end, wat will you do.</span></p>

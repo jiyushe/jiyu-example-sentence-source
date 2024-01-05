@@ -1,5 +1,7 @@
 # 全票
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanpiao.md)
+
 <p><span class="chinese">他们什么时候开始买全票？</span><span class="english">When do they start paying full fare?</span></p>
 
 <p><span class="chinese">该法案在初审时全票通过。</span><span class="english">On first reading, the bill passed unanimously.</span></p>

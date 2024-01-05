@@ -1,5 +1,7 @@
 # genial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/genial.md)
+
 <p><span class="chinese">你是我认识的最和蔼可亲的人。</span><span class="english">You are the most genial person I know.</span></p>
 
 <p><span class="chinese">冻结了从灵腑流出的天才流泉。</span><span class="english">And froze the genial current of the soul.</span></p>

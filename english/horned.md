@@ -1,5 +1,7 @@
 # horned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horned.md)
+
 <p><span class="chinese">他们把这头牛的角切短。</span><span class="english">English breed of short- horned cattle.</span></p>
 
 <p><span class="chinese">尼尼伯，缄默之角冠神，记住！</span><span class="english">NINIB, Horned One of Silence, Remember!</span></p>

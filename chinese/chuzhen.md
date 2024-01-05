@@ -1,5 +1,7 @@
 # 出诊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuzhen.md)
+
 <p><span class="chinese">黑尔医生在医院里等待出诊。</span><span class="english">Dr. Hale is on call at the hospital.</span></p>
 
 <p><span class="chinese">医生在巡回出诊。</span><span class="english">The doctor is on his round of visits.</span></p>

@@ -1,5 +1,7 @@
 # bucket
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bucket.md)
+
 <p><span class="chinese">我拿起了自己的小桶。</span><span class="english">I picked up my bucket.</span></p>
 
 <p><span class="chinese">你的水桶有多满？</span><span class="english">How Full is Your Bucket?</span></p>

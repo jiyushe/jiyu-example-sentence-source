@@ -1,5 +1,7 @@
 # resect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resect.md)
+
 <p><span class="chinese">岩上窦与乙状窦的夹角大小，亦有助于决定去除颞骨的范围。</span><span class="english">The angle between superior petrosal sinus and sigmoid also shows the range we can resect.</span></p>
 
 <p><span class="chinese">目的既切除位于膀胱三角区及其周围的肿瘤病变又保留患者的排尿功能。</span><span class="english">Objective To resect the tumor in trigone and bladder neck and remain micturation function.</span></p>

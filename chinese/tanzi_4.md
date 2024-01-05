@@ -1,5 +1,7 @@
 # 瘫子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanzi_4.md)
+
 <p><span class="chinese">然后基督医治了瘫子。</span><span class="english">Then Christ healed the man.</span></p>
 
 <p><span class="chinese">有人用褥子抬着一个瘫子，到耶稣跟前来。</span><span class="english">Some men brought to him a paralytic, lying on a mat.</span></p>

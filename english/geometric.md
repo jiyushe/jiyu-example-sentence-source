@@ -1,5 +1,7 @@
 # geometric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geometric.md)
+
 <p><span class="chinese">那就是几何级数增长。</span><span class="english">That's geometric increase.</span></p>
 
 <p><span class="chinese">受到了几何限制。</span><span class="english">There is a geometric constraint.</span></p>

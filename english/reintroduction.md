@@ -1,5 +1,7 @@
 # reintroduction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reintroduction.md)
+
 <p><span class="chinese">还将评估再次输入疾病的风险。</span><span class="english">Risks of reintroduction of the disease is also assessed.</span></p>
 
 <p><span class="chinese">它的数量已经翻倍，这也是多亏了野外放生。</span><span class="english">Its numbers have doubled, also due to reintroduction efforts.</span></p>

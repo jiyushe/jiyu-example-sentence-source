@@ -1,5 +1,7 @@
 # 损伤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sunshang.md)
+
 <p><span class="chinese">它不能损伤。</span><span class="english">It couldnt hurt.</span></p>
 
 <p><span class="chinese">损伤肾小球。</span><span class="english">Damage renal glomerulus.</span></p>

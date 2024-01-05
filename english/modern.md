@@ -1,5 +1,7 @@
 # modern
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/modern.md)
+
 <p><span class="chinese">它是个现代化的大城市。</span><span class="english">It's a big modern sity.</span></p>
 
 <p><span class="chinese">现代生活节奏快。</span><span class="english">Modern life moves fast.</span></p>

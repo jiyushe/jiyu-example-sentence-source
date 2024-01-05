@@ -1,5 +1,7 @@
 # 上任
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangren_1.md)
+
 <p><span class="chinese">我们当时都是新上任的总统。</span><span class="english">We were new presidents.</span></p>
 
 <p><span class="chinese">你认同这个新上任的经理吗？</span><span class="english">Do you approve of the new manager?</span></p>

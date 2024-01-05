@@ -1,5 +1,7 @@
 # 眼眶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yankuang.md)
+
 <p><span class="chinese">眼泪涌到她的眼眶里。</span><span class="english">Tears sprang to her eyes.</span></p>
 
 <p><span class="chinese">泪水在她眼眶里闪烁。</span><span class="english">Tears shimmered in her eyes.</span></p>

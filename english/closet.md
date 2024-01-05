@@ -1,5 +1,7 @@
 # closet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/closet.md)
+
 <p><span class="chinese">她藏在小房间里。</span><span class="english">She was hidden in the closet.</span></p>
 
 <p><span class="chinese">这些靴子应搁在壁橱里。</span><span class="english">These boots belong in the closet.</span></p>

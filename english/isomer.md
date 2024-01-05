@@ -1,5 +1,7 @@
 # isomer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isomer.md)
+
 <p><span class="chinese">丁烷的同分异构体。</span><span class="english">An isomer of butane.</span></p>
 
 <p><span class="chinese">你所得到的香芹酮异构体是哪一种呢？</span><span class="english">Which isomer of carvone do you have?</span></p>

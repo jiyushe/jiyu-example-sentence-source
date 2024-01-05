@@ -1,5 +1,7 @@
 # town
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/town.md)
+
 <p><span class="chinese">小镇的尽头。</span><span class="english">End of town.</span></p>
 
 <p><span class="chinese">镇公所的塔。</span><span class="english">Town Hall Tower.</span></p>

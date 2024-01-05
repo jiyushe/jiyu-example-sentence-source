@@ -1,5 +1,7 @@
 # restatement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/restatement.md)
+
 <p><span class="chinese">法律重述，第二次，合同法。</span><span class="english">Restatement of the Law, Second, Contracts.</span></p>
 
 <p><span class="chinese">释义，意义用其它形式或词语来重述一篇课文或文章的语句，通常用以阐释意义。</span><span class="english">A restatement of a text or passage in another form or other words, often to clarify meaning.</span></p>

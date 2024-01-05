@@ -1,5 +1,7 @@
 # infestation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infestation.md)
+
 <p><span class="chinese">如何鼻螨确诊为患?。</span><span class="english">How is a nasal mite infestation diagnosed?</span></p>
 
 <p><span class="chinese">灭病媒药，杀害物剂根除侵扰的药剂，如虫害的药剂。</span><span class="english">An agent that eradicates an infestation as of vermin.</span></p>

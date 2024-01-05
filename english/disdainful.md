@@ -1,5 +1,7 @@
 # disdainful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disdainful.md)
+
 <p><span class="chinese">他轻蔑地瞄了一眼那个囚犯。</span><span class="english">He cast a disdainful glance at the prisoner.</span></p>
 
 <p><span class="chinese">斯内普轻蔑的看了一眼哈利。</span><span class="english">Snape stared at Harry with a disdainful look.</span></p>

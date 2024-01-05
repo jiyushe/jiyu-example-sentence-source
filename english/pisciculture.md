@@ -1,5 +1,7 @@
 # pisciculture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pisciculture.md)
+
 <p><span class="chinese">钓鱼轻易养鱼难！</span><span class="english">Fishing is easy pisciculture is difficult!</span></p>
 
 <p><span class="chinese">那么，养鱼者目前能做什么？</span><span class="english">So, pisciculture person what can you do at present?</span></p>

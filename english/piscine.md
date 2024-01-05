@@ -1,5 +1,7 @@
 # piscine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piscine.md)
+
 <p><span class="chinese">先说说鱼尾纹的形成吧。</span><span class="english">The formation that says piscine end grain first.</span></p>
 
 <p><span class="chinese">所以小姿会被笑为“鱼美人”呢。</span><span class="english">So small gesture can be laughed to be " piscine beauty ".</span></p>

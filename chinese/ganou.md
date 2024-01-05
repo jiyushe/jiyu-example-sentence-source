@@ -1,5 +1,7 @@
 # 干呕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganou.md)
+
 <p><span class="chinese">恶心干呕是什么原因？</span><span class="english">What reason is disgusting retch?</span></p>
 
 <p><span class="chinese">他突然觉得恶心，猛烈地干呕起来。</span><span class="english">Nausea surged in him and he retched violently.</span></p>

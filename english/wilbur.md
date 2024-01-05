@@ -1,5 +1,7 @@
 # wilbur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wilbur.md)
+
 <p><span class="chinese">威伯也烦透了冬天。</span><span class="english">Wilbur was tired of winter, too.</span></p>
 
 <p><span class="chinese">弗恩爱威尔伯盛过一切。</span><span class="english">Fern loved Wilbur more than anything.</span></p>

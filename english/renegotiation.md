@@ -1,5 +1,7 @@
 # renegotiation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/renegotiation.md)
+
 <p><span class="chinese">所有权的改变及合同的重新谈判。</span><span class="english">A change in ownership and a renegotiation of contracts.</span></p>
 
 <p><span class="chinese">查普曼说，在重新谈判薪酬时心里要事先想好一个数额。</span><span class="english">Go into a  renegotiation with a number in mind, says Mr. Chapman.</span></p>

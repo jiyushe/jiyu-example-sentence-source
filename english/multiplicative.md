@@ -1,5 +1,7 @@
 # multiplicative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multiplicative.md)
+
 <p><span class="chinese">像许多类似的方案，它可以处理乘法规模的变化。</span><span class="english">Like many similar programs, it can handle multiplicative scale changes.</span></p>
 
 <p><span class="chinese">例举了乘法回归模型的材积方程的应用实例。</span><span class="english">Examples on volume equation of multiplicative regression model are illustrated.</span></p>

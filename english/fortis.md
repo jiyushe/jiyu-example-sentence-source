@@ -1,5 +1,7 @@
 # fortis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fortis.md)
+
 <p><span class="chinese">他已要求对富通作价每股大约7欧元。</span><span class="english">Modrikamen has demanded a deal that values Fortis shares at about 7 euros.</span></p>
 
 <p><span class="chinese">海富通是第六个获得政府的同意，可以销售基金QD11的基金公司。</span><span class="english">Fortis Haitong is the sixth fund house to get the government go -ahead to sell a QD11 fund.</span></p>

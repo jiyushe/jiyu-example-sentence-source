@@ -1,5 +1,7 @@
 # 伐木
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/famu.md)
+
 <p><span class="chinese">他们以伐木为生。</span><span class="english">They log for a living.</span></p>
 
 <p><span class="chinese">褐色的伐木工式样的衬衣。</span><span class="english">The brown lumberjack shirt.</span></p>

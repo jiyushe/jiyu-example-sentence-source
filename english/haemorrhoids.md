@@ -1,5 +1,7 @@
 # haemorrhoids
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haemorrhoids.md)
+
 <p><span class="chinese">这就是为什么痔疮是常见的，所以在怀孕。</span><span class="english">This is why haemorrhoids are so common in pregnancy.</span></p>
 
 <p><span class="chinese">这些被称为脱垂或脱垂痔疮。</span><span class="english">These are known as prolapsed or prolapsing haemorrhoids.</span></p>

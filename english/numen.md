@@ -1,5 +1,7 @@
 # numen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/numen.md)
+
 <p><span class="chinese">天使告诉我我是一…</span><span class="english">Numen tell me that I am a straight man.</span></p>
 
 <p><span class="chinese">神性的或者具有神的特点的。</span><span class="english">Of or relating to or characteristic of a numen.</span></p>

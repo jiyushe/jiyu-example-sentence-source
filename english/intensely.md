@@ -1,5 +1,7 @@
 # intensely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intensely.md)
+
 <p><span class="chinese">我头发晕，两眼发黑。</span><span class="english">Her hair's intensely black.</span></p>
 
 <p><span class="chinese">她极其厌恶势利小人。</span><span class="english">She dislikes snobs intensely.</span></p>

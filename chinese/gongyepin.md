@@ -1,5 +1,7 @@
 # 工业品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongyepin.md)
+
 <p><span class="chinese">在这个酒店的软装上，有各类的艺术品和工业品。</span><span class="english">In this hotel soft mount, with all kinds of art and industrial products.</span></p>
 
 <p><span class="chinese">然后，将工业品二甲苯放入瓶中，使达到瓶口。</span><span class="english">Thereafter the bottle is filled to the lip with commercial grade xylene.</span></p>

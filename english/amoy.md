@@ -1,5 +1,7 @@
 # amoy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amoy.md)
+
 <p><span class="chinese">亲爱的淘友你们好！</span><span class="english">Darling Amoy Good Friends!</span></p>
 
 <p><span class="chinese">大家淘客程序都是用的什么的？</span><span class="english">We Amoy off what procedures are used?</span></p>

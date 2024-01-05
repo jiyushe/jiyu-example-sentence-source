@@ -1,5 +1,7 @@
 # sanctify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sanctify.md)
+
 <p><span class="chinese">我罪恶全赦免得称义。</span><span class="english">To pardon and sanctify me.</span></p>
 
 <p><span class="chinese">1897年的庆典是对五光十色的帝国主义政策的御前恩准。</span><span class="english">In 1897, to sanctify the trumperies of imperialism.</span></p>

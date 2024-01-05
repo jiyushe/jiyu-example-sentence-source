@@ -1,5 +1,7 @@
 # gath
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gath.md)
+
 <p><span class="chinese">他是非利士的皇族城迦特人。</span><span class="english">Giant from Gath a Royal Philistine city.</span></p>
 
 <p><span class="chinese">大卫就离开那里，逃到亚杜兰洞。</span><span class="english">David left Gath and escaped to the cave of Adullam.</span></p>

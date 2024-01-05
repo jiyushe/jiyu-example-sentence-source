@@ -1,5 +1,7 @@
 # deictic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deictic.md)
+
 <p><span class="chinese">这里有两个纯地方指示词在当代英语。</span><span class="english">Here and there are two pure place deictic words in contemporary English.</span></p>
 
 <p><span class="chinese">指示语的语用翻译基于对源语指示信息的正确理解。</span><span class="english">The pragmatic translation of deixis rests on understanding the deictic information in SL.</span></p>

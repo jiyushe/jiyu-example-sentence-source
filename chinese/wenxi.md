@@ -1,5 +1,7 @@
 # 温习
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenxi.md)
+
 <p><span class="chinese">他温习了一下西班牙语。</span><span class="english">He gave his Spanish a brush-up.</span></p>
 
 <p><span class="chinese">他要温习一下他的法语。</span><span class="english">He wants to furbish up his French.</span></p>

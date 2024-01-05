@@ -1,5 +1,7 @@
 # tick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tick.md)
+
 <p><span class="chinese">蓬乱的头发，标志性的。</span><span class="english">Tousled hair, tick.</span></p>
 
 <p><span class="chinese">请在下面适当的空格打钩。</span><span class="english">What makes him tick?</span></p>

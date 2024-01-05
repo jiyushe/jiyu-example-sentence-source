@@ -1,5 +1,7 @@
 # spike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spike.md)
+
 <p><span class="chinese">你没看见，刚才我那扣球？</span><span class="english">Did you see my spike?</span></p>
 
 <p><span class="chinese">他必须秒杀，不然就失败。</span><span class="english">It must spike or lose.</span></p>

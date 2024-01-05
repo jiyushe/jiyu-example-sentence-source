@@ -1,5 +1,7 @@
 # welcome 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/welcome.md)
+
 <p><span class="chinese">随时欢迎！</span><span class="english">Welcome any time!</span></p>
 
 <p><span class="chinese">欢迎来到恩施。</span><span class="english">Welcome to Enshi.</span></p>

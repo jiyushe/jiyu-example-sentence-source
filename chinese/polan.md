@@ -1,5 +1,7 @@
 # 破烂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/polan.md)
+
 <p><span class="chinese">某破烂的旅馆房间。</span><span class="english">A SEEDY HOTEL ROOM.</span></p>
 
 <p><span class="chinese">我讨厌我的破烂英语。</span><span class="english">I hate my poor English.</span></p>

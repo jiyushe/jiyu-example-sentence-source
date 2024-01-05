@@ -1,5 +1,7 @@
 # polycrystalline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polycrystalline.md)
+
 <p><span class="chinese">薄膜均为多晶锐钛矿结构。</span><span class="english">All films show the polycrystalline anatase TiO2 structure.</span></p>
 
 <p><span class="chinese">高温下始终保持多晶体微晶粒结构。</span><span class="english">At high temperature it yet keep polycrystalline structure.</span></p>

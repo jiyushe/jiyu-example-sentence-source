@@ -1,5 +1,7 @@
 # shown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shown.md)
+
 <p><span class="chinese">链接它们，如下图所示。</span><span class="english">Link them as shown below.</span></p>
 
 <p><span class="chinese">它没有直接被表示出来</span><span class="english">It is not explicitly shown.</span></p>

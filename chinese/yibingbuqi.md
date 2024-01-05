@@ -1,5 +1,7 @@
 # 一病不起
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yibingbuqi.md)
+
 <p><span class="chinese">不久后他就病倒了，而且一病不起。</span><span class="english">He soon after and did not recover.</span></p>
 
 <p><span class="chinese">我很欣慰，宁愿就那样一病不起的状态。</span><span class="english">I am very pleased, would rather that vulnerable state.</span></p>

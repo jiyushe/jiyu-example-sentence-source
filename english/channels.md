@@ -1,5 +1,7 @@
 # channels
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/channels.md)
+
 <p><span class="chinese">我们有两个渠道。</span><span class="english">We have two channels.</span></p>
 
 <p><span class="chinese">大雨在地面上开沟了。</span><span class="english">The rain washed channels in the ground.</span></p>

@@ -1,5 +1,7 @@
 # careful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/careful.md)
+
 <p><span class="chinese">我是一个很细心的人。</span><span class="english">I'm a careful man.</span></p>
 
 <p><span class="chinese">他们很小心。</span><span class="english">They were careful.</span></p>

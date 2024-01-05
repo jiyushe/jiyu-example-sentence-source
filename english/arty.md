@@ -1,5 +1,7 @@
 # arty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arty.md)
+
 <p><span class="chinese">我没有那么多的艺术细胞。</span><span class="english">I'm not very arty.</span></p>
 
 <p><span class="chinese">我最恨这些艺术片了。</span><span class="english">I hate those arty movies.</span></p>

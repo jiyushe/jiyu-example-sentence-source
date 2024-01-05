@@ -1,5 +1,7 @@
 # 安分守己
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anfenshouji.md)
+
 <p><span class="chinese">我也得用另一种方式表现得安分守己。</span><span class="english">In another fashion I too was to hold still.</span></p>
 
 <p><span class="chinese">比利时是欧洲最安分守己的小国之一。</span><span class="english">She was one of the most unoffending little countries in Europe.</span></p>

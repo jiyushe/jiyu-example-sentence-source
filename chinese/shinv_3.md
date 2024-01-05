@@ -1,5 +1,7 @@
 # 室女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shinv_3.md)
+
 <p><span class="chinese">亲爱的室女座，开心一点。</span><span class="english">Be happy, dear Virgo.</span></p>
 
 <p><span class="chinese">是两只天鹅在室女星座的相逢。</span><span class="english">Two swans meeting on the Jungfrau.</span></p>

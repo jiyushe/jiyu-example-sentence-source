@@ -1,5 +1,7 @@
 # lobar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lobar.md)
+
 <p><span class="chinese">肺腺鳞癌是什么?。</span><span class="english">What is cancer of lobar gland scale?</span></p>
 
 <p><span class="chinese">结肠癌会引发肺积水吗？</span><span class="english">Can colonic cancer cause lobar seeper?</span></p>

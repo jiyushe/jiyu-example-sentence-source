@@ -1,5 +1,7 @@
 # krishna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/krishna.md)
+
 <p><span class="chinese">印度的克利须那神就是个例子。</span><span class="english">Example in India is Krishna.</span></p>
 
 <p><span class="chinese">奎师那是万事万物的根源。</span><span class="english">Krishna is the root of everything.</span></p>

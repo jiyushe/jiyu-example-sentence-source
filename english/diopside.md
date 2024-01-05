@@ -1,5 +1,7 @@
 # diopside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diopside.md)
+
 <p><span class="chinese">某些矿床中发育的纯透辉石层与成矿不具必然联系。</span><span class="english">The diopside is not of certain relation to the metallization.</span></p>
 
 <p><span class="chinese">脉石矿物主要为方解石、石英、透辉石、石榴子石等。</span><span class="english">Vein minerals are mainly in quartz, Calcite, diopside and garnet etc.</span></p>

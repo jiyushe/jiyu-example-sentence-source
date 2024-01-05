@@ -1,5 +1,7 @@
 # 矮人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/airen_1.md)
+
 <p><span class="chinese">把矮人的锤子没收了。</span><span class="english">Took hammer away from midget.</span></p>
 
 <p><span class="chinese">“抓住那个矮人，”红玫喊道。</span><span class="english">"Catch the dwarf, "Rose-red shouted.</span></p>

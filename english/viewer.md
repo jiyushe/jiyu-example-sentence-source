@@ -1,5 +1,7 @@
 # viewer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/viewer.md)
+
 <p><span class="chinese">阅读器端口在盖内。</span><span class="english">Viewer port in the lid.</span></p>
 
 <p><span class="chinese">一个人留言说，他是一个骗子。</span><span class="english">He is a fraud, a viewer said.</span></p>

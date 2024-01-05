@@ -1,5 +1,7 @@
 # 汹涌澎湃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongyongpengpai.md)
+
 <p><span class="chinese">轮船在汹涌澎湃的大海中起伏颠簸。</span><span class="english">The sound of this rush or surge.</span></p>
 
 <p><span class="chinese">革命怒潮汹涌澎湃。</span><span class="english">The raging tide of revolution surges forward.</span></p>

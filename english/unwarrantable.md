@@ -1,5 +1,7 @@
 # unwarrantable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unwarrantable.md)
+
 <p><span class="chinese">但硬件不能保证绝对安全。</span><span class="english">But hardware is unwarrantable absolute safety.</span></p>
 
 <p><span class="chinese">他们侵扰我们的私生活是毫无道理的。</span><span class="english">Their intrusion into our private lives is unwarrantable.</span></p>

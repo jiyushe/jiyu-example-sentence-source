@@ -1,5 +1,7 @@
 # metalworking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metalworking.md)
+
 <p><span class="chinese">数控其他金属加工工序。</span><span class="english">NC for Other Metalworking processes.</span></p>
 
 <p><span class="chinese">我没有上我很喜欢的金工课。</span><span class="english">I ended up dropping that metalworking class I was so excited about.</span></p>

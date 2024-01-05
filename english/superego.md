@@ -1,5 +1,7 @@
 # superego
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superego.md)
+
 <p><span class="chinese">超我则在打压这些欲望，“不行“</span><span class="english">And your superego is saying, "No, no, no."</span></p>
 
 <p><span class="chinese">根据这一理论，超我扮演克制。</span><span class="english">Under this theory, the superego acts as a restraint.</span></p>

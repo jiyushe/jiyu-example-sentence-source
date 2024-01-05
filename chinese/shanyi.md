@@ -1,5 +1,7 @@
 # 善意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanyi.md)
+
 <p><span class="chinese">他的善意GMH.</span><span class="english">His kindness GMH.</span></p>
 
 <p><span class="chinese">这就我们说善意的谎言的原因。</span><span class="english">Heres why we tell white lies.</span></p>

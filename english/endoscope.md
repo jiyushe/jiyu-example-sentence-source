@@ -1,5 +1,7 @@
 # endoscope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endoscope.md)
+
 <p><span class="chinese">放入的胃镜不会干扰你的呼吸。</span><span class="english">The endoscope does not interfere with your breathing.</span></p>
 
 <p><span class="chinese">胃镜室里最让人难过的事情就是发现年轻的癌症病人。</span><span class="english">The worst thing in the endoscope room is to find a young cancer patient.</span></p>

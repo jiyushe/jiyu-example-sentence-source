@@ -1,5 +1,7 @@
 # hades
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hades.md)
+
 <p><span class="chinese">是一条来自冥府的黑虫。</span><span class="english">A black worm from Hades.</span></p>
 
 <p><span class="chinese">哈德斯被流放到冥界。</span><span class="english">Hades is banished to the underworld.</span></p>

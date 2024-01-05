@@ -1,5 +1,7 @@
 # salted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salted.md)
+
 <p><span class="chinese">有，咸蛋就是咸的东西。</span><span class="english">Yes, salted eggs are salty.</span></p>
 
 <p><span class="chinese">鱼被切成块腌起来了。</span><span class="english">The fish are cut and salted.</span></p>

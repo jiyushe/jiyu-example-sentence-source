@@ -1,5 +1,7 @@
 # 燃点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/randian.md)
+
 <p><span class="chinese">纸的燃点是摄氏232度。</span><span class="english">Paper burns at 232 degrees Celsius.</span></p>
 
 <p><span class="chinese">喇嘛燃点供佛的酥油灯。</span><span class="english">Lamas lighting the butter-oil lamps.</span></p>

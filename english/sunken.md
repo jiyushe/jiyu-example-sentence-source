@@ -1,5 +1,7 @@
 # sunken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sunken.md)
+
 <p><span class="chinese">那女孩眼睛凹下去了。</span><span class="english">The girl's eyes have sunken.</span></p>
 
 <p><span class="chinese">没有一艘沉船是不备有图表的。</span><span class="english">Every sunken ship has a chart.</span></p>

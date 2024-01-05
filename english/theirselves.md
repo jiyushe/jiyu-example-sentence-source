@@ -1,5 +1,7 @@
 # theirselves
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theirselves.md)
+
 <p><span class="chinese">至少他们应该知道自己在什么地方吧？</span><span class="english">They should at least know where theirselves are.</span></p>
 
 <p><span class="chinese">现在他们遇到了他们给自己带来的麻烦。</span><span class="english">Now they got into troble which they made for theirselves.</span></p>

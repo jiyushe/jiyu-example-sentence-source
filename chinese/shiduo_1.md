@@ -1,5 +1,7 @@
 # 拾掇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiduo_1.md)
+
 <p><span class="chinese">我们把屋子拾掇一下。</span><span class="english">Let's tidy up the room.</span></p>
 
 <p><span class="chinese">你的家务事拾掇好没？</span><span class="english">Have you done your chores?</span></p>

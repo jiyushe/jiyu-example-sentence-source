@@ -1,5 +1,7 @@
 # modularization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/modularization.md)
+
 <p><span class="chinese">JDK模块化使用了Jigsaw模块化系统。</span><span class="english">JDK modularization uses the Jigsaw module system.</span></p>
 
 <p><span class="chinese">在软件以外的领域，模块化的应用非常普遍。</span><span class="english">Outside of software, modularization is very common.</span></p>

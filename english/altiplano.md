@@ -1,5 +1,7 @@
 # altiplano
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/altiplano.md)
+
 <p><span class="chinese">迪庆藏猪属于典型的高原型猪种之一，对其肌肉品质进行分析。</span><span class="english">Diqing Tibetan pig is a kind of typical altiplano pig breed.</span></p>
 
 <p><span class="chinese">你在多年前登过的高原，如今沉睡在地壳的深处。</span><span class="english">The altiplano which you had been to years ago was just sleeping under the lithosphere.</span></p>

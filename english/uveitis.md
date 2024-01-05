@@ -1,5 +1,7 @@
 # uveitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uveitis.md)
+
 <p><span class="chinese">葡萄膜炎是青年患者视力障碍的一个常见原因。</span><span class="english">Uveitis is a common cause for visual handicap in younger patients.</span></p>
 
 <p><span class="chinese">葡萄膜炎，往往复发，特别是如果这是因为一个潜在的疾病。</span><span class="english">Uveitis often recurs, especially if it is due to an underlying disease.</span></p>

@@ -1,5 +1,7 @@
 # alchemical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alchemical.md)
+
 <p><span class="chinese">炼金术的理论并不愚蠢。</span><span class="english">Alchemical theories were not stupid.</span></p>
 
 <p><span class="chinese">这是我们朝向光演化的炼金术进化过程。</span><span class="english">It is the process of our Alchemical evolution toward light.</span></p>

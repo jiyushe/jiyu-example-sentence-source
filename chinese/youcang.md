@@ -1,5 +1,7 @@
 # 油藏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youcang.md)
+
 <p><span class="chinese">油藏类型以断鼻、断块为主。</span><span class="english">Reservoir types are mainly fault nose and fault block.</span></p>
 
 <p><span class="chinese">火成岩披覆油藏是一种特殊的油藏类型。</span><span class="english">Igneous drape reservoir is a special type of reservoir.</span></p>

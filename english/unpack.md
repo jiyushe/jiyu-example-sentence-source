@@ -1,5 +1,7 @@
 # unpack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unpack.md)
+
 <p><span class="chinese">你一到达目的地就打开行李。</span><span class="english">Unpack as soon as you arrive.</span></p>
 
 <p><span class="chinese">下载并解压源代码。</span><span class="english">Download and unpack the source.</span></p>

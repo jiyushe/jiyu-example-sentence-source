@@ -1,5 +1,7 @@
 # 没准
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meizhun.md)
+
 <p><span class="chinese">否则，那船没准会沉。</span><span class="english">Otherwise the boat might sink.</span></p>
 
 <p><span class="chinese">有这股子狂劲，没准他真能赢得最后的胜利。</span><span class="english">With his fanaticism, he may win at last.</span></p>

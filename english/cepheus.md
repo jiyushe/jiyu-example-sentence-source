@@ -1,5 +1,7 @@
 # cepheus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cepheus.md)
+
 <p><span class="chinese">你需要在较暗的郊外才能更好的观看到仙王座。</span><span class="english">You need a dark country sky for a good view of Cepheus.</span></p>
 
 <p><span class="chinese">在希腊神话中，仙王座象征着埃塞俄比亚的国王。</span><span class="english">In Greek mythology, Cepheus represents a King of Ethiopia.</span></p>

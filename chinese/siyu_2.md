@@ -1,5 +1,7 @@
 # 私语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siyu_2.md)
+
 <p><span class="chinese">我只能听到低低的私语。</span><span class="english">I could detect only the merest whisper.</span></p>
 
 <p><span class="chinese">我心中私语，表面却显得沉默异常。</span><span class="english">I seem stark mute but inwardly do prate.</span></p>

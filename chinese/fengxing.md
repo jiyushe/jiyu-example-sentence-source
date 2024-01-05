@@ -1,5 +1,7 @@
 # 奉行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengxing.md)
+
 <p><span class="chinese">奉行义愤脚本就是一个例子。</span><span class="english">Running the outrage script is one example.</span></p>
 
 <p><span class="chinese">这个王国奉行一种好出风头的政策。</span><span class="english">The Kingdom pursued a very forward policy.</span></p>

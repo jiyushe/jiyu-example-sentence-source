@@ -1,5 +1,7 @@
 # wittingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wittingly.md)
+
 <p><span class="chinese">不礼貌可能触犯他人。</span><span class="english">I would never wittingly offend him.</span></p>
 
 <p><span class="chinese">强纳生因为存心伤害弟弟而受到惩罚。</span><span class="english">Jonathan was punished for hurting his younger brother wittingly.</span></p>

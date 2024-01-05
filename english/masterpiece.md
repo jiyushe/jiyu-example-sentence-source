@@ -1,5 +1,7 @@
 # masterpiece
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/masterpiece.md)
+
 <p><span class="chinese">这本书是他的杰作。</span><span class="english">This book is his masterpiece.</span></p>
 
 <p><span class="chinese">这是一部杰作，不可不读。</span><span class="english">A masterpiece and a must-read.</span></p>

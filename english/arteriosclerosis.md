@@ -1,5 +1,7 @@
 # arteriosclerosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arteriosclerosis.md)
+
 <p><span class="chinese">老年人动脉硬化可以吃什么水果呢？</span><span class="english">What fruit can old people arteriosclerosis eat?</span></p>
 
 <p><span class="chinese">TLR4及其介导的天然免疫应答与动脉粥样硬化的发生发展存在一定的相关性。</span><span class="english">TLR4 and the innate immune response mediated by it are associated with arteriosclerosis.</span></p>

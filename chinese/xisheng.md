@@ -1,5 +1,7 @@
 # 牺牲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xisheng.md)
+
 <p><span class="chinese">牺牲一人救300个人呢？</span><span class="english">One life to save 300?</span></p>
 
 <p><span class="chinese">牺牲一个保全五个？</span><span class="english">One life versus five?</span></p>

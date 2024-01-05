@@ -1,5 +1,7 @@
 # armoured
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/armoured.md)
+
 <p><span class="chinese">步行弓骑兵一应装备由国王拨款购置。</span><span class="english">Well armed and armoured by the King.</span></p>
 
 <p><span class="chinese">波管铠装电话电缆“，”</span><span class="english">Corrugated Steel Armoured Telephone Cables.</span></p>

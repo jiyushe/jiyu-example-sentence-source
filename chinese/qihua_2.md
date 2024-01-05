@@ -1,5 +1,7 @@
 # 漆画
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qihua_2.md)
+
 <p><span class="chinese">漆画有绘画和工艺的双重性。</span><span class="english">Lacquer has the dual nature of painting and craft.</span></p>
 
 <p><span class="chinese">旨在通过此课题的研究揭示凤翔地区家具漆画的丰富内涵。</span><span class="english">The research reveals the rich connotation. of furniture lacquer painting in Fengxiang region.</span></p>

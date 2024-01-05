@@ -1,5 +1,7 @@
 # 客位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kewei_1.md)
+
 <p><span class="chinese">来回华信航空公司经济客位机票。</span><span class="english">Roundtrip Economy class air ticket on AE.</span></p>
 
 <p><span class="chinese">韩国航空公司来回首尔至济州机场经济客位机票。</span><span class="english">Roundtrip Economy class air ticket for Seoul and Cheju on CX.</span></p>

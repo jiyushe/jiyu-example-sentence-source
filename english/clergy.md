@@ -1,5 +1,7 @@
 # clergy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clergy.md)
+
 <p><span class="chinese">教会并没有受戒的神职人员。</span><span class="english">The church has no ordained clergy.</span></p>
 
 <p><span class="chinese">如果上帝的话语就足够，有什么需要的是一个神职人员？</span><span class="english">If God's word sufficed, what need of a clergy?</span></p>

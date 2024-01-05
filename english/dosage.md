@@ -1,5 +1,7 @@
 # dosage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dosage.md)
+
 <p><span class="chinese">大剤量能致命。</span><span class="english">Large dosage can cause death.</span></p>
 
 <p><span class="chinese">而清血糖浆低剂量组无此作用。</span><span class="english">The high, middle, low dosage groups.</span></p>

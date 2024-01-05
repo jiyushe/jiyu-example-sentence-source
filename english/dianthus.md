@@ -1,5 +1,7 @@
 # dianthus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dianthus.md)
+
 <p><span class="chinese">老鹳草，石竹都是适合的植物，其风味也增强记忆，调节情绪的作用。</span><span class="english">Geranium, Dianthus are suitable for the plant, its flavor also enhances memory, mood regulation effect.</span></p>
 
 <p><span class="chinese">实验结果表明，6种实验材料都具有一定的坪用价值，但地被石竹和长夏石竹的表现较好。</span><span class="english">The result showed that 6 varieties plants have lawn value and Dianthus chinensis and Dianthus plumarius are better.</span></p>

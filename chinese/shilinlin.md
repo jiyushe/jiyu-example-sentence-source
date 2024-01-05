@@ -1,5 +1,7 @@
 # 湿淋淋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shilinlin.md)
+
 <p><span class="chinese">那只湿淋淋的狗猛摇身体。</span><span class="english">The wet dog shook itself.</span></p>
 
 <p><span class="chinese">湿淋淋的树叶滴着水。</span><span class="english">The wet leaves drop water.</span></p>

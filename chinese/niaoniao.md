@@ -1,5 +1,7 @@
 # 袅袅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niaoniao.md)
+
 <p><span class="chinese">那股烟袅袅上升。</span><span class="english">The smoke spiraled upwards.</span></p>
 
 <p><span class="chinese">烟袅袅升向天空。</span><span class="english">The smoke spiralled upwards.</span></p>

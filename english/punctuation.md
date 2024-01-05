@@ -1,5 +1,7 @@
 # punctuation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/punctuation.md)
+
 <p><span class="chinese">逗号是一种标点符号。</span><span class="english">Comma is a kind of punctuation.</span></p>
 
 <p><span class="chinese">在文笔和标点符号上保持一致。</span><span class="english">Be consistent in grammar or punctuation.</span></p>

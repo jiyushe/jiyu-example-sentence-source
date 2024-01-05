@@ -1,5 +1,7 @@
 # micron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/micron.md)
+
 <p><span class="chinese">研究了厚度小于1.5微米铜箔和厚度小于1.8微米铝箔的轧制工艺。</span><span class="english">The least thickness is less than 1.8 micron and 1.5 micron.</span></p>
 
 <p><span class="chinese">微米级铁矿粉具有纳米尺度的晶粒。</span><span class="english">Nano-crystalline gra in exists in ore particle with micron size.</span></p>

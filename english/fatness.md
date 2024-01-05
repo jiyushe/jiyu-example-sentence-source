@@ -1,5 +1,7 @@
 # fatness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fatness.md)
+
 <p><span class="chinese">你认为健身远胜过肥胖</span><span class="english">You Think Fitness Trumps Fatness</span></p>
 
 <p><span class="chinese">他的肥胖使他无法摸到脚趾。</span><span class="english">His fatness renders him unable to touch his toes.</span></p>

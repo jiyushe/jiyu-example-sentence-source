@@ -1,5 +1,7 @@
 # carnelian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carnelian.md)
+
 <p><span class="chinese">然后，橙红色玛瑙是给你的。</span><span class="english">Then red-orange Carnelian is for you.</span></p>
 
 <p><span class="chinese">漂亮！第一张图中刀鞘和柄上镶嵌的是玛瑙吗？</span><span class="english">Beautiful! Is the thing inlaid in the scabbard and handle carnelian ?</span></p>

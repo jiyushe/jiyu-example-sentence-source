@@ -1,5 +1,7 @@
 # navigator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/navigator.md)
+
 <p><span class="chinese">他真是个伟大的航海家。</span><span class="english">He is a real great navigator.</span></p>
 
 <p><span class="chinese">虚拟网络导航?。</span><span class="english">VNN? Virtual Network Navigator?</span></p>

@@ -1,5 +1,7 @@
 # submersed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/submersed.md)
+
 <p><span class="chinese">说明了铜离子对沉水植物的生长产生了明显的胁迫。</span><span class="english">Obviously, submersed mcrophytes were under the stress of copper.</span></p>
 
 <p><span class="chinese">这种水生植物的佛焰苞经多大60厘米长。</span><span class="english">The longest spathe of submersed plant was measured more than 60 cm!</span></p>

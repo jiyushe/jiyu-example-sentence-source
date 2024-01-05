@@ -1,5 +1,7 @@
 # baboon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baboon.md)
+
 <p><span class="chinese">这项研究的对象是南非大狒狒。</span><span class="english">It's a study of the chacma baboon.</span></p>
 
 <p><span class="chinese">狒狒无形中成了他们的向导。</span><span class="english">The baboon has become their unwilling guide.</span></p>

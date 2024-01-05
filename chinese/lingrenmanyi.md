@@ -1,5 +1,7 @@
 # 令人满意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingrenmanyi.md)
+
 <p><span class="chinese">特罗依是那么令人满意。</span><span class="english">Troy is so sweet.</span></p>
 
 <p><span class="chinese">感谢方勇令人满意的工作！</span><span class="english">Thanks Ben for your great work!</span></p>

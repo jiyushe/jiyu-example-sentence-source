@@ -1,5 +1,7 @@
 # 解放军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiefangjun.md)
+
 <p><span class="chinese">在我回家的路上，我遇到了一位解放军。</span><span class="english">On my way home. I met a P.</span></p>
 
 <p><span class="chinese">解放军里有许多雷锋式人物。</span><span class="english">There are many Lei Fengs in PLA.</span></p>

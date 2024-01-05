@@ -1,5 +1,7 @@
 # title
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/title.md)
+
 <p><span class="chinese">我喜欢这个头衔。</span><span class="english">I like the title.</span></p>
 
 <p><span class="chinese">您一定得输入作品名称。</span><span class="english">You must supply a title.</span></p>

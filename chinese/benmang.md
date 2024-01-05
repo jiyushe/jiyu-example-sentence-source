@@ -1,5 +1,7 @@
 # 奔忙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benmang.md)
+
 <p><span class="chinese">他最近一直在欧洲奔忙，并在各个饭店进行旅馆式办公。</span><span class="english">He has been hotelling in Europe.</span></p>
 
 <p><span class="chinese">四处奔忙的时候轻松查找信息。</span><span class="english">Find out information easily while on the go.</span></p>

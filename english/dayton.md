@@ -1,5 +1,7 @@
 # dayton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dayton.md)
+
 <p><span class="chinese">它是在1995年的代顿协议上确立的，马克的名字指的是德国马克。</span><span class="english">It was established as such by the 1995 Dayton Agreement.</span></p>
 
 <p><span class="chinese">代顿协议的签订，使波黑地平线上露出和平的曙光。</span><span class="english">The signing of the Dayton accords shed some light of peace.</span></p>

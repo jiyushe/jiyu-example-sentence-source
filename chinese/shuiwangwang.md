@@ -1,5 +1,7 @@
 # 水汪汪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiwangwang.md)
+
 <p><span class="chinese">水汪汪的一对眼睛，那么明亮。</span><span class="english">A pair of watery eyes, so bright.</span></p>
 
 <p><span class="chinese">水汪汪的眼睛像两颗玻璃珠。</span><span class="english">Watery eyes like two glass beads.</span></p>

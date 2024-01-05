@@ -1,5 +1,7 @@
 # 妥当
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuodang.md)
+
 <p><span class="chinese">你认为怎么妥当就怎么办。</span><span class="english">Do as you think proper.</span></p>
 
 <p><span class="chinese">他们已准备妥当急切想出发。</span><span class="english">They are ready and raring to go.</span></p>

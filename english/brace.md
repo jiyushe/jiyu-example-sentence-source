@@ -1,5 +1,7 @@
 # brace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brace.md)
+
 <p><span class="chinese">你得作好准备，有坏消息相告。</span><span class="english">Brace yourself for bad news.</span></p>
 
 <p><span class="chinese">盔甲去柱铁片散。</span><span class="english">Like to the armour's iron brace.</span></p>

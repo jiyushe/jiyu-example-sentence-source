@@ -1,5 +1,7 @@
 # outmoded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outmoded.md)
+
 <p><span class="chinese">但是那种理念有点过时了。</span><span class="english">But that philosophy feels outmoded.</span></p>
 
 <p><span class="chinese">这年头，可不兴种族歧视！</span><span class="english">This year, but outmoded racial discrimination!</span></p>

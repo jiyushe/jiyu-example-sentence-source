@@ -1,5 +1,7 @@
 # edging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/edging.md)
+
 <p><span class="chinese">那条船正在缓慢驶来。</span><span class="english">The ship is edging down.</span></p>
 
 <p><span class="chinese">周边以石膏线饰边。</span><span class="english">To plaster line edging around.</span></p>

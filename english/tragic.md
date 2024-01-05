@@ -1,5 +1,7 @@
 # tragic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tragic.md)
+
 <p><span class="chinese">这是一个凄惨的故事。</span><span class="english">It's a tragic tale.</span></p>
 
 <p><span class="chinese">我认为这是一个悲剧性的错误。</span><span class="english">I thought it was a tragic mistake.</span></p>

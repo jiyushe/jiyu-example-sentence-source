@@ -1,5 +1,7 @@
 # purloin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purloin.md)
+
 <p><span class="chinese">小陈坚称自己没有偷窃。</span><span class="english">Xiao Chen insisted that he didn't purloin.</span></p>
 
 <p><span class="chinese">究竟是什么人盗取了他们的钱呢？</span><span class="english">What person purloin be after all their money?</span></p>

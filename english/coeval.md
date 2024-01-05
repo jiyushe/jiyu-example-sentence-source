@@ -1,5 +1,7 @@
 # coeval
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coeval.md)
+
 <p><span class="chinese">斜长岩与层状辉长岩的时代相近或略晚。</span><span class="english">Anorthosite was coeval with or slightly younger than the hosting layered gabbro.</span></p>
 
 <p><span class="chinese">整个剥蚀区的范围同峨眉山玄武岩分布区基本一致。</span><span class="english">The erosion scope is coeval with the spatial distribution of the Emeishan basalts.</span></p>

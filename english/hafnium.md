@@ -1,5 +1,7 @@
 # hafnium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hafnium.md)
+
 <p><span class="chinese">为什么总是会有烦恼的事铪？</span><span class="english">Why can you always have vexed thing hafnium?</span></p>
 
 <p><span class="chinese">铪的化学形态为过氯酸盐或硝酸盐。</span><span class="english">Chemical form of hafnium is perchlorate or nitrate.</span></p>

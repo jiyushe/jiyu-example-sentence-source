@@ -1,5 +1,7 @@
 # swelling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swelling.md)
+
 <p><span class="chinese">她发现左乳有个硬肿块。</span><span class="english">A slight swelling or lump.</span></p>
 
 <p><span class="chinese">他的腿发肿。</span><span class="english">His legs are swelling out.</span></p>

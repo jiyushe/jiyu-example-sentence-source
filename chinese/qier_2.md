@@ -1,5 +1,7 @@
 # 弃儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qier_2.md)
+
 <p><span class="chinese">我们都是弃儿！</span><span class="english">We’re Outcast!</span></p>
 
 <p><span class="chinese">我是一个弃儿，真新！</span><span class="english">I'm a lost child, Cin!</span></p>

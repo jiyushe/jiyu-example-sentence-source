@@ -1,5 +1,7 @@
 # abortion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abortion.md)
+
 <p><span class="chinese">她最近做了打胎。</span><span class="english">She had an abortion recently.</span></p>
 
 <p><span class="chinese">堕胎是应该受诅咒的罪恶。</span><span class="english">Abortion is an abominable sin.</span></p>

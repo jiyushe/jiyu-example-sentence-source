@@ -1,5 +1,7 @@
 # ellie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ellie.md)
+
 <p><span class="chinese">伊丽？看看我们的脚印。</span><span class="english">Ellie. Look at our footprints.</span></p>
 
 <p><span class="chinese">林奕德回到家里，艾莉对他避而不见。</span><span class="english">LinYiDe back home, Ellie to avoid him disappear.</span></p>

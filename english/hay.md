@@ -1,5 +1,7 @@
 # hay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hay.md)
+
 <p><span class="chinese">她把干草堆起来。</span><span class="english">She stacked hay.</span></p>
 
 <p><span class="chinese">奶牛以干草为生。</span><span class="english">Cows feed on hay.</span></p>

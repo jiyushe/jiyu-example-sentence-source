@@ -1,5 +1,7 @@
 # 运动战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yundongzhan.md)
+
 <p><span class="chinese">但是转换全局的战略方针，必然要是运动战。</span><span class="english">But the pivotal strategy must be mobile warfare.</span></p>
 
 <p><span class="chinese">想在运动战中得分，你须观察好对方的防守。</span><span class="english">When you are shooting off the dribble you want to read the defense.</span></p>

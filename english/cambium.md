@@ -1,5 +1,7 @@
 # cambium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cambium.md)
+
 <p><span class="chinese">木本植物维管形成层外部的组织。</span><span class="english">In woody plants, tissues outside of the vascular cambium.</span></p>
 
 <p><span class="chinese">愈伤组织是多起源的，但主要源于形成层。</span><span class="english">The callus originated from several parts, but mainly from cambium.</span></p>

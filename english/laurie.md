@@ -1,5 +1,7 @@
 # laurie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laurie.md)
+
 <p><span class="chinese">劳里，劳伦斯，--这名字真怪！</span><span class="english">Laurie Laurence, what an odd name.</span></p>
 
 <p><span class="chinese">劳利出生于滑冰世家。</span><span class="english">Laurie came from a skating family.</span></p>

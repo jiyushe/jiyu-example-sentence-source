@@ -1,5 +1,7 @@
 # 痛痒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongyang_1.md)
+
 <p><span class="chinese">世界在痛痒无关的专暴中为它的好心者而遭受最大的痛苦。</span><span class="english">The world suffers most from the disinterested tyranny of its well-wisher.</span></p>
 
 <p><span class="chinese">睑缘充血、主觉痛痒及烧灼感。</span><span class="english">There are marginal hyperemia and pain, itching, burning sensation as symptoms.</span></p>

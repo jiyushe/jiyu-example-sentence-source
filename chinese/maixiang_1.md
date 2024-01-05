@@ -1,5 +1,7 @@
 # 脉象
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maixiang_1.md)
+
 <p><span class="chinese">他的脉象非常平稳。</span><span class="english">His pulse was very even.</span></p>
 
 <p><span class="chinese">死神似犹尚未降临，可她却摸不出脉象。</span><span class="english">She had no pulse, but death seemed absent still.</span></p>

@@ -1,5 +1,7 @@
 # quotient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quotient.md)
+
 <p><span class="chinese">我听说还有个叫做健商，健康商数。</span><span class="english">I hear another one called HQ , health quotient.</span></p>
 
 <p><span class="chinese">对于除法问题的答案叫做商数。</span><span class="english">The answer to a division problem is the quotient.</span></p>

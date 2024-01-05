@@ -1,5 +1,7 @@
 # fuck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fuck.md)
+
 <p><span class="chinese">别跟我耍滑头！</span><span class="english">Don't fuck with me!</span></p>
 
 <p><span class="chinese">去他妈的诅咒！</span><span class="english">Fuck damnations, man!</span></p>

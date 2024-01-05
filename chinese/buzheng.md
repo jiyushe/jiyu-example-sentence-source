@@ -1,5 +1,7 @@
 # 不争
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buzheng.md)
+
 <p><span class="chinese">不争是慈祥，不闻是智慧。</span><span class="english">True is kindly, not smell is wisdom.</span></p>
 
 <p><span class="chinese">你为什么要欢迎这样一个不争气的儿子呢？</span><span class="english">Why did you welcome a bad son like him?</span></p>

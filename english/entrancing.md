@@ -1,5 +1,7 @@
 # entrancing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entrancing.md)
+
 <p><span class="chinese">酷的音响效果，迷人的新音乐！</span><span class="english">Cool sound effects and entrancing new music!</span></p>
 
 <p><span class="chinese">迷人的、醉入的以及令人心旷神怡的都基于它。</span><span class="english">Charming, entrancing and enchanting are all based on it.</span></p>

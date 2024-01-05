@@ -1,5 +1,7 @@
 # assuage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assuage.md)
+
 <p><span class="chinese">但她又会体贴的消除他们的忧虑。</span><span class="english">But she is careful to assuage their concerns.</span></p>
 
 <p><span class="chinese">做的所有的努力有可能缓和这个敏感的是市场吗？</span><span class="english">Will all this assuage the cantankerous markets?</span></p>

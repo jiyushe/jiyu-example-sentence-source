@@ -1,5 +1,7 @@
 # oe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oe.md)
+
 <p><span class="chinese">她是位有才华的音乐家，谱写了歌曲〈阿罗哈•奥耶〉。</span><span class="english">A talented musician, she composed the song "Aloha Oe."</span></p>
 
 <p><span class="chinese">这是对该公司的要求严格保密的回函。</span><span class="english">This is a strictly confidential re oe to a request made by the firm.</span></p>

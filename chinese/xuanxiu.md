@@ -1,5 +1,7 @@
 # 选修
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanxiu.md)
+
 <p><span class="chinese">我选修了法语。</span><span class="english">I minored in French.</span></p>
 
 <p><span class="chinese">我选修了英语。</span><span class="english">I minored in English.</span></p>

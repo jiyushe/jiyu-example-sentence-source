@@ -1,5 +1,7 @@
 # lifeline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lifeline.md)
+
 <p><span class="chinese">这是我们的命根子。</span><span class="english">That is our lifeline.</span></p>
 
 <p><span class="chinese">选择单个生命线。</span><span class="english">Select a single lifeline.</span></p>

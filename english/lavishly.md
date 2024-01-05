@@ -1,5 +1,7 @@
 # lavishly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lavishly.md)
+
 <p><span class="chinese">他的房子装饰得很华丽。</span><span class="english">His house was lavishly adorned.</span></p>
 
 <p><span class="chinese">哈丽特姑妈喜欢大摆宴席，招待宾客。</span><span class="english">Aunt Harriet used to entertain lavishly.</span></p>

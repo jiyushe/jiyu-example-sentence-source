@@ -1,5 +1,7 @@
 # 邮电局
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youdianju.md)
+
 <p><span class="chinese">我们现在在邮电局的附近。</span><span class="english">We are now near the post office.</span></p>
 
 <p><span class="chinese">附近有邮电局吗？</span><span class="english">Is there a post office near here?</span></p>

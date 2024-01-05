@@ -1,5 +1,7 @@
 # rabble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rabble.md)
+
 <p><span class="chinese">那儿是交通停止，行人留步，军队开始的地方。</span><span class="english">There the rabble ended and the army began.</span></p>
 
 <p><span class="chinese">暴民们很快地变得狂暴和无法控制。</span><span class="english">The rabble soon grew violent and unmanageable.</span></p>

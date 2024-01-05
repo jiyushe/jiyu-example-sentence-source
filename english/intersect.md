@@ -1,5 +1,7 @@
 # intersect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intersect.md)
+
 <p><span class="chinese">它们是相交的。</span><span class="english">They intersect.</span></p>
 
 <p><span class="chinese">街道通常成直角相交。</span><span class="english">Streets usually intersect at right angles.</span></p>

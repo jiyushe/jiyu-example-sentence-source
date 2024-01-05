@@ -1,5 +1,7 @@
 # 兜风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/doufeng.md)
+
 <p><span class="chinese">哦，这是指要出去兜风。</span><span class="english">We are going for a car ride.</span></p>
 
 <p><span class="chinese">何时嘉信才能开车带我出去兜风?。</span><span class="english">When will you give me a ride, Noah?</span></p>

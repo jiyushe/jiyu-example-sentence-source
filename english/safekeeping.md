@@ -1,5 +1,7 @@
 # safekeeping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/safekeeping.md)
+
 <p><span class="chinese">经过今天的事情，我觉得它要妥善保管。</span><span class="english">After today, I thought it needed safekeeping.</span></p>
 
 <p><span class="chinese">我将把它托给一个朋友妥善保管。</span><span class="english">I will commit it to a friend for safekeeping.</span></p>

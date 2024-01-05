@@ -1,5 +1,7 @@
 # teleology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teleology.md)
+
 <p><span class="chinese">目的论给自由留下了空间吗？</span><span class="english">What room does teleology leave for freedom?</span></p>
 
 <p><span class="chinese">这个秩序是从自然中和它的目的论中所发现的。</span><span class="english">That order was known from Nature and its teleology.</span></p>

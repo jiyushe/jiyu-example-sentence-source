@@ -1,5 +1,7 @@
 # ringling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ringling.md)
+
 <p><span class="chinese">玲玲马戏团中艺高人胆大的明星小丑贝洛。</span><span class="english">Bello Nock, the star daredevil clown of the Ringling Bros.</span></p>
 
 <p><span class="chinese">这是今年初我为学校发展部门设计的一款邀请卡。</span><span class="english">This is an invitation shell i designed for the office of development at ringling college.</span></p>

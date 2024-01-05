@@ -1,5 +1,7 @@
 # 分列
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenlie.md)
+
 <p><span class="chinese">课程阅读资料表依授课单元分列如后。</span><span class="english">A reading list for the class, divided up by lecture.</span></p>
 
 <p><span class="chinese">在2009年度的排名中，这两个城市分列第28和29位。</span><span class="english">They ranked 28 and 29, respectively, in the 2009 survey.</span></p>

@@ -1,5 +1,7 @@
 # 贤德
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiande_1.md)
+
 <p><span class="chinese">他是李贤德先生的兄弟。</span><span class="english">Li is a brother of Mr. Xiande Li.</span></p>
 
 <p><span class="chinese">贤德的妇女是她丈夫的冠冕。</span><span class="english">A Virtuous woman is a crown to her husband.</span></p>

@@ -1,5 +1,7 @@
 # 述评
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuping_1.md)
+
 <p><span class="chinese">本文就其主要的观点做一述评。</span><span class="english">This paper makes a review of his main opinions.</span></p>
 
 <p><span class="chinese">述评的标题为“了解你的A1C数字或是你的A1C水平？</span><span class="english">The commentary entitled, "Know your A1C Number or your A1C Range?"</span></p>

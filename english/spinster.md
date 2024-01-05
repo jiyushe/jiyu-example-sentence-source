@@ -1,5 +1,7 @@
 # spinster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spinster.md)
+
 <p><span class="chinese">那可怜慈祥的妇人是个老处女。</span><span class="english">The poor good old woman was a spinster.</span></p>
 
 <p><span class="chinese">他把他在蒙大拿州的大牧场留给了他未婚妹妹。</span><span class="english">He left his Montana ranch to his spinster sister.</span></p>

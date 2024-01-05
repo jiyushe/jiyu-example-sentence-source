@@ -1,5 +1,7 @@
 # postoperative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/postoperative.md)
+
 <p><span class="chinese">未发生肠瘘，无死亡病例。</span><span class="english">No postoperative intestine fistula and death occurred.</span></p>
 
 <p><span class="chinese">患者术后均未出现低钙血症。</span><span class="english">Did not occur in patients with postoperative hypocalcemia.</span></p>

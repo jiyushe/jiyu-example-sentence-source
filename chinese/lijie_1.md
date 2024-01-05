@@ -1,5 +1,7 @@
 # 礼节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lijie_1.md)
+
 <p><span class="chinese">是一种随便不拘礼节的词吗？</span><span class="english">Is"guy" an informal sort of word?</span></p>
 
 <p><span class="chinese">我们应该遵守礼节。</span><span class="english">We should observe the proprieties.</span></p>

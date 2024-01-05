@@ -1,5 +1,7 @@
 # shipboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shipboard.md)
+
 <p><span class="chinese">船员抱怨船上的生活条件。</span><span class="english">Crewmembers complain shipboard living conditions.</span></p>
 
 <p><span class="chinese">我们全是乘同一条船回厦门的乘客。</span><span class="english">We were fellow passengers on shipboard back to Xiamen.</span></p>

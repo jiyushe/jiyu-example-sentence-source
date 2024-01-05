@@ -1,5 +1,7 @@
 # widowhood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/widowhood.md)
+
 <p><span class="chinese">我是下流痞子，不值得你守寡！</span><span class="english">I am a dirty ruffian, widowhood is not worth you!</span></p>
 
 <p><span class="chinese">对于守寡表现虚伪的丧偶妇女。</span><span class="english">Bereaved women who exhibit their widowhood insincerely.</span></p>

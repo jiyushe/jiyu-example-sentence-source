@@ -1,5 +1,7 @@
 # silt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silt.md)
+
 <p><span class="chinese">许多河流带着泥沙流向赤道。</span><span class="english">Many rivers carry silt toward equator.</span></p>
 
 <p><span class="chinese">河口沉积了淤泥。</span><span class="english">The river deposited silt at its mouth.</span></p>

@@ -1,5 +1,7 @@
 # 了若指掌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liaoruozhizhang.md)
+
 <p><span class="chinese">也许这能解释蒙娜丽莎那令人困惑的微笑，她对已发生的一切了若指掌。</span><span class="english">Perhaps this explains Mona Lisa’s bemused smile. She knew what was coming.</span></p>
 
 <p><span class="chinese">并没有什么真正的秘密被泄露了，因为俄国人早已对WSI了若指掌。</span><span class="english">No real secrets have been leaked, as the Russians already knew the WSI inside out.</span></p>

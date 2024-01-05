@@ -1,5 +1,7 @@
 # anchor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anchor.md)
+
 <p><span class="chinese">锚离底！</span><span class="english">Anchor aweigh!</span></p>
 
 <p><span class="chinese">地锚?。</span><span class="english">Ground anchor?</span></p>

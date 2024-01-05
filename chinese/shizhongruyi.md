@@ -1,5 +1,7 @@
 # 始终如一
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizhongruyi.md)
+
 <p><span class="chinese">柔和侍人，始终如一。</span><span class="english">Be gentle with other, always.</span></p>
 
 <p><span class="chinese">每天，到点后就开始阅读，始终如一，即便只是短短的5-10分钟，也会有好的收获。</span><span class="english">Even if it’s just for 5-10 minutes.</span></p>

@@ -1,5 +1,7 @@
 # 蚕宝宝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/canbaobao.md)
+
 <p><span class="chinese">她小心翼翼地把蚕宝宝放在铺好的桑叶上。</span><span class="english">Be assured, we will take good care of her.</span></p>
 
 <p><span class="chinese">在围巾市场，有一家来自云南的“蚕宝宝”围巾商铺。</span><span class="english">The scarf market, there is a from Yunnan "silk-worm" scarf shops.</span></p>

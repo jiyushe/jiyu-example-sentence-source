@@ -1,5 +1,7 @@
 # rome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rome.md)
+
 <p><span class="chinese">不过，我在罗马也很不错。</span><span class="english">I feel good in Rome.</span></p>
 
 <p><span class="chinese">这条道路终止于罗马。</span><span class="english">The road ends at Rome.</span></p>

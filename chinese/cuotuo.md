@@ -1,5 +1,7 @@
 # 蹉跎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuotuo.md)
+
 <p><span class="chinese">所以，我不能这么蹉跎下去。</span><span class="english">So I can not just helling around.</span></p>
 
 <p><span class="chinese">别在空想中蹉跎一生.</span><span class="english">You shouldn't dream your life away.</span></p>

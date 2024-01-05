@@ -1,5 +1,7 @@
 # signal 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/signal.md)
+
 <p><span class="chinese">车道管制号志?。</span><span class="english">Lane control signal?</span></p>
 
 <p><span class="chinese">他眨眨眼，传来男人的信号，默许了吉姆的罪过。</span><span class="english">Winking a man\'s signal.</span></p>

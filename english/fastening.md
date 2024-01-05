@@ -1,5 +1,7 @@
 # fastening
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fastening.md)
+
 <p><span class="chinese">加载紧固件。</span><span class="english">Load fastening.</span></p>
 
 <p><span class="chinese">插销是一种扣拴。</span><span class="english">A bolt is a fastening.</span></p>

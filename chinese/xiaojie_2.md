@@ -1,5 +1,7 @@
 # 消解
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaojie_2.md)
+
 <p><span class="chinese">避免采用灰化消解。</span><span class="english">Ashing should be avoided.</span></p>
 
 <p><span class="chinese">他最好很快消解疑虑。</span><span class="english">He had better disabuse them soon.</span></p>

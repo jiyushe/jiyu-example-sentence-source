@@ -1,5 +1,7 @@
 # smb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smb.md)
+
 <p><span class="chinese">模拟移动床模型和设计方法的研究更趋深入。</span><span class="english">Much work has been done on modeling and design method of SMB processes.</span></p>
 
 <p><span class="chinese">但微软的产品要成为中小企业安全选择，这一目的是否可以达到呢？</span><span class="english">But did Microsoft succeed in making their products a safe choice for SMB?</span></p>

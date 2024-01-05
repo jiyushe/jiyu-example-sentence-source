@@ -1,5 +1,7 @@
 # 放过
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangguo.md)
+
 <p><span class="chinese">击球手放过这个投球没打。</span><span class="english">The batter took the pitch.</span></p>
 
 <p><span class="chinese">就请放过我一马吧。</span><span class="english">Please let me go this time.</span></p>

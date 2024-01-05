@@ -1,5 +1,7 @@
 # validating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/validating.md)
+
 <p><span class="chinese">这样做的好处是，你能够检验市场。</span><span class="english">You can do this by validating your market.</span></p>
 
 <p><span class="chinese">无法校验本地文件的链接。</span><span class="english">Validating links is not possible for local files.</span></p>

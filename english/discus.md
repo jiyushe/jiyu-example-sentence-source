@@ -1,5 +1,7 @@
 # discus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discus.md)
+
 <p><span class="chinese">他掷铁饼获得第一名。</span><span class="english">He was the first place in the discus throw.</span></p>
 
 <p><span class="chinese">掷铁饼需要掷一个扁而圆的物体。</span><span class="english">The discus involves throwing a flat, round object.</span></p>

@@ -1,5 +1,7 @@
 # 电子枪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianziqiang.md)
+
 <p><span class="chinese">最后讨论一下等离子体阴极电子枪。</span><span class="english">To discuss plasma cathode guns at last.</span></p>
 
 <p><span class="chinese">另外还提出了电子枪的设计新思路。</span><span class="english">Moreover we provide the new design of the EGUN.</span></p>

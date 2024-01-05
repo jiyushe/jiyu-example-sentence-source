@@ -1,5 +1,7 @@
 # ringer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ringer.md)
+
 <p><span class="chinese">敲钟人，你在哪啊？</span><span class="english">Where are you bell ringer ?</span></p>
 
 <p><span class="chinese">那个人象极了周杰伦。</span><span class="english">That man is a dead ringer of Jay Chou.</span></p>

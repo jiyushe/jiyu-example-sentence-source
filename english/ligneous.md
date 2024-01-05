@@ -1,5 +1,7 @@
 # ligneous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ligneous.md)
+
 <p><span class="chinese">超能照出木质的东西吗？</span><span class="english">Does B exceed can you take a ligneous thing?</span></p>
 
 <p><span class="chinese">标题东亚木本植物区系的特有性。</span><span class="english">Endemism in the ligneous flora of eastern Asia.</span></p>

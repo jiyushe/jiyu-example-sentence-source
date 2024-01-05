@@ -1,5 +1,7 @@
 # stockpile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stockpile.md)
+
 <p><span class="chinese">智利已放弃其全部库存。</span><span class="english">Chile has given up its entire stockpile.</span></p>
 
 <p><span class="chinese">抗病毒药物也剩下了一大批。</span><span class="english">There also remains a huge stockpile of antivirals.</span></p>

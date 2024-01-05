@@ -1,5 +1,7 @@
 # potentate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/potentate.md)
+
 <p><span class="chinese">人们起来反抗君主的专制统治。</span><span class="english">People rose up against the despotic rule of their potentate.</span></p>
 
 <p><span class="chinese">青城王对青城王妃的心意，真正让人羡慕。</span><span class="english">The green city potentate truely makes people envy to the green city royal concubine's purpose.</span></p>

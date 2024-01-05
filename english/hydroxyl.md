@@ -1,5 +1,7 @@
 # hydroxyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydroxyl.md)
+
 <p><span class="chinese">氢氧根离子有一个负电荷。</span><span class="english">The hydroxyl ion has a negative charge.</span></p>
 
 <p><span class="chinese">氢氧基具有极强的氧化特性。</span><span class="english">Hydroxyl has an extremely oxidizing nature.</span></p>

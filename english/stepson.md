@@ -1,5 +1,7 @@
 # stepson
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stepson.md)
+
 <p><span class="chinese">他的继子对他仍然很疏远。</span><span class="english">His stepson is still very distant towards him.</span></p>
 
 <p><span class="chinese">她对他继子的虐待，我无法容忍。</span><span class="english">I can't tolerate her wronging his young stepson.</span></p>

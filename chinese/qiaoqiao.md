@@ -1,5 +1,7 @@
 # 悄悄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaoqiao.md)
+
 <p><span class="chinese">红潮悄悄褪去。</span><span class="english">Red tide quietly fade.</span></p>
 
 <p><span class="chinese">躁狂就像那样悄悄向我袭来。</span><span class="english">Mania creeps up on me like that.</span></p>

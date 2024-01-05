@@ -1,5 +1,7 @@
 # 立足之地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lizuzhidi.md)
+
 <p><span class="chinese">他已在商界取得立足之地。</span><span class="english">He has gained a footing in the commercial world.</span></p>
 
 <p><span class="chinese">中国武术在好莱坞已有立足之地。</span><span class="english">Chinese martial art comes together with Hollywood.</span></p>

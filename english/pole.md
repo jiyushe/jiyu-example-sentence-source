@@ -1,5 +1,7 @@
 # pole 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pole.md)
+
 <p><span class="chinese">马达换相开关“，”</span><span class="english">Motor Pole Change Switch.</span></p>
 
 <p><span class="chinese">旗竿笔直地竖着。</span><span class="english">Put the pole up straight.</span></p>

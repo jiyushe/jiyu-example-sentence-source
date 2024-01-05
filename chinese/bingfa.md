@@ -1,5 +1,7 @@
 # 兵法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingfa.md)
+
 <p><span class="chinese">把这称作他的德里兵法吧。</span><span class="english">Call it his Delhi gambit.</span></p>
 
 <p><span class="chinese">它甚至让我想起孙子兵法和战争的艺术。</span><span class="english">It goes back to Sun Tzu and The Art of War.</span></p>

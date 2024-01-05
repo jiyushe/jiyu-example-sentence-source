@@ -1,5 +1,7 @@
 # 阳光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangguang_1.md)
+
 <p><span class="chinese">他是一个阳光男孩。</span><span class="english">He's a sun boy.</span></p>
 
 <p><span class="chinese">她感受到阳光。</span><span class="english">She feels the sun.</span></p>

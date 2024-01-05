@@ -1,5 +1,7 @@
 # 幻影
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanying.md)
+
 <p><span class="chinese">现在，右翼满眼所见都是这个恶魔幻影。</span><span class="english">Now it is all they can see.</span></p>
 
 <p><span class="chinese">这隐约闪烁的幻影飞掠而出。</span><span class="english">The gleaming vision flits on.</span></p>

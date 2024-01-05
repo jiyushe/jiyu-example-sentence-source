@@ -1,5 +1,7 @@
 # dunnage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dunnage.md)
+
 <p><span class="chinese">准备了足够垫舱料和铺垫草席吗？</span><span class="english">Are sufficient dunnage and mats available?</span></p>
 
 <p><span class="chinese">是的，准备了足够垫舱料和铺垫草席。</span><span class="english">Yes, sufficient dunnage and mats available.</span></p>

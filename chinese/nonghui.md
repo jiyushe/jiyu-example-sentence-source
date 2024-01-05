@@ -1,5 +1,7 @@
 # 农会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nonghui.md)
+
 <p><span class="chinese">道说农会原谅彭，但是不会原谅她。</span><span class="english">Tao says, but won't forgive peng cdfis forgive her.</span></p>
 
 <p><span class="chinese">你以为阿伽门农会在乎他兄弟的婚姻?。</span><span class="english">Do you think Agamemnon cares about his brother's marriage?</span></p>

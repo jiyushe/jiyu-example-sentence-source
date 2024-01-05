@@ -1,5 +1,7 @@
 # tremella
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tremella.md)
+
 <p><span class="chinese">用银耳敷脸！</span><span class="english">Deposited with the Tremella face!</span></p>
 
 <p><span class="chinese">滋阴润肺好，煮粥加银耳。</span><span class="english">Yin lungs and good, porridge plus Tremella.</span></p>

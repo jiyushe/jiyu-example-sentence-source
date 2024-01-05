@@ -1,5 +1,7 @@
 # hypochlorite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypochlorite.md)
+
 <p><span class="chinese">导致足丝溶解的有效成分是次氯酸根。</span><span class="english">The effective ingredient dissolving byssus is hypochlorite ion.</span></p>
 
 <p><span class="chinese">次氯酸盐漂白段废液中的氯代酚类化合物含量极少。</span><span class="english">No chlorinated phenolic compounds was found in the hypochlorite effluents.</span></p>

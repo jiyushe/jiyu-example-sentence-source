@@ -1,5 +1,7 @@
 # 琐碎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suosui.md)
+
 <p><span class="chinese">沙子么，就如一些琐碎的小事。</span><span class="english">The sand is the small stuff.</span></p>
 
 <p><span class="chinese">餐桌礼仪并不琐碎。</span><span class="english">Table manners are not trivial.</span></p>

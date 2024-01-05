@@ -1,5 +1,7 @@
 # 迎击
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingji_2.md)
+
 <p><span class="chinese">我们将守候在这儿，迎击敌人。</span><span class="english">We'll wait here to meet the enemy.</span></p>
 
 <p><span class="chinese">振作起来，迎击新的挑战！</span><span class="english">Brace yourself for a new challenge!</span></p>

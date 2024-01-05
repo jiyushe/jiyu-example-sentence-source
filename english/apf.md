@@ -1,5 +1,7 @@
 # apf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apf.md)
+
 <p><span class="chinese">麦茶与其他谷类混合，有一种鸠麦，我们叫薏仁米。</span><span class="english">Tea mixed with other wheat cereals, wheat has a dove, we called APF meters.</span></p>
 
 <p><span class="chinese">论文针对有源滤波器的级联变压器，深入地研究了变压器的谐波模型。</span><span class="english">The models of step-down transformers used for APF is thoroughly discussed in this paper.</span></p>

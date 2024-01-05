@@ -1,5 +1,7 @@
 # 口蘑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/koumo.md)
+
 <p><span class="chinese">口蘑是一种较好的减肥美容食品。</span><span class="english">Tricholoma beauty is a good diet food.</span></p>
 
 <p><span class="chinese">鸡蛋，培根肉，奶酪，洋葱，青椒，口蘑。</span><span class="english">Eggs, bacon, cheese, onion, green pepper, and mushroom.</span></p>

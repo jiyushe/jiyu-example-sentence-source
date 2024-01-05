@@ -1,5 +1,7 @@
 # shri
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shri.md)
+
 <p><span class="chinese">这就是为什么在实际上什里又治作为催化剂的行为。</span><span class="english">This is why in actuality Shri Mataji acts as a catalyst.</span></p>
 
 <p><span class="chinese">锡吕·玛塔吉生于1923年，比我们大多数人早很多年。</span><span class="english">Shri Mataji was born in 1923, many years before most of us.</span></p>

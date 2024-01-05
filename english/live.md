@@ -1,5 +1,7 @@
 # live 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/live.md)
+
 <p><span class="chinese">我将住在太空站里。</span><span class="english">I'll live a.</span></p>
 
 <p><span class="chinese">生或死。</span><span class="english">Live or die.</span></p>

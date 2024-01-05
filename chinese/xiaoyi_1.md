@@ -1,5 +1,7 @@
 # 效益
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoyi_1.md)
+
 <p><span class="chinese">成本效益分析。</span><span class="english">Cost-benefit analysis.</span></p>
 
 <p><span class="chinese">关于特许人的效益。</span><span class="english">On the benefits to the Franchisor.</span></p>

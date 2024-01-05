@@ -1,5 +1,7 @@
 # thessaloniki
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thessaloniki.md)
+
 <p><span class="chinese">他是Thessaloniki的一名律师。</span><span class="english">He's a lawyer, in Thessaloniki.</span></p>
 
 <p><span class="chinese">那是希腊北部的一个大城市。</span><span class="english">Thessaloniki That's a large city in northern Greece.</span></p>

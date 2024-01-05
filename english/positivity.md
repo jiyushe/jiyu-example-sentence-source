@@ -1,5 +1,7 @@
 # positivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/positivity.md)
+
 <p><span class="chinese">凸性可以通过正性来解决。</span><span class="english">Convexity can be solved by positivity.</span></p>
 
 <p><span class="chinese">我倒是很愿意她能保留那点希望。</span><span class="english">I hope she has that last bit of positivity.</span></p>

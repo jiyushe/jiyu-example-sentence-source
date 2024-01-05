@@ -1,5 +1,7 @@
 # 放之四海而皆准
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangzhisihaierjiezhun.md)
+
 <p><span class="chinese">首先，没有一个放之四海而皆准的农业模式。</span><span class="english">First, there is no one size fits all model for agriculture.</span></p>
 
 <p><span class="chinese">我个人并不认为有一种放之四海而皆准的方案。</span><span class="english">I’m personally not a supporter of ‘one size fits all’ approach.</span></p>

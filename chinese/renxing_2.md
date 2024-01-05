@@ -1,5 +1,7 @@
 # 韧性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renxing_2.md)
+
 <p><span class="chinese">魔术缺少韧性。</span><span class="english">The Magic lack toughness.</span></p>
 
 <p><span class="chinese">韧性仍然在PVE中有效。</span><span class="english">Resilience still works in PvE.</span></p>

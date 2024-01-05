@@ -1,5 +1,7 @@
 # maudlin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maudlin.md)
+
 <p><span class="chinese">我不喜欢如此伤感的影片。</span><span class="english">I do not like such maudlin pictures.</span></p>
 
 <p><span class="chinese">眼泪从漏底的眼睛流到浮肿的鼻子。</span><span class="english">Maudlin from leaky eye to swollen nose.</span></p>

@@ -1,5 +1,7 @@
 # carefully 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carefully.md)
+
 <p><span class="chinese">刮面要小心。</span><span class="english">Shave carefully.</span></p>
 
 <p><span class="chinese">请竖起耳朵好好听哦！</span><span class="english">So listen carefully.</span></p>

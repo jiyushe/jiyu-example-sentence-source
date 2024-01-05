@@ -1,5 +1,7 @@
 # cautionary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cautionary.md)
+
 <p><span class="chinese">1937年的这段历史为我们提供了一个可引以为戒的例子。</span><span class="english">The 1937 episode provides a cautionary tale.</span></p>
 
 <p><span class="chinese">安德森的具有警示性的故事。</span><span class="english">This is the cautionary tale of jimmy anderson.</span></p>

@@ -1,5 +1,7 @@
 # ornithology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ornithology.md)
+
 <p><span class="chinese">我最擅长的是鸟类学。</span><span class="english">I'm especially good at ornithology.</span></p>
 
 <p><span class="chinese">他主要对植物学和鸟类学感兴趣。</span><span class="english">His main interests are botany and ornithology.</span></p>

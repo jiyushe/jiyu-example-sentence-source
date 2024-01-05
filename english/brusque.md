@@ -1,5 +1,7 @@
 # brusque
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brusque.md)
+
 <p><span class="chinese">他对同志从不疾言厉色。</span><span class="english">He is never brusque with his comrades.</span></p>
 
 <p><span class="chinese">尽量去培养不那么粗暴的举止。</span><span class="english">Try to cultivate a less brusque manner.</span></p>

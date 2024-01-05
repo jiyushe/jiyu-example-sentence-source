@@ -1,5 +1,7 @@
 # 坎肩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kanjian.md)
+
 <p><span class="chinese">坎肩在哪里?在我的车里。</span><span class="english">Where is the vest?In my van.</span></p>
 
 <p><span class="chinese">小提琴在哪里?在我的坎肩上。</span><span class="english">Where is the violin?On my vest.</span></p>

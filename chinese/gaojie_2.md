@@ -1,5 +1,7 @@
 # 告诫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaojie_2.md)
+
 <p><span class="chinese">他们告诫他注意冰情。</span><span class="english">They warned him about the ice.</span></p>
 
 <p><span class="chinese">这是告诫性的。</span><span class="english">This is of an admonitory nature.</span></p>

@@ -1,5 +1,7 @@
 # 茧丝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiansi.md)
+
 <p><span class="chinese">这样看来，2010年茧丝供应量应该非常充足。</span><span class="english">It would appear that the 2010 silk supply should be sufficient.</span></p>
 
 <p><span class="chinese">一个庄口中各根茧丝纤度曲线的长短是随机变化的。</span><span class="english">The length of the size curves of cocoon filaments within one lot varies at random.</span></p>

@@ -1,5 +1,7 @@
 # 引水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinshui.md)
+
 <p><span class="chinese">他们试图引水上山。</span><span class="english">They try to conduct water uphill.</span></p>
 
 <p><span class="chinese">引水过了十天才到达北京。</span><span class="english">The water took ten days to reach Beijing.</span></p>

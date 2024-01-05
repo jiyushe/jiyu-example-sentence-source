@@ -1,5 +1,7 @@
 # 磁力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cili.md)
+
 <p><span class="chinese">我是磁力服务的克里昂。</span><span class="english">I am Kryon of Magnetic Service.</span></p>
 
 <p><span class="chinese">反重力等离子，磁力场</span><span class="english">Antigravity Plasma, Magnetic force fields</span></p>

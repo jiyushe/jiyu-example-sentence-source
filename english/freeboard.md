@@ -1,5 +1,7 @@
 # freeboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freeboard.md)
+
 <p><span class="chinese">你的干舷是多少？</span><span class="english">What is your freeboard?</span></p>
 
 <p><span class="chinese">嗨，陆。你可能需要更长的干舷。</span><span class="english">Hey Lu, you may want a bit more freeboard there.</span></p>

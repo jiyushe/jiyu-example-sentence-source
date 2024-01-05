@@ -1,5 +1,7 @@
 # 出神入化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chushenruhua.md)
+
 <p><span class="chinese">他的角色被演得出神入化。</span><span class="english">He acted his part to a tee.</span></p>
 
 <p><span class="chinese">她的钢琴弹得真是出神入化。</span><span class="english">Her piano playing is absolute magic.</span></p>

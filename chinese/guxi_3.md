@@ -1,5 +1,7 @@
 # 顾惜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guxi_3.md)
+
 <p><span class="chinese">需求你去维护和顾惜。</span><span class="english">Demand for maintenance and spare you go.</span></p>
 
 <p><span class="chinese">就要砍断妇人的手，眼不可顾惜她。</span><span class="english">you shall cut off her hand. Show her no pity.</span></p>

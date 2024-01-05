@@ -1,5 +1,7 @@
 # 毫不相干
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haobuxianggan.md)
+
 <p><span class="chinese">但事实是，这些东西都与他们的贫穷毫不相干。</span><span class="english">The fact is, these have nothing to do with being poor.</span></p>
 
 <p><span class="chinese">玛格达莱娜把过去看作毫不相干的累赘。</span><span class="english">Magdalena considered the past an irrelevant encumbrance.</span></p>

@@ -1,5 +1,7 @@
 # 如临大敌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rulindadi.md)
+
 <p><span class="chinese">事实上，洋葱价格上涨令印度政府如临大敌。</span><span class="english">In fact, prices of onion guard that the Government of India.</span></p>
 
 <p><span class="chinese">神谷的到来令陈天放如临大敌，决定不惜一切代价诱捕神谷。</span><span class="english">The arrival of the Chen Tianfang Valley guard, decided at all costs to trap the valley.</span></p>

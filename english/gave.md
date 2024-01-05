@@ -1,5 +1,7 @@
 # gave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gave.md)
+
 <p><span class="chinese">他把小本递给我。</span><span class="english">He gave it to me.</span></p>
 
 <p><span class="chinese">是谁给了我生命？</span><span class="english">Who gave me life?</span></p>

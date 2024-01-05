@@ -1,5 +1,7 @@
 # maniac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maniac.md)
+
 <p><span class="chinese">你开起车来象个疯子。</span><span class="english">You drive like a maniac.</span></p>
 
 <p><span class="chinese">我追到那个疯子只是时间问题。</span><span class="english">It was about time I tracked that maniac down.</span></p>

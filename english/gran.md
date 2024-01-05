@@ -1,5 +1,7 @@
 # gran
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gran.md)
+
 <p><span class="chinese">吉米的外祖母很喜欢玫瑰，也很爱初夏的季节。</span><span class="english">Jimmy's Gran loved roses and early summer.</span></p>
 
 <p><span class="chinese">我在巴塞罗那附近的一家医院里工作。</span><span class="english">Trabajo en un gran hospital, cerca de Barcelona.</span></p>

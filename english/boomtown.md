@@ -1,5 +1,7 @@
 # boomtown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boomtown.md)
+
 <p><span class="chinese">但是这个不适宜人居住的地形却是城市未来发展的关键。</span><span class="english">But this inhospitable terrain is also key to the boomtown future.</span></p>
 
 <p><span class="chinese">与美国的其他地方比较起来，硅谷像是个新兴之城。</span><span class="english">Compared with the rest of America, Silicon Valley feels like a boomtown.</span></p>

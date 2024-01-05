@@ -1,5 +1,7 @@
 # reprisal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reprisal.md)
+
 <p><span class="chinese">记者以匿名的方式发表言论，因为害怕政府的报复。</span><span class="english">The journalists spoke on the condition of anonymity, fearing government reprisal.</span></p>
 
 <p><span class="chinese">比如说，一个帮派罪犯射击另一个帮派成员，那么报复行为就会接着出现。</span><span class="english">If one gang member shoots another, for example, the likelihood of reprisal goes up.</span></p>

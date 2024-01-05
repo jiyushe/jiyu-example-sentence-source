@@ -1,5 +1,7 @@
 # 水碱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuijian.md)
+
 <p><span class="chinese">大多数水碱或水垢清除剂只是酸性清除剂而已。</span><span class="english">Most hard water or lime scale removers are only acidic cleaners.</span></p>
 
 <p><span class="chinese">能清除水箱，水套，暖风散热器中的水碱，铁锈及油腻。</span><span class="english">It can clear up the thermonatrite, rust and oil in water tanks, water jackets and warm wind radiators.</span></p>

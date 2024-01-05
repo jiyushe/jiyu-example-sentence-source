@@ -1,5 +1,7 @@
 # lettuce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lettuce.md)
+
 <p><span class="chinese">谁动了全部生菜叶?。</span><span class="english">Who Ate All the Lettuce?</span></p>
 
 <p><span class="chinese">它们是莴笋。</span><span class="english">They are Asparagus lettuce.</span></p>

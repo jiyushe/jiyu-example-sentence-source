@@ -1,5 +1,7 @@
 # reception
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reception.md)
+
 <p><span class="chinese">招待会到此结束。</span><span class="english">The reception is over.</span></p>
 
 <p><span class="chinese">他受到冷淡的接待。</span><span class="english">He was given a dry reception.</span></p>

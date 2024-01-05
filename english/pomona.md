@@ -1,5 +1,7 @@
 # pomona
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pomona.md)
+
 <p><span class="chinese">坡摩那学院正在筹备一场纪念哀悼会。</span><span class="english">A memorial service is planned at Pomona College.</span></p>
 
 <p><span class="chinese">其中之一就是被称为珀莫拉节的节日。</span><span class="english">One of these was the festival known as Pomona Day.</span></p>

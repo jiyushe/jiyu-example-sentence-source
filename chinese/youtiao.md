@@ -1,5 +1,7 @@
 # 油条
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youtiao.md)
+
 <p><span class="chinese">有时我们吃油条。</span><span class="english">Sometimes I eat Youtiao.</span></p>
 
 <p><span class="chinese">豆浆和油条店。</span><span class="english">Soy milk and bread stick shop.</span></p>

@@ -1,5 +1,7 @@
 # iconoclastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iconoclastic.md)
+
 <p><span class="chinese">雷诺兹打破常规的设想在国外受到欢迎，特别是发展中国家。</span><span class="english">Reynolds’ iconoclastic ideas have been welcomed abroad, particularly in the developing world.</span></p>
 
 <p><span class="chinese">随着第一记冷门诞生，叛逆的瑞士人或许会毁掉梦幻决赛。</span><span class="english">With the first upset of the tournament the iconoclastic Swiss may have spoiled the dream final.</span></p>

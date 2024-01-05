@@ -1,5 +1,7 @@
 # chemist 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chemist.md)
+
 <p><span class="chinese">一个很了不起的化学家。</span><span class="english">A brilliant chemist.</span></p>
 
 <p><span class="chinese">药剂师给了我油膏。</span><span class="english">The chemist gives me ointment.</span></p>

@@ -1,5 +1,7 @@
 # 乳罩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruzhao.md)
+
 <p><span class="chinese">她想买一个挺高式乳罩。</span><span class="english">She want to buy an uplift bra.</span></p>
 
 <p><span class="chinese">许多运动式乳罩就采用泳赛式设计。</span><span class="english">Many Sport bras use the racerback.</span></p>

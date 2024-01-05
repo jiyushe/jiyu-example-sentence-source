@@ -1,5 +1,7 @@
 # teary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teary.md)
+
 <p><span class="chinese">我并未对此泪眼摩挲。</span><span class="english">I’m not teary eyed about it.</span></p>
 
 <p><span class="chinese">是在看悲情电影时他眼中的泪珠？</span><span class="english">Is it the way he gets a little teary at a sad movie?</span></p>

@@ -1,5 +1,7 @@
 # reinvestment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reinvestment.md)
+
 <p><span class="chinese">资金之转投资及其盈亏之估计。</span><span class="english">Estimate of capital reinvestment and its profit and loss.</span></p>
 
 <p><span class="chinese">第一步，我们必须通过经济复苏和再投资议案。</span><span class="english">Step number one, we have to pass an economic recovery and reinvestment plan.</span></p>

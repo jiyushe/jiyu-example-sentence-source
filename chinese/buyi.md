@@ -1,5 +1,7 @@
 # 不一
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buyi.md)
+
 <p><span class="chinese">他的意见与我的意见不一致。</span><span class="english">His opinion clashed with mine.</span></p>
 
 <p><span class="chinese">闪光的不一建都是金子。</span><span class="english">All which glitters is not gold.</span></p>

@@ -1,5 +1,7 @@
 # 英明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingming_1.md)
+
 <p><span class="chinese">他是位英明领袖。</span><span class="english">He is a wise leader.</span></p>
 
 <p><span class="chinese">先帝可是英明的君主。</span><span class="english">The late Emperor was a wise and valiant man.</span></p>

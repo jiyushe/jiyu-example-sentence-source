@@ -1,5 +1,7 @@
 # peephole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peephole.md)
+
 <p><span class="chinese">他眯起眼睛靠近窥视孔看了看。</span><span class="english">He squinted through the peephole.</span></p>
 
 <p><span class="chinese">所以我认为那里有一个窥视孔。</span><span class="english">So I figured there was a peephole.</span></p>

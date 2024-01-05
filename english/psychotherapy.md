@@ -1,5 +1,7 @@
 # psychotherapy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychotherapy.md)
+
 <p><span class="chinese">什么是心理疗法？</span><span class="english">Q. What is psychotherapy?</span></p>
 
 <p><span class="chinese">他说，梦的功能类似于心理疗法。</span><span class="english">Dreams, he said, function like psychotherapy.</span></p>

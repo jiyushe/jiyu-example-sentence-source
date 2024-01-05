@@ -1,5 +1,7 @@
 # welder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/welder.md)
+
 <p><span class="chinese">罗伯特是个穷焊接工。</span><span class="english">Robert was a poor welder.</span></p>
 
 <p><span class="chinese">这是一款电介质焊接机。</span><span class="english">This is a dielectric welder.</span></p>

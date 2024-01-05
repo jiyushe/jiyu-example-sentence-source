@@ -1,5 +1,7 @@
 # 虚惊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xujing.md)
+
 <p><span class="chinese">这只一场虚惊。</span><span class="english">It's just a false alarm.</span></p>
 
 <p><span class="chinese">真是虚惊一场！</span><span class="english">It is really a surprised!</span></p>

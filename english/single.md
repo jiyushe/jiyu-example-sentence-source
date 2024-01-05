@@ -1,5 +1,7 @@
 # single
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/single.md)
+
 <p><span class="chinese">那时我是单身。</span><span class="english">I was single.</span></p>
 
 <p><span class="chinese">比尔依旧是单身。</span><span class="english">Bill's still single.</span></p>

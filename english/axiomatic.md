@@ -1,5 +1,7 @@
 # axiomatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/axiomatic.md)
+
 <p><span class="chinese">均衡观念是公理系统的产物。</span><span class="english">Equilibrium is the product of an axiomatic system.</span></p>
 
 <p><span class="chinese">均衡概念是一个公理系统的产物。</span><span class="english">Equilibrium is the product of an axiomatic system.</span></p>

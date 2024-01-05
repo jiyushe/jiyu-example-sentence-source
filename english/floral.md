@@ -1,5 +1,7 @@
 # floral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/floral.md)
+
 <p><span class="chinese">头部转动的全面协调印花。</span><span class="english">Head-turning allover floral print.</span></p>
 
 <p><span class="chinese">胸前有花布蝴蝶结作装饰。</span><span class="english">A floral printed bow trimmed on chest.</span></p>

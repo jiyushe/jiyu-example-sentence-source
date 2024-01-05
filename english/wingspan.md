@@ -1,5 +1,7 @@
 # wingspan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wingspan.md)
+
 <p><span class="chinese">后缘是全翼展的方向舵。</span><span class="english">The after skirt is the entire wingspan rudder.</span></p>
 
 <p><span class="chinese">MQ1掠夺者A型的翼展为55英尺。</span><span class="english">The wingspan of an MQ1 Predator A model is 55ft.</span></p>

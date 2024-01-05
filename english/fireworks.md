@@ -1,5 +1,7 @@
 # fireworks
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fireworks.md)
+
 <p><span class="chinese">或是放烟花。</span><span class="english">Or explode fireworks.</span></p>
 
 <p><span class="chinese">禁止在后院放烟火。</span><span class="english">Forgo backyard fireworks.</span></p>

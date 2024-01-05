@@ -1,5 +1,7 @@
 # know 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/know.md)
+
 <p><span class="chinese">我认得他！</span><span class="english">I know him.</span></p>
 
 <p><span class="chinese">你会打拳吗?。</span><span class="english">Know Boxing?</span></p>

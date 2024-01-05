@@ -1,5 +1,7 @@
 # rm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rm.md)
+
 <p><span class="chinese">子弹打伤了他的手臂。</span><span class="english">The bullet wounded him in his rm.</span></p>
 
 <p><span class="chinese">现在我要从您的胳膊采血。</span><span class="english">I'll tke some blood from your rm now.</span></p>

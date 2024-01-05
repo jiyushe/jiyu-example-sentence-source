@@ -1,5 +1,7 @@
 # attribute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attribute.md)
+
 <p><span class="chinese">都怪你的胸罩！</span><span class="english">I attribute your bra!</span></p>
 
 <p><span class="chinese">属性值必须加引号。</span><span class="english">Attribute values must be quoted.</span></p>

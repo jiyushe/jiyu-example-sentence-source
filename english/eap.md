@@ -1,5 +1,7 @@
 # eap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eap.md)
+
 <p><span class="chinese">在ESP和EAP领域，“体裁教学法”是行之有效的教学方法。</span><span class="english">Genre-based teaching approach is an effective pedagogy in ESP and EAP.</span></p>
 
 <p><span class="chinese">在21世纪，EAP已经在欧美国家及地区得到广泛和成熟的应用。</span><span class="english">In the 21st century, EAP has been widely and maturely applied in Europe and America.</span></p>

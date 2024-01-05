@@ -1,5 +1,7 @@
 # underwood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underwood.md)
+
 <p><span class="chinese">大通和约翰C安德伍德。</span><span class="english">Chase and John C. Underwood.</span></p>
 
 <p><span class="chinese">安德伍德的内衣裤是在德伍德的森林里。</span><span class="english">Underwood 's underwear was in Durwood's woods.</span></p>

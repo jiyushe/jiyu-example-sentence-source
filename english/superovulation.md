@@ -1,5 +1,7 @@
 # superovulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superovulation.md)
+
 <p><span class="chinese">目的本试验对小型猪进行超数排卵和早期胚胎回收技术进行试验研究。</span><span class="english">Miniture pigs were used for superovulation and the recovery of early embryo.</span></p>
 
 <p><span class="chinese">但这两种超排方法不能应用于LACA小鼠。</span><span class="english">And yet, these two kinds of superovulation methods can not be applied LACA mice.</span></p>

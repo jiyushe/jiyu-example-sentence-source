@@ -1,5 +1,7 @@
 # andamanese
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/andamanese.md)
+
 <p><span class="chinese">卡尔称，波族语是大安达曼部落使用的十种语言之一。</span><span class="english">Kar said Bo was one of the ten dialects used by the Great Andamanese tribe.</span></p>
 
 <p><span class="chinese">大安达曼部落目前居住在中安达曼的一个名叫海峡岛的小岛上。</span><span class="english">The current home of the Great Andamanese is Strait Island, a small island of Middle Andaman Region.</span></p>

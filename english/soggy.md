@@ -1,5 +1,7 @@
 # soggy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soggy.md)
+
 <p><span class="chinese">鹿皮鞋已经成了湿透的碎片。</span><span class="english">The moccasins were in soggy shreds.</span></p>
 
 <p><span class="chinese">你要让他保持潮湿但是不浸在水里。</span><span class="english">You want to keep it moist but not soggy.</span></p>

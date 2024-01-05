@@ -1,5 +1,7 @@
 # 味精
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weijing_1.md)
+
 <p><span class="chinese">味精。</span><span class="english">monosodium glutamate.</span></p>
 
 <p><span class="chinese">在汤水中加味精调味吧！</span><span class="english">Season soup with Accent!</span></p>

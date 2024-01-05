@@ -1,5 +1,7 @@
 # eidetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eidetic.md)
+
 <p><span class="chinese">你异常清晰的记忆，是一种祝福。</span><span class="english">Your eidetic memory must be a blessing.</span></p>
 
 <p><span class="chinese">禁欲学派对于预测灾难发展三个心象的推论。</span><span class="english">The Stoics developed three eidetic reductions of future misfortune.</span></p>

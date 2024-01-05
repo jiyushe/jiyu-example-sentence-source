@@ -1,5 +1,7 @@
 # represent 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/represent.md)
+
 <p><span class="chinese">花代表美。</span><span class="english">They represent beauty.</span></p>
 
 <p><span class="chinese">我代表Bibury系统公司。</span><span class="english">I represent Bibury Systems.</span></p>

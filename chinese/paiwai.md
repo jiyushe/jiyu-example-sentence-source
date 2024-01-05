@@ -1,5 +1,7 @@
 # 排外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paiwai.md)
+
 <p><span class="chinese">数据结构的排外性。</span><span class="english">Exclusivity of data structures.</span></p>
 
 <p><span class="chinese">他求助于这个国家的排外主义。</span><span class="english">He appealed to his country's nativism.</span></p>

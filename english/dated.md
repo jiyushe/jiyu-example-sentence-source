@@ -1,5 +1,7 @@
 # dated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dated.md)
+
 <p><span class="chinese">她还跟小天狼星约过会！</span><span class="english">And she dated Sirius!</span></p>
 
 <p><span class="chinese">多数流行式样很快便过时了。</span><span class="english">Most fashions soon dated.</span></p>

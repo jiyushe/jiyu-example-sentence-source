@@ -1,5 +1,7 @@
 # 危机四伏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weijisifu.md)
+
 <p><span class="chinese">我们在危机四伏之际汇聚在一起。</span><span class="english">We are meeting at a time of crisis.</span></p>
 
 <p><span class="chinese">但是这里很安全，没必要感到危机四伏。</span><span class="english">But it's safe and there's no need to feel unsafe.</span></p>

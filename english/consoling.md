@@ -1,5 +1,7 @@
 # consoling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consoling.md)
+
 <p><span class="chinese">最后，在好朋友的劝解下。</span><span class="english">Finally, under good friend's consoling.</span></p>
 
 <p><span class="chinese">没日没夜的照顾小闹腾非常的辛苦。</span><span class="english">Consoling a colicky baby night after night is terribly hard.</span></p>

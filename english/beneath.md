@@ -1,5 +1,7 @@
 # beneath
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beneath.md)
+
 <p><span class="chinese">它潜伏在海底。</span><span class="english">It lurks beneath the sea.</span></p>
 
 <p><span class="chinese">伯爵在公爵之下。</span><span class="english">An earl is beneath a duke.</span></p>

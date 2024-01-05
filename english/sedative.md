@@ -1,5 +1,7 @@
 # sedative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sedative.md)
+
 <p><span class="chinese">大夫只得给他一帖强力镇静剂，让他吃了睡觉。</span><span class="english">The doctor had to put him to sleep with a strong sedative.</span></p>
 
 <p><span class="chinese">结论冬虫夏草发酵液具有一定的镇静催眠作用。</span><span class="english">Conclusion FBCS possesses the sedative and hypnotic effects.</span></p>

@@ -1,5 +1,7 @@
 # memorization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/memorization.md)
+
 <p><span class="chinese">在学习上，死记硬背是一种低效的方法。</span><span class="english">Rote memorization is an inefficient way to learn.</span></p>
 
 <p><span class="chinese">默记是一种非常实在的基础的思维模式。</span><span class="english">Memorization is a very concrete, basic form of thinking.</span></p>

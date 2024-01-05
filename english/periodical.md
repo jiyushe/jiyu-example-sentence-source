@@ -1,5 +1,7 @@
 # periodical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/periodical.md)
+
 <p><span class="chinese">期刊室在哪？</span><span class="english">Where is the Periodical Room ?</span></p>
 
 <p><span class="chinese">资本周转是周期性的循环。</span><span class="english">Captial turnover is a periodical cycle.</span></p>

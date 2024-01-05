@@ -1,5 +1,7 @@
 # 完美无缺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanmeiwuque.md)
+
 <p><span class="chinese">德式设计是否完美无缺？</span><span class="english">Is heart type design apple-pie?</span></p>
 
 <p><span class="chinese">就像我讲的，没有人是完美无缺的。</span><span class="english">As I say, none of us is perfect.</span></p>

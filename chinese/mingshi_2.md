@@ -1,5 +1,7 @@
 # 名师
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingshi_2.md)
+
 <p><span class="chinese">您是无名英雄，又是教坛名师。</span><span class="english">You are unsung heroes, is the world famous.</span></p>
 
 <p><span class="chinese">住在隔壁的那个人是个名师。</span><span class="english">The man who lives next door is a famous teacher.</span></p>

@@ -1,5 +1,7 @@
 # 疯人院
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengrenyuan.md)
+
 <p><span class="chinese">这简直是疯人院。</span><span class="english">This is a madhouse.</span></p>
 
 <p><span class="chinese">这是那家疯人院。</span><span class="english">This is the house of Bedlam.</span></p>

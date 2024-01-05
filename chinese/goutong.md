@@ -1,5 +1,7 @@
 # 沟通
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/goutong.md)
+
 <p><span class="chinese">我热爱沟通。</span><span class="english">I love communicating.</span></p>
 
 <p><span class="chinese">每周和你的配偶沟通。</span><span class="english">Talk with your SO weekly.</span></p>

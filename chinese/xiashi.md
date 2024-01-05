@@ -1,5 +1,7 @@
 # 下士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiashi.md)
+
 <p><span class="chinese">克里斯蒂·贝克尔下士，1月31日。</span><span class="english">Lance Cpl. Kristi Baker on Jan. 31.</span></p>
 
 <p><span class="chinese">他被降为下士。</span><span class="english">He was demoted to the rank of corporal.</span></p>

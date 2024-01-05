@@ -1,5 +1,7 @@
 # bourgeoisie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bourgeoisie.md)
+
 <p><span class="chinese">这向来是资产阶级犯下的错误。</span><span class="english">This has often been the fault of the bourgeoisie.</span></p>
 
 <p><span class="chinese">鼓吹小资情调是变相的粉饰太平。</span><span class="english">Advocating Petty Bourgeoisie in disguise whitewash.</span></p>

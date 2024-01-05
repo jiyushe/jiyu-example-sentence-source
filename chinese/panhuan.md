@@ -1,5 +1,7 @@
 # 盘桓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/panhuan.md)
+
 <p><span class="chinese">可我脑子里仍一直盘桓着这事。</span><span class="english">Yet my mind continued the idea.</span></p>
 
 <p><span class="chinese">安妮以前经常在这里盘桓。</span><span class="english">Here Anne had often been staying.</span></p>

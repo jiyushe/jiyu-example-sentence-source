@@ -1,5 +1,7 @@
 # aggrandize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aggrandize.md)
+
 <p><span class="chinese">我所希望的只是扩充我的家业。</span><span class="english">All my desired was to aggrandize my estate.</span></p>
 
 <p><span class="chinese">他所希望的只是扩充他的家业。</span><span class="english">All he desired was to aggrandize his estate.</span></p>

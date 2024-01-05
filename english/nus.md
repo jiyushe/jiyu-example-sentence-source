@@ -1,5 +1,7 @@
 # nus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nus.md)
+
 <p><span class="chinese">作者是新加坡国立大学退休马来文教授。</span><span class="english">The writer is a retired NUS professor in Malay.</span></p>
 
 <p><span class="chinese">使用全国学生联合会特别卡从你喜欢的零售商那得到优惠。</span><span class="english">Use the NUS Extra card to get money off at your favourite retailers.</span></p>

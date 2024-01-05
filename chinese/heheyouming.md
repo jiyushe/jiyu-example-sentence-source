@@ -1,5 +1,7 @@
 # 赫赫有名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heheyouming.md)
+
 <p><span class="chinese">他过去是全县赫赫有名的神枪手。</span><span class="english">He was the deadest shot in the county one time.</span></p>
 
 <p><span class="chinese">这支赫赫有名的部队曾立过很大的战功。</span><span class="english">This famous unit had rendered the highest service.</span></p>

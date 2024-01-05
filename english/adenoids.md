@@ -1,5 +1,7 @@
 # adenoids
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adenoids.md)
+
 <p><span class="chinese">大的腺状肿需要治疗么？</span><span class="english">Do large adenoids require treatment?</span></p>
 
 <p><span class="chinese">对治疗腺样体肿大有别的治疗方法吗？</span><span class="english">Is there any other way of treating adenoids?</span></p>

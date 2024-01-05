@@ -1,5 +1,7 @@
 # 休憩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuqi.md)
+
 <p><span class="chinese">八赞休憩兮床温衾暖。</span><span class="english">Eight is for a nice warm bed.</span></p>
 
 <p><span class="chinese">但是也许我可以先等一等，找一家咖啡馆，打开一本书，先休憩片刻。</span><span class="english">But perhaps it can wait for now.</span></p>

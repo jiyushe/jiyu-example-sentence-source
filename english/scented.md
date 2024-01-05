@@ -1,5 +1,7 @@
 # scented
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scented.md)
+
 <p><span class="chinese">使用芳香油或喷雾剂。</span><span class="english">Use scented oils or sprays.</span></p>
 
 <p><span class="chinese">给自己买一些鲜花。</span><span class="english">Buy yourself some scented flowers.</span></p>

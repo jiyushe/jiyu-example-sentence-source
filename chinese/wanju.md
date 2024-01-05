@@ -1,5 +1,7 @@
 # 玩具
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanju.md)
+
 <p><span class="chinese">玩具陀螺。</span><span class="english">Toy gyro.</span></p>
 
 <p><span class="chinese">这可是我的玩具。</span><span class="english">This is my toy.</span></p>

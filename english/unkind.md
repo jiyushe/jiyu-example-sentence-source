@@ -1,5 +1,7 @@
 # unkind
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unkind.md)
+
 <p><span class="chinese">不要心怀不轨。</span><span class="english">Don't harbor unkind thoughts.</span></p>
 
 <p><span class="chinese">三一学院从未亏待过我。</span><span class="english">Trinity had never been unkind to me.</span></p>

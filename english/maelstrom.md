@@ -1,5 +1,7 @@
 # maelstrom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maelstrom.md)
+
 <p><span class="chinese">漩涡武器现在作用于妖术。</span><span class="english">Maelstrom Weapon now affects Hex.</span></p>
 
 <p><span class="chinese">焦虑的人的精神世界就像一个大漩涡。</span><span class="english">The anxious person has the spirit like a maelstrom.</span></p>

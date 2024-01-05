@@ -1,5 +1,7 @@
 # 结语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieyu_1.md)
+
 <p><span class="chinese">结语部分对本课题研究所做的总结。</span><span class="english">Peroration is a summary of this research.</span></p>
 
 <p><span class="chinese">结语对全文进行了归纳和总结。</span><span class="english">The epilog gives a summary of the whole thesis.</span></p>

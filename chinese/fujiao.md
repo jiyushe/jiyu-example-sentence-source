@@ -1,5 +1,7 @@
 # 俯角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fujiao.md)
+
 <p><span class="chinese">星座的俯角降到了地平线以下。</span><span class="english">The depression of the constellation fell below the horizon.</span></p>
 
 <p><span class="chinese">但须注意，不应用极度的俯角或仰角。</span><span class="english">But should note that no application of extreme bow Angle or elevation.</span></p>

@@ -1,5 +1,7 @@
 # bayesian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bayesian.md)
+
 <p><span class="chinese">贝叶斯滤波十分的有用。</span><span class="english">Bayesian filtering is plenty useful.</span></p>
 
 <p><span class="chinese">数据通过分极贝叶斯模型分析。</span><span class="english">Data were analyzed with hierarchical Bayesian modeling.</span></p>

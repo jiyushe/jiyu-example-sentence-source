@@ -1,5 +1,7 @@
 # augment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/augment.md)
+
 <p><span class="chinese">也扩充了编辑部的人员。</span><span class="english">Also augment the personnel of editorial office.</span></p>
 
 <p><span class="chinese">允许您使用自己的键集来扩充调用者的键集。</span><span class="english">Allows you to augment the callers keyset with your own.</span></p>

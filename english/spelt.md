@@ -1,5 +1,7 @@
 # spelt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spelt.md)
+
 <p><span class="chinese">你把这个词拼错了。</span><span class="english">You have spelt this word wrong.</span></p>
 
 <p><span class="chinese">这在最新的五年计划里都正式阐明了。</span><span class="english">That's officially spelt out in the latest five-year plan.</span></p>

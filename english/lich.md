@@ -1,5 +1,7 @@
 # lich
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lich.md)
+
 <p><span class="chinese">想看看巫妖王是怎被打败的？</span><span class="english">To see the Lich King destroyed?</span></p>
 
 <p><span class="chinese">他们是来监视巫妖王的！</span><span class="english">They are the Lich King's jailors!</span></p>

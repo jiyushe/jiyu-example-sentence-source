@@ -1,5 +1,7 @@
 # lank
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lank.md)
+
 <p><span class="chinese">那位老人头发稀疏。</span><span class="english">The old man has lank hair.</span></p>
 
 <p><span class="chinese">好的饮食可以提高你的生活。</span><span class="english">A good diet can improve the lank of your life.</span></p>

@@ -1,5 +1,7 @@
 # 无关
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuguan_1.md)
+
 <p><span class="chinese">但这与男女比例无关。</span><span class="english">But nothing on this scale.</span></p>
 
 <p><span class="chinese">爱茶的人，与红尘无关。</span><span class="english">Love tea, and the independent.</span></p>

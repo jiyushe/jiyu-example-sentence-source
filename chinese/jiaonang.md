@@ -1,5 +1,7 @@
 # 胶囊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaonang.md)
+
 <p><span class="chinese">什么？胶囊公寓？</span><span class="english">What? Capsule Apartment?</span></p>
 
 <p><span class="chinese">手动胶囊充填机。</span><span class="english">Manual capsule filling machine.</span></p>

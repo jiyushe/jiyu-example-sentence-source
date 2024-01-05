@@ -1,5 +1,7 @@
 # hypomagnesemia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypomagnesemia.md)
+
 <p><span class="chinese">一例低镁血症病牛并无器质性损害。</span><span class="english">In a case of hypomagnesemia in a cow there is no physical lesion.</span></p>
 
 <p><span class="chinese">有时候的确难以排除低镁所致的低钙，这是为什么呢？</span><span class="english">Why is it sometime difficult to rule out hypomagnesemia as a cause of hypocalcemia ?</span></p>

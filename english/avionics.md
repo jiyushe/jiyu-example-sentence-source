@@ -1,5 +1,7 @@
 # avionics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avionics.md)
+
 <p><span class="chinese">枭龙战机装备的是俄罗斯引擎和欧洲的航空电子设备。</span><span class="english">JF-17 is equipped with Russian Engine and European Avionics.</span></p>
 
 <p><span class="chinese">我需要其他的证照来做航电设备相关工作吗？</span><span class="english">Do I need any other certificate to work on avionics equipment?</span></p>

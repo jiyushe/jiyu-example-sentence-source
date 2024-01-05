@@ -1,5 +1,7 @@
 # rowan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rowan.md)
+
 <p><span class="chinese">他看了一眼罗文。</span><span class="english">He glanced at Rowan.</span></p>
 
 <p><span class="chinese">“若她尖叫怎么办？”罗文说。</span><span class="english">"And if she screams?" said Rowan.</span></p>

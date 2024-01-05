@@ -1,5 +1,7 @@
 # 行李房
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinglifang.md)
+
 <p><span class="chinese">行李房在哪里？</span><span class="english">B.Where's the baggage room?</span></p>
 
 <p><span class="chinese">行李房在哪里？</span><span class="english">Where is the baggage claim?</span></p>

@@ -1,5 +1,7 @@
 # yarmouth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yarmouth.md)
+
 <p><span class="chinese">哈姆，你必须守在雅茅斯。</span><span class="english">Ham, you must stay here in Yarmouth.</span></p>
 
 <p><span class="chinese">为什么你没有在雅茅斯港外的锚地中淹死？</span><span class="english">Why wert thou not drown'd in Yarmouth Roads?</span></p>

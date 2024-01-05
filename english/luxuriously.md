@@ -1,5 +1,7 @@
 # luxuriously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luxuriously.md)
+
 <p><span class="chinese">穿得好不一定衣着豪华。</span><span class="english">To be well dressed needn't mean luxuriously dressed.</span></p>
 
 <p><span class="chinese">关于目前的我们，认为包括关于豪华。</span><span class="english">Regarding present's we, think including regards luxuriously.</span></p>

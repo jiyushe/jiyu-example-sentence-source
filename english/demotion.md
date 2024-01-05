@@ -1,5 +1,7 @@
 # demotion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demotion.md)
+
 <p><span class="chinese">这是否会是被视为一个降级？</span><span class="english">Would it be seen as a demotion?</span></p>
 
 <p><span class="chinese">Tyson是率先提议将冥王星降级的科学家之一。</span><span class="english">Tyson was one of the first to push for Pluto's demotion.</span></p>

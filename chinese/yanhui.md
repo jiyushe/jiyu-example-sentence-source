@@ -1,5 +1,7 @@
 # 宴会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanhui.md)
+
 <p><span class="chinese">必定来出席我的寿辰宴会。</span><span class="english">Do come to my celebrine.</span></p>
 
 <p><span class="chinese">我应该给宴会承办者打一个电话。</span><span class="english">I've got to call a caterer.</span></p>

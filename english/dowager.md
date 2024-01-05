@@ -1,5 +1,7 @@
 # dowager
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dowager.md)
+
 <p><span class="chinese">红南国的皇太后。</span><span class="english">Kounan Country's Empress dowager.</span></p>
 
 <p><span class="chinese">倒是让皇太后看笑话了。</span><span class="english">Pour is show empress dowager joke.</span></p>

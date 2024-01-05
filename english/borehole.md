@@ -1,5 +1,7 @@
 # borehole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/borehole.md)
+
 <p><span class="chinese">永城矿区某矿排水钻孔设计孔深584。</span><span class="english">A drainage borehole designed depth is 584.</span></p>
 
 <p><span class="chinese">井眼剪切破坏是井眼岩石基本破坏形式之一。</span><span class="english">Shear failure is a basic failure mode of borehole rock.</span></p>

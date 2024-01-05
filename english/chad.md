@@ -1,5 +1,7 @@
 # chad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chad.md)
+
 <p><span class="chinese">说得好，查德。</span><span class="english">Well said Chad.</span></p>
 
 <p><span class="chinese">乍得的恩贾梅纳因为内战惨遭破坏。</span><span class="english">N'Djamena of Chad is ruined by civil war.</span></p>

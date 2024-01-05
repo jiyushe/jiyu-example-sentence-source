@@ -1,5 +1,7 @@
 # signification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/signification.md)
+
 <p><span class="chinese">阐述了研究ASG的意义。</span><span class="english">The signification of ASG is described.</span></p>
 
 <p><span class="chinese">八宝中的每一宝都有它深刻的含义。</span><span class="english">Each one has its own profound signification.</span></p>

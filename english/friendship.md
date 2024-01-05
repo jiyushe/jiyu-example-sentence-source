@@ -1,5 +1,7 @@
 # friendship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/friendship.md)
+
 <p><span class="chinese">什么是友情？</span><span class="english">What is friendship?</span></p>
 
 <p><span class="chinese">更类似于友情。</span><span class="english">More like friendship.</span></p>

@@ -1,5 +1,7 @@
 # squire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/squire.md)
+
 <p><span class="chinese">我看到房子向地主哈腰。</span><span class="english">I saw a house bow to a squire.</span></p>
 
 <p><span class="chinese">他是这个地区的富绅。</span><span class="english">He is a rich squire in this area.</span></p>

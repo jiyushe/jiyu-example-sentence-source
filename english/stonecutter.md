@@ -1,5 +1,7 @@
 # stonecutter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stonecutter.md)
+
 <p><span class="chinese">这石匠把日期刻在墓碑上。</span><span class="english">The stonecutter inscribed the date on the tombstone.</span></p>
 
 <p><span class="chinese">“对不起，我办不到，”石匠说，“要是这样的话，违反了一个坟墓只能埋葬一个人的法律。</span><span class="english">"Sorry, but I can't do that," replied the stonecutter.</span></p>

@@ -1,5 +1,7 @@
 # 相对湿度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangduishidu.md)
+
 <p><span class="chinese">相对湿度采用百分数表示。</span><span class="english">Relative humidity is expressed as percentage.</span></p>
 
 <p><span class="chinese">相对湿度较低时，有风化的危险。</span><span class="english">At low relative humidities there is a risk of efflorescence.</span></p>

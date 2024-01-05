@@ -1,5 +1,7 @@
 # stray
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stray.md)
+
 <p><span class="chinese">而有些男人则很迟才出轨。</span><span class="english">Some men stray late.</span></p>
 
 <p><span class="chinese">男人也想要风花雪月。</span><span class="english">And men want to stray.</span></p>

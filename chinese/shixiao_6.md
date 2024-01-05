@@ -1,5 +1,7 @@
 # 适销
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shixiao_6.md)
+
 <p><span class="chinese">对这些资产的基本要求是具有适销性。</span><span class="english">The basic requirement of such assets is marketability.</span></p>
 
 <p><span class="chinese">二是开发适销商品，满足新型消费需求。</span><span class="english">Second, developing marketable commodities to satisfy new consumer demand.</span></p>

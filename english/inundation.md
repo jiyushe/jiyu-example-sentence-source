@@ -1,5 +1,7 @@
 # inundation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inundation.md)
+
 <p><span class="chinese">文档泛滥。</span><span class="english">Documentation inundation.</span></p>
 
 <p><span class="chinese">许多城市都位于沿海地区，易受暴风雨、洪水和海平面上升的威胁。</span><span class="english">Many cities are on the coasts, vulnerable to storms, inundation and sea level rise.</span></p>

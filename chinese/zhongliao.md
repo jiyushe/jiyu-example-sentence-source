@@ -1,5 +1,7 @@
 # 终了
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongliao.md)
+
 <p><span class="chinese">而是女性，”他正在时拆秀终了后暗示。</span><span class="english">Women are in control, ' he said post-show.</span></p>
 
 <p><span class="chinese">你知道神无起始，也无终了吗？</span><span class="english">Do you know that God has no beginning and no end?</span></p>

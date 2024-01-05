@@ -1,5 +1,7 @@
 # estradiol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/estradiol.md)
+
 <p><span class="chinese">TCDD染毒和维生素E对小鼠血浆雌二醇含量均没有明显影响。</span><span class="english">TCDD and VE had no significant effects on the levels of plasma estradiol.</span></p>
 
 <p><span class="chinese">用氚标记雌二醇结合法测定瘤内的ER结合位点数。</span><span class="english">ER binding sites in tumor were determinedby tritiated estradiol binding method.</span></p>

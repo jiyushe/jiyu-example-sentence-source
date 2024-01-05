@@ -1,5 +1,7 @@
 # 枕套
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhentao.md)
+
 <p><span class="chinese">这种枕套的枕芯是大米做的。</span><span class="english">The pillow is filled with rice.</span></p>
 
 <p><span class="chinese">我昨天买了一个枕套。</span><span class="english">I bought a pillowcase yesterday.</span></p>

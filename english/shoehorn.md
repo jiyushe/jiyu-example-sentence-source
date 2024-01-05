@@ -1,5 +1,7 @@
 # shoehorn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shoehorn.md)
+
 <p><span class="chinese">团队成员试图将他们原来旧的开发过程强塞进这种新工具中。</span><span class="english">Team members attempt to shoehorn their old process into the new tool.</span></p>
 
 <p><span class="chinese">你知道吗，有些早晨他得用鞋拔子才能把帽子戴上去。</span><span class="english">Do you know that some mornings he has to get his hat on with a shoehorn.</span></p>

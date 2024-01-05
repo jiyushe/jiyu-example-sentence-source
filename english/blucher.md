@@ -1,5 +1,7 @@
 # blucher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blucher.md)
+
 <p><span class="chinese">由于布吕歇尔的缘故吗？</span><span class="english">Because of Blucher?</span></p>
 
 <p><span class="chinese">经典第脚趾布卢彻。</span><span class="english">Classic cap-toe blucher.</span></p>

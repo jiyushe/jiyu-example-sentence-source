@@ -1,5 +1,7 @@
 # 逃脱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taotuo.md)
+
 <p><span class="chinese">我如何能逃脱？</span><span class="english">How can I escape?</span></p>
 
 <p><span class="chinese">我们谁也不能逃脱死亡。</span><span class="english">No one of us can escape.</span></p>

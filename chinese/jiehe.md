@@ -1,5 +1,7 @@
 # 接合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiehe.md)
+
 <p><span class="chinese">建立斜接接合。</span><span class="english">Creating miter joints.</span></p>
 
 <p><span class="chinese">转向柱轴接合器过紧。</span><span class="english">Column shaft coupler binding.</span></p>

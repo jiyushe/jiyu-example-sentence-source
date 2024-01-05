@@ -1,5 +1,7 @@
 # derailleur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/derailleur.md)
+
 <p><span class="chinese">该电缆路由的前变速器是直接的。</span><span class="english">The routing of the front derailleur cable is straightforward.</span></p>
 
 <p><span class="chinese">变速器的后方线站是安装在正确的座位安装。</span><span class="english">The rear derailleur cable stop is mounted on the right seat mount.</span></p>

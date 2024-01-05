@@ -1,5 +1,7 @@
 # gratuitous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gratuitous.md)
+
 <p><span class="chinese">黄莺儿是一个任人欣赏的艾勒维奥。</span><span class="english">The nightingale is a gratuitous Elleviou.</span></p>
 
 <p><span class="chinese">无端风动幕，起坐返窗前。</span><span class="english">Gratuitous pneumatic screen, sit since returned to the window.</span></p>

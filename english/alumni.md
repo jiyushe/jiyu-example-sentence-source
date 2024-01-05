@@ -1,5 +1,7 @@
 # alumni
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alumni.md)
+
 <p><span class="chinese">我们是校友。</span><span class="english">We are alumni.</span></p>
 
 <p><span class="chinese">你们是我校的第五批校友。</span><span class="english">You are our fifth group of alumni.</span></p>

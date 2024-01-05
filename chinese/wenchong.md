@@ -1,5 +1,7 @@
 # 蚊虫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenchong.md)
+
 <p><span class="chinese">在苏格兰，蚊虫会成群攻击。</span><span class="english">In Scotland midges attack in swarms.</span></p>
 
 <p><span class="chinese">我实际上就习以为常了，就当是蚊虫叮一下了。</span><span class="english">I’ve actually come to like the sting.</span></p>

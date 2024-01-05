@@ -1,5 +1,7 @@
 # crosscourt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crosscourt.md)
+
 <p><span class="chinese">约翰逊打出斜线球回击，球打到了底线右角。</span><span class="english">Johnson returns it crosscourt , deep to the right baseline comer.</span></p>
 
 <p><span class="chinese">当你打出一个正手斜线穿越的时候，是否感觉很特别？</span><span class="english">Q. Do you feel something special when there's like a running crosscourt forehand?</span></p>

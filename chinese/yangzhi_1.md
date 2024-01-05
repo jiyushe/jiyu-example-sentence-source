@@ -1,5 +1,7 @@
 # 羊脂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangzhi_1.md)
+
 <p><span class="chinese">一块羊脂白玉的价值动辄成千上万，甚至价值连城。</span><span class="english">One suet-jade may costs thousands of money or even priceless.</span></p>
 
 <p><span class="chinese">清代重白玉，尤尚羊脂白玉，黄玉极少，也受到爱重。</span><span class="english">Qing heavy white, especially white tallow yet, topaz few, have also been re-love.</span></p>

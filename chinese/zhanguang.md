@@ -1,5 +1,7 @@
 # 沾光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanguang.md)
+
 <p><span class="chinese">在这一点你是两面沾光。</span><span class="english">At that point you're double-dipping.</span></p>
 
 <p><span class="chinese">有些小一些的城市在沾光。</span><span class="english">Some smaller cities are stealing the glory.</span></p>

@@ -1,5 +1,7 @@
 # develope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/develope.md)
+
 <p><span class="chinese">目的促进我国高等药学教育的发展。</span><span class="english">Objective To develope higher education of pharmacy in our country.</span></p>
 
 <p><span class="chinese">大家好，我们是大陆的一家卡通动漫公司。</span><span class="english">We are a Cartoon & Animation develope company in mainland of China.</span></p>

@@ -1,5 +1,7 @@
 # neigh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neigh.md)
+
 <p><span class="chinese">马嘶鸣。</span><span class="english">Horses neigh.</span></p>
 
 <p><span class="chinese">马大声发出一声嘶鸣。</span><span class="english">The horse gave a loud neigh.</span></p>

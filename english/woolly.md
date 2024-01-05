@@ -1,5 +1,7 @@
 # woolly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woolly.md)
+
 <p><span class="chinese">绵羊有一层卷曲柔软的厚毛。</span><span class="english">A sheep has a thick woolly coat.</span></p>
 
 <p><span class="chinese">起诉书也写得含糊不清、语无伦次。</span><span class="english">The indictment is vague, woolly and incoherent.</span></p>

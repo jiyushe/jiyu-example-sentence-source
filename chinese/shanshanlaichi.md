@@ -1,5 +1,7 @@
 # 姗姗来迟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanshanlaichi.md)
+
 <p><span class="chinese">今年的春天姗姗来迟。</span><span class="english">This year spring is late.</span></p>
 
 <p><span class="chinese">在淡黄色的辰光中早晨姗姗来迟。</span><span class="english">Morning came slowly with a pale yellow light.</span></p>

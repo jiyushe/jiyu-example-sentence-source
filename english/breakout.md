@@ -1,5 +1,7 @@
 # breakout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breakout.md)
+
 <p><span class="chinese">蓝波斯菊鲜汤火锅凭什么成功突围？</span><span class="english">Why KOSMOS soup pot breakout success?</span></p>
 
 <p><span class="chinese">子组、断接子组和递归模式</span><span class="english">Subgroups, breakout subgroups, and recursive mode</span></p>

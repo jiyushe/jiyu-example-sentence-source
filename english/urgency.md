@@ -1,5 +1,7 @@
 # urgency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urgency.md)
+
 <p><span class="chinese">你需要有急迫感！</span><span class="english">You need a sense of urgency.</span></p>
 
 <p><span class="chinese">玛贾克的声音明显透露出紧迫感。</span><span class="english">There's urgency in his voice.</span></p>

@@ -1,5 +1,7 @@
 # spunk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spunk.md)
+
 <p><span class="chinese">我欣赏你的勇气和自立。</span><span class="english">I admire your spunk and independence.</span></p>
 
 <p><span class="chinese">他鼓起勇气，说出了真相。</span><span class="english">He got his spunk up and told the truth.</span></p>

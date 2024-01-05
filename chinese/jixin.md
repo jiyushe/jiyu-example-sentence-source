@@ -1,5 +1,7 @@
 # 鸡心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jixin.md)
+
 <p><span class="chinese">她的脖子上挂着一颗钻石鸡心。</span><span class="english">She wore a diamond heart around her neck.</span></p>
 
 <p><span class="chinese">这条项链有一鸡心型坠子。</span><span class="english">A pendant worn on a chain around the neck.</span></p>

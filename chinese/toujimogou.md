@@ -1,5 +1,7 @@
 # 偷鸡摸狗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toujimogou.md)
+
 <p><span class="chinese">周围每一个人度知道他是个偷鸡摸狗的人。</span><span class="english">He is a men who is on the sly.</span></p>
 
 <p><span class="chinese">我们可得到的，唷，知道我要偷鸡摸狗做什么?。</span><span class="english">We all we got, yo, know I want y'all do?</span></p>

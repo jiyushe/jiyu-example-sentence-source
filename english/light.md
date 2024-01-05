@@ -1,5 +1,7 @@
 # light
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/light.md)
+
 <p><span class="chinese">弄盏小夜灯。</span><span class="english">Get a night light.</span></p>
 
 <p><span class="chinese">现在是红灯。</span><span class="english">It is a reb light.</span></p>

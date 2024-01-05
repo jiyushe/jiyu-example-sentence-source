@@ -1,5 +1,7 @@
 # bath
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bath.md)
+
 <p><span class="chinese">泡泡浴。</span><span class="english">A bubble bath.</span></p>
 
 <p><span class="chinese">冲澡还是泡澡？</span><span class="english">SHOWER OR BATH?</span></p>

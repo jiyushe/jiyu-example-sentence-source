@@ -1,5 +1,7 @@
 # dulcify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dulcify.md)
+
 <p><span class="chinese">放怀就是愉悦。</span><span class="english">Put the bosom is to dulcify.</span></p>
 
 <p><span class="chinese">也没有理由隐瞒内心的愉悦。</span><span class="english">Also have no dulcify of reason mental reservation heart.</span></p>

@@ -1,5 +1,7 @@
 # legality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legality.md)
+
 <p><span class="chinese">法律性是政府预算的本质特征。</span><span class="english">Legality is the essence of government budget.</span></p>
 
 <p><span class="chinese">最后介绍了转化犯的法定性。</span><span class="english">Finally introduced legality of the transforming crime.</span></p>

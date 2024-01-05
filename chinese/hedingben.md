@@ -1,5 +1,7 @@
 # 合订本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hedingben.md)
+
 <p><span class="chinese">没有出版俱乐部专属漫画合订本的计划。</span><span class="english">No more TPBs of the club comics.</span></p>
 
 <p><span class="chinese">他买了一本该杂志的合订本。</span><span class="english">He bought a bound volume of the magazine.</span></p>

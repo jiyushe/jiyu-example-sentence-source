@@ -1,5 +1,7 @@
 # srinagar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/srinagar.md)
+
 <p><span class="chinese">永远不会有，我们的铁路还没铺到斯利那加呢。在这方面，我是一名悲观主义者。</span><span class="english">Never – ever. We are yet to reach Srinagar. I am a pessimist in this regard.</span></p>
 
 <p><span class="chinese">在很多天里，斯利加纳是一个商店紧闭、街道空空的幽灵之镇。</span><span class="english">On most days, Srinagar is a ghost town of shuttered shops and empty streets.</span></p>

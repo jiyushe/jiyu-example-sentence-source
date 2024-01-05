@@ -1,5 +1,7 @@
 # carpeting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carpeting.md)
+
 <p><span class="chinese">动物毛皮、草皮及海藻被用于铺设地面和床铺。</span><span class="english">Animal furs, grasses, and seaweed were used as carpeting and bedding.</span></p>
 
 <p><span class="chinese">我的鞋跟把我的汽车里加速器下面的地毯磨穿了。</span><span class="english">My heel wore through the carpeting beneath the accelerator of my car.</span></p>

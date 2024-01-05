@@ -1,5 +1,7 @@
 # relevant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relevant.md)
+
 <p><span class="chinese">这是一个中肯的问题。</span><span class="english">This is a relevant question.</span></p>
 
 <p><span class="chinese">这个也蛮有用的。</span><span class="english">And this is very much relevant.</span></p>

@@ -1,5 +1,7 @@
 # 前缘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianyuan.md)
+
 <p><span class="chinese">浅水三角洲前缘平坦、开阔。</span><span class="english">Shallow-water delta front is flat and widen.</span></p>
 
 <p><span class="chinese">在一面主帆上，帆前缘被连接到桅杆上。</span><span class="english">On a mainsail, the luff attaches to the mast.</span></p>

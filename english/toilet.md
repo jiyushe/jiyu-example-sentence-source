@@ -1,5 +1,7 @@
 # toilet 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toilet.md)
+
 <p><span class="chinese">快去冲厕所！</span><span class="english">Go flush the toilet now!</span></p>
 
 <p><span class="chinese">放下洗手间马桶的座垫。</span><span class="english">Put the toilet seat down.</span></p>

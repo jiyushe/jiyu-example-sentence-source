@@ -1,5 +1,7 @@
 # 墨宝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mobao.md)
+
 <p><span class="chinese">我的爱好墨宝。</span><span class="english">My hobby is calligraphy.</span></p>
 
 <p><span class="chinese">我终于抢到唐伯虎的墨宝了。</span><span class="english">I have got the painting of Tong Pak Fu.</span></p>

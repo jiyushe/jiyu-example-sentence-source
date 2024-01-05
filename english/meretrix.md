@@ -1,5 +1,7 @@
 # meretrix
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meretrix.md)
+
 <p><span class="chinese">据报道文蛤具有抗癌、降血糖、降血脂和抗氧化等活性。</span><span class="english">Some researchers have reported that Meretrix meretrix Linnaeus can lower blood sugar and lipid.</span></p>
 
 <p><span class="chinese">探讨文蛤多糖对实验性糖尿病大鼠免疫功能的影响。</span><span class="english">To study the influence of meretrix polysaccharides on immune functions in the experimental diabetic rats.</span></p>

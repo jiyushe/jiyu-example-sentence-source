@@ -1,5 +1,7 @@
 # 草创
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caochuang.md)
+
 <p><span class="chinese">三年前他们草创文学社。</span><span class="english">They started to establish the Literature Society three years ago.</span></p>
 
 <p><span class="chinese">他草创了第一代个人电脑公司--苹果公司。</span><span class="english">He helped create Apple, the first serious personal computer company.</span></p>

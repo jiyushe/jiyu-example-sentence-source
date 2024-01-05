@@ -1,5 +1,7 @@
 # 世仇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shichou.md)
+
 <p><span class="chinese">这将成为他们世仇最终的胜负。</span><span class="english">It would be the ultimate tiebreaker in their feud.</span></p>
 
 <p><span class="chinese">对这场血海世仇继续装作视而不见是奥巴马承受不起的。</span><span class="english">Obama cannot afford to keep ignoring this blood feud.</span></p>

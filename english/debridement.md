@@ -1,5 +1,7 @@
 # debridement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/debridement.md)
+
 <p><span class="chinese">动物在清创术后4或20周接受了安乐死。</span><span class="english">Animals were euthanized at 4 or 12 weeks after debridement.</span></p>
 
 <p><span class="chinese">并根据该实验提出骨髓腔清创术的概念。</span><span class="english">Morover, to refer to the concept of marrow cavity debridement based on this.</span></p>

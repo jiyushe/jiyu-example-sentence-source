@@ -1,5 +1,7 @@
 # 卖国贼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maiguozei.md)
+
 <p><span class="chinese">他是一个卖国贼。</span><span class="english">He is a quisling.</span></p>
 
 <p><span class="chinese">他被称为卖国贼。</span><span class="english">He was dubbed a traitor.</span></p>

@@ -1,5 +1,7 @@
 # como
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/como.md)
+
 <p><span class="chinese">如果他不快点到，我就要走了。</span><span class="english">Como no llgue pronto, me voy.</span></p>
 
 <p><span class="chinese">你们怎样定控制点？</span><span class="english">Cómo determinan los puntos de control?</span></p>

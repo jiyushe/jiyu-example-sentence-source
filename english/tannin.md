@@ -1,5 +1,7 @@
 # tannin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tannin.md)
+
 <p><span class="chinese">葡萄酒中的苦涩味就是单宁。</span><span class="english">Tannin has a bitter taste.</span></p>
 
 <p><span class="chinese">鞣料植物具有巨大的经济价值。</span><span class="english">Tannin plant is of great economic value.</span></p>

@@ -1,5 +1,7 @@
 # 经纪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingji_2.md)
+
 <p><span class="chinese">我是股票经纪人，托莎，你呢。</span><span class="english">I'm a stock broker, Tosha, and you.</span></p>
 
 <p><span class="chinese">然后我会讲经纪业</span><span class="english">Then I want to talk about brokerages.</span></p>

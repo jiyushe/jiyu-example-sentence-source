@@ -1,5 +1,7 @@
 # smooch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smooch.md)
+
 <p><span class="chinese">给我一个吻。</span><span class="english">Give me a smooch.</span></p>
 
 <p><span class="chinese">想要偷吻你就得大胆点。</span><span class="english">He planted a big smooch on her.</span></p>

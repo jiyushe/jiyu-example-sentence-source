@@ -1,5 +1,7 @@
 # achalasia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/achalasia.md)
+
 <p><span class="chinese">我已经失弛缓症，因为我是7岁。</span><span class="english">I have had achalasia since I was 7 years old.</span></p>
 
 <p><span class="chinese">我遭受失弛缓症在过去25年。</span><span class="english">I suffered from achalasia for the last 25 years.</span></p>

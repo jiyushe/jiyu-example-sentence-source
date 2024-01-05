@@ -1,5 +1,7 @@
 # endocarp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endocarp.md)
+
 <p><span class="chinese">在果实最后膨大期以前内果皮变硬。</span><span class="english">The endocarp is hardened before the final swell.</span></p>
 
 <p><span class="chinese">核果的石质内果皮，如桃和樱桃。</span><span class="english">The stony endocarp of a drupe, as in a peach or cherry.</span></p>

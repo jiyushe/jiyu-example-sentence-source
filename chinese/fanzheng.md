@@ -1,5 +1,7 @@
 # 反正
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanzheng.md)
+
 <p><span class="chinese">反正是一个钟头。</span><span class="english">An hour is the saree.</span></p>
 
 <p><span class="chinese">反正我不喜欢它。</span><span class="english">Anyhow I don't like it.</span></p>

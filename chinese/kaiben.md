@@ -1,5 +1,7 @@
 # 开本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaiben.md)
+
 <p><span class="chinese">约翰国王是首次出版，在1623年第一对开本的。</span><span class="english">King John was first published in the First Folio of 1623.</span></p>
 
 <p><span class="chinese">他们出版各种不同开本的书籍。</span><span class="english">They are producing books in all kinds of different formats.</span></p>

@@ -1,5 +1,7 @@
 # groundnut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/groundnut.md)
+
 <p><span class="chinese">然而，卡纳塔克邦是花生产量唯一可能增加的邦。</span><span class="english">However, Karnataka is the only state where the production of groundnut may rise.</span></p>
 
 <p><span class="chinese">测得花育23和四粒红花生的物理特性及脱壳时外壳破裂受力大小。</span><span class="english">Physical performances and groundnut shelling force of HuaYu23 and Shilihong were determined.</span></p>

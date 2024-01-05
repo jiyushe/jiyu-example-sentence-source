@@ -1,5 +1,7 @@
 # hewn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hewn.md)
+
 <p><span class="chinese">狭窄的走道是在岩石上草草凿出来的。</span><span class="english">The narrow passages are roughly hewn in the rock.</span></p>
 
 <p><span class="chinese">如果一个儿子打他的父亲，他的手将被砍断。</span><span class="english">If a son strike his father, his hands shall be hewn off.</span></p>

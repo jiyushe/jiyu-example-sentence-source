@@ -1,5 +1,7 @@
 # 凭依
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingyi.md)
+
 <p><span class="chinese">我凭依栏杆，细看那萤火虫。</span><span class="english">I lean against the railing, staring at the firefly.</span></p>
 
 <p><span class="chinese">觉得也是凭依天气和身体的状况的。</span><span class="english">It is dependent on weather conditions and bodily conditions.</span></p>

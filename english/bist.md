@@ -1,5 +1,7 @@
 # bist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bist.md)
+
 <p><span class="chinese">针对低功耗测试问题，本文提出一种新的低功耗混合BIST方案。</span><span class="english">Aiming at Low-Power BIST, a novel low-power BIST scheme was presented.</span></p>
 
 <p><span class="chinese">本论文主要讨论的是可编程逻辑器件FPGA的BIST理论、方法和应用。</span><span class="english">BIST theory, solution and application in FPGA are studied in this thesis.</span></p>

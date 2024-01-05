@@ -1,5 +1,7 @@
 # sion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sion.md)
+
 <p><span class="chinese">峋山隐修会真的存在吗？</span><span class="english">Does the Priory of Sion really exist?</span></p>
 
 <p><span class="chinese">他还是位郇山隐修会的大师。</span><span class="english">And he was a Grand Master of the Priory of Sion.</span></p>

@@ -1,5 +1,7 @@
 # spatial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spatial.md)
+
 <p><span class="chinese">而是空间性的。</span><span class="english">It's spatial.</span></p>
 
 <p><span class="chinese">第二种是空间的二元论。</span><span class="english">There's also a spatial dualism.</span></p>

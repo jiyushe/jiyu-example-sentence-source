@@ -1,5 +1,7 @@
 # 封底
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengdi_1.md)
+
 <p><span class="chinese">读一下书的封底和简介。</span><span class="english">Read the back cover and the introduction.</span></p>
 
 <p><span class="chinese">封面和封底的图画是连在一起的，这还是第一次。</span><span class="english">For the first time the cover is a wrap-around.</span></p>

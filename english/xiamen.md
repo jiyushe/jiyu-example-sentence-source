@@ -1,5 +1,7 @@
 # xiamen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xiamen.md)
+
 <p><span class="chinese">你是厦门人吗？</span><span class="english">Are you from Xiamen?</span></p>
 
 <p><span class="chinese">这个镇位于厦门的东南边。</span><span class="english">The town to the of Xiamen.</span></p>

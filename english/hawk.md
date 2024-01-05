@@ -1,5 +1,7 @@
 # hawk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hawk.md)
+
 <p><span class="chinese">老鹰猛地向它要捕食的动物扑去。</span><span class="english">The hawk chops upon its prey.</span></p>
 
 <p><span class="chinese">鹰俯冲而下，直扑那只鸡。</span><span class="english">The hawk dived straight at the chicken.</span></p>

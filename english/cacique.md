@@ -1,5 +1,7 @@
 # cacique
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cacique.md)
+
 <p><span class="chinese">意见领袖。</span><span class="english">One , opinion cacique.</span></p>
 
 <p><span class="chinese">把带头的酋长砸死。</span><span class="english">The lead of the cacique dead.</span></p>

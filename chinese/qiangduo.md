@@ -1,5 +1,7 @@
 # 抢夺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangduo.md)
+
 <p><span class="chinese">摩押人哪，我们现在去抢夺财物吧。</span><span class="english">Now to the plunder, Moab!</span></p>
 
 <p><span class="chinese">必先摆捆住那壮士，才可以抢夺他的家。</span><span class="english">Then he can rob his house.</span></p>

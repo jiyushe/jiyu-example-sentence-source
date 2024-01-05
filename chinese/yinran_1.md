@@ -1,5 +1,7 @@
 # 引燃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinran_1.md)
+
 <p><span class="chinese">可能引燃通货膨胀。</span><span class="english">They might spur inflation.</span></p>
 
 <p><span class="chinese">他用一把干草引燃了这些木柴。</span><span class="english">He ignited the wood with a band of hay.</span></p>

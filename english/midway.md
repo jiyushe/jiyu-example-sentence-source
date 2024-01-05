@@ -1,5 +1,7 @@
 # midway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/midway.md)
+
 <p><span class="chinese">我们的旅行以中途岛为起点。</span><span class="english">Our trip takes Midway as a starting point.</span></p>
 
 <p><span class="chinese">有用的信息在中下部。</span><span class="english">The useful information is about midway down.</span></p>

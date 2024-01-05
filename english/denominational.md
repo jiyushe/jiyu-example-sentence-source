@@ -1,5 +1,7 @@
 # denominational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/denominational.md)
+
 <p><span class="chinese">宗派蜕变是一场悲剧，然而却可以预见。</span><span class="english">Denominational disintegration is a tragic, but predictable, sight.</span></p>
 
 <p><span class="chinese">我们提供的一切都是不分教派的，所有宗教都欢迎。</span><span class="english">All our offers are non- denominational . All religions are welcome.</span></p>

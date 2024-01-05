@@ -1,5 +1,7 @@
 # 衰变
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuaibian.md)
+
 <p><span class="chinese">氡来自镭的衰变。</span><span class="english">Radon comes from radium decay.</span></p>
 
 <p><span class="chinese">薛定谔的原子一定会衰变。</span><span class="english">Schrodinger's atom will decay.</span></p>

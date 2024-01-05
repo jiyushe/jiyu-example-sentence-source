@@ -1,5 +1,7 @@
 # beneficiary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beneficiary.md)
+
 <p><span class="chinese">一个主要的受益者是黄金。</span><span class="english">One major beneficiary will be gold.</span></p>
 
 <p><span class="chinese">她说，“所以我是早期检测的直接受益人。</span><span class="english">So I am a direct beneficiary of early detection.</span></p>

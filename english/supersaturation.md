@@ -1,5 +1,7 @@
 # supersaturation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supersaturation.md)
+
 <p><span class="chinese">当过饱和是正值时，则出现凝结。</span><span class="english">Condensation occurs when the supersaturation is positive.</span></p>
 
 <p><span class="chinese">测定其在各种不同条件下的溶解度和过饱和度。</span><span class="english">Its solubility and supersaturation were determined under various conditions.</span></p>

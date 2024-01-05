@@ -1,5 +1,7 @@
 # standpipe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/standpipe.md)
+
 <p><span class="chinese">外套管表面有焊接缝。</span><span class="english">Welding-seam on the standpipe.</span></p>
 
 <p><span class="chinese">一根立管可以肯定达到顺利的循环。</span><span class="english">A standpipe was crucial for smooth circulation.</span></p>

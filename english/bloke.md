@@ -1,5 +1,7 @@
 # bloke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bloke.md)
+
 <p><span class="chinese">看见那个家伙吗？</span><span class="english">See that bloke there?</span></p>
 
 <p><span class="chinese">看那个坐车的家伙。</span><span class="english">Look at the bloke ridin'.</span></p>

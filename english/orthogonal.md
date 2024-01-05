@@ -1,5 +1,7 @@
 # orthogonal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orthogonal.md)
+
 <p><span class="chinese">他们是互相垂直的。</span><span class="english">They are orthogonal.</span></p>
 
 <p><span class="chinese">我认为两方面的问题是正交的。</span><span class="english">I think it's orthogonal.</span></p>

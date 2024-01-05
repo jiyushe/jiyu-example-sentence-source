@@ -1,5 +1,7 @@
 # 十二分
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shierfen.md)
+
 <p><span class="chinese">这趟车在本站停十二分钟。</span><span class="english">The train calls at this station for twelve minutes.</span></p>
 
 <p><span class="chinese">“对华强硬派”议员已经向国会提交了十二分议案。</span><span class="english">China- bashers have introduced a dozen bills in the new Congress.</span></p>

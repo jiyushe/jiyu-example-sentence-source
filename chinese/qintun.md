@@ -1,5 +1,7 @@
 # 侵吞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qintun.md)
+
 <p><span class="chinese">他侵吞公款。</span><span class="english">He embezzled public funds.</span></p>
 
 <p><span class="chinese">他因侵吞公款而被降职。</span><span class="english">He was put down from the office for peculation.</span></p>

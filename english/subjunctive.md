@@ -1,5 +1,7 @@
 # subjunctive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subjunctive.md)
+
 <p><span class="chinese">这是命令的假设语态。</span><span class="english">This is a jussive subjunctive.</span></p>
 
 <p><span class="chinese">在多用虚拟语气的句子。</span><span class="english">In a multiple-use the subjunctive sentence.</span></p>

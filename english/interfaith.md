@@ -1,5 +1,7 @@
 # interfaith
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interfaith.md)
+
 <p><span class="chinese">他说，不同信仰之间的合作可以平衡极端主义。</span><span class="english">He says interfaith cooperation is a way to balance extremism.</span></p>
 
 <p><span class="chinese">即跨信仰青年核心组织,其网址是ifyc。</span><span class="english">The Interfaith Youth Core CORE org and the website is ifyc.org.</span></p>

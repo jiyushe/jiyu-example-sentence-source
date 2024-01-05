@@ -1,5 +1,7 @@
 # cottonseed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cottonseed.md)
+
 <p><span class="chinese">粉缺乏赖氨酸，蛋氨酸和亮氨酸。</span><span class="english">Cottonseed meal is deficient in lysine , methionine and leucine.</span></p>
 
 <p><span class="chinese">它是豆油或棉花籽油同蔗糖结合而成的。</span><span class="english">It's either soybean oil or cottonseed oil, combined with sucrose.</span></p>

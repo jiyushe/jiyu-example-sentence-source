@@ -1,5 +1,7 @@
 # 深思
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shensi.md)
+
 <p><span class="chinese">他在深思我的话。</span><span class="english">He meditates my remark.</span></p>
 
 <p><span class="chinese">所以请大家对此深思。</span><span class="english">So I leave you with that.</span></p>

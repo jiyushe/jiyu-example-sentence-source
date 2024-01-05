@@ -1,5 +1,7 @@
 # 杀手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shashou.md)
+
 <p><span class="chinese">他做了。快客杀手。</span><span class="english">But he did it.</span></p>
 
 <p><span class="chinese">灵气按摩杀手。</span><span class="english">Reiki killers.</span></p>

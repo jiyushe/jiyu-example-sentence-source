@@ -1,5 +1,7 @@
 # biliary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biliary.md)
+
 <p><span class="chinese">胆绞痛的疼痛有时出现在上腹。</span><span class="english">The pain of biliary colic is occasionally in the epigastrium.</span></p>
 
 <p><span class="chinese">目的探讨T管引流术拔管后胆漏的预防。</span><span class="english">ObjectiveTo prevent biliary fistula after the removal of T tube.</span></p>

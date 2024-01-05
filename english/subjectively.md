@@ -1,5 +1,7 @@
 # subjectively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subjectively.md)
+
 <p><span class="chinese">它们是主观综合的。</span><span class="english">They are subjectively synthetic.</span></p>
 
 <p><span class="chinese">客观上讲她可能是对的，但在主观上呢？</span><span class="english">Could she be right, not objectively, but subjectively?</span></p>

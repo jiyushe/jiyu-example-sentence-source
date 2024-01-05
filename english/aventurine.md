@@ -1,5 +1,7 @@
 # aventurine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aventurine.md)
+
 <p><span class="chinese">过去，绿沙金石被人们错误地叫着“印度玉”。</span><span class="english">In the past, Green Aventurine has been miscalled "Indian Jade".</span></p>
 
 <p><span class="chinese">这种沙金石发光效果也被称之为“砂金石闪光”。</span><span class="english">The glistening effect of Aventurine is known as "aventurescence".</span></p>

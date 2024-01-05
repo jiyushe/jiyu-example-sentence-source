@@ -1,5 +1,7 @@
 # outpost
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outpost.md)
+
 <p><span class="chinese">士兵们用战壕防御前哨。</span><span class="english">The soldiers trenched an outpost.</span></p>
 
 <p><span class="chinese">突击队员于拂晓时袭击了前哨基地。</span><span class="english">The commandos attacked the outpost at dawn.</span></p>

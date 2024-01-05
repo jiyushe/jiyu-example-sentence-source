@@ -1,5 +1,7 @@
 # suds
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suds.md)
+
 <p><span class="chinese">感受泡沫沿着身体慢慢滑下。</span><span class="english">Feel the suds slipping down your body.</span></p>
 
 <p><span class="chinese">没人希望在啤酒里加肥皂，可是人人都希望啤酒里有泡沫。</span><span class="english">No one wants soap in beer, but everyone wants the suds.</span></p>

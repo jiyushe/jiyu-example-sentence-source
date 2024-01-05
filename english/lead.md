@@ -1,5 +1,7 @@
 # lead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lead.md)
+
 <p><span class="chinese">我听从他的领导。</span><span class="english">I followed his lead.</span></p>
 
 <p><span class="chinese">铅是一种神经毒素。</span><span class="english">Lead is a neurotoxin.</span></p>

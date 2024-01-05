@@ -1,5 +1,7 @@
 # 中外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongwai.md)
+
 <p><span class="chinese">欢迎广大中外客商联系业务！</span><span class="english">Welcome to contact with us!</span></p>
 
 <p><span class="chinese">这是震惊中外的新闻。</span><span class="english">This is a world-shaking news.</span></p>

@@ -1,5 +1,7 @@
 # adviser 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adviser.md)
+
 <p><span class="chinese">我要去和我的顾问商议。</span><span class="english">I'llgo and talk with my adviser.</span></p>
 
 <p><span class="chinese">我们聘请你当法律顾问。</span><span class="english">We engage you as a legal adviser.</span></p>

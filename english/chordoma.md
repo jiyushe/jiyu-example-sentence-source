@@ -1,5 +1,7 @@
 # chordoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chordoma.md)
+
 <p><span class="chinese">目的探讨骶骨脊索瘤的外科治疗方法。</span><span class="english">Objective To discuss the surgical methods of sacral chordoma.</span></p>
 
 <p><span class="chinese">在这个区域，脊索瘤比软骨肉瘤更常见。</span><span class="english">Chordoma is a more common tumor in this location than chondrosarcoma.</span></p>

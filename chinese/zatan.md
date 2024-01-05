@@ -1,5 +1,7 @@
 # 杂谈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zatan.md)
+
 <p><span class="chinese">相比今天的泛泛杂谈，下次的课会更加深入。</span><span class="english">It's more narrow than my very broad discussion.</span></p>
 
 <p><span class="chinese">杂谈在鼓浪屿的最后一天，相对悠闲很多。</span><span class="english">In the last day of Gulangyu, it was relaxed a lot relatively.</span></p>

@@ -1,5 +1,7 @@
 # regimen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regimen.md)
+
 <p><span class="chinese">你有美容养生之道吗？</span><span class="english">Do you have a beauty regimen?</span></p>
 
 <p><span class="chinese">想要费用较低的保养方法。</span><span class="english">You want a low-maintenance regimen.</span></p>

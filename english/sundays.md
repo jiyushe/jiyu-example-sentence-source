@@ -1,5 +1,7 @@
 # sundays
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sundays.md)
+
 <p><span class="chinese">每逢星期天他总睡懒觉。</span><span class="english">Sundays he would sleep late.</span></p>
 
 <p><span class="chinese">星期天我通常学拉小提琴。</span><span class="english">Sundays I usually study violin.</span></p>

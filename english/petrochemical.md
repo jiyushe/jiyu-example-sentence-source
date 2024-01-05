@@ -1,5 +1,7 @@
 # petrochemical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/petrochemical.md)
+
 <p><span class="chinese">为未来的大石化温岭祈祷！</span><span class="english">Wenling for the future of the major petrochemical pray!</span></p>
 
 <p><span class="chinese">我是个石化工业的工程师。</span><span class="english">I am working as an engineer in the petrochemical industry.</span></p>

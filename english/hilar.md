@@ -1,5 +1,7 @@
 # hilar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hilar.md)
+
 <p><span class="chinese">管内型错构瘤应与中心型肺癌鉴别。</span><span class="english">Intraluminal hamartoma should be differentiated from hilar lung cancer.</span></p>
 
 <p><span class="chinese">方法将人肝门部胆管癌标本进行细胞培养，传代。</span><span class="english">Methods The fresh human hilar cholangiocarcinoma specimen was cultured.</span></p>

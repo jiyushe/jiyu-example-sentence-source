@@ -1,5 +1,7 @@
 # 星河
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinghe.md)
+
 <p><span class="chinese">本报已正式改名为星河新报。</span><span class="english">This newspaper had renamed as Galaxy News.</span></p>
 
 <p><span class="chinese">天接云涛连晓雾，星河欲转千帆舞。</span><span class="english">The Silver River fades, sails on sails dance on high.</span></p>

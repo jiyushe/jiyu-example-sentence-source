@@ -1,5 +1,7 @@
 # 弱点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruodian.md)
+
 <p><span class="chinese">她的弱点？</span><span class="english">Her weakness?</span></p>
 
 <p><span class="chinese">知道你的弱点。</span><span class="english">Know your weaknesses.</span></p>

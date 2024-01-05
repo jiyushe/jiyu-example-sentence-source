@@ -1,5 +1,7 @@
 # fortunately
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fortunately.md)
+
 <p><span class="chinese">幸亏我们没有误车。</span><span class="english">Fortunately we didn't miss the bus.</span></p>
 
 <p><span class="chinese">幸亏它被隐藏起来了。</span><span class="english">It was fortunately hidden from view.</span></p>

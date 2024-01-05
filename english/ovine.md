@@ -1,5 +1,7 @@
 # ovine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ovine.md)
+
 <p><span class="chinese">小黑羊过着寄人篱下的日子，经常伤心落泪。</span><span class="english">Small Hei Yang lives ovine life, often sad weep.</span></p>
 
 <p><span class="chinese">目前，在自体原位移植冻存羊卵巢组织后，已产下一只健康子代羊。</span><span class="english">Recently, a lamb was born after orthotopic transplantation of frozen ovine ovarian tissue.</span></p>

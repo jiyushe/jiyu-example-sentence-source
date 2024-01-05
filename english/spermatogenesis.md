@@ -1,5 +1,7 @@
 # spermatogenesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spermatogenesis.md)
+
 <p><span class="chinese">目的筛选与精子发生相关的基因。</span><span class="english">Objective To identify genes involved in spermatogenesis.</span></p>
 
 <p><span class="chinese">DAZ基因拷贝缺失与人类的生精障碍有关。</span><span class="english">Deletion of DAZ gene copies is related to spermatogenesis impairment.</span></p>

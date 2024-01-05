@@ -1,5 +1,7 @@
 # compose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compose.md)
+
 <p><span class="chinese">那四册构成一卷书。</span><span class="english">Nine players compose a team.</span></p>
 
 <p><span class="chinese">我真不会做诗啊。</span><span class="english">I really can't compose poems.</span></p>

@@ -1,5 +1,7 @@
 # anemia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anemia.md)
+
 <p><span class="chinese">对于再生障碍性贫血。</span><span class="english">Aplastic anemia.</span></p>
 
 <p><span class="chinese">对于镰状细胞性贫血。</span><span class="english">Sickle cell anemia.</span></p>

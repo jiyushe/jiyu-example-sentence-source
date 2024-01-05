@@ -1,5 +1,7 @@
 # disproportional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disproportional.md)
+
 <p><span class="chinese">工作中权利和责任不相称。</span><span class="english">Disproportional between authority and obligation.</span></p>
 
 <p><span class="chinese">非比例再保险的保险费率由双方当事人议定。</span><span class="english">The premium rate of disproportional reinsurance by bilateral party agreed.</span></p>

@@ -1,5 +1,7 @@
 # 判例
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/panli.md)
+
 <p><span class="chinese">有些人或许会颠覆联邦公民的判例。</span><span class="english">Some might see the overturning of Citizens United.</span></p>
 
 <p><span class="chinese">美国合同法的大部分是由法官创制的判例法。</span><span class="english">The bulk of American contract law is judge-made case law.</span></p>

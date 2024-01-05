@@ -1,5 +1,7 @@
 # delphic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delphic.md)
+
 <p><span class="chinese">柏拉图将太阳神庙的箴言「了解自己」列为优先顺序。</span><span class="english">Plato gave priority to the Delphic maxim, "Know yourself".</span></p>
 
 <p><span class="chinese">德尔菲神谕事件，不论好坏,都标志着,一个苏格拉底思想传记中的重要转折点。</span><span class="english">The Delphic story for what it's worth marks a major turning point in Socrates' intellectual biography.</span></p>

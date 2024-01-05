@@ -1,5 +1,7 @@
 # asbestosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asbestosis.md)
+
 <p><span class="chinese">吸烟不引起间皮瘤或绵。</span><span class="english">Smoking does not cause mesothelioma or asbestosis.</span></p>
 
 <p><span class="chinese">肺癌和恶性间皮瘤亦和石绵吸入及石绵沉着病有关。</span><span class="english">Lung cancer and malignant mesothelioma are more common with asbestos inhalation and asbestosis.</span></p>

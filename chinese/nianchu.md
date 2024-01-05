@@ -1,5 +1,7 @@
 # 年初
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianchu.md)
+
 <p><span class="chinese">卡普利茨基今年年初去世。</span><span class="english">Kaplicky died earlier this year.</span></p>
 
 <p><span class="chinese">伊朗的掩盖行为于2003年初暴露。</span><span class="english">The cover-up ended in early 2003.</span></p>

@@ -1,5 +1,7 @@
 # overthrust
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overthrust.md)
+
 <p><span class="chinese">南缘逆掩推覆带是三塘湖盆地油气勘探的主攻区带之一。</span><span class="english">The overthrust belt at the south edge of Santanghu basin is the main exploration target.</span></p>
 
 <p><span class="chinese">阿尔卑斯的葛拉洛斯地区拥有高耸于狭窄河谷的冰川覆盖的群山。</span><span class="english">The Glarus Overthrust of Alpine holds swarm of ice-covered moutains lifting in the narrow valley.</span></p>

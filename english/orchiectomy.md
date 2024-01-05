@@ -1,5 +1,7 @@
 # orchiectomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orchiectomy.md)
+
 <p><span class="chinese">确诊后全部病例均作双侧睾丸切除术。</span><span class="english">After ICPG wasdiagnosed, all cases were operated by bilateral orchiectomy.</span></p>
 
 <p><span class="chinese">睾丸切除术，用来治疗前列腺癌的生长及扩散已经有很多年了。</span><span class="english">Orchiectomy has been used for years to slow or stop the growth and spread of prostate cancer.</span></p>

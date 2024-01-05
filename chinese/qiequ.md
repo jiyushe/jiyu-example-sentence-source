@@ -1,5 +1,7 @@
 # 窃取
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiequ.md)
+
 <p><span class="chinese">正是在我身上她窃取了她的旧面孔。</span><span class="english">Yes it is me she poaches her old face in.</span></p>
 
 <p><span class="chinese">像艺术家一样去“窃取”是什么意思？</span><span class="english">What does it mean to steal like an artist?</span></p>

@@ -1,5 +1,7 @@
 # supreme
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supreme.md)
+
 <p><span class="chinese">OMC世界超级冠军是的！</span><span class="english">OMC World Supreme Champion YES!</span></p>
 
 <p><span class="chinese">在最高法院有拉丁裔确实很强大。</span><span class="english">A Latina on the Supreme Court's great.</span></p>

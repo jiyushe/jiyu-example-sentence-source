@@ -1,5 +1,7 @@
 # equestrian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equestrian.md)
+
 <p><span class="chinese">面对巨大打击，马家人并未放弃。</span><span class="english">Face huge blow, equestrian family did not abandon.</span></p>
 
 <p><span class="chinese">在这样的马术社区，你可以鱼与熊掌兼得。</span><span class="english">In an equestrian community you get to have your cake and eat it too.</span></p>

@@ -1,5 +1,7 @@
 # slightly 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slightly.md)
+
 <p><span class="chinese">他稍微有点耳背。</span><span class="english">He is slightly deaf.</span></p>
 
 <p><span class="chinese">双膝微微弯曲。</span><span class="english">Bend your knees slightly.</span></p>

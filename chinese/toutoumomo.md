@@ -1,5 +1,7 @@
 # 偷偷摸摸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toutoumomo.md)
+
 <p><span class="chinese">他偷偷摸摸地四处寻找钱。</span><span class="english">He moused about for money.</span></p>
 
 <p><span class="chinese">法国人是所谓,"偷偷摸摸的法国佬"</span><span class="english">The French are "The sneaky French."</span></p>

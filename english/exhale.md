@@ -1,5 +1,7 @@
 # exhale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exhale.md)
+
 <p><span class="chinese">吸入，呼出。</span><span class="english">Inhale. Exhale.</span></p>
 
 <p><span class="chinese">撑起来的时候呼气。</span><span class="english">Exhale as you go up.</span></p>

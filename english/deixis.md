@@ -1,5 +1,7 @@
 # deixis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deixis.md)
+
 <p><span class="chinese">指示是语用学研究的一个重要课题。</span><span class="english">Deixis play an important role in pragmatics.</span></p>
 
 <p><span class="chinese">指示语是语用学的重要内容。</span><span class="english">Deixis is an important content of pragmatics.</span></p>

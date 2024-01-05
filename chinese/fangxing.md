@@ -1,5 +1,7 @@
 # 放行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangxing.md)
+
 <p><span class="chinese">他靠三寸不烂之舌使一个拦住他的侦探将他放行了。</span><span class="english">He talked his way past a detective who stopped him.</span></p>
 
 <p><span class="chinese">我给他们签字放行，保证他们行为端正。</span><span class="english">I'll sign them out and gua rant ee their good behavior.</span></p>

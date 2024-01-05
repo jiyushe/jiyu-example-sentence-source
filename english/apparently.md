@@ -1,5 +1,7 @@
 # apparently 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apparently.md)
+
 <p><span class="chinese">显然如此。</span><span class="english">Apparently.</span></p>
 
 <p><span class="chinese">显然有很多。</span><span class="english">A lot, apparently.</span></p>

@@ -1,5 +1,7 @@
 # 发愤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fafen.md)
+
 <p><span class="chinese">我们将发愤使今天成为您过得最愉快的母亲节。</span><span class="english">We will try to make this your best Mother"s Day ever."</span></p>
 
 <p><span class="chinese">欢乐是人们的双翼，哀愁是使人发愤的动力。</span><span class="english">Joy is like the people's wings make one fly, while sorrow drives one diligent.</span></p>

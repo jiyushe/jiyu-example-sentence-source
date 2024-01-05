@@ -1,5 +1,7 @@
 # mumps
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mumps.md)
+
 <p><span class="chinese">你的腮腺炎怎么样了？</span><span class="english">How's your mumps now?</span></p>
 
 <p><span class="chinese">腮腺炎是一种儿童疾病。</span><span class="english">Mumps is a children's disease.</span></p>

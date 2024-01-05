@@ -1,5 +1,7 @@
 # dereliction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dereliction.md)
+
 <p><span class="chinese">他被判严重玩忽职守。</span><span class="english">He was found guilty of gross dereliction of duty.</span></p>
 
 <p><span class="chinese">钟离的失职令高义山大怒。</span><span class="english">The clock from Gao Yishan rage of dereliction of duty.</span></p>

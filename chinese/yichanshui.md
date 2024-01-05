@@ -1,5 +1,7 @@
 # 遗产税
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yichanshui.md)
+
 <p><span class="chinese">减去遗产税，他继承了富裕的财产。</span><span class="english">He inherited substantial property subtracted legacy tax.</span></p>
 
 <p><span class="chinese">遗产税和所得税也被视为货物税。</span><span class="english">Levying estate tax and income tax are considered to be goods tax.</span></p>

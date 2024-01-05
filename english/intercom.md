@@ -1,5 +1,7 @@
 # intercom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intercom.md)
+
 <p><span class="chinese">但游戏刚开始他的对讲机就响了。</span><span class="english">The game had just kicked off when his intercom buzzed.</span></p>
 
 <p><span class="chinese">因为这里有一个门禁，这样我可以让你进去。</span><span class="english">There's a little intercom arrangement so I can let you in.</span></p>

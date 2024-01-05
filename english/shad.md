@@ -1,5 +1,7 @@
 # shad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shad.md)
+
 <p><span class="chinese">那么，有没有性感鲱鱼色系不起作用的时候呢？</span><span class="english">Are there times when Sexy Shad doesn't work?</span></p>
 
 <p><span class="chinese">我们有上等螺沙鱼排、比目鱼，还有烤鲱鱼。</span><span class="english">We have filet of sole, flounder, and baked shad.</span></p>

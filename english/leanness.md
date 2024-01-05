@@ -1,5 +1,7 @@
 # leanness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leanness.md)
+
 <p><span class="chinese">我却说，我消瘦了！</span><span class="english">But I say, Leanness to me!</span></p>
 
 <p><span class="chinese">他们发现一种最普遍的被称为IRS1的基因与生菜苗条之间存在关联。</span><span class="english">This revealed an extremely common gene called IRS1 to be linked to leanness.</span></p>

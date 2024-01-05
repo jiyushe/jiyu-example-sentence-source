@@ -1,5 +1,7 @@
 # folliculitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/folliculitis.md)
+
 <p><span class="chinese">我看的话·应当是毛囊炎。</span><span class="english">I think the words should be folliculitis.</span></p>
 
 <p><span class="chinese">疤痕体的毛囊炎怎么治？</span><span class="english">How is the folliculitis of scar body treated?</span></p>

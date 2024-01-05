@@ -1,5 +1,7 @@
 # morpheme
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/morpheme.md)
+
 <p><span class="chinese">义素脱落是一种语境义变现象。</span><span class="english">Morpheme absorption is a form of semantic deviations.</span></p>
 
 <p><span class="chinese">词素是形态学研究的最基本的单位。</span><span class="english">Morpheme is the basic unit in the study of morphology.</span></p>

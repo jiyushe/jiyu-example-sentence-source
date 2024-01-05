@@ -1,5 +1,7 @@
 # blitzkrieg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blitzkrieg.md)
+
 <p><span class="chinese">闪电战不再有精度惩罚。</span><span class="english">Axis Blitzkrieg no longer gives accuracy penalty.</span></p>
 
 <p><span class="chinese">中比利时在1940年再次被德国入侵。</span><span class="english">Belgium was again invaded by Germany in 1940 during the blitzkrieg offensive.</span></p>

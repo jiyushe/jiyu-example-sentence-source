@@ -1,5 +1,7 @@
 # 契机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiji_1.md)
+
 <p><span class="chinese">这是一个学习的真正契机。</span><span class="english">This is a real chance to learn.</span></p>
 
 <p><span class="chinese">每一场考试都是人生的契机。</span><span class="english">Every examination is a chance in life.</span></p>

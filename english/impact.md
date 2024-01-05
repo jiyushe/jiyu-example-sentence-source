@@ -1,5 +1,7 @@
 # impact
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impact.md)
+
 <p><span class="chinese">受到过摔打或者撞击。</span><span class="english">By beating or impact.</span></p>
 
 <p><span class="chinese">它的影响可能是巨大的。</span><span class="english">Its impact could be huge.</span></p>

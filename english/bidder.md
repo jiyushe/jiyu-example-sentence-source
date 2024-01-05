@@ -1,5 +1,7 @@
 # bidder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bidder.md)
+
 <p><span class="chinese">一位匿名竞拍者。</span><span class="english">An anonymous bidder.</span></p>
 
 <p><span class="chinese">他们将照片出售给出价最高者。</span><span class="english">They sold photos to the highest bidder.</span></p>

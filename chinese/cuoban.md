@@ -1,5 +1,7 @@
 # 搓板
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuoban.md)
+
 <p><span class="chinese">尽管有过两个孩子，她的肚子是搓板持平。</span><span class="english">Despite having had two children, her stomach is washboard flat.</span></p>
 
 <p><span class="chinese">文章介绍钢板表面产生的一种搓板状裂纹。</span><span class="english">A kind of washboard-like crack on steel plate surface is introduced.</span></p>

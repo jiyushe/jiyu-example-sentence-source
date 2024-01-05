@@ -1,5 +1,7 @@
 # 百宝箱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baibaoxiang.md)
+
 <p><span class="chinese">它是具有无限潜力的医药百宝箱。</span><span class="english">It is a medicine chest of unlimited potential.</span></p>
 
 <p><span class="chinese">我将是世界上最美丽的百宝箱。</span><span class="english">I'll be the most beautiful treasure chest in the world!</span></p>

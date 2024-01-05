@@ -1,5 +1,7 @@
 # frankness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frankness.md)
+
 <p><span class="chinese">我佩服你的豪侠。</span><span class="english">I admire your frankness.</span></p>
 
 <p><span class="chinese">我钦佩你的直率。</span><span class="english">I admire your frankness.</span></p>

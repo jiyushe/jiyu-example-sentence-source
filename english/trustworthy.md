@@ -1,5 +1,7 @@
 # trustworthy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trustworthy.md)
+
 <p><span class="chinese">绅士应该值得信赖</span><span class="english">A gentleman must be trustworthy.</span></p>
 
 <p><span class="chinese">哪一种货币是更可靠的？</span><span class="english">Which currency is more trustworthy?</span></p>

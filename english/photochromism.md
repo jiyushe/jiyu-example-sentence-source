@@ -1,5 +1,7 @@
 # photochromism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photochromism.md)
+
 <p><span class="chinese">对自由基的生成和变色机理做了较为细致的介绍。</span><span class="english">Mechanism of reaction and photochromism of the radical is also introduced.</span></p>
 
 <p><span class="chinese">因此，在测试偶氮化合物光致变色性质时要避免热的干扰作用。</span><span class="english">So it was necessary to avoid the interference of thermal energy when test azo compound's photochromism.</span></p>

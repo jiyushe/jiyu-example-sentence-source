@@ -1,5 +1,7 @@
 # 逆水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nishui_2.md)
+
 <p><span class="chinese">我们逆水划船。</span><span class="english">We were rowing against the current.</span></p>
 
 <p><span class="chinese">逆风逆水，走，也去庆祝。</span><span class="english">When things are going well, celebrate.</span></p>

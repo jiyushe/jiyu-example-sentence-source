@@ -1,5 +1,7 @@
 # 资政
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zizheng.md)
+
 <p><span class="chinese">直至2011年，李光耀辞去“内阁资政”一职。</span><span class="english">He resigned as "Minister Mentor" in 2011.</span></p>
 
 <p><span class="chinese">这同资政的观察是完全相符的。</span><span class="english">This observation is consistent with Mr Lees.</span></p>

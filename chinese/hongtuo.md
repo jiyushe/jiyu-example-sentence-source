@@ -1,5 +1,7 @@
 # 烘托
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongtuo.md)
+
 <p><span class="chinese">烧烤烟熏烘托出来的烧烤香气，风味特别。</span><span class="english">Extraordinary Barbecued flavor from the smoking process.</span></p>
 
 <p><span class="chinese">他在幻灯片中采用了高质量的图片，设计了震撼的视觉效果来烘托Gore本人和他的演讲内容。</span><span class="english">His slide images are photographic imagery of high quality.</span></p>

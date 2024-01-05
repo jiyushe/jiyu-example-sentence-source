@@ -1,5 +1,7 @@
 # readable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/readable.md)
+
 <p><span class="chinese">这种标记是可以供计算机读取的。</span><span class="english">This is computer readable.</span></p>
 
 <p><span class="chinese">这是本非常易读的书</span><span class="english">This one is very readable.</span></p>

@@ -1,5 +1,7 @@
 # conformably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conformably.md)
+
 <p><span class="chinese">实施统一授信是控制信贷风险的重要手段。</span><span class="english">Awarding credit conformably is an important method to control credit risk.</span></p>
 
 <p><span class="chinese">传统的关联规则挖掘算法对更新的数据集按平等一致的方式加以处理。</span><span class="english">The date-set are managed equally and conformably in the traditional association rule mining algorithm.</span></p>

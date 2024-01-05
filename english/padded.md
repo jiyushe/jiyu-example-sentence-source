@@ -1,5 +1,7 @@
 # padded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/padded.md)
+
 <p><span class="chinese">你们有没有棉衣卖？</span><span class="english">Do You Carry Any Padded Coat?</span></p>
 
 <p><span class="chinese">我认为他们浮报了开销。</span><span class="english">I think they padded the bill.</span></p>

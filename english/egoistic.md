@@ -1,5 +1,7 @@
 # egoistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/egoistic.md)
+
 <p><span class="chinese">一个自我中心的人不能爱，因为爱使人平等。</span><span class="english">An egoistic person cannot love because love equalizes.</span></p>
 
 <p><span class="chinese">的确，我们这一代的人，好像个个都太精明了。</span><span class="english">Indeed, many people in our generation seem too egoistic.</span></p>

@@ -1,5 +1,7 @@
 # recitation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recitation.md)
+
 <p><span class="chinese">然后你们去上背诵课。</span><span class="english">Then you go to recitation.</span></p>
 
 <p><span class="chinese">叙事歌谣、颂诗等的背诵。</span><span class="english">The recitation of a ballad, an ode, etc.</span></p>

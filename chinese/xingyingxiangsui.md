@@ -1,5 +1,7 @@
 # 形影相随
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingyingxiangsui.md)
+
 <p><span class="chinese">就从1953年那个热天开始，它就与我形影相随了。</span><span class="english">From that hot day in 1953, he became my shadow.</span></p>
 
 <p><span class="chinese">高失业率和高犯罪率经常形影相随。</span><span class="english">High unemployment and high crime often go hand in hand.</span></p>

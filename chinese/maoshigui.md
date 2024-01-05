@@ -1,5 +1,7 @@
 # 冒失鬼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maoshigui.md)
+
 <p><span class="chinese">别作冒失鬼，请戴安全帽。</span><span class="english">Don't be rash, wear the helmet.</span></p>
 
 <p><span class="chinese">他是个很危险的冒失鬼。</span><span class="english">He is a very dangerous loose cannon.</span></p>

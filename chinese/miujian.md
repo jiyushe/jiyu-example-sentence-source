@@ -1,5 +1,7 @@
 # 谬见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miujian.md)
+
 <p><span class="chinese">说照相机绝不骗人，这是谬见。</span><span class="english">It is a fallacy to say that the camera never lies.</span></p>
 
 <p><span class="chinese">邪说和谬见的崩溃造成了光明。</span><span class="english">The crumbling away of prejudices and errors causes light.</span></p>

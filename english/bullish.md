@@ -1,5 +1,7 @@
 # bullish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bullish.md)
+
 <p><span class="chinese">股市开盘时行情看涨。</span><span class="english">The market opened in a bullish mood.</span></p>
 
 <p><span class="chinese">在我看来，他们有点太乐观了。</span><span class="english">They're a smidgen too bullish for me.</span></p>

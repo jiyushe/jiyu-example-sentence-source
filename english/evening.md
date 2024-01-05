@@ -1,5 +1,7 @@
 # evening
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/evening.md)
+
 <p><span class="chinese">羲，晚上好！</span><span class="english">Good evening !</span></p>
 
 <p><span class="chinese">比如晚间新闻。</span><span class="english">Likethe evening news.</span></p>

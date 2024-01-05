@@ -1,5 +1,7 @@
 # bahamas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bahamas.md)
+
 <p><span class="chinese">新普罗维登斯在巴哈马。</span><span class="english">New Providence is in the Bahamas.</span></p>
 
 <p><span class="chinese">我理想中的极乐是在巴哈马群岛度假一个月。</span><span class="english">My idea of bliss is a month in the Bahamas.</span></p>

@@ -1,5 +1,7 @@
 # synechia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synechia.md)
+
 <p><span class="chinese">所有患眼均有不同程度之瞳孔异位及周边前黏连。</span><span class="english">Variable degree of corectopia and peripheral anterior synechia occurred in all eyes.</span></p>
 
 <p><span class="chinese">并发症有虹膜嵌顿、术后低眼压、虹膜周边前粘连等。</span><span class="english">Complications include iris prolapse, hypotony, and peripheral anterior synechia of iris.</span></p>

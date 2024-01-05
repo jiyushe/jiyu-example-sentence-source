@@ -1,5 +1,7 @@
 # disavowal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disavowal.md)
+
 <p><span class="chinese">否认疼痛是有确实根据的。</span><span class="english">Disavowal of pain is valid.</span></p>
 
 <p><span class="chinese">你的推卸是由一种误解造成的。</span><span class="english">Your disavowal is informed by a misunderstanding.</span></p>

@@ -1,5 +1,7 @@
 # legitimise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legitimise.md)
+
 <p><span class="chinese">它们的功能是为政府的决策签字，让其合法化。</span><span class="english">Their function is to endorse and legitimise decisions made by the Kremlin.</span></p>
 
 <p><span class="chinese">实践上如何不得而知，但反对派却担心，暴民控制也可能会合法化。</span><span class="english">How it would work in practice is unclear, but critics fear that it will legitimise mob rule.</span></p>

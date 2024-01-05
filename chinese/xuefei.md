@@ -1,5 +1,7 @@
 # 学费
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuefei.md)
+
 <p><span class="chinese">学费可能也是一个障碍。</span><span class="english">Tuition can be a barrier.</span></p>
 
 <p><span class="chinese">已缴学费不能退还。</span><span class="english">No tuition will be refunded.</span></p>

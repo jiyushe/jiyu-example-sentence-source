@@ -1,5 +1,7 @@
 # leonard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leonard.md)
+
 <p><span class="chinese">伦纳德亲吻着她。</span><span class="english">Leonard was kissing her.</span></p>
 
 <p><span class="chinese">出版哈尔伦纳德。</span><span class="english">Published by Hal Leonard.</span></p>

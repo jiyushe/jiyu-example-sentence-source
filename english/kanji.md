@@ -1,5 +1,7 @@
 # kanji
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kanji.md)
+
 <p><span class="chinese">另外也有汉字小考。</span><span class="english">There are also a few Kanji quizzes.</span></p>
 
 <p><span class="chinese">抱歉我用平假名，我从没学过日文汉字。</span><span class="english">Sorry I use hiragana. I never study kanji.</span></p>

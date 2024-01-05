@@ -1,5 +1,7 @@
 # 显然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianran.md)
+
 <p><span class="chinese">显然如此。</span><span class="english">Apparently.</span></p>
 
 <p><span class="chinese">可显然Varga是。</span><span class="english">Varga clearly is.</span></p>

@@ -1,5 +1,7 @@
 # cognize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cognize.md)
+
 <p><span class="chinese">我们必须认识路线。</span><span class="english">Following our spray baths, we must cognize the route.</span></p>
 
 <p><span class="chinese">人类通过其他具体概念来认知时间这一抽象概念。</span><span class="english">We cognize the abstract idea of time by concrete concepts.</span></p>

@@ -1,5 +1,7 @@
 # 火山锥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoshanzhui.md)
+
 <p><span class="chinese">熔岩从一个新坑洞内喷出。特纳火山锥在意大利西西里。</span><span class="english">Lava spews from a new cone on Mount Etna in Sicily, Italy.</span></p>
 
 <p><span class="chinese">这些火山锥在大小和形状上与在冰岛发现的火山锥颇为相似。</span><span class="english">These cones are similar in size and shape to cones found in Iceland.</span></p>

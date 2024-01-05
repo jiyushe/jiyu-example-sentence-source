@@ -1,5 +1,7 @@
 # 军区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junqu.md)
+
 <p><span class="chinese">类似的事件也发生在其他的军区。</span><span class="english">Similar incidents occurred in other military commands.</span></p>
 
 <p><span class="chinese">那位老人曾经在晋察冀军区工作。</span><span class="english">The old man used to work in the jin-Cha-Ji Military District.</span></p>

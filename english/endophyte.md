@@ -1,5 +1,7 @@
 # endophyte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endophyte.md)
+
 <p><span class="chinese">植物内生菌是天然药物的重要来源。</span><span class="english">Endophyte is an important resource of natural drugs.</span></p>
 
 <p><span class="chinese">内生植物是明显地被起源于寄生植物的膜包围的。</span><span class="english">The endophyte is surrounded by a membrane of apparent host plant origin.</span></p>

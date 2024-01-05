@@ -1,5 +1,7 @@
 # whenever 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whenever_1.md)
+
 <p><span class="chinese">无论你在哪，都要会寻找乐趣。</span><span class="english">Make fun whenever you are.</span></p>
 
 <p><span class="chinese">你随时都可以到我家来作客。</span><span class="english">Visit us whenever you can.</span></p>

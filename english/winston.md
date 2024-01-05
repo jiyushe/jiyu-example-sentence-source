@@ -1,5 +1,7 @@
 # winston
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/winston.md)
+
 <p><span class="chinese">温斯顿•丘吉尔是个铁腕人物。</span><span class="english">Winston Churchill was an iron-handed person.</span></p>
 
 <p><span class="chinese">比尔巴温斯顿·丘吉尔模仿得惟妙惟肖。</span><span class="english">Bill took off Winston Churchill to perfection.</span></p>

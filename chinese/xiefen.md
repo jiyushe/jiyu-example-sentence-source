@@ -1,5 +1,7 @@
 # 泄愤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiefen.md)
+
 <p><span class="chinese">这位老板继续说道，“那样顾客们就不会向家里泄愤。”</span><span class="english">"That way they won't let it out on their family, " he said.</span></p>
 
 <p><span class="chinese">画面中一个男人很挫败地对着一堵墙泄愤。</span><span class="english">In this picture a man is frustrated and is angry with a wall.</span></p>

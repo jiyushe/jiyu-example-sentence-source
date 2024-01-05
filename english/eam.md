@@ -1,5 +1,7 @@
 # eam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eam.md)
+
 <p><span class="chinese">这些工具应该放在什么地方?。</span><span class="english">Where eam I to put these tools?</span></p>
 
 <p><span class="chinese">全球EAM市场是否成长？</span><span class="english">Is the global EAM market growing?</span></p>

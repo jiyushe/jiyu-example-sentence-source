@@ -1,5 +1,7 @@
 # prawn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prawn.md)
+
 <p><span class="chinese">画一件服装和一只对虾。</span><span class="english">Draw a dress and a prawn.</span></p>
 
 <p><span class="chinese">我们点吉利明虾好吗？</span><span class="english">Shall we order prawn cutlet?</span></p>

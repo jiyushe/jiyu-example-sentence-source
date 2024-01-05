@@ -1,5 +1,7 @@
 # format
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/format.md)
+
 <p><span class="chinese">注意格式。</span><span class="english">Notice the format.</span></p>
 
 <p><span class="chinese">接下来，格式化磁盘。</span><span class="english">Next, format the disk.</span></p>

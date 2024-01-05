@@ -1,5 +1,7 @@
 # subaltern
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subaltern.md)
+
 <p><span class="chinese">此外，斯皮瓦克还指出了属下不能被代言的问题。</span><span class="english">Spivak also points out that the Subaltern cannot be spoken for.</span></p>
 
 <p><span class="chinese">还有，因此，一个中尉的官员和工作人员的各种文士。</span><span class="english">There is, therefore, a staff of subaltern officials and scribes of all sorts.</span></p>

@@ -1,5 +1,7 @@
 # graininess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/graininess.md)
+
 <p><span class="chinese">为什么药分有粒状。液状和粉状呢?。</span><span class="english">Why medical cent has graininess. Fluid shape and farinaceous ?</span></p>
 
 <p><span class="chinese">在拍摄速度更快或放大程度越高的情况下颗粒状也更明显。</span><span class="english">Graininess becomes more pronounced with faster film and the degree of enlargement.</span></p>

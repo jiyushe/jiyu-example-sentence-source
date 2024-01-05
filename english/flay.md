@@ -1,5 +1,7 @@
 # flay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flay.md)
+
 <p><span class="chinese">我要活剥他的皮。</span><span class="english">I'll flay him alive.</span></p>
 
 <p><span class="chinese">加拿大国旗是什么颜色的。</span><span class="english">What colour is Canada's flay ?</span></p>

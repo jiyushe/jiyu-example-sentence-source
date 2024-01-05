@@ -1,5 +1,7 @@
 # dcc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dcc.md)
+
 <p><span class="chinese">DCC服务器可以交换常用的校验和。</span><span class="english">DCC servers can exchange common checksums.</span></p>
 
 <p><span class="chinese">本试验应用DCC法对水牛瘤胃细菌进行测定。</span><span class="english">The DCC method was used to study the rumen bacteria of water buffalo.</span></p>

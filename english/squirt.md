@@ -1,5 +1,7 @@
 # squirt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/squirt.md)
+
 <p><span class="chinese">首先他们向身体喷出一鼻子的冷水。</span><span class="english">First they squirt a trunkful of cool water over their bodies.</span></p>
 
 <p><span class="chinese">看一看海鞘的基因组，你会感到讨厌和惊奇。</span><span class="english">LOOK at the genome of a sea squirt and you'll get a nasty surprise.</span></p>

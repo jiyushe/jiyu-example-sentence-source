@@ -1,5 +1,7 @@
 # manet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manet.md)
+
 <p><span class="chinese">但他当时不在巴黎</span><span class="english">Manet wasn't there.</span></p>
 
 <p><span class="chinese">在MANET的拓扑中，节点可以任意移动。</span><span class="english">MANET is a network where nodes can move arbitrarily in the topology.</span></p>

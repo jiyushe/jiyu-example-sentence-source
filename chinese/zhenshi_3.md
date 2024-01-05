@@ -1,5 +1,7 @@
 # 诊室
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenshi_3.md)
+
 <p><span class="chinese">请在诊室外候诊。</span><span class="english">Please wait outside consulting room.</span></p>
 
 <p><span class="chinese">一个男人走进一间诊室，里面挤满了人。</span><span class="english">A man walked into a crowded doctor's office.</span></p>

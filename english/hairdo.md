@@ -1,5 +1,7 @@
 # hairdo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hairdo.md)
+
 <p><span class="chinese">我剪了一个新发型。</span><span class="english">I have a new hairdo.</span></p>
 
 <p><span class="chinese">包括余秋雨的发型。</span><span class="english">Including Yu Qiuyu's hairdo.</span></p>

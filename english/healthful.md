@@ -1,5 +1,7 @@
 # healthful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/healthful.md)
+
 <p><span class="chinese">你对健康的气候感兴趣吗？</span><span class="english">Do healthful climates interest you?</span></p>
 
 <p><span class="chinese">金花茶饮料是极其有益人体健康的饮品。</span><span class="english">Golden Camellia Tea is a very healthful drink.</span></p>

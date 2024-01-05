@@ -1,5 +1,7 @@
 # unification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unification.md)
+
 <p><span class="chinese">社会高度统一前期不可这么行事。</span><span class="english">Social unification prophase not so act.</span></p>
 
 <p><span class="chinese">第二个，统一于团结。</span><span class="english">Second, unification on the basis of unity.</span></p>

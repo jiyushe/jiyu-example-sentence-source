@@ -1,5 +1,7 @@
 # wakeful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wakeful.md)
+
 <p><span class="chinese">一只醒着的跳蚤，咬了老鼠。</span><span class="english">A wakeful flea, who bites the mouse.</span></p>
 
 <p><span class="chinese">卫兵们通宵都警惕地戒备着，以防遭到袭击。</span><span class="english">The guards were wakeful all night in case of attack.</span></p>

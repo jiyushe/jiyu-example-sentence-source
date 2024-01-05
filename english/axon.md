@@ -1,5 +1,7 @@
 # axon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/axon.md)
+
 <p><span class="chinese">一个神经元只有一个轴突。</span><span class="english">A neuron has only one axon.</span></p>
 
 <p><span class="chinese">而突起中还有一个称为轴突的特殊突起</span><span class="english">One of these processes, a special one is called the axon.</span></p>

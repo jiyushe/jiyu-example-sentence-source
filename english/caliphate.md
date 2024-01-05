@@ -1,5 +1,7 @@
 # caliphate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caliphate.md)
+
 <p><span class="chinese">直到661年这里一直是正统哈里发帝国的中心，后来被大马士革的伍麦叶帝国取代。</span><span class="english">It was the center of the orthodox caliphate until 661, when the Umayyad caliphate, ruling from Damascus, took over.</span></p>
 
 <p><span class="chinese">他废除了伊斯兰王权并彻底改革司法制度，建立了严格的政教分离。</span><span class="english">He abolished the caliphate and gutted the country’s legal system, instituting a strict separation of church and state.</span></p>

@@ -1,5 +1,7 @@
 # midtown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/midtown.md)
+
 <p><span class="chinese">我最喜欢市中心的现代艺术博物馆。</span><span class="english">My favorite is the Museum of Modern Arts in Midtown.</span></p>
 
 <p><span class="chinese">我去年还在市中心的麦迪逊大道上撞见她。</span><span class="english">I ran into her last year on Madison Avenue in midtown.</span></p>

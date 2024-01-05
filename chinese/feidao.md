@@ -1,5 +1,7 @@
 # 飞刀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feidao.md)
+
 <p><span class="chinese">他的必杀绝技是飞刀。</span><span class="english">He is deadly with a blade.</span></p>
 
 <p><span class="chinese">小李飞刀，招无虚发！</span><span class="english">Li's flying knife never lose the aim!</span></p>

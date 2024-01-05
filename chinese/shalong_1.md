@@ -1,5 +1,7 @@
 # 纱笼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shalong_1.md)
+
 <p><span class="chinese">“沙龙”还是“纱笼”?。</span><span class="english">Salon or Sarong?</span></p>
 
 <p><span class="chinese">在亚洲，纱笼是旅徒的挚友！</span><span class="english">In Asia, sarongs are a traveler's best friend!</span></p>

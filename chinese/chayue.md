@@ -1,5 +1,7 @@
 # 查阅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chayue.md)
+
 <p><span class="chinese">查阅Facebook。</span><span class="english">Checking Facebook.</span></p>
 
 <p><span class="chinese">你应该查阅一下报纸。</span><span class="english">You should see in the paper.</span></p>

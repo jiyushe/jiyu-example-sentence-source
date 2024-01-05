@@ -1,5 +1,7 @@
 # exposed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exposed.md)
+
 <p><span class="chinese">露在外面的铁会生锈的。</span><span class="english">Exposed iron will rust.</span></p>
 
 <p><span class="chinese">沙天使是否易受伤害？</span><span class="english">Is the sand angel too exposed?</span></p>

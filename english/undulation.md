@@ -1,5 +1,7 @@
 # undulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undulation.md)
+
 <p><span class="chinese">手在体侧时可让身体的波动更容易些。</span><span class="english">The hands at the sides allow for easier body undulation.</span></p>
 
 <p><span class="chinese">倘若你肯将一个波浪起伏的绝技传授给我。</span><span class="english">Would you the undulation of one wave, its trick to me transfer.</span></p>

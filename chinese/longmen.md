@@ -1,5 +1,7 @@
 # 龙门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/longmen.md)
+
 <p><span class="chinese">可是到了这龙门古镇。</span><span class="english">But here in this ancient town, Longmen.</span></p>
 
 <p><span class="chinese">龙门人都是非常热情的。</span><span class="english">Longmen's villagers are very warmhearted.</span></p>

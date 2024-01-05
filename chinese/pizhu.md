@@ -1,5 +1,7 @@
 # 批注
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pizhu.md)
+
 <p><span class="chinese">每页边上都有批注。</span><span class="english">There are notes in the margin on every page.</span></p>
 
 <p><span class="chinese">你还可以通过手机批注和上传图片。</span><span class="english">The ability submit notes and images by phone.</span></p>

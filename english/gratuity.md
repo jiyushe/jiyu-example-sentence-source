@@ -1,5 +1,7 @@
 # gratuity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gratuity.md)
+
 <p><span class="chinese">你为什麽没收小费？</span><span class="english">Why didn't you accept the gratuity?</span></p>
 
 <p><span class="chinese">坐出租车也不需要给小费。</span><span class="english">Gratuity is not expected in taxicabs.</span></p>

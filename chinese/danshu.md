@@ -1,5 +1,7 @@
 # 但书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danshu.md)
+
 <p><span class="chinese">但书就像猫一样，有九条命。</span><span class="english">But books, like cats, have nine lives.</span></p>
 
 <p><span class="chinese">但书，你可以随时随地的翻阅。</span><span class="english">You can read a book anywhere, any time.</span></p>

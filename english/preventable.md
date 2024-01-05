@@ -1,5 +1,7 @@
 # preventable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preventable.md)
+
 <p><span class="chinese">原发性癫痫无法进行预防。</span><span class="english">Idiopathic epilepsy is not preventable.</span></p>
 
 <p><span class="chinese">疟疾是既可预防又可治愈的。</span><span class="english">Malaria is both preventable and curable.</span></p>

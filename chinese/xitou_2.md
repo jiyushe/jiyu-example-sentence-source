@@ -1,5 +1,7 @@
 # 西头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xitou_2.md)
+
 <p><span class="chinese">他家住在村子尽西头。</span><span class="english">He lives at the western end of the village.</span></p>
 
 <p><span class="chinese">每天下午，伯尔尼城的居民集合在克拉姆街西头。</span><span class="english">Every afternoon, the townspeople of Berne convene at the west end of Kramgasse.</span></p>

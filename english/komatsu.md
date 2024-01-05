@@ -1,5 +1,7 @@
 # komatsu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/komatsu.md)
+
 <p><span class="chinese">该系统将很快在位于日本中部的小松空军基地投入使用。</span><span class="english">The system will soon be operational at Komatsu Air Base in central Japan.</span></p>
 
 <p><span class="chinese">它会步小松和沃尔沃的后尘在美国生产装备吗？</span><span class="english">Might it make equipment in the U.S., following the paths of Komatsu and Volvo?</span></p>

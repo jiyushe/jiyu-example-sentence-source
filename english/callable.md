@@ -1,5 +1,7 @@
 # callable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/callable.md)
+
 <p><span class="chinese">返回当前设置地应用回调。</span><span class="english">Returns the currently-set application callable.</span></p>
 
 <p><span class="chinese">取出一个可调用内建类型的参数类型。</span><span class="english">Extracts the parameter types of a callable , builtin type.</span></p>

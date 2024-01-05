@@ -1,5 +1,7 @@
 # 风韵犹存
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengyunyoucun.md)
+
 <p><span class="chinese">即使上了年纪，她仍然风韵犹存。</span><span class="english">Shekept her looks even in her old age.</span></p>
 
 <p><span class="chinese">现在我们来细数一下那些过了40岁仍然风韵犹存的的成功女性。</span><span class="english">Here are 10 Sexy Ladies Over 40 Who Still Got It.</span></p>

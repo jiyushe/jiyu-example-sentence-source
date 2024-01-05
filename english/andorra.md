@@ -1,5 +1,7 @@
 # andorra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/andorra.md)
+
 <p><span class="chinese">内陆小国家，安道尔共和国。</span><span class="english">The tiny landlocked nation of Andorra.</span></p>
 
 <p><span class="chinese">两个月以后，他拖着脚镣手铐来到了安道尔的一座监狱。</span><span class="english">Two months later, in shackles, he arrived at a prison in Andorra.</span></p>

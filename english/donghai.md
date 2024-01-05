@@ -1,5 +1,7 @@
 # donghai
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/donghai.md)
+
 <p><span class="chinese">欢迎各位游览东海世界公园。</span><span class="english">Welcome to the Donghai World Park.</span></p>
 
 <p><span class="chinese">今天我们去游览湛江的东海岛。</span><span class="english">Today I take you to Donghai Island.</span></p>

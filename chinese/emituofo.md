@@ -1,5 +1,7 @@
 # 阿弥陀佛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/emituofo.md)
+
 <p><span class="chinese">右为西方世界阿弥陀佛。</span><span class="english">Right is Western world Amida Buddha.</span></p>
 
 <p><span class="chinese">得闻阿弥陀佛名号。</span><span class="english">Who hear the Name of Amitabha Buddha.</span></p>

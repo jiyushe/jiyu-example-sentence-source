@@ -1,5 +1,7 @@
 # hg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hg.md)
+
 <p><span class="chinese">汞齐是金属在液态汞中的溶液。</span><span class="english">An amalgan is a solution of a metal in liquid Hg.</span></p>
 
 <p><span class="chinese">水氡与水汞的动态可能有一定影响，但影响幅度不大。</span><span class="english">The influence on water radon and Hg are not important.</span></p>

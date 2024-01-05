@@ -1,5 +1,7 @@
 # cockeyed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cockeyed.md)
+
 <p><span class="chinese">这世界一切都是疯狂的。</span><span class="english">The world is all going cockeyed.</span></p>
 
 <p><span class="chinese">谁以为我说着玩谁就是疯了。</span><span class="english">Anybody who thinks Im kidding is cockeyed.</span></p>

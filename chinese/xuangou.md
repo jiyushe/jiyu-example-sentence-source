@@ -1,5 +1,7 @@
 # 选购
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuangou.md)
+
 <p><span class="chinese">感谢您选购倍轻松产品。</span><span class="english">Thank you for purchasing Breo.</span></p>
 
 <p><span class="chinese">如何选购木屑颗粒机?。</span><span class="english">How to choose wood pellet machine?</span></p>

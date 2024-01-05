@@ -1,5 +1,7 @@
 # undefended
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undefended.md)
+
 <p><span class="chinese">在他面前，自己是从不设防的。</span><span class="english">In front of him, own are from undefended.</span></p>
 
 <p><span class="chinese">在他面前，自己是从不设防的。</span><span class="english">In front of him , he comes from undefended.</span></p>

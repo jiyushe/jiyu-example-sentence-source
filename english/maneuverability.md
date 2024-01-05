@@ -1,5 +1,7 @@
 # maneuverability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maneuverability.md)
+
 <p><span class="chinese">这种车轮也提供了难以置信的操控性。</span><span class="english">The wheels also enable incredible maneuverability.</span></p>
 
 <p><span class="chinese">享受乘坐上的便利和伟大的机动性。</span><span class="english">Enjoy ride-on convenience and great maneuverability.</span></p>

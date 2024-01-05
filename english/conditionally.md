@@ -1,5 +1,7 @@
 # conditionally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conditionally.md)
+
 <p><span class="chinese">而这些页面部分又可以有条件地拉出数据。</span><span class="english">These page sections in turn can conditionally pull data.</span></p>
 
 <p><span class="chinese">自动化的或有条件的标准任务调度</span><span class="english">Scheduling of standard tasks automatically or conditionally</span></p>

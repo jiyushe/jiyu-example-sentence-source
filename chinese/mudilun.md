@@ -1,5 +1,7 @@
 # 目的论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mudilun.md)
+
 <p><span class="chinese">目的论给自由留下了空间吗？</span><span class="english">What room does teleology leave for freedom?</span></p>
 
 <p><span class="chinese">这就是目的论推理的一个例子。</span><span class="english">This is an example of teleological reasoning.</span></p>

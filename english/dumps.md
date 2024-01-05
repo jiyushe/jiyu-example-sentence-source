@@ -1,5 +1,7 @@
 # dumps
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dumps.md)
+
 <p><span class="chinese">它将表转储为一种可读的格式。</span><span class="english">It dumps tables into a readable format.</span></p>
 
 <p><span class="chinese">米基这些天的确有些闷闷不乐。</span><span class="english">Miki is sure down in the dumps these days.</span></p>

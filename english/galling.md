@@ -1,5 +1,7 @@
 # galling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/galling.md)
+
 <p><span class="chinese">这家伙的傲慢目光令人恼怒。</span><span class="english">The insolence in the fellow's eye was galling.</span></p>
 
 <p><span class="chinese">我是担心我们打败她令她下不来台吗？</span><span class="english">Are you worried we beat her to make her galling?</span></p>

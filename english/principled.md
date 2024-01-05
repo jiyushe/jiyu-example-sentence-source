@@ -1,5 +1,7 @@
 # principled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/principled.md)
+
 <p><span class="chinese">对这些人而言，非暴力是一项原则。</span><span class="english">They followed the way of principled nonviolence.</span></p>
 
 <p><span class="chinese">在美国，美国公司需要采取有原则的立场。</span><span class="english">And in America, American companies need to make a principled stand.</span></p>

@@ -1,5 +1,7 @@
 # brightly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brightly.md)
+
 <p><span class="chinese">我爽朗的告诉他。</span><span class="english">I told him brightly.</span></p>
 
 <p><span class="chinese">她笑得很甜。</span><span class="english">She smiles brightly.</span></p>

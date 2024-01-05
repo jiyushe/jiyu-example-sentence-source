@@ -1,5 +1,7 @@
 # 身临其境
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenlinqijing.md)
+
 <p><span class="chinese">这六天对儿童来说是一个身临其境的体验。</span><span class="english">It's a six-day immersive experience for the kids.</span></p>
 
 <p><span class="chinese">在不远的未来你也可以身临其境。</span><span class="english">They’ll be coming your way in the not-too-distant future.</span></p>

@@ -1,5 +1,7 @@
 # shard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shard.md)
+
 <p><span class="chinese">采取从芋上角的碎片。</span><span class="english">Take the SHARD from the left corner.</span></p>
 
 <p><span class="chinese">似乎有锋利的冰碴刺中了哈利的心。</span><span class="english">A shard of ice seemed to pierce Harry's heart.</span></p>

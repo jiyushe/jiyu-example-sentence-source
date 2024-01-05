@@ -1,5 +1,7 @@
 # 大吃一惊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dachiyijing.md)
+
 <p><span class="chinese">我知道你会对此大吃一惊。</span><span class="english">I know, it's a shocker.</span></p>
 
 <p><span class="chinese">你会觉得大吃一惊？</span><span class="english">Would you be flabbergasted?</span></p>

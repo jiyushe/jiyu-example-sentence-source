@@ -1,5 +1,7 @@
 # 蹊跷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiqiao_1.md)
+
 <p><span class="chinese">一名天真的孩子在一个客栈蹊跷地死了。</span><span class="english">An innocent child died oddly in an inn.</span></p>
 
 <p><span class="chinese">觉得有点蹊跷，我走了进去。</span><span class="english">Thinking that was a bit odd, I went in.</span></p>

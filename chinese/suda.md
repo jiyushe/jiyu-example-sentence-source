@@ -1,5 +1,7 @@
 # 苏打
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suda.md)
+
 <p><span class="chinese">乡下佬只有饮食橘色的苏打！?！?。</span><span class="english">Jake only has diet orange soda! ?! ?</span></p>
 
 <p><span class="chinese">你是要苏打威士忌还是鸡尾酒？</span><span class="english">Second, there is the highball glass.</span></p>

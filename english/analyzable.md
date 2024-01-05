@@ -1,5 +1,7 @@
 # analyzable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/analyzable.md)
+
 <p><span class="chinese">从本质上来说，它都具有更强的可分析性。</span><span class="english">It's inherently more analyzable.</span></p>
 
 <p><span class="chinese">结构主义者充分分析语言的梦想破灭了。</span><span class="english">The structuralist dream of a fully analyzable language is now lost.</span></p>

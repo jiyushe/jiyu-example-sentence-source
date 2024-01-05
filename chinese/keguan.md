@@ -1,5 +1,7 @@
 # 可观
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keguan.md)
+
 <p><span class="chinese">损失可观。</span><span class="english">The losses are considerable.</span></p>
 
 <p><span class="chinese">这个数目相当可观。</span><span class="english">This is a considerable figure.</span></p>

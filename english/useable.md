@@ -1,5 +1,7 @@
 # useable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/useable.md)
+
 <p><span class="chinese">但是它们可以提供可用的光学和红外数据。</span><span class="english">But they can produce useable optical and infrared data.</span></p>
 
 <p><span class="chinese">这些二手的电脑零件还可以使用。</span><span class="english">These second-hand computer components are still useable.</span></p>

@@ -1,5 +1,7 @@
 # 总长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongzhang.md)
+
 <p><span class="chinese">截至2009年年底，中国地铁总长已达933公里。</span><span class="english">China's subway reaches 933 km in 2009.</span></p>
 
 <p><span class="chinese">是暴风族“小鸟丸”的总长。</span><span class="english">Storm family is " birdie pill" the chief.</span></p>

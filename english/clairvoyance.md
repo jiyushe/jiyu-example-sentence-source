@@ -1,5 +1,7 @@
 # clairvoyance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clairvoyance.md)
+
 <p><span class="chinese">预知是超视力的一种形式。</span><span class="english">Precognition is a form of clairvoyance.</span></p>
 
 <p><span class="chinese">预知是超人的洞察力的一种形式。</span><span class="english">Precognition is a form of clairvoyance.</span></p>

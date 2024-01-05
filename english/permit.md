@@ -1,5 +1,7 @@
 # permit 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/permit.md)
+
 <p><span class="chinese">交纳签证费。</span><span class="english">Pays the permit fee.</span></p>
 
 <p><span class="chinese">决不允许这个画面消逝。</span><span class="english">Never permit it to fade.</span></p>

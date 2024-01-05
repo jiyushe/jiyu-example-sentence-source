@@ -1,5 +1,7 @@
 # 孤独
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gudu_2.md)
+
 <p><span class="chinese">你是孤独的、孤独的，你是一个隐士，你变得不可理喻。</span><span class="english">It is lonely.</span></p>
 
 <p><span class="chinese">孤独地生老病死?。</span><span class="english">To live and die alone?</span></p>

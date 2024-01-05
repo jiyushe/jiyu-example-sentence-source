@@ -1,5 +1,7 @@
 # scepticism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scepticism.md)
+
 <p><span class="chinese">一些专家表示怀疑。</span><span class="english">Some experts have expressed scepticism.</span></p>
 
 <p><span class="chinese">这是休谟关于归纳法最为著名的怀疑论基调。</span><span class="english">And that's the famous Humean scepticism about induction.</span></p>

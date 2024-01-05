@@ -1,5 +1,7 @@
 # 虫草
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongcao.md)
+
 <p><span class="chinese">急性毒性试验测定虫草洋参胶囊的最大耐受量。</span><span class="english">The max dose was measured by the acute toxicity tests.</span></p>
 
 <p><span class="chinese">属于麦角菌目、麦角菌科、虫草属。</span><span class="english">Ergot fungus belonging to orders, ergot fungus Branch, Cordyceps.</span></p>

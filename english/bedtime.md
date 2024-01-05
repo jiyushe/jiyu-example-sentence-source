@@ -1,5 +1,7 @@
 # bedtime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bedtime.md)
+
 <p><span class="chinese">我和你妈妈需要一些自己的时间，我们的就寝时间是9点。</span><span class="english">Bedtime is 9 p.m.</span></p>
 
 <p><span class="chinese">＊临睡前谢绝酒精。</span><span class="english">Avoid alcohol before bedtime.</span></p>

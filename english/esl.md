@@ -1,5 +1,7 @@
 # esl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/esl.md)
+
 <p><span class="chinese">外教是我们生活中一个特别的存在。</span><span class="english">ESL L teacher is a very special existence in our life.</span></p>
 
 <p><span class="chinese">每当我辅导ESL学生时，我总是试着更加耐心点。</span><span class="english">When I help an ESL student, I try to have more patience.</span></p>

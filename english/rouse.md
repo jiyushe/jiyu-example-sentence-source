@@ -1,5 +1,7 @@
 # rouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rouse.md)
+
 <p><span class="chinese">求你兴起，不要永远丢弃我们。</span><span class="english">Rouse yourself! Do not reject us forever.</span></p>
 
 <p><span class="chinese">唤醒了万物--大地微笑，云雀歌唱</span><span class="english">And rouse the earth to smile, and larks to sing</span></p>

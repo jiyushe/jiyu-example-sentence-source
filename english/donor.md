@@ -1,5 +1,7 @@
 # donor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/donor.md)
+
 <p><span class="chinese">他们是器官捐赠者。</span><span class="english">As in organ donor.</span></p>
 
 <p><span class="chinese">它很容易失去电子。</span><span class="english">It's a good electron donor.</span></p>

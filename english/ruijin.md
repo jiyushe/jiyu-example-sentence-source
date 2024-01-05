@@ -1,5 +1,7 @@
 # ruijin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ruijin.md)
+
 <p><span class="chinese">请到瑞金坐一坐。</span><span class="english">Go to take a seat Ruijin.</span></p>
 
 <p><span class="chinese">能告诉我去瑞金医院的路吗?。</span><span class="english">Can you tell me the way to Ruijin Hospital?</span></p>

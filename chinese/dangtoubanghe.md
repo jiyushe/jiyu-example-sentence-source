@@ -1,5 +1,7 @@
 # 当头棒喝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangtoubanghe.md)
+
 <p><span class="chinese">事实上，它们给人当头棒喝。</span><span class="english">In fact, they hit it right on the head.</span></p>
 
 <p><span class="chinese">所以，在一开篇，这第一个原则就来了个当头棒喝。</span><span class="english">And this first principle really starts us off with a bang.</span></p>

@@ -1,5 +1,7 @@
 # loose 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loose.md)
+
 <p><span class="chinese">底脚螺栓松动。</span><span class="english">Foot stud loose.</span></p>
 
 <p><span class="chinese">这个螺丝活动了。</span><span class="english">This screw is loose.</span></p>

@@ -1,5 +1,7 @@
 # 蜃景
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenjing_1.md)
+
 <p><span class="chinese">热气经白色的沙面反射形成了蜃景。</span><span class="english">The heat reflected from the white sand formed a mirage.</span></p>
 
 <p><span class="chinese">各种蜃景都已消失了，他郁闷地用眼睛扫著笔直的、蓝蓝的海平线。</span><span class="english">The mirages had died away and gloomily he ran his eyes along the taut blue line of the horizon.</span></p>

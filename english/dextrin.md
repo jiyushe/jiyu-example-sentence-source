@@ -1,5 +1,7 @@
 # dextrin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dextrin.md)
+
 <p><span class="chinese">糊精具有重要的应用价值。</span><span class="english">Dextrin has essential applied value.</span></p>
 
 <p><span class="chinese">结果优选辅料为糖粉和糊精。</span><span class="english">ResultsThe optimization assistance materials are the sugar and dextrin.</span></p>

@@ -1,5 +1,7 @@
 # 臆想
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yixiang_5.md)
+
 <p><span class="chinese">我一直都有臆想症。</span><span class="english">I've always been a hypochondriac.</span></p>
 
 <p><span class="chinese">你在空中捕捉的又是哪种臆想中的飞鸟？</span><span class="english">And what vaporous birds do you hunt in the sky?</span></p>

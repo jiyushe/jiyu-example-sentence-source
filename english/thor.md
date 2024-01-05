@@ -1,5 +1,7 @@
 # thor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thor.md)
+
 <p><span class="chinese">英勇的狗儿萨米与索�…</span><span class="english">Gallant Canines Sammy and Thor.</span></p>
 
 <p><span class="chinese">神人奥丁，索尔和芙蕾雅。</span><span class="english">The gods were Odin, Thor and Freya.</span></p>

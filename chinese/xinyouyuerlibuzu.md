@@ -1,5 +1,7 @@
 # 心有余而力不足
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinyouyuerlibuzu.md)
+
 <p><span class="chinese">其实，这是满心情愿的事情，只是心有余而力不足。</span><span class="english">In fact, it is full of the mood to do, just fall.</span></p>
 
 <p><span class="chinese">我只能说是心有余而力不足。</span><span class="english">I can only say that our ambition outstrips our ability.</span></p>

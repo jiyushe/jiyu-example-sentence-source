@@ -1,5 +1,7 @@
 # sexism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sexism.md)
+
 <p><span class="chinese">制度化性别歧视在日本遭遇了失败。</span><span class="english">Japan shows the failings of institutionalised sexism.</span></p>
 
 <p><span class="chinese">除了“性别歧视”和“种族歧视”外，现在还应再加一条“相貌歧视”。</span><span class="english">We should add the bias of "lookism" to sexism and racism.</span></p>

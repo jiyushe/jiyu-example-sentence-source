@@ -1,5 +1,7 @@
 # 门庭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/menting.md)
+
 <p><span class="chinese">毕门庭。</span><span class="english">Yadar       Bi Menting.</span></p>
 
 <p><span class="chinese">第三，联读悟写，改换门庭。</span><span class="english">Third, the joint reading of Jones writing changed, but so.</span></p>

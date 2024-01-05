@@ -1,5 +1,7 @@
 # pneumatically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pneumatically.md)
+
 <p><span class="chinese">各机组电动移位，气动锁紧。</span><span class="english">Each machinery group is shifted by electric motion and locked pneumatically.</span></p>
 
 <p><span class="chinese">PET罐通过气动移动单元分配和组合。</span><span class="english">Pneumatically driven shifting units distribute and combine the PET containers.</span></p>

@@ -1,5 +1,7 @@
 # 改锥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaizhui.md)
+
 <p><span class="chinese">他非常善于使用改锥。</span><span class="english">He's very handy with a screwdriver.</span></p>
 
 <p><span class="chinese">这把改锥已经磁化了。</span><span class="english">This screwdriver has been magnetized.</span></p>

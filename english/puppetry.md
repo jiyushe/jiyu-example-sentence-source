@@ -1,5 +1,7 @@
 # puppetry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puppetry.md)
+
 <p><span class="chinese">我不喜欢木偶戏。</span><span class="english">I don't fancy puppetry.</span></p>
 
 <p><span class="chinese">什么，你们想学习木偶戏啊？</span><span class="english">What, you want to learn puppetry?</span></p>

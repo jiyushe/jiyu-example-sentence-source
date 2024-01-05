@@ -1,5 +1,7 @@
 # afterthought
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afterthought.md)
+
 <p><span class="chinese">还是对我只有追思会？</span><span class="english">Would I just be an afterthought?</span></p>
 
 <p><span class="chinese">IBM的比喻演化成一个事后产生的想法。</span><span class="english">IBM metaphor into more than an afterthought.</span></p>

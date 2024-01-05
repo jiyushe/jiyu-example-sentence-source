@@ -1,5 +1,7 @@
 # filings
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/filings.md)
+
 <p><span class="chinese">文件报告了342038性能上个月。</span><span class="english">Filings were reported on 342,038 properties last month.</span></p>
 
 <p><span class="chinese">磁铁产生了磁场，铁屑被磁场的特征所影响。</span><span class="english">Iron filings are affected by characteristics of this eld.</span></p>

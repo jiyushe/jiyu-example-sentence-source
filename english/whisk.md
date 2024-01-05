@@ -1,5 +1,7 @@
 # whisk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whisk.md)
+
 <p><span class="chinese">搅拌鸡蛋和蛋黄。</span><span class="english">Whisk eggs and yolks.</span></p>
 
 <p><span class="chinese">一直搅拌直到巧克力融化。</span><span class="english">Whisk until it's melted.</span></p>

@@ -1,5 +1,7 @@
 # conduction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conduction.md)
+
 <p><span class="chinese">答案是骨头传导科技。</span><span class="english">Bone conduction.</span></p>
 
 <p><span class="chinese">借助分子运动的热的传导。</span><span class="english">The conduction of heat by the movement of molecules.</span></p>

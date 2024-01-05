@@ -1,5 +1,7 @@
 # nosogenesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nosogenesis.md)
+
 <p><span class="chinese">肺癌是当前常见的恶性肿瘤之一，其致病原因也非常复杂。</span><span class="english">Lung cancer is a familiar malignancy currently, the nosogenesis is very complex.</span></p>
 
 <p><span class="chinese">局部神经营养因子的异常变化是糖尿病性周围神经病变的发病机制之一。</span><span class="english">The abnormal changes of neurotrophins are one of the nosogenesis of diabetic peripheral neuropathy.</span></p>

@@ -1,5 +1,7 @@
 # 幻灯机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huandengji.md)
+
 <p><span class="chinese">多动症就像幻灯机。</span><span class="english">ADHD is like a slide projector.</span></p>
 
 <p><span class="chinese">谁知道如何使用幻灯机？</span><span class="english">Who knows how to work the projector?</span></p>

@@ -1,5 +1,7 @@
 # 礼花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lihua_4.md)
+
 <p><span class="chinese">免费的酒水，节日狂欢者，当然还有礼花燃放。</span><span class="english">Free libations , holiday revelers, and of course, fireworks abound.</span></p>
 
 <p><span class="chinese">让我们共同努力，让我们的共同让生命绽放最灿烂的礼花。</span><span class="english">Let us work together for our lives and bloom the most brilliant fireworks.</span></p>

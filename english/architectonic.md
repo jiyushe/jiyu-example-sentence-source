@@ -1,5 +1,7 @@
 # architectonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/architectonic.md)
+
 <p><span class="chinese">人类的理智本质上是有构造的。</span><span class="english">Human reason is by nature architectonic.</span></p>
 
 <p><span class="chinese">组成整体的部分或细节的集合。</span><span class="english">A work of art forming an architectonic whole.</span></p>

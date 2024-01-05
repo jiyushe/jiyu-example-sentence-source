@@ -1,5 +1,7 @@
 # 漩涡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanwo.md)
+
 <p><span class="chinese">他能制造漩涡…</span><span class="english">He creates vortexes.</span></p>
 
 <p><span class="chinese">漩涡武器现在作用于妖术。</span><span class="english">Maelstrom Weapon now affects Hex.</span></p>

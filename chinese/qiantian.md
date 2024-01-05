@@ -1,5 +1,7 @@
 # 前天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiantian.md)
+
 <p><span class="chinese">在前天发布会上，我已经就此回答了记者的提问。</span><span class="english">I have answered that question Tuesday.</span></p>
 
 <p><span class="chinese">我们前天回来的。</span><span class="english">We came back the day before yesterday.</span></p>

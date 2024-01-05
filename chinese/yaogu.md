@@ -1,5 +1,7 @@
 # 腰鼓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaogu.md)
+
 <p><span class="chinese">陕北的腰鼓有说不完的情话。</span><span class="english">Waist Drum in northern Shaanxi have lots to talk of love talk.</span></p>
 
 <p><span class="chinese">罐体采用腰鼓型、橄榄型或圆柱型结构。</span><span class="english">Tank body adopts waist drum shape, olive shape or column shape.</span></p>

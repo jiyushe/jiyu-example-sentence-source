@@ -1,5 +1,7 @@
 # 勇武
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongwu.md)
+
 <p><span class="chinese">张操志是个勇武之人。</span><span class="english">Zhang was a powerful man.</span></p>
 
 <p><span class="chinese">狮子是勇武的象征。</span><span class="english">The lion is a symbol of courage.</span></p>

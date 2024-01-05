@@ -1,5 +1,7 @@
 # meshwork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meshwork.md)
+
 <p><span class="chinese">网络的爱情是爱还是伤害？</span><span class="english">Meshwork sensation . love or hurt ?</span></p>
 
 <p><span class="chinese">把水管联结在一起，上面盖上结实的棚屋，我的筏子就差不多完成了。</span><span class="english">With a meshwork of pipes and strong housing I thought the raft almost complete.</span></p>

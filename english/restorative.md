@@ -1,5 +1,7 @@
 # restorative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/restorative.md)
+
 <p><span class="chinese">悲痛的恢复力是非常大的。</span><span class="english">The restorative powers of mourning are extraordinary.</span></p>
 
 <p><span class="chinese">适当的5-羟色胺水平有利于促进深度睡眠，迅速恢复体力。</span><span class="english">Adequate serotonin levels promote deep, restorative sleep.</span></p>

@@ -1,5 +1,7 @@
 # 瞪眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dengyan.md)
+
 <p><span class="chinese">他向她瞪眼。</span><span class="english">He glared at her.</span></p>
 
 <p><span class="chinese">你为什么要瞪眼怒视我？</span><span class="english">Why are you scowling at me?</span></p>

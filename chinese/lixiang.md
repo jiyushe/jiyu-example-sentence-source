@@ -1,5 +1,7 @@
 # 离乡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lixiang.md)
+
 <p><span class="chinese">她别井离乡从农场搬到伦敦。</span><span class="english">She uproots herself from the farm and move to London.</span></p>
 
 <p><span class="chinese">她别井离乡从农场搬到伦敦。</span><span class="english">She uprooted herself from the farm and moved to London.</span></p>

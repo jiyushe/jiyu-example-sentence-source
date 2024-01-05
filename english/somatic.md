@@ -1,5 +1,7 @@
 # somatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/somatic.md)
+
 <p><span class="chinese">实现了四棱豆的快速无性繁殖。</span><span class="english">And the rapid somatic propagation was realized.</span></p>
 
 <p><span class="chinese">目的探讨神经症患者的躯体化症状。</span><span class="english">Objective To study somatic symptoms in neuroses.</span></p>

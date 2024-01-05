@@ -1,5 +1,7 @@
 # 坦克车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tankeche.md)
+
 <p><span class="chinese">坦克车沿路咕隆咕隆响地行。</span><span class="english">Tanks urmbled along the road.</span></p>
 
 <p><span class="chinese">出动坦克车对付手无寸铁的学生。</span><span class="english">Tanks were sent in agai t unarmed students.</span></p>

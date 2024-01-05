@@ -1,5 +1,7 @@
 # dell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dell.md)
+
 <p><span class="chinese">戴尔接下来做了什么呢？</span><span class="english">What did Dell do next?</span></p>
 
 <p><span class="chinese">你认为英特尔会为戴尔这样做吗？</span><span class="english">Do you think Intel does this for Dell?</span></p>

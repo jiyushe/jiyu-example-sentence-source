@@ -1,5 +1,7 @@
 # 廉洁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianjie.md)
+
 <p><span class="chinese">生活中很少有人能表现得廉洁无私。</span><span class="english">Few people behave disinterestedly in life.</span></p>
 
 <p><span class="chinese">罗斯福如何让大政府如此廉洁？</span><span class="english">How did F.D.R. manage to make big government so clean?</span></p>

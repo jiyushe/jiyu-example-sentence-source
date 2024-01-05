@@ -1,5 +1,7 @@
 # 痛打
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongda.md)
+
 <p><span class="chinese">他们痛打了那个贼。</span><span class="english">They thumped the thief.</span></p>
 
 <p><span class="chinese">他把那个男孩痛打了一顿。</span><span class="english">He thrashed the boy soundly.</span></p>

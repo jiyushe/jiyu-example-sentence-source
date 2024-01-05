@@ -1,5 +1,7 @@
 # wellhead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wellhead.md)
+
 <p><span class="chinese">我是奔向泉源的水。</span><span class="english">I am water rushing to the wellhead.</span></p>
 
 <p><span class="chinese">美的源泉是大自然之美。</span><span class="english">Beautiful wellhead is beauty of nature.</span></p>

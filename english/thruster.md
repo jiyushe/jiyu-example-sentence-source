@@ -1,5 +1,7 @@
 # thruster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thruster.md)
+
 <p><span class="chinese">我们船有艏侧推器。</span><span class="english">We have bow thruster.</span></p>
 
 <p><span class="chinese">我们船有艉侧推器。</span><span class="english">We have stern thruster.</span></p>

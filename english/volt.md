@@ -1,5 +1,7 @@
 # volt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/volt.md)
+
 <p><span class="chinese">一伏米。</span><span class="english">A volt meter.</span></p>
 
 <p><span class="chinese">就是一单位的电子伏特。</span><span class="english">That is one electron volt.</span></p>

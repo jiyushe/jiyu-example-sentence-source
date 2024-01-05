@@ -1,5 +1,7 @@
 # mirabilite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mirabilite.md)
+
 <p><span class="chinese">重度盐碱地可开采高矿化地下水，生产芒硝和食盐。</span><span class="english">Highly mineralized groundwater can be explored from strongly salinized land thus producing mirabilite and table salt.</span></p>
 
 <p><span class="chinese">芒硝和碳酸氢铵在适宜的条件下反应得重碱和母液。</span><span class="english">Mirabilite reacted with ammonium bicarbonate under the proper conditions to obtain sodium bicarbonate and mother liquor.</span></p>

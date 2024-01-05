@@ -1,5 +1,7 @@
 # auger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/auger.md)
+
 <p><span class="chinese">我们用螺旋钻在冰上钻洞。</span><span class="english">We make a hole in the ice with an auger.</span></p>
 
 <p><span class="chinese">在我的印象中旋转是形状的象征。</span><span class="english">The auger remains in my mind as metaphor of form.</span></p>

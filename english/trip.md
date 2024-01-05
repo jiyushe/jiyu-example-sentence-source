@@ -1,5 +1,7 @@
 # trip 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trip.md)
+
 <p><span class="chinese">祝你旅途愉快。</span><span class="english">Have a good trip.</span></p>
 
 <p><span class="chinese">来次自行车旅行？</span><span class="english">Take a bike trip?</span></p>

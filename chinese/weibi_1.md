@@ -1,5 +1,7 @@
 # 未必
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weibi_1.md)
+
 <p><span class="chinese">据传说是未必尽然的。</span><span class="english">Legend says they were not.</span></p>
 
 <p><span class="chinese">两个人未必就是一对。</span><span class="english">Every couple is not a pair.</span></p>

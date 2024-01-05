@@ -1,5 +1,7 @@
 # beardless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beardless.md)
+
 <p><span class="chinese">你对我来说似乎多带胡须的儿童。</span><span class="english">You seem to me little more than a band of beardless children.</span></p>
 
 <p><span class="chinese">他有一张无胡须的娃娃脸，金色的头发和明亮的蓝眼睛。</span><span class="english">He had a beardless boyish face fair hair and bright blue eyes.</span></p>

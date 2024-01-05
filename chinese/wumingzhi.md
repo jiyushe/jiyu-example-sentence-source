@@ -1,5 +1,7 @@
 # 无名指
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wumingzhi.md)
+
 <p><span class="chinese">去火点在无名指。</span><span class="english">To the point in the ring finger.</span></p>
 
 <p><span class="chinese">这揭示了为什么翼部没有长出无名指。</span><span class="english">This meant the wing did not have a ring finger.</span></p>

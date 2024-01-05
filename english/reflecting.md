@@ -1,5 +1,7 @@
 # reflecting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reflecting.md)
+
 <p><span class="chinese">如镜返照你的荣光。</span><span class="english">As a glass reflecting Thy glory.</span></p>
 
 <p><span class="chinese">勾起我对很久以前的记忆。</span><span class="english">Reflecting memories of long ago.</span></p>

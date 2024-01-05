@@ -1,5 +1,7 @@
 # 孤军作战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gujunzuozhan.md)
+
 <p><span class="chinese">有些人不介意孤军作战。</span><span class="english">Some people don't mind being alone.</span></p>
 
 <p><span class="chinese">当我们以为可以在这世上孤军作战时，我们便迷路了。</span><span class="english">We become lost when we think we can go it alone in this world.</span></p>

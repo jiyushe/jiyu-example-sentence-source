@@ -1,5 +1,7 @@
 # woody
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woody.md)
+
 <p><span class="chinese">怎么会有人要偷走胡迪呢?。</span><span class="english">Why would someone steal Woody?</span></p>
 
 <p><span class="chinese">伍迪在艾尔的玩具仓里都碰上了谁？</span><span class="english">Who did Woody meet at Al's Toy Barn?</span></p>

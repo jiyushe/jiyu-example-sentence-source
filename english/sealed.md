@@ -1,5 +1,7 @@
 # sealed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sealed.md)
+
 <p><span class="chinese">他的劫数已定。</span><span class="english">His doom is sealed.</span></p>
 
 <p><span class="chinese">所有货物都加盖了检验合格封印。</span><span class="english">All goods were sealed.</span></p>

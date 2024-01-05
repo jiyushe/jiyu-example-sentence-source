@@ -1,5 +1,7 @@
 # 使用权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyongquan.md)
+
 <p><span class="chinese">使用权用温度在1350℃以下。</span><span class="english">Recommended to use below 1350℃.</span></p>
 
 <p><span class="chinese">万一散团的话谁拥有团名的使用权？</span><span class="english">Who owns the group name in case of dispute?</span></p>

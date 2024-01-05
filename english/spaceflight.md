@@ -1,5 +1,7 @@
 # spaceflight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spaceflight.md)
+
 <p><span class="chinese">而陈冬则是首次参加载人飞行任务。</span><span class="english">Chen is making his first spaceflight.</span></p>
 
 <p><span class="chinese">他们又开始实施一项新的航天计划。</span><span class="english">They began to start on a new spaceflight plan.</span></p>

@@ -1,5 +1,7 @@
 # informing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/informing.md)
+
 <p><span class="chinese">她冲托尼发火，因为他没有把这事告诉她。</span><span class="english">She becomes angry with Tony for not informing her.</span></p>
 
 <p><span class="chinese">写一个40-50字的备忘录，将这一制度告知每个员工。</span><span class="english">Write a 40-50 word memo informing all staff of the policy.</span></p>

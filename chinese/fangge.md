@@ -1,5 +1,7 @@
 # 放歌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangge.md)
+
 <p><span class="chinese">但是我不能放歌。</span><span class="english">But I cannot sing aloud.</span></p>
 
 <p><span class="chinese">但我不能放歌。</span><span class="english">But now, no, I cannot sing.</span></p>

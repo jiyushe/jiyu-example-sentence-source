@@ -1,5 +1,7 @@
 # fastfood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fastfood.md)
+
 <p><span class="chinese">人们都说快餐会让你发胖。</span><span class="english">People say that fastfood will make you get weight.</span></p>
 
 <p><span class="chinese">我想我那时应该去速食店才对。</span><span class="english">I guess I should have gone to the fastfood restaurant.</span></p>

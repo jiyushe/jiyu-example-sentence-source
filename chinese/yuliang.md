@@ -1,5 +1,7 @@
 # 余粮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuliang.md)
+
 <p><span class="chinese">问题是市政府也没余粮了。</span><span class="english">The trouble is, the city is broke.</span></p>
 
 <p><span class="chinese">我们村没一家没余粮。</span><span class="english">Every family in our village has grain to spare.</span></p>

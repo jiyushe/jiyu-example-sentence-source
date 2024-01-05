@@ -1,5 +1,7 @@
 # motorboat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/motorboat.md)
+
 <p><span class="chinese">铃响了，她的摩托艇。</span><span class="english">The motorboat rang her bell.</span></p>
 
 <p><span class="chinese">我们可以一路上乘摩托艇去。</span><span class="english">We can go all the way by motorboat.</span></p>

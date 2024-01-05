@@ -1,5 +1,7 @@
 # ciliate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ciliate.md)
+
 <p><span class="chinese">萼裂片通常具缘毛。</span><span class="english">Calyx lobes often ciliate.</span></p>
 
 <p><span class="chinese">叶片和萼裂片的边缘具缘毛。</span><span class="english">Margin of leaf blades and calyx lobes ciliate.</span></p>

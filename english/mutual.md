@@ -1,5 +1,7 @@
 # mutual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mutual.md)
+
 <p><span class="chinese">第一，互惠互利是根本。</span><span class="english">First, mutual benefit.</span></p>
 
 <p><span class="chinese">这种反感是相互的。</span><span class="english">The antipathy is mutual.</span></p>

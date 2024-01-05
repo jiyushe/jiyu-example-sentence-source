@@ -1,5 +1,7 @@
 # fictitious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fictitious.md)
+
 <p><span class="chinese">这个故事是虚拟的。</span><span class="english">This is a fictitious story.</span></p>
 
 <p><span class="chinese">作品所描绘的，尽都是凭记忆组成的虚构场景。</span><span class="english">It is a fairly fictitious view of a memory"."</span></p>

@@ -1,5 +1,7 @@
 # 谷类作物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guleizuowu.md)
+
 <p><span class="chinese">这种疾病侵害了谷类作物。</span><span class="english">The disease attacks cereal crop.</span></p>
 
 <p><span class="chinese">玉米是泰国一种重要的谷类作物。</span><span class="english">Maize is one of major cereal crops in Thailand.</span></p>

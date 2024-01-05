@@ -1,5 +1,7 @@
 # 进进
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinjin_1.md)
+
 <p><span class="chinese">如今转向进进下一个航迹区内。</span><span class="english">Alter course for next leg of track now.</span></p>
 
 <p><span class="chinese">一天，一条狡猾的蛇溜进进了伊甸园里。</span><span class="english">A crafty and evil snakecame into the garden.</span></p>

@@ -1,5 +1,7 @@
 # 苦苦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuku.md)
+
 <p><span class="chinese">苦苦执着于我还没有得到的！</span><span class="english">Holding on to what I havent got!</span></p>
 
 <p><span class="chinese">所有这些日子。所有这些苦苦挣扎。</span><span class="english">All these days. All these struggles.</span></p>

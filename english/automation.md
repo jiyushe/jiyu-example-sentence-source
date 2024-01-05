@@ -1,5 +1,7 @@
 # automation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/automation.md)
+
 <p><span class="chinese">自动化省时省力。</span><span class="english">Automation reduces time and effort.</span></p>
 
 <p><span class="chinese">顾客对自动化产生的担心。</span><span class="english">The fear of automation among consumers.</span></p>

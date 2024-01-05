@@ -1,5 +1,7 @@
 # miscommunication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/miscommunication.md)
+
 <p><span class="chinese">延迟的另一个来源是错误传达。</span><span class="english">Another source of delays is miscommunication.</span></p>
 
 <p><span class="chinese">然而这个小小的沟通失误让小周哭了。</span><span class="english">But the simple miscommunication left Ms. Chou in tears.</span></p>

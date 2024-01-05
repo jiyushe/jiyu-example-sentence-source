@@ -1,5 +1,7 @@
 # 出兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chubing.md)
+
 <p><span class="chinese">当贵族谋反时，国王便出兵打他们。</span><span class="english">When the nobles rebelled , the king battled them.</span></p>
 
 <p><span class="chinese">毛遂怒气冲冲地拿着宝剑，逼近楚王，终于迫使楚王答应出兵，与赵国联合共同抵抗秦国。</span><span class="english">At that, the ruler of Chu agreed to help Zhao, against Qin.</span></p>

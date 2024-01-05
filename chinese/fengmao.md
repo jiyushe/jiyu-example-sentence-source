@@ -1,5 +1,7 @@
 # 风帽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengmao.md)
+
 <p><span class="chinese">他昨天穿了一件带风帽的大衣。</span><span class="english">He worn a coat with a hood yesterday.</span></p>
 
 <p><span class="chinese">琼恩雪诺戴起斗篷上的风帽。</span><span class="english">Jon Snow raised the hood of his cloak.</span></p>

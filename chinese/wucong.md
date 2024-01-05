@@ -1,5 +1,7 @@
 # 无从
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wucong.md)
+
 <p><span class="chinese">但这无从得知。</span><span class="english">No way to tell.</span></p>
 
 <p><span class="chinese">我想对此无从说起吧！</span><span class="english">I think this never speaks!</span></p>

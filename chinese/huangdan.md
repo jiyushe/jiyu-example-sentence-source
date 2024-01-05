@@ -1,5 +1,7 @@
 # 荒诞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangdan.md)
+
 <p><span class="chinese">荒诞的无目的性追求。</span><span class="english">Fantastic aimless is run after.</span></p>
 
 <p><span class="chinese">她给我讲了一些荒诞无稽的故事。</span><span class="english">She gave me some cock and bull story.</span></p>

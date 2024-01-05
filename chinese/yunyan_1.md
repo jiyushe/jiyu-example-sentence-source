@@ -1,5 +1,7 @@
 # 云烟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunyan_1.md)
+
 <p><span class="chinese">让一切远去。化为云烟。</span><span class="english">Let all away. Yunyan into.</span></p>
 
 <p><span class="chinese">望长空，死寂当作雷电，云烟视为平途。</span><span class="english">Look the sky, dead as lightning, and clouds as flat way.</span></p>

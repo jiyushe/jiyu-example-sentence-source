@@ -1,5 +1,7 @@
 # jogging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jogging.md)
+
 <p><span class="chinese">慢跑是一种自由的运动。</span><span class="english">Jogging is a salo sport.</span></p>
 
 <p><span class="chinese">他喜欢早晨慢跑。</span><span class="english">He likes jogging in the morning.</span></p>

@@ -1,5 +1,7 @@
 # outshine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outshine.md)
+
 <p><span class="chinese">马克总是努力胜过他的队友们。</span><span class="english">Mark is always trying to outshine his teammates.</span></p>
 
 <p><span class="chinese">谁有好的百家乐群我吹鸡打你班友。</span><span class="english">I strike chicken to outshine the group of the guys.</span></p>

@@ -1,5 +1,7 @@
 # 弄虚作假
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongxuzuojia.md)
+
 <p><span class="chinese">他有弄虚作假的嫌疑。</span><span class="english">He is suspected of employing trickery.</span></p>
 
 <p><span class="chinese">雷曼兄弟的肖特说，一个关键的不利因素是弄虚作假。</span><span class="english">One key hazard, says Lehman's Schulte, is fraud.</span></p>

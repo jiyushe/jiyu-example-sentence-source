@@ -1,5 +1,7 @@
 # surfactant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surfactant.md)
+
 <p><span class="chinese">表面活性剂。</span><span class="english">Surfactant.</span></p>
 
 <p><span class="chinese">SE是一种优良的非离子表面活性剂。</span><span class="english">SE is kind of good non-ionic surfactant.</span></p>

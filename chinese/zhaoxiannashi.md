@@ -1,5 +1,7 @@
 # 招贤纳士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoxiannashi.md)
+
 <p><span class="chinese">所以招贤纳士是第一位。</span><span class="english">So, recruiting is number 1.</span></p>
 
 <p><span class="chinese">在芬兰，极少有中学生晚上做家庭作业超过半个小时，没有清一色的校服，没有招贤纳士的社团，没有衣着光鲜的学生代表，也没有烦人的迟到铃，更没有天才特训班。</span><span class="english">High-school students here rarely get more than a half-hour of homework a night.</span></p>

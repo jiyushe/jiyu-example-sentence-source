@@ -1,5 +1,7 @@
 # 正史
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengshi_2.md)
+
 <p><span class="chinese">对此，学者们多从正史的角度加以探讨和分析。</span><span class="english">For this, scholars discuss and analyze from the angle of official history.</span></p>
 
 <p><span class="chinese">历史名人轶事汇编，实际上是汇集“正史”之外各类野史笔记、稗乘杂史中有关历史人物事迹的著作物。</span><span class="english">The compilation of anecdotes of celebrities in the history refers to those works concerning with their deeds.</span></p>

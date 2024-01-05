@@ -1,5 +1,7 @@
 # 朱红
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuhong.md)
+
 <p><span class="chinese">朱红会从他的唇上消褪。</span><span class="english">The scarlet would pass away from his lips.</span></p>
 
 <p><span class="chinese">戏剧已经成为吴朱红生活中最闪亮的部分。</span><span class="english">Drama has become the most radiant part of her life.</span></p>

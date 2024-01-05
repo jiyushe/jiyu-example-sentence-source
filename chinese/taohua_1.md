@@ -1,5 +1,7 @@
 # 桃花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taohua_1.md)
+
 <p><span class="chinese">可看到桃花岛！</span><span class="english">Can see Peach Island!</span></p>
 
 <p><span class="chinese">背板力木？用桃花心木。</span><span class="english">For back braces? Mahogany.</span></p>

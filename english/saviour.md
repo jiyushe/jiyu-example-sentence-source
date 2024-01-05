@@ -1,5 +1,7 @@
 # saviour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saviour.md)
+
 <p><span class="chinese">谁是世界的救星？</span><span class="english">The Saviour of the world?</span></p>
 
 <p><span class="chinese">圣哉耶稣，万民救主和平王。</span><span class="english">O holy Jesus, Prince of peace and Saviour.</span></p>

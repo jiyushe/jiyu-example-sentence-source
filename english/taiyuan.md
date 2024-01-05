@@ -1,5 +1,7 @@
 # taiyuan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taiyuan.md)
+
 <p><span class="chinese">我在太原做了刀削面。</span><span class="english">I got to make sliced noodles in Taiyuan.</span></p>
 
 <p><span class="chinese">“你是哪里人？”“我是太原人。”</span><span class="english">"Where are you from?""I'm from Taiyuan."</span></p>

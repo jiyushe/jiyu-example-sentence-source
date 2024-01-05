@@ -1,5 +1,7 @@
 # planner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/planner.md)
+
 <p><span class="chinese">当一个策划人。</span><span class="english">Be a planner.</span></p>
 
 <p><span class="chinese">我曾要做一个注册金融计划师。</span><span class="english">I was going to become a Certified Financial Planner.</span></p>

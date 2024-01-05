@@ -1,5 +1,7 @@
 # multivitamin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multivitamin.md)
+
 <p><span class="chinese">每天服用复合维生素。</span><span class="english">Take a multivitamin every day.</span></p>
 
 <p><span class="chinese">是一种会冒泡的综合维他命。</span><span class="english">It's an effervescent multivitamin.</span></p>

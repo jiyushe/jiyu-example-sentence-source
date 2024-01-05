@@ -1,5 +1,7 @@
 # 焦味
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaowei.md)
+
 <p><span class="chinese">米饭尝起来有焦味。</span><span class="english">The rice tastes burnt.</span></p>
 
 <p><span class="chinese">你闻得到有烧焦味吗?。</span><span class="english">Can you smell that burnt smell?</span></p>

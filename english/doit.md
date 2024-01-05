@@ -1,5 +1,7 @@
 # doit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doit.md)
+
 <p><span class="chinese">你认为你可以做得来吗？</span><span class="english">Do you think that you can doit?</span></p>
 
 <p><span class="chinese">当你调用C.DoIt会发生什么呢？</span><span class="english">What happens when you call C.DoIt?</span></p>

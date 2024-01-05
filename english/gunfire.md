@@ -1,5 +1,7 @@
 # gunfire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gunfire.md)
+
 <p><span class="chinese">一支护航舰队被炮火击中。</span><span class="english">A convoy was hit by gunfire.</span></p>
 
 <p><span class="chinese">他们用炮火击退了敌人。</span><span class="english">They threw the enemy back with gunfire.</span></p>

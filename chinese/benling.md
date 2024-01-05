@@ -1,5 +1,7 @@
 # 本领
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benling.md)
+
 <p><span class="chinese">阿格雷尔有什么特别本领？</span><span class="english">What is Agrael's unique ability?</span></p>
 
 <p><span class="chinese">林妙可有许多本领。</span><span class="english">Linmiaoke has a lot of abilities.</span></p>

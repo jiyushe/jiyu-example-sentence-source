@@ -1,5 +1,7 @@
 # japanese
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/japanese.md)
+
 <p><span class="chinese">它们是日本鬼子。</span><span class="english">They are Japanese.</span></p>
 
 <p><span class="chinese">直子是日本人。</span><span class="english">Naoko is a Japanese.</span></p>

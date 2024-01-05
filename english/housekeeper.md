@@ -1,5 +1,7 @@
 # housekeeper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/housekeeper.md)
+
 <p><span class="chinese">女管家怎么样？</span><span class="english">What's the housekeeper like ?</span></p>
 
 <p><span class="chinese">好主妇不能容忍灰尘的存在。</span><span class="english">A good housekeeper can't abide dust.</span></p>

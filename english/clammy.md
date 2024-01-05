@@ -1,5 +1,7 @@
 # clammy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clammy.md)
+
 <p><span class="chinese">那是个炎热又潮湿的日子。</span><span class="english">It was a hot and clammy day.</span></p>
 
 <p><span class="chinese">我的衬衫汗涔涔的。</span><span class="english">My shirt was clammy with sweat.</span></p>

@@ -1,5 +1,7 @@
 # 消散
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaosan.md)
+
 <p><span class="chinese">雾开始消散。</span><span class="english">The fog began to lift.</span></p>
 
 <p><span class="chinese">凝霜渐渐消散了。</span><span class="english">The frost was breaking away.</span></p>

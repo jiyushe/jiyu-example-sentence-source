@@ -1,5 +1,7 @@
 # 无价之宝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wujiazhibao.md)
+
 <p><span class="chinese">那块美玉是无价之宝。</span><span class="english">That gem is above price.</span></p>
 
 <p><span class="chinese">我们的孩子当然是无价之宝。</span><span class="english">Our children, of course, are priceless.</span></p>

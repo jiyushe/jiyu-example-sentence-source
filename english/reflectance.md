@@ -1,5 +1,7 @@
 # reflectance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reflectance.md)
+
 <p><span class="chinese">这颗行星的反射系数仍然未知。</span><span class="english">The reflectance of the planet is not yet known.</span></p>
 
 <p><span class="chinese">还研究了全反射时的反射和透射系数。</span><span class="english">It is also studied the reflectance and transmittance in TIR.</span></p>

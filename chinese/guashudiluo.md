@@ -1,5 +1,7 @@
 # 瓜熟蒂落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guashudiluo.md)
+
 <p><span class="chinese">瓜熟蒂落之爱就像一个有生命的机体。</span><span class="english">Mature love is like a living organism.</span></p>
 
 <p><span class="chinese">你看学习事情就这么瓜熟蒂落了。</span><span class="english">This thing is going the distexcellentce.</span></p>

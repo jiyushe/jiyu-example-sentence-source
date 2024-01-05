@@ -1,5 +1,7 @@
 # phenolic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phenolic.md)
+
 <p><span class="chinese">这种情况没有发生在热固性酚醛身上。</span><span class="english">That did not happen for the thermoset phenolic.</span></p>
 
 <p><span class="chinese">再里面是又一道亚麻涂黑的石碳酸。</span><span class="english">Inside of that is another black phenolic thin ring.</span></p>

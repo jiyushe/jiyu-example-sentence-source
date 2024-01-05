@@ -1,5 +1,7 @@
 # gentlest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gentlest.md)
+
 <p><span class="chinese">温柔的美人啊，千万千万莫再悲伤。</span><span class="english">Gentlest fair, mourn, mourn no moe.</span></p>
 
 <p><span class="chinese">加速着他的统治，用夏日的最温和的手。</span><span class="english">Increase his rule by gentlest summer means.</span></p>

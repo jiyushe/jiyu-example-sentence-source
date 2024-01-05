@@ -1,5 +1,7 @@
 # 轮椅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lunyi.md)
+
 <p><span class="chinese">参加者是否坐轮椅出席?。</span><span class="english">Are you a wheelchair user?</span></p>
 
 <p><span class="chinese">是否有轮椅专座呢？</span><span class="english">Is there wheel chair seat?</span></p>

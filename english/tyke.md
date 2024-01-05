@@ -1,5 +1,7 @@
 # tyke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tyke.md)
+
 <p><span class="chinese">他是个可爱的小淘气。</span><span class="english">He is a lovely tyke.</span></p>
 
 <p><span class="chinese">他是一位聪明忠诚的村夫。</span><span class="english">He was a gash an'faithful tyke.</span></p>

@@ -1,5 +1,7 @@
 # falsetto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/falsetto.md)
+
 <p><span class="chinese">他们的假音唱得很好。</span><span class="english">They sing falsetto very well.</span></p>
 
 <p><span class="chinese">他用柔和的假声自吟自唱。</span><span class="english">He sang to himself in a soft falsetto.</span></p>

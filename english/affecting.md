@@ -1,5 +1,7 @@
 # affecting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affecting.md)
+
 <p><span class="chinese">是的，它们可能影响你的双脚。</span><span class="english">Well they may be affecting your feet.</span></p>
 
 <p><span class="chinese">水是影响黄土高原地区刺槐生长的主要因子。</span><span class="english">Water is a main factor affecting locust growth.</span></p>

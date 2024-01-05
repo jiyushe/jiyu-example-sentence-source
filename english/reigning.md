@@ -1,5 +1,7 @@
 # reigning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reigning.md)
+
 <p><span class="chinese">我的住址是公主路二十一号。</span><span class="english">A reigning Hindu princess or queen.</span></p>
 
 <p><span class="chinese">维多利亚·格雷森汉普顿的女王。</span><span class="english">Victoria Grayson, the reigning queen of the hamptons.</span></p>

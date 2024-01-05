@@ -1,5 +1,7 @@
 # blasphemous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blasphemous.md)
+
 <p><span class="chinese">希特勒周围的人把我这幅画看作是侮漫不敬。</span><span class="english">In Hitler's entourage this drawing was regarded as blasphemous.</span></p>
 
 <p><span class="chinese">满屋的人都对他那侮慢的语言感到愤慨。</span><span class="english">The people in the room were shocked by his blasphemous language.</span></p>

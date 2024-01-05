@@ -1,5 +1,7 @@
 # 本分
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benfen_1.md)
+
 <p><span class="chinese">我没有做到我的本分。</span><span class="english">I haven’t done my part.</span></p>
 
 <p><span class="chinese">办好了，是它的本分。</span><span class="english">Had done, it is its devoir.</span></p>

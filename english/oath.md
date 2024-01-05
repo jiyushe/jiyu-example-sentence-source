@@ -1,5 +1,7 @@
 # oath
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oath.md)
+
 <p><span class="chinese">她于是起了誓。</span><span class="english">And she took the oath.</span></p>
 
 <p><span class="chinese">他咬牙切齿地诅咒。</span><span class="english">He ground out an oath.</span></p>

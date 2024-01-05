@@ -1,5 +1,7 @@
 # feisty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feisty.md)
+
 <p><span class="chinese">你真好强，我喜欢。</span><span class="english">You're feisty ! I like that.</span></p>
 
 <p><span class="chinese">一个好拚斗的女孩子时常赢争吵。</span><span class="english">A feisty girl always wins arguments.</span></p>

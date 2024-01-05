@@ -1,5 +1,7 @@
 # 沿海
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanhai.md)
+
 <p><span class="chinese">他们驾车沿海滨行驶。</span><span class="english">They drove along the beach.</span></p>
 
 <p><span class="chinese">目前在沿海部份地区设为海滨公园。</span><span class="english">Park was set up along the coast.</span></p>

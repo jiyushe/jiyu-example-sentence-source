@@ -1,5 +1,7 @@
 # droplight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/droplight.md)
+
 <p><span class="chinese">除了餐桌上几盏小巧的吊灯以外，这里一切的光线都是柔和悦目的。</span><span class="english">Besides on table a few cabinet droplight , all light is downy and pleasing to the eye.</span></p>
 
 <p><span class="chinese">承康为顾客选购灯饰时，看见一盏心仪的水晶吊灯。</span><span class="english">ChengKang for customers to choose lamp act the role oing, saw a light of crystal droplight.</span></p>

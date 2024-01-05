@@ -1,5 +1,7 @@
 # 晴好
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinghao.md)
+
 <p><span class="chinese">我们希望天气继续晴好。</span><span class="english">We hope the weather will hold up.</span></p>
 
 <p><span class="chinese">我希望整个月天气都这样晴好。</span><span class="english">I hope it stays nice for the whole month.</span></p>

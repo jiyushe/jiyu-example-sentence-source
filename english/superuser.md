@@ -1,5 +1,7 @@
 # superuser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superuser.md)
+
 <p><span class="chinese">执行这个修改很可能需要超级用户访问权。</span><span class="english">You will likely need superuser access to make such a change.</span></p>
 
 <p><span class="chinese">从一般的使用者指令行介面，登录当做超级使用者。</span><span class="english">From the regular user command line interface, log in as the superuser.</span></p>

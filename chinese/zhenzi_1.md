@@ -1,5 +1,7 @@
 # 疹子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenzi_1.md)
+
 <p><span class="chinese">她将药膏轻抹在疹子上。</span><span class="english">She dabbed the ointment on the rash.</span></p>
 
 <p><span class="chinese">我背上出满了疹子。</span><span class="english">Rashes have erupted all over my back.</span></p>

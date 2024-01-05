@@ -1,5 +1,7 @@
 # freshness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freshness.md)
+
 <p><span class="chinese">有上述设备，保证提供时新产品。</span><span class="english">Above device ensure freshness of product.</span></p>
 
 <p><span class="chinese">它们永远保持了爱情的鲜度。</span><span class="english">They always maintained a love of freshness.</span></p>

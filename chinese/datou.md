@@ -1,5 +1,7 @@
 # 打头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/datou.md)
+
 <p><span class="chinese">椰子和西瓜打头哪一个比较疼？</span><span class="english">Which do coco and watermelon nob ache quite?</span></p>
 
 <p><span class="chinese">打头的五位家长都抽到了素色球。</span><span class="english">The first five parents selected plain wooden balls.</span></p>

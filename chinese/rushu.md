@@ -1,5 +1,7 @@
 # 儒术
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rushu.md)
+
 <p><span class="chinese">充其量可以说，“独尊儒术”开武帝政治开放之一途。</span><span class="english">So, it was hard to regard the political opening of Emperor Hanwu as a product of "the Confucianism Worship Alone".</span></p>
 
 <p><span class="chinese">董仲舒提出的“罢黜百家，独尊儒术”在这一过程中尤为重要。</span><span class="english">During the course , it is very important that Dong Zhongshu proposed to"Ban from hundred philosophers, venerate Confucianism".</span></p>

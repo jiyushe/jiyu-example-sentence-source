@@ -1,5 +1,7 @@
 # teaching 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teaching.md)
+
 <p><span class="chinese">为什么要教常用字？</span><span class="english">Why teaching Sight Words?</span></p>
 
 <p><span class="chinese">我是他的教研员。</span><span class="english">I was his teaching fellow.</span></p>

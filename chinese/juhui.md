@@ -1,5 +1,7 @@
 # 聚会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juhui.md)
+
 <p><span class="chinese">他从聚会上溜走了。</span><span class="english">He jammed the party.</span></p>
 
 <p><span class="chinese">这是雄鹰们的聚会。</span><span class="english">A gathering of eagles.</span></p>

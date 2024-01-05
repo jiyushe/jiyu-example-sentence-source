@@ -1,5 +1,7 @@
 # ute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ute.md)
+
 <p><span class="chinese">1874年，在西北卡罗拉多，这个团队碰到了一个尤特人的营地。</span><span class="english">In 1874, the party came across a Ute camp in northwestern Colorado.</span></p>
 
 <p><span class="chinese">这也是对奥沙的东科，在尤特和普韦布洛印第安人的家园。</span><span class="english">It was also the homeland of the Osage, the Kaw, the Ute and the Pueblo Indians.</span></p>

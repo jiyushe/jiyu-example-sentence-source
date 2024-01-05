@@ -1,5 +1,7 @@
 # recur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recur.md)
+
 <p><span class="chinese">按指定时间间隔重复发生。</span><span class="english">Recur at a specified time interval.</span></p>
 
 <p><span class="chinese">让我们稍后再重回到我们的主题。</span><span class="english">Let us recur to the subject later on.</span></p>

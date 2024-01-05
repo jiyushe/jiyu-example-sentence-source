@@ -1,5 +1,7 @@
 # jilt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jilt.md)
+
 <p><span class="chinese">玛丽，你把你的男朋友给甩了？</span><span class="english">Mary you your boyfriend to jilt ?</span></p>
 
 <p><span class="chinese">或手洗再迅速甩干即可。</span><span class="english">Or wash again quickly to jilt dry.</span></p>

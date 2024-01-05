@@ -1,5 +1,7 @@
 # musing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/musing.md)
+
 <p><span class="chinese">我在秋日里沉思迟迟，望断南凝汽。</span><span class="english">I musing late in the autumn day, gazing off southward.</span></p>
 
 <p><span class="chinese">整个冬天，叶甫盖尼守在他那阴暗的房间里读书和沉思。</span><span class="english">All that winter Eugene kept to his gloomy room, reading and musing.</span></p>

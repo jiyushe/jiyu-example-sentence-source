@@ -1,5 +1,7 @@
 # recreate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recreate.md)
+
 <p><span class="chinese">你们在银幕上怎么演那种情谊？</span><span class="english">How did you recreate that bond on screen?</span></p>
 
 <p><span class="chinese">他们以打桥牌作消遣。</span><span class="english">They recreate themselves with playing bridge.</span></p>

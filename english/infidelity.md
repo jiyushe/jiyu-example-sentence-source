@@ -1,5 +1,7 @@
 # infidelity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infidelity.md)
+
 <p><span class="chinese">我能承受那不忠之痛。</span><span class="english">I can take the pain of infidelity.</span></p>
 
 <p><span class="chinese">他不能原谅妻子的不贞行为。</span><span class="english">He couldn't forgive his wife's infidelity.</span></p>

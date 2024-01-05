@@ -1,5 +1,7 @@
 # breeches
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breeches.md)
+
 <p><span class="chinese">他的马裤是用用牧羊人派做的。</span><span class="english">His breeches were made of haggis bags.</span></p>
 
 <p><span class="chinese">真可怕。我大概会吓得尿裤子。</span><span class="english">Terrifying. I may well piss my breeches.</span></p>

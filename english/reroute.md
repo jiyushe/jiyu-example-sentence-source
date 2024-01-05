@@ -1,5 +1,7 @@
 # reroute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reroute.md)
+
 <p><span class="chinese">麻烦你帮我重新安排在旧金山转机的班机好吗?。</span><span class="english">Could you please reroute me through San Fransisco?</span></p>
 
 <p><span class="chinese">你可以改变过车的行进方向去救那五个人。</span><span class="english">You can reroute the train and save the five people.</span></p>

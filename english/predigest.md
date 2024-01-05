@@ -1,5 +1,7 @@
 # predigest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/predigest.md)
+
 <p><span class="chinese">这就使我们可以大大简化小区内的公建设施，把主要精力放在“住宅”的智能化上。</span><span class="english">So we can predigest the public building, and mostly focus on the intelligent home.</span></p>
 
 <p><span class="chinese">把椭圆线简化为四段圆弧，是手工作图或施工放样的常用方法。</span><span class="english">It's the common way to predigest the ellipse to four arcs in hand-drawing or construction lofting.</span></p>

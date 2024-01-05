@@ -1,5 +1,7 @@
 # 宝物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baowu.md)
+
 <p><span class="chinese">玩宝物抽丝！</span><span class="english">Play Treasure Snagging!</span></p>
 
 <p><span class="chinese">我在寻找埋藏的宝物！</span><span class="english">I'm looking for buried treasure!</span></p>

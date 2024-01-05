@@ -1,5 +1,7 @@
 # contrive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contrive.md)
+
 <p><span class="chinese">那种生活应该设计。</span><span class="english">That life should contrive.</span></p>
 
 <p><span class="chinese">没有肉我们也能设法料理。</span><span class="english">We can contrive without meat.</span></p>

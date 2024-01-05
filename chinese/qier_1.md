@@ -1,5 +1,7 @@
 # 妻儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qier_1.md)
+
 <p><span class="chinese">他们的妻儿繁荣</span><span class="english">Their wives bear them children.</span></p>
 
 <p><span class="chinese">目前他本人和妻儿正定居在加利福尼亚州。</span><span class="english">He resides with his wife and kids in California.</span></p>

@@ -1,5 +1,7 @@
 # braid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/braid.md)
+
 <p><span class="chinese">长到可以编织。</span><span class="english">Long enough to braid.</span></p>
 
 <p><span class="chinese">可以帮我编下头发吗？</span><span class="english">Can you braid my hair?</span></p>

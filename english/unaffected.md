@@ -1,5 +1,7 @@
 # unaffected
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unaffected.md)
+
 <p><span class="chinese">非泛型类不受影响。</span><span class="english">Non-generic classes are unaffected.</span></p>
 
 <p><span class="chinese">对葡聚糖的胞饮作用无影响。</span><span class="english">Pinocytosis of dextran was unaffected.</span></p>

@@ -1,5 +1,7 @@
 # 无碍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuai_1.md)
+
 <p><span class="chinese">一般而言，这种情况无碍健康，但会导致永久性的肤色变暗。</span><span class="english">It's generally harmless but can cause permanent skin darkening.</span></p>
 
 <p><span class="chinese">努力精进与无碍放松和谐的结合…</span><span class="english">Endeavour and effortlessness are combined in a harmonious union.</span></p>

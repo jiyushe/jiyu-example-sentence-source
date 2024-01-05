@@ -1,5 +1,7 @@
 # 耐用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naiyong.md)
+
 <p><span class="chinese">这种织品经洗耐用。</span><span class="english">This fabric launders well.</span></p>
 
 <p><span class="chinese">耐用，聚树脂，密封涂层。</span><span class="english">Durable, poly-resin, seal coated.</span></p>

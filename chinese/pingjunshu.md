@@ -1,5 +1,7 @@
 # 平均数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingjunshu.md)
+
 <p><span class="chinese">不过这只是平均数。</span><span class="english">But this is an average.</span></p>
 
 <p><span class="chinese">这是定律或是平均数。</span><span class="english">It is the law or averages.</span></p>

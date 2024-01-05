@@ -1,5 +1,7 @@
 # paperwork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paperwork.md)
+
 <p><span class="chinese">案头工作可以明天再做。</span><span class="english">The paperwork can stay till tomorrow.</span></p>
 
 <p><span class="chinese">我的办公桌上就没有成摞的文件。</span><span class="english">There are no piles of paperwork on my desk.</span></p>

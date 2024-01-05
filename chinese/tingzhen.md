@@ -1,5 +1,7 @@
 # 听诊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingzhen.md)
+
 <p><span class="chinese">听诊头，耳挂，Y形胶管可以选配。</span><span class="english">The head, binaural and Y-tubing can choose.</span></p>
 
 <p><span class="chinese">通常在触诊之前应先听诊腹部。</span><span class="english">Always auscultate the abdomen before you palpate it.</span></p>

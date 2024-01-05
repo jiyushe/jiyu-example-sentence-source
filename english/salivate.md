@@ -1,5 +1,7 @@
 # salivate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salivate.md)
+
 <p><span class="chinese">她们不会因为想到一块美味牛排而流口水。</span><span class="english">They don't salivate at the thought of a great steak.</span></p>
 
 <p><span class="chinese">游戏产业的主管们对Zynga的快速增长垂涎三尺，但是他们却瞧不起它开发的游戏质量。</span><span class="english">Game industry executives salivate over Zynga's growth rates.</span></p>

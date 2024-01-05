@@ -1,5 +1,7 @@
 # supra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supra.md)
+
 <p><span class="chinese">寻找这些击中您的地方在上经销商。</span><span class="english">Look for these to hit your local Supra dealer.</span></p>
 
 <p><span class="chinese">Lexus与Supra工程项目的首席工程师Katyama-san</span><span class="english">chief engineer of Lexus and Supra program, Katyama-san</span></p>

@@ -1,5 +1,7 @@
 # strenuous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strenuous.md)
+
 <p><span class="chinese">维护这样混乱的页面十分费力。</span><span class="english">Maintaining such a raveled page is strenuous.</span></p>
 
 <p><span class="chinese">紧张的马拉松式长跑的三年。</span><span class="english">Three years of running this strenuous marathon.</span></p>

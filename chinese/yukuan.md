@@ -1,5 +1,7 @@
 # 余款
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yukuan.md)
+
 <p><span class="chinese">我很快就会付足余款的。</span><span class="english">I'll fetch the balance soon.</span></p>
 
 <p><span class="chinese">记得，你说过明天付清余款的。</span><span class="english">You promised to pay me tomorrow , remember!</span></p>

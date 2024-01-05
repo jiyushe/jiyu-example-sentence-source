@@ -1,5 +1,7 @@
 # veranda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/veranda.md)
+
 <p><span class="chinese">阳台用木板隔出了。</span><span class="english">The veranda was boarded in.</span></p>
 
 <p><span class="chinese">我跟他们一起到外面游廊上去。</span><span class="english">I went with them out to the veranda.</span></p>

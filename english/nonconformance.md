@@ -1,5 +1,7 @@
 # nonconformance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonconformance.md)
+
 <p><span class="chinese">确定不合格原因。</span><span class="english">Identify the cause of the nonconformance.</span></p>
 
 <p><span class="chinese">所有报告的不合格或有待观察问题的记录。</span><span class="english">A record all reported nonconformance or observations.</span></p>

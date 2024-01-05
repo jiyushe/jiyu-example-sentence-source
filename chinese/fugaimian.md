@@ -1,5 +1,7 @@
 # 覆盖面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fugaimian.md)
+
 <p><span class="chinese">但是课程的覆盖面十分广泛，</span><span class="english">But, um, it's very extensive, and</span></p>
 
 <p><span class="chinese">而在南欧，这些社会救助的覆盖面是不完全的。</span><span class="english">In southern Europe the coverage is patchier.</span></p>

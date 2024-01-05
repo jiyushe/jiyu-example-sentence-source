@@ -1,5 +1,7 @@
 # constant 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/constant.md)
+
 <p><span class="chinese">加上一个常数。</span><span class="english">Plus a constant.</span></p>
 
 <p><span class="chinese">它就是常数级复杂度。</span><span class="english">It has a constant.</span></p>

@@ -1,5 +1,7 @@
 # lh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lh.md)
+
 <p><span class="chinese">LH则涉及对排卵的控制。</span><span class="english">LH is involved in triggering ovulation.</span></p>
 
 <p><span class="chinese">塑料固定式插销锁，左右门均适用。</span><span class="english">Plastic dead bolt lock. RH and LH application.</span></p>

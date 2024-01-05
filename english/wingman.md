@@ -1,5 +1,7 @@
 # wingman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wingman.md)
+
 <p><span class="chinese">你可以随时做我的舵手！</span><span class="english">You can be my wingman anytime!</span></p>
 
 <p><span class="chinese">你随时可当我的僚机飞行员。</span><span class="english">You can be my wingman any time.</span></p>

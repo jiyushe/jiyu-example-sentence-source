@@ -1,5 +1,7 @@
 # 拿捏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanie.md)
+
 <p><span class="chinese">这些对读者情绪准确拿捏的点滴让这本书成为你长途旅行的好伴侣，只是别让乘务员看到你的眼泪。</span><span class="english">Just don't let the flight attendants see you cry.</span></p>
 
 <p><span class="chinese">按压和拿捏的方式类型用你的最爱。</span><span class="english">Apply pressure and stroke yourself using your favorite techniques.</span></p>

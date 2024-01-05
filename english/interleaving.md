@@ -1,5 +1,7 @@
 # interleaving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interleaving.md)
+
 <p><span class="chinese">本文采用了卷积交织技术。</span><span class="english">In this thesis, I use convolutional interleaving technology.</span></p>
 
 <p><span class="chinese">该产品还提供表面保护，交织无效填补。</span><span class="english">The product also provides surface protection, interleaving and void fill.</span></p>

@@ -1,5 +1,7 @@
 # 声明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengming_1.md)
+
 <p><span class="chinese">所以在这里，我声明。</span><span class="english">void So here, I say void.</span></p>
 
 <p><span class="chinese">库莫在声明稿中表示.</span><span class="english">Cuomo said in a statement.</span></p>

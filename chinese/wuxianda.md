@@ -1,5 +1,7 @@
 # 无限大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuxianda.md)
+
 <p><span class="chinese">周期是无限大。</span><span class="english">The period is infinitely long.</span></p>
 
 <p><span class="chinese">当n为无限大时，r也为无限大。</span><span class="english">When n equals infinity, r equals infinity.</span></p>

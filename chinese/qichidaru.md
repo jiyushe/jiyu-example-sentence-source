@@ -1,5 +1,7 @@
 # 奇耻大辱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qichidaru.md)
+
 <p><span class="chinese">我受不了这种奇耻大辱！</span><span class="english">I cannot stand the disgrace.</span></p>
 
 <p><span class="chinese">这是所有赫特人的奇耻大辱！</span><span class="english">This is an insult to all Hutts!</span></p>

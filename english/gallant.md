@@ -1,5 +1,7 @@
 # gallant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gallant.md)
+
 <p><span class="chinese">这里我熟，得让牛大侠带路。</span><span class="english">Let Gallant Niu lead the way.</span></p>
 
 <p><span class="chinese">英勇的狗儿萨米与索�…</span><span class="english">Gallant Canines Sammy and Thor.</span></p>

@@ -1,5 +1,7 @@
 # 一丁点儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yidingdianer.md)
+
 <p><span class="chinese">每天节约一丁点儿一年就是一大笔。</span><span class="english">Pin a Day is a Groat a Year.</span></p>
 
 <p><span class="chinese">每天节约一丁点儿一年就是一大笔。</span><span class="english">A Pin a Day is a Grout a Year.</span></p>

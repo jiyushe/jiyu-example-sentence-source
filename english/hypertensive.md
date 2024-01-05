@@ -1,5 +1,7 @@
 # hypertensive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypertensive.md)
+
 <p><span class="chinese">辣椒里的辣椒素帮助高血压实验鼠降低血压</span><span class="english">Hot Peppers' Capsaicin Helps Hypertensive Rats</span></p>
 
 <p><span class="chinese">高血压的人在日常生活应该注意什么？</span><span class="english">What should hypertensive person notice in daily life?</span></p>

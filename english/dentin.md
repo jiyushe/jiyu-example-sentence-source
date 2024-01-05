@@ -1,5 +1,7 @@
 # dentin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dentin.md)
+
 <p><span class="chinese">蛀牙对牙质有影像吗？</span><span class="english">Does decay affect the dentin?</span></p>
 
 <p><span class="chinese">使用粗纸尖吸干根管水分，牙本质保留明显的湿润。</span><span class="english">Blot the canal dry with a large paper point, leaving the dentin visibly moist.</span></p>

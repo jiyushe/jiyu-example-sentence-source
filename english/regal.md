@@ -1,5 +1,7 @@
 # regal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regal.md)
+
 <p><span class="chinese">他看人的眼神还是那种高高在上的神态。</span><span class="english">His stare is one of regal aloofness.</span></p>
 
 <p><span class="chinese">字符海鲂是一条豪华特性鱼。</span><span class="english">The character Dory is a Regal Tang fish.</span></p>

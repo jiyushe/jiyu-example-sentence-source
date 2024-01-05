@@ -1,5 +1,7 @@
 # 摆布
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baibu.md)
+
 <p><span class="chinese">我设了个毒计来摆布她。</span><span class="english">I had evil plans for her.</span></p>
 
 <p><span class="chinese">我们是听任命运摆布的块垒吗？</span><span class="english">Are we the puppets of fate?</span></p>

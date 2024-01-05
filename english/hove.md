@@ -1,5 +1,7 @@
 # hove
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hove.md)
+
 <p><span class="chinese">一艘船出现了。</span><span class="english">A ship hove in sight.</span></p>
 
 <p><span class="chinese">他把椅子从窗户中抛出。</span><span class="english">He hove a chair through the window.</span></p>

@@ -1,5 +1,7 @@
 # 国防
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guofang.md)
+
 <p><span class="chinese">国防工业应该给自己找后路了。</span><span class="english">The defence industry should take cover.</span></p>
 
 <p><span class="chinese">我现在正在挑选国防类的股票。</span><span class="english">I am currently seeking out defense stocks.</span></p>

@@ -1,5 +1,7 @@
 # 坐失良机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoshiliangji.md)
+
 <p><span class="chinese">不要坐失良机。</span><span class="english">Don't take any chances.</span></p>
 
 <p><span class="chinese">她坐失良机。</span><span class="english">She dallied away her opportunities.</span></p>

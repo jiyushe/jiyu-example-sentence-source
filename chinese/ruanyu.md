@@ -1,5 +1,7 @@
 # 软语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruanyu.md)
+
 <p><span class="chinese">据说风在这里低唱软语。</span><span class="english">The wind here is said to sing in soft whispers.</span></p>
 
 <p><span class="chinese">汤姆把艾咪抱在怀里，并在她耳边软语呢喃。</span><span class="english">Tom held Amy in his arms and whispered in her ear.</span></p>

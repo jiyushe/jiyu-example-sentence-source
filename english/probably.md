@@ -1,5 +1,7 @@
 # probably 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/probably.md)
+
 <p><span class="chinese">大多数可能是这样。</span><span class="english">Most probably.</span></p>
 
 <p><span class="chinese">可能两者缺一不可。</span><span class="english">Probably both.</span></p>

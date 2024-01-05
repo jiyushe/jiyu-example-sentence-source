@@ -1,5 +1,7 @@
 # gentility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gentility.md)
+
 <p><span class="chinese">很多人认为精致的服饰是文雅的标志。</span><span class="english">Many people think fine clothes are a mark of gentility.</span></p>
 
 <p><span class="chinese">不洗手，就没有资格要求别人认为你有教养。</span><span class="english">Unless you washed your hands, you had no claim to gentility.</span></p>

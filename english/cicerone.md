@@ -1,5 +1,7 @@
 # cicerone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cicerone.md)
+
 <p><span class="chinese">我在乌托邦的书里没有找到现成模式的指导思想。</span><span class="english">I had no convenient cicerone in the pattern of the Utopian books.</span></p>
 
 <p><span class="chinese">导游带我们去了很多地方购物，我们没有协议。</span><span class="english">The cicerone took us to a lot of shopping places without our agreement.</span></p>

@@ -1,5 +1,7 @@
 # sender
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sender.md)
+
 <p><span class="chinese">集群发送器通道。</span><span class="english">Cluster sender channel.</span></p>
 
 <p><span class="chinese">请提供一个有效的发信人电子邮件地址。</span><span class="english">Please provide a valid sender email address.</span></p>

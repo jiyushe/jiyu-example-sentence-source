@@ -1,5 +1,7 @@
 # 解体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieti_1.md)
+
 <p><span class="chinese">解体检修主机调速器。</span><span class="english">Overhaul the main engine governor.</span></p>
 
 <p><span class="chinese">他们的大家庭去年解体了。</span><span class="english">Their big family dissolved last year.</span></p>

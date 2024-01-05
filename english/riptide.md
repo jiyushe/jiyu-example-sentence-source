@@ -1,5 +1,7 @@
 # riptide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/riptide.md)
+
 <p><span class="chinese">激潮是海面下一种强大的暗流。</span><span class="english">Riptide is a strong underwater current.</span></p>
 
 <p><span class="chinese">潮汐波浪现在也能生效于潮汐激流。</span><span class="english">Tidal Waves will now also proc with Riptide.</span></p>

@@ -1,5 +1,7 @@
 # unfavorable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unfavorable.md)
+
 <p><span class="chinese">高氧的存在不利于其稳定性。</span><span class="english">Hyperoxia is unfavorable to its stability.</span></p>
 
 <p><span class="chinese">同时，还遇到许多不利的批评。</span><span class="english">It has encountered many unfavorable criticisms.</span></p>

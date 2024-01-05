@@ -1,5 +1,7 @@
 # monotonously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monotonously.md)
+
 <p><span class="chinese">侍女还在哭，发出单调的抽泣声。</span><span class="english">The maid, still in tears, sniffed monotonously.</span></p>
 
 <p><span class="chinese">挡风玻璃上的雨刷单调地来回摆动，发出飕飕声。</span><span class="english">The windshield wipers swished back and forth monotonously.</span></p>

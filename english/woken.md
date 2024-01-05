@@ -1,5 +1,7 @@
 # woken
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woken.md)
+
 <p><span class="chinese">她睡着还没醒了。</span><span class="english">She hasn't woken up yet.</span></p>
 
 <p><span class="chinese">我被一阵响亮的吵闹声弄醒了。</span><span class="english">I was woken by a loud noise.</span></p>

@@ -1,5 +1,7 @@
 # roughness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roughness.md)
+
 <p><span class="chinese">测试每组部分试片的粗糙度。</span><span class="english">Roughness were tested for every group.</span></p>
 
 <p><span class="chinese">我看见几个男孩在掷石头打狗。</span><span class="english">I saw some roughness throwing stones to any dog.</span></p>

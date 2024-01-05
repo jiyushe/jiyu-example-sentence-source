@@ -1,5 +1,7 @@
 # hydronic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydronic.md)
+
 <p><span class="chinese">水磨石地板还能液体循环辐射加热。</span><span class="english">Terrazzo flooring contains hydronic radiant heating.</span></p>
 
 <p><span class="chinese">系列IPF专用于简化泵或循环加热系统的安装、维修和拆卸。</span><span class="english">Series IPF valves are designed to simplify the installation, service, and removal of pumps or circulators in hydronic systems.</span></p>

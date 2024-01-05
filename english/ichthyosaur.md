@@ -1,5 +1,7 @@
 # ichthyosaur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ichthyosaur.md)
+
 <p><span class="chinese">是什么驱使一只鱼龙袭击另一个鱼龙的鼻口部仍未可知。</span><span class="english">What led one ichthyosaur to bite another on the snout is unknown.</span></p>
 
 <p><span class="chinese">长相吓人的龙鱼曾是最早的海洋食肉动物之一</span><span class="english">The fearsome ichthyosaur was one of the very earliest large sea predators</span></p>

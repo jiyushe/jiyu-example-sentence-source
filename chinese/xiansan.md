@@ -1,5 +1,7 @@
 # 闲散
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiansan.md)
+
 <p><span class="chinese">闲散浪费光阴。</span><span class="english">Idleness eats up time.</span></p>
 
 <p><span class="chinese">是于兵荒马乱中的闲散自淫？</span><span class="english">Is being idle in the chaos of war?</span></p>

@@ -1,5 +1,7 @@
 # 提纲挈领
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tigangqieling.md)
+
 <p><span class="chinese">我们向委员会提纲挈领地讲了我们的提案。</span><span class="english">We outlined our proposals to the committee.</span></p>
 
 <p><span class="chinese">用以指导临床，颇有提纲挈领、执简驭繁之效用。</span><span class="english">In order to guide the clinic in effect, the book had giving outline.</span></p>

@@ -1,5 +1,7 @@
 # dreamily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dreamily.md)
+
 <p><span class="chinese">山姆朦胧左彩票工作室。</span><span class="english">Sam dreamily left the lottery studio.</span></p>
 
 <p><span class="chinese">他说著，他的心想却渺茫地，他的眼睛如梦幻般的望著她的眼睛。</span><span class="english">"With me?" he said, his thoughts far away and his eyes resting dreamily on hers.</span></p>

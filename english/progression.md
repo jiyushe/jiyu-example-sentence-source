@@ -1,5 +1,7 @@
 # progression
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/progression.md)
+
 <p><span class="chinese">什么是和弦进行？</span><span class="english">What is a chord progression?</span></p>
 
 <p><span class="chinese">但是我能看到那种进步。</span><span class="english">But I can see that progression.</span></p>

@@ -1,5 +1,7 @@
 # imho
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imho.md)
+
 <p><span class="chinese">恕我直言，这个不成问题。</span><span class="english">This seems to be a non-issue IMHO.</span></p>
 
 <p><span class="chinese">经典，在我看来现在仍然“没有过时”。</span><span class="english">A classic that is still "current" IMHO.</span></p>

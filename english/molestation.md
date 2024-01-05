@@ -1,5 +1,7 @@
 # molestation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/molestation.md)
+
 <p><span class="chinese">凌虐小孩是一个敏感的话题。</span><span class="english">Child molestation is a touchy subject.</span></p>
 
 <p><span class="chinese">这种社会性的失礼，是对小孩子的骚扰。</span><span class="english">There's social faux pas around the molestation of children.</span></p>

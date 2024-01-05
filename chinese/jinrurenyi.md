@@ -1,5 +1,7 @@
 # 尽如人意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinrurenyi.md)
+
 <p><span class="chinese">在2010和2011年，疫情应对情况并不尽如人意。</span><span class="english">In 2010 and 2011, outbreak response has been inadequate.</span></p>
 
 <p><span class="chinese">不过尽管丰田的发展不断加速，结果也并不全尽如人意。</span><span class="english">But even as Toyota built up the revs, all has not been well.</span></p>

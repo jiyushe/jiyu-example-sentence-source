@@ -1,5 +1,7 @@
 # 年头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niantou.md)
+
 <p><span class="chinese">就是在那些年头我干得也挺不错。</span><span class="english">I did pretty well, even in those days.</span></p>
 
 <p><span class="chinese">他来中国已经5个年头了。</span><span class="english">It's five years since he came to China.</span></p>

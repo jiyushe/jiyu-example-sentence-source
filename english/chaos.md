@@ -1,5 +1,7 @@
 # chaos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chaos.md)
+
 <p><span class="chinese">什么是混乱？</span><span class="english">What is chaos?</span></p>
 
 <p><span class="chinese">酒吧里乱成了一锅粥。</span><span class="english">The bar is in chaos.</span></p>

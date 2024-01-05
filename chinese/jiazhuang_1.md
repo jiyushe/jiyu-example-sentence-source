@@ -1,5 +1,7 @@
 # 嫁妆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiazhuang_1.md)
+
 <p><span class="chinese">这些都是新娘子的嫁妆啊。</span><span class="english">These are all bridal dowries.</span></p>
 
 <p><span class="chinese">我想知道，难道嫁妆取决于吨位吗？</span><span class="english">I wonder if the dowry depends on tonnage?</span></p>

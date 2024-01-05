@@ -1,5 +1,7 @@
 # reinspection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reinspection.md)
+
 <p><span class="chinese">你方有权复查。</span><span class="english">You have the right of reinspection.</span></p>
 
 <p><span class="chinese">你方有权复查。</span><span class="english">Your have the right of reinspection.</span></p>

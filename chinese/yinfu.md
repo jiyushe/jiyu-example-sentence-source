@@ -1,5 +1,7 @@
 # 隐伏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinfu.md)
+
 <p><span class="chinese">在这条荒野的小路上隐伏着危险。</span><span class="english">Dangers lurk in the path of wilderness.</span></p>
 
 <p><span class="chinese">比尔凭直觉感到他们的计划隐伏着罪恶。</span><span class="english">Bill intuits the hidden guilt behind their plan.</span></p>

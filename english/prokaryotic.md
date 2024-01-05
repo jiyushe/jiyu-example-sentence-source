@@ -1,5 +1,7 @@
 # prokaryotic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prokaryotic.md)
+
 <p><span class="chinese">而在原核细胞中应为38ATP。</span><span class="english">In prokaryotic cell it will be 38ATP.</span></p>
 
 <p><span class="chinese">原核生物RNA聚合酶全酶的组成成分。</span><span class="english">Component of prokaryotic RNA polymerase holoenzyme.</span></p>

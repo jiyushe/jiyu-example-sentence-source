@@ -1,5 +1,7 @@
 # 峨嵋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/emei_3.md)
+
 <p><span class="chinese">峨嵋最高峰海拔3099米，从平地直冲云霄。</span><span class="english">Its highest peak rises abruptly from a plain to 3099m. above sea level.</span></p>
 
 <p><span class="chinese">文章对峨嵋佛家养生与道家的相互影响也作了一定的分析。</span><span class="english">The author also analyses the interaction of the E'mei Taoism and Buddhism.</span></p>

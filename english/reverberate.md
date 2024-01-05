@@ -1,5 +1,7 @@
 # reverberate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reverberate.md)
+
 <p><span class="chinese">痛苦的哭泣声阵阵回荡在我的耳畔。</span><span class="english">Echoes of cries of pain reverberate in my hear.</span></p>
 
 <p><span class="chinese">痛苦的呼喊声回荡在我的内心。</span><span class="english">Echoes of cries of pain  reverberate in my heart.</span></p>

@@ -1,5 +1,7 @@
 # coddle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coddle.md)
+
 <p><span class="chinese">今天，我们对电脑相当宠溺。</span><span class="english">Today we coddle our computers.</span></p>
 
 <p><span class="chinese">“我不愿意溺爱这个孩子”。</span><span class="english">I would not coddle the child"."</span></p>

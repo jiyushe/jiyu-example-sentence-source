@@ -1,5 +1,7 @@
 # croon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/croon.md)
+
 <p><span class="chinese">本人轻哼这喜悦的诗。</span><span class="english">I croon this poem in delight.</span></p>
 
 <p><span class="chinese">彩星，在她的低吟浅唱中。</span><span class="english">Caixing , inside her croon sing.</span></p>

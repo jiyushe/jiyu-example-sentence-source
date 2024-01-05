@@ -1,5 +1,7 @@
 # 白费口舌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baifeikoushe.md)
+
 <p><span class="chinese">问他是白费口舌。</span><span class="english">Asking him is wasting my breath.</span></p>
 
 <p><span class="chinese">不要同那家伙白费口舌。</span><span class="english">Don't waste words on that fellow.</span></p>

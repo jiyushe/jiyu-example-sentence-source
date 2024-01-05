@@ -1,5 +1,7 @@
 # 砖窑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanyao.md)
+
 <p><span class="chinese">那个地方像砖窑一样冒烟，这你知道。</span><span class="english">The place went up in flames like a kiln, you know.</span></p>
 
 <p><span class="chinese">在喀布尔，一阿富汗工人削木柴，以点燃砖窑。</span><span class="english">An Afghan worker cuts firewood to light a brick kiln in Kabul.</span></p>

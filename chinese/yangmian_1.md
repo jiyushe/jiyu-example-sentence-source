@@ -1,5 +1,7 @@
 # 阳面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangmian_1.md)
+
 <p><span class="chinese">这套房子有两个阳面。</span><span class="english">The house has two sunny rooms.</span></p>
 
 <p><span class="chinese">我想要一间阳面的房间。</span><span class="english">I'd like a room on the sunny side, please.</span></p>

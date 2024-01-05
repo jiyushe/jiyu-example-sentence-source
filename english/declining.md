@@ -1,5 +1,7 @@
 # declining
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/declining.md)
+
 <p><span class="chinese">时近黄昏。</span><span class="english">The day is declining.</span></p>
 
 <p><span class="chinese">没有圆钝的西。</span><span class="english">Without declining west.</span></p>

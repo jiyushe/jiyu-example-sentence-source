@@ -1,5 +1,7 @@
 # combatant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/combatant.md)
+
 <p><span class="chinese">邪术巨人的近身战斗最为有效。</span><span class="english">An eldritch giant is most effective as a melee combatant.</span></p>
 
 <p><span class="chinese">在货币战争中，每个人都在某种程度上以战争结束。</span><span class="english">One way or another, everyone ends up a combatant in the currency wars.</span></p>

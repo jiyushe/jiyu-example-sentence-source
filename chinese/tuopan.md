@@ -1,5 +1,7 @@
 # 托盘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuopan.md)
+
 <p><span class="chinese">托盘。</span><span class="english">Trays.</span></p>
 
 <p><span class="chinese">托盘菜单重新建造。</span><span class="english">Tray menu re-built.</span></p>

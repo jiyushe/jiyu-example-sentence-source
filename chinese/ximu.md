@@ -1,5 +1,7 @@
 # 细目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ximu.md)
+
 <p><span class="chinese">告价格细目表及发货条件。</span><span class="english">Pls. adv. price breakdown and delivery term.</span></p>
 
 <p><span class="chinese">你能逐项列出账单上的细目吗?</span><span class="english">Would you particularize the items on the bill?</span></p>

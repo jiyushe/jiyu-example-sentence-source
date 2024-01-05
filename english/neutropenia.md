@@ -1,5 +1,7 @@
 # neutropenia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neutropenia.md)
+
 <p><span class="chinese">感染和中性粒细胞减少症都没有增加。</span><span class="english">There was no increase in infections or neutropenia with rituximab.</span></p>
 
 <p><span class="chinese">主要毒副作用为骨髓抑制及消化道反应。</span><span class="english">The main side effects were neutropenia and digestive tract reaction.</span></p>

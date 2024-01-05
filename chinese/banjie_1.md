@@ -1,5 +1,7 @@
 # 板结
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banjie_1.md)
+
 <p><span class="chinese">板结的土壤几乎没有隔热作用。</span><span class="english">A compact soil has little insulating effect.</span></p>
 
 <p><span class="chinese">一旦土壤板结粘闭，可能要几个季节才能得以恢复。</span><span class="english">Once soils are puddled badly, it may require several seasons to restore.</span></p>

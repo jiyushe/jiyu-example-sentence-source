@@ -1,5 +1,7 @@
 # spasm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spasm.md)
+
 <p><span class="chinese">肯普突然感到一阵恐惧。</span><span class="english">Kemp felt a spasm of fear.</span></p>
 
 <p><span class="chinese">睫状肌痉挛松弛。</span><span class="english">The ciliary spasm relaxes.</span></p>

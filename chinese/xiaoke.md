@@ -1,5 +1,7 @@
 # 小可
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoke.md)
+
 <p><span class="chinese">小可你是好同志。</span><span class="english">Small can you be good comrades.</span></p>
 
 <p><span class="chinese">事情可小可大，希望不要因此BUG引起更多的是非。</span><span class="english">Things to CoCo, you not so BUG is causing more.</span></p>

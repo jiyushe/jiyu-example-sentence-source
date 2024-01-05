@@ -1,5 +1,7 @@
 # 谈天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tantian.md)
+
 <p><span class="chinese">你还要呆在这儿谈天吗？</span><span class="english">Are you staying to talk?</span></p>
 
 <p><span class="chinese">我最喜欢的消遣是以及朋友谈天。</span><span class="english">My favorite pastime is chatting with friends.</span></p>

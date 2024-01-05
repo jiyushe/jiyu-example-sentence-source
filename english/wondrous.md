@@ -1,5 +1,7 @@
 # wondrous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wondrous.md)
+
 <p><span class="chinese">装饰着你不可思议的形相。</span><span class="english">To deck Thy wondrous form.</span></p>
 
 <p><span class="chinese">幻觉的奇妙世界。</span><span class="english">A wondrous world of phantasms.</span></p>

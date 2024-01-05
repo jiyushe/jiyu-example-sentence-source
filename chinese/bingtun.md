@@ -1,5 +1,7 @@
 # 并吞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingtun.md)
+
 <p><span class="chinese">1747年被罗德岛并吞。</span><span class="english">In 1747 Rhode Island annexed it.</span></p>
 
 <p><span class="chinese">美国于1845年并吞了得克萨斯。</span><span class="english">The United States annexed Texas in 1845.</span></p>

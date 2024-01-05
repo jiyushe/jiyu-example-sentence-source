@@ -1,5 +1,7 @@
 # asphaltene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asphaltene.md)
+
 <p><span class="chinese">沥青质含量增高时，原油质量变坏。</span><span class="english">Asphaltene content increased, the deterioration of oil quality.</span></p>
 
 <p><span class="chinese">介绍了一种用分光光度法测定油品中的沥青质含量的方法。</span><span class="english">An effective method for determination of asphaltene content in oils is reported.</span></p>

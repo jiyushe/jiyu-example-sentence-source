@@ -1,5 +1,7 @@
 # paleosol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paleosol.md)
+
 <p><span class="chinese">黄土形成时的沙尘暴活动比古土壤形成时要强的多。</span><span class="english">Dust storms in Loess period were much stronger than in paleosol period.</span></p>
 
 <p><span class="chinese">其顶部覆盖了末次间冰期古土壤与末次冰期黄土。</span><span class="english">The last interglacial paleosol and last glacial loess units overlie the top of this section.</span></p>

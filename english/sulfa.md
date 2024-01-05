@@ -1,5 +1,7 @@
 # sulfa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sulfa.md)
+
 <p><span class="chinese">谁有磺胺粉?。</span><span class="english">Who's got sulfa powder?</span></p>
 
 <p><span class="chinese">她对青霉素和磺胺类药物过敏。</span><span class="english">She was allergic to penicillin and sulfa drugs.</span></p>

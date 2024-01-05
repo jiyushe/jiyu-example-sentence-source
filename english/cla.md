@@ -1,5 +1,7 @@
 # cla
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cla.md)
+
 <p><span class="chinese">商务仓。非吸烟区。</span><span class="english">Busine cla . Non smoking.</span></p>
 
 <p><span class="chinese">牛奶中的共轭亚油酸也能对抗脂肪。</span><span class="english">CLA in milk fights fat, too.</span></p>

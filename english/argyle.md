@@ -1,5 +1,7 @@
 # argyle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/argyle.md)
+
 <p><span class="chinese">我是你叔叔。奥盖尔。</span><span class="english">I'm your uncle. Argyle.</span></p>
 
 <p><span class="chinese">她穿着定制的合身外套和有菱形花纹的袜子，看上去美极了。</span><span class="english">She was ravishing in her tailored jackets and argyle socks.</span></p>

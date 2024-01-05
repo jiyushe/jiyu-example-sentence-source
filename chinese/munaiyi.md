@@ -1,5 +1,7 @@
 # 木乃伊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/munaiyi.md)
+
 <p><span class="chinese">“千万别是那些木乃伊，”我说。</span><span class="english">“Not the mummies, ” I say.</span></p>
 
 <p><span class="chinese">秘鲁莫希女性木乃伊之墓</span><span class="english">The Moche woman's tomb in Peru</span></p>

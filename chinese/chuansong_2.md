@@ -1,5 +1,7 @@
 # 传诵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuansong_2.md)
+
 <p><span class="chinese">未来的舌头也会将你永传诵。</span><span class="english">And tongues to be, your being shall rehearse.</span></p>
 
 <p><span class="chinese">不像冻在琥珀里的昆虫化石，被人传诵的故事是活生生的。</span><span class="english">Unlike the insect frozen in amber, a told story is alive.</span></p>

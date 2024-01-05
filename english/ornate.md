@@ -1,5 +1,7 @@
 # ornate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ornate.md)
+
 <p><span class="chinese">一个很大的华丽的展览厅。</span><span class="english">A large ornate exhibition hall.</span></p>
 
 <p><span class="chinese">而且野鸡从华丽的房梁上飞。</span><span class="english">And pheasants flew ceiling beams ornate.</span></p>

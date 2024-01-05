@@ -1,5 +1,7 @@
 # 昏昏欲睡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunhunyushui.md)
+
 <p><span class="chinese">这部滑稽剧令我昏昏欲睡，一点儿也没有令人可笑之处。</span><span class="english">This farce narcotizes to me.</span></p>
 
 <p><span class="chinese">你在工作时昏昏欲睡？</span><span class="english">Are you feeling drowsy at work?</span></p>

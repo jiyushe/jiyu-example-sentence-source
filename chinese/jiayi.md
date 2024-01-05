@@ -1,5 +1,7 @@
 # 假意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiayi.md)
+
 <p><span class="chinese">你认为我假意虚情。</span><span class="english">You deem my words untrue.</span></p>
 
 <p><span class="chinese">一开始我假意推三阻四。</span><span class="english">At first I pretended to refuse.</span></p>

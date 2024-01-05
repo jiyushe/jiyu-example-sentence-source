@@ -1,5 +1,7 @@
 # 间距
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianju.md)
+
 <p><span class="chinese">原子间距。</span><span class="english">Atomic spacing.</span></p>
 
 <p><span class="chinese">修改网格线的径向间距。</span><span class="english">Modify spacing along radial lines.</span></p>

@@ -1,5 +1,7 @@
 # nowadays
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nowadays.md)
+
 <p><span class="chinese">现今我们有数码电视。</span><span class="english">Nowadays we have digital TV.</span></p>
 
 <p><span class="chinese">如今它已下沉得厉害。</span><span class="english">It is sagging badly nowadays.</span></p>

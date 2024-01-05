@@ -1,5 +1,7 @@
 # mendicant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mendicant.md)
+
 <p><span class="chinese">他指了指绑在柱子上的老乞丐。</span><span class="english">He pointed to point to bind in the old mendicant on the post.</span></p>
 
 <p><span class="chinese">这可爱的赤裸的乞儿，假装全然无助。</span><span class="english">This dear little naked mendicant pretends to be utterly helpless.</span></p>

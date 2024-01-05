@@ -1,5 +1,7 @@
 # fully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fully.md)
+
 <p><span class="chinese">是的，我完全赞同。</span><span class="english">Yes, I fully agree.</span></p>
 
 <p><span class="chinese">他衣冠楚楚。</span><span class="english">He is fully dressed.</span></p>

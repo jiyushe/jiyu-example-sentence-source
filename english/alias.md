@@ -1,5 +1,7 @@
 # alias
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alias.md)
+
 <p><span class="chinese">甚至他的名字都是假的。</span><span class="english">Even his name was an alias.</span></p>
 
 <p><span class="chinese">用你的化名或昵称。</span><span class="english">Use your alias or nickname.</span></p>

@@ -1,5 +1,7 @@
 # 告示
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaoshi.md)
+
 <p><span class="chinese">真的吗？什么告示板？</span><span class="english">Oh really? What bulletin board?</span></p>
 
 <p><span class="chinese">我看见墙上贴满了告示。</span><span class="english">I saw a wall posted over with notices.</span></p>

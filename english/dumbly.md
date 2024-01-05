@@ -1,5 +1,7 @@
 # dumbly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dumbly.md)
+
 <p><span class="chinese">拉尔夫木然地看着他。</span><span class="english">Ralph looked at him dumbly.</span></p>
 
 <p><span class="chinese">听见那消息她惊愕得发呆了。</span><span class="english">She was dumbly dismayed at the news.</span></p>

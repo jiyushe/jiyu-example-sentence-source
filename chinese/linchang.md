@@ -1,5 +1,7 @@
 # 临场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linchang.md)
+
 <p><span class="chinese">甚至一些有临场经验的演员也失常了。</span><span class="english">Even the seasoned troupers fall apart.</span></p>
 
 <p><span class="chinese">没有气定神闲的临场感。</span><span class="english">Telepresence without presence of mind.</span></p>

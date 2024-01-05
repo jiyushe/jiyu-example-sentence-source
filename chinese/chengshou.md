@@ -1,5 +1,7 @@
 # 承受
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengshou.md)
+
 <p><span class="chinese">增员，你能否承受？</span><span class="english">Can You Afford to Hire?</span></p>
 
 <p><span class="chinese">这需要比较强的承受能力。</span><span class="english">It's hard-hitting stuff.</span></p>

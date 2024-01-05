@@ -1,5 +1,7 @@
 # 言行不一
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanxingbuyi.md)
+
 <p><span class="chinese">你的言行不一致。</span><span class="english">Your words and actions do not accord.</span></p>
 
 <p><span class="chinese">他的所作所为与他的言行不一致。</span><span class="english">His words don't agree with his action.</span></p>

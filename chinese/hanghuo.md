@@ -1,5 +1,7 @@
 # 行货
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanghuo.md)
+
 <p><span class="chinese">是行货就一定有吧…</span><span class="english">Does it has international warranty ?</span></p>
 
 <p><span class="chinese">水货，其实就是国外的行货！</span><span class="english">Parallel, in fact, is licensed abroad!</span></p>

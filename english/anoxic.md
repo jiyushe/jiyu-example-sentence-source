@@ -1,5 +1,7 @@
 # anoxic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anoxic.md)
+
 <p><span class="chinese">记得缺氧事件吧？</span><span class="english">Wrong remember Anoxic Events?</span></p>
 
 <p><span class="chinese">缺氧可能导致大规模生物灭绝。</span><span class="english">Anoxic events may have caused mass extinctions.</span></p>

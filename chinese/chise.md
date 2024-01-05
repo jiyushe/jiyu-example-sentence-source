@@ -1,5 +1,7 @@
 # 赤色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chise.md)
+
 <p><span class="chinese">茎是箭杆，赤色。</span><span class="english">Stem is now, red.</span></p>
 
 <p><span class="chinese">赤色海岸化石堆。</span><span class="english">Red Reaches Fossil Bank.</span></p>

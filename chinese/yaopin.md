@@ -1,5 +1,7 @@
 # 药品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaopin.md)
+
 <p><span class="chinese">有谁来说说，药品。</span><span class="english">Somebody just say it. The drug.</span></p>
 
 <p><span class="chinese">丢弃药品非常的危险。</span><span class="english">Cast-off drugs can be dangerous.</span></p>

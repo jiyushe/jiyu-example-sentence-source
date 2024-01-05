@@ -1,5 +1,7 @@
 # systematism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/systematism.md)
+
 <p><span class="chinese">文学理论的现代性表现为理论言语的科学化与体系化。</span><span class="english">The modernity of literary theory is evident scientism and systematism of diction.</span></p>
 
 <p><span class="chinese">在此基础上，尝试为古代汉语用典修辞理论建立起一个较为体系化的构架。</span><span class="english">By this try to set up a more systematism frame for the theory of citing allusion in archaic Chinese.</span></p>

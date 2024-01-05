@@ -1,5 +1,7 @@
 # lectin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lectin.md)
+
 <p><span class="chinese">棉花凝集素贮存在种子子叶和胚中。</span><span class="english">The lectin of cottons exist in their cotyledon and embryo.</span></p>
 
 <p><span class="chinese">竹叶青蛇毒中存在一个C类动物凝集素。</span><span class="english">In the venom of Trimeresurus stejnegeri exists a C type animal lectin.</span></p>

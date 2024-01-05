@@ -1,5 +1,7 @@
 # garishly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/garishly.md)
+
 <p><span class="chinese">装饰或修饰，通常是华美地，耀眼地。</span><span class="english">To ornament or adorn, often garishly.</span></p>
 
 <p><span class="chinese">鲜艳的塑料花把教堂装扮得很华丽。</span><span class="english">The temple was garishly decorated with bright plastic flowers.</span></p>

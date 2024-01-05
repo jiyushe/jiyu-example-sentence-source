@@ -1,5 +1,7 @@
 # meteoroid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meteoroid.md)
+
 <p><span class="chinese">但是即使如此，却很少被发现。</span><span class="english">And even smaller type of interplanetary debris is the meteoroid.</span></p>
 
 <p><span class="chinese">对流星群的研究作了简明而系统的介绍。</span><span class="english">Studies on meteoroid streams are briefly and systematically presented.</span></p>

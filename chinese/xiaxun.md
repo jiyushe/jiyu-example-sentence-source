@@ -1,5 +1,7 @@
 # 下旬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaxun.md)
+
 <p><span class="chinese">九月下旬到十月中旬。</span><span class="english">Between late-September and mid-October.</span></p>
 
 <p><span class="chinese">五月下旬出现适于调制干草的好天气。</span><span class="english">Good haymaking weather comes in late May.</span></p>

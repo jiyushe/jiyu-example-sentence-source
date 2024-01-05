@@ -1,5 +1,7 @@
 # derrick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/derrick.md)
+
 <p><span class="chinese">我们就在那块地面上竖起一个井架。</span><span class="english">We put up at the surface an oil derrick.</span></p>
 
 <p><span class="chinese">起棕吊杆是踊肿最简单的起棕机。</span><span class="english">The gin pole is the simplest form derrick.</span></p>

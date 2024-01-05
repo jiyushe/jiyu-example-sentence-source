@@ -1,5 +1,7 @@
 # 本位主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benweizhuyi.md)
+
 <p><span class="chinese">本位主义是放大了的个人主义。</span><span class="english">Departmentalism is magnified individualism.</span></p>
 
 <p><span class="chinese">这是民族本位主义评论么？</span><span class="english">What is it with the egotistical nationalist comments?</span></p>

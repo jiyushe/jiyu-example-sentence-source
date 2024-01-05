@@ -1,5 +1,7 @@
 # bagpipe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bagpipe.md)
+
 <p><span class="chinese">这是一种熏衣草香水。</span><span class="english">This is a kind of bagpipe.</span></p>
 
 <p><span class="chinese">根据母系的血缘，她是苏格兰的后裔。</span><span class="english">This is a kind of Scottish bagpipe.</span></p>

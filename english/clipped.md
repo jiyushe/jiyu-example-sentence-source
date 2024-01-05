@@ -1,5 +1,7 @@
 # clipped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clipped.md)
+
 <p><span class="chinese">一块石头嗖地飞过。</span><span class="english">A rock clipped through the air.</span></p>
 
 <p><span class="chinese">我们的狗每年夏季均剪毛。</span><span class="english">Our dog is clipped every summer.</span></p>

@@ -1,5 +1,7 @@
 # concord
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concord.md)
+
 <p><span class="chinese">与四邻和睦相处。</span><span class="english">Live in concord with sb.</span></p>
 
 <p><span class="chinese">和谐悦耳的声音如此美妙。</span><span class="english">If the true concord of well-tuned sounds.</span></p>

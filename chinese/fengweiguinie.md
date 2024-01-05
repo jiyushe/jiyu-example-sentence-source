@@ -1,5 +1,7 @@
 # 奉为圭臬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengweiguinie.md)
+
 <p><span class="chinese">我经常听到「神灯系列」被奉为圭臬。</span><span class="english">I frequently hear the Magic Lanterns described as rules.</span></p>
 
 <p><span class="chinese">被我们奉为圭臬的英国模式，是纯粹不能持久奉行的。</span><span class="english">The British model, presented to us all as exemplary, simply could not last.</span></p>

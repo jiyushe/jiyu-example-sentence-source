@@ -1,5 +1,7 @@
 # 老头子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laotouzi.md)
+
 <p><span class="chinese">老头子不同意。</span><span class="english">A Pho did not agree.</span></p>
 
 <p><span class="chinese">就像他那老头子一样。</span><span class="english">Just like his old man.</span></p>

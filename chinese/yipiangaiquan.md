@@ -1,5 +1,7 @@
 # 以偏概全
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yipiangaiquan.md)
+
 <p><span class="chinese">极端的以偏概全。</span><span class="english">Overgeneralization in the extreme.</span></p>
 
 <p><span class="chinese">以偏概全地谈论人是危险的。</span><span class="english">It is dangerous to generalize about people.</span></p>

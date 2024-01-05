@@ -1,5 +1,7 @@
 # 尊姓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zunxing.md)
+
 <p><span class="chinese">请问尊姓大名?</span><span class="english">May I know your name?</span></p>
 
 <p><span class="chinese">请问你尊姓大名？</span><span class="english">May I not ask your name?</span></p>

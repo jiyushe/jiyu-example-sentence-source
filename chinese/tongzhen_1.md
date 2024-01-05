@@ -1,5 +1,7 @@
 # 童贞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongzhen_1.md)
+
 <p><span class="chinese">一盒两个拆的童贞膜出售价正在500元摆布！</span><span class="english">A box of two Japanese hymens can sell around 500 yuan!</span></p>
 
 <p><span class="chinese">她对童贞演讲提出许多要求。</span><span class="english">She's making extraordinary claims for virginal oratory.</span></p>

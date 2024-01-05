@@ -1,5 +1,7 @@
 # 平顺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingshun.md)
+
 <p><span class="chinese">不曾有过平顺或轻松的过渡。</span><span class="english">No transition is ever smooth or easy.</span></p>
 
 <p><span class="chinese">慢慢地、柔柔地、平顺地、轻轻地。</span><span class="english">Slowly, softly, smoothly and lightly.</span></p>

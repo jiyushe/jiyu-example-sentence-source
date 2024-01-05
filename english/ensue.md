@@ -1,5 +1,7 @@
 # ensue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ensue.md)
+
 <p><span class="chinese">许多抱怨声将接踵而至。</span><span class="english">Much hand-wringing will ensue.</span></p>
 
 <p><span class="chinese">随之而来的便是一个名为“谁是勇者”的游戏。</span><span class="english">Then a game of who's the bravest would ensue.</span></p>

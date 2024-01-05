@@ -1,5 +1,7 @@
 # 锦绣前程
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinxiuqiancheng.md)
+
 <p><span class="chinese">让我们一起憧憬锦绣前程吧！</span><span class="english">Let's look forward to having a brilliant future!</span></p>
 
 <p><span class="chinese">我们更会勾画美好蓝图，开创每一个上外人自己的锦绣前程。</span><span class="english">We will draw a blueprint to create our own bright future.</span></p>

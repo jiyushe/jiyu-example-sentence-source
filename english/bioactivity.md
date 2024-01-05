@@ -1,5 +1,7 @@
 # bioactivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bioactivity.md)
+
 <p><span class="chinese">使某些激素灭活，使其失去生物学活性。</span><span class="english">To inactivate hormone , to make it lose its bioactivity.</span></p>
 
 <p><span class="chinese">MTT检测颗粒溶素融合蛋白的生物活性。</span><span class="english">The bioactivity of granulysin fusion protein was measured by MTT assay.</span></p>

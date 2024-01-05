@@ -1,5 +1,7 @@
 # 诗文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiwen_2.md)
+
 <p><span class="chinese">在四周撒下了许多圣经诗文。</span><span class="english">And many a holy text around she strews.</span></p>
 
 <p><span class="chinese">许多作家都爱写有关树的诗文。</span><span class="english">Many writers love to write about trees.</span></p>

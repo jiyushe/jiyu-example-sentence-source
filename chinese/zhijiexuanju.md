@@ -1,5 +1,7 @@
 # 直接选举
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhijiexuanju.md)
+
 <p><span class="chinese">2008年举行既立法会地区直接选举，你会唔会去投票？</span><span class="english">Will you vote in the Legislative Council Election in 2008?</span></p>
 
 <p><span class="chinese">新的立法会议席中半数将直接选举产生。</span><span class="english">Half of the new legislative seats would be directly elected.</span></p>

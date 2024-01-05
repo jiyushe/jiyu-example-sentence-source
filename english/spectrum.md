@@ -1,5 +1,7 @@
 # spectrum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spectrum.md)
+
 <p><span class="chinese">比较激发光谱。</span><span class="english">Compare action spectrum.</span></p>
 
 <p><span class="chinese">全谱的爱是什么呢？</span><span class="english">What is full spectrum love?</span></p>

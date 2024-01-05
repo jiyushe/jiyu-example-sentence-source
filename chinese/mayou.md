@@ -1,5 +1,7 @@
 # 麻油
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mayou.md)
+
 <p><span class="chinese">洒上麻油，装盘，即可使用。</span><span class="english">Sprinkle with the sesame oil, remove, and serve.</span></p>
 
 <p><span class="chinese">荷叶放滚水内拖软，扫上麻油。</span><span class="english">Blanch lotus leaf until soft, brush with sesame oil.</span></p>

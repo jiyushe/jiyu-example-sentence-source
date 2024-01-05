@@ -1,5 +1,7 @@
 # enamel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enamel.md)
+
 <p><span class="chinese">用瓷漆做了一次试验。</span><span class="english">Experiments with enamel paint.</span></p>
 
 <p><span class="chinese">白色颜色真正珐琅拨号盘。</span><span class="english">White color genuine enamel dial.</span></p>

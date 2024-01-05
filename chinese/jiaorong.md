@@ -1,5 +1,7 @@
 # 交融
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaorong.md)
+
 <p><span class="chinese">它将会是一个交融。</span><span class="english">It'll be a blend.</span></p>
 
 <p><span class="chinese">岂在乎眼、唇和手的交融。</span><span class="english">Care less, eyes, lips, and hands to miss.</span></p>

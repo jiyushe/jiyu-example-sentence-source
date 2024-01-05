@@ -1,5 +1,7 @@
 # practicably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/practicably.md)
+
 <p><span class="chinese">与天然橡胶同等质量的合成橡胶仍然不能实际生产。</span><span class="english">Synthetic rubber of equal quality still cannot be practicably manufactured.</span></p>
 
 <p><span class="chinese">本文所提出的建议都是经过实际操作论证的，具有一定的现实意义。</span><span class="english">All the suggestions appearing in this article has been practicably approved by the real operations.</span></p>

@@ -1,5 +1,7 @@
 # 问号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenhao_2.md)
+
 <p><span class="chinese">他打了一个大大的问号</span><span class="english">he says with a question mark.</span></p>
 
 <p><span class="chinese">请选择问号。</span><span class="english">Please choose the questionmark.</span></p>

@@ -1,5 +1,7 @@
 # 西皮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xipi.md)
+
 <p><span class="chinese">终于明白原来西皮只是说唱的一种主要形式。</span><span class="english">Hip-Hop is one main type of RAP.</span></p>
 
 <p><span class="chinese">京剧的西皮和二黄乃是清朝的产物。</span><span class="english">Hsi P'i and Erh Huang tunes were products of the Ch'ing Dynasty.</span></p>

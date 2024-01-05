@@ -1,5 +1,7 @@
 # virulence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/virulence.md)
+
 <p><span class="chinese">如何衡量毒性？</span><span class="english">How is virulence measured?</span></p>
 
 <p><span class="chinese">病原菌的效应分子是导致植物发病的毒性因子。</span><span class="english">Pathogen effectors are virulence factors causing plant diseases.</span></p>

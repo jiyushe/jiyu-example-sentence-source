@@ -1,5 +1,7 @@
 # 千里迢迢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianlitiaotiao.md)
+
 <p><span class="chinese">你千里迢迢从波斯赶来，就是为了土地和水？</span><span class="english">You rode all the way from Persia for earth and water?</span></p>
 
 <p><span class="chinese">我做梦都没想到你会千里迢迢来看我。</span><span class="english">You crossed thousands of miles and came to see me beyond my dreams.</span></p>

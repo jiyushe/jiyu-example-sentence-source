@@ -1,5 +1,7 @@
 # 为了
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weile.md)
+
 <p><span class="chinese">为了保护环境，我们应该尽量减少使用塑料袋。</span><span class="english">In order to protect the environment, we should try to reduce the use of plastic bags.</span></p>
 <p><span class="chinese">我们每天努力工作，为了实现更美好的未来。</span><span class="english">We work hard every day in order to achieve a better future.</span></p>
 <p><span class="chinese">为了提高服务质量，公司决定进行员工培训。</span><span class="english">In order to improve service quality, the company has decided to conduct employee training.</span></p>

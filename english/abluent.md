@@ -1,5 +1,7 @@
 # abluent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abluent.md)
+
 <p><span class="chinese">大黄鳝鱼一条，洗净去内脏加调料红烧食用。</span><span class="english">Chinese rhubarb eel, abluent go splanchnic add condiment edible of braise in soy sauce.</span></p>
 
 <p><span class="chinese">将胎盘洗净切成块，文火与冬虫夏草共煮，炖熟后稍加佐料食用。</span><span class="english">Will placental abluent cut agglomerate, slow fire and aweto are boiled in all, stew ripe hind slightly spice edible.</span></p>

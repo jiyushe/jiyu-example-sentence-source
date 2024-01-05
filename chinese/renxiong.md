@@ -1,5 +1,7 @@
 # 仁兄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renxiong.md)
+
 <p><span class="chinese">有个仁兄熟练地拉着这种二弦乐器。</span><span class="english">One man deftly plays the two- stringed instrument.</span></p>
 
 <p><span class="chinese">首先让我们看看用户头一次见到这两位仁兄会是怎样的感受。</span><span class="english">I want to first examine how the user is going to feel upon first glance.</span></p>

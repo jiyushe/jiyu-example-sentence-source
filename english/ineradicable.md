@@ -1,5 +1,7 @@
 # ineradicable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ineradicable.md)
+
 <p><span class="chinese">有区别，深，永恒的，不可磨灭的。</span><span class="english">There was a difference, deep, eternal, ineradicable.</span></p>
 
 <p><span class="chinese">童年早期的情感创伤留下了难以抚平的伤痕。</span><span class="english">The emotional wounds of early childhood leave ineradicable scars.</span></p>

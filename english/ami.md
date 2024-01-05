@@ -1,5 +1,7 @@
 # ami
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ami.md)
+
 <p><span class="chinese">其次为非Q波型梗塞患者。</span><span class="english">Non-Q-wave type AMI was second.</span></p>
 
 <p><span class="chinese">社区里的阿美族居民，多从事劳力工作。</span><span class="english">Most of the Ami residents on the estate are manual workers.</span></p>

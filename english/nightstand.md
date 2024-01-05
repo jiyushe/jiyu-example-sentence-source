@@ -1,5 +1,7 @@
 # nightstand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nightstand.md)
+
 <p><span class="chinese">在我夜里的店里放上我父母的照片。</span><span class="english">Put a picture of my parents on my nightstand.</span></p>
 
 <p><span class="chinese">将其他的玫瑰放在床头柜的花瓶中。</span><span class="english">Put the other roses in a vase on the nightstand.</span></p>

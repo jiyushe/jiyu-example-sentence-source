@@ -1,5 +1,7 @@
 # polychromatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polychromatic.md)
+
 <p><span class="chinese">用于多色光的波片的设计。</span><span class="english">Design of the wave plate for polychromatic light.</span></p>
 
 <p><span class="chinese">多色光不可能调制频率。</span><span class="english">Frequency modulation is not possible with polychromatic light.</span></p>

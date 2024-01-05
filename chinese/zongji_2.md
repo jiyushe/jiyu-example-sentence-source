@@ -1,5 +1,7 @@
 # 踪迹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongji_2.md)
+
 <p><span class="chinese">参赛者追踪雀鸟踪迹。</span><span class="english">On the trail of a bird.</span></p>
 
 <p><span class="chinese">我们找不到他的踪迹。</span><span class="english">We have lost all trace of him.</span></p>

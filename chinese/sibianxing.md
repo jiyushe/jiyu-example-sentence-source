@@ -1,5 +1,7 @@
 # 四边形
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sibianxing.md)
+
 <p><span class="chinese">正方形是四边形的一种。</span><span class="english">A square is a quadrilateral.</span></p>
 
 <p><span class="chinese">勾股定理和四边形。</span><span class="english">Pythagorean theorem and quadrangle.</span></p>

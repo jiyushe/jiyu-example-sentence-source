@@ -1,5 +1,7 @@
 # metastases
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metastases.md)
+
 <p><span class="chinese">骨转移的较近视图。</span><span class="english">Here is a closer view of bone metastases.</span></p>
 
 <p><span class="chinese">转移性肿瘤可导致出血性心包炎。</span><span class="english">Metastases may lead to a hemorrhagic pericarditis.</span></p>

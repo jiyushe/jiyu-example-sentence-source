@@ -1,5 +1,7 @@
 # courseware
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/courseware.md)
+
 <p><span class="chinese">下面这个是一个叫课件的按钮。</span><span class="english">Down here is a button called Courseware.</span></p>
 
 <p><span class="chinese">我们用RUP的思想来构建课件。</span><span class="english">We build courseware using the spirit of RUP.</span></p>

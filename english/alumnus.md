@@ -1,5 +1,7 @@
 # alumnus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alumnus.md)
+
 <p><span class="chinese">您是南开校友吗？</span><span class="english">Are you a Nankai Alumnus?</span></p>
 
 <p><span class="chinese">店主是我所在大学的校友。</span><span class="english">The ower was an alumnus from my university.</span></p>

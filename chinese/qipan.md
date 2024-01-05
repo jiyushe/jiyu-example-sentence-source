@@ -1,5 +1,7 @@
 # 企盼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qipan.md)
+
 <p><span class="chinese">斯蒂芬尼夙夜企盼着一段鸾凤和鸣的姻缘。</span><span class="english">Stephanie dreams of an Amelia-type marriage day and night.</span></p>
 
 <p><span class="chinese">人们企盼着申办成功，企盼着新北京、新奥运。</span><span class="english">If the bid succeeds, it will be a New Beijing, Great Olympics.</span></p>

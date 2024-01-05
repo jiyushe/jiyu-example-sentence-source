@@ -1,5 +1,7 @@
 # 出品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chupin.md)
+
 <p><span class="chinese">你可以将食品看作‘溢出品’。</span><span class="english">This you can call a spillover.</span></p>
 
 <p><span class="chinese">出品所用的装饰水果是干的。</span><span class="english">When fruit garnish is dried out.</span></p>

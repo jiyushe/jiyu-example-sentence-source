@@ -1,5 +1,7 @@
 # 出世
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chushi.md)
+
 <p><span class="chinese">我很忻悦你出世了。</span><span class="english">I'm glad you were born.</span></p>
 
 <p><span class="chinese">阿瑟②还没有出世。</span><span class="english">Arthurs did not yet exist.</span></p>

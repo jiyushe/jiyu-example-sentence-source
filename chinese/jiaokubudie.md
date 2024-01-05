@@ -1,5 +1,7 @@
 # 叫苦不迭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaokubudie.md)
+
 <p><span class="chinese">那名学生又开始叫苦不迭。</span><span class="english">Then students started to complain incessantly.</span></p>
 
 <p><span class="chinese">这是一场人们叫苦不迭的旅途。</span><span class="english">This is a journey that's filled with complaints.</span></p>

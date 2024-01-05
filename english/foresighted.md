@@ -1,5 +1,7 @@
 # foresighted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foresighted.md)
+
 <p><span class="chinese">作者的建议有很大的前景！</span><span class="english">The author is very foresighted in his suggestions!</span></p>
 
 <p><span class="chinese">我必须十分的细心和有预见性。</span><span class="english">As a SD coordinator, I have to be very detail and foresighted.</span></p>

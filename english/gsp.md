@@ -1,5 +1,7 @@
 # gsp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gsp.md)
+
 <p><span class="chinese">许多病人佩戴GSP臂章，便于工作人员监控他们的位置。</span><span class="english">Many patients also wear GSP armbands that help the staff monitor their locations.</span></p>
 
 <p><span class="chinese">为了节约进口关税，你们可以申请普惠制原产地证书。</span><span class="english">It is advisable for you to apply for a GSP Form A to save the cost of import duty.</span></p>

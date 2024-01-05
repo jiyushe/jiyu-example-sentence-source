@@ -1,5 +1,7 @@
 # fred
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fred.md)
+
 <p><span class="chinese">佛瑞德说。</span><span class="english">Fred said.</span></p>
 
 <p><span class="chinese">嗨,我是福瑞.</span><span class="english">Hi,this is Fred.</span></p>

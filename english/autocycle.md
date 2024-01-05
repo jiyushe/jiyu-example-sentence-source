@@ -1,5 +1,7 @@
 # autocycle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autocycle.md)
+
 <p><span class="chinese">偶的摩托车现在放在第三个车棚里。</span><span class="english">My autocycle is in the third bicycle-shed.</span></p>
 
 <p><span class="chinese">偷过最值钱的物品是摩托车。</span><span class="english">Stealing the most valuable goods is autocycle.</span></p>

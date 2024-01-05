@@ -1,5 +1,7 @@
 # procaine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/procaine.md)
+
 <p><span class="chinese">你以前打过普鲁卡因吗？</span><span class="english">Have you ever had an injection of procaine before?</span></p>
 
 <p><span class="chinese">目的利用普罗卡因封闭泪腺治疗泪液分泌过多症。</span><span class="english">Objective To remedy lacrimal hypersecretion by procaine blocking lacrimal gland.</span></p>

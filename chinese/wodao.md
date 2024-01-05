@@ -1,5 +1,7 @@
 # 卧倒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wodao.md)
+
 <p><span class="chinese">“卧倒！”队长叫道。</span><span class="english">"Lie down! " shouted the captain.</span></p>
 
 <p><span class="chinese">我卧倒，伸开四肢趴着。</span><span class="english">Down I went, sprawled on all fours.</span></p>

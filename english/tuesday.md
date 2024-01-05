@@ -1,5 +1,7 @@
 # tuesday
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tuesday.md)
+
 <p><span class="chinese">那就在周二做吧。</span><span class="english">Do it on a Tuesday.</span></p>
 
 <p><span class="chinese">这是个黑色星期二。</span><span class="english">It was Shrove Tuesday.</span></p>

@@ -1,5 +1,7 @@
 # 坟墓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenmu_1.md)
+
 <p><span class="chinese">但丁的坟墓。</span><span class="english">Dante’s grave.</span></p>
 
 <p><span class="chinese">起初，我在脑海中掘开了一个坟墓。</span><span class="english">Mentally I dug a grave.</span></p>

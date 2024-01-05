@@ -1,5 +1,7 @@
 # 蜕化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuihua.md)
+
 <p><span class="chinese">没有了，没有。只有艺术家和蜕化分子。</span><span class="english">No, no. Only artists and the usual degenerates.</span></p>
 
 <p><span class="chinese">蜕化成一只美丽而纤灵的蝴蝶。</span><span class="english">Change into a beautiful butterfly and fiber spirit.</span></p>

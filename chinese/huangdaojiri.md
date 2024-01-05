@@ -1,5 +1,7 @@
 # 黄道吉日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangdaojiri.md)
+
 <p><span class="chinese">天秤座男人的黄道吉日。</span><span class="english">It will be an auspicious day for Libra men.</span></p>
 
 <p><span class="chinese">没错，口红和女儿。真是黄道吉日。</span><span class="english">Yep, lipstick and a daughter. Big day for you!</span></p>

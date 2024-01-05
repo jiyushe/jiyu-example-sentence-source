@@ -1,5 +1,7 @@
 # incrustation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incrustation.md)
+
 <p><span class="chinese">陵墓的北面入口及其漂亮，拱顶的门是雕刻所成，并镶嵌有精致的象牙。</span><span class="english">The door of the burial- vault is carved and decorated with fine ivory incrustation.</span></p>
 
 <p><span class="chinese">循环冷却水水质差是冷凝器表面结垢的主要原因。</span><span class="english">The circulating cooling water of low quality is the primary reason for incrustation.</span></p>

@@ -1,5 +1,7 @@
 # stannum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stannum.md)
+
 <p><span class="chinese">我的眼球里进入了炽热的液体锡怎么办?。</span><span class="english">How was blazing liquid stannum entered to do in my eyeball?</span></p>
 
 <p><span class="chinese">纯锡坊”源自马来西亚，立足于中国。</span><span class="english">Pure Stannum Mill" comes from Malaysia, and is established in China."</span></p>

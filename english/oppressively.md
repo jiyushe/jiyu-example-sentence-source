@@ -1,5 +1,7 @@
 # oppressively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oppressively.md)
+
 <p><span class="chinese">要是你想当然地认为这里热得要命的话，那你就错了。</span><span class="english">You're mistaken if you imagine it to be oppressively hot.</span></p>
 
 <p><span class="chinese">也许他们都生长于教会oppressively守法。</span><span class="english">Maybe they were raised in a church that was oppressively legalistic.</span></p>

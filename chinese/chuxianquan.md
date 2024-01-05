@@ -1,5 +1,7 @@
 # 出线权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuxianquan.md)
+
 <p><span class="chinese">倒数第三轮，荷兰客场2比1击败冰岛，提前两轮锁定出线权。</span><span class="english">Bottom third round, the Netherlands beat Iceland away 2 to 1, ahead of two qualify from locking.</span></p>
 
 <p><span class="chinese">“就像每一个英格兰球迷一样，我们对没能取得出线权也感到失望之极，”他说。</span><span class="english">Like every England fan, we are bitterly disappointed that we have failed to qualify, " he said."</span></p>

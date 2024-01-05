@@ -1,5 +1,7 @@
 # 拨乱反正
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/boluanfanzheng.md)
+
 <p><span class="chinese">英嘉说，“现在我们慢慢地拨乱反正。”</span><span class="english">Now slowly we are putting it back together.</span></p>
 
 <p><span class="chinese">我可以向大家保证我们正努力的工作并尝试把所有东西都拨乱反正。</span><span class="english">I can promise everyone that we are still working hard and trying to put things right.</span></p>

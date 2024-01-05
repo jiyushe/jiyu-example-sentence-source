@@ -1,5 +1,7 @@
 # sensitiveness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sensitiveness.md)
+
 <p><span class="chinese">那些数不清的绵羊只会增加我对数字的敏感。</span><span class="english">Those countless sheep only add to my sensitiveness to numbers.</span></p>
 
 <p><span class="chinese">与他的交往使我能够摆脱掉我那缺乏自信的敏感。</span><span class="english">His companionship made it possible for me to shake off my shrinking sensitiveness.</span></p>

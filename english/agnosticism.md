@@ -1,5 +1,7 @@
 # agnosticism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agnosticism.md)
+
 <p><span class="chinese">无神论者和不可知论者的数量越来越多。</span><span class="english">Atheism and agnosticism are increasing in number.</span></p>
 
 <p><span class="chinese">无神论和不可知论成为了当时的时尚。</span><span class="english">So atheism and agnosticism became the fashion of the day.</span></p>

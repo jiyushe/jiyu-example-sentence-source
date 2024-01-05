@@ -1,5 +1,7 @@
 # begun
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/begun.md)
+
 <p><span class="chinese">这还只是开始。</span><span class="english">This has just begun.</span></p>
 
 <p><span class="chinese">好的开始时成功的一半。</span><span class="english">Well begun is half down.</span></p>

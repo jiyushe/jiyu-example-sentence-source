@@ -1,5 +1,7 @@
 # 装腔作势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangqiangzuoshi.md)
+
 <p><span class="chinese">他在装腔作势。</span><span class="english">He puts on airs.</span></p>
 
 <p><span class="chinese">你尽可以装腔作势地说，“我能通神，可惜你不行.”</span><span class="english">I’m sorry that you can’t also.</span></p>

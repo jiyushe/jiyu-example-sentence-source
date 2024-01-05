@@ -1,5 +1,7 @@
 # 虾子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiazi_2.md)
+
 <p><span class="chinese">游开，哦，看，是虾子。</span><span class="english">Swim away! Oh, look, krill!</span></p>
 
 <p><span class="chinese">那些虾子已经剥过壳了。</span><span class="english">Those shrimp are already shelled.</span></p>

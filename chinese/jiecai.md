@@ -1,5 +1,7 @@
 # 芥菜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiecai.md)
+
 <p><span class="chinese">巨大野芥菜处处。</span><span class="english">Giant wild mustards all around.</span></p>
 
 <p><span class="chinese">野芥菜摇曳田垅。</span><span class="english">Wild mustards flicker in the field.</span></p>

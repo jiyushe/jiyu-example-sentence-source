@@ -1,5 +1,7 @@
 # squint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/squint.md)
+
 <p><span class="chinese">我要眯着眼睛才看得到。</span><span class="english">I have to squint to see it.</span></p>
 
 <p><span class="chinese">我要眯着眼睛才看获得。</span><span class="english">Ihaudio-videoe to squint to see it.</span></p>

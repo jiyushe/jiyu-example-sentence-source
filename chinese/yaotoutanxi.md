@@ -1,5 +1,7 @@
 # 摇头叹息
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaotoutanxi.md)
+
 <p><span class="chinese">我不知道还有什么比这个消息更能令人摇头叹息了。</span><span class="english">If that doesn’t have your head shaking, I don’t know what will.</span></p>
 
 <p><span class="chinese">跟这些人谈话真是索然无味，因此才摇头叹息。</span><span class="english">Talking with them are tedious so I can't help shaking head and sighing.</span></p>

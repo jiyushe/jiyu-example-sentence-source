@@ -1,5 +1,7 @@
 # 黑魆魆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heixuxu.md)
+
 <p><span class="chinese">在这里黑魆魆长夜，希望在哪里？</span><span class="english">Where is your hope in this dark long night?</span></p>
 
 <p><span class="chinese">深夜，房间里黑魆魆的，什么也看不到。</span><span class="english">I can see nothing in the dark room at night.</span></p>

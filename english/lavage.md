@@ -1,5 +1,7 @@
 # lavage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lavage.md)
+
 <p><span class="chinese">全肺灌洗疗效肯定。</span><span class="english">Whole-lung lavage is effective.</span></p>
 
 <p><span class="chinese">全肺灌洗治疗效果显著。</span><span class="english">Whole lung lavage is an efficient therapy for PAP.</span></p>

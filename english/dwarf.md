@@ -1,5 +1,7 @@
 # dwarf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dwarf.md)
+
 <p><span class="chinese">侏儒窃笑。</span><span class="english">The dwarf sniggered.</span></p>
 
 <p><span class="chinese">侏儒骑上马。</span><span class="english">The dwarf rode the horse.</span></p>

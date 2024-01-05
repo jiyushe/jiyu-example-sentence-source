@@ -1,5 +1,7 @@
 # 愁云
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chouyun.md)
+
 <p><span class="chinese">他也许活的愁云惨雾的，但是他是活的。</span><span class="english">He may be scowling but he's alive.</span></p>
 
 <p><span class="chinese">全家笼罩着一片愁云惨雾。</span><span class="english">The news cast a deep gloom over the whole family.</span></p>

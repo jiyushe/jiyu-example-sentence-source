@@ -1,5 +1,7 @@
 # rabi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rabi.md)
+
 <p><span class="chinese">格林伯格拉比送给索菲一个门柱经卷做礼物。</span><span class="english">Rabi Greenberg gifts Sophie a mezuzah.</span></p>
 
 <p><span class="chinese">同时，随着激光场强度的增加，观测到了拉比振荡现象。</span><span class="english">As the intensity of laser increases, the Rabi oscillation was observed.</span></p>

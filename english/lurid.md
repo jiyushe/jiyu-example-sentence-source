@@ -1,5 +1,7 @@
 # lurid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lurid.md)
+
 <p><span class="chinese">她穿着一件花哨的橙绿相间的衬衫。</span><span class="english">She was wearing a lurid orange and green blouse.</span></p>
 
 <p><span class="chinese">耀眼的夕阳映红了他们的脸。</span><span class="english">The lurid sunset puts a red light on their faces.</span></p>

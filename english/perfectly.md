@@ -1,5 +1,7 @@
 # perfectly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perfectly.md)
+
 <p><span class="chinese">是的，合身极了。</span><span class="english">Yes,it fits perfectly.</span></p>
 
 <p><span class="chinese">它是完全对称的。</span><span class="english">It's perfectly symmetric.</span></p>

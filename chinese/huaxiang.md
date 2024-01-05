@@ -1,5 +1,7 @@
 # 滑翔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huaxiang.md)
+
 <p><span class="chinese">学习飞行用一件滑翔衣。</span><span class="english">Learn to Fly a Wingsuit.</span></p>
 
 <p><span class="chinese">没有什么可以胜过滑翔翼运动。</span><span class="english">You can't beat hang- gliding.</span></p>

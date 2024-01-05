@@ -1,5 +1,7 @@
 # their 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/their.md)
+
 <p><span class="chinese">还有妈妈的教诲？</span><span class="english">Their mom?</span></p>
 
 <p><span class="chinese">读读他们的作品。</span><span class="english">Read their works.</span></p>

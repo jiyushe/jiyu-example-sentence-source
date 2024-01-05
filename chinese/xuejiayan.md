@@ -1,5 +1,7 @@
 # 雪茄烟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuejiayan.md)
+
 <p><span class="chinese">喜欢抽高级雪茄烟。</span><span class="english">Likes a good cigar.</span></p>
 
 <p><span class="chinese">来一根雪茄烟怎么样？</span><span class="english">He fired up a cigar.</span></p>

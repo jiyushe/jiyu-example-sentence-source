@@ -1,5 +1,7 @@
 # airiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airiness.md)
+
 <p><span class="chinese">必须在通风条件好的房间里使用。</span><span class="english">This office room is not airiness.</span></p>
 
 <p><span class="chinese">经常打开所有窗户，使空气流通。</span><span class="english">Often open all windows, make airiness.</span></p>

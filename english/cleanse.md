@@ -1,5 +1,7 @@
 # cleanse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cleanse.md)
+
 <p><span class="chinese">陈皮浸软刮瓤。</span><span class="english">Soak and Cleanse dried tangerine peel.</span></p>
 
 <p><span class="chinese">冲洗治疗法使用冲洗液冲洗或治疗。</span><span class="english">To cleanse or treat by means of a douche.</span></p>

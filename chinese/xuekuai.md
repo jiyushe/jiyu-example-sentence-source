@@ -1,5 +1,7 @@
 # 血块
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuekuai.md)
+
 <p><span class="chinese">他的嘴的周围粘着血块。</span><span class="english">The blood caked around his mouth.</span></p>
 
 <p><span class="chinese">我希望它不要像血块布丁。</span><span class="english">I hope it’s nothing like blood pudding.</span></p>

@@ -1,5 +1,7 @@
 # noted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noted.md)
+
 <p><span class="chinese">他注意到这名字，贝斯尼。</span><span class="english">He noted the name. Bethany.</span></p>
 
 <p><span class="chinese">萨姆是个著名的大力士。</span><span class="english">Sam is noted for his strength.</span></p>

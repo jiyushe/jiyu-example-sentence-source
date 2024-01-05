@@ -1,5 +1,7 @@
 # including 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/including.md)
+
 <p><span class="chinese">包括余秋雨的发型。</span><span class="english">Including Yu Qiuyu's hairdo.</span></p>
 
 <p><span class="chinese">这个价格是含税价。</span><span class="english">This price is including tax.</span></p>

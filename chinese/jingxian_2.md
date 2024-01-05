@@ -1,5 +1,7 @@
 # 警衔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingxian_2.md)
+
 <p><span class="chinese">还发现警衔和收入及其交互作用对吸烟行为有明显的影响。</span><span class="english">The rank, income and interaction had effect on smoking behavior.</span></p>
 
 <p><span class="chinese">第二条人民警察实行警衔制度。</span><span class="english">Article 2 A system of police ranks shall be practised for the people's police.</span></p>

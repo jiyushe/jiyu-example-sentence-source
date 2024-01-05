@@ -1,5 +1,7 @@
 # 搁浅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/geqian.md)
+
 <p><span class="chinese">我们的船因小潮搁浅了。</span><span class="english">Our boat was neaped.</span></p>
 
 <p><span class="chinese">风暴使这只船搁浅。</span><span class="english">The storm beached the ship.</span></p>

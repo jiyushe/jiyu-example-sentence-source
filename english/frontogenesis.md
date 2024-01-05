@@ -1,5 +1,7 @@
 # frontogenesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frontogenesis.md)
+
 <p><span class="chinese">锋生锋消对于梅雨锋附近有无降水起到了重要的作用。</span><span class="english">Frontogenesis and frontolysis have decisive effect on the precipitation near Meiyu front.</span></p>
 
 <p><span class="chinese">用一个具有解析解的二维动力锋生成过程算例，对比自适应网格方案和固定网格方案的优劣。</span><span class="english">A two dimensional kinematic frontogenesis process is studied for examing the use of adaptive grids in numerical model.</span></p>

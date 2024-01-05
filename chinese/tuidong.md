@@ -1,5 +1,7 @@
 # 推动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuidong.md)
+
 <p><span class="chinese">那是在推动它。</span><span class="english">That is pushing it.</span></p>
 
 <p><span class="chinese">甚至有可能会推动改革创新。</span><span class="english">It may even promote it.</span></p>

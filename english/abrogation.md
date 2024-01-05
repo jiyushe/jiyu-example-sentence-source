@@ -1,5 +1,7 @@
 # abrogation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abrogation.md)
+
 <p><span class="chinese">主席宣布的那条法律的废止。</span><span class="english">The abrogation of the law is published by the chairman.</span></p>
 
 <p><span class="chinese">特权的取消使他成为了平民。</span><span class="english">The abrogation of his privileges made him an ordinary people.</span></p>

@@ -1,5 +1,7 @@
 # bolivia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bolivia.md)
+
 <p><span class="chinese">大部分锂矿存储于玻利维亚。</span><span class="english">The bulk of it is found in Bolivia.</span></p>
 
 <p><span class="chinese">蝴蝶和树，马迪迪国家公园，玻利维亚。</span><span class="english">Butterfly and Trees, Madidi National Park, Bolivia.</span></p>

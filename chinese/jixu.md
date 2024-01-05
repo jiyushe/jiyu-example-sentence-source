@@ -1,5 +1,7 @@
 # 急需
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jixu.md)
+
 <p><span class="chinese">我们急需帮手。</span><span class="english">We need help inferiorly.</span></p>
 
 <p><span class="chinese">他急需钱。</span><span class="english">He is badly in need of money.</span></p>

@@ -1,5 +1,7 @@
 # 窘困
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiongkun.md)
+
 <p><span class="chinese">这既是他们的窘困也是他们的财富所在。</span><span class="english">This is both their destitution and their wealth.</span></p>
 
 <p><span class="chinese">如果我的财务窘困，我通常求助于父亲。</span><span class="english">I usually turn to my dad if I have any financial problems.</span></p>

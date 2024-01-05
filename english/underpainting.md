@@ -1,5 +1,7 @@
 # underpainting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underpainting.md)
+
 <p><span class="chinese">第一项任务是将打底用的油。</span><span class="english">The first task is to extend the underpainting using oils.</span></p>
 
 <p><span class="chinese">第二个图像是贴近被称为打底。</span><span class="english">The second image is close to what is called a underpainting.</span></p>

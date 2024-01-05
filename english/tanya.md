@@ -1,5 +1,7 @@
 # tanya
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tanya.md)
+
 <p><span class="chinese">蔡健雅将会迟婚？</span><span class="english">Tanya Chua will marry late?</span></p>
 
 <p><span class="chinese">马克和谭雅已经建立起了融洽的关系。</span><span class="english">Mark and Tanya have established rapport.</span></p>

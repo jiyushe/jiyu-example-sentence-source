@@ -1,5 +1,7 @@
 # 佛龛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fokan.md)
+
 <p><span class="chinese">奉先寺是龙门石窟中艺术最精湛、规模最宏伟的摩崖佛龛。</span><span class="english">The Fengxiansi Cave consists of the largest and most exquisite niches in Longmen.</span></p>
 
 <p><span class="chinese">附近的居民目击该夫妇丢弃佛龛的行为，随即报警。</span><span class="english">Nearby residents witnessed the behavior of the couple dropped shrines, then alarm.</span></p>

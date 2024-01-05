@@ -1,5 +1,7 @@
 # 出言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuyan_1.md)
+
 <p><span class="chinese">不要浪费时间或出言不慎。</span><span class="english">Don't use time or words carelessly.</span></p>
 
 <p><span class="chinese">我正想出言挽回时，丁宇却开口了。</span><span class="english">I just want to say it, but Ding Yu spoke.</span></p>

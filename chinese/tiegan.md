@@ -1,5 +1,7 @@
 # 铁杆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiegan.md)
+
 <p><span class="chinese">你是兰博基尼的铁杆吗？</span><span class="english">Are you a big Lamborghini fan?</span></p>
 
 <p><span class="chinese">白令是一位铁杆无神论者。</span><span class="english">Bering was a confirmed atheist.</span></p>

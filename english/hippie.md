@@ -1,5 +1,7 @@
 # hippie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hippie.md)
+
 <p><span class="chinese">别人叫我嬉皮士。</span><span class="english">And I’ve been called a hippie.</span></p>
 
 <p><span class="chinese">他们认为我有一点嬉皮。</span><span class="english">They think I’m a bit of a hippie.</span></p>

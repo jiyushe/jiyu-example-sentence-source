@@ -1,5 +1,7 @@
 # budgetary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/budgetary.md)
+
 <p><span class="chinese">印度巨大的预算赤字就是这么跟“帮助穷人”扯上关系的。</span><span class="english">India’s huge budgetary deficit has much to do with “helping the poor”.</span></p>
 
 <p><span class="chinese">部门预算改革的一项主要内容就是基本支出的定员定额管理。</span><span class="english">Budget quota is one of the major contents of departmental budgetary reform.</span></p>

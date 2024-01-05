@@ -1,5 +1,7 @@
 # 干杯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganbei.md)
+
 <p><span class="chinese">干杯，朋友们。</span><span class="english">Cheers, my friend.</span></p>
 
 <p><span class="chinese">给你——干杯！</span><span class="english">Here you are-cheers!</span></p>

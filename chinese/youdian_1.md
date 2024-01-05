@@ -1,5 +1,7 @@
 # 有点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youdian_1.md)
+
 <p><span class="chinese">有点傻，我知道。</span><span class="english">Corny, I know.</span></p>
 
 <p><span class="chinese">有点小自大。</span><span class="english">a little cocky.</span></p>

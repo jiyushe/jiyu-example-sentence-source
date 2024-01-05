@@ -1,5 +1,7 @@
 # unawakened
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unawakened.md)
+
 <p><span class="chinese">未觉醒的人练习美德。</span><span class="english">The unawakened one practices virtue.</span></p>
 
 <p><span class="chinese">有许多未醒的灵魂。</span><span class="english">There are a lot of unawakened souls.</span></p>

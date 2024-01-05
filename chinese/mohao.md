@@ -1,5 +1,7 @@
 # 磨耗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mohao.md)
+
 <p><span class="chinese">研磨介质磨耗小，运行成本低。</span><span class="english">With less abrasion of milling media and cost.</span></p>
 
 <p><span class="chinese">耐磨耗性，耐水，耐碱，密著，速乾。</span><span class="english">Abrasion, Alkali & water resistance, Adhesion, Fast drying.</span></p>

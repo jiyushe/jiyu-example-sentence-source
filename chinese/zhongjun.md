@@ -1,5 +1,7 @@
 # 中军
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongjun.md)
+
 <p><span class="chinese">中军和外军在军服标准上差别很大，各军常穿着同一颜色的军服。</span><span class="english">In the army, Lushi took charge of it. Troops of ten had uniform of the same color.</span></p>
 
 <p><span class="chinese">在一个和买家的午餐会上，王中军原则上表示同意与我们合作。</span><span class="english">At a lunch with the buyer, Wang Zhongjun agreed in principle to the deal we helped crafted.</span></p>

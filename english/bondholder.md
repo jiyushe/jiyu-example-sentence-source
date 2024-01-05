@@ -1,5 +1,7 @@
 # bondholder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bondholder.md)
+
 <p><span class="chinese">债券持有人在每半年支付一次的息票获得的利息。</span><span class="english">For example, the interest earned by a bondholder between semiannual coupon payments.</span></p>
 
 <p><span class="chinese">可兑换债券是可以按持票人的选择权兑换成普通股票的债券。</span><span class="english">A convertible bond is one which may be exchanged for common stock at the option of the bondholder.</span></p>

@@ -1,5 +1,7 @@
 # 十拿九稳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shinajiuwen.md)
+
 <p><span class="chinese">当然，没有任何事是十拿九稳的。</span><span class="english">Nothing is certain, of course.</span></p>
 
 <p><span class="chinese">或许他认为自己会十拿九稳。</span><span class="english">Perhaps he considered himself a shoo-in.</span></p>

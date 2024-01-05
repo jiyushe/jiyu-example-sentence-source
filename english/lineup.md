@@ -1,5 +1,7 @@
 # lineup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lineup.md)
+
 <p><span class="chinese">它需要小型车来扩充它的阵容。</span><span class="english">It needs to add small cars to the lineup.</span></p>
 
 <p><span class="chinese">该名单仍然有待皇室的批准。</span><span class="english">The lineup is still pending royal endorsement.</span></p>

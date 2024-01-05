@@ -1,5 +1,7 @@
 # 举目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jumu.md)
+
 <p><span class="chinese">站在虎山长城的峰顶举目望去。</span><span class="english">Standing on the Hushan Great Wall.</span></p>
 
 <p><span class="chinese">举目所见，到处是七弯八拐的迷宫。</span><span class="english">Everywhere I looked, a labyrinth meandered.</span></p>

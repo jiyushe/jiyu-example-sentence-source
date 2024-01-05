@@ -1,5 +1,7 @@
 # nitramine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nitramine.md)
+
 <p><span class="chinese">本品与“硝氨净”或“特效净水宝”配合使用则效果更佳。</span><span class="english">It has better effect to use with "nitramine purifier" and "specific water purifier".</span></p>
 
 <p><span class="chinese">对几种高能硝胺发射药进行了实验，给出了部分理论计算与实测的压力曲线。</span><span class="english">The experimental results of several lots of high energetic nitramine solid propellants are presented.</span></p>

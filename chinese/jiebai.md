@@ -1,5 +1,7 @@
 # 结拜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiebai.md)
+
 <p><span class="chinese">他是我的结拜兄弟。</span><span class="english">He's my sworn brother.</span></p>
 
 <p><span class="chinese">他是我的结拜兄弟。</span><span class="english">He is my sworn brother.</span></p>

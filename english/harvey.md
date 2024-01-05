@@ -1,5 +1,7 @@
 # harvey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harvey.md)
+
 <p><span class="chinese">衣服实际上是由哈维·埃米斯设计的。</span><span class="english">It was actually designed by Harvey Amis.</span></p>
 
 <p><span class="chinese">今天是哈维·麦克斯韦尔的一个大忙天。</span><span class="english">And this day was Harvey Maxwell’s busy day.</span></p>

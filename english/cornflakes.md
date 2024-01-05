@@ -1,5 +1,7 @@
 # cornflakes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cornflakes.md)
+
 <p><span class="chinese">约翰，你喜欢玉米片吗？</span><span class="english">John, do you like cornflakes?</span></p>
 
 <p><span class="chinese">他早餐喜欢吃玉米片。</span><span class="english">He likes cornflakes for breakfast.</span></p>

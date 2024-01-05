@@ -1,5 +1,7 @@
 # fist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fist.md)
+
 <p><span class="chinese">可怜的老铁甲拳。</span><span class="english">Poor old mailed fist.</span></p>
 
 <p><span class="chinese">他举起拳头。</span><span class="english">He upped with his fist.</span></p>

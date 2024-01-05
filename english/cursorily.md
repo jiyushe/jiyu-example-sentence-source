@@ -1,5 +1,7 @@
 # cursorily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cursorily.md)
+
 <p><span class="chinese">这封长信我只能草草地看一看。</span><span class="english">I cannot read the long letter other than cursorily.</span></p>
 
 <p><span class="chinese">这个问题在序言中已粗略地提到了。</span><span class="english">The subject has been referred to cursorily in the preface.</span></p>

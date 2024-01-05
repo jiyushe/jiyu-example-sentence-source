@@ -1,5 +1,7 @@
 # impulse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impulse.md)
+
 <p><span class="chinese">切忌冲动购物。</span><span class="english">Avoid impulse buys.</span></p>
 
 <p><span class="chinese">买东西不要心血来潮。</span><span class="english">Don’t buy on impulse.</span></p>

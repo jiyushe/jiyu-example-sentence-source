@@ -1,5 +1,7 @@
 # kang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kang.md)
+
 <p><span class="chinese">我爱你啊！姜大成！</span><span class="english">I love you! Kang Daesung!</span></p>
 
 <p><span class="chinese">助手尤金•卡恩也加入了他们。</span><span class="english">Aide Eugene Kang also joined them.</span></p>

@@ -1,5 +1,7 @@
 # fried
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fried.md)
+
 <p><span class="chinese">我厌恶煎炸食品。</span><span class="english">I hate fried food.</span></p>
 
 <p><span class="chinese">我是彻底的被涮了。</span><span class="english">I was totally fried.</span></p>

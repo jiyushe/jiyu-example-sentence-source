@@ -1,5 +1,7 @@
 # testy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/testy.md)
+
 <p><span class="chinese">与兄弟姐妹的关系会受到考验。</span><span class="english">Relations with siblings might be testy.</span></p>
 
 <p><span class="chinese">那里的局势显然是紧张的。</span><span class="english">Obviously, it is a testy situation there.</span></p>

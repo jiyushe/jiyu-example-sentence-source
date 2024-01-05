@@ -1,5 +1,7 @@
 # authorization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/authorization.md)
+
 <p><span class="chinese">什么是授权？</span><span class="english">What is authorization?</span></p>
 
 <p><span class="chinese">为何要使用以用户为中心的授权？</span><span class="english">Wherefore user-centric authorization?</span></p>

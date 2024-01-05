@@ -1,5 +1,7 @@
 # 真意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenyi_1.md)
+
 <p><span class="chinese">所有的真心都能够换来真意。</span><span class="english">All I can get true.</span></p>
 
 <p><span class="chinese">她真心真意地爱他。</span><span class="english">She loved him heart and soul.</span></p>

@@ -1,5 +1,7 @@
 # unburden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unburden.md)
+
 <p><span class="chinese">她需要找个人诉诉心里的苦衷。</span><span class="english">She needed to unburden herself to somebody.</span></p>
 
 <p><span class="chinese">你真的希望我向你吐露心声吗？</span><span class="english">Do you really expect me to unburden myself to you?</span></p>

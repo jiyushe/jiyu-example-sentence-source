@@ -1,5 +1,7 @@
 # tacit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tacit.md)
+
 <p><span class="chinese">关注是无声的，绵绵不断的赞赏。</span><span class="english">Attention is a tacit and continual compliment.</span></p>
 
 <p><span class="chinese">因此相关联隐性知识也将永远伴随着我们。</span><span class="english">Relational tacit knowledge will also always be with us.</span></p>

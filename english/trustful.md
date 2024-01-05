@@ -1,5 +1,7 @@
 # trustful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trustful.md)
+
 <p><span class="chinese">三年前，我们从陌生走向信任。</span><span class="english">Three years ago, we went from unfamiliar to trustful.</span></p>
 
 <p><span class="chinese">优酷就正在苦闷地感受这种信任危机。</span><span class="english">Actor cruel is experiencing this kind of trustful crisis dejectedly.</span></p>

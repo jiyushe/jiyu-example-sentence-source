@@ -1,5 +1,7 @@
 # ellis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ellis.md)
+
 <p><span class="chinese">图中，埃利斯注视著一只狼崽。</span><span class="english">Shaun Ellis looks at a wolf cub.</span></p>
 
 <p><span class="chinese">尼日利亚，6月12日，3PM，艾利斯公园球场</span><span class="english">Nigeria, 12 June, Ellis Park, 3pm</span></p>

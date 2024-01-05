@@ -1,5 +1,7 @@
 # 海船
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haichuan.md)
+
 <p><span class="chinese">没有，我想可能是关于海船的。</span><span class="english">No, but I think it's about ships.</span></p>
 
 <p><span class="chinese">大风损坏了海船。</span><span class="english">High winds were battering the ship.</span></p>

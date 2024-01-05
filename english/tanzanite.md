@@ -1,5 +1,7 @@
 # tanzanite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tanzanite.md)
+
 <p><span class="chinese">紫罗兰-蓝色色调的坦桑蓝宝石仿佛是来自天堂的圣灵之石。</span><span class="english">Blue-violet hues of Tanzanite look like drops from heaven.</span></p>
 
 <p><span class="chinese">令人感叹的色泽和切割就是这款坦桑石耳环的诱人之处。</span><span class="english">Stunning color and cut are key to these Tanzanite Earrings.</span></p>

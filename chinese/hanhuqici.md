@@ -1,5 +1,7 @@
 # 含糊其辞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanhuqici.md)
+
 <p><span class="chinese">说话从容些，不要急急忙忙，不要含糊其辞!</span><span class="english">Take your time and don't gabble!</span></p>
 
 <p><span class="chinese">他犀利地看着我，不相信我的含糊其辞。</span><span class="english">He looks at me sharply, distrusting my equivocation.</span></p>

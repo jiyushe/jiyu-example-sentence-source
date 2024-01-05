@@ -1,5 +1,7 @@
 # demonize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demonize.md)
+
 <p><span class="chinese">他们宁可将其妖魔化。</span><span class="english">But they’d rather demonize.</span></p>
 
 <p><span class="chinese">耶稣知道，我们有时很想丑化我们的敌人。</span><span class="english">Jesus knows that at times we are tempted to demonize our enemies.</span></p>

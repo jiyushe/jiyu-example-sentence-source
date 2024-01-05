@@ -1,5 +1,7 @@
 # orc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orc.md)
+
 <p><span class="chinese">那个新手兽人甚至不能打到德鲁依。</span><span class="english">That newbie Orc can't even hit the Druid.</span></p>
 
 <p><span class="chinese">我曾经是个联盟圣骑，现在我玩兽人萨满。</span><span class="english">I was a paladin in Alliance, now I'm a orc shaman.</span></p>

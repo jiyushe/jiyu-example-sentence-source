@@ -1,5 +1,7 @@
 # prc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prc.md)
+
 <p><span class="chinese">本会将寄回捐款收据。</span><span class="english">NFF of PRC. will send the receipt.</span></p>
 
 <p><span class="chinese">我是中国辽宁省铁岭市人。</span><span class="english">I am from Tieling, Liaoning Province, PRC.</span></p>

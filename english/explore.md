@@ -1,5 +1,7 @@
 # explore 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/explore.md)
+
 <p><span class="chinese">创建和探索。</span><span class="english">Create and Explore.</span></p>
 
 <p><span class="chinese">探索新领域。</span><span class="english">Explore new  territory.</span></p>

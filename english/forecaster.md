@@ -1,5 +1,7 @@
 # forecaster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forecaster.md)
+
 <p><span class="chinese">杰克是一名天气预报员。</span><span class="english">Jack is a weather forecaster.</span></p>
 
 <p><span class="chinese">OPEC为本周第二个调高需求预估的主要预测机构.</span><span class="english">OPEC is the second major forecaster to lift its demand estimates this week.</span></p>

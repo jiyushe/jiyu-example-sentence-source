@@ -1,5 +1,7 @@
 # armature
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/armature.md)
+
 <p><span class="chinese">是软铁的衔铁。</span><span class="english">Is armature of soft iron.</span></p>
 
 <p><span class="chinese">因此，这里是电枢在它的基本形式。</span><span class="english">So here is the armature in it's basic form.</span></p>

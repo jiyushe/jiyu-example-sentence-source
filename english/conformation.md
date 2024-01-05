@@ -1,5 +1,7 @@
 # conformation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conformation.md)
+
 <p><span class="chinese">象形字是汉字构造的基础。</span><span class="english">Pictograph is the base of conformation of Chinese character.</span></p>
 
 <p><span class="chinese">周期性的弯折在纤维中造成了波形结构。</span><span class="english">The periodic buckling leaves the fibre in a waved conformation.</span></p>

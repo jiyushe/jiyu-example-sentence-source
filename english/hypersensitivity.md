@@ -1,5 +1,7 @@
 # hypersensitivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypersensitivity.md)
+
 <p><span class="chinese">如果停止或过敏发生重叠。</span><span class="english">Discontinue if superinfection or hypersensitivity occurs.</span></p>
 
 <p><span class="chinese">若以前使用丙磺舒曾引起过敏反应，则应禁用。</span><span class="english">Do not take Benemid if prior administration resulted in hypersensitivity.</span></p>

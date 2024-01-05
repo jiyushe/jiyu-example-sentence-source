@@ -1,5 +1,7 @@
 # videophone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/videophone.md)
+
 <p><span class="chinese">突然，你手表上的可视电话响了。</span><span class="english">Your wristwatch videophone suddenly rings.</span></p>
 
 <p><span class="chinese">在将来，购买东西能在可视电话中进行。</span><span class="english">In the future, shopping can be done by videophone.</span></p>

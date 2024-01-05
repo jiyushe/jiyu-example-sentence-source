@@ -1,5 +1,7 @@
 # chylothorax
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chylothorax.md)
+
 <p><span class="chinese">肺癌合并乳糜胸水临床上并不常见。</span><span class="english">Lung cancer with complicating chylothorax is a rare clinical condition.</span></p>
 
 <p><span class="chinese">早期查觉乳糜胸迳行治疗，使得病人早日康复。</span><span class="english">Early detection and treatment of a chylothorax can result the patient having an early recovery.</span></p>

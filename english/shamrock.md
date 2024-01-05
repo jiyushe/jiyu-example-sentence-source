@@ -1,5 +1,7 @@
 # shamrock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shamrock.md)
+
 <p><span class="chinese">二叶的三叶草代表希望。</span><span class="english">One-leaf shamrock reprents prayers.</span></p>
 
 <p><span class="chinese">三叶的三叶草代表爱情。</span><span class="english">Three-leaf shamrock represents love.</span></p>

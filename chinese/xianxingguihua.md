@@ -1,5 +1,7 @@
 # 线性规划
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianxingguihua.md)
+
 <p><span class="chinese">定义了区间线性规划的标准型。</span><span class="english">A standard form of interval linear programming was defined.</span></p>
 
 <p><span class="chinese">半定规划是线性规划的一种推广。</span><span class="english">Semidefinite programming is an extension of linear programming.</span></p>

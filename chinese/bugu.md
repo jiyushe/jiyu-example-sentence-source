@@ -1,5 +1,7 @@
 # 布谷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bugu.md)
+
 <p><span class="chinese">哦，布谷！我该称你鸟？</span><span class="english">Cuckoo! shall I call thee Bird.</span></p>
 
 <p><span class="chinese">温柔的阳光普照大地，布谷鸟儿把歌唱哟</span><span class="english">Come gentle sun, while the cuckoo sings</span></p>

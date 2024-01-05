@@ -1,5 +1,7 @@
 # hydrocyclone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrocyclone.md)
+
 <p><span class="chinese">动态水力旋流器及其试验装置。</span><span class="english">Dynamic hydrocyclone and its test bed.</span></p>
 
 <p><span class="chinese">油-水旋流分离器是一种新型的水力旋流设备之一。</span><span class="english">Oil-water separator is one of new types of hydrocyclone equipment.</span></p>

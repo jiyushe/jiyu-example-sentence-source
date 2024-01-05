@@ -1,5 +1,7 @@
 # 轻巧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingqiao.md)
+
 <p><span class="chinese">钛金属也不错，轻巧得很。</span><span class="english">Titanium is good, too, very light.</span></p>
 
 <p><span class="chinese">他恰如猫一样轻巧地爬上树。</span><span class="english">He climbed the tree exactly like a cat.</span></p>

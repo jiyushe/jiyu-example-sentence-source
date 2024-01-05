@@ -1,5 +1,7 @@
 # hurtful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hurtful.md)
+
 <p><span class="chinese">难道说善的事物就没有害处？</span><span class="english">And no good thing is hurtful?</span></p>
 
 <p><span class="chinese">但是，她说，这样的规定很刻薄。</span><span class="english">But this, she says, was hurtful.</span></p>

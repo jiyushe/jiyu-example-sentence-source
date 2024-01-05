@@ -1,5 +1,7 @@
 # cording
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cording.md)
+
 <p><span class="chinese">在实际使用过程中，必须根据现场实际情况进行合理选型。</span><span class="english">It must ac cording to actual use -process. sele ct the correct type.</span></p>
 
 <p><span class="chinese">本例可见大量的透明样间质，形成了有趣的布料花纹样表现。</span><span class="english">Excessiely hyalinized stroma in this case has created an interesting cording pattern of tumor cells.</span></p>

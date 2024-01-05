@@ -1,5 +1,7 @@
 # pilferage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pilferage.md)
+
 <p><span class="chinese">因为偷盗，他被警方逮捕了。</span><span class="english">He was arrested by police for pilferage.</span></p>
 
 <p><span class="chinese">纸箱弄破是轻易检查出来的，我说这恰恰可以防止偷盗。</span><span class="english">Tampering with cartons is easily detected. I should say that this rather discourages pilferage.</span></p>

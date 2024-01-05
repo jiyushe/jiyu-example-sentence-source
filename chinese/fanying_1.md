@@ -1,5 +1,7 @@
 # 反映
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanying_1.md)
+
 <p><span class="chinese">爸爸回响反映反应去到门心。</span><span class="english">Dad did answer the door.</span></p>
 
 <p><span class="chinese">她的眼神反映了她的思想。</span><span class="english">Her eyes mirrored her thought.</span></p>

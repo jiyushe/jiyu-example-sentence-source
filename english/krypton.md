@@ -1,5 +1,7 @@
 # krypton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/krypton.md)
+
 <p><span class="chinese">氖、氩、和氪用于照明。</span><span class="english">Neon, argon, and krypton are used in lighting.</span></p>
 
 <p><span class="chinese">电影以超人寻找氪星人失败开场。</span><span class="english">The movie begins with Superman’s failed search for Krypton.</span></p>

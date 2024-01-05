@@ -1,5 +1,7 @@
 # politico
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/politico.md)
+
 <p><span class="chinese">但是他们表示政治报是新闻界的血汗工厂这种概念完全是虚构的。</span><span class="english">But they said the notion of Politico as a journalistic sweatshop is pure myth.</span></p>
 
 <p><span class="chinese">一些政客还称，他的名字还出现在民主党全国委员会主席的候选名单中。</span><span class="english">His name has also been floated as a possible chairman of the Democratic National Committee, Politico reported.</span></p>

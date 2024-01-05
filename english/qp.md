@@ -1,5 +1,7 @@
 # qp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/qp.md)
+
 <p><span class="chinese">可以算出QP吗？</span><span class="english">Can we calculate the distance QP?</span></p>
 
 <p><span class="chinese">这个词是什么意思?它是如何不同于QP吗?。</span><span class="english">What does this term mean and how is it different from the QP?</span></p>

@@ -1,5 +1,7 @@
 # 均衡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junheng.md)
+
 <p><span class="chinese">谋求持久的不均衡。</span><span class="english">Seek persistent disequilibrium.</span></p>
 
 <p><span class="chinese">如何找出纳什均衡呢</span><span class="english">How do I go about that exercise?</span></p>

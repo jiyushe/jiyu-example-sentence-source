@@ -1,5 +1,7 @@
 # 媲美
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pimei.md)
+
 <p><span class="chinese">他像是能和奥萨马本拉登媲美的人。</span><span class="english">He is like Osama bin Laden's arch rival.</span></p>
 
 <p><span class="chinese">日落可与日出媲美。</span><span class="english">The sunset rivals the sunrise in beauty.</span></p>

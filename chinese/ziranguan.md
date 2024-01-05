@@ -1,5 +1,7 @@
 # 自然观
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziranguan.md)
+
 <p><span class="chinese">本论文从两个方面对凯瑟的自然观进行了探讨。</span><span class="english">This article discussed Willa Cather's view of nature from two aspects.</span></p>
 
 <p><span class="chinese">马克思的新自然观是历史生存论的自然观。</span><span class="english">Marxs new concept of nature is the natural view of existentialism of history.</span></p>

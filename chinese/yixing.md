@@ -1,5 +1,7 @@
 # 一行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yixing.md)
+
 <p><span class="chinese">为每个操作创建一行说明。</span><span class="english">Create a line for each.</span></p>
 
 <p><span class="chinese">阁下，你是干哪一行的？</span><span class="english">What line is yours,Mr.?</span></p>

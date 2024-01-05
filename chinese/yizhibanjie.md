@@ -1,5 +1,7 @@
 # 一知半解
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhibanjie.md)
+
 <p><span class="chinese">她对天文学一知半解。</span><span class="english">She dabbles in astronomy.</span></p>
 
 <p><span class="chinese">我对计算机只是一知半解。</span><span class="english">I smattered to the computer.</span></p>

@@ -1,5 +1,7 @@
 # norse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/norse.md)
+
 <p><span class="chinese">因为没有受到邀请，他的鼻子都气歪了。</span><span class="english">His norse is out of joint for not being invited.</span></p>
 
 <p><span class="chinese">我的用户名是名称的先知在北欧神话。</span><span class="english">My username is the name of a prophetess in Norse mythology.</span></p>

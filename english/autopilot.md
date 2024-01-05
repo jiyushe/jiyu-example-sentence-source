@@ -1,5 +1,7 @@
 # autopilot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autopilot.md)
+
 <p><span class="chinese">你在对自动驾驶仪做什么？</span><span class="english">What are you doing on autopilot?</span></p>
 
 <p><span class="chinese">这架飞机坠毁时是在自动驾驶仪的控制之下。</span><span class="english">The plane was on autopilot when it crashed.</span></p>

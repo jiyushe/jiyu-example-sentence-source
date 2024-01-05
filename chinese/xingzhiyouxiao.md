@@ -1,5 +1,7 @@
 # 行之有效
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingzhiyouxiao.md)
+
 <p><span class="chinese">这对我来说是行之有效，至少。</span><span class="english">It worked for me, at least.</span></p>
 
 <p><span class="chinese">行之有效的好东西。</span><span class="english">Things that actually work, good stuff.</span></p>

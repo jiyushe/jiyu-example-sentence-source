@@ -1,5 +1,7 @@
 # 销蚀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoshi_7.md)
+
 <p><span class="chinese">记忆，真的是被时间销蚀成了碎片？</span><span class="english">Memory, it is time to become debris erode ?</span></p>
 
 <p><span class="chinese">因为时间销蚀不了记忆里地炮烙。</span><span class="english">Because of the time can not erode to memory.</span></p>

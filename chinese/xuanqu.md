@@ -1,5 +1,7 @@
 # 选取
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanqu.md)
+
 <p><span class="chinese">在选取区域中删除。</span><span class="english">Delete the isna in selection.</span></p>
 
 <p><span class="chinese">方向应该根据惯例来选取。</span><span class="english">I have to choose a convention.</span></p>

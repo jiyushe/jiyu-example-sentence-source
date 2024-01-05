@@ -1,5 +1,7 @@
 # gamma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gamma.md)
+
 <p><span class="chinese">最终的。</span><span class="english">I'm going to call it gamma.</span></p>
 
 <p><span class="chinese">淋巴结行为就像丙种球蛋白。</span><span class="english">Lymph acts just like gamma globulin.</span></p>

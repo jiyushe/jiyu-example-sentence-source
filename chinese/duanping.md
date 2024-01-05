@@ -1,5 +1,7 @@
 # 短评
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duanping.md)
+
 <p><span class="chinese">起初我对这个重要的短评保持沉默。</span><span class="english">Initially I kept  silent to the  essential essay.</span></p>
 
 <p><span class="chinese">他为这些月刊写短评。</span><span class="english">He writes short reviews for the monthly magazines.</span></p>

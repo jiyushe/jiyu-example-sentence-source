@@ -1,5 +1,7 @@
 # auriga
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/auriga.md)
+
 <p><span class="chinese">同时，可以看到五车五载御夫座的南面顶端。</span><span class="english">Also, notice the star Elnath at the southern tip of Auriga.</span></p>
 
 <p><span class="chinese">我们的星系刻正移向与仙女座星系碰撞之途。</span><span class="english">A constellation in the Northern Hemisphere near Andromeda and Auriga.</span></p>

@@ -1,5 +1,7 @@
 # freight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freight.md)
+
 <p><span class="chinese">货运吨数?。</span><span class="english">Freight Tonnage?</span></p>
 
 <p><span class="chinese">裕辉航空货运有限公司…</span><span class="english">Easyway Air Freight Ltd.</span></p>

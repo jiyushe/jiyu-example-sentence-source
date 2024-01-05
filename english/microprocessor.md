@@ -1,5 +1,7 @@
 # microprocessor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microprocessor.md)
+
 <p><span class="chinese">这个信号将使微处理机浮动。</span><span class="english">The signal will suspend the microprocessor.</span></p>
 
 <p><span class="chinese">微控制器很像微处理器。</span><span class="english">A microcontroller is very similar to a microprocessor.</span></p>

@@ -1,5 +1,7 @@
 # 悬崖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanya.md)
+
 <p><span class="chinese">这个悬崖！</span><span class="english">The cliff!</span></p>
 
 <p><span class="chinese">黄昏时分的莫赫悬崖。</span><span class="english">Cliffs of Moher at sunset.</span></p>

@@ -1,5 +1,7 @@
 # 指战员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizhanyuan.md)
+
 <p><span class="chinese">我们的指战员一夜走了120里路。</span><span class="english">Our fighters and commanders covered 120 li in a single night.</span></p>
 
 <p><span class="chinese">司令员要求各级指战员不能有自由主义思想。</span><span class="english">The commander asked all officers to abandon the idea of liberalism.</span></p>

@@ -1,5 +1,7 @@
 # lack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lack.md)
+
 <p><span class="chinese">或者缺乏这些。</span><span class="english">Or the lack thereof.</span></p>
 
 <p><span class="chinese">他还缺少什么呢？</span><span class="english">Does he lack anything?</span></p>

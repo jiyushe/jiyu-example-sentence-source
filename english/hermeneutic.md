@@ -1,5 +1,7 @@
 # hermeneutic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hermeneutic.md)
+
 <p><span class="chinese">这是传统阐释学观点。</span><span class="english">This is a traditional hermeneutic viewpoint.</span></p>
 
 <p><span class="chinese">在这个融合的过程中存在着阐释学的循环。</span><span class="english">In this fusion, there exists the movement of the Hermeneutic circle.</span></p>

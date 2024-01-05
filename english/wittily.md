@@ -1,5 +1,7 @@
 # wittily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wittily.md)
+
 <p><span class="chinese">他们不过是跟我们开个非常诙谐的玩笑罢了。</span><span class="english">They have just been pulling our legs very wittily.</span></p>
 
 <p><span class="chinese">他们讲得都很好，不过我对老布什总统的讲话的印象尤其深刻，我觉得其言语诙谐。</span><span class="english">They were all good, but Bush was especially effective, and wittily generous to me.</span></p>

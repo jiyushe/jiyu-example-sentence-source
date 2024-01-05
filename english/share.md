@@ -1,5 +1,7 @@
 # share
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/share.md)
+
 <p><span class="chinese">与我们分享吧！</span><span class="english">Share with us!</span></p>
 
 <p><span class="chinese">对话与分享。</span><span class="english">Talk and share.</span></p>

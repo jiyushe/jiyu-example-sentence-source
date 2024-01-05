@@ -1,5 +1,7 @@
 # naming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/naming.md)
+
 <p><span class="chinese">你的命名约定是什么？</span><span class="english">What is your naming convention?</span></p>
 
 <p><span class="chinese">检验命名标准的依从性</span><span class="english">Validate naming standard compliance</span></p>

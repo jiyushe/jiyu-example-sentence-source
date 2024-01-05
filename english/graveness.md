@@ -1,5 +1,7 @@
 # graveness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/graveness.md)
+
 <p><span class="chinese">赛纳公司本著诚信，认真的原则，专著于技术进步。</span><span class="english">We devote to tech-rise on the basis of sincerity and graveness.</span></p>
 
 <p><span class="chinese">勤奋，认真。良好的团队意识，组织协调能力。</span><span class="english">Diligence, graveness , good sence of team and ability to organize and coordinate.</span></p>

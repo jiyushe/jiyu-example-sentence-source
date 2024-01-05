@@ -1,5 +1,7 @@
 # travertine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/travertine.md)
+
 <p><span class="chinese">石灰华是岩溶地貌的重要组成部分。</span><span class="english">Travertine is an important part in Karst.</span></p>
 
 <p><span class="chinese">世界上最大的地表钙华滩流。</span><span class="english">The world's biggest travertine beach land.</span></p>

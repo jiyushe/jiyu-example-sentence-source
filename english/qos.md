@@ -1,5 +1,7 @@
 # qos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/qos.md)
+
 <p><span class="chinese">缓冲区中发现一个不可识别的对象。</span><span class="english">An unrecognized object was found in the QOS provider-specific buffer.</span></p>
 
 <p><span class="chinese">特定缓冲区中发现一个无效的成形速率对象。</span><span class="english">An invalid shaping rate object was found in the QOS provider-specific buffer.</span></p>

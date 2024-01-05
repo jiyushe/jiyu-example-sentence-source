@@ -1,5 +1,7 @@
 # aureate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aureate.md)
+
 <p><span class="chinese">取“银色派”就不取金色的铰链。</span><span class="english">Take " argent clique " do not take aureate hinge.</span></p>
 
 <p><span class="chinese">例如红色、橘色、黄色、金色、紫色、粉红色等。</span><span class="english">For example gules, orange, yellow, aureate , purple, pink wait.</span></p>

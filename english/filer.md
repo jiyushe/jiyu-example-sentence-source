@@ -1,5 +1,7 @@
 # filer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/filer.md)
+
 <p><span class="chinese">在修剪后，用锉刀把指甲边缘弄整齐。</span><span class="english">After trimming, round off the edges with a filer.</span></p>
 
 <p><span class="chinese">FIR滤波器是一种被广泛应用的基本的数字信号处理部件。</span><span class="english">FIR filer is a basic processing unit for digital signal in common use.</span></p>

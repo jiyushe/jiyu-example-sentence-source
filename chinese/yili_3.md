@@ -1,5 +1,7 @@
 # 屹立
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yili_3.md)
+
 <p><span class="chinese">但这位门徒依然屹立不动。</span><span class="english">But the disciple didn't move.</span></p>
 
 <p><span class="chinese">堤坝在洪水中屹立不动。</span><span class="english">The dike held during the flood.</span></p>

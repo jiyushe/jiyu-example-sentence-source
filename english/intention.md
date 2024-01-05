@@ -1,5 +1,7 @@
 # intention 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intention.md)
+
 <p><span class="chinese">我终于明白了他的用意。</span><span class="english">I tumbled to  his intention.</span></p>
 
 <p><span class="chinese">意向不明。</span><span class="english">One's intention is not clear.</span></p>

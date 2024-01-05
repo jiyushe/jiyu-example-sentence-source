@@ -1,5 +1,7 @@
 # superabundant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superabundant.md)
+
 <p><span class="chinese">研究一类IC-超富足半群。</span><span class="english">A class of IC- superabundant semigroups was studied.</span></p>
 
 <p><span class="chinese">史密斯说，猎物不再富余对狼来说也是问题。</span><span class="english">Loss of superabundant prey is another issue, Smith says.</span></p>

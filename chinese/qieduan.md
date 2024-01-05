@@ -1,5 +1,7 @@
 # 切断
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qieduan.md)
+
 <p><span class="chinese">减压神经切断组。</span><span class="english">Severing of depressor nerve.</span></p>
 
 <p><span class="chinese">一套是一系列的切断停止操纵杆。</span><span class="english">One was a set of shut-off rods.</span></p>

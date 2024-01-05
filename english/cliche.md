@@ -1,5 +1,7 @@
 # cliché
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cliche.md)
+
 <p><span class="chinese">使用套语是拙劣的新闻体的特点。</span><span class="english">Cliche is a feature of bad journalism.</span></p>
 
 <p><span class="chinese">防止俗语、陈腔谰言和非正式用字。</span><span class="english">Avoid slang, cliche and informal words.</span></p>

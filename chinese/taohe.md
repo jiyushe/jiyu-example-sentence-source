@@ -1,5 +1,7 @@
 # 桃核
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taohe.md)
+
 <p><span class="chinese">桃核。</span><span class="english">“Peach stones,” he replied.</span></p>
 
 <p><span class="chinese">我的桃核也在里面呢。</span><span class="english">My peach pit is inside it, too.</span></p>

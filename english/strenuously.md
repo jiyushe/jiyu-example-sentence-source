@@ -1,5 +1,7 @@
 # strenuously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strenuously.md)
+
 <p><span class="chinese">DNA发现程序之战仍旧继续进行着。</span><span class="english">DNA discovery battles are still being strenuously fought.</span></p>
 
 <p><span class="chinese">把他归类为“玩世现实主义”是他坚决反对的。</span><span class="english">Classify Zhu Wei among the 'cynical realists', and he strenuously objects.</span></p>

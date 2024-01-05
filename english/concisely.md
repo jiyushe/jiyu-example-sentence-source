@@ -1,5 +1,7 @@
 # concisely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concisely.md)
+
 <p><span class="chinese">持续、清晰、简明地沟通</span><span class="english">Communicate Consistently, Clearly, Concisely</span></p>
 
 <p><span class="chinese">教学内容的选择要做到“少而精”。</span><span class="english">Teaching content should be chosen concisely.</span></p>

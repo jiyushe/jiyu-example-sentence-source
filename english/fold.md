@@ -1,5 +1,7 @@
 # fold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fold.md)
+
 <p><span class="chinese">折叠这张卡片。</span><span class="english">Fold the card.</span></p>
 
 <p><span class="chinese">折出耳朵。</span><span class="english">Fold the ears.</span></p>

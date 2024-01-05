@@ -1,5 +1,7 @@
 # 支部
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhibu.md)
+
 <p><span class="chinese">他是我们的支部书记。</span><span class="english">He is secretary of our branch.</span></p>
 
 <p><span class="chinese">林薇冲动地去找支部书记理论。</span><span class="english">Linwei impulse to find branch secretary theory.</span></p>

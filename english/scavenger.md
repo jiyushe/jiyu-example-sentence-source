@@ -1,5 +1,7 @@
 # scavenger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scavenger.md)
+
 <p><span class="chinese">一名拾荒者在歇一会儿。</span><span class="english">A scavenger takes a break.</span></p>
 
 <p><span class="chinese">念旧的人总活得像个拾荒者。</span><span class="english">You always live like a scavenger.</span></p>

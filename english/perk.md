@@ -1,5 +1,7 @@
 # perk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perk.md)
+
 <p><span class="chinese">你喝一杯咖啡马上精神会振作起来。</span><span class="english">A cup of coffee will soon perk you up.</span></p>
 
 <p><span class="chinese">但是，把咖啡残渣变废为宝的想法可能还是能使你为之一振吧！</span><span class="english">Still, it's an idea that could perk you up.</span></p>

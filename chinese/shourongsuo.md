@@ -1,5 +1,7 @@
 # 收容所
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shourongsuo.md)
+
 <p><span class="chinese">我这是去临终老人收容所。</span><span class="english">I’m on my way to a hospice.</span></p>
 
 <p><span class="chinese">你们收容所里有些坏女人。</span><span class="english">There are bad girls in your slums.</span></p>

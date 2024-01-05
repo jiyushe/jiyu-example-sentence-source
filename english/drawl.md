@@ -1,5 +1,7 @@
 # drawl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drawl.md)
+
 <p><span class="chinese">它慢吞吞的，一步步的走上坡来。</span><span class="english">She speaks with a Southern drawl.</span></p>
 
 <p><span class="chinese">他母亲说话的声音稍稍拖长一下。</span><span class="english">His mother was speaking with a slight drawl.</span></p>

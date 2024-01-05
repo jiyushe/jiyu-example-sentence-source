@@ -1,5 +1,7 @@
 # sandglass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sandglass.md)
+
 <p><span class="chinese">沙漏记得，莪们的时光。</span><span class="english">The sandglass remember the time we.</span></p>
 
 <p><span class="chinese">在北京哪里卖沙漏？</span><span class="english">In Beijing, where sells a sandglass ?</span></p>

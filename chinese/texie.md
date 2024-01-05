@@ -1,5 +1,7 @@
 # 特写
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/texie.md)
+
 <p><span class="chinese">给这位同学一个特写</span><span class="english">Film that man.</span></p>
 
 <p><span class="chinese">你先拍特写，好吧？</span><span class="english">Take close-ups first, okay?</span></p>

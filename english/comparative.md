@@ -1,5 +1,7 @@
 # comparative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comparative.md)
+
 <p><span class="chinese">这是你们的比较优势。</span><span class="english">This is your comparative advantage.</span></p>
 
 <p><span class="chinese">他的专业是比较文学。</span><span class="english">He majored in comparative literature.</span></p>

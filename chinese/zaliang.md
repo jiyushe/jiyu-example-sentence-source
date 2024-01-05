@@ -1,5 +1,7 @@
 # 杂粮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaliang.md)
+
 <p><span class="chinese">没有五谷杂粮人类就不能生存。</span><span class="english">Man can't live without corn.</span></p>
 
 <p><span class="chinese">五谷杂粮真的是最好的选择吗？</span><span class="english">Is that bowl of cereal such a healthy option?</span></p>

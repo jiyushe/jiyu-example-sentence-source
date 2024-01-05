@@ -1,5 +1,7 @@
 # cheapen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheapen.md)
+
 <p><span class="chinese">忽视公义，就是贬低恩典。</span><span class="english">To ignore justice is to cheapen grace.</span></p>
 
 <p><span class="chinese">目前我们只好使商品削价。</span><span class="english">We have to cheapen commodities at the moment.</span></p>

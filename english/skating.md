@@ -1,5 +1,7 @@
 # skating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skating.md)
+
 <p><span class="chinese">来，让我们去滑冰吧。</span><span class="english">Let’s go skating.</span></p>
 
 <p><span class="chinese">尝试下溜冰吧。</span><span class="english">Try going ice skating.</span></p>

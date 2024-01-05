@@ -1,5 +1,7 @@
 # 战略物资
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanlvewuzi.md)
+
 <p><span class="chinese">钢铁是战略物资。</span><span class="english">Steel is a strategic material.</span></p>
 
 <p><span class="chinese">水既是战略物资又是生命的基础。</span><span class="english">Water is strategic material, and also is base of life.</span></p>

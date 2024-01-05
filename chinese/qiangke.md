@@ -1,5 +1,7 @@
 # 呛咳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangke.md)
+
 <p><span class="chinese">观察有无呛咳反射及插管反应发生。</span><span class="english">Bucking response and intubation response were recorded.</span></p>
 
 <p><span class="chinese">好转为能顺利进食固体食物，但进食流质食物仍有呛咳。</span><span class="english">Relative improvement indicated able to eat solid diet, but bucked when ate fluid food.</span></p>

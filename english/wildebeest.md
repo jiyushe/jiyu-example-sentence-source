@@ -1,5 +1,7 @@
 # wildebeest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wildebeest.md)
+
 <p><span class="chinese">喝牛羚的血。</span><span class="english">Drink the blood of wildebeest.</span></p>
 
 <p><span class="chinese">一只羚羊需要几双新鞋子。</span><span class="english">A wildebeest needed some new shoes.</span></p>

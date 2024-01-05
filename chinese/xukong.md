@@ -1,5 +1,7 @@
 # 虚空
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xukong.md)
+
 <p><span class="chinese">真正完全的虚空</span><span class="english">There was nothing at all.</span></p>
 
 <p><span class="chinese">虚空的虚空。万事俱是虚空。</span><span class="english">Vanity of vanity. All is vanity.</span></p>

@@ -1,5 +1,7 @@
 # 信号旗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinhaoqi.md)
+
 <p><span class="chinese">请挂上一面“我需要一艘拖轮”的信号旗。</span><span class="english">Please hoist up a flag "I require a tug".</span></p>
 
 <p><span class="chinese">正如题目中所写，这个版本带来新地图和新信号旗。</span><span class="english">Like the title says, new maps and signal flags.</span></p>

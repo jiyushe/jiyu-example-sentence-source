@@ -1,5 +1,7 @@
 # ethanol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ethanol.md)
+
 <p><span class="chinese">水和酒精。</span><span class="english">Water and ethanol.</span></p>
 
 <p><span class="chinese">那我们拿什么来造乙醇呢？</span><span class="english">And the way we make ethanol here?</span></p>

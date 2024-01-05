@@ -1,5 +1,7 @@
 # commensal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commensal.md)
+
 <p><span class="chinese">目的探讨家栖鼠对抗凝血杀鼠剂的抗药性变化。</span><span class="english">Objective To study the anticoagulant rodenticide resistance in commensal rodents.</span></p>
 
 <p><span class="chinese">分别用脂肪酸鉴定法和荧光微生物法鉴定赤潮藻中共生菌的种类。</span><span class="english">Using fatty acid and fluorescence to identify the commensal bacterium from red tide.</span></p>

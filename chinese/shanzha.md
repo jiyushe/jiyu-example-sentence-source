@@ -1,5 +1,7 @@
 # 山楂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanzha.md)
+
 <p><span class="chinese">五是山楂荷叶茶。</span><span class="english">Fifth, hawthorn tea lotus leaf.</span></p>
 
 <p><span class="chinese">有了时间和稻草，就能捂熟山楂。</span><span class="english">Time and straw make medlars ripe.</span></p>

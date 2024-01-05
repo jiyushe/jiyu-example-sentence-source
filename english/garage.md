@@ -1,5 +1,7 @@
 # garage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/garage.md)
+
 <p><span class="chinese">回到车库去。</span><span class="english">Go back to the garage.</span></p>
 
 <p><span class="chinese">在外面能停六辆车的车库里？</span><span class="english">Out in the six-car garage?</span></p>

@@ -1,5 +1,7 @@
 # perfectionism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perfectionism.md)
+
 <p><span class="chinese">追求完美。</span><span class="english">Perfectionism.</span></p>
 
 <p><span class="chinese">完美主义容易引起拖拉。</span><span class="english">Perfectionism stirs procrastination.</span></p>

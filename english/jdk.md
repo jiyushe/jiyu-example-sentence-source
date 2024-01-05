@@ -1,5 +1,7 @@
 # jdk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jdk.md)
+
 <p><span class="chinese">JDK模块化使用了Jigsaw模块化系统。</span><span class="english">JDK modularization uses the Jigsaw module system.</span></p>
 
 <p><span class="chinese">当时的跨平台编译器运行良好，但只能在JDK上运行。</span><span class="english">The cross-compiler was an excellent piece of work but ran on JDK only.</span></p>

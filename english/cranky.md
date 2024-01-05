@@ -1,5 +1,7 @@
 # cranky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cranky.md)
+
 <p><span class="chinese">任性的小孩──早点上床睡觉。</span><span class="english">Cranky kid -- earlier bedtime.</span></p>
 
 <p><span class="chinese">我咬牙切齿地冲着怪僻的丈夫大喊。</span><span class="english">I snapped at my cranky husband.</span></p>

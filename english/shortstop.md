@@ -1,5 +1,7 @@
 # shortstop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shortstop.md)
+
 <p><span class="chinese">嗨，是游击手来了。</span><span class="english">Hey, it's the shortstop.</span></p>
 
 <p><span class="chinese">泰勒朝游击手击出一滚地球。</span><span class="english">Taylor hit a ground ball to the shortstop.</span></p>

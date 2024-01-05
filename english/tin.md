@@ -1,5 +1,7 @@
 # tin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tin.md)
+
 <p><span class="chinese">那些罐头盒是锡做的。</span><span class="english">The tins were made of tin.</span></p>
 
 <p><span class="chinese">锡矿砂及其精矿。</span><span class="english">Tin ores and concentrates.</span></p>

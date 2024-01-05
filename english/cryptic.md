@@ -1,5 +1,7 @@
 # cryptic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cryptic.md)
+
 <p><span class="chinese">耶鲁大学人类学系的研究助理，加里.阿龙森说，“它是非常隐秘的动物，我们对它几乎一无所知。”</span><span class="english">It is a very cryptic animal.</span></p>
 
 <p><span class="chinese">离开神秘的苹果粉丝的反应？</span><span class="english">Apple fanboy leaving cryptic responses?</span></p>

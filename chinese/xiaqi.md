@@ -1,5 +1,7 @@
 # 下棋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaqi.md)
+
 <p><span class="chinese">我自己下棋下得很臭</span><span class="english">I, myself, stink at chess.</span></p>
 
 <p><span class="chinese">他会下棋。</span><span class="english">He knows how to play chess.</span></p>

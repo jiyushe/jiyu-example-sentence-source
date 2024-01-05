@@ -1,5 +1,7 @@
 # 畜牧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xumu.md)
+
 <p><span class="chinese">许昌裕昌畜牧有限公司。</span><span class="english">Xuchang yuchang stock farming co. ltd.</span></p>
 
 <p><span class="chinese">为了需要他的鞋带，他投机在畜牧之中。</span><span class="english">To get his shoestrings he speculates in herds of cattle.</span></p>

@@ -1,5 +1,7 @@
 # 优异
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youyi.md)
+
 <p><span class="chinese">希望可以考出优异的成绩啦！</span><span class="english">I hope it can be true!</span></p>
 
 <p><span class="chinese">她以优异成绩毕业。</span><span class="english">She graduated with honors.</span></p>

@@ -1,5 +1,7 @@
 # tanganyika
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tanganyika.md)
+
 <p><span class="chinese">坦噶尼喀与桑吉巴合并组成坦桑尼亚共和国。</span><span class="english">Tanganyika and Zanzibar join to form the Republic of Tanzania.</span></p>
 
 <p><span class="chinese">位于坦噶尼喀湖边的营养中心像这个城市的其他营养中心一样正在提供帮助。</span><span class="english">Nutritional centres like the one in this town on Lake Tanganyika are helping.</span></p>

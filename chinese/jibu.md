@@ -1,5 +1,7 @@
 # 疾步
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jibu.md)
+
 <p><span class="chinese">时间常驻，我们疾步。</span><span class="english">Alas, Time stays, we go.</span></p>
 
 <p><span class="chinese">妳告诉我妳必须走了，我开始疾步追赶妳。</span><span class="english">You tell me to go, I start walkin out.</span></p>

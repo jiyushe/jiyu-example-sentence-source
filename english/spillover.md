@@ -1,5 +1,7 @@
 # spillover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spillover.md)
+
 <p><span class="chinese">你可以将食品看作‘溢出品’。</span><span class="english">This you can call a spillover.</span></p>
 
 <p><span class="chinese">此外，研发有不小的溢出效应。</span><span class="english">There are also non-trivial R&D spillover effects.</span></p>

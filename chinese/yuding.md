@@ -1,5 +1,7 @@
 # 预定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuding.md)
+
 <p><span class="chinese">我可以预定你的车么？</span><span class="english">May I book your car?</span></p>
 
 <p><span class="chinese">你能预定奶油馅点心么?。</span><span class="english">Can you reserve eclairs?</span></p>

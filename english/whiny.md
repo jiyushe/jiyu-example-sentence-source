@@ -1,5 +1,7 @@
 # whiny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whiny.md)
+
 <p><span class="chinese">你就像一个满腹牢骚的小屁孩。</span><span class="english">You sound like a whiny brat.</span></p>
 
 <p><span class="chinese">他确实是一个暴力狂，但却不浮躁。</span><span class="english">A violent alcoholic, sure, but not so whiny.</span></p>

@@ -1,5 +1,7 @@
 # 寝宫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingong.md)
+
 <p><span class="chinese">一奉寝宫年月多。</span><span class="english">A palace in many years.</span></p>
 
 <p><span class="chinese">寝宫现在已经开放给公众参观。</span><span class="english">But it is open for the public to visit.</span></p>

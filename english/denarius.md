@@ -1,5 +1,7 @@
 # denarius
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/denarius.md)
+
 <p><span class="chinese">他给了他们一钱银子。</span><span class="english">And he gives them a Denarius.</span></p>
 
 <p><span class="chinese">他们就拿一个银钱来给他。</span><span class="english">And they brought him a denarius.</span></p>

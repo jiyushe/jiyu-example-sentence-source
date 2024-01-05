@@ -1,5 +1,7 @@
 # ope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ope.md)
+
 <p><span class="chinese">希望是好事情，也许是世间最好的事情，好的事情从不会逝去。</span><span class="english">H ope is a good thing , maybe the best of things and no good thing ever dies.</span></p>
 
 <p><span class="chinese">选择不同的增益，可使系统运行在不同环境下。</span><span class="english">Different gain selected can make the system ope rates at the different conditions.</span></p>

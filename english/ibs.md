@@ -1,5 +1,7 @@
 # ibs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ibs.md)
+
 <p><span class="chinese">证明上扣警备锚头能拉到7000磅。</span><span class="english">Demonstrate that the make-up cathead can pull 7000 Ibs.</span></p>
 
 <p><span class="chinese">在实验过程中，研究人员对IBS病人进行了为期三周的观察。</span><span class="english">In the trial, the IBS patients were monitored for three weeks.</span></p>

@@ -1,5 +1,7 @@
 # insecticidal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insecticidal.md)
+
 <p><span class="chinese">这个杀虫作用是值得怀疑的。</span><span class="english">The insecticidal action must be considered doubtful.</span></p>
 
 <p><span class="chinese">但是，现在我们有新的长效杀虫剂蚊帐。</span><span class="english">Yet, right now, we have new, long-lasting insecticidal mosquito nets.</span></p>

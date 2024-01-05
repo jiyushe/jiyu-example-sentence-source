@@ -1,5 +1,7 @@
 # 白日梦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bairimeng.md)
+
 <p><span class="chinese">你开始发白日梦。</span><span class="english">You begin to day-dream.</span></p>
 
 <p><span class="chinese">我住在音乐我的白日梦。</span><span class="english">I live my daydreams in music.</span></p>

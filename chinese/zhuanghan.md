@@ -1,5 +1,7 @@
 # 壮汉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanghan.md)
+
 <p><span class="chinese">他已长成一个壮汉。</span><span class="english">He has grown into a strong man.</span></p>
 
 <p><span class="chinese">这六名壮汉会跟着马车一块走。</span><span class="english">The six men will walk with the coach.</span></p>

@@ -1,5 +1,7 @@
 # atomicity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atomicity.md)
+
 <p><span class="chinese">分离数据和索引引起了一致性和原子性问题。</span><span class="english">Separating the data and indexes raised issues of consistency and atomicity.</span></p>
 
 <p><span class="chinese">即使是硬件中断也不会破坏机器指令的完整性。</span><span class="english">Even hardware interrupts will respect the atomicity of machine instructions.</span></p>

@@ -1,5 +1,7 @@
 # 绵延不断
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianyanbuduan.md)
+
 <p><span class="chinese">这种钙化地貌是最多的，绵延不断。</span><span class="english">This elaborate calcium formation is the largest of its kind, spreading miles and miles.</span></p>
 
 <p><span class="chinese">中华文明是世界上唯一从古至今绵延不断的文化。</span><span class="english">Chinese civilization is the world only civilization without interruption from ancient to modern.</span></p>

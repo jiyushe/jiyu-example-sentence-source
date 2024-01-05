@@ -1,5 +1,7 @@
 # proterozoic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proterozoic.md)
+
 <p><span class="chinese">五台山早元古代高压变质作用研究。</span><span class="english">Early Proterozoic high-pressure metamorphism in the Wutaishan.</span></p>
 
 <p><span class="chinese">铀矿物主要为沥青铀矿，形成于早元古代。</span><span class="english">Uranium mineral is pitchblende which was formed in Lower Proterozoic.</span></p>

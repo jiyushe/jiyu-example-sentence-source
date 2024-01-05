@@ -1,5 +1,7 @@
 # belinda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/belinda.md)
+
 <p><span class="chinese">究竟谁需要婚姻？</span><span class="english">Belinda Luscombe, " Who Needs Marriage?</span></p>
 
 <p><span class="chinese">贝琳达坐在她身边，感到有点心虚。</span><span class="english">Belinda sat beside her, looking guilty.</span></p>

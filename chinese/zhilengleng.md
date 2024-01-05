@@ -1,5 +1,7 @@
 # 直愣愣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhilengleng.md)
+
 <p><span class="chinese">她站起身，直愣愣地看着他，眼睛瞪得圆圆的。</span><span class="english">She rose to her feet and gazed upon him, round-eyed.</span></p>
 
 <p><span class="chinese">我躺在床上直愣愣地盯着屋里黑的墙壁。</span><span class="english">I laid up in bed and stared at the black walls a my house.</span></p>

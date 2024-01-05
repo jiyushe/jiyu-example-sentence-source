@@ -1,5 +1,7 @@
 # 尊容
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zunrong.md)
+
 <p><span class="chinese">当眼儿渴望要一见你的尊容。</span><span class="english">When that mine eye is famished for a look.</span></p>
 
 <p><span class="chinese">他过去的那副尊容，只要你见过一次，无论什么时候你都不会忘记。</span><span class="english">He had a face that once you saw is never forgotten.</span></p>

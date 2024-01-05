@@ -1,5 +1,7 @@
 # magnetization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magnetization.md)
+
 <p><span class="chinese">很可能是被磁化了。</span><span class="english">Is likely to be the magnetization.</span></p>
 
 <p><span class="chinese">北京同福流体磁化设备公司。</span><span class="english">Tongfu Fluid Magnetization Equip Co.</span></p>

@@ -1,5 +1,7 @@
 # 衔接
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianjie_1.md)
+
 <p><span class="chinese">铁路把两个城市衔接起来了。</span><span class="english">The railway joined the two cities.</span></p>
 
 <p><span class="chinese">大桥把两条公路衔接起来。</span><span class="english">The bridge links up the two highways.</span></p>

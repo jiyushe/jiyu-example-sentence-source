@@ -1,5 +1,7 @@
 # 雨后春笋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuhouchunsun.md)
+
 <p><span class="chinese">雨后春笋钻出地面。</span><span class="english">The bamboo shoots in spring crop out after rain.</span></p>
 
 <p><span class="chinese">好主意在这个创意市场上如雨后春笋般涌现。</span><span class="english">Good ideas rise to the top in this new idea marketplace.</span></p>

@@ -1,5 +1,7 @@
 # endodontics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endodontics.md)
+
 <p><span class="chinese">MTA是九十年代发展的用于牙髓病治疗的新材料。</span><span class="english">MTA is a new material developed for endodontics in 90′s.</span></p>
 
 <p><span class="chinese">在口腔牙体牙髓病学实验教学中应用循证医学模式授课的教学体会。</span><span class="english">The teaching appreciation of evidence-based medicine in the experiments of endodontics.</span></p>

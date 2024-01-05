@@ -1,5 +1,7 @@
 # 喜事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xishi_1.md)
+
 <p><span class="chinese">这可是件大喜事。</span><span class="english">It is a great happy event.</span></p>
 
 <p><span class="chinese">人喜事精神爽。</span><span class="english">Joy puts heart into a man.</span></p>

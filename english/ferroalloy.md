@@ -1,5 +1,7 @@
 # ferroalloy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ferroalloy.md)
+
 <p><span class="chinese">湖南永鑫铁合金有限责任公司。</span><span class="english">Hunan Ferroalloy Yosino limited liability company.</span></p>
 
 <p><span class="chinese">剖析了目前铁合金行业发展存在的主要问题和差距。</span><span class="english">The current major problems and gaps are analyzed in ferroalloy industry.</span></p>

@@ -1,5 +1,7 @@
 # overstock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overstock.md)
+
 <p><span class="chinese">有消息称，国内现在库存积压物总值已达3万亿元之巨。</span><span class="english">It is reported that China is now overstock goods reached 3 trillion yuan worth is huge.</span></p>
 
 <p><span class="chinese">OverStock的面试是两天，第二天还去了SnowBird滑雪。</span><span class="english">My interview with Overstock.com was two days, with the 2nd day on the slopes at Snowbird.</span></p>

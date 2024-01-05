@@ -1,5 +1,7 @@
 # terrible 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terrible.md)
+
 <p><span class="chinese">战争是非常可怕的。</span><span class="english">War is ery terrible.</span></p>
 
 <p><span class="chinese">在我看来，跟注是糟糕的。</span><span class="english">Call is terrible IMO.</span></p>

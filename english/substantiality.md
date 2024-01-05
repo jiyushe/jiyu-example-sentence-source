@@ -1,5 +1,7 @@
 # substantiality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/substantiality.md)
+
 <p><span class="chinese">软件具有一般物质的客观实在性。</span><span class="english">It deems that software has the objective substantiality like general matters.</span></p>
 
 <p><span class="chinese">文本中，这一理想肉身的两个最重要侧面便是年轻性和实在性。</span><span class="english">Two important sides of the ideal body lie on the youthfulness and substantiality.</span></p>

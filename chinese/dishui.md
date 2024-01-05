@@ -1,5 +1,7 @@
 # 地税
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dishui.md)
+
 <p><span class="chinese">哪些税收属于好的地税税种？</span><span class="english">Which taxes are good local taxes?</span></p>
 
 <p><span class="chinese">好的地税税种应与利益挂钩。</span><span class="english">A good local tax is linked to benefits.</span></p>

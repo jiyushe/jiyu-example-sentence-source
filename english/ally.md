@@ -1,5 +1,7 @@
 # ally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ally.md)
+
 <p><span class="chinese">他是汤姆，她是艾蕾。</span><span class="english">He is Tom and she is Ally.</span></p>
 
 <p><span class="chinese">美国会是一个好的同盟。</span><span class="english">Xira America will be a good ally.</span></p>

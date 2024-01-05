@@ -1,5 +1,7 @@
 # rimini
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rimini.md)
+
 <p><span class="chinese">这个梦想成就了里米尼的“微缩意大利”公园。</span><span class="english">The dream made the "mimi Italy" park in Rimini.</span></p>
 
 <p><span class="chinese">莱罗塔列也意识到里米尼将对球队制造的威胁。</span><span class="english">The defender is well aware of the threat posed by Rimini.</span></p>

@@ -1,5 +1,7 @@
 # freetown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freetown.md)
+
 <p><span class="chinese">在1997年和1999年，首都弗里敦曾被各种派别的反政府武装所占据。</span><span class="english">Freetown had been invaded by different rebel forces in 1997 and in 1999.</span></p>
 
 <p><span class="chinese">我们在弗里敦加的燃料没够把我们送到蒂尔伯里了。</span><span class="english">The fuel oil we took on at Freetown will be enough to get as to Tilbury.</span></p>

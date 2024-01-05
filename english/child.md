@@ -1,5 +1,7 @@
 # child
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/child.md)
+
 <p><span class="chinese">王宏是个好孩子。</span><span class="english">He is no child.</span></p>
 
 <p><span class="chinese">硪们是孩子吗…?。</span><span class="english">We are a child. ?</span></p>

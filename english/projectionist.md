@@ -1,5 +1,7 @@
 # projectionist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/projectionist.md)
+
 <p><span class="chinese">放映员在聚精会神地移动摄影机。</span><span class="english">The projectionist was panning the camera attentively.</span></p>
 
 <p><span class="chinese">放映员在聚精会神地移动摄影机。</span><span class="english">The projectionist was panning the camera attentively.</span></p>

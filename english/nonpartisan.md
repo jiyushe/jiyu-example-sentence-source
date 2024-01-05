@@ -1,5 +1,7 @@
 # nonpartisan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonpartisan.md)
+
 <p><span class="chinese">一些无党派的智库组织和非盈利公益组织也做了很多深度调查。</span><span class="english">Nonpartisan think tanks and not-for-profit organizations do a lot of it.</span></p>
 
 <p><span class="chinese">还剩下什么?来自跨党派的税务政策研究中心的霍华德·格赖克曼做了计算。</span><span class="english">So what's left?Howard Gleckman of the nonpartisan Tax Policy Center has done the math.</span></p>

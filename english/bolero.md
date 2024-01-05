@@ -1,5 +1,7 @@
 # bolero
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bolero.md)
+
 <p><span class="chinese">他跛足，穿一件无纽扣的短上衣。</span><span class="english">He was lame, and was wearing a bolero.</span></p>
 
 <p><span class="chinese">这是一段莫里斯·拉威尔的,名叫,波莱罗舞曲,的作品</span><span class="english">It's a piece by Maurice Ravel called Bolero.</span></p>

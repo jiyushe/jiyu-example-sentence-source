@@ -1,5 +1,7 @@
 # 大出风头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dachufengtou.md)
+
 <p><span class="chinese">我确信你会。在下场风笛大会上大出风头。</span><span class="english">I'm sure you'll be a big hit at the next bagpipe convention.</span></p>
 
 <p><span class="chinese">反对党领袖的演讲在报纸上大出风头，使政府相形见绌。</span><span class="english">The opposition leader’s speech stole the headlines from the government.</span></p>

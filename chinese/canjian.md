@@ -1,5 +1,7 @@
 # 蚕茧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/canjian.md)
+
 <p><span class="chinese">这个是蚕茧啊。</span><span class="english">They are silkworm cocoons.</span></p>
 
 <p><span class="chinese">它是由蚕茧制成的。</span><span class="english">It is made from silkworm cocoons.</span></p>

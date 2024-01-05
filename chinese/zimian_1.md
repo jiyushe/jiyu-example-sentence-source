@@ -1,5 +1,7 @@
 # 籽棉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zimian_1.md)
+
 <p><span class="chinese">客观评价田间籽棉质量。</span><span class="english">The quality of field seed cottons is assessed objectively.</span></p>
 
 <p><span class="chinese">籽棉产量分析表明，品种间具有显著的差异。</span><span class="english">China varieties presented intermediate type in cotton yield and growing period.</span></p>

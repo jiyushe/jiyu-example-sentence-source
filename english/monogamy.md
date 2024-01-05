@@ -1,5 +1,7 @@
 # monogamy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monogamy.md)
+
 <p><span class="chinese">我相信一夫一妻制。</span><span class="english">I believe in monogamy.</span></p>
 
 <p><span class="chinese">你可曾听说乔治·贝斯特赞成一夫一妻制吗？</span><span class="english">Did you ever hear of George Best embracing monogamy?</span></p>

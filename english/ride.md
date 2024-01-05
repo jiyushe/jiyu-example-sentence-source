@@ -1,5 +1,7 @@
 # ride
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ride.md)
+
 <p><span class="chinese">和我一起坐车.</span><span class="english">Ride with me.</span></p>
 
 <p><span class="chinese">他们乘坐空气。</span><span class="english">They ride on air.</span></p>

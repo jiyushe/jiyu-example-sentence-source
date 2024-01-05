@@ -1,5 +1,7 @@
 # 抓药
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuayao.md)
+
 <p><span class="chinese">我需要按处方抓药。</span><span class="english">I need to fill a prescription.</span></p>
 
 <p><span class="chinese">请按药方帮我抓药好吗？</span><span class="english">Please show me the Prescription.</span></p>

@@ -1,5 +1,7 @@
 # bearded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bearded.md)
+
 <p><span class="chinese">不要给鸢尾兰浇水。</span><span class="english">Do not water the bearded iris.</span></p>
 
 <p><span class="chinese">汤姆在狮穴捋狮须。</span><span class="english">Tom bearded the lion in its den.</span></p>

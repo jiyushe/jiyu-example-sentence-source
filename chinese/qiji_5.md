@@ -1,5 +1,7 @@
 # 齐集
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiji_5.md)
+
 <p><span class="chinese">如果你可以做一个客齐集克隆，它甚至会更好。</span><span class="english">If you can make a clone of kijiji, it would even be better.</span></p>
 
 <p><span class="chinese">那么多世界级的明星都会齐集在此，想必一定是个不错的所在。</span><span class="english">So many world-class stars will gather here presumably will be a good host.</span></p>

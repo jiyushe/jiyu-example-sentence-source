@@ -1,5 +1,7 @@
 # hankow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hankow.md)
+
 <p><span class="chinese">他们向汉口方面退去。</span><span class="english">They retired in the direction of Hankow.</span></p>
 
 <p><span class="chinese">他已从南昌被调至汉口。</span><span class="english">He has been transferred from Nanchang to Hankow.</span></p>

@@ -1,5 +1,7 @@
 # essay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/essay.md)
+
 <p><span class="chinese">马策在一篇随笔中写到。</span><span class="english">Ma wrote in an essay.</span></p>
 
 <p><span class="chinese">又是作文题？</span><span class="english">An essay question again?</span></p>

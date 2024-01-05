@@ -1,5 +1,7 @@
 # prison
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prison.md)
+
 <p><span class="chinese">苏被关进监狱。</span><span class="english">Sue's in prison.</span></p>
 
 <p><span class="chinese">他死于狱中。</span><span class="english">He died in prison.</span></p>

@@ -1,5 +1,7 @@
 # waldo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waldo.md)
+
 <p><span class="chinese">拉尔夫·瓦尔多·爱默生，一个文学先驱。</span><span class="english">Ralph Waldo Emerson. A literary pioneer.</span></p>
 
 <p><span class="chinese">沃尔多是第27步兵团的士兵。</span><span class="english">Waldo is with the 27th Infantry Regiment.</span></p>

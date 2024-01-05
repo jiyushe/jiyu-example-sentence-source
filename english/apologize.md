@@ -1,5 +1,7 @@
 # apologize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apologize.md)
+
 <p><span class="chinese">向汤姆道歉。</span><span class="english">Apologize to Tom.</span></p>
 
 <p><span class="chinese">再三道歉。</span><span class="english">Apologize repeatedly.</span></p>

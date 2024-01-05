@@ -1,5 +1,7 @@
 # 坐垫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuodian.md)
+
 <p><span class="chinese">座位装有坐垫。</span><span class="english">The seats are cushioned.</span></p>
 
 <p><span class="chinese">我要皮革坐垫或是车纹吗？</span><span class="english">Do I want leather seats or vinyl?</span></p>

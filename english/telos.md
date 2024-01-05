@@ -1,5 +1,7 @@
 # telos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/telos.md)
+
 <p><span class="chinese">要对婚姻的目的进行争论。</span><span class="english">about the telos of marriage.</span></p>
 
 <p><span class="chinese">谈论了婚姻的内在本质和目的所在。</span><span class="english">nature, the telos of marriage, is.</span></p>

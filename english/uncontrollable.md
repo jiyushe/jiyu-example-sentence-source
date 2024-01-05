@@ -1,5 +1,7 @@
 # uncontrollable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncontrollable.md)
+
 <p><span class="chinese">控制不住的骑士冲动？</span><span class="english">Uncontrollable urges of chivalry?</span></p>
 
 <p><span class="chinese">怀特先生毫无忌惮地贪求名利。</span><span class="english">Mr. White have uncontrollable greed for fame and wealth.</span></p>

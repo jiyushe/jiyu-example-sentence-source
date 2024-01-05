@@ -1,5 +1,7 @@
 # figural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/figural.md)
+
 <p><span class="chinese">在音形和节拍的结构间的差异是什麽？</span><span class="english">What are the distinctions between figural and metric structures?</span></p>
 
 <p><span class="chinese">刚果人民用几和形状的样式装饰他们的烟斗。</span><span class="english">The Congo people decorate their pipes with figural and geometric patterns.</span></p>

@@ -1,5 +1,7 @@
 # autotetraploid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autotetraploid.md)
+
 <p><span class="chinese">这些现象都表明其为同源四倍体。</span><span class="english">These results showed that it was autotetraploid.</span></p>
 
 <p><span class="chinese">观察了高粱同源四倍体与二倍体受精后胚及胚乳发育的全过程。</span><span class="english">This paper deals with the process of embryo and endosperm development of diploid and autotetraploid sorghum.</span></p>

@@ -1,5 +1,7 @@
 # 适合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shihe_1.md)
+
 <p><span class="chinese">巴黎适合我。</span><span class="english">Paris suited me.</span></p>
 
 <p><span class="chinese">此物适合我用。</span><span class="english">It serves my purpose.</span></p>

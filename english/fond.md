@@ -1,5 +1,7 @@
 # fond
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fond.md)
+
 <p><span class="chinese">他喜欢玩笑。</span><span class="english">He s fond of fun.</span></p>
 
 <p><span class="chinese">他爱好体育运动。</span><span class="english">He is fond of sports.</span></p>

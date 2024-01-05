@@ -1,5 +1,7 @@
 # root
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/root.md)
+
 <p><span class="chinese">根管治疗！</span><span class="english">Root canal.</span></p>
 
 <p><span class="chinese">作为根用户登录。</span><span class="english">Log in as root.</span></p>

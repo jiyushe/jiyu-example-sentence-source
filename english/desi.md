@@ -1,5 +1,7 @@
 # desi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/desi.md)
+
 <p><span class="chinese">露西和德西·阿纳兹于1960年离婚。</span><span class="english">Lucy and Desi Arnaz divorced in 1960.</span></p>
 
 <p><span class="chinese">但吸附电喷雾离子化技术对刑警还有额外的好处。</span><span class="english">But DESI also presents an additional boon to gumshoes.</span></p>

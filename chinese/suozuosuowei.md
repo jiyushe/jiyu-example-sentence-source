@@ -1,5 +1,7 @@
 # 所作所为
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suozuosuowei.md)
+
 <p><span class="chinese">我未见过有哪条狗像她的所作所为一样。</span><span class="english">I have never seen a dog act like her.</span></p>
 
 <p><span class="chinese">他的所作所为与他的言行不一致。</span><span class="english">His words don't agree with his action.</span></p>

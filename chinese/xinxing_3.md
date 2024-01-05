@@ -1,5 +1,7 @@
 # 新型
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinxing_3.md)
+
 <p><span class="chinese">一种新型车用取暖器。</span><span class="english">A new car heater.</span></p>
 
 <p><span class="chinese">大麦茶是一种新型饮品。</span><span class="english">The barley tea is a new beverage.</span></p>

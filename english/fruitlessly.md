@@ -1,5 +1,7 @@
 # fruitlessly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fruitlessly.md)
+
 <p><span class="chinese">三角先生希望有人把门打开，如此徒劳地。</span><span class="english">Mr Triangle is waiting for someone who can open the door, so fruitlessly.</span></p>
 
 <p><span class="chinese">3月12日以来虽然她每天都在寻找，但却毫无音讯。</span><span class="english">Her niece had been searching fruitlessly for her every day since March 12th.</span></p>

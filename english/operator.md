@@ -1,5 +1,7 @@
 # operator 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/operator.md)
+
 <p><span class="chinese">一个值班人员。</span><span class="english">An operator on duty.</span></p>
 
 <p><span class="chinese">我是一名电脑录入员。</span><span class="english">I'm a keyboard operator.</span></p>

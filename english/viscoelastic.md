@@ -1,5 +1,7 @@
 # viscoelastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/viscoelastic.md)
+
 <p><span class="chinese">黏弹性介质具有弹性和黏性。</span><span class="english">The viscoelastic medium is elastic and viscous.</span></p>
 
 <p><span class="chinese">聚乙烯缓冲材料是一种粘弹性材料。</span><span class="english">Polythene cushioning material is one kind of viscoelastic material.</span></p>

@@ -1,5 +1,7 @@
 # 真伪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenwei.md)
+
 <p><span class="chinese">书法作品真伪鉴别。</span><span class="english">Verification of calligraphy works.</span></p>
 
 <p><span class="chinese">输入防伪码，点击按钮查询真伪！</span><span class="english">Please enter the security code, click the buttom!</span></p>

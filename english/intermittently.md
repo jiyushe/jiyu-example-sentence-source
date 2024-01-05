@@ -1,5 +1,7 @@
 # intermittently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intermittently.md)
+
 <p><span class="chinese">疟疾病人间歇地发热。</span><span class="english">The malaria victim fevers intermittently.</span></p>
 
 <p><span class="chinese">间歇泉是一种间歇喷发的温泉。</span><span class="english">A geyser is an intermittently eruptive hot spring.</span></p>

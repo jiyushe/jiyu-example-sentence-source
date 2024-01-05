@@ -1,5 +1,7 @@
 # 出谋划策
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chumouhuace.md)
+
 <p><span class="chinese">他身边没有公关人员替他出谋划策。</span><span class="english">He has no PR people advising him.</span></p>
 
 <p><span class="chinese">发布一个主题，绝对会有人给你出谋划策的。</span><span class="english">Post a topic, and someone will definitely help you out.</span></p>

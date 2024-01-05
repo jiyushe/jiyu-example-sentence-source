@@ -1,5 +1,7 @@
 # 价目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiamu.md)
+
 <p><span class="chinese">请惠告价目货件。</span><span class="english">Please send your price List.</span></p>
 
 <p><span class="chinese">价目需最后确认时才作决定。</span><span class="english">The price is subject to final confirmation.</span></p>

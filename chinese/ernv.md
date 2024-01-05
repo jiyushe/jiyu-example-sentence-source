@@ -1,5 +1,7 @@
 # 儿女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ernv.md)
+
 <p><span class="chinese">你有儿女情。</span><span class="english">You have your family love.</span></p>
 
 <p><span class="chinese">他要他迷失的儿女被寻回。</span><span class="english">He wants his lost children found!</span></p>

@@ -1,5 +1,7 @@
 # 咯噔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gedeng.md)
+
 <p><span class="chinese">妈妈心里一咯噔。</span><span class="english">Her heart missed a beat.</span></p>
 
 <p><span class="chinese">她看到他时心里咯噔一下子。</span><span class="english">Her heart jolted when she saw him.</span></p>

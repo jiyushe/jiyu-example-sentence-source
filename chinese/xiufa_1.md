@@ -1,5 +1,7 @@
 # 秀发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiufa_1.md)
+
 <p><span class="chinese">另一件则是德拉的秀发。</span><span class="english">The other was Dellas hair.</span></p>
 
 <p><span class="chinese">她的秀发是她的无尚荣耀。</span><span class="english">Her hair is her crowning glory.</span></p>

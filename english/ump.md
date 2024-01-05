@@ -1,5 +1,7 @@
 # ump
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ump.md)
+
 <p><span class="chinese">他们为每个队的比赛作裁判员全年不应超过四个系列比赛。</span><span class="english">They should not ump any one team's games for more than four series all year.</span></p>
 
 <p><span class="chinese">民调结果显示此次选举对于萨科奇的人民运动联盟来说是可怕的。</span><span class="english">Opinion polls suggest that the results will be terrible for Mr Sarkozy’s ruling UMP party.</span></p>

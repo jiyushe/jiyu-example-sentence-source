@@ -1,5 +1,7 @@
 # unbeaten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unbeaten.md)
+
 <p><span class="chinese">我们敢于走前人未尝走过的新路。</span><span class="english">We dare to break a path unbeaten before.</span></p>
 
 <p><span class="chinese">最终是瑞士人占了上风，结束德约科维奇2011年开始的不败战绩。</span><span class="english">The Fed prevailed, ending Djokovic's unbeaten start to 2011.</span></p>

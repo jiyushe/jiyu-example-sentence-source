@@ -1,5 +1,7 @@
 # septum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/septum.md)
+
 <p><span class="chinese">鼻中隔的尾侧端与前鼻棘相接。</span><span class="english">The septum articulates caudally with the anterior nasal spine.</span></p>
 
 <p><span class="chinese">它在动脉干隔膜非螺旋而是呈直线下降时发生。</span><span class="english">This occurs when the trunco-conal septum does not spiral down.</span></p>

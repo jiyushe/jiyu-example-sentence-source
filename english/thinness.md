@@ -1,5 +1,7 @@
 # thinness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thinness.md)
+
 <p><span class="chinese">瘦可谓纯属虚荣。</span><span class="english">Thinness can be pure vainglory.</span></p>
 
 <p><span class="chinese">就像黄金打成透明的薄叶。</span><span class="english">Like gold to airy thinness beat.</span></p>

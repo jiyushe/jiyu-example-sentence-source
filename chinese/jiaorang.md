@@ -1,5 +1,7 @@
 # 叫嚷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaorang.md)
+
 <p><span class="chinese">他叫嚷得嗓子都哑了。</span><span class="english">He raved himself hoarse.</span></p>
 
 <p><span class="chinese">她从不对孩子们叫嚷。</span><span class="english">She never yells at her children.</span></p>

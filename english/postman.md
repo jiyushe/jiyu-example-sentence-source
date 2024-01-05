@@ -1,5 +1,7 @@
 # postman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/postman.md)
+
 <p><span class="chinese">那个邮差摇了摇头。</span><span class="english">The postman shook his head.</span></p>
 
 <p><span class="chinese">汤姆的工作是邮递员。</span><span class="english">Tom is working as a postman.</span></p>

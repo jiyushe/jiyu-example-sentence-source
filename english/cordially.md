@@ -1,5 +1,7 @@
 # cordially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cordially.md)
+
 <p><span class="chinese">恳请莅临视察。</span><span class="english">Inspection is cordially invited.</span></p>
 
 <p><span class="chinese">他总是心怀赤忱的帮助别人。</span><span class="english">He always cordially helps others.</span></p>

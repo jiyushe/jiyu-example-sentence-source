@@ -1,5 +1,7 @@
 # 脱毛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuomao_1.md)
+
 <p><span class="chinese">狗也许会脱毛，但猫会把布弄成碎条。</span><span class="english">Dogs may shed, but cats shred.</span></p>
 
 <p><span class="chinese">使用脱毛膏真的起作用吗?。</span><span class="english">Use depilate cream act well really?</span></p>

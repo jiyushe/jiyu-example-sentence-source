@@ -1,5 +1,7 @@
 # zara
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zara.md)
+
 <p><span class="chinese">安妮努力帮助彼得和扎拉完成他们的家庭作业。</span><span class="english">Anne struggled to help Peter and Zara with their prep.</span></p>
 
 <p><span class="chinese">莫拉和萨拉饥饿地看着疣猪逃跑了。</span><span class="english">Mora and Zara watch hungrily as the warthog makes its getaway.</span></p>

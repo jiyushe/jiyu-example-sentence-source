@@ -1,5 +1,7 @@
 # braveness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/braveness.md)
+
 <p><span class="chinese">你若失去了勇敢，就把什么都失去了。</span><span class="english">If you lose braveness , you lose all.</span></p>
 
 <p><span class="chinese">勇敢让人蜕变。</span><span class="english">The braveness let person transmuting.</span></p>

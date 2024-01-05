@@ -1,5 +1,7 @@
 # racquetball
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/racquetball.md)
+
 <p><span class="chinese">打了壁球。</span><span class="english">Played racquetball.</span></p>
 
 <p><span class="chinese">他现在十六岁了，喜欢户外活动，墙上网球和女孩子。</span><span class="english">Now 16, he likes the outdoors, racquetball and girls.</span></p>

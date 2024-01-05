@@ -1,5 +1,7 @@
 # injure 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/injure.md)
+
 <p><span class="chinese">你的话也许会伤她的自尊。</span><span class="english">Your words may injure her pride.</span></p>
 
 <p><span class="chinese">你的话也许会伤她的自尊。</span><span class="english">Your remark may injure her pride.</span></p>

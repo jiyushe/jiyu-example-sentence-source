@@ -1,5 +1,7 @@
 # assassin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assassin.md)
+
 <p><span class="chinese">刺客？</span><span class="english">Assassin?</span></p>
 
 <p><span class="chinese">他是哈奇的杀手。</span><span class="english">He is hatcher's assassin.</span></p>

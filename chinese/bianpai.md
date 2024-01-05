@@ -1,5 +1,7 @@
 # 编排
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianpai.md)
+
 <p><span class="chinese">版面编排，将不胜感激。</span><span class="english">Mockups will be appreciated.</span></p>
 
 <p><span class="chinese">你有编排版面大样的经验吗?</span><span class="english">Have you had experience in mocking up a page?</span></p>

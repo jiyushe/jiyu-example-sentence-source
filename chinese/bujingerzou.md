@@ -1,5 +1,7 @@
 # 不胫而走
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bujingerzou.md)
+
 <p><span class="chinese">这个消息不胫而走。</span><span class="english">The news spread like wildfire.</span></p>
 
 <p><span class="chinese">这消息在公司中不胫而走。</span><span class="english">The news swept through the firm.</span></p>

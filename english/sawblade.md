@@ -1,5 +1,7 @@
 # sawblade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sawblade.md)
+
 <p><span class="chinese">不需要定期清洁锯片。</span><span class="english">Not necessary to clean frequently sawblade.</span></p>
 
 <p><span class="chinese">导锯器是带锯机切削机构中的锯条导向装置。</span><span class="english">Saw-guide is a device used to guide sawblade in bandsaws.</span></p>

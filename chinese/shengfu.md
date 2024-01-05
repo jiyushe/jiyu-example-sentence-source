@@ -1,5 +1,7 @@
 # 圣父
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengfu.md)
+
 <p><span class="chinese">圣子与圣父同体。圣子与圣父同体。</span><span class="english">The Son is consubstantial with the Father.</span></p>
 
 <p><span class="chinese">两仪殿内供奉有圣父、圣母像。</span><span class="english">Queen honors are inside the Holy Father like Notre Dame.</span></p>

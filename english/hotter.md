@@ -1,5 +1,7 @@
 # hotter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hotter.md)
+
 <p><span class="chinese">比安吉丽娜更性感？</span><span class="english">But hotter than Angie?</span></p>
 
 <p><span class="chinese">那比太阳还热。</span><span class="english">That's hotter than the sun.</span></p>

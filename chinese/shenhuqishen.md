@@ -1,5 +1,7 @@
 # 神乎其神
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenhuqishen.md)
+
 <p><span class="chinese">这是一个神乎其神的传说。</span><span class="english">This is such a wonderful legend.</span></p>
 
 <p><span class="chinese">事实远没有传说的那样神乎其神。</span><span class="english">The facts are more prosaic than the legend.</span></p>

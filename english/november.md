@@ -1,5 +1,7 @@
 # november
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/november.md)
+
 <p><span class="chinese">在十一月又一次。</span><span class="english">And again in November.</span></p>
 
 <p><span class="chinese">十一月的第一天，心晴。</span><span class="english">November 1st, a new start.</span></p>

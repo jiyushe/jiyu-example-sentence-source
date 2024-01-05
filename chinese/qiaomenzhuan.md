@@ -1,5 +1,7 @@
 # 敲门砖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaomenzhuan.md)
+
 <p><span class="chinese">也是任何商业程序的敲门砖。</span><span class="english">It is also a key to any business program.</span></p>
 
 <p><span class="chinese">你认为我奶奶的故事是你的敲门砖？</span><span class="english">And you think gramma's story is your ticket?</span></p>

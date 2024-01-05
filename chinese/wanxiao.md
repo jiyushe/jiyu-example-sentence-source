@@ -1,5 +1,7 @@
 # 完小
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanxiao.md)
+
 <p><span class="chinese">达文西拉完小便，转回身，敬礼。</span><span class="english">Da Vinci urinates , turns back, and salutes the general.</span></p>
 
 <p><span class="chinese">做完小木偶，所有的学生都给大家介绍了自己的小木偶。</span><span class="english">After making the puppets, all the students presented and discussed their output.</span></p>

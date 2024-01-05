@@ -1,5 +1,7 @@
 # rarified
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rarified.md)
+
 <p><span class="chinese">最稀有和高端的耳机叫“静电式耳机。”</span><span class="english">The ultimate rarified type of ultra-high-end headphones are known as 'electrostatic' designs.</span></p>
 
 <p><span class="chinese">这一小众群体处理现金的方式和我们有别，也让他们始终有盈余。</span><span class="english">How this rarified group uses their cash differentiates them from the rest of us — and keeps them in the black.</span></p>

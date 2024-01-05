@@ -1,5 +1,7 @@
 # 倾覆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingfu.md)
+
 <p><span class="chinese">我船有倾覆的危险。</span><span class="english">I am in danger of capsizing.</span></p>
 
 <p><span class="chinese">这只船在汪洋大海中倾覆了。</span><span class="english">The boat capsized in heavy seas.</span></p>

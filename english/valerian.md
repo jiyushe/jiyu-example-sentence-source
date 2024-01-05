@@ -1,5 +1,7 @@
 # valerian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/valerian.md)
+
 <p><span class="chinese">缬草缬草是治疗不眠症的最常见的补眠措施之一。</span><span class="english">Valerian is one of the most common sleep remedies for insomnia.</span></p>
 
 <p><span class="chinese">缬草是安全有效的镇静剂，对大多数儿童很有效。</span><span class="english">Valerian is a safe and effective sedative with reliable results for most kids.</span></p>

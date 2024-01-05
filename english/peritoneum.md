@@ -1,5 +1,7 @@
 # peritoneum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peritoneum.md)
+
 <p><span class="chinese">而腹膜则会吸收这些液体。</span><span class="english">The peritoneum then reabsorbs the fluid.</span></p>
 
 <p><span class="chinese">可能在腹膜或心包内发生出血。</span><span class="english">Bleeding may occur in the peritoneum or pericardium.</span></p>

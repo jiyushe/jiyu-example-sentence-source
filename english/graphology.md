@@ -1,5 +1,7 @@
 # graphology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/graphology.md)
+
 <p><span class="chinese">笔迹学研究人的书法习惯。</span><span class="english">Graphology is the study of handwriting.</span></p>
 
 <p><span class="chinese">笔体学的某些原则还是可信的。</span><span class="english">Some principles of graphology are true.</span></p>

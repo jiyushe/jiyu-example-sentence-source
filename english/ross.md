@@ -1,5 +1,7 @@
 # ross
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ross.md)
+
 <p><span class="chinese">罗斯得到一副耳环。</span><span class="english">Ross gets an ear-ring.</span></p>
 
 <p><span class="chinese">陈述句的末尾应该有一句号。</span><span class="english">Ross is a girl of the period.</span></p>

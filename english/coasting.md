@@ -1,5 +1,7 @@
 # coasting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coasting.md)
+
 <p><span class="chinese">坐冰橇是最受旅游爱好者喜爱的一项活动。</span><span class="english">Coasting on ice in a sled is a favourite sport of holiday-makers.</span></p>
 
 <p><span class="chinese">所以当你加到一定速度,然后你便匀速上升的时候</span><span class="english">So, you picked up some speed, then you're coasting along at a steady speed.</span></p>

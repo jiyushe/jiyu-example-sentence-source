@@ -1,5 +1,7 @@
 # airfare
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/airfare.md)
+
 <p><span class="chinese">同样，在机票上也要显示出MCO号码。</span><span class="english">MCO number should also be indicated on PAX airfare ticket.</span></p>
 
 <p><span class="chinese">QPX在北美的机票价格搜索和定价方面是市场的领导者。</span><span class="english">QPX is a market leader in airfare shopping and pricing, especially in North America.</span></p>

@@ -1,5 +1,7 @@
 # memorial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/memorial.md)
+
 <p><span class="chinese">何时是国殇日?。</span><span class="english">When is Memorial Day?</span></p>
 
 <p><span class="chinese">我在中正纪念堂上公车。</span><span class="english">I get on at CKS Memorial Hall.</span></p>

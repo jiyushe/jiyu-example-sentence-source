@@ -1,5 +1,7 @@
 # aikido
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aikido.md)
+
 <p><span class="chinese">于2002年开始练习合气道。</span><span class="english">Began training in Aikido in 2002.</span></p>
 
 <p><span class="chinese">在合气道武术Shomen宇智是国防开销罢工。</span><span class="english">In Aikido martial arts Shomen Uchi is an overhead strike defense.</span></p>

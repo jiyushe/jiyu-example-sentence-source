@@ -1,5 +1,7 @@
 # favorableness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/favorableness.md)
+
 <p><span class="chinese">向善的强力改造动能来自对我们的内心，而非顺应讨喜的环境。</span><span class="english">The power of effecting changes for the better is within ourselves, not in the favorableness of circumstances.</span></p>
 
 <p><span class="chinese">私家车交通是经济发展到一定阶段的必然趋势，有利有弊。</span><span class="english">It is a necessary tendency for private cars when the economy is developing at some phases, with some favorableness and harmness.</span></p>

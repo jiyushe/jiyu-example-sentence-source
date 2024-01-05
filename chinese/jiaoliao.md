@@ -1,5 +1,7 @@
 # 鹪鹩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoliao.md)
+
 <p><span class="chinese">还会有鹪鹩吗？</span><span class="english">And wrens?</span></p>
 
 <p><span class="chinese">是我们，鹪鹩说。</span><span class="english">We, said the Wren.</span></p>

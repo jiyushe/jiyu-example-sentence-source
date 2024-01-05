@@ -1,5 +1,7 @@
 # sanitize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sanitize.md)
+
 <p><span class="chinese">审查输入数据中的无效字符。</span><span class="english">Sanitize input data for invalid characters</span></p>
 
 <p><span class="chinese">通过列出允许的字符串清洁用户输入。</span><span class="english">Sanitize user input by "whitelisting" the characters allowed.</span></p>

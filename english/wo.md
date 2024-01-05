@@ -1,5 +1,7 @@
 # wo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wo.md)
+
 <p><span class="chinese">王先生是哪里人？</span><span class="english">Wo kommt Herr Wang her?</span></p>
 
 <p><span class="chinese">我们可以用C调么</span><span class="english">Well.Could youcould wo do C?</span></p>

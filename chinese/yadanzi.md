@@ -1,5 +1,7 @@
 # 鸦胆子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yadanzi.md)
+
 <p><span class="chinese">目的研究鸦胆子GC指纹图谱，对鸦胆子进行质量控制。</span><span class="english">Objective To study the GC fingerprints similarity of Brucea javanica.</span></p>
 
 <p><span class="chinese">鸦胆子及合剂治疗组清除氧自由基能力较强。</span><span class="english">These Chinese medicines also possessed a strong ability to eliminate the free radical.</span></p>

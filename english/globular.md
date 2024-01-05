@@ -1,5 +1,7 @@
 # globular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/globular.md)
+
 <p><span class="chinese">它的胸部明显地呈球形。</span><span class="english">It has a distinctly globular thorax.</span></p>
 
 <p><span class="chinese">球状星团曾经统治着银河系。</span><span class="english">Globular clusters once ruled the Milky Way.</span></p>

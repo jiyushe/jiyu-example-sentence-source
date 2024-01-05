@@ -1,5 +1,7 @@
 # selfishness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/selfishness.md)
+
 <p><span class="chinese">私心是罪的老根子。</span><span class="english">Selfishness is the root of all sin.</span></p>
 
 <p><span class="chinese">忘我主义的反面是自私自利。</span><span class="english">Altruism is the opposite of selfishness.</span></p>

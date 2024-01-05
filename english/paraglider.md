@@ -1,5 +1,7 @@
 # paraglider
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paraglider.md)
+
 <p><span class="chinese">一顶飞行伞有著非常有限的速度区间。</span><span class="english">A paraglider has a very limited speed range.</span></p>
 
 <p><span class="chinese">他驾着滑翔伞飞越了长城。</span><span class="english">He flew over the Great Wall in a paraglider.</span></p>

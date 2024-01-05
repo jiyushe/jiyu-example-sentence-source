@@ -1,5 +1,7 @@
 # ambivalence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ambivalence.md)
+
 <p><span class="chinese">家庭生活也会有充满矛盾和苦楚的时候。</span><span class="english">Family life is filled with ambivalence and bittersweet moments.</span></p>
 
 <p><span class="chinese">这种双重性认识是对逻各斯中心主义的颠覆和解构。</span><span class="english">This ambivalence subverts and deconstructs logos centre doctrine.</span></p>

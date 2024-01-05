@@ -1,5 +1,7 @@
 # corrupt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corrupt.md)
+
 <p><span class="chinese">掌权者容易腐化堕落。</span><span class="english">Power tends to corrupt.</span></p>
 
 <p><span class="chinese">你将会损坏数据。</span><span class="english">You'll corrupt your data.</span></p>

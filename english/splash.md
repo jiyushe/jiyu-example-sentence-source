@@ -1,5 +1,7 @@
 # splash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/splash.md)
+
 <p><span class="chinese">别溅到我的鞋上。</span><span class="english">Don't splash my shoes.</span></p>
 
 <p><span class="chinese">请勿在水里嬉水。</span><span class="english">No splash in the water.</span></p>

@@ -1,5 +1,7 @@
 # implant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/implant.md)
+
 <p><span class="chinese">图示隆胸术所用硅酮。</span><span class="english">Here is a silicone breast implant.</span></p>
 
 <p><span class="chinese">如果假体破损了，会发生什么？</span><span class="english">What happens if an implant ruptures?</span></p>

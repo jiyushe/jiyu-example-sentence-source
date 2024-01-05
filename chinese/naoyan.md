@@ -1,5 +1,7 @@
 # 脑炎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naoyan.md)
+
 <p><span class="chinese">在您的产品放入脑干脑炎，使他们更好的声音。</span><span class="english">Put BBE in your products to make them sound better.</span></p>
 
 <p><span class="chinese">夏天幼儿怎样预防病毒性脑炎？</span><span class="english">How does cheeper prevent summer virus sex encephalitis?</span></p>

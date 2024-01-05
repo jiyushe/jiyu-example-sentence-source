@@ -1,5 +1,7 @@
 # 护卫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huwei.md)
+
 <p><span class="chinese">护卫员腿部受了伤。</span><span class="english">The guard was wounded in the leg.</span></p>
 
 <p><span class="chinese">是什麽让麝香鼠护卫它的麝香？</span><span class="english">What makes the muskrat guard his musk?</span></p>

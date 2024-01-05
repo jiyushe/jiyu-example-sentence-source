@@ -1,5 +1,7 @@
 # arrestor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arrestor.md)
+
 <p><span class="chinese">所以铁路将购买阻火器。</span><span class="english">So the railroad will buy the spark arrestor.</span></p>
 
 <p><span class="chinese">可见呼吸阀、阻火器是储罐不要缺少的安全设施。</span><span class="english">Breather valve flame arrestor are indispensable safety devices.</span></p>

@@ -1,5 +1,7 @@
 # 幻灭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanmie.md)
+
 <p><span class="chinese">她的梦想不久就幻灭了。</span><span class="english">She was soon disillusioned.</span></p>
 
 <p><span class="chinese">是“理想幻灭的低谷”，麦当劳先生如是说。</span><span class="english">The “trough of disillusionment, ” he says.</span></p>

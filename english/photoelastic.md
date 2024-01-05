@@ -1,5 +1,7 @@
 # photoelastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photoelastic.md)
+
 <p><span class="chinese">方法采用生物力学光弹性实验方法。</span><span class="english">Method We used the biomechanics method of photoelastic experiment.</span></p>
 
 <p><span class="chinese">此项研究结果可为扁挤压筒的光弹性分析提供帮助。</span><span class="english">The study is helpful to photoelastic analysis on oblate extrusion pipe.</span></p>

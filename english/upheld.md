@@ -1,5 +1,7 @@
 # upheld
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upheld.md)
+
 <p><span class="chinese">她勉强地举起手来。</span><span class="english">She upheld her hand reluctantly.</span></p>
 
 <p><span class="chinese">Griesa法官坚持这一理论。</span><span class="english">Judge Griesa has upheld this theory.</span></p>

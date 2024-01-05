@@ -1,5 +1,7 @@
 # benzoyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benzoyl.md)
+
 <p><span class="chinese">过氧化苯甲酰是有机引发剂的一个例子。</span><span class="english">Benzoyl peroxide is an instance of an organic initiator.</span></p>
 
 <p><span class="chinese">过氧化苯可能导致织物脱色，请小心使用。</span><span class="english">Benzoyl peroxide can cause fabric to discolour on contact. Use with care.</span></p>

@@ -1,5 +1,7 @@
 # semiconducting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semiconducting.md)
+
 <p><span class="chinese">鲍哲南团队首次实现了将这种聚合物和半导体碳纳米管结合使用。</span><span class="english">Bao's group is the first to combine it with semiconducting carbon nanotubes.</span></p>
 
 <p><span class="chinese">图尔表示，晶体管必须是纯粹的半导体才能传载信息。</span><span class="english">A transistor needs to be completely semiconducting to hold information, Tour says.</span></p>

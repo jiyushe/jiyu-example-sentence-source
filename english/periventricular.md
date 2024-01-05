@@ -1,5 +1,7 @@
 # periventricular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/periventricular.md)
+
 <p><span class="chinese">片示轻度的非特异性的室周白质病变和弥漫性的脑萎缩。</span><span class="english">There is mild nonspecific periventricular white matter disease and diffuse cerebral atrophy.</span></p>
 
 <p><span class="chinese">目的探讨儿童脑室周围白质软化症的CT表现，提高CT诊断的准确性。</span><span class="english">Objective To study the CT features of periventricular leukomalaciain children and to raise the diagnostic accuracy.</span></p>

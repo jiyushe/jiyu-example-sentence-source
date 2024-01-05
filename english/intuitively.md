@@ -1,5 +1,7 @@
 # intuitively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intuitively.md)
+
 <p><span class="chinese">那是非常直观的</span><span class="english">That's intuitively clear.</span></p>
 
 <p><span class="chinese">那种兴趣出自她的直觉。</span><span class="english">It comes very intuitively to her</span></p>

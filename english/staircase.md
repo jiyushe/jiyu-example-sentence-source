@@ -1,5 +1,7 @@
 # staircase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/staircase.md)
+
 <p><span class="chinese">走廊尽头是楼梯。</span><span class="english">The gallery is terminated by a staircase.</span></p>
 
 <p><span class="chinese">他发呆地望了一望大理石铺成的楼梯。</span><span class="english">He looked vaguely up the marble staircase.</span></p>

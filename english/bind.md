@@ -1,5 +1,7 @@
 # bind
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bind.md)
+
 <p><span class="chinese">我说，把他捆上！</span><span class="english">Bind him, I say!</span></p>
 
 <p><span class="chinese">赫里史肯定会拒绝它。</span><span class="english">Herrick be bind to reject it.</span></p>

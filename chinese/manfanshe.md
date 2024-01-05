@@ -1,5 +1,7 @@
 # 漫反射
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manfanshe.md)
+
 <p><span class="chinese">每个材质都有漫反射、凹凸和高光贴图。</span><span class="english">Every material has diffuse, bump and specular map.</span></p>
 
 <p><span class="chinese">在近红外区域，本文采用了漫反射测量方式。</span><span class="english">Diffuse reflection mode is used in Near-Infrared region.</span></p>

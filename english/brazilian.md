@@ -1,5 +1,7 @@
 # brazilian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brazilian.md)
+
 <p><span class="chinese">他是巴西人—他还是我的朋友。</span><span class="english">He's Brazilian – and he is my friend.</span></p>
 
 <p><span class="chinese">你觉得他作为巴西人怎么样？</span><span class="english">What do you think of him as a Brazilian?</span></p>

@@ -1,5 +1,7 @@
 # chopping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chopping.md)
+
 <p><span class="chinese">我来把菜切完。</span><span class="english">I’ll finish the chopping.</span></p>
 
 <p><span class="chinese">人们用我来切菜。</span><span class="english">People use me for chopping.</span></p>

@@ -1,5 +1,7 @@
 # tether
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tether.md)
+
 <p><span class="chinese">他没着儿了。</span><span class="english">He's at the end of his tether.</span></p>
 
 <p><span class="chinese">出尔反尔，给他呼吸的氧气。</span><span class="english">The tether gave him oxygen to breathe.</span></p>

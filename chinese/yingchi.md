@@ -1,5 +1,7 @@
 # 英尺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingchi.md)
+
 <p><span class="chinese">他身高7英尺。</span><span class="english">He tops 7 feet.</span></p>
 
 <p><span class="chinese">塔高五十英尺。</span><span class="english">The tower rises 80 feet.</span></p>

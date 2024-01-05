@@ -1,5 +1,7 @@
 # 眼睫毛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanjiemao.md)
+
 <p><span class="chinese">如果眼睫毛非常稀薄的话，再涂上一层厚厚的睫毛膏。</span><span class="english">If your lashes are very light, add a coat of black mascara.</span></p>
 
 <p><span class="chinese">喝嘿在吃马克西姆奶奶做的鹅肝酱，眼睫毛太长了！</span><span class="english">Jorge is eating goose liver sauce. His eyelash are too long!</span></p>

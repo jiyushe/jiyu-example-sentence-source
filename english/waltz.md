@@ -1,5 +1,7 @@
 # waltz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waltz.md)
+
 <p><span class="chinese">你会跳华尔兹舞吗？</span><span class="english">Can you waltz?</span></p>
 
 <p><span class="chinese">我们跳华尔兹。</span><span class="english">We danced a waltz.</span></p>

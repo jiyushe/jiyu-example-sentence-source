@@ -1,5 +1,7 @@
 # 缩头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suotou.md)
+
 <p><span class="chinese">说她是缩头乌龟还更贴切。</span><span class="english">A turtle hiding in her shell is more like it.</span></p>
 
 <p><span class="chinese">敌人像缩头乌龟一样藏在几个孤立的据点里。</span><span class="english">The enemy was holed up in a few isolated strong-holds.</span></p>

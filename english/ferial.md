@@ -1,5 +1,7 @@
 # ferial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ferial.md)
+
 <p><span class="chinese">我一时牢骚满腹，把平日里积聚的郁闷向母亲倾诉。</span><span class="english">I have, ferial in the build-up to the depressed mothers.</span></p>
 
 <p><span class="chinese">身为影后的她，平日又是如何打理宝贝秀发的？</span><span class="english">As her after the shadow, ferial how be to do baby show to send?</span></p>

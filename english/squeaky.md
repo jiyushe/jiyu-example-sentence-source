@@ -1,5 +1,7 @@
 # squeaky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/squeaky.md)
+
 <p><span class="chinese">我给锈得吱吱响的铰链上了点油。</span><span class="english">I put some oil on the squeaky hinge.</span></p>
 
 <p><span class="chinese">我的系统已经超稳定运行达六个月之久。</span><span class="english">My system has been squeaky clean for over 6 months.</span></p>

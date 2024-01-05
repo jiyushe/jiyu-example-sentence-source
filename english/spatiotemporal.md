@@ -1,5 +1,7 @@
 # spatiotemporal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spatiotemporal.md)
+
 <p><span class="chinese">时态GIS应支持基于过程的时空动态建模。</span><span class="english">Temporal GIS should support process-based spatiotemporal dynamic modeling.</span></p>
 
 <p><span class="chinese">进一步考虑了时空聚焦、自陡峭和拉曼延迟响应等效应。</span><span class="english">Spatiotemporal focusing, self-steepening and Raman delayed response are identified.</span></p>

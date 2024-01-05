@@ -1,5 +1,7 @@
 # lamentable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lamentable.md)
+
 <p><span class="chinese">但是，纣王却也是可悲的。</span><span class="english">But he is lamentable.</span></p>
 
 <p><span class="chinese">我的教区，当我第一次到达时，处于破烂的状态中。</span><span class="english">My parish, when I first arrived, was in a lamentable state.</span></p>

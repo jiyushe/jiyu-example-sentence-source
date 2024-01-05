@@ -1,5 +1,7 @@
 # stratigraphy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stratigraphy.md)
+
 <p><span class="chinese">地层学的研究是以地层单位的物质形式运作的。</span><span class="english">The study of stratigraphy is playing in the form of units.</span></p>
 
 <p><span class="chinese">地层学研究地壳中岩石的层序。</span><span class="english">Stratigraphy studies the sequence of the rocks in the earth's crust.</span></p>

@@ -1,5 +1,7 @@
 # 欲罢不能
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yubabuneng.md)
+
 <p><span class="chinese">超多奖项，让玩家欲罢不能！</span><span class="english">Super multi-award, allowing the player unable to stop!</span></p>
 
 <p><span class="chinese">深爱是种让人欲罢不能的习惯。</span><span class="english">Love is kind of let people try to stop but cannot habit.</span></p>

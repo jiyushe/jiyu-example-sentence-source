@@ -1,5 +1,7 @@
 # 人士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renshi_2.md)
+
 <p><span class="chinese">时尚界人士会“穿一条裤管的裤子”。</span><span class="english">Fashion people do.</span></p>
 
 <p><span class="chinese">一本书和一位圣公会人士。</span><span class="english">A book and an Anglican.</span></p>

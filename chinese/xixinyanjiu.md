@@ -1,5 +1,7 @@
 # 喜新厌旧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xixinyanjiu.md)
+
 <p><span class="chinese">未来喜新厌旧的速度无与伦比。</span><span class="english">Nothing gets old as fast as the future.</span></p>
 
 <p><span class="chinese">人们喜新厌旧，抛弃旧的厂房、村庄，甚至是自己的家庭。</span><span class="english">People cast aside factories, villages, and even families in their pursuit of the new.</span></p>

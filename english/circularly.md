@@ -1,5 +1,7 @@
 # circularly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/circularly.md)
+
 <p><span class="chinese">圆偏振光经物镜聚焦后射到光盘上。</span><span class="english">The circularly polarized light is then focused down onto the disk.</span></p>
 
 <p><span class="chinese">循环经济的核心内涵是资源循环利用。</span><span class="english">The kernel of recycling economy is to utilize resources circularly.</span></p>

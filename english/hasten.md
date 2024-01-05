@@ -1,5 +1,7 @@
 # hasten
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hasten.md)
+
 <p><span class="chinese">我赶紧拭干了泪。</span><span class="english">I hasten drying of the tears.</span></p>
 
 <p><span class="chinese">你赶快到国王这边来。</span><span class="english">Do thou hasten to the king's side.</span></p>

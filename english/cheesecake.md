@@ -1,5 +1,7 @@
 # cheesecake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheesecake.md)
+
 <p><span class="chinese">有一次她做了奶酪蛋糕。</span><span class="english">Once she made cheesecake.</span></p>
 
 <p><span class="chinese">伊利诺伊州芝加哥的Eli芝士蛋糕世界</span><span class="english">Eli's Cheesecake World, Chicago, Illinois</span></p>

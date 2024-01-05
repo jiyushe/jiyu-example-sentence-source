@@ -1,5 +1,7 @@
 # drama 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drama.md)
+
 <p><span class="chinese">而百花凋零的时候是秋天。</span><span class="english">And drama is autumn.</span></p>
 
 <p><span class="chinese">我参加了戏剧社。</span><span class="english">I joined the Drama Club.</span></p>

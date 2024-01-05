@@ -1,5 +1,7 @@
 # outdated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outdated.md)
+
 <p><span class="chinese">款式也过时了。</span><span class="english">The style was outdated.</span></p>
 
 <p><span class="chinese">过期权利丧失原则。</span><span class="english">Principle of outdated be losed.</span></p>

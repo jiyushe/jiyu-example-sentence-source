@@ -1,5 +1,7 @@
 # 千锤百炼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianchuibailian.md)
+
 <p><span class="chinese">只有千锤百炼，才能成为好钢。</span><span class="english">Only by thoroughly tempered, can be a good steel.</span></p>
 
 <p><span class="chinese">人生就像一块烧红的铁条，需要千锤百炼才能走好。</span><span class="english">Life is like a red-hot iron, need dental laboratories to go.</span></p>

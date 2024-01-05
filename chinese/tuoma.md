@@ -1,5 +1,7 @@
 # 唾骂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuoma.md)
+
 <p><span class="chinese">她被谴责虚构故事，在大街上遭到唾骂。</span><span class="english">She was condemned fiction, was reviled in the streets.</span></p>
 
 <p><span class="chinese">约翰森表示，他宁愿让人们唾骂也不愿让人们因他的工作失误而死。</span><span class="english">Johnson said he would rather have egg on his face than deaths on his hands.</span></p>

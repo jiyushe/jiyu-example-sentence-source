@@ -1,5 +1,7 @@
 # aseismatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aseismatic.md)
+
 <p><span class="chinese">加强要害部门及生命线设施的抗震设防工作。</span><span class="english">The aseismatic fortify that strengthens crucial point branch and lifeline establishment works.</span></p>
 
 <p><span class="chinese">分析不同植筋深度对其抗震性能的影响，对随植筋深度变化的规律作了较为系统的阐述。</span><span class="english">Analyze the infection of aseismatic capability and roundly expound it's rule about different planted depth.</span></p>

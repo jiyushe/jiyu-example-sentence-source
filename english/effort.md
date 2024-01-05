@@ -1,5 +1,7 @@
 # effort 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/effort.md)
+
 <p><span class="chinese">学会爱上努力。</span><span class="english">Learn to Iove effort.</span></p>
 
 <p><span class="chinese">停止无谓的努力。</span><span class="english">Stop unfruitful effort.</span></p>

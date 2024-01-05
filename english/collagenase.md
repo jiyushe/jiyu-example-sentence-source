@@ -1,5 +1,7 @@
 # collagenase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collagenase.md)
+
 <p><span class="chinese">目的分离获得高产量、高比活性的胶原酶。</span><span class="english">Objective To isolate and purify collagenase with high quantity and activity.</span></p>
 
 <p><span class="chinese">还能抑制胶原酶的表达和糖化作用，从而具有抗皱纹的功效。</span><span class="english">And it also has anti-wrinkle effect by inhibiting collagenase expression and glycation.</span></p>

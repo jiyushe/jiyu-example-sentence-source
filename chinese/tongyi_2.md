@@ -1,5 +1,7 @@
 # 同义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongyi_2.md)
+
 <p><span class="chinese">什么是同义现象？</span><span class="english">What is synonymy?</span></p>
 
 <p><span class="chinese">和荣誉同义的词</span><span class="english">A good synonym for honor.</span></p>

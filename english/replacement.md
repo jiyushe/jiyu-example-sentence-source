@@ -1,5 +1,7 @@
 # replacement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/replacement.md)
+
 <p><span class="chinese">我需要重办一张新卡。</span><span class="english">I need a replacement card.</span></p>
 
 <p><span class="chinese">激素替代疗法。</span><span class="english">Hormone replacement therapy.</span></p>

@@ -1,5 +1,7 @@
 # 生气勃勃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengqibobo.md)
+
 <p><span class="chinese">我们发现她总是生气勃勃。</span><span class="english">We found her always brisking about.</span></p>
 
 <p><span class="chinese">那真是一段生气勃勃的时光。</span><span class="english">And it was an exuberant, exuberant time.</span></p>

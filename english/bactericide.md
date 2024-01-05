@@ -1,5 +1,7 @@
 # bactericide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bactericide.md)
+
 <p><span class="chinese">碘杀菌剂是一种高效无毒的杀菌剂。</span><span class="english">Iodine bactericide is an innocuous high-effect germicide.</span></p>
 
 <p><span class="chinese">臭氧是公认的广谱、高效杀菌剂。</span><span class="english">Ozone is a broad-spectrum and high-performance bactericide.</span></p>

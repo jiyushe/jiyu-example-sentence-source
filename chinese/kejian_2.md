@@ -1,5 +1,7 @@
 # 课间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kejian_2.md)
+
 <p><span class="chinese">我们经常度过愉快的课间休息。</span><span class="english">We often have a pleasant break.</span></p>
 
 <p><span class="chinese">学生们在课间休息时玩抓人游戏。</span><span class="english">The students played tag during recess.</span></p>

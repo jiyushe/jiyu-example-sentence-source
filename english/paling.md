@@ -1,5 +1,7 @@
 # paling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paling.md)
+
 <p><span class="chinese">爱丽丝喜欢足球吗？</span><span class="english">Yes, Alice likes paling football.</span></p>
 
 <p><span class="chinese">院子周围竖立着一道新的栅栏。</span><span class="english">A new paling had been erected around the yard.</span></p>

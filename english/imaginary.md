@@ -1,5 +1,7 @@
 # imaginary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imaginary.md)
+
 <p><span class="chinese">我们有很多想象中的亚斯兰。</span><span class="english">We had a lot of imaginary Aslan.</span></p>
 
 <p><span class="chinese">生活是复的，有实部和虚部。</span><span class="english">It has real and imaginary components.</span></p>

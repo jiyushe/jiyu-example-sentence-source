@@ -1,5 +1,7 @@
 # reporter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reporter.md)
+
 <p><span class="chinese">她是电视台记者。</span><span class="english">She e's a TV reporter.</span></p>
 
 <p><span class="chinese">来来来，记者同志。</span><span class="english">Come on, Comrade Reporter.</span></p>

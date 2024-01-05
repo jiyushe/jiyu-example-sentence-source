@@ -1,5 +1,7 @@
 # gallinaceous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gallinaceous.md)
+
 <p><span class="chinese">混在了鸡饲料里，喂给公鸡吃了。</span><span class="english">Mix in gallinaceous feed, fed a cock to eat.</span></p>
 
 <p><span class="chinese">“鸡皮肤”有什么解决的办法？</span><span class="english">" Gallinaceous skin " the idea that what is solved?</span></p>

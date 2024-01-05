@@ -1,5 +1,7 @@
 # sparkplug
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sparkplug.md)
+
 <p><span class="chinese">倡导“如厕”革命！</span><span class="english">Sparkplug a revolution of "lavatory"!</span></p>
 
 <p><span class="chinese">火花塞和加工保留螺母。</span><span class="english">Sparkplug and machined retaining nut.</span></p>

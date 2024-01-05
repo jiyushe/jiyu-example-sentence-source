@@ -1,5 +1,7 @@
 # 虎视眈眈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hushidandan.md)
+
 <p><span class="chinese">我知道你总是虎视眈眈以强凌弱。</span><span class="english">I know you always pery on weak people.</span></p>
 
 <p><span class="chinese">我知道你老是虎视眈眈以浅懔阴。</span><span class="english">I know you always prey on weak people.</span></p>

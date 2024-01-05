@@ -1,5 +1,7 @@
 # 荨麻疹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunmazhen.md)
+
 <p><span class="chinese">怎样治疗产后荨麻疹？</span><span class="english">How to treat postpartum urticaria?</span></p>
 
 <p><span class="chinese">她脸上和手上突然全发出了荨麻疹。</span><span class="english">Hives erupted all over her face and hands.</span></p>

@@ -1,5 +1,7 @@
 # moulage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moulage.md)
+
 <p><span class="chinese">薄冰被我砸了一个窟窿，像印模一般，正和我倒下去的身形相同。</span><span class="english">I made a hole in the ice, like a moulage , the hole was the same with my body shape.</span></p>
 
 <p><span class="chinese">凸轮机械手自动送．卸皂，印模90度往复打印，成皂精度高安全。</span><span class="english">Cam manipulator automatic send and unload soap. Moulage to-and-fro 90degree stamp. Soap precision nigh and safety.</span></p>

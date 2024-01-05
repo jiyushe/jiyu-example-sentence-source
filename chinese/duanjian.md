@@ -1,5 +1,7 @@
 # 短剑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duanjian.md)
+
 <p><span class="chinese">大衣和短剑挂进衣橱</span><span class="english">The cloak and dagger dangles</span></p>
 
 <p><span class="chinese">他用一把短剑刺我。</span><span class="english">He thrust at me with a dagger.</span></p>

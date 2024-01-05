@@ -1,5 +1,7 @@
 # subtopic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subtopic.md)
+
 <p><span class="chinese">将所有的“subtopic”重命名为“topic”。</span><span class="english">Rename all "subtopic" calls to "topic".</span></p>
 
 <p><span class="chinese">conclusion里面一定不要出现新观点！</span><span class="english">Introducing a new idea or subtopic in your conclusion.</span></p>

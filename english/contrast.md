@@ -1,5 +1,7 @@
 # contrast 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contrast.md)
+
 <p><span class="chinese">大小对比。</span><span class="english">Size contrast.</span></p>
 
 <p><span class="chinese">明暗反差大是照片的大敌。</span><span class="english">Contrast is your enemy.</span></p>

@@ -1,5 +1,7 @@
 # 意兴阑珊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yixinglanshan.md)
+
 <p><span class="chinese">我很好，只是有些意兴阑珊。</span><span class="english">I'm fine, just a little down.</span></p>
 
 <p><span class="chinese">其次，许多应用和服务给人的感觉有些虚张声势，令人意兴阑珊。</span><span class="english">Applications and services feel bloated and uninspiring.</span></p>

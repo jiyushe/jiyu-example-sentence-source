@@ -1,5 +1,7 @@
 # clint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clint.md)
+
 <p><span class="chinese">之后他说，‘我能把剧本给我的朋友克林特看看吗？’</span><span class="english">Then he said, ‘Can I show it to my friend Clint?’</span></p>
 
 <p><span class="chinese">成为复仇者给他指明一条道路，一个赎救自我的机会。</span><span class="english">Being an Avenger gives Clint his path and redeems him.</span></p>

@@ -1,5 +1,7 @@
 # trunnion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trunnion.md)
+
 <p><span class="chinese">独特的部分是耳轴安装。</span><span class="english">The unique part of the mounting is the trunnion.</span></p>
 
 <p><span class="chinese">辊耳轴，摇臂支点在哪里其安装螺栓原样。</span><span class="english">" Roller " fulcrum rocker trunnion as is, "where" mounting screws.</span></p>

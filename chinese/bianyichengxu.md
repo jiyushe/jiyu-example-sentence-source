@@ -1,5 +1,7 @@
 # 编译程序
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianyichengxu.md)
+
 <p><span class="chinese">这些系统程序当中有一种叫做编译程序。</span><span class="english">What's the difference between an assembler and compiler?</span></p>
 
 <p><span class="chinese">它是一个表驱动的代码生成方法，可用于编译程序的移植。</span><span class="english">This method can be used in the transportation of compilers.</span></p>

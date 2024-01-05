@@ -1,5 +1,7 @@
 # 瓜葛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guage.md)
+
 <p><span class="chinese">我与她不再有什么瓜葛了。</span><span class="english">I no longer had to meddle with her.</span></p>
 
 <p><span class="chinese">你尚无真正康复呢，瓜葛密切的，你最佳是再在家里呆上一半天。</span><span class="english">Not really, my dear. You'd better stay home for another day or.</span></p>

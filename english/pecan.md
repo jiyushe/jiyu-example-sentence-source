@@ -1,5 +1,7 @@
 # pecan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pecan.md)
+
 <p><span class="chinese">大核桃树幼小。</span><span class="english">Pecan tree is young and small.</span></p>
 
 <p><span class="chinese">或者香甜土豆焙盘和山核桃派。</span><span class="english">Or sweet potato casserole and pecan pie.</span></p>

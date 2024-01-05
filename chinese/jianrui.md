@@ -1,5 +1,7 @@
 # 尖锐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianrui.md)
+
 <p><span class="chinese">走开，尖锐的白牙！</span><span class="english">GO AWAY, sharp white teeth!</span></p>
 
 <p><span class="chinese">这个男人的表达非常尖锐。</span><span class="english">The man's expression stiffened.</span></p>

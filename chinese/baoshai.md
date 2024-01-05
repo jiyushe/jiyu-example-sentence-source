@@ -1,5 +1,7 @@
 # 暴晒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baoshai.md)
+
 <p><span class="chinese">阳，暴晒这我。</span><span class="english">Yang, which I exposure.</span></p>
 
 <p><span class="chinese">留在家里，不要让你的皮肤在阳光下暴晒。</span><span class="english">Stay at home and don't expose your skin to the sun.</span></p>

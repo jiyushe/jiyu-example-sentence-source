@@ -1,5 +1,7 @@
 # 执迷不悟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhimibuwu.md)
+
 <p><span class="chinese">执迷不悟的人并不只有你。</span><span class="english">Youre not the only one who can be obsessive.</span></p>
 
 <p><span class="chinese">我在这场梦中一堕不醒执迷不悟。</span><span class="english">I dream of a fall in the wake of this stubborn.</span></p>

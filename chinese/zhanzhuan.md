@@ -1,5 +1,7 @@
 # 辗转
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanzhuan.md)
+
 <p><span class="chinese">那是一个辗转难眠的长夜。</span><span class="english">Iave had a long night in stir.</span></p>
 
 <p><span class="chinese">擦拭厨房的工作台面和辗转。</span><span class="english">Wipe the countertops and toss.</span></p>

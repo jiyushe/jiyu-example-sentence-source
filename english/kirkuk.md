@@ -1,5 +1,7 @@
 # kirkuk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kirkuk.md)
+
 <p><span class="chinese">哈珊也曾在1991年一次库德人的失败抗争后，用武力扫荡了喀尔克四个县。</span><span class="english">Saddam Hussein also bulldozed four districts in Kirkuk after the failedKurdish uprising in 1991.</span></p>
 
 <p><span class="chinese">围绕北部城市基尔库克的争议提醒美国的战争部署者，还有多少事要做。</span><span class="english">Disputes over the northern city of Kirkuk remind America's war planners of how much remains to be done.</span></p>

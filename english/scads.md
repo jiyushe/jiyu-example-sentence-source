@@ -1,5 +1,7 @@
 # scads
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scads.md)
+
 <p><span class="chinese">好多的书！</span><span class="english">Scads of books!</span></p>
 
 <p><span class="chinese">这些都告诉我们许多现在的关于科比和湖人的情况和信息。</span><span class="english">Which tells us scads about Kobe Bryant and the Lakers of the moment.</span></p>

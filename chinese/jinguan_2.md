@@ -1,5 +1,7 @@
 # 尽管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinguan_2.md)
+
 <p><span class="chinese">尽管告诉我好了。</span><span class="english">Please just tell me.</span></p>
 
 <p><span class="chinese">尽管对方不接通他的电话，他还是一直不停地在按着重拔键。</span><span class="english">He never stop dialing.</span></p>

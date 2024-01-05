@@ -1,5 +1,7 @@
 # 一表人才
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yibiaorencai.md)
+
 <p><span class="chinese">他是一表人才，真是的！</span><span class="english">What a fine fellow he was, indeed!</span></p>
 
 <p><span class="chinese">我虽然说不上英俊潇洒，一表人才。</span><span class="english">Although I can not tell handsome, a talented.</span></p>

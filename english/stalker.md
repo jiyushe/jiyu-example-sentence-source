@@ -1,5 +1,7 @@
 # stalker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stalker.md)
+
 <p><span class="chinese">我是晚上死缠烂打。</span><span class="english">I'm a night stalker.</span></p>
 
 <p><span class="chinese">我还是觉得是那跟踪狂。</span><span class="english">Our best bet is still the stalker.</span></p>

@@ -1,5 +1,7 @@
 # enlightenment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enlightenment.md)
+
 <p><span class="chinese">开悟。</span><span class="english">"Enlightenment".</span></p>
 
 <p><span class="chinese">这个孩子需要启发。</span><span class="english">This child needs enlightenment.</span></p>

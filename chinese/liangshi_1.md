@@ -1,5 +1,7 @@
 # 粮食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangshi_1.md)
+
 <p><span class="chinese">粮食产量激增。</span><span class="english">Grain output shot up.</span></p>
 
 <p><span class="chinese">三要大规模开展粮食高产创建。</span><span class="english">high yield in large-scale.</span></p>

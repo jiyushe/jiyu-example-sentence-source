@@ -1,5 +1,7 @@
 # weenie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weenie.md)
+
 <p><span class="chinese">腊肠，我来找你了，兄弟。</span><span class="english">Weenie , I am coming for you, buddy.</span></p>
 
 <p><span class="chinese">你的私处吹著风，让大家都看到了！</span><span class="english">Your weenie is out in the wind for everyone to see!</span></p>

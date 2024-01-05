@@ -1,5 +1,7 @@
 # 偷渡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toudu.md)
+
 <p><span class="chinese">人口偷渡是一种"不太有组织的"犯罪活动</span><span class="english">HUMAN SMUGGLING A “NOT-SO-ORGANIZED” CRIME</span></p>
 
 <p><span class="chinese">这些鬼佬为什么不回到他们偷渡过去的那个地方哪？</span><span class="english">Why don't they go back to where they went to?</span></p>

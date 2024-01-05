@@ -1,5 +1,7 @@
 # patty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patty.md)
+
 <p><span class="chinese">佩蒂在家么？</span><span class="english">Is Patty home?</span></p>
 
 <p><span class="chinese">帕蒂•戴维斯，CNN，弗吉尼亚马克兰报道。</span><span class="english">Patty Davis, CNN, Mclean, Virginia.</span></p>

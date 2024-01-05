@@ -1,5 +1,7 @@
 # heidi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heidi.md)
+
 <p><span class="chinese">海迪在伦敦幸福吗？</span><span class="english">Was Heidi happy in London?</span></p>
 
 <p><span class="chinese">海蒂回到杉树那里。</span><span class="english">Heidi returned to the fir-trees.</span></p>

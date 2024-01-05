@@ -1,5 +1,7 @@
 # trivia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trivia.md)
+
 <p><span class="chinese">他忙于琐事。</span><span class="english">He concerns himself with trivia.</span></p>
 
 <p><span class="chinese">不要为这些鸡毛蒜皮的事争吵。</span><span class="english">Don't altercate over such trivia.</span></p>

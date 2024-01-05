@@ -1,5 +1,7 @@
 # conroy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conroy.md)
+
 <p><span class="chinese">康罗伊夫人朝窗外看了看。</span><span class="english">Mrs. Conroy looked out the window.</span></p>
 
 <p><span class="chinese">她的身后传来声音，康罗伊夫回转身来，顿时心跳加速。</span><span class="english">The voice came from behind her. Mrs. Conroy whirled around, her heart beating rapidly.</span></p>

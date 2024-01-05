@@ -1,5 +1,7 @@
 # 焦平面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaopingmian.md)
+
 <p><span class="chinese">大的初级彗差使焦平面出现干涉条纹。</span><span class="english">For large primary coma aberration, interference fringe presents.</span></p>
 
 <p><span class="chinese">非制冷红外焦平面器件是微测热辐射计的核心部件。</span><span class="english">The Uncooled Infrared FPA is the key component of the microbolometer.</span></p>

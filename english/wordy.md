@@ -1,5 +1,7 @@
 # wordy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wordy.md)
+
 <p><span class="chinese">该代码有些冗长。</span><span class="english">This is very wordy code.</span></p>
 
 <p><span class="chinese">世间果报，亦复如是。</span><span class="english">So is the wordy retribution.</span></p>

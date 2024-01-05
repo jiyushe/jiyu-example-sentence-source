@@ -1,5 +1,7 @@
 # terrazzo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terrazzo.md)
+
 <p><span class="chinese">水磨石地板还能液体循环辐射加热。</span><span class="english">Terrazzo flooring contains hydronic radiant heating.</span></p>
 
 <p><span class="chinese">适用于各种塑胶地、大理石及水磨石地面。</span><span class="english">Applicable to all kinds of plastic, marble and terrazzo floor.</span></p>

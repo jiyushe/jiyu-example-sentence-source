@@ -1,5 +1,7 @@
 # innumerably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/innumerably.md)
+
 <p><span class="chinese">严格限制旁听生，冷了无数有志求学的人们的心。</span><span class="english">The strict limit auditor, cold has been ambitious innumerably people's heart which studies.</span></p>
 
 <p><span class="chinese">女孩结婚了，去了法国，去了无数次出现在她梦中的巴黎。</span><span class="english">The girl has married, has gone to France, went time to appear innumerably in her dream Paris.</span></p>

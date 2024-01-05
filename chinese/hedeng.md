@@ -1,5 +1,7 @@
 # 何等
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hedeng.md)
+
 <p><span class="chinese">何等的来源——“神”！</span><span class="english">What a source--"God!"</span></p>
 
 <p><span class="chinese">她是个何等逗人喜欢的孩子啊！</span><span class="english">Isn't she a cute baby!</span></p>

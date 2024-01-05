@@ -1,5 +1,7 @@
 # 逃亡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taowang.md)
+
 <p><span class="chinese">那个小偷逃亡了。</span><span class="english">The thief bolted out.</span></p>
 
 <p><span class="chinese">又或者短暂的逃亡才能达到目的？</span><span class="english">Or will short getaways do the trick?</span></p>

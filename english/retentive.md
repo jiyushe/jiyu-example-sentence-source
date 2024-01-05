@@ -1,5 +1,7 @@
 # retentive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retentive.md)
+
 <p><span class="chinese">好心情是怎么样保持的？</span><span class="english">Is good intention affection how retentive?</span></p>
 
 <p><span class="chinese">新开发的材料有很好的保水性。</span><span class="english">The new material invented is retentive to water.</span></p>

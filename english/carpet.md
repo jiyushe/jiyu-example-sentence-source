@@ -1,5 +1,7 @@
 # carpet 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carpet.md)
+
 <p><span class="chinese">或者用地毯边角料。</span><span class="english">Use carpet cast-offs.</span></p>
 
 <p><span class="chinese">或是把地毯折曲。</span><span class="english">Or it is a carpet flex.</span></p>

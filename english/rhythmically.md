@@ -1,5 +1,7 @@
 # rhythmically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhythmically.md)
+
 <p><span class="chinese">驴子稳步走在山道上，铃声叮当，颇有节奏。</span><span class="english">The donkey moved firmly forward on the mountain trail, the bell ringing rhythmically.</span></p>
 
 <p><span class="chinese">从某种意义上说，这是新的弗拉门戈，但过失米亚显示她有能力适应节奏。</span><span class="english">In a sense this is new flamenco, but Culpa Mia shows her ability to adapt rhythmically.</span></p>

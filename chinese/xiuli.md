@@ -1,5 +1,7 @@
 # 秀丽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuli.md)
+
 <p><span class="chinese">巴荣纳是座秀丽的城市。</span><span class="english">Bayonne is a nice town.</span></p>
 
 <p><span class="chinese">这姑娘生得十分秀丽。</span><span class="english">This girl is very pretty.</span></p>

@@ -1,5 +1,7 @@
 # brisbane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brisbane.md)
+
 <p><span class="chinese">对布里斯班市印象最深的就是黄金海岸了。</span><span class="english">What impresses me most in Brisbane is the Golden Coast.</span></p>
 
 <p><span class="chinese">布村或者黄金海岸真的是很适合生活。</span><span class="english">Brisbane or Gold Coast, they are really good for living.</span></p>

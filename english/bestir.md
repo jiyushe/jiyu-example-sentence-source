@@ -1,5 +1,7 @@
 # bestir
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bestir.md)
+
 <p><span class="chinese">我必须努力完成这件工作。</span><span class="english">I must bestir myself to finish the job.</span></p>
 
 <p><span class="chinese">你必须努力，否则就要失败。</span><span class="english">You will fail unless you bestir yourself.</span></p>

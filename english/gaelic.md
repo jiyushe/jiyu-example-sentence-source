@@ -1,5 +1,7 @@
 # gaelic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gaelic.md)
+
 <p><span class="chinese">在盖尔语中，格呢披肩其实就是“毯子”的意思。</span><span class="english">The Gaelic plaid actually means "blanket".</span></p>
 
 <p><span class="chinese">我们在学校不允许讲盖尔语。</span><span class="english">We weren't allowed to speak Gaelic at school.</span></p>

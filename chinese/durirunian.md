@@ -1,5 +1,7 @@
 # 度日如年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/durirunian.md)
+
 <p><span class="chinese">乘飞机没有她的书陪伴，我会度日如年！</span><span class="english">I cannot get on a plane without one!</span></p>
 
 <p><span class="chinese">当我们分开了，简直是度日如年。</span><span class="english">When we're apart, days feel like years.</span></p>

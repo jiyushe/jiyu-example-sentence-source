@@ -1,5 +1,7 @@
 # maggot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maggot.md)
+
 <p><span class="chinese">你，这粗俗不堪的蛆。</span><span class="english">You vulgar little maggot.</span></p>
 
 <p><span class="chinese">让我们不要用“蛆”这个词。</span><span class="english">Let's not use the word "maggot."</span></p>

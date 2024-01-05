@@ -1,5 +1,7 @@
 # advantage 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/advantage.md)
+
 <p><span class="chinese">这就是此理论的一个优势。</span><span class="english">It is an advantage.</span></p>
 
 <p><span class="chinese">积累一生的朋友客户，这才是你的优点。</span><span class="english">This is your advantage.</span></p>

@@ -1,5 +1,7 @@
 # crossover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crossover.md)
+
 <p><span class="chinese">深交叉的v字领线。</span><span class="english">Deep crossover V-neck.</span></p>
 
 <p><span class="chinese">竹井乔治的穿越表演就是一个无价的例子。</span><span class="english">The George Takei crossover was a priceless one.</span></p>

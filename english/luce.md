@@ -1,5 +1,7 @@
 # luce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luce.md)
+
 <p><span class="chinese">白岩松演讲地点在卢斯礼堂。</span><span class="english">Bai made his speech at Luce Hall.</span></p>
 
 <p><span class="chinese">露西对她能否通过考试感到悲观。</span><span class="english">Luce is pessimistic about passing the examination.</span></p>

@@ -1,5 +1,7 @@
 # 欣慰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinwei.md)
+
 <p><span class="chinese">“是的，我感到欣慰，”贝西说。</span><span class="english">“Yes, I am,” said Bessie.</span></p>
 
 <p><span class="chinese">没有主角也没有令人欣慰的结局。</span><span class="english">No heroes and no happy endings.</span></p>

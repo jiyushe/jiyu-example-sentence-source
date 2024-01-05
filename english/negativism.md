@@ -1,5 +1,7 @@
 # negativism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/negativism.md)
+
 <p><span class="chinese">哲学家往往偏重于否定态度。</span><span class="english">Philosophers sometimes overweight their negativism.</span></p>
 
 <p><span class="chinese">唯一比否定态度更有力量的是一个积极的肯定。</span><span class="english">The only thing more powerful than negativism is a positive affirmation.</span></p>

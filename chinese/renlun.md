@@ -1,5 +1,7 @@
 # 人伦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renlun.md)
+
 <p><span class="chinese">中国有着深厚的人伦关系政治传统。</span><span class="english">China has a long political tradition of human relationship.</span></p>
 
 <p><span class="chinese">这都让影评人伦纳德·莫丁产生了一个问题。</span><span class="english">All of this makes Leonard Maltin, a film critic, ask a question.</span></p>

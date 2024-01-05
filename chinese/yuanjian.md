@@ -1,5 +1,7 @@
 # 元件
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanjian.md)
+
 <p><span class="chinese">所有电器元件均采用知名品牌。</span><span class="english">All elements is well know brand.</span></p>
 
 <p><span class="chinese">高稳定性砷化镓霍尔元件。</span><span class="english">High-stability GaAs Hall element.</span></p>

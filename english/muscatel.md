@@ -1,5 +1,7 @@
 # muscatel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/muscatel.md)
+
 <p><span class="chinese">麝香葡萄酒。</span><span class="english">Muscatel ---- a muscat wine.</span></p>
 
 <p><span class="chinese">那么我推荐麝香葡萄酒。</span><span class="english">Then I would recommend the Muscatel.</span></p>

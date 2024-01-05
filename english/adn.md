@@ -1,5 +1,7 @@
 # adn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adn.md)
+
 <p><span class="chinese">又像从没没有活过般死去。</span><span class="english">adn die as though they had never lived.</span></p>
 
 <p><span class="chinese">译为安迪和贝蒂昨天吃了很多香瓜。</span><span class="english">Dean adn Betty pigged on cantaloupe yesterday.</span></p>

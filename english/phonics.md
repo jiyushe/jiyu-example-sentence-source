@@ -1,5 +1,7 @@
 # phonics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phonics.md)
+
 <p><span class="chinese">掌握每个单元发音法的拼读。</span><span class="english">To grasp phonics of each unit.</span></p>
 
 <p><span class="chinese">这是一个照顾熊语音方块。</span><span class="english">This is a Care Bears Phonics Box.</span></p>

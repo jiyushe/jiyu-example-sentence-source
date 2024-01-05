@@ -1,5 +1,7 @@
 # oropharynx
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oropharynx.md)
+
 <p><span class="chinese">口咽含有上颚扁桃腺。</span><span class="english">The oropharynx contains the palatine tonsils.</span></p>
 
 <p><span class="chinese">治疗结束后比较患者的口咽粘膜反应程度。</span><span class="english">After therapy, the degree of the oropharynx mucositis was compared.</span></p>

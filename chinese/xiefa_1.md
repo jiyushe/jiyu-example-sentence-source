@@ -1,5 +1,7 @@
 # 解法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiefa_1.md)
+
 <p><span class="chinese">我们有许多解法。</span><span class="english">We have multiple solutions.</span></p>
 
 <p><span class="chinese">还有其他解法。</span><span class="english">You know, there is another solution.</span></p>

@@ -1,5 +1,7 @@
 # 粘合剂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianheji.md)
+
 <p><span class="chinese">这布花是用一种特别的粘合剂固定住的。</span><span class="english">The cloth flower snaps on with a special binder.</span></p>
 
 <p><span class="chinese">它就像是客户端和服务器代码间的粘合剂。</span><span class="english">It serves as the glue between client and server code.</span></p>

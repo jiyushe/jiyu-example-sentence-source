@@ -1,5 +1,7 @@
 # schmooze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schmooze.md)
+
 <p><span class="chinese">当然，机器人不能唠闲嗑儿。</span><span class="english">Certainly, a robot cannot schmooze.</span></p>
 
 <p><span class="chinese">我很喜欢跟朋友在电话上闲谈。</span><span class="english">I love to schmooze on the phone with my friends.</span></p>

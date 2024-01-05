@@ -1,5 +1,7 @@
 # reap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reap.md)
+
 <p><span class="chinese">我们播种什么就会收获什么。</span><span class="english">We reap what we sow.</span></p>
 
 <p><span class="chinese">人不可貌相，海不可斗量。</span><span class="english">As a man sows, so he shall reap.</span></p>

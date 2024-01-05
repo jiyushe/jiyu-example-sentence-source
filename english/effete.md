@@ -1,5 +1,7 @@
 # effete
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/effete.md)
+
 <p><span class="chinese">疲惫的心灵也需要片刻的停歇</span><span class="english">Effete heart needs a moment rest</span></p>
 
 <p><span class="chinese">卡尔扎伊是一个弱势的总统。</span><span class="english">Karzai is an "effete" President.</span></p>

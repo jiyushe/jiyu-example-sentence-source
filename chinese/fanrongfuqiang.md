@@ -1,5 +1,7 @@
 # 繁荣富强
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanrongfuqiang.md)
+
 <p><span class="chinese">从今走向繁荣富强。</span><span class="english">From now on towards prosperity.</span></p>
 
 <p><span class="chinese">祝福我们的祖国繁荣富强，国泰民安！</span><span class="english">I'm proud of you, my country! I love you!</span></p>

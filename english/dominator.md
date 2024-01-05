@@ -1,5 +1,7 @@
 # dominator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dominator.md)
+
 <p><span class="chinese">支配者侧了由二夸克。</span><span class="english">A Dominator flanked by two Quarks.</span></p>
 
 <p><span class="chinese">降低成本，是丰田能够登上霸主地位的另一个关键因素。</span><span class="english">Another key point of ascending on dominator is decreasing cost.</span></p>

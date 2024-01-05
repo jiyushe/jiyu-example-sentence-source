@@ -1,5 +1,7 @@
 # 天真烂漫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianzhenlanman.md)
+
 <p><span class="chinese">那时一个天真烂漫的时代。</span><span class="english">It was an age of innocence.</span></p>
 
 <p><span class="chinese">她天真烂漫地说。</span><span class="english">She said, in her artlessness.</span></p>

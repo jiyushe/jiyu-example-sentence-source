@@ -1,5 +1,7 @@
 # invalidate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invalidate.md)
+
 <p><span class="chinese">但是这并不能否定它们。</span><span class="english">But that does not invalidate them.</span></p>
 
 <p><span class="chinese">是的，我们可以使指纹无效。</span><span class="english">Yes, we can invalidate that fingerprint.</span></p>

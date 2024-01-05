@@ -1,5 +1,7 @@
 # ulterior
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ulterior.md)
+
 <p><span class="chinese">除非你居心不良，否则那里的真相会让你大开眼界。</span><span class="english">Unless you have ulterior motives, the facts will open your eyes.</span></p>
 
 <p><span class="chinese">有关报道毫无根据，是别有用心的。</span><span class="english">Relevant report is totally groundless and out of ulterior motives.</span></p>

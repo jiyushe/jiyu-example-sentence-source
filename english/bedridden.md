@@ -1,5 +1,7 @@
 # bedridden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bedridden.md)
+
 <p><span class="chinese">没工作了，或者整天卧床不起？</span><span class="english">Lost your job, or bedridden for days?</span></p>
 
 <p><span class="chinese">他也因此长达四个月卧床不起。</span><span class="english">He had been bedridden for four months.</span></p>

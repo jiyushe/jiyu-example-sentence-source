@@ -1,5 +1,7 @@
 # 山穷水尽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanqiongshuijin.md)
+
 <p><span class="chinese">理查森又一次出手相助，但丽蒂茜娅很快又山穷水尽。</span><span class="english">Richardson helped again, but Pilkington was exhausted.</span></p>
 
 <p><span class="chinese">大部分人都认为中国动漫业山穷水尽了。</span><span class="english">Most people thought Chinese cartoons had come to the end.</span></p>

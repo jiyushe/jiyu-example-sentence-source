@@ -1,5 +1,7 @@
 # god
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/god.md)
+
 <p><span class="chinese">神才是。</span><span class="english">God is.</span></p>
 
 <p><span class="chinese">这有神知道。</span><span class="english">God knoweth.</span></p>

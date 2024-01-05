@@ -1,5 +1,7 @@
 # 余切
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuqie.md)
+
 <p><span class="chinese">我们中的大多数不能分辨正切余切。</span><span class="english">Most of us can’t tell our secant from our cotangent.</span></p>
 
 <p><span class="chinese">它实际上代表了辙叉角的余切值。</span><span class="english">It actually represents the Frog Kok of Cotangent value.</span></p>

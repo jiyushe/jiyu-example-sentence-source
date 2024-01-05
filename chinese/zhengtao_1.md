@@ -1,5 +1,7 @@
 # 整套
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengtao_1.md)
+
 <p><span class="chinese">纯熟石材地整套图纸地清算。细化。</span><span class="english">Skilled stone set of drawing sorting.</span></p>
 
 <p><span class="chinese">整套设备装在几个柱脚上。</span><span class="english">The complete unit is mounted on legs.</span></p>

@@ -1,5 +1,7 @@
 # 抬眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taiyan.md)
+
 <p><span class="chinese">抬眼就看到天使的笑靥。</span><span class="english">I can see the angels' smile.</span></p>
 
 <p><span class="chinese">她抬眼扫视了一下这间灰沉沉的办公室。</span><span class="english">She glanced about the rusty office.</span></p>

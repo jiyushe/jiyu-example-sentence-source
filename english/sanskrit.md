@@ -1,5 +1,7 @@
 # sanskrit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sanskrit.md)
+
 <p><span class="chinese">学学梵文或象形文吧。</span><span class="english">Learn Sanskrit or hieroglyphics instead.</span></p>
 
 <p><span class="chinese">这些梵语文本应该转译过来。</span><span class="english">The Sanskrit text had to be transliterated.</span></p>

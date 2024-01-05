@@ -1,5 +1,7 @@
 # rebounder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rebounder.md)
+
 <p><span class="chinese">他是一个好的篮板手。</span><span class="english">He's a really good rebounder.</span></p>
 
 <p><span class="chinese">他是一个出色的篮板手和火锅手。</span><span class="english">He is a great rebounder and shot blocker.</span></p>

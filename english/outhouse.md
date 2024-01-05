@@ -1,5 +1,7 @@
 # outhouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outhouse.md)
+
 <p><span class="chinese">我们在夏季别墅仍然使用室外厕所。</span><span class="english">We still use an outhouse at our summer place.</span></p>
 
 <p><span class="chinese">我们为什么不在房屋的后院盖一个呢？</span><span class="english">Why don't we just patch on an outhouse in the back yard?</span></p>

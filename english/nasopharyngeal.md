@@ -1,5 +1,7 @@
 # nasopharyngeal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nasopharyngeal.md)
+
 <p><span class="chinese">目的探讨鼻咽血管纤维瘤的手术方式。</span><span class="english">Objective To observe the operation method of nasopharyngeal angiofibroma.</span></p>
 
 <p><span class="chinese">目的探讨鼻咽结核的诊断与治疗。</span><span class="english">ObjectiveTo investigate diagnosis and therapy of nasopharyngeal tuberculosis.</span></p>

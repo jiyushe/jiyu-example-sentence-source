@@ -1,5 +1,7 @@
 # oo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oo.md)
+
 <p><span class="chinese">嗨，铁，你看起来那么沮丧，发生了什么事？</span><span class="english">Hei, Tim, you oo so depressing, what happened?</span></p>
 
 <p><span class="chinese">仅仅因为基于类的OO占据着主导地位我就要使用它么？</span><span class="english">Should I use class based OO just because it's the dominant paradigm?</span></p>

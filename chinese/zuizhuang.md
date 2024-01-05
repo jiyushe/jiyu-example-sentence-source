@@ -1,5 +1,7 @@
 # 罪状
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuizhuang.md)
+
 <p><span class="chinese">他们列举了他的被指称的罪状。</span><span class="english">They articled his alleged crimes.</span></p>
 
 <p><span class="chinese">你们根据什么罪状拘捕他?</span><span class="english">On what charges do you arrest him?</span></p>

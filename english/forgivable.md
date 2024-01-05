@@ -1,5 +1,7 @@
 # forgivable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forgivable.md)
+
 <p><span class="chinese">你觉得最不能让人宽恕的罪过是什么？</span><span class="english">What do you think is the least forgivable sin?</span></p>
 
 <p><span class="chinese">对手的到来给他一个可原谅的机会。</span><span class="english">The rival’s arrival gives him a forgivable chance.</span></p>

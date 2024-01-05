@@ -1,5 +1,7 @@
 # defy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defy.md)
+
 <p><span class="chinese">公然反对，向…挑战。</span><span class="english">To defy or resist.</span></p>
 
 <p><span class="chinese">罪犯无视法律。</span><span class="english">Criminals defy the law.</span></p>

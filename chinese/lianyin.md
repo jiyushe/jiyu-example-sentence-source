@@ -1,5 +1,7 @@
 # 联姻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianyin.md)
+
 <p><span class="chinese">我不赞成堂兄妹联姻。</span><span class="english">I don't approve of cousins marrying.</span></p>
 
 <p><span class="chinese">很明确地规定了禁止通婚联姻。</span><span class="english">The ban on intermarriage here is quite specific.</span></p>

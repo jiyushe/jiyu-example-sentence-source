@@ -1,5 +1,7 @@
 # amadou
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amadou.md)
+
 <p><span class="chinese">阿马杜说，即使在利比亚骚乱发生之前，边界地区的情势已经是尼日尔政府的一大难题。</span><span class="english">Amadou says even before the fighting in Libya, the border situation was difficult for Niger.</span></p>
 
 <p><span class="chinese">上个月马里政变中被流放的领导人阿马杜·图马尼·杜尔已流亡至邻国塞内加尔。</span><span class="english">Amadou Toumani Toure, ousted as Mali's leader in last month's coup, has fled to neighbouring Senegal.</span></p>

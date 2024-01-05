@@ -1,5 +1,7 @@
 # pedigree
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pedigree.md)
+
 <p><span class="chinese">宝路。给狗狗最好的食品。</span><span class="english">Pedigree. Really good food for dogs.</span></p>
 
 <p><span class="chinese">他们详细审查了他的家系和背景。</span><span class="english">They scrutinized his pedigree and background.</span></p>

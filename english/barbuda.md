@@ -1,5 +1,7 @@
 # barbuda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barbuda.md)
+
 <p><span class="chinese">西印度群岛中安提瓜和巴布达的一个岛屿，在安提瓜北面，于'9年至872年间被私人占有。</span><span class="english">An island of Antigua and Barbuda in the West Indies north of Antigua. It was privately owned from '9 to 872.</span></p>
 
 <p><span class="chinese">欧洲联盟，澳大利亚，加拿大，哥斯达黎加，印度，澳门和日本已经加入安提瓜和巴布达在提交索赔。</span><span class="english">The European Union, Australia, Canada, Costa Rica, India, Macao and Japan have joined Antigua and Barbuda in filing claims.</span></p>

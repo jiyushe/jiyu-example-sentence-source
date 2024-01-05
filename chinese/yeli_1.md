@@ -1,5 +1,7 @@
 # 夜里
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yeli_1.md)
+
 <p><span class="chinese">今天夜里他已经累了。</span><span class="english">He was weary to-night.</span></p>
 
 <p><span class="chinese">那天夜里就是这样。</span><span class="english">This night I was both.</span></p>

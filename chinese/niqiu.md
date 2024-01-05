@@ -1,5 +1,7 @@
 # 泥鳅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niqiu.md)
+
 <p><span class="chinese">这些小泥鳅，可有趣了！</span><span class="english">These small loach can be fun!</span></p>
 
 <p><span class="chinese">他们也利用泥鳅的信息。</span><span class="english">They make use of the loach too.</span></p>

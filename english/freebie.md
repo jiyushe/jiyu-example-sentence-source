@@ -1,5 +1,7 @@
 # freebie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freebie.md)
+
 <p><span class="chinese">人人都喜欢免费的东西。</span><span class="english">Everybody loves a freebie.</span></p>
 
 <p><span class="chinese">这是我在嘉年华得的免费赠品。</span><span class="english">It's a freebie I got at the carnival.</span></p>

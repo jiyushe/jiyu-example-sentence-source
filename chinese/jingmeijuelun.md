@@ -1,5 +1,7 @@
 # 精美绝伦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingmeijuelun.md)
+
 <p><span class="chinese">精美绝伦的“铜狮”来自遥远的中国。</span><span class="english">A superb bronze comes from distant China.</span></p>
 
 <p><span class="chinese">真是一幅精美绝伦的讽刺面纱。</span><span class="english">Such a beautifully embroidered veil of irony.</span></p>

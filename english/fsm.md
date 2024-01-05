@@ -1,5 +1,7 @@
 # fsm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fsm.md)
+
 <p><span class="chinese">根据测量数据建立了机械谐振的动态数学模型。</span><span class="english">The dynamic model of FSM is established on base of measured data.</span></p>
 
 <p><span class="chinese">系统首先对待切分词使用有限状态自动机进行分析。</span><span class="english">In this paper, the authors first use FSM to analyze the stemming words.</span></p>

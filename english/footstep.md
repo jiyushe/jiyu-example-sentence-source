@@ -1,5 +1,7 @@
 # footstep
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/footstep.md)
+
 <p><span class="chinese">那丬店仅一步之遥。</span><span class="english">The store is just a footstep away.</span></p>
 
 <p><span class="chinese">思念所有的时间留下的脚步。</span><span class="english">Missing the footstep i have walked.</span></p>

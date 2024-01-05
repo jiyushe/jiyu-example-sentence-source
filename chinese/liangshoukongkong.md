@@ -1,5 +1,7 @@
 # 两手空空
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangshoukongkong.md)
+
 <p><span class="chinese">两手空空。</span><span class="english">Hands empty.</span></p>
 
 <p><span class="chinese">我们努力搜索，却两手空空而归。</span><span class="english">We searched hard but came up empty-handed.</span></p>

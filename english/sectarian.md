@@ -1,5 +1,7 @@
 # sectarian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sectarian.md)
+
 <p><span class="chinese">这里有逊尼-什叶教派的恶性互斗。</span><span class="english">We have a vicious Sunni-Shia sectarian strife.</span></p>
 
 <p><span class="chinese">随着信条的转变，少数人像七分枝蜡烛台一样民族化和派系化。</span><span class="english">As symbols go, few are as national and sectarian as the menorah.</span></p>

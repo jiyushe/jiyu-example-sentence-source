@@ -1,5 +1,7 @@
 # kiosk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kiosk.md)
+
 <p><span class="chinese">Kiosk是指一个小屋或小棚。</span><span class="english">A kiosk is a little hut or shelter.</span></p>
 
 <p><span class="chinese">我们在一家小亭里吃汉堡包。</span><span class="english">We were eating hamburgers at a kiosk.</span></p>

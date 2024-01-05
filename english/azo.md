@@ -1,5 +1,7 @@
 # azo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/azo.md)
+
 <p><span class="chinese">甲基橙是典型的偶氮染料之一。</span><span class="english">Methyl orange is a sort of typical azo dyestuff.</span></p>
 
 <p><span class="chinese">颜料黄214为代表的双苯并咪唑酮偶氮颜料。</span><span class="english">Pigment Yellow 214, based on bis-benzimidazolone azo pigment.</span></p>

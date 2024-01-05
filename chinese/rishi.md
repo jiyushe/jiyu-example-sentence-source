@@ -1,5 +1,7 @@
 # 日食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rishi.md)
+
 <p><span class="chinese">日食“蹙眉”</span><span class="english">Eclipse "Frown"</span></p>
 
 <p><span class="chinese">日食苹果一只，百病就免医师！</span><span class="english">An apple a day keeps a doctor away!</span></p>

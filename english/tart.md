@@ -1,5 +1,7 @@
 # tart
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tart.md)
+
 <p><span class="chinese">果酱馅饼</span><span class="english">Pop tart.</span></p>
 
 <p><span class="chinese">我仍然经常梦到那种馅饼。</span><span class="english">I still dream of that tart.</span></p>

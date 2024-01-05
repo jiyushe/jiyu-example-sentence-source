@@ -1,5 +1,7 @@
 # septic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/septic.md)
+
 <p><span class="chinese">圣母峰雪人的弃婴，化粪池堵塞的凶手。</span><span class="english">Everest Snowman foundling, blocked septic tanks.</span></p>
 
 <p><span class="chinese">我有个更玄的问题化粪池里是谁？</span><span class="english">I've a better question. Who is in the septic tank?</span></p>

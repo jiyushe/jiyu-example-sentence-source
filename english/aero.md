@@ -1,5 +1,7 @@
 # aero
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aero.md)
+
 <p><span class="chinese">悬挂椅子是从苏荷空运过来的。</span><span class="english">The hanging chair is from Aero in Soho.</span></p>
 
 <p><span class="chinese">外观改装最常见的就是加装空气动力套件。</span><span class="english">The most common appearance is modified with aero.</span></p>

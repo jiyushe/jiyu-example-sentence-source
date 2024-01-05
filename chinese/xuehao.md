@@ -1,5 +1,7 @@
 # 学好
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuehao.md)
+
 <p><span class="chinese">为学趁年青，既学须学好。</span><span class="english">Learn young,learn fair.</span></p>
 
 <p><span class="chinese">学习趁年轻，学就要学好。</span><span class="english">Learn young, learn fair.</span></p>

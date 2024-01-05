@@ -1,5 +1,7 @@
 # 失地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shidi.md)
+
 <p><span class="chinese">他茫然若失地盯着她。</span><span class="english">He stared at her blankly.</span></p>
 
 <p><span class="chinese">他茫然若失地凝视空中。</span><span class="english">He stared vacantly into space.</span></p>

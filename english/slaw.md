@@ -1,5 +1,7 @@
 # slaw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slaw.md)
+
 <p><span class="chinese">我要一份凉拌高丽沙拉。</span><span class="english">I'll take a cold slaw.</span></p>
 
 <p><span class="chinese">我点了咸猪肉和凉拌生菜丝。</span><span class="english">I've ordered savory pork and cole slaw.</span></p>

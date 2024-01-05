@@ -1,5 +1,7 @@
 # amur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amur.md)
+
 <p><span class="chinese">俄国人必须拥有黑龙江。</span><span class="english">Russians just had to have the Amur.</span></p>
 
 <p><span class="chinese">不久，俄国人有了“黑龙江计划”的第二个理由。</span><span class="english">Soon another argument was being made for the Amur.</span></p>

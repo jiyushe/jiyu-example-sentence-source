@@ -1,5 +1,7 @@
 # commemoration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commemoration.md)
+
 <p><span class="chinese">我已收集一套纪念邮票。</span><span class="english">I have accrued a set of commemoration stamps.</span></p>
 
 <p><span class="chinese">人们正在排队购买纪念邮票。</span><span class="english">People are lining up to buy commemoration stamps.</span></p>

@@ -1,5 +1,7 @@
 # 夕阳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiyang.md)
+
 <p><span class="chinese">潮有涨夕阳，人有隆替时。</span><span class="english">Every flow has its ebb.</span></p>
 
 <p><span class="chinese">夕阳映红了天空。</span><span class="english">The sunset dyed the sky red.</span></p>

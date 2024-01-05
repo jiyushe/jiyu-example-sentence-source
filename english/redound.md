@@ -1,5 +1,7 @@
 # redound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redound.md)
+
 <p><span class="chinese">这项工作将有助于提高他的声望。</span><span class="english">This work will redound to his credit.</span></p>
 
 <p><span class="chinese">努力工作，回报父母，回报自己。</span><span class="english">Work hard to redound upon my parentsandmyself.</span></p>

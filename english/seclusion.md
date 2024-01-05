@@ -1,5 +1,7 @@
 # seclusion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seclusion.md)
+
 <p><span class="chinese">我们目前过着乡村隐居生活。</span><span class="english">We are now in rural seclusion.</span></p>
 
 <p><span class="chinese">我想我是处于某种隐遁的状态。</span><span class="english">I guess it's seclusion in some form.</span></p>

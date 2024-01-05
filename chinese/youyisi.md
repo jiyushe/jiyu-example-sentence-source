@@ -1,5 +1,7 @@
 # 有意思
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youyisi.md)
+
 <p><span class="chinese">还算挺有意思的</span><span class="english">That was mildly fun.</span></p>
 
 <p><span class="chinese">我觉得这很有意思。</span><span class="english">I find this fascinating.</span></p>

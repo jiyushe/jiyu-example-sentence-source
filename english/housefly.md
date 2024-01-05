@@ -1,5 +1,7 @@
 # housefly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/housefly.md)
+
 <p><span class="chinese">此外，家蝇MT具有很强的热稳定性。</span><span class="english">In addition, MT from housefly larvae has strong heat stability.</span></p>
 
 <p><span class="chinese">苍蝇是一种完全变态的昆虫。</span><span class="english">The housefly is an insect which undergoes complete metamorphosis.</span></p>

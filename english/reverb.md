@@ -1,5 +1,7 @@
 # reverb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reverb.md)
+
 <p><span class="chinese">混响是如何工作的？</span><span class="english">How does the reverb do this?</span></p>
 
 <p><span class="chinese">放心使用，典型的旋钮为混响踏板。</span><span class="english">Ease to use, typical knobs for a reverb pedal.</span></p>

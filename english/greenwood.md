@@ -1,5 +1,7 @@
 # greenwood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greenwood.md)
+
 <p><span class="chinese">这是我朋友，鲍伯·格林伍德。</span><span class="english">And this is my friend, Bob Greenwood.</span></p>
 
 <p><span class="chinese">于是，她结识了汤姆格林伍德。</span><span class="english">In this way Masha meets Tom Greenwood.</span></p>

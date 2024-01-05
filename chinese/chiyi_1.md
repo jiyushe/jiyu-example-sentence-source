@@ -1,5 +1,7 @@
 # 迟疑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chiyi_1.md)
+
 <p><span class="chinese">玛丽•霍奇迟疑片刻。</span><span class="english">Mary Hodges hesitated.</span></p>
 
 <p><span class="chinese">我迟疑地向艾思梅微笑。</span><span class="english">I smiled hesitantly at Esme.</span></p>

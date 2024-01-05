@@ -1,5 +1,7 @@
 # 引领
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinling.md)
+
 <p><span class="chinese">它们需要我的引领。</span><span class="english">They need my guidance.</span></p>
 
 <p><span class="chinese">于是神差遣底波拉去引领他们。</span><span class="english">So God sent Deborah to lead them.</span></p>

@@ -1,5 +1,7 @@
 # 盛情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengqing_2.md)
+
 <p><span class="chinese">你的盛情让我难却。</span><span class="english">I don't want to let you down.</span></p>
 
 <p><span class="chinese">谢谢您的盛情款待，李先生。</span><span class="english">Thank you for your hospitality, Mr. li.</span></p>

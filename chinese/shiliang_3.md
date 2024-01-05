@@ -1,5 +1,7 @@
 # 食量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiliang_3.md)
+
 <p><span class="chinese">我们意大利人享受美食,但我们的食量实在太大了。</span><span class="english">Italians, we eat good food, but we eat a lot of it.</span></p>
 
 <p><span class="chinese">她充满激情地用奶瓶喂食，超出了儿子的食量。</span><span class="english">She bottle-fed him with passion, surplus to demand.</span></p>

@@ -1,5 +1,7 @@
 # codon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/codon.md)
+
 <p><span class="chinese">为什么一个密码子有三个碱基呢</span><span class="english">Why are there three bases in a codon?</span></p>
 
 <p><span class="chinese">星号提示此序列为终止密码子。</span><span class="english">The asterisk indicates the stop codon.</span></p>

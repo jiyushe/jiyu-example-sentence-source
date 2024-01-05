@@ -1,5 +1,7 @@
 # 蚂蚁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mayi.md)
+
 <p><span class="chinese">我将帮助这只蚂蚁。</span><span class="english">I will help the ant.</span></p>
 
 <p><span class="chinese">这是蚂蚁洞。</span><span class="english">This is an ant hole.</span></p>

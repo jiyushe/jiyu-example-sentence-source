@@ -1,5 +1,7 @@
 # dispose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dispose.md)
+
 <p><span class="chinese">恰当的处理煤炭。</span><span class="english">Dispose of coals properly.</span></p>
 
 <p><span class="chinese">把这些旧报纸处理掉。</span><span class="english">Dispose of these old newspapers.</span></p>

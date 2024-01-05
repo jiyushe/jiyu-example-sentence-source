@@ -1,5 +1,7 @@
 # 摇摆不定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaobaibuding.md)
+
 <p><span class="chinese">但是报纸摇摆不定。</span><span class="english">But the newspaper wavered.</span></p>
 
 <p><span class="chinese">他不断地摇摆不定，他对她的感情。</span><span class="english">He constantly wavers in his feelings toward her.</span></p>

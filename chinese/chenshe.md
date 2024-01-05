@@ -1,5 +1,7 @@
 # 陈设
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenshe.md)
+
 <p><span class="chinese">房间的陈设颇佳。</span><span class="english">The room is well furnished.</span></p>
 
 <p><span class="chinese">这是一间陈设简单的房间。</span><span class="english">This is a simply-displayed room.</span></p>

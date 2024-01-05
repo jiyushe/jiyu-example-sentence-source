@@ -1,5 +1,7 @@
 # moratorium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moratorium.md)
+
 <p><span class="chinese">我们认为停建应该延长。</span><span class="english">We believe that the moratorium should be extended.</span></p>
 
 <p><span class="chinese">北京暂缓了所有海外电影的上映档期。</span><span class="english">Beijing has imposed a moratorium on new foreign films.</span></p>

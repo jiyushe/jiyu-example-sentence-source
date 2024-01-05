@@ -1,5 +1,7 @@
 # 蠢货
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chunhuo.md)
+
 <p><span class="chinese">巴德·约翰逊就是一个蠢货！</span><span class="english">Bud Johnson, is a dumbass!</span></p>
 
 <p><span class="chinese">那是基因型，蠢货！</span><span class="english">It's the genotype, stupid!</span></p>

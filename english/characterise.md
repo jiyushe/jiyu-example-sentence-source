@@ -1,5 +1,7 @@
 # characterise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/characterise.md)
+
 <p><span class="chinese">即使能够弄清楚，常常也很难将它们定义为欺诈。</span><span class="english">If they can, it is often hard to characterise them as shams.</span></p>
 
 <p><span class="chinese">顶层有大面积的玻璃，可享受这片森林地界的360度景观。</span><span class="english">Large expanses of glass characterise the top storey, enabling 360-degree views of the forested terrain.</span></p>

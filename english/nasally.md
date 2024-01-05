@@ -1,5 +1,7 @@
 # nasally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nasally.md)
+
 <p><span class="chinese">因为鼻塞，我今天讲话都有鼻音。</span><span class="english">My nosy is stuffy so I sound all nasally today.</span></p>
 
 <p><span class="chinese">你觉得她们是否精神抑郁或者只是鼻子不灵敏的问题？</span><span class="english">Do you think they're depressed or just nasally insensitive?</span></p>

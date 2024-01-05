@@ -1,5 +1,7 @@
 # dabble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dabble.md)
+
 <p><span class="chinese">孩子们喜欢玩水。</span><span class="english">Children like to dabble in water.</span></p>
 
 <p><span class="chinese">他们浅尝涉足于右翼政治。</span><span class="english">They dabble in right-wing politics.</span></p>

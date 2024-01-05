@@ -1,5 +1,7 @@
 # commute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commute.md)
+
 <p><span class="chinese">我跑通勤到圣路易斯奥比斯波，两周一次。</span><span class="english">I commute to San Luis Obispo twice a week.</span></p>
 
 <p><span class="chinese">尝试着把你上下班的时间降到最小值。</span><span class="english">Try to keep your commute time to a minimum.</span></p>

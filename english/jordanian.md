@@ -1,5 +1,7 @@
 # jordanian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jordanian.md)
+
 <p><span class="chinese">伊拉克基地组织在约旦的领导人。</span><span class="english">Jordanian leader of al Qaida in Iraq.</span></p>
 
 <p><span class="chinese">约旦政府发言人表示同意这一立场。</span><span class="english">Jordanian government spokesman echoed that position.</span></p>

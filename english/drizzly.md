@@ -1,5 +1,7 @@
 # drizzly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drizzly.md)
+
 <p><span class="chinese">这是冷而下着蒙蒙细雨天。</span><span class="english">It was a cold, drizzly day.</span></p>
 
 <p><span class="chinese">那个地区冬天常下小雨。</span><span class="english">That region drizzly in winter.</span></p>

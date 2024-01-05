@@ -1,5 +1,7 @@
 # hod
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hod.md)
+
 <p><span class="chinese">婚姻的艺术是牵手永远不嫌老。</span><span class="english">It is never being too old to hod things.</span></p>
 
 <p><span class="chinese">弄一筐石灰碴来替我堵上这窟窿。</span><span class="english">A hod of plaster for me to stop this hole with!</span></p>

@@ -1,5 +1,7 @@
 # oft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oft.md)
+
 <p><span class="chinese">你经常到中国去吧？</span><span class="english">Gehst Du oft nach China?</span></p>
 
 <p><span class="chinese">国王和熊，常使守护人忧心忡忡。</span><span class="english">Kings and bears oft worry keepers.</span></p>

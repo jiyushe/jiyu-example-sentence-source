@@ -1,5 +1,7 @@
 # garnett
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/garnett.md)
+
 <p><span class="chinese">他们有一个低位球星加内特。</span><span class="english">They have a low-post guy in Garnett.</span></p>
 
 <p><span class="chinese">对方有郞多、雷阿伦、皮尔斯和加内特。</span><span class="english">There's Rondo, Allen, Pierce and Garnett.</span></p>

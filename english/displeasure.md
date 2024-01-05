@@ -1,5 +1,7 @@
 # displeasure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/displeasure.md)
+
 <p><span class="chinese">他咆哮着表示他的不满。</span><span class="english">He howled his displeasure.</span></p>
 
 <p><span class="chinese">他满脸嗔色。</span><span class="english">He scowled his displeasure.</span></p>

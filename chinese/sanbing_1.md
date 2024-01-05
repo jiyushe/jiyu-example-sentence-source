@@ -1,5 +1,7 @@
 # 散兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanbing_1.md)
+
 <p><span class="chinese">我知道，但在这散兵营，你压根找不着钢琴来合奏。</span><span class="english">I know, but it's hard to fit a piano in a foxhole.</span></p>
 
 <p><span class="chinese">但是在面对重骑兵和散兵的进攻时，他们却是十分脆弱的。</span><span class="english">They are vulnerable when attacked by heavy cavalry and skirmish troops.</span></p>

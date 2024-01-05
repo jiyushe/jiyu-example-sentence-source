@@ -1,5 +1,7 @@
 # 清心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingxin_1.md)
+
 <p><span class="chinese">清心个人有福气了。</span><span class="english">Blessed are the pure in heart.</span></p>
 
 <p><span class="chinese">清心的人怎样可以见到神？</span><span class="english">How do the pure in heart see God?</span></p>

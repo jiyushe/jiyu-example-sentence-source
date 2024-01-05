@@ -1,5 +1,7 @@
 # 褪色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuishai.md)
+
 <p><span class="chinese">这是不褪色的。</span><span class="english">It is colorfast.</span></p>
 
 <p><span class="chinese">染得好的颜色不会褪色。</span><span class="english">A good dye will not fade.</span></p>

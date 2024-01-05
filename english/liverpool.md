@@ -1,5 +1,7 @@
 # liverpool
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liverpool.md)
+
 <p><span class="chinese">我住在利物浦。</span><span class="english">And I live in Liverpool.</span></p>
 
 <p><span class="chinese">利物浦的码头工人罢工了。</span><span class="english">The dockers in liverpool are out.</span></p>

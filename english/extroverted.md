@@ -1,5 +1,7 @@
 # extroverted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extroverted.md)
+
 <p><span class="chinese">他非常的外向。</span><span class="english">He's exuberantly extroverted.</span></p>
 
 <p><span class="chinese">不含蓄，更外向。</span><span class="english">Less introverted, more extroverted.</span></p>

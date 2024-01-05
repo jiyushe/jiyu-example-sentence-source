@@ -1,5 +1,7 @@
 # 现款
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiankuan.md)
+
 <p><span class="chinese">这些购置是用现款支付的。</span><span class="english">The purchases were paid for with cash.</span></p>
 
 <p><span class="chinese">我手头没有现钱，我没有现款。</span><span class="english">I have no cash in hand--I am out of cash.</span></p>

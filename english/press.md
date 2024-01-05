@@ -1,5 +1,7 @@
 # press
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/press.md)
+
 <p><span class="chinese">按回车键。</span><span class="english">Press enter.</span></p>
 
 <p><span class="chinese">简单阿，按下1G。</span><span class="english">Simple, press 1G.</span></p>

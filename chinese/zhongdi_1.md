@@ -1,5 +1,7 @@
 # 种地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongdi_1.md)
+
 <p><span class="chinese">我当时已经知道如何种地了。</span><span class="english">I knew how to farm already.</span></p>
 
 <p><span class="chinese">简朴的农夫正忙着耕田种地。</span><span class="english">And thrifty farmers, as they tilled the earth.</span></p>

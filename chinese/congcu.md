@@ -1,5 +1,7 @@
 # 匆促
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congcu.md)
+
 <p><span class="chinese">不要匆促对人做出判断。</span><span class="english">Don't judge others hastily.</span></p>
 
 <p><span class="chinese">不要匆促赶完你的工作。</span><span class="english">Don' t rush through your work.</span></p>

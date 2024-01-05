@@ -1,5 +1,7 @@
 # 热和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rehuo_1.md)
+
 <p><span class="chinese">热和冷相反。</span><span class="english">Hot and cold are contraries.</span></p>
 
 <p><span class="chinese">那旷日的旱热和洪水的漫延。</span><span class="english">Of Droughts and flooding rains.</span></p>

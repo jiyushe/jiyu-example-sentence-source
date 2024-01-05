@@ -1,5 +1,7 @@
 # 小便
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaobian.md)
+
 <p><span class="chinese">猫在酒里小便的味道？</span><span class="english">Cat pee in wine?</span></p>
 
 <p><span class="chinese">“又长又热的小便，”我说。</span><span class="english">“A long, hot piss, ” I said.</span></p>

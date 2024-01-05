@@ -1,5 +1,7 @@
 # 恐龙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/konglong.md)
+
 <p><span class="chinese">他是三角恐龙。</span><span class="english">He is a Triceratops.</span></p>
 
 <p><span class="chinese">阿尔贝塔龙是只大恐龙。</span><span class="english">Albertosaurus was a big dinosaur.</span></p>

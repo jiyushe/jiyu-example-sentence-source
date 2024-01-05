@@ -1,5 +1,7 @@
 # flo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flo.md)
+
 <p><span class="chinese">我的大姨妈来了。</span><span class="english">My aunt Flo is visiting.</span></p>
 
 <p><span class="chinese">嗯，我以为你的弗洛姨妈来了。</span><span class="english">Um, I think your Aunt Flo is in town.</span></p>

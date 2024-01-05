@@ -1,5 +1,7 @@
 # 主力舰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhulijian.md)
+
 <p><span class="chinese">这艘船是主力舰吗？</span><span class="english">Is it a capital ship?</span></p>
 
 <p><span class="chinese">这意味着一支舰队可包含七艘主力舰。</span><span class="english">That means SEVEN capital ships in a single fleet.</span></p>

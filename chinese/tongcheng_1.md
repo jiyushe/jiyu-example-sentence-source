@@ -1,5 +1,7 @@
 # 通称
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongcheng_1.md)
+
 <p><span class="chinese">这个定律通称为欧姆定律。</span><span class="english">This law is known as Ohm's law.</span></p>
 
 <p><span class="chinese">妇女是成年女子的通称。</span><span class="english">Women are known as adult women.</span></p>

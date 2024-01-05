@@ -1,5 +1,7 @@
 # vitamin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vitamin.md)
+
 <p><span class="chinese">柳丁含有维生素C。</span><span class="english">Oranges contain vitamin C.</span></p>
 
 <p><span class="chinese">莓果中含有维他命C。</span><span class="english">berries contain vitamin C.</span></p>

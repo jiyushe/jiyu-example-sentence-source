@@ -1,5 +1,7 @@
 # 针织
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenzhi_3.md)
+
 <p><span class="chinese">针织裙适于折叠包装。</span><span class="english">A knit dress packs well.</span></p>
 
 <p><span class="chinese">我认识一个喜欢针织的男人。</span><span class="english">I know a man who loves to knit.</span></p>

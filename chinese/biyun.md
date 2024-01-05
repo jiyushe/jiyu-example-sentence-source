@@ -1,5 +1,7 @@
 # 避孕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biyun.md)
+
 <p><span class="chinese">接下来就是避孕问题了。</span><span class="english">Then there is the contraception issue.</span></p>
 
 <p><span class="chinese">避孕丸、避孕器、避孕剂。</span><span class="english">A contraceptive pill, device, drug, ETC.</span></p>

@@ -1,5 +1,7 @@
 # Polish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polish.md)
+
 <p><span class="chinese">使用家具上光剂。</span><span class="english">Use Furniture polish.</span></p>
 
 <p><span class="chinese">那种上光剂已失去光泽。</span><span class="english">That polish has bloomed.</span></p>

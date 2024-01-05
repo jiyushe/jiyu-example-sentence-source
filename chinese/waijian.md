@@ -1,5 +1,7 @@
 # 外间
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waijian.md)
+
 <p><span class="chinese">只是外间没有行人，安静得很。</span><span class="english">The just appearance has no walker, very calm.</span></p>
 
 <p><span class="chinese">外间竟然这么缺少仁爱，这是很可惜的。</span><span class="english">It is a pity that there should be so little charity abroad.</span></p>

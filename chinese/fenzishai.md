@@ -1,5 +1,7 @@
 # 分子筛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenzishai.md)
+
 <p><span class="chinese">对USY分子筛进行HF改性实验。</span><span class="english">USY zeolite was modified by HF.</span></p>
 
 <p><span class="chinese">中孔径分子筛及应用。</span><span class="english">Mesoporous molecular sieves and its applications.</span></p>

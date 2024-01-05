@@ -1,5 +1,7 @@
 # 鄙陋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bilou.md)
+
 <p><span class="chinese">生活虽然鄙陋，但我们一样可以享受其中。</span><span class="english">Life sucks, but we could still enjoy it.</span></p>
 
 <p><span class="chinese">暴政所需的工具，最粗劣鄙陋。</span><span class="english">The vulgarest tool that Tyranny could want.</span></p>

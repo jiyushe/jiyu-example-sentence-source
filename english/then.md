@@ -1,5 +1,7 @@
 # then
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/then.md)
+
 <p><span class="chinese">乔，那么。</span><span class="english">Joe, then.</span></p>
 
 <p><span class="chinese">然后等待。</span><span class="english">Then wait.</span></p>

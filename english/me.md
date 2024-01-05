@@ -1,5 +1,7 @@
 # me 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/me.md)
+
 <p><span class="chinese">甚至我。</span><span class="english">Even me.</span></p>
 
 <p><span class="chinese">怀疑我？</span><span class="english">Doubt me?</span></p>

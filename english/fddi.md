@@ -1,5 +1,7 @@
 # fddi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fddi.md)
+
 <p><span class="chinese">工作线路状态，FDDI光纤一种可能的状态。</span><span class="english">Active Line State, one possible state of an FDDI optical fiber.</span></p>
 
 <p><span class="chinese">将智能设备连接到FDDI网络上的适配器类型。</span><span class="english">An adapter that connects an intelligent device to an FDDI network.</span></p>

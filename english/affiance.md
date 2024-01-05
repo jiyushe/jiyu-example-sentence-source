@@ -1,5 +1,7 @@
 # affiance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affiance.md)
+
 <p><span class="chinese">婚约性质从本质上说应属一种契约。</span><span class="english">Affiance is a contract in essence.</span></p>
 
 <p><span class="chinese">婚约性质从本质上说应属特殊的契约。</span><span class="english">Affiance is some special contract in the essence.</span></p>

@@ -1,5 +1,7 @@
 # violin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/violin.md)
+
 <p><span class="chinese">她会给小提琴上弦。</span><span class="english">She can string a violin.</span></p>
 
 <p><span class="chinese">算了，我们不学提琴了。</span><span class="english">We're giving up the violin.</span></p>

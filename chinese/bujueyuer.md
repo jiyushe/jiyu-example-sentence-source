@@ -1,5 +1,7 @@
 # 不绝于耳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bujueyuer.md)
+
 <p><span class="chinese">不绝于耳的警告最终使你对它们置之不理。</span><span class="english">You become overloaded with warnings and eventually just tune them out.</span></p>
 
 <p><span class="chinese">在过去的几年里，周围施工的噪音几乎总是不绝于耳。</span><span class="english">For the last few years we have heard almost constant construction noise around us.</span></p>

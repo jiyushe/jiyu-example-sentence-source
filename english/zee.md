@@ -1,5 +1,7 @@
 # zee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zee.md)
+
 <p><span class="chinese">乐德维尔了卓尔齐的水平26和发展它。</span><span class="english">Le vel up Drow zee to level 26 and evolve it.</span></p>
 
 <p><span class="chinese">ZEE阿维次两件乐器，吉他和夏威夷四弦琴。</span><span class="english">Zee Avi plays two instruments, the guitar and the ukulele.</span></p>

@@ -1,5 +1,7 @@
 # hemorrhoids
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hemorrhoids.md)
+
 <p><span class="chinese">什么是内痔？</span><span class="english">What are Internal Hemorrhoids?</span></p>
 
 <p><span class="chinese">芙蓉区治痔疮去哪好?。</span><span class="english">Furong District, where a good cure hemorrhoids?</span></p>

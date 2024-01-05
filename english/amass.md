@@ -1,5 +1,7 @@
 # amass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amass.md)
+
 <p><span class="chinese">我的梦想是收集一百万个咖啡杯子。</span><span class="english">My dream is to amass one million coffee mugs.</span></p>
 
 <p><span class="chinese">他正打算积蓄财富以备不时之需。</span><span class="english">He is planning to amass a fortune for a rainy day.</span></p>

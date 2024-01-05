@@ -1,5 +1,7 @@
 # spacer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spacer.md)
+
 <p><span class="chinese">应确保接地夹片在垫片槽上。</span><span class="english">Ensure the ground clip is on spacer slot.</span></p>
 
 <p><span class="chinese">从车辆上拆下扣击板和垫片。</span><span class="english">Separate striker and spacer from vehicle.</span></p>

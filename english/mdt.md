@@ -1,5 +1,7 @@
 # mdt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mdt.md)
+
 <p><span class="chinese">多学科诊治团队需常态化和专业化以实现患者的最大获益。</span><span class="english">MDT should be stable and specialized to achieve patients' maximum benefit.</span></p>
 
 <p><span class="chinese">迄今，对使用联合化疗的抗麻风治疗无抗药性。</span><span class="english">So far, there has been no resistance to antileprosy treatment when used as MDT.</span></p>

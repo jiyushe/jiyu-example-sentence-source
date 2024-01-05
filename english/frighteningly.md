@@ -1,5 +1,7 @@
 # frighteningly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frighteningly.md)
+
 <p><span class="chinese">佩里克是一个才智惊人的作家。</span><span class="english">Perec was a frighteningly clever writer.</span></p>
 
 <p><span class="chinese">对很多工人而言，吉特勒式的经历是再熟悉不过的了。</span><span class="english">For many workers, Gittler's experience is frighteningly familiar.</span></p>

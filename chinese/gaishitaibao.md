@@ -1,5 +1,7 @@
 # 盖世太保
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaishitaibao.md)
+
 <p><span class="chinese">盖世太保称她为“白鼠”。</span><span class="english">The Gestapo called her the “White Mouse”.</span></p>
 
 <p><span class="chinese">不料盖世太保反而把拉伯拘捕。</span><span class="english">Instead, Rabe was arrested by the Gestapo.</span></p>

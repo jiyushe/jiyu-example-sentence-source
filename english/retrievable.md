@@ -1,5 +1,7 @@
 # retrievable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retrievable.md)
+
 <p><span class="chinese">很难相信我们0-1落后，但这是可以追回来的。</span><span class="english">It was hard to believe we were 1-0 down but that's retrievable.</span></p>
 
 <p><span class="chinese">其实潜规则也要付出代价的，有些根本无法挽回。</span><span class="english">Hidden rules always cost a lot, some of them are not retrievable.</span></p>

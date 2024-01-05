@@ -1,5 +1,7 @@
 # interventionism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interventionism.md)
+
 <p><span class="chinese">下一步的货币干涉主义的逻辑是货币危机。</span><span class="english">The next step in the logic of monetary interventionism is a currency crisis.</span></p>
 
 <p><span class="chinese">今天我们所面临的问题根源就在于干涉主义，而重拾对无为而治自由市场理念的信心才是解决之道。</span><span class="english">The root of our problems lie in interventionism. Trusting the free market is the solution.</span></p>

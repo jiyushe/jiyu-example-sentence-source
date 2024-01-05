@@ -1,5 +1,7 @@
 # 西洋镜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiyangjing.md)
+
 <p><span class="chinese">使图表的每一个西洋镜与标记写生。</span><span class="english">Make diagrams of each diorama with labeled sketches.</span></p>
 
 <p><span class="chinese">在2012年，沃克原本是为“西洋镜”展览创作的这对机器人。</span><span class="english">The robots were originally created in 2012 by Walker for a show called 'Peepshow'.</span></p>

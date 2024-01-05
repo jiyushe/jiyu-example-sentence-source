@@ -1,5 +1,7 @@
 # reimburse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reimburse.md)
+
 <p><span class="chinese">我要付还那些费用。</span><span class="english">I shall reimburse the expenses.</span></p>
 
 <p><span class="chinese">我们将付还所有相关费用。</span><span class="english">We will reimburse any expenses incurred.</span></p>

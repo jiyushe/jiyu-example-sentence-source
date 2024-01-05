@@ -1,5 +1,7 @@
 # regula
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regula.md)
+
 <p><span class="chinese">今天年太阳队有不错的机会，大家要面对一个非常长的常规赛然之后好好准备一下季后赛。</span><span class="english">We just need to fight through the long regula season and be ready for the playoffs.</span></p>
 
 <p><span class="chinese">用于生产所采购的产品或材料应满足适用的法规要求。</span><span class="english">All purchased products or materials used in product shall conform to applicable regula tory requirements.</span></p>

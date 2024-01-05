@@ -1,5 +1,7 @@
 # 行都
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingdu.md)
+
 <p><span class="chinese">所有其它行都被忽略。</span><span class="english">All other lines were ignored.</span></p>
 
 <p><span class="chinese">两行都使用了正则表达式。</span><span class="english">Both lines use regular expressions.</span></p>

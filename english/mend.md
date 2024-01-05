@@ -1,5 +1,7 @@
 # mend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mend.md)
+
 <p><span class="chinese">他的病见好了。</span><span class="english">He's on the mend.</span></p>
 
 <p><span class="chinese">要么结束，要么改进。</span><span class="english">End dit or mend it.</span></p>

@@ -1,5 +1,7 @@
 # 深呼吸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenhuxi.md)
+
 <p><span class="chinese">首先，来做一次深呼吸。</span><span class="english">First, take a deep breath.</span></p>
 
 <p><span class="chinese">我做了第三次深呼吸。</span><span class="english">I took three deep breaths.</span></p>

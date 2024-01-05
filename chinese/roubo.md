@@ -1,5 +1,7 @@
 # 肉搏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/roubo.md)
+
 <p><span class="chinese">现在，肉搏的时刻到了。</span><span class="english">Now, the gloves are off.</span></p>
 
 <p><span class="chinese">弩兵们同时还配有长剑，以备近身肉搏。</span><span class="english">Crossbowmen are also equipped with a long sword.</span></p>

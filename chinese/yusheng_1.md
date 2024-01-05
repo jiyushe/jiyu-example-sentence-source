@@ -1,5 +1,7 @@
 # 语声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yusheng_1.md)
+
 <p><span class="chinese">低语声提高为吼叫声。</span><span class="english">The murmur swelled into a roar.</span></p>
 
 <p><span class="chinese">当他正在这么一往情深的时候，听到了他老婆的话语声。</span><span class="english">When in the flush of such feelings he heard his wife's voice.</span></p>

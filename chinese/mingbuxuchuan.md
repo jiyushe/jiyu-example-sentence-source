@@ -1,5 +1,7 @@
 # 名不虚传
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingbuxuchuan.md)
+
 <p><span class="chinese">他果然名不虚传。</span><span class="english">He is no misnomer.</span></p>
 
 <p><span class="chinese">他是一个名不虚传的诗人。</span><span class="english">He is poet worthy of the name.</span></p>

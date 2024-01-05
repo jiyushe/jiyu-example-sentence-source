@@ -1,5 +1,7 @@
 # conodont
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conodont.md)
+
 <p><span class="chinese">牙形石是一类在地层学研究中具有重要意义的古生物化石。</span><span class="english">Conodont is an important kind of fossil in the stratigraphy research.</span></p>
 
 <p><span class="chinese">牙形石的三个繁盛期与古地磁极性倒转有关。</span><span class="english">Three prosperous periods of conodont have relation to Palaeomagnetism Reversal.</span></p>

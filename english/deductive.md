@@ -1,5 +1,7 @@
 # deductive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deductive.md)
+
 <p><span class="chinese">好，演绎还是归纳？</span><span class="english">Okay, deductive or inductive?</span></p>
 
 <p><span class="chinese">好现在我们首先来看看演绎论点。</span><span class="english">Okay now lets look at deductive argument first.</span></p>

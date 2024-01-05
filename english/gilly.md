@@ -1,5 +1,7 @@
 # gilly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gilly.md)
+
 <p><span class="chinese">你猜怎样着，吉莉？我两个拍卖都得标了。</span><span class="english">Guess what, Gilly ? I won both bids.</span></p>
 
 <p><span class="chinese">吉莉的儿子更大也更强壮。</span><span class="english">Gilly 's son is larger and more robust.</span></p>

@@ -1,5 +1,7 @@
 # riverbed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/riverbed.md)
+
 <p><span class="chinese">北港河床航道稳定性较差，河床逐渐演变。</span><span class="english">The riverbed of the North Channel is unstable and changing.</span></p>
 
 <p><span class="chinese">变动回水区河床演变特性。</span><span class="english">Evolution characteristics of riverbed in fluctuating backwater area.</span></p>

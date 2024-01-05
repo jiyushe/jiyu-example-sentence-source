@@ -1,5 +1,7 @@
 # sobering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sobering.md)
+
 <p><span class="chinese">一件非常引人深思的事。</span><span class="english">A very sobering thought.</span></p>
 
 <p><span class="chinese">这种不一致发人省思。</span><span class="english">This discrepancy should be sobering.</span></p>

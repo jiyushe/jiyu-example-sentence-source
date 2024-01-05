@@ -1,5 +1,7 @@
 # elastin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elastin.md)
+
 <p><span class="chinese">阳光同时也攻击我们的弹性蛋白。</span><span class="english">The sun also attacks our elastin.</span></p>
 
 <p><span class="chinese">韧带还含有弹性蛋白。</span><span class="english">Ligaments contain protein elastin.</span></p>

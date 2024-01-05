@@ -1,5 +1,7 @@
 # foresaid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foresaid.md)
+
 <p><span class="chinese">甲方对合同的前述变更，不属于违约。</span><span class="english">The foresaid modification is not a breach of contract.</span></p>
 
 <p><span class="chinese">以上代理意见，请法庭予以采纳！谢谢！</span><span class="english">Please the Court consider and adopt the foresaid opinions!</span></p>

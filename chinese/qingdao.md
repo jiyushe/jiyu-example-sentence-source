@@ -1,5 +1,7 @@
 # 倾倒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingdao.md)
+
 <p><span class="chinese">我是否可将座位向后倾倒?</span><span class="english">May I recline my seat?</span></p>
 
 <p><span class="chinese">禁止在森林中倾倒垃圾。</span><span class="english">No dumping in these woods!</span></p>

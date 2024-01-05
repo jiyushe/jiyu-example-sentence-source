@@ -1,5 +1,7 @@
 # 好奇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haoqi.md)
+
 <p><span class="chinese">他十分的好奇。</span><span class="english">He’s genuinely curious.</span></p>
 
 <p><span class="chinese">难怪我们会好奇。</span><span class="english">No wonder we're curious.</span></p>

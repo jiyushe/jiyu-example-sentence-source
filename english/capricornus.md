@@ -1,5 +1,7 @@
 # capricornus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capricornus.md)
+
 <p><span class="chinese">摩羯座的星光是比较微弱暗淡的。</span><span class="english">The stars of Capricornus are faint.</span></p>
 
 <p><span class="chinese">2009年，满月之光出现在摩羯座前。</span><span class="english">In 2009, the full moon beams in front of Capricornus.</span></p>

@@ -1,5 +1,7 @@
 # 形容
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingrong.md)
+
 <p><span class="chinese">形容一个人是鼠辈。</span><span class="english">You are a rat.</span></p>
 
 <p><span class="chinese">我真找不出更好的词来形容了。</span><span class="english">I've never said it better.</span></p>

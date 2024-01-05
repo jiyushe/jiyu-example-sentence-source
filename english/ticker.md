@@ -1,5 +1,7 @@
 # ticker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ticker.md)
+
 <p><span class="chinese">你的心脏是个相当简单的机构。</span><span class="english">Your ticker is a pretty simple organ.</span></p>
 
 <p><span class="chinese">穷人没办法，火车票都买不到！</span><span class="english">Poor are not idear. ticker of train, where!</span></p>

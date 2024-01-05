@@ -1,5 +1,7 @@
 # baptist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baptist.md)
+
 <p><span class="chinese">圣约翰洗者殉教了。</span><span class="english">John the Baptist himself gets martyred.</span></p>
 
 <p><span class="chinese">星期浸教将举场典礼。</span><span class="english">Baptist will hold a ceremony this Sunday.</span></p>

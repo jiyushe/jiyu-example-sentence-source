@@ -1,5 +1,7 @@
 # dme
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dme.md)
+
 <p><span class="chinese">提醒我把那封信寄了。</span><span class="english">Remind dme to post that letter.</span></p>
 
 <p><span class="chinese">他在聚会上介绍我认识了一位希腊姑娘。</span><span class="english">He dme to a Greek girl at the party.</span></p>

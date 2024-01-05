@@ -1,5 +1,7 @@
 # langshan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/langshan.md)
+
 <p><span class="chinese">狼山花岗岩中锆石具有多世代性。</span><span class="english">Zircon in the Langshan granite is of multi-generation.</span></p>
 
 <p><span class="chinese">展销工作人员为来宾准备品尝的崀山脐橙。</span><span class="english">Exhibition staff to prepare the guests taste the orange Langshan.</span></p>

@@ -1,5 +1,7 @@
 # sensitive 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sensitive.md)
+
 <p><span class="chinese">看来我还是一个性情中人呀。</span><span class="english">I am still a sensitive guy.</span></p>
 
 <p><span class="chinese">这台望远镜拥有三台高灵敏度的红外照相机。</span><span class="english">sensitive infrared cameras.</span></p>

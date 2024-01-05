@@ -1,5 +1,7 @@
 # 剖解
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/poujie.md)
+
 <p><span class="chinese">第三章对盐城日升纺织有限公司的内部环境进行剖解分析。</span><span class="english">The chapter 3 dissects the internal environment of the company.</span></p>
 
 <p><span class="chinese">从剖解构造看，不该过分食肉的本该是我们。</span><span class="english">From the anatomical structure, should not be over-the meat of this is us.</span></p>

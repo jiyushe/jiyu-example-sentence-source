@@ -1,5 +1,7 @@
 # meddlesome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meddlesome.md)
+
 <p><span class="chinese">人爱放屁是好事吗？</span><span class="english">Is person love fart meddlesome ?</span></p>
 
 <p><span class="chinese">人头马一开，好事自然来。</span><span class="english">Remy Martin one, meddlesome nature comes.</span></p>

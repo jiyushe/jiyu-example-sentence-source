@@ -1,5 +1,7 @@
 # inadvisable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inadvisable.md)
+
 <p><span class="chinese">在冰上跑是不可取的。</span><span class="english">Running on the ice is inadvisable.</span></p>
 
 <p><span class="chinese">这一点不宜过分强调。</span><span class="english">It's inadvisable to overemphasize this point.</span></p>

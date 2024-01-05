@@ -1,5 +1,7 @@
 # 批次
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pici.md)
+
 <p><span class="chinese">当时抽检的24个批次全部合格。</span><span class="english">When sampling of 24 batch all qualified.</span></p>
 
 <p><span class="chinese">该QCU没有拒绝失败的药物产品批次。</span><span class="english">The QCU did not reject failing batches of drug product.</span></p>

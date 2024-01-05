@@ -1,5 +1,7 @@
 # vastly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vastly.md)
+
 <p><span class="chinese">语音质量有了巨大提升。</span><span class="english">The sound quality is vastly imp roved.</span></p>
 
 <p><span class="chinese">不过，学校却是变了大样。</span><span class="english">The school, though, is vastly improved.</span></p>

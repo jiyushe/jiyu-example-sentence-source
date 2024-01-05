@@ -1,5 +1,7 @@
 # 器量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiliang_1.md)
+
 <p><span class="chinese">你们用什么量器量给人?。</span><span class="english">What kind of measure ?</span></p>
 
 <p><span class="chinese">这也不妨说是器量大。</span><span class="english">Your unkind remark was not called for.</span></p>

@@ -1,5 +1,7 @@
 # ordinal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ordinal.md)
+
 <p><span class="chinese">用英语序数词表示以下数字。</span><span class="english">Write these ordinal numbers in words.</span></p>
 
 <p><span class="chinese">⑵数组的顺序存储结构。</span><span class="english">The ordinal memory structure of ⑵ array.</span></p>

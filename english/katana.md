@@ -1,5 +1,7 @@
 # katana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/katana.md)
+
 <p><span class="chinese">武士刀时，我已经21岁，我来自中国。</span><span class="english">Katana am, I have 21 years and I am from China.</span></p>
 
 <p><span class="chinese">这是我站在你身后，用武士刀抵着你的喉咙。</span><span class="english">That's me behind you with a katana at your throat.</span></p>

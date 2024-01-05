@@ -1,5 +1,7 @@
 # 青霉素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingmeisu.md)
+
 <p><span class="chinese">氨苄青霉素是一种抗生素</span><span class="english">Ampicillin is an antibiotic.</span></p>
 
 <p><span class="chinese">青霉素酰化酶基因工程菌E。</span><span class="english">The Pencillin acylase gene E.</span></p>

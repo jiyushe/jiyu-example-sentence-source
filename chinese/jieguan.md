@@ -1,5 +1,7 @@
 # 接管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieguan.md)
+
 <p><span class="chinese">现在协调器接管。</span><span class="english">The coordinator now takes over.</span></p>
 
 <p><span class="chinese">当时我接管了旧金山的一个项目。</span><span class="english">I took a program at San Francisco State.</span></p>

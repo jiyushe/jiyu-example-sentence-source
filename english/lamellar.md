@@ -1,5 +1,7 @@
 # lamellar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lamellar.md)
+
 <p><span class="chinese">其典型的显微组织为层片状珠光体。</span><span class="english">Its typic microstructure calls lamellar pearlite.</span></p>
 
 <p><span class="chinese">并非所有的共晶体都生长成层片状结构。</span><span class="english">All eutectics do not grow to produce lamellar structures.</span></p>

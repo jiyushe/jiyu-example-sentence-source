@@ -1,5 +1,7 @@
 # tremolite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tremolite.md)
+
 <p><span class="chinese">有的地方出现透闪石板条及蛇纹石。</span><span class="english">Tremolite laths and serpentine minerals are present in places.</span></p>
 
 <p><span class="chinese">矿床含矿岩石主要为阳起透闪岩、绿泥透闪岩等。</span><span class="english">Ore-bearing rocks in the deposit are mainly actinolite tremolite and chlorite tremolite.</span></p>

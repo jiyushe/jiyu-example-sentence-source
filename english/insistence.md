@@ -1,5 +1,7 @@
 # insistence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insistence.md)
+
 <p><span class="chinese">但是在我不断坚持下，他们相信了我说的话。</span><span class="english">But after a lot of insistence they took me at my word.</span></p>
 
 <p><span class="chinese">但当地修道院院长在他的父亲的坚持下拒绝了他。</span><span class="english">The local Abbot,however, refused him on his father’s insistence.</span></p>

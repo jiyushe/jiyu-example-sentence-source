@@ -1,5 +1,7 @@
 # commentary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commentary.md)
+
 <p><span class="chinese">有关此评论有个播客。</span><span class="english">There is a podcast of this commentary.</span></p>
 
 <p><span class="chinese">对于这样的评论，有一个很明显的需求。</span><span class="english">There is clearly a demand for such commentary.</span></p>

@@ -1,5 +1,7 @@
 # 无理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuli_3.md)
+
 <p><span class="chinese">我们拒绝了他的无理要求。</span><span class="english">We refused his unreasonable demands.</span></p>
 
 <p><span class="chinese">它还在继续无理蛮横的行为。</span><span class="english">It has continued to act unreasonably.</span></p>

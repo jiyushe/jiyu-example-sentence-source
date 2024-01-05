@@ -1,5 +1,7 @@
 # 叛徒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pantu.md)
+
 <p><span class="chinese">滚吧你这个叛徒。</span><span class="english">Just go, you traitor.</span></p>
 
 <p><span class="chinese">叛徒！你做奸细告发了我们。</span><span class="english">Traitor! You ratted on us.</span></p>

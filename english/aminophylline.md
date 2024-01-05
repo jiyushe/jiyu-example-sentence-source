@@ -1,5 +1,7 @@
 # aminophylline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aminophylline.md)
+
 <p><span class="chinese">结论多索茶碱对患者心功能的影响较氨茶碱弱。</span><span class="english">Conclusion The cardiac functional effect of doxofylline are weaker than that of aminophylline.</span></p>
 
 <p><span class="chinese">目的观察纳洛酮与氨茶碱联合治疗早产儿呼吸暂停的临床疗效。</span><span class="english">Objective To explore the efficiency of naloxone plus aminophylline on treating premature apnea.</span></p>

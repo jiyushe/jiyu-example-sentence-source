@@ -1,5 +1,7 @@
 # hottest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hottest.md)
+
 <p><span class="chinese">涤纶是最热的。</span><span class="english">Polyester is the hottest.</span></p>
 
 <p><span class="chinese">这里的八月是最热的。</span><span class="english">Augst is the hottest month here.</span></p>

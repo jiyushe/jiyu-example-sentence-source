@@ -1,5 +1,7 @@
 # cautiously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cautiously.md)
+
 <p><span class="chinese">她小心翼翼地关上门。</span><span class="english">She cautiously closed the door.</span></p>
 
 <p><span class="chinese">他小心地把钉子拾了起来。</span><span class="english">He cautiously picked up the nails.</span></p>

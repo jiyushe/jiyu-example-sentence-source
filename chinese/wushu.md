@@ -1,5 +1,7 @@
 # 巫术
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wushu.md)
+
 <p><span class="chinese">我不信巫术。</span><span class="english">I disbelieved in magic.</span></p>
 
 <p><span class="chinese">此刻我拥有大地。施展巫术的时辰。</span><span class="english">Now I own the earth The witching hour.</span></p>

@@ -1,5 +1,7 @@
 # 武侠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuxia_2.md)
+
 <p><span class="chinese">他也必须容忍无畏武侠的论断。</span><span class="english">He had to endure snide remarks by the Furious Five.</span></p>
 
 <p><span class="chinese">那男孩英勇的武侠，如旺盛的魅力。</span><span class="english">That boy's heroic knight-errant, like exuberant charm.</span></p>

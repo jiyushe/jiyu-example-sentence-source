@@ -1,5 +1,7 @@
 # 停顿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingdun.md)
+
 <p><span class="chinese">使用停顿。</span><span class="english">Using pauses.</span></p>
 
 <p><span class="chinese">然后，他停顿了一下。</span><span class="english">Then he pauses.</span></p>

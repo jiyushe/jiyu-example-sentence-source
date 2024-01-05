@@ -1,5 +1,7 @@
 # sweetie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sweetie.md)
+
 <p><span class="chinese">嘿，宝贝儿。</span><span class="english">Hey, sweetie.</span></p>
 
 <p><span class="chinese">因为我很累，宝贝，你等下再洗吧，好么？</span><span class="english">I am tired, sweetie. You take it later, okay?</span></p>

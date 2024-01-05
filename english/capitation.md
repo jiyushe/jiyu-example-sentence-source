@@ -1,5 +1,7 @@
 # capitation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capitation.md)
+
 <p><span class="chinese">目的探讨床位包干制管理在临床护理中应用的效果。</span><span class="english">Objective To investigate the effect of the application of sickbed capitation in clinical attendance.</span></p>
 
 <p><span class="chinese">两汉时期的人头税分为算赋、口赋、更赋三种。</span><span class="english">The capitation of the two Han dynasties was divided into three kinds of adult tax, unadult tax and quitrent.</span></p>

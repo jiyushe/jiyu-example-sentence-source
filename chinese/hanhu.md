@@ -1,5 +1,7 @@
 # 含糊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanhu.md)
+
 <p><span class="chinese">避免含糊。</span><span class="english">Avoid ambiguity.</span></p>
 
 <p><span class="chinese">是否有任何含糊之处？</span><span class="english">Is there any ambiguity?</span></p>

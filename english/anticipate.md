@@ -1,5 +1,7 @@
 # anticipate 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anticipate.md)
+
 <p><span class="chinese">我没意料到那个。</span><span class="english">I had't anticipate that.</span></p>
 
 <p><span class="chinese">我期待着你的成功。</span><span class="english">I anticipate your success.</span></p>

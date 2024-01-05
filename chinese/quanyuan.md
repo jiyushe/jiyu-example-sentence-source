@@ -1,5 +1,7 @@
 # 全员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanyuan.md)
+
 <p><span class="chinese">全员品管，创山山产品无不良。</span><span class="english">IV. Full quality control, a hill no bad products.</span></p>
 
 <p><span class="chinese">它具有支持性、动态性和全员性的特征。</span><span class="english">It has the supportive, dynamic and overall characteristics.</span></p>

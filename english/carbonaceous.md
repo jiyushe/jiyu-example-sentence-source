@@ -1,5 +1,7 @@
 # carbonaceous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carbonaceous.md)
+
 <p><span class="chinese">局部出现砂质页岩薄层和碳质碎屑。</span><span class="english">Thin layers of sandy shale, and carbonaceous fragments are locally present.</span></p>
 
 <p><span class="chinese">作为一种含碳的颗粒状物质，孔隙结构特点是热解炭的重要性质之一。</span><span class="english">Pore structure is most important for such a granular carbonaceous material as char.</span></p>

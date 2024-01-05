@@ -1,5 +1,7 @@
 # edmund
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/edmund.md)
+
 <p><span class="chinese">我看见国王爱德蒙。</span><span class="english">I can see King Edmund.</span></p>
 
 <p><span class="chinese">要是埃德蒙当上牧师就好了！</span><span class="english">If Edmund were but in orders!</span></p>

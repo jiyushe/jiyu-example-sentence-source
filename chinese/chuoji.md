@@ -1,5 +1,7 @@
 # 戳记
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuoji.md)
+
 <p><span class="chinese">首先，戳记携带一个日期。</span><span class="english">First, stamps carry a date.</span></p>
 
 <p><span class="chinese">戳记为哪个资源而生成。</span><span class="english">The resource for which a stamp is minted.</span></p>

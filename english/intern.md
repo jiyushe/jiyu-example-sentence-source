@@ -1,5 +1,7 @@
 # intern
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intern.md)
+
 <p><span class="chinese">相信我，我是一名实习生。</span><span class="english">Trust me, I’m an intern.</span></p>
 
 <p><span class="chinese">这个新来的实习生有一点爱戏闹。</span><span class="english">The new intern is a little frisky.</span></p>

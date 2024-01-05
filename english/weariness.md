@@ -1,5 +1,7 @@
 # weariness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weariness.md)
+
 <p><span class="chinese">他的面容因疲倦而委顿。</span><span class="english">His face sagged with weariness.</span></p>
 
 <p><span class="chinese">是你的疲惫驱使你来到祂的跟前。</span><span class="english">Your weariness drives you to him.</span></p>

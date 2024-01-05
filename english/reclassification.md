@@ -1,5 +1,7 @@
 # reclassification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reclassification.md)
+
 <p><span class="chinese">但是，银行的客户却对这些正在发生的重新调整一无所知。</span><span class="english">Bank customers are unaware that such reclassification is occurring.</span></p>
 
 <p><span class="chinese">对韩国来说，调整归类可能是一件能激起一些民族自豪感的事。</span><span class="english">For Korea, reclassification could prove a source of some national pride.</span></p>

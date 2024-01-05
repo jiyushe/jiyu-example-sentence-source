@@ -1,5 +1,7 @@
 # mentawai
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mentawai.md)
+
 <p><span class="chinese">周一晚上，印尼明打威群岛附近海域发生里氏7.5级地震。</span><span class="english">The 7.5 magnitude quake hit the Mentawai islands, late on Monday.</span></p>
 
 <p><span class="chinese">明打威海峡把锡默卢岛和尼亚斯岛与苏门答腊岛分隔两边。</span><span class="english">Simeulue and Nias are separated from Sumatra by the Selat Mentawai.</span></p>

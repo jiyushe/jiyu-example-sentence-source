@@ -1,5 +1,7 @@
 # fresh 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fresh.md)
+
 <p><span class="chinese">他们买新鲜肉。</span><span class="english">They buy fresh meat.</span></p>
 
 <p><span class="chinese">吃新鲜蔬菜。</span><span class="english">Eat fresh vegetables.</span></p>

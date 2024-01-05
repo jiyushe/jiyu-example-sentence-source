@@ -1,5 +1,7 @@
 # calamitous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calamitous.md)
+
 <p><span class="chinese">这并不一定是灾难。</span><span class="english">This need not be calamitous.</span></p>
 
 <p><span class="chinese">同时，诺尔和他的哥哥度过了悲惨的一天。</span><span class="english">Meanwhile, Noel and his brother have a rather calamitous one.</span></p>

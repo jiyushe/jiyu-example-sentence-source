@@ -1,5 +1,7 @@
 # reporting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reporting.md)
+
 <p><span class="chinese">事件报告。</span><span class="english">Event reporting.</span></p>
 
 <p><span class="chinese">战神坦克报告。</span><span class="english">Battlemaster tank reporting.</span></p>

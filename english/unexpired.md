@@ -1,5 +1,7 @@
 # unexpired
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unexpired.md)
+
 <p><span class="chinese">现时你有几张有效的信用卡?。</span><span class="english">How many valid and unexpired credit cards do you have now?</span></p>
 
 <p><span class="chinese">与现任雇主的合同或服务期协议是否到期？</span><span class="english">Do you have any unexpired contract or service agreement with your present employer?</span></p>

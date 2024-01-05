@@ -1,5 +1,7 @@
 # waiter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waiter.md)
+
 <p><span class="chinese">你给那侍者小费没有?</span><span class="english">Did you tip the waiter?</span></p>
 
 <p><span class="chinese">不要忘了给跑堂小费。</span><span class="english">Don't forget the waiter.</span></p>

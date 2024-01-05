@@ -1,5 +1,7 @@
 # attila
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attila.md)
+
 <p><span class="chinese">我拿到了匈奴王的宝剑。</span><span class="english">I've got attila 's sword.</span></p>
 
 <p><span class="chinese">在你左边的是匈奴大帝阿提拉。</span><span class="english">On the left there is your Attila the Hun.</span></p>

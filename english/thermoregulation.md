@@ -1,5 +1,7 @@
 # thermoregulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermoregulation.md)
+
 <p><span class="chinese">皮肤和核心温度都作用于体温调节中枢。</span><span class="english">Both skin and core temperatures contribute to thermoregulation.</span></p>
 
 <p><span class="chinese">当人体过热时，下丘脑前部可提供温度调节作用。</span><span class="english">The anterior hypothalamus provides thermoregulation when the body is too hot.</span></p>

@@ -1,5 +1,7 @@
 # artesian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/artesian.md)
+
 <p><span class="chinese">他们难道没有承压井么？</span><span class="english">Don't they have artesian wells?</span></p>
 
 <p><span class="chinese">莫让时光空自流啊！</span><span class="english">Do not Let the the time empty artesian ah!</span></p>

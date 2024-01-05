@@ -1,5 +1,7 @@
 # aircrew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aircrew.md)
+
 <p><span class="chinese">方法分析飞行人员航空性额窦炎临床资料31份。</span><span class="english">Method Case studies of aerofrontal sinusitis were made in 31 aircrew.</span></p>
 
 <p><span class="chinese">这提高了飞机的效能和机组人员的生存能力。</span><span class="english">This results in increased aircraft effectiveness and aircrew survivability.</span></p>

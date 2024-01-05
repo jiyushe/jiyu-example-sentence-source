@@ -1,5 +1,7 @@
 # 终于
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongyu_1.md)
+
 <p><span class="chinese">终于到家了。</span><span class="english">Home at last.</span></p>
 
 <p><span class="chinese">现在才终于明白…</span><span class="english">Now i understand.</span></p>

@@ -1,5 +1,7 @@
 # sensibly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sensibly.md)
+
 <p><span class="chinese">羔羊遇上狮子自当逃走。</span><span class="english">Lambs sensibly flee from lions.</span></p>
 
 <p><span class="chinese">玛莎穿着一件花呢厚大衣。</span><span class="english">She was sensibly dressed in tweeds.</span></p>

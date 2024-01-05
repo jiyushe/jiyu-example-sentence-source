@@ -1,5 +1,7 @@
 # 热天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/retian.md)
+
 <p><span class="chinese">今天真是个大热天！</span><span class="english">Today is a real scorcher!</span></p>
 
 <p><span class="chinese">热天工作缓慢。</span><span class="english">Work slackens on a hot day.</span></p>

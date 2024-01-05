@@ -1,5 +1,7 @@
 # 坎坷不平
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kankebuping.md)
+
 <p><span class="chinese">前路可能有点坎坷不平。</span><span class="english">Things might get a little bumpy.</span></p>
 
 <p><span class="chinese">他们在坎坷不平的乡村小路上走着。</span><span class="english">They walk on the rugged country road.</span></p>

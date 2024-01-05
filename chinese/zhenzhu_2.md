@@ -1,5 +1,7 @@
 # 真珠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenzhu_2.md)
+
 <p><span class="chinese">要真珠还是养珠的。</span><span class="english">Natural pearls or cultured pearls.</span></p>
 
 <p><span class="chinese">有的。要真珠的和还是养珠的？两种都有。</span><span class="english">Yes. Natural pearls or cultured pearls?We have both kinds.</span></p>

@@ -1,5 +1,7 @@
 # 牛角尖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niujiaojian.md)
+
 <p><span class="chinese">我不再钻在牛角尖里。</span><span class="english">I am not going to drill in the Horn Lane.</span></p>
 
 <p><span class="chinese">豁达大度，就卟至于转入死胡同或牛角尖。</span><span class="english">Huodataidu on porphyrin As for the Horn into a blind alley or.</span></p>

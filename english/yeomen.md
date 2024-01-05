@@ -1,5 +1,7 @@
 # yeomen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yeomen.md)
+
 <p><span class="chinese">自耕农是曹魏时期生产战线上的主要生产者。</span><span class="english">The yeomen were the major producers in the Wei Dynasty.</span></p>
 
 <p><span class="chinese">他要把自耕农三个字重复一下，好象给他安慰似的。</span><span class="english">He would repeat the word "Yeomen" as if it afforded him consolation.</span></p>

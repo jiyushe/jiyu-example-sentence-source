@@ -1,5 +1,7 @@
 # genesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/genesis.md)
+
 <p><span class="chinese">那有可能是起源吗？</span><span class="english">Could that be the genesis?</span></p>
 
 <p><span class="chinese">玛祖卡舞”起源于哪个国家?。</span><span class="english">Which country is Mazurka genesis?</span></p>

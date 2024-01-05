@@ -1,5 +1,7 @@
 # mathematician
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mathematician.md)
+
 <p><span class="chinese">弗朗西斯·厄普顿是一名数学家。</span><span class="english">Francis Upton was a mathematician.</span></p>
 
 <p><span class="chinese">数学家回答道“四”。</span><span class="english">" The mathematician replies "Four.</span></p>

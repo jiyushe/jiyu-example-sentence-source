@@ -1,5 +1,7 @@
 # 提神
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tishen.md)
+
 <p><span class="chinese">没错，冰牛奶能使我提神醒脑。</span><span class="english">Yeah. Cold milk wakes me up.</span></p>
 
 <p><span class="chinese">我需要一点什么东西来提提神。</span><span class="english">I want something to cheer me up.</span></p>

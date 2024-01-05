@@ -1,5 +1,7 @@
 # tabby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tabby.md)
+
 <p><span class="chinese">他们叫我大花猫。</span><span class="english">They called me tabby cat.</span></p>
 
 <p><span class="chinese">把你的宠物猫也训练成这样，可不可能呢？</span><span class="english">Is it possible to train your Tabby?</span></p>

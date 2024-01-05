@@ -1,5 +1,7 @@
 # 旅社
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvshe.md)
+
 <p><span class="chinese">我要去红狮旅社。</span><span class="english">I want the Red Lion Hotel.</span></p>
 
 <p><span class="chinese">我们可以订青年旅社。</span><span class="english">We can book a youth hotel.</span></p>

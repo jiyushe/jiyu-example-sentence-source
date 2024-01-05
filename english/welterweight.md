@@ -1,5 +1,7 @@
 # welterweight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/welterweight.md)
+
 <p><span class="chinese">贝托是WBC次中量级拳王。</span><span class="english">Berto is the WBC welterweight titleholder.</span></p>
 
 <p><span class="chinese">每个人得一条空缺的金腰带。</span><span class="english">Everyone else in the welterweight division won a vacant belt.</span></p>

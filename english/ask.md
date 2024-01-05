@@ -1,5 +1,7 @@
 # ask
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ask.md)
+
 <p><span class="chinese">问为什么。</span><span class="english">Ask why.</span></p>
 
 <p><span class="chinese">不要问我！</span><span class="english">Ask me not!</span></p>

@@ -1,5 +1,7 @@
 # immunoelectrophoresis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immunoelectrophoresis.md)
+
 <p><span class="chinese">应用免疫电泳进行交叉血清反应。</span><span class="english">Cross-seroreaction was performed by immunoelectrophoresis.</span></p>
 
 <p><span class="chinese">用对流免疫电泳试验检测免疫效果。</span><span class="english">The immune effect was detected by counter immunoelectrophoresis.</span></p>

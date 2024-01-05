@@ -1,5 +1,7 @@
 # carefulness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carefulness.md)
+
 <p><span class="chinese">她的仔细认真成为对我的鞭策。</span><span class="english">Her carefulness rebukes me.</span></p>
 
 <p><span class="chinese">她的仔细给我留下了深刻印象。</span><span class="english">I was impressed by her carefulness.</span></p>

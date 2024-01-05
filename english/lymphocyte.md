@@ -1,5 +1,7 @@
 # lymphocyte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lymphocyte.md)
+
 <p><span class="chinese">哺乳动物淋巴细胞在骨髓产生。</span><span class="english">Lymphocyte production in mammals originates in the bone marrow.</span></p>
 
 <p><span class="chinese">CFSE标记是一种有效的检测淋巴细胞增殖的方法。</span><span class="english">CFSE staining is an effective method for lymphocyte proliferative assay.</span></p>

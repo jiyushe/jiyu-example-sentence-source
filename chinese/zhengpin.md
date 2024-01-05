@@ -1,5 +1,7 @@
 # 征聘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengpin.md)
+
 <p><span class="chinese">我仔细看过成千上万条这种征聘广告了。</span><span class="english">I have go through thousands of these want ads.</span></p>
 
 <p><span class="chinese">学校在报纸上登广告征聘教师。</span><span class="english">The school advertised for teachers in the newspaper.</span></p>

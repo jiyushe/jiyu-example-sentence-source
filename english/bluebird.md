@@ -1,5 +1,7 @@
 # bluebird
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bluebird.md)
+
 <p><span class="chinese">整个白天，蓝鸟在飞。</span><span class="english">All day, Bluebird flew.</span></p>
 
 <p><span class="chinese">猫头鹰和知更鸟成了好朋友。</span><span class="english">Owl and Bluebird became good friends.</span></p>

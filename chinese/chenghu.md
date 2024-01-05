@@ -1,5 +1,7 @@
 # 称呼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenghu.md)
+
 <p><span class="chinese">这个称呼多么动听！</span><span class="english">How well it sounds.</span></p>
 
 <p><span class="chinese">我能称呼您费伊吗？</span><span class="english">May I call you Faye?</span></p>

@@ -1,5 +1,7 @@
 # 喜不自胜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xibuzisheng.md)
+
 <p><span class="chinese">工人们喜不自胜。</span><span class="english">The workers were transported with joy.</span></p>
 
 <p><span class="chinese">他听了那些话喜不自胜。</span><span class="english">He was transported with joy to hear those words.</span></p>

@@ -1,5 +1,7 @@
 # 视线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shixian_3.md)
+
 <p><span class="chinese">某个移开视线的人正在说谎</span><span class="english">A person who looks away is lying.</span></p>
 
 <p><span class="chinese">接着慢慢进入人们的视线。</span><span class="english">That's getting into recent memory.</span></p>

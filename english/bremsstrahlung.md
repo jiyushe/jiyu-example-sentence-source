@@ -1,5 +1,7 @@
 # bremsstrahlung
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bremsstrahlung.md)
+
 <p><span class="chinese">本文研究等离子体集体效应对轫致辐射的影响。</span><span class="english">This article investigates the influence of collective effects of plasma on bremsstrahlung.</span></p>
 
 <p><span class="chinese">并对相应的轫致辐射能损分布作了近似计算。</span><span class="english">The distributions of corresponding bremsstrahlung energy losses have also been calculated approximately.</span></p>

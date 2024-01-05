@@ -1,5 +1,7 @@
 # 砂石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shashi_2.md)
+
 <p><span class="chinese">我国具有丰富的海洋砂石土资源。</span><span class="english">China is rich in marine sandy and stony soil.</span></p>
 
 <p><span class="chinese">“拉加拉”是当地方言中的“砂石”。</span><span class="english">"La Jara" is in local dialect the name for "gravel".</span></p>

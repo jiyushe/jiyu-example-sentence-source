@@ -1,5 +1,7 @@
 # blackbird
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blackbird.md)
+
 <p><span class="chinese">乌鸫一定在飞翔。</span><span class="english">The blackbird must be flying.</span></p>
 
 <p><span class="chinese">也有一个黑鸟窝在那里。</span><span class="english">Another blackbird nest is there too.</span></p>

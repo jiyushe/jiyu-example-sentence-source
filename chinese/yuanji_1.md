@@ -1,5 +1,7 @@
 # 圆寂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanji_1.md)
+
 <p><span class="chinese">老和尚在寺院中圆寂。</span><span class="english">The old monk passed away in the Buddhist temple.</span></p>
 
 <p><span class="chinese">她圆寂以后，我才分明到，那是多么明智的创议啊。</span><span class="english">I realize now, after her death, what wise advice that is.</span></p>

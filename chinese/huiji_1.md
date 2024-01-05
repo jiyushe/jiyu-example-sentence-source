@@ -1,5 +1,7 @@
 # 会集
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huiji_1.md)
+
 <p><span class="chinese">并且，它可能给佛教徒地方会集。</span><span class="english">Also, It can give buddhist a place to gather.</span></p>
 
 <p><span class="chinese">车手会集中注意力在他的赛道上。</span><span class="english">The driver focuses all his or her skills on the track.</span></p>

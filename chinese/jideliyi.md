@@ -1,5 +1,7 @@
 # 既得利益
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jideliyi.md)
+
 <p><span class="chinese">我们在这方面没有既得利益。</span><span class="english">We have no vested interest in this respect.</span></p>
 
 <p><span class="chinese">不要听信这些既得利益者的诡辩。</span><span class="english">Do not listen to this sophistry by vested interests.</span></p>

@@ -1,5 +1,7 @@
 # 辩证
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianzheng_2.md)
+
 <p><span class="chinese">这是一个新的辩证观。</span><span class="english">There is a new dialectic.</span></p>
 
 <p><span class="chinese">我们应该辩证的看待这个问题。</span><span class="english">We should look at the problem of dialectical.</span></p>

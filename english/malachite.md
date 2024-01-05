@@ -1,5 +1,7 @@
 # malachite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malachite.md)
+
 <p><span class="chinese">耐晒孔雀蓝色淀。</span><span class="english">Fast Malachite Blue lake.</span></p>
 
 <p><span class="chinese">孔雀石是一种古老的玉料。</span><span class="english">Malachite is an ancient jade material.</span></p>

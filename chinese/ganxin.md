@@ -1,5 +1,7 @@
 # 甘心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganxin.md)
+
 <p><span class="chinese">他甘心做这事。</span><span class="english">He did it quite willingly.</span></p>
 
 <p><span class="chinese">而失败者是不会甘心的。</span><span class="english">And the loser is unreconciled.</span></p>

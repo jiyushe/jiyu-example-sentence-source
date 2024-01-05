@@ -1,5 +1,7 @@
 # confederate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confederate.md)
+
 <p><span class="chinese">南方联盟军穿灰色制服。</span><span class="english">Confederate army was a vast gray.</span></p>
 
 <p><span class="chinese">不举同盟旗，不信黑色耶稣。</span><span class="english">So no confederate flag, no black jesus.</span></p>

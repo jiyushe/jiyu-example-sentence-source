@@ -1,5 +1,7 @@
 # hovel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hovel.md)
+
 <p><span class="chinese">你埃塞俄比亚人，从你的茅屋的门里走出，向我走近。</span><span class="english">Forth from thy hovel door thou Ethiopia com ist to me.</span></p>
 
 <p><span class="chinese">另有杂物间就是楼梯下也装好了白色的木门。</span><span class="english">Another hovel is also installed under the stairs white wooden.</span></p>

@@ -1,5 +1,7 @@
 # 打坐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dazuo.md)
+
 <p><span class="chinese">这些天，我用锻炼来代替打坐。</span><span class="english">These days, exercise is my zazen.</span></p>
 
 <p><span class="chinese">永远空腹打坐。</span><span class="english">Always meditate on an empty stomach.</span></p>

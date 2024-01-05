@@ -1,5 +1,7 @@
 # forty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forty.md)
+
 <p><span class="chinese">有四十个刎。</span><span class="english">There are forty.</span></p>
 
 <p><span class="chinese">就是四十法郎呵。</span><span class="english">That makes forty francs.</span></p>

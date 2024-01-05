@@ -1,5 +1,7 @@
 # 煞风景
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shafengjing.md)
+
 <p><span class="chinese">他真是个煞风景的屎蛋。</span><span class="english">What a killjoy shitbag he is.</span></p>
 
 <p><span class="chinese">不过讽刺的是，当他真想这么干的时候，这些人却把保安喊了过来，煞风景！</span><span class="english">Ironically, when he tried they called Security.</span></p>

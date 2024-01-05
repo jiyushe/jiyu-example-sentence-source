@@ -1,5 +1,7 @@
 # 北洋军阀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beiyangjunfa.md)
+
 <p><span class="chinese">北洋军阀政府及南京国民政府政治腐败。</span><span class="english">Beiyang government and Manjing government are corrupt.</span></p>
 
 <p><span class="chinese">他对北洋军阀的那段历史很感兴趣。</span><span class="english">He is very interested in the history of the Beiyang Warlords.</span></p>

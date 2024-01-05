@@ -1,5 +1,7 @@
 # dogged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dogged.md)
+
 <p><span class="chinese">她穿一套花哨的新衣。</span><span class="english">She was dogged out in a new outfit.</span></p>
 
 <p><span class="chinese">杰克在整个赛季一直被伤痛所折磨。</span><span class="english">Jock had been dogged by injury all season.</span></p>

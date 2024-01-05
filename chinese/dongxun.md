@@ -1,5 +1,7 @@
 # 冬训
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongxun.md)
+
 <p><span class="chinese">严酷的冬训从今天开始，持续一周。</span><span class="english">Severe Winter Training started from today for a week.</span></p>
 
 <p><span class="chinese">承宪应该很快就要去接受严酷的冬训了。</span><span class="english">SH is supposed to go to severe winter training very soon.</span></p>

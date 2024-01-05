@@ -1,5 +1,7 @@
 # 热电站
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/redianzhan.md)
+
 <p><span class="chinese">这座热电站从1946年就开始投入使用。</span><span class="english">The station has been working since 1946.</span></p>
 
 <p><span class="chinese">将来大多数地热电站都会采用双循环的方式发电。</span><span class="english">Most geothermal power plants in the future will be binary plants.</span></p>

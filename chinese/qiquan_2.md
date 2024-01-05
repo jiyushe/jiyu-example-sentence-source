@@ -1,5 +1,7 @@
 # 齐全
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiquan_2.md)
+
 <p><span class="chinese">齐全的可选配件。</span><span class="english">Complete optional fittings.</span></p>
 
 <p><span class="chinese">这些东西使他们装备齐全了。</span><span class="english">These completed their equipment.</span></p>

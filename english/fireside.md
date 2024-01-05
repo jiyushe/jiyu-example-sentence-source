@@ -1,5 +1,7 @@
 # fireside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fireside.md)
+
 <p><span class="chinese">你可以在炉边织着毛衣。</span><span class="english">You can knit a sweater by the fireside.</span></p>
 
 <p><span class="chinese">你可以烤着炉火打毛衣。</span><span class="english">You can knit a sweater, by the fireside.</span></p>

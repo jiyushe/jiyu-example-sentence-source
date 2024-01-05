@@ -1,5 +1,7 @@
 # carping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carping.md)
+
 <p><span class="chinese">她老是在找她丈夫的茬儿。</span><span class="english">She's always carping at her husband.</span></p>
 
 <p><span class="chinese">他的祖父总是指摘青年人不懂事。</span><span class="english">His grandfather is always carping  about the young.</span></p>

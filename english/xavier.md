@@ -1,5 +1,7 @@
 # xavier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xavier.md)
+
 <p><span class="chinese">泽维尔并不孤单。</span><span class="english">Xavier is not alone.</span></p>
 
 <p><span class="chinese">方济-沙勿略出生于沙勿略城堡。</span><span class="english">The birth of Francis Xavier in Castle of Xavier.</span></p>

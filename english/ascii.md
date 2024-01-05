@@ -1,5 +1,7 @@
 # ascii
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ascii.md)
+
 <p><span class="chinese">但是ASCII仅是一种编码。</span><span class="english">But ASCII is just a code.</span></p>
 
 <p><span class="chinese">现在ASCII码包含字符了。</span><span class="english">Now ASCII involves characters.</span></p>

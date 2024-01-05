@@ -1,5 +1,7 @@
 # inalienable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inalienable.md)
+
 <p><span class="chinese">人权也是不可剥夺的。</span><span class="english">Human rights are also inalienable.</span></p>
 
 <p><span class="chinese">享有上帝赋予的不可剥夺的权利的理想。</span><span class="english">The idea of God-given, inalienable rights.</span></p>

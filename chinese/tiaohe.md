@@ -1,5 +1,7 @@
 # 跳河
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaohe.md)
+
 <p><span class="chinese">那人企图跳河自杀。</span><span class="english">The man tried to byjumping into the river.</span></p>
 
 <p><span class="chinese">有可能跳河的人很容易看出来。</span><span class="english">"Potential jumpers are very easy to recognize, " he said.</span></p>

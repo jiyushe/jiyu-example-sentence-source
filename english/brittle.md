@@ -1,5 +1,7 @@
 # brittle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brittle.md)
+
 <p><span class="chinese">脆的东西容易破碎。</span><span class="english">Brittle things break easily.</span></p>
 
 <p><span class="chinese">默特尔冷笑了一声。</span><span class="english">Myrtle gave a brittle laugh.</span></p>

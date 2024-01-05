@@ -1,5 +1,7 @@
 # devout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/devout.md)
+
 <p><span class="chinese">立普生是一个虔诚的基督徒。</span><span class="english">Lipson, a devout Christian, had an epiphany.</span></p>
 
 <p><span class="chinese">虔诚的穆斯林准时地遵守斋月。</span><span class="english">Devout Moslems observe Ramadan punctiliously.</span></p>

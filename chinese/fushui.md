@@ -1,5 +1,7 @@
 # 浮水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fushui.md)
+
 <p><span class="chinese">我的饵不浮水！</span><span class="english">My bait won't float!</span></p>
 
 <p><span class="chinese">鸭子会浮水，鸡则不会。</span><span class="english">A duck can swim but a chicken can't.</span></p>

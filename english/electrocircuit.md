@@ -1,5 +1,7 @@
 # electrocircuit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electrocircuit.md)
+
 <p><span class="chinese">介绍了一种多声道超声气体流量计的电路设计。</span><span class="english">This paper presents the electrocircuit design of a multi-path ultrasonic gas flowmeter.</span></p>
 
 <p><span class="chinese">表明了在电路功率问题上，路的关系式也可以从场方程式导出，路的关系式是场方程式的特殊情形。</span><span class="english">Refering the electrocircuit power, the electrocircuit formula can be derived from the electromagnetic field equation, and it's a special case of the latter.</span></p>

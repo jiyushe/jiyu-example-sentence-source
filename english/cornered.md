@@ -1,5 +1,7 @@
 # cornered
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cornered.md)
+
 <p><span class="chinese">这个贼终于被逼得走头无路了。</span><span class="english">The thief was cornered at last.</span></p>
 
 <p><span class="chinese">你把我逼急了，我当时必须那样。</span><span class="english">You cornered me, I had to do that.</span></p>

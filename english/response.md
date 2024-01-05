@@ -1,5 +1,7 @@
 # response 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/response.md)
+
 <p><span class="chinese">沃利森是什么样的反应？</span><span class="english">Wallison’s response?</span></p>
 
 <p><span class="chinese">我的回答是什么?</span><span class="english">What was my response?</span></p>

@@ -1,5 +1,7 @@
 # hysterics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hysterics.md)
+
 <p><span class="chinese">我不能忍受歇斯底里。</span><span class="english">I can't stand hysterics.</span></p>
 
 <p><span class="chinese">莱蒂却是歇斯底里的一团。</span><span class="english">Retty was a bunch of hysterics.</span></p>

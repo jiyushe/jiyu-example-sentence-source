@@ -1,5 +1,7 @@
 # 租车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuche.md)
+
 <p><span class="chinese">你有白色彩租车吗?。</span><span class="english">Do you have adress in white?</span></p>
 
 <p><span class="chinese">哪儿有租车柜台?。</span><span class="english">Where is the rent-a-car counter?</span></p>

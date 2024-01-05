@@ -1,5 +1,7 @@
 # 橡胶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangjiao.md)
+
 <p><span class="chinese">丁钠橡胶密封。</span><span class="english">Buna N seals.</span></p>
 
 <p><span class="chinese">橡胶内胎。</span><span class="english">Inner tubes, of rubber.</span></p>

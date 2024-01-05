@@ -1,5 +1,7 @@
 # guardianship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guardianship.md)
+
 <p><span class="chinese">但是现在，假面在我的内心中，守护着我的灵魂。</span><span class="english">But at present, In my heart, Mental Mask guardianship my soul.</span></p>
 
 <p><span class="chinese">而实际上监护制度和亲权制度是两种不同的制度。</span><span class="english">In fact, the systems of parent's right and guardianship are different.</span></p>

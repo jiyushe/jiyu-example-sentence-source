@@ -1,5 +1,7 @@
 # 歌颂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gesong.md)
+
 <p><span class="chinese">我们骑着脚踏车前进，大声歌颂着。</span><span class="english">We bicycled along, singing loudly.</span></p>
 
 <p><span class="chinese">他写成押韵的十四行诗歌颂她。</span><span class="english">He rhymed out sonnets in her praise.</span></p>

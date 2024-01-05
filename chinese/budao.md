@@ -1,5 +1,7 @@
 # 布道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/budao.md)
+
 <p><span class="chinese">我在向我的信徒们布道。</span><span class="english">I'm ministering to a flock.</span></p>
 
 <p><span class="chinese">她在听布道时睡著了。</span><span class="english">She dropped off during the sermon.</span></p>

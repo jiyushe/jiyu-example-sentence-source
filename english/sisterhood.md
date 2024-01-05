@@ -1,5 +1,7 @@
 # sisterhood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sisterhood.md)
+
 <p><span class="chinese">从这个意义上来说，教育和卫生属于姐妹关系。</span><span class="english">In this sense, education and health are a sisterhood.</span></p>
 
 <p><span class="chinese">跨越重洋的兄弟姐妹的爱。</span><span class="english">An across the ocean brother and sisterhood kind of love.</span></p>

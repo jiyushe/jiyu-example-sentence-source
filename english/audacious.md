@@ -1,5 +1,7 @@
 # audacious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/audacious.md)
+
 <p><span class="chinese">在这一点上，麦道夫创造了他最胆大妄为的发明。</span><span class="english">Here, Madoff made his most audacious innovation.</span></p>
 
 <p><span class="chinese">你的起点应该是零。</span><span class="english">You won't be penalized for having audacious goals.</span></p>

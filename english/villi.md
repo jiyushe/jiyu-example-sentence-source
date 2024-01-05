@@ -1,5 +1,7 @@
 # villi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/villi.md)
+
 <p><span class="chinese">葡萄胎无血管的绒毛是十分大的。</span><span class="english">The avascular villi of molar pregnancy are quite large.</span></p>
 
 <p><span class="chinese">绒毛的乳糜管是淋巴系统的一部分。</span><span class="english">The lacteals of villi are part of the lymphatic system.</span></p>

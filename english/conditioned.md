@@ -1,5 +1,7 @@
 # conditioned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conditioned.md)
+
 <p><span class="chinese">这个男孩必须补考英语。</span><span class="english">The boy was conditioned in English.</span></p>
 
 <p><span class="chinese">他们得补考化学。</span><span class="english">They were conditioned in chemistry.</span></p>

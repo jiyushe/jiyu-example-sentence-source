@@ -1,5 +1,7 @@
 # 文武
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenwu.md)
+
 <p><span class="chinese">文武大臣按文东武西由两侧门出入。</span><span class="english">Chiang by the Minister from both sides of the East-West gate access.</span></p>
 
 <p><span class="chinese">留有诗集一部，是住文武兼备的将军。</span><span class="english">He wrote a book of poetry, and he was a both civil and military general.</span></p>

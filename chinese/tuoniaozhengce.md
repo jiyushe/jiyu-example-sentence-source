@@ -1,5 +1,7 @@
 # 鸵鸟政策
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuoniaozhengce.md)
+
 <p><span class="chinese">这种鸵鸟政策受到嘲笑。</span><span class="english">This ostrich policy was brought into derision.</span></p>
 
 <p><span class="chinese">总统和第一夫人采取鸵鸟政策，躲在卧室里不出来。</span><span class="english">President and First Lady adopts the ostrich policy, hides does not come out in the bedroom.</span></p>

@@ -1,5 +1,7 @@
 # mannitol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mannitol.md)
+
 <p><span class="chinese">甘露醇口服吸收很少。</span><span class="english">Little oral absorption of mannitol.</span></p>
 
 <p><span class="chinese">由甘露醇与氢溴酸反应制得。</span><span class="english">By the reaction of mannitol and hydrobromic acid.</span></p>

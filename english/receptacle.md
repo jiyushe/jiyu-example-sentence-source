@@ -1,5 +1,7 @@
 # receptacle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/receptacle.md)
+
 <p><span class="chinese">废物箱在这里。</span><span class="english">Here is rubbish receptacle.</span></p>
 
 <p><span class="chinese">垃圾箱、待洗衣物袋、废纸箱。</span><span class="english">A receptacle for litter, washing, waste paper.</span></p>

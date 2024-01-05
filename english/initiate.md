@@ -1,5 +1,7 @@
 # initiate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/initiate.md)
+
 <p><span class="chinese">我们要开创社会新风尚。</span><span class="english">We should initiate a new social custom.</span></p>
 
 <p><span class="chinese">从这个节点启动检查和同步。</span><span class="english">Initiate verify and sync from this node.</span></p>

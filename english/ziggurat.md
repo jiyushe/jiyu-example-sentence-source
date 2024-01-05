@@ -1,5 +1,7 @@
 # ziggurat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ziggurat.md)
+
 <p><span class="chinese">只有国王和祭司才能进入神庙内。</span><span class="english">Only the king and priests could enter a ziggurat.</span></p>
 
 <p><span class="chinese">我们认为他向北去哀嚎通灵塔了。</span><span class="english">We think he went off north to the Wailing Ziggurat.</span></p>

@@ -1,5 +1,7 @@
 # 德才兼备
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/decaijianbei.md)
+
 <p><span class="chinese">我们选择德才兼备的员工。</span><span class="english">We want to choose employees with both ability and merit.</span></p>
 
 <p><span class="chinese">我们应该按照德才兼备的标准来挑选国家领导人。</span><span class="english">We should choose state leaders for their talents and virtue.</span></p>

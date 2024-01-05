@@ -1,5 +1,7 @@
 # 枪林弹雨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianglindanyu.md)
+
 <p><span class="chinese">在枪林弹雨里止血有什么用?。</span><span class="english">What's the use of stanching in the hails of bullets?</span></p>
 
 <p><span class="chinese">多有自信啊，仿佛我的手可以帮他挡住枪林弹雨似的。</span><span class="english">What confidence. As if my hands could protect him from the bullets.</span></p>

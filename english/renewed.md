@@ -1,5 +1,7 @@
 # renewed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/renewed.md)
+
 <p><span class="chinese">该域名可以续费。</span><span class="english">The domain can be renewed.</span></p>
 
 <p><span class="chinese">有，我昨天刚换了新的。</span><span class="english">Yes, I renewed it yesterday.</span></p>

@@ -1,5 +1,7 @@
 # appreciate 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appreciate_1.md)
+
 <p><span class="chinese">我能够欣赏灵歌。</span><span class="english">I can appreciate that.</span></p>
 
 <p><span class="chinese">真的？我太感激了。</span><span class="english">Reall ? I appreciate it.</span></p>

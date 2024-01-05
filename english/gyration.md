@@ -1,5 +1,7 @@
 # gyration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gyration.md)
+
 <p><span class="chinese">研究了入口流量、回转半径等对分离效率的影响。</span><span class="english">Effect of flowrate and gyration radius on separation efficiency is researched.</span></p>
 
 <p><span class="chinese">足够大的刀具回转直径，使得细长的粉碎物可以从圆周自动切入。</span><span class="english">Enough blades gyration diameter for easily cutting long and narrow profile shapes or pipes.</span></p>

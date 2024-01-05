@@ -1,5 +1,7 @@
 # coyote
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coyote.md)
+
 <p><span class="chinese">所有自进化者必须是像土狼一样高明的魔术师。</span><span class="english">Any self-evolver must be a coyote trickster.</span></p>
 
 <p><span class="chinese">山狗和跳蚤有什么区别？</span><span class="english">What's the difference between coyote and flea?</span></p>

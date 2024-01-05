@@ -1,5 +1,7 @@
 # 朴实无华
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pushiwuhua.md)
+
 <p><span class="chinese">花里胡哨还是朴实无华？</span><span class="english">Fancy with a flourish or plain?</span></p>
 
 <p><span class="chinese">家的快乐，朴实无华，但却那么的让人依赖。</span><span class="english">Family happiness, plain, but so people rely on.</span></p>

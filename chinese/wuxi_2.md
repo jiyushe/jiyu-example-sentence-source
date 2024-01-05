@@ -1,5 +1,7 @@
 # 武戏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuxi_2.md)
+
 <p><span class="chinese">有一部关于它的武戏。</span><span class="english">Well, there's a combat play about it.</span></p>
 
 <p><span class="chinese">在武戏中演员们用枪打吗？</span><span class="english">Do the actors fight with guns in military plays?</span></p>

@@ -1,5 +1,7 @@
 # constellation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/constellation.md)
+
 <p><span class="chinese">我的星座是大熊星座。</span><span class="english">My constellation is Great Bear.</span></p>
 
 <p><span class="chinese">星座考试是不可以看书的。</span><span class="english">The constellation test is not open book.</span></p>

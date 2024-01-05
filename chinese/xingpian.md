@@ -1,5 +1,7 @@
 # 行骗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingpian.md)
+
 <p><span class="chinese">鲍勃是位行骗高手，并以行骗为生。</span><span class="english">Bob makes his living as a con artist.</span></p>
 
 <p><span class="chinese">在任何情况下都不要行骗。</span><span class="english">Don't deceive under any circumstance.</span></p>

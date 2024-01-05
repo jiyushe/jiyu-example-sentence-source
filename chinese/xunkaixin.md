@@ -1,5 +1,7 @@
 # 寻开心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunkaixin.md)
+
 <p><span class="chinese">没有多余的钱去寻开心。</span><span class="english">No more money left to have fun.</span></p>
 
 <p><span class="chinese">别让他们拿你寻开心，大孩子。</span><span class="english">Don't let them kid you, big boy.</span></p>

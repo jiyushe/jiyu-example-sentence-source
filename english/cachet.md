@@ -1,5 +1,7 @@
 # cachet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cachet.md)
+
 <p><span class="chinese">显然，他有标记好快速解决问题的方法。</span><span class="english">Obviously, he has the cachet to resolve issues quickly.</span></p>
 
 <p><span class="chinese">不过由于哈雷摩托不再是稀罕物件，因此它也渐渐开始失去威望。</span><span class="english">But lacking scarcity, Harleys also began to lose their cachet.</span></p>

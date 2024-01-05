@@ -1,5 +1,7 @@
 # prone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prone.md)
+
 <p><span class="chinese">他动不动就生点小病。</span><span class="english">He's prone to minor ailments.</span></p>
 
 <p><span class="chinese">同样容易肿大和感染。</span><span class="english">Also prone to swelling and infection.</span></p>

@@ -1,5 +1,7 @@
 # crave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crave.md)
+
 <p><span class="chinese">你只是渴望这个人。</span><span class="english">You just crave this person.</span></p>
 
 <p><span class="chinese">这就是他们最渴望得到的。</span><span class="english">Tahts what they crave the most.</span></p>

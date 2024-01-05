@@ -1,5 +1,7 @@
 # gary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gary.md)
+
 <p><span class="chinese">加里，你怎么样？</span><span class="english">How about you, Gary?</span></p>
 
 <p><span class="chinese">是的，那是葛瑞山本先生。</span><span class="english">Yes, it was Gary Yamamoto.</span></p>

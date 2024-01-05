@@ -1,5 +1,7 @@
 # 闯祸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuanghuo.md)
+
 <p><span class="chinese">艾尔弗雷德闯祸了吗？</span><span class="english">Is Alfred in trouble?</span></p>
 
 <p><span class="chinese">我们闯祸了，我说咱们开溜吧。</span><span class="english">We have got into trouble here, I say we bail.</span></p>

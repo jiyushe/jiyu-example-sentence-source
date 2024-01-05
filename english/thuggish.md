@@ -1,5 +1,7 @@
 # thuggish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thuggish.md)
+
 <p><span class="chinese">你可以把他们想象成挥舞着警棍的咪表女郎或者卫生巡视员。</span><span class="english">Think of them as thuggish meter maids or health inspectors with batons.</span></p>
 
 <p><span class="chinese">不可避免地，这些活动导致了与卡德罗夫，这位车臣“暗杀沙皇”的正面交锋。</span><span class="english">Inevitably, this led to confrontation with Kadyrov, Chechnya's thuggish tsar.</span></p>

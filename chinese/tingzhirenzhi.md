@@ -1,5 +1,7 @@
 # 听之任之
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingzhirenzhi.md)
+
 <p><span class="chinese">我不能对此事听之任之。</span><span class="english">I cannot pass the matter by without making a protest.</span></p>
 
 <p><span class="chinese">我们对毒品泛滥不能听之任之。</span><span class="english">We can't take a laissez-faire attitude to drug abuse.</span></p>

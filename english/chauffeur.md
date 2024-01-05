@@ -1,5 +1,7 @@
 # chauffeur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chauffeur.md)
+
 <p><span class="chinese">她甚至派车和司机去接她的客人。</span><span class="english">She even sent her car and chauffeur to collect her guests.</span></p>
 
 <p><span class="chinese">那位司机除领取正常工资之外，还可以收点小费。</span><span class="english">Besides his regular wages,the chauffeur picks up money in tips.</span></p>

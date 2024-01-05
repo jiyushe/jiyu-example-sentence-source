@@ -1,5 +1,7 @@
 # intraocular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intraocular.md)
+
 <p><span class="chinese">除以上所说几点之外，大蒜还能降低由眼内压引起的青光眼。</span><span class="english">This reduces the intraocular pressure that causes glaucoma.</span></p>
 
 <p><span class="chinese">不同人对眼内压敏感性是否不同？</span><span class="english">Are different people more sensitive to intraocular pressure?</span></p>

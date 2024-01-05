@@ -1,5 +1,7 @@
 # sixty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sixty.md)
+
 <p><span class="chinese">他有60开外了。</span><span class="english">He is over sixty.</span></p>
 
 <p><span class="chinese">六十法郎白扔在河里。</span><span class="english">Sixty francs in the gulf.</span></p>

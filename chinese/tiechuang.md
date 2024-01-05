@@ -1,5 +1,7 @@
 # 铁床
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiechuang.md)
+
 <p><span class="chinese">她们居住在集体宿舍，通常是上下铺铁床。</span><span class="english">They sleep in communal bedrooms, often in bunk beds.</span></p>
 
 <p><span class="chinese">他有一张铁床架，并宣称这张铁床架适合所有人。</span><span class="english">He had an iron bedstead , which he boasted was fit for everyone.</span></p>

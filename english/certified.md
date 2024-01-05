@@ -1,5 +1,7 @@
 # certified
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/certified.md)
+
 <p><span class="chinese">我已经获得了微软系统工程师认证。</span><span class="english">I have got MCSE certified.</span></p>
 
 <p><span class="chinese">他总是买正牌商品。</span><span class="english">He always buy certified goods.</span></p>

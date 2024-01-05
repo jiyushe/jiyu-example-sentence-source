@@ -1,5 +1,7 @@
 # 半生不熟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banshengbushu.md)
+
 <p><span class="chinese">我不要半生不熟的牛排。</span><span class="english">I want my steak rare.</span></p>
 
 <p><span class="chinese">个半生不熟的东西！</span><span class="english">The thing of the half cooked!</span></p>

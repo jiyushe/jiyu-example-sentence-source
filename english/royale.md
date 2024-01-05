@@ -1,5 +1,7 @@
 # royale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/royale.md)
+
 <p><span class="chinese">可以试一起泡沫的葡萄鸡尾酒，如加了无核小葡萄干调味的白酒或是贝利尼。</span><span class="english">Try a sparkling wine cocktail, such as a Kir Royale or Bellini.</span></p>
 
 <p><span class="chinese">今年，我们在芙蓉RoyaleBintang酒店举办圣诞庆典是有充足的理由的…</span><span class="english">We are holding our celebration in Royale Bintang Hotel this year for several reasons.</span></p>

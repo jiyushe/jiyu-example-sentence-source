@@ -1,5 +1,7 @@
 # 送检
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songjian_1.md)
+
 <p><span class="chinese">我并不主张送检。</span><span class="english">I am not advocating censorship.</span></p>
 
 <p><span class="chinese">为什么不按制度定期试验和送检呢？</span><span class="english">Why not according to the system of periodic test and inspection?</span></p>

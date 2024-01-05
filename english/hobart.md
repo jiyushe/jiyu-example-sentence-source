@@ -1,5 +1,7 @@
 # hobart
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hobart.md)
+
 <p><span class="chinese">无法相信我能见到本杰明。哈伯特。</span><span class="english">I can't believe I'm about to meet Benjamin Hobart.</span></p>
 
 <p><span class="chinese">单程租金之间也允许斯顿和霍巴特。</span><span class="english">One-way rentals are also permitted between Launceston and Hobart.</span></p>

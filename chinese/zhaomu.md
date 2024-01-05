@@ -1,5 +1,7 @@
 # 召募
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaomu.md)
+
 <p><span class="chinese">军队已为这个战役召募了新兵。</span><span class="english">The army has beaten up recruits for the campaign.</span></p>
 
 <p><span class="chinese">军队正在为这个战役召募新兵。</span><span class="english">The army is beating up recruits for the campaign.</span></p>

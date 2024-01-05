@@ -1,5 +1,7 @@
 # 办学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banxue.md)
+
 <p><span class="chinese">办学特色北京景山学校创办于1960年。</span><span class="english">Beijing Jingshan School was founded in 1960.</span></p>
 
 <p><span class="chinese">“五位一体”办学模式有其形成依据。</span><span class="english">The model of "Five in One" has its foundation.</span></p>

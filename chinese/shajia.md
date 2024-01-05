@@ -1,5 +1,7 @@
 # 杀价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shajia.md)
+
 <p><span class="chinese">妈为了一件风衣在杀价。</span><span class="english">Mum bargained for a windbreaker.</span></p>
 
 <p><span class="chinese">你再杀价也不可能那么便宜。</span><span class="english">You can't beat that for a bargain.</span></p>

@@ -1,5 +1,7 @@
 # 标牌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaopai.md)
+
 <p><span class="chinese">这个标牌是什么意思？</span><span class="english">What dose this sign mean?</span></p>
 
 <p><span class="chinese">注意标牌，危机勿进。</span><span class="english">Look at the sign, danger keep out.</span></p>

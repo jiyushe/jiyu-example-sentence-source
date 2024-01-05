@@ -1,5 +1,7 @@
 # dogfish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dogfish.md)
+
 <p><span class="chinese">2007年以来，人们在格陵兰岛海上捕获四条葡萄牙角鲨鱼，这是标本之一。</span><span class="english">This Portuguese dogfish is one of four such specimens found off Greenland since 2007.</span></p>
 
 <p><span class="chinese">并且角鲨会在被酒精浸泡的时间里游动时就会发出其中一种不同寻常的攻击.</span><span class="english">And Dogfish is also bringing back one of their more unusual forays into alcohol-infused time travel.</span></p>

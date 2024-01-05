@@ -1,5 +1,7 @@
 # salivation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salivation.md)
+
 <p><span class="chinese">它就像巴甫洛夫的口水实验。</span><span class="english">It works just like Pavlov and salivation.</span></p>
 
 <p><span class="chinese">可调式薄膜加工用流涎嘴。</span><span class="english">Disclosed is an adjustable salivation mouth for processing the films.</span></p>

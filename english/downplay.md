@@ -1,5 +1,7 @@
 # downplay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downplay.md)
+
 <p><span class="chinese">淡化万圣节那可怕，令人胆寒生畏的部分。</span><span class="english">Downplay the scary, chilling, creepy, parts of Halloween.</span></p>
 
 <p><span class="chinese">国有的新闻报纸被下令对钱案进行低调处理。</span><span class="english">State-owned newspapers have been ordered to downplay the story.</span></p>

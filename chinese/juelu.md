@@ -1,5 +1,7 @@
 # 绝路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juelu.md)
+
 <p><span class="chinese">逼到绝路上，他就真正的为爹爹报了仇了。</span><span class="english">Force to in the dead end, he real of revenged for daddy.</span></p>
 
 <p><span class="chinese">他是一位才华横溢的象棋高手。他要把她一点一点地逼上绝路。</span><span class="english">He is a brilliant chess player. He is trying to eliminate her bit by bit.</span></p>

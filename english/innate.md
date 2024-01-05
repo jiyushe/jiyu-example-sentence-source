@@ -1,5 +1,7 @@
 # innate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/innate.md)
+
 <p><span class="chinese">一，知识并非天生。</span><span class="english">That there is no innate knowledge.</span></p>
 
 <p><span class="chinese">主情主义又有其先天的缺弊。</span><span class="english">Emotionalism also has its innate defect.</span></p>

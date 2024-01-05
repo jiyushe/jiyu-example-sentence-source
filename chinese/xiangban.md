@@ -1,5 +1,7 @@
 # 相伴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangban.md)
+
 <p><span class="chinese">平安始终相依相伴。</span><span class="english">Peace is always relational.</span></p>
 
 <p><span class="chinese">炎炎夏日，美酒相伴。</span><span class="english">Perfect wines for a summer day.</span></p>

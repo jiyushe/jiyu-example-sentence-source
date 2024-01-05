@@ -1,5 +1,7 @@
 # insure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insure.md)
+
 <p><span class="chinese">他们的保险标的是什么</span><span class="english">What do they insure?</span></p>
 
 <p><span class="chinese">我们只负责投保水渍险。</span><span class="english">We'll only insure W.P.A.</span></p>

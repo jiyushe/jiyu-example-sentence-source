@@ -1,5 +1,7 @@
 # 引起
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinqi_1.md)
+
 <p><span class="chinese">可能会引起公路暴怒。</span><span class="english">you could get road rage.</span></p>
 
 <p><span class="chinese">是什么引起潮汐的?</span><span class="english">By what are tides set up?</span></p>

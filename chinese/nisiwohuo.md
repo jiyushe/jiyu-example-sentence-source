@@ -1,5 +1,7 @@
 # 你死我活
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nisiwohuo.md)
+
 <p><span class="chinese">因此，竞争是你死我活的。</span><span class="english">So it is cutthroat competition.</span></p>
 
 <p><span class="chinese">一场你死我活的斗争迫在眉睫。</span><span class="english">A life-and-death struggle is looming ahead.</span></p>

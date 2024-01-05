@@ -1,5 +1,7 @@
 # aggravation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aggravation.md)
+
 <p><span class="chinese">但是谁想使之变得恶化呢？</span><span class="english">Who would want the aggravation?</span></p>
 
 <p><span class="chinese">“这是一个漫长的一天，我对你这么凶恶。</span><span class="english">"It's been a long day and I took out my aggravation on you.</span></p>

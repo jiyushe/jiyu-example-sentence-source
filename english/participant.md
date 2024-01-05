@@ -1,5 +1,7 @@
 # participant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/participant.md)
+
 <p><span class="chinese">参加人名称和地址。</span><span class="english">Name and address of participant.</span></p>
 
 <p><span class="chinese">一个t恤设计一个男孩道参与者。</span><span class="english">Tao T-shirt designed a boy participant.</span></p>

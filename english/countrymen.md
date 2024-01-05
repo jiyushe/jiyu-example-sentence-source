@@ -1,5 +1,7 @@
 # countrymen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/countrymen.md)
+
 <p><span class="chinese">他说服其国人接受其价值观。</span><span class="english">He convinced his countrymen of his value.</span></p>
 
 <p><span class="chinese">但我们的国人似乎持相反的意见。</span><span class="english">But our countrymen seem to hold the opposite opinion.</span></p>

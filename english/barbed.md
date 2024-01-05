@@ -1,5 +1,7 @@
 # barbed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barbed.md)
+
 <p><span class="chinese">鱼叉有倒刺的顶端。</span><span class="english">The barbed tip of a harpoon.</span></p>
 
 <p><span class="chinese">鱼钩上都有一个倒钩以防上了钩的鱼逃走。</span><span class="english">A barbed metal hook used for catching fish.</span></p>

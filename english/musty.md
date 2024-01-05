@@ -1,5 +1,7 @@
 # musty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/musty.md)
+
 <p><span class="chinese">这房间闻起来有霉味。</span><span class="english">This room smells a little musty.</span></p>
 
 <p><span class="chinese">他的随笔或许带有陈腐的学究气。</span><span class="english">His essays can be Oxbridge musty.</span></p>

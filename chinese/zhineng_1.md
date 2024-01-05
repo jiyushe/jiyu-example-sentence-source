@@ -1,5 +1,7 @@
 # 职能
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhineng_1.md)
+
 <p><span class="chinese">那中国人民银行的职能是什么？</span><span class="english">What are the functions of PBC?</span></p>
 
 <p><span class="chinese">但是这些团队是跨职能的。</span><span class="english">But the teams are cross-functional.</span></p>

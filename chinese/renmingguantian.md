@@ -1,5 +1,7 @@
 # 人命关天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renmingguantian.md)
+
 <p><span class="chinese">这是一起人命关天的事。</span><span class="english">It was a fatality.</span></p>
 
 <p><span class="chinese">损失事关重大，死亡人命关天。</span><span class="english">Each loss matters. Each death counts.</span></p>

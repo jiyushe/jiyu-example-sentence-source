@@ -1,5 +1,7 @@
 # hans
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hans.md)
+
 <p><span class="chinese">索丰，这位是汉斯。</span><span class="english">Sophie this is Hans.</span></p>
 
 <p><span class="chinese">干吗帕万汉斯还在用呢！</span><span class="english">Why the Pavan Hans still in use !</span></p>

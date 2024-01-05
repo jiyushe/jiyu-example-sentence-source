@@ -1,5 +1,7 @@
 # shower 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shower.md)
+
 <p><span class="chinese">洗澡、穿衣。</span><span class="english">Shower. Dress.</span></p>
 
 <p><span class="chinese">冲澡还是泡澡？</span><span class="english">SHOWER OR BATH?</span></p>

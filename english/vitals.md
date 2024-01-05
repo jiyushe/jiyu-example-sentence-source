@@ -1,5 +1,7 @@
 # vitals
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vitals.md)
+
 <p><span class="chinese">调整后的口渴和饥饿的命脉。</span><span class="english">Adjusted Thirst and Hunger vitals.</span></p>
 
 <p><span class="chinese">所有命脉似乎稳定下来。</span><span class="english">All vitals appear to be stabilized.</span></p>

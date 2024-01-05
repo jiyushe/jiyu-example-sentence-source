@@ -1,5 +1,7 @@
 # 应景
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingjing.md)
+
 <p><span class="chinese">应景的音乐，下载欣赏，谢谢！</span><span class="english">Thank you for the happiness music.</span></p>
 
 <p><span class="chinese">真是个令人愉快的夜晚，我为了应景助兴说了这么一句话。</span><span class="english">It was a pleasant evening, I said, conciliating the moment.</span></p>

@@ -1,5 +1,7 @@
 # ruthlessly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ruthlessly.md)
+
 <p><span class="chinese">他无情地鞭打他的仆人。</span><span class="english">He ruthlessly lammed out at his servant.</span></p>
 
 <p><span class="chinese">高度自我中心的病态阴谋家。</span><span class="english">Ruthlessly self-centred psychopathic schemers.</span></p>

@@ -1,5 +1,7 @@
 # tireless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tireless.md)
+
 <p><span class="chinese">而今，它在不倦的旅程中依然一尘不染</span><span class="english">Now,unsullied from its tireless journey</span></p>
 
 <p><span class="chinese">他们不倦地追求超额利润。</span><span class="english">They are tireless in hunting for super profits.</span></p>

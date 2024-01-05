@@ -1,5 +1,7 @@
 # 审阅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenyue.md)
+
 <p><span class="chinese">我审阅了这书的样稿。</span><span class="english">I read the book in proof.</span></p>
 
 <p><span class="chinese">我们可以一起审阅这套设计图吗？</span><span class="english">Shall we go through the drawings together?</span></p>

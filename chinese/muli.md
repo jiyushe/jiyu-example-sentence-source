@@ -1,5 +1,7 @@
 # 目力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muli.md)
+
 <p><span class="chinese">我的目力很好。</span><span class="english">I have good eyesight.</span></p>
 
 <p><span class="chinese">人们戴眼镜以改良目力。</span><span class="english">People wear glasses to improve their vision.</span></p>

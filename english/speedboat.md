@@ -1,5 +1,7 @@
 # speedboat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/speedboat.md)
+
 <p><span class="chinese">他们乘快艇在湖上游荡。</span><span class="english">They travelled on the lake by speedboat.</span></p>
 
 <p><span class="chinese">这是布加迪威龙全新概念快艇。</span><span class="english">This is the new Bugatti Veyron concept speedboat.</span></p>

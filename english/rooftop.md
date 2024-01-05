@@ -1,5 +1,7 @@
 # rooftop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rooftop.md)
+
 <p><span class="chinese">我应该到屋顶上吗？</span><span class="english">Should I go up to the rooftop?</span></p>
 
 <p><span class="chinese">然后它从屋顶一跃而下。</span><span class="english">It then jumped off the rooftop.</span></p>

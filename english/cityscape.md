@@ -1,5 +1,7 @@
 # cityscape
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cityscape.md)
+
 <p><span class="chinese">留下了柏林城市风光的又一块大缺口。</span><span class="english">What remains is yet another gap in the Berlin cityscape.</span></p>
 
 <p><span class="chinese">另一个场景是都市风光的素描草稿。</span><span class="english">Another is a crude rendering of a metropolitan cityscape.</span></p>

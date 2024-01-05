@@ -1,5 +1,7 @@
 # 外遇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waiyu_1.md)
+
 <p><span class="chinese">我有了外遇，我说了谎。</span><span class="english">I had affairs, I cheated.</span></p>
 
 <p><span class="chinese">嫉妒是外遇的解药？</span><span class="english">Is jealousy the antidote to cheating?</span></p>

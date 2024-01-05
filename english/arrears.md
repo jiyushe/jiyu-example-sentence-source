@@ -1,5 +1,7 @@
 # arrears
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arrears.md)
+
 <p><span class="chinese">我还有两三封信搁着未复。</span><span class="english">I am two or three letters in arrears.</span></p>
 
 <p><span class="chinese">他们催讨拖欠的工钱。</span><span class="english">They are urgent for payment of arrears of wages.</span></p>

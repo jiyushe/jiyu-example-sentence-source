@@ -1,5 +1,7 @@
 # juvenile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/juvenile.md)
+
 <p><span class="chinese">韶华不为少年留。</span><span class="english">Young left for juvenile.</span></p>
 
 <p><span class="chinese">这个少年就倒下去了。</span><span class="english">The juvenile went on down.</span></p>

@@ -1,5 +1,7 @@
 # godhead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/godhead.md)
+
 <p><span class="chinese">面对着那正在显现、暴露的神性。</span><span class="english">To the Godhead now revealed, exposed.</span></p>
 
 <p><span class="chinese">因为神格一切的丰满，都有形有体的居住在基督里面。</span><span class="english">For in Him dwells all the fullness of the Godhead bodily.</span></p>

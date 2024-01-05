@@ -1,5 +1,7 @@
 # pair 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pair.md)
+
 <p><span class="chinese">试试那一双。</span><span class="english">Try that pair on.</span></p>
 
 <p><span class="chinese">想要双新鞋？</span><span class="english">New pair of shoes?</span></p>

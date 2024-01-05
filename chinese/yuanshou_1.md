@@ -1,5 +1,7 @@
 # 援手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanshou_1.md)
+
 <p><span class="chinese">从罗克维尔市向全世界伸出援手</span><span class="english">REACHING OUT TO THE WORLD FROM MARYLAND</span></p>
 
 <p><span class="chinese">你在天主面前要自谦，等候他的援手。</span><span class="english">Humble thyself to God, and wait for his hands.</span></p>

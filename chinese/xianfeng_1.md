@@ -1,5 +1,7 @@
 # 险峰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianfeng_1.md)
+
 <p><span class="chinese">初登险峰时，最好放慢步。</span><span class="english">To climb steep hills requires a slow pace at first.</span></p>
 
 <p><span class="chinese">天生一个仙人洞，无限风光在险峰。</span><span class="english">The perilous peak reveals scenery boundless and grand.</span></p>

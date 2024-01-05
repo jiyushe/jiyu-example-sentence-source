@@ -1,5 +1,7 @@
 # spool
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spool.md)
+
 <p><span class="chinese">组蛋白就像是线轴</span><span class="english">The histones are kind of like the spool</span></p>
 
 <p><span class="chinese">该组蛋白是一种类似线轴。</span><span class="english">The histones are kind of like the spool.</span></p>

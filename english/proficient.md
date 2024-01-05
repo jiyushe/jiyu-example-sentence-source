@@ -1,5 +1,7 @@
 # proficient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proficient.md)
+
 <p><span class="chinese">她非常精通音乐。</span><span class="english">She was very proficient in music.</span></p>
 
 <p><span class="chinese">精通者能够自我纠正。</span><span class="english">Proficient practitioners can self-correct.</span></p>

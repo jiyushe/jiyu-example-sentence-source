@@ -1,5 +1,7 @@
 # chemic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chemic.md)
+
 <p><span class="chinese">你呀，你是榆木脑袋，人家是化学脑袋。</span><span class="english">You, you are stupid, your brain are elm, he brain is chemic.</span></p>
 
 <p><span class="chinese">当前的烤烟生产中，化肥被大量使用。</span><span class="english">Chemic fertilizer is slathered in the tobacco production nowadays.</span></p>

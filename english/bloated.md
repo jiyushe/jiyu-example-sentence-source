@@ -1,5 +1,7 @@
 # bloated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bloated.md)
+
 <p><span class="chinese">她的脸是臃肿和拘谨。</span><span class="english">Her face is bloated and squarish.</span></p>
 
 <p><span class="chinese">乌鸦停在浮尸上面。</span><span class="english">Crows perch on bloated corpses floating by.</span></p>

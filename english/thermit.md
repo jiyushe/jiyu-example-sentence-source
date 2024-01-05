@@ -1,5 +1,7 @@
 # thermit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermit.md)
+
 <p><span class="chinese">现场铝热焊。</span><span class="english">Field alumino thermit weld.</span></p>
 
 <p><span class="chinese">介绍了铝热焊修复钢锭模的工艺过程。</span><span class="english">The procedure of thermit welding for repair of the ingot die is presented in the paper.</span></p>

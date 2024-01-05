@@ -1,5 +1,7 @@
 # 专职
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanzhi_1.md)
+
 <p><span class="chinese">你能否给我安排专职的工作?。</span><span class="english">Can you fix me up with a full-time job?</span></p>
 
 <p><span class="chinese">我成为党的专职人员已经两年了。</span><span class="english">I have been a full-timer for two years.</span></p>

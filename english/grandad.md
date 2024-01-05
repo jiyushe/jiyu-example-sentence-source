@@ -1,5 +1,7 @@
 # grandad 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grandad.md)
+
 <p><span class="chinese">爷爷喜欢怀旧。</span><span class="english">Grandad like reminiscing.</span></p>
 
 <p><span class="chinese">太有趣了，爷爷。</span><span class="english">This is great fun, Grandad.</span></p>

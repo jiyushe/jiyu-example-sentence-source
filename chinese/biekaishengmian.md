@@ -1,5 +1,7 @@
 # 别开生面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biekaishengmian.md)
+
 <p><span class="chinese">他的学习方法是别开生面的。</span><span class="english">His method of study was characteristic.</span></p>
 
 <p><span class="chinese">这是一场别开生面的“水上入场式”。</span><span class="english">This is a unique "water entrance ceremony."</span></p>

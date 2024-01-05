@@ -1,5 +1,7 @@
 # motherland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/motherland.md)
+
 <p><span class="chinese">我亲爱的祖国。</span><span class="english">My dear motherland.</span></p>
 
 <p><span class="chinese">我们热爱祖国。</span><span class="english">We love our motherland.</span></p>

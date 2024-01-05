@@ -1,5 +1,7 @@
 # designed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/designed.md)
+
 <p><span class="chinese">他们图谋加害于她。</span><span class="english">They have designed upon her.</span></p>
 
 <p><span class="chinese">它被设计为一个陶笛。</span><span class="english">It is designed as an Ocarina.</span></p>

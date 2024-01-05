@@ -1,5 +1,7 @@
 # 网开一面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangkaiyimian.md)
+
 <p><span class="chinese">医院最终网开一面。</span><span class="english">The hospital finally relented.</span></p>
 
 <p><span class="chinese">美国“薪酬沙皇”将对他网开一面。</span><span class="english">S. pay czar will give Benmosche leeway on pay.</span></p>

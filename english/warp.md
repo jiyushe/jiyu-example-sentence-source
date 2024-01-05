@@ -1,5 +1,7 @@
 # warp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/warp.md)
+
 <p><span class="chinese">翘曲速度安全吗？</span><span class="english">Is Warp Speed Safe?</span></p>
 
 <p><span class="chinese">这是一个有时光隧道的地方吗？</span><span class="english">Is it an area of time warp?</span></p>

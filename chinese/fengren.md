@@ -1,5 +1,7 @@
 # 疯人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengren.md)
+
 <p><span class="chinese">除了疯人外谁会这样做？</span><span class="english">Who but a madman would act thus?</span></p>
 
 <p><span class="chinese">我是那第三个人，一个正儿八经的疯人！</span><span class="english">I’m the third, and I really am mad.</span></p>

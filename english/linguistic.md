@@ -1,5 +1,7 @@
 # linguistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/linguistic.md)
+
 <p><span class="chinese">什么是语言类型学？</span><span class="english">What is linguistic typology?</span></p>
 
 <p><span class="chinese">她在从事语言学的研究。</span><span class="english">She is pursuing her linguistic researches.</span></p>

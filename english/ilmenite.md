@@ -1,5 +1,7 @@
 # ilmenite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ilmenite.md)
+
 <p><span class="chinese">有商业价值的主要矿石是钛铁矿和金红石。</span><span class="english">Its chief commercial ores are ilmenite and rutile.</span></p>
 
 <p><span class="chinese">赤铁矿是更为一般的钛铁矿型结构中一个特殊的情况。</span><span class="english">Haematite is a special case of the more general ilmenite structure.</span></p>

@@ -1,5 +1,7 @@
 # 外籍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waiji.md)
+
 <p><span class="chinese">但外籍高管的东行并非完全没有问题.</span><span class="english">But going east is not without its problems.</span></p>
 
 <p><span class="chinese">法国的外籍军团都是外籍人吗？</span><span class="english">France's Foreign Legion are foreign people ?</span></p>

@@ -1,5 +1,7 @@
 # 脍炙人口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuaizhirenkou.md)
+
 <p><span class="chinese">是一首披头四脍炙人口的老歌。</span><span class="english">Let It Be" is one golden oldie from the Beatles."</span></p>
 
 <p><span class="chinese">特利斯特拉姆和高文爵士的故事脍炙人口。</span><span class="english">Several tell of the adventures of Sir Tristram and Sir Gawin.</span></p>

@@ -1,5 +1,7 @@
 # admiralty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/admiralty.md)
+
 <p><span class="chinese">到达金钟站。</span><span class="english">Arriving admiralty station.</span></p>
 
 <p><span class="chinese">该分庭一直行使海事管辖权。</span><span class="english">This division continued to exercise the admiralty jurisdiction.</span></p>

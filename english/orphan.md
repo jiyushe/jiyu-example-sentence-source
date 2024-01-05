@@ -1,5 +1,7 @@
 # orphan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orphan.md)
+
 <p><span class="chinese">他们立一个孤儿为继承人。</span><span class="english">They adopted an orphan as an heir.</span></p>
 
 <p><span class="chinese">我是孤儿，我住在本顿维尔。</span><span class="english">I'm an orphan. I live in Pentonville.</span></p>

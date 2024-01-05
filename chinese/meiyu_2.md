@@ -1,5 +1,7 @@
 # 美誉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meiyu_2.md)
+
 <p><span class="chinese">使美誉落得跟娼妓一样。</span><span class="english">And makest fair reputation but a bawd.</span></p>
 
 <p><span class="chinese">想象那些美好和享有美誉的事物。</span><span class="english">Imagine what is lovely and of good report.</span></p>

@@ -1,5 +1,7 @@
 # delightedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delightedly.md)
+
 <p><span class="chinese">贝尔坐在自家屋顶上乐滋滋地唱歌。</span><span class="english">Bell sitting on his roof, sings delightedly.</span></p>
 
 <p><span class="chinese">那太好了！'他的妻子高兴地说。</span><span class="english">That's wonderful! 'said his wife delightedly.</span></p>

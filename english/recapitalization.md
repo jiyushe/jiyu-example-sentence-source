@@ -1,5 +1,7 @@
 # recapitalization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recapitalization.md)
+
 <p><span class="chinese">然而，目前EFSF的授权和规模都需要扩大，涵盖向银行注资的任务。</span><span class="english">The EFSF's mandate and size need to be expanded to include bank recapitalization.</span></p>
 
 <p><span class="chinese">这一点表明，关于银行迅速且杂乱重新资本化的政策可能会出现误导。</span><span class="english">This suggests that policies for quick and indiscriminate recapitalization of banks may be misguided.</span></p>

@@ -1,5 +1,7 @@
 # oilseed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oilseed.md)
+
 <p><span class="chinese">加大油料生产基地的投资力度。</span><span class="english">Investment in oilseed production base will be expanded.</span></p>
 
 <p><span class="chinese">研究了8种除草剂防除冬油菜田杂草的效果。</span><span class="english">Efficacies of 8 herbicides in winter oilseed rape field were compared.</span></p>

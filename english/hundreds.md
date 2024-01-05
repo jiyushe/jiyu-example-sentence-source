@@ -1,5 +1,7 @@
 # hundreds
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hundreds.md)
+
 <p><span class="chinese">我那里有上百根呢。</span><span class="english">I've got hundreds ofthem.</span></p>
 
 <p><span class="chinese">会出现成百上千条搜索结果。</span><span class="english">there are hundreds of them.</span></p>

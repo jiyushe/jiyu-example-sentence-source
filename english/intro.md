@@ -1,5 +1,7 @@
 # intro
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intro.md)
+
 <p><span class="chinese">好，这一段是导奏。</span><span class="english">Okay.This is the intro.</span></p>
 
 <p><span class="chinese">那么,这段是引子</span><span class="english">Okay, so that's the intro.</span></p>

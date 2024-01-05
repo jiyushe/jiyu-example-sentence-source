@@ -1,5 +1,7 @@
 # chronically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chronically.md)
+
 <p><span class="chinese">怎样治疗慢性寻麻疹?。</span><span class="english">How does cure search hives chronically?</span></p>
 
 <p><span class="chinese">如何治疗慢性浔麻疹?。</span><span class="english">How to treat waterside chronically hives ?</span></p>

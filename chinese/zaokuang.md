@@ -1,5 +1,7 @@
 # 躁狂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaokuang.md)
+
 <p><span class="chinese">躁狂就像那样悄悄向我袭来。</span><span class="english">Mania creeps up on me like that.</span></p>
 
 <p><span class="chinese">然而，结果对于躁狂却没有惊人变化。</span><span class="english">However, the results were not as striking for mania.</span></p>

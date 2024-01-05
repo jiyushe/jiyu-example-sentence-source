@@ -1,5 +1,7 @@
 # lyase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lyase.md)
+
 <p><span class="chinese">该菌株产酶发酵条件的研究，为褐藻胶裂解酶的大规模制备及应用奠定了基础。</span><span class="english">All of this lay a solid foundation for large-scale preparation and application of alginate lyase.</span></p>
 
 <p><span class="chinese">随着果胶裂解酶的新用途的不断出现，因此该酶是近年国内外研究的热点课题。</span><span class="english">As new use of pectate lyase is continuously found, the enzyme has been a hot spot in scientific study.</span></p>

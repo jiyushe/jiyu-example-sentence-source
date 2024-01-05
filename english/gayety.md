@@ -1,5 +1,7 @@
 # gayety
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gayety.md)
+
 <p><span class="chinese">空气里洋溢着一片轻松愉快的气氛。</span><span class="english">A brisk gayety was in the air.</span></p>
 
 <p><span class="chinese">你感动得怜悯、激动或者高兴。</span><span class="english">You are moved to pity, excitement, or gayety.</span></p>

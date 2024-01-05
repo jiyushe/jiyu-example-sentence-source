@@ -1,5 +1,7 @@
 # 告捷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaojie_1.md)
+
 <p><span class="chinese">这个项目肯定会得到告捷。</span><span class="english">The project is certain to be a roaring success.</span></p>
 
 <p><span class="chinese">告捷来自于校服困难的奋斗。</span><span class="english">Success comes from struggle of conquering difficulties.</span></p>

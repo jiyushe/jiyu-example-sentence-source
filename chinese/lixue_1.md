@@ -1,5 +1,7 @@
 # 理学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lixue_1.md)
+
 <p><span class="chinese">该学院同时提供理学硕士和博士学位。</span><span class="english">It also provides MSc and PhD degrees.</span></p>
 
 <p><span class="chinese">1996年，日本东京大学，理学博士。</span><span class="english">Ph. D. in Science, University of Tokyo.</span></p>

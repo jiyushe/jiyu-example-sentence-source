@@ -1,5 +1,7 @@
 # hygienist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hygienist.md)
+
 <p><span class="chinese">我是个危险人物，我是牙医，是口腔保健师。</span><span class="english">I'm a menace , a dentist, an oral hygienist.</span></p>
 
 <p><span class="chinese">工作职责必须与牙科保健员相关。</span><span class="english">Tasks undertaken must be related to those of a Dental Hygienist.</span></p>

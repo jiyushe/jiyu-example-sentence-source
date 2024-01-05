@@ -1,5 +1,7 @@
 # perceptual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perceptual.md)
+
 <p><span class="chinese">它是一种由外而内转化抽象概念的能力。</span><span class="english">It is an inward sense of abstract perceptual shift.</span></p>
 
 <p><span class="chinese">三十年的驾驶工作经历已重塑他的感知系统。</span><span class="english">Three decades of this work have rejiggered his perceptual apparatus.</span></p>

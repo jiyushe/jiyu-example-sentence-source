@@ -1,5 +1,7 @@
 # catalyse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catalyse.md)
+
 <p><span class="chinese">莫迪在红堡发表的演说将促成其成为现实。</span><span class="english">Modis strong push from Red fort will only catalyse the possibility to reality.</span></p>
 
 <p><span class="chinese">这次会议旨在围绕五个重点领域促进全球采取协调一致的行动</span><span class="english">The conference will aim to catalyse coordinated global action in five key areas</span></p>

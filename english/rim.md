@@ -1,5 +1,7 @@
 # rim
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rim.md)
+
 <p><span class="chinese">向来情深，奈何缘浅。</span><span class="english">Always feeling, but rim shallow.</span></p>
 
 <p><span class="chinese">这个玻璃杯的边缘破掉了。</span><span class="english">The rim of the glass was broken.</span></p>

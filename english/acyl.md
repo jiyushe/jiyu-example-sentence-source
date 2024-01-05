@@ -1,5 +1,7 @@
 # acyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acyl.md)
+
 <p><span class="chinese">甲基麦角酰胺。</span><span class="english">Amine of acyl of ② methylic ergot.</span></p>
 
 <p><span class="chinese">乙酰基是酰基的一个例子。</span><span class="english">An example of the acyl group is the acetyl group.</span></p>

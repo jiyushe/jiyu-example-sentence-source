@@ -1,5 +1,7 @@
 # sonorous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sonorous.md)
+
 <p><span class="chinese">它在天顶上轰隆隆地行驶。</span><span class="english">It rolled on top of a sonorous vault.</span></p>
 
 <p><span class="chinese">塔里有一口洪亮的钟。</span><span class="english">There is a sonorous bell in the tower.</span></p>

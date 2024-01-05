@@ -1,5 +1,7 @@
 # tackle 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tackle.md)
+
 <p><span class="chinese">别太凶猛地拦截我。</span><span class="english">Don't tackle me too hard.</span></p>
 
 <p><span class="chinese">我可以租钓鱼用具吗？</span><span class="english">Can I rent fishing tackle?</span></p>

@@ -1,5 +1,7 @@
 # insolubility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insolubility.md)
+
 <p><span class="chinese">但由于几丁质和壳聚糖溶解性能差，大大限制了它们的应用。</span><span class="english">But chitin and chitosan's applications were limited for their insolubility in water.</span></p>
 
 <p><span class="chinese">碱式氯化锌是结晶粉末，是一种低污染的矿物元素，不易吸潮也不溶于水。</span><span class="english">It has low contamination of mineral elements, low hygroscopic and insolubility in water.</span></p>

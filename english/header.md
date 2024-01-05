@@ -1,5 +1,7 @@
 # header
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/header.md)
+
 <p><span class="chinese">然后创建一个表头。</span><span class="english">Then it creates a header.</span></p>
 
 <p><span class="chinese">于页首添加日期及时间。</span><span class="english">Adds date and time to the header.</span></p>

@@ -1,5 +1,7 @@
 # 饽饽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bobo_1.md)
+
 <p><span class="chinese">我们小时候常一起玩泥饽饽。</span><span class="english">We used to make mud pies when we were little.</span></p>
 
 <p><span class="chinese">我们这里有贴玉米饼、小米粥和菜饽饽。</span><span class="english">We have maize cake, millet gruel and vegetable pastry.</span></p>

@@ -1,5 +1,7 @@
 # flocculent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flocculent.md)
+
 <p><span class="chinese">提出改性淀粉絮凝剂未来的发展前景和研究方向。</span><span class="english">The advanced prospect and research aspect of modified starch flocculent were predicted.</span></p>
 
 <p><span class="chinese">由高强度絮状人工合成纤维高纯度分散体、特种密封剂、润滑剂。</span><span class="english">Flocculent by high-intensity artificial synthetic high-purity dispersions, special sealants, lubricants.</span></p>

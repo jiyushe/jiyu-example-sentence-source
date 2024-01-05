@@ -1,5 +1,7 @@
 # boreal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boreal.md)
+
 <p><span class="chinese">北方森林是横贯大陆的。</span><span class="english">The boreal forest is transcontinental.</span></p>
 
 <p><span class="chinese">事实上，主要的温带和北部森林的面积都在扩大。</span><span class="english">In fact all major temperate and boreal forests are expanding.</span></p>

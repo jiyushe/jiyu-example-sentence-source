@@ -1,5 +1,7 @@
 # 乡绅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangshen.md)
+
 <p><span class="chinese">不就是替一个有权有势的乡绅赶车吗？</span><span class="english">Does not he drive for Squire Make-a-stir?</span></p>
 
 <p><span class="chinese">乡绅和李甫西大夫都非常高兴。</span><span class="english">The squire and Dr Llvesey were delighted.</span></p>

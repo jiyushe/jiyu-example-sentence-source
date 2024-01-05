@@ -1,5 +1,7 @@
 # suction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suction.md)
+
 <p><span class="chinese">吸沙车清理沙井。</span><span class="english">Suction clean sand truck manhole.</span></p>
 
 <p><span class="chinese">吸风区可调节所需风量。</span><span class="english">The suction volume is adjustable.</span></p>

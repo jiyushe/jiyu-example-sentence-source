@@ -1,5 +1,7 @@
 # potentiostat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/potentiostat.md)
+
 <p><span class="chinese">在实验过程中，光电化学催化反应器中的阳极偏压由双显恒电位仪提供。</span><span class="english">A bias-voltage between two electrodes is supplied by a potentiostat in the experiment.</span></p>
 
 <p><span class="chinese">并将之与微小型恒电位仪整合，发展一套可携式丙酮气体感测器。</span><span class="english">It developed one portable acetone sensing system by integrating home-made potentiostat.</span></p>

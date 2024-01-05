@@ -1,5 +1,7 @@
 # wingtip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wingtip.md)
+
 <p><span class="chinese">每个翼尖都有强大的武器。</span><span class="english">Each wingtip holds powerful weapons.</span></p>
 
 <p><span class="chinese">其每个翼尖各有一门激光炮。</span><span class="english">Each wingtip also carries a laser cannon.</span></p>

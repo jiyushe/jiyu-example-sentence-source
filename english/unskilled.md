@@ -1,5 +1,7 @@
 # unskilled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unskilled.md)
+
 <p><span class="chinese">但是，没有技能的工人也在回去。</span><span class="english">But unskilled laborers are going back, too.</span></p>
 
 <p><span class="chinese">自动化使很多非技术工人受到淘汰。</span><span class="english">Automation has obsoleted many unskilled workers.</span></p>

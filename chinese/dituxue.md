@@ -1,5 +1,7 @@
 # 地图学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dituxue.md)
+
 <p><span class="chinese">地图投影是地图学的数学基础。</span><span class="english">Map projection is the basis of cartography.</span></p>
 
 <p><span class="chinese">地图制作的技术被称为地图学。</span><span class="english">The art of map making is called cartography.</span></p>

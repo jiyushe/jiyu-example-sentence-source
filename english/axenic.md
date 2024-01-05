@@ -1,5 +1,7 @@
 # axenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/axenic.md)
+
 <p><span class="chinese">在各种规定的培养基上可得到锈菌的单体纯净培养物。</span><span class="english">The axenic culture of rusts has been achieved on various defined media.</span></p>
 
 <p><span class="chinese">达到了无菌培养和细胞壁再生。</span><span class="english">Axenic cultures were obtained and cell wall regenerated during subsequent culture.</span></p>

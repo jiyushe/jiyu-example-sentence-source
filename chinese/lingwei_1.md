@@ -1,5 +1,7 @@
 # 零位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingwei_1.md)
+
 <p><span class="chinese">自动零位跟踪功能。</span><span class="english">Have functioNS of automatic zero follow.</span></p>
 
 <p><span class="chinese">重力值是通过使横臂恢复零位而测定的。</span><span class="english">The gravity is measured by nulling the beam.</span></p>

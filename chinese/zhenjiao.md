@@ -1,5 +1,7 @@
 # 针脚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenjiao.md)
+
 <p><span class="chinese">针脚很匀。</span><span class="english">The stitches are neat.</span></p>
 
 <p><span class="chinese">她用粗针脚把褶子都缝住了。</span><span class="english">She tacked the pleats down.</span></p>

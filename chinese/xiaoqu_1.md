@@ -1,5 +1,7 @@
 # 小觑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoqu_1.md)
+
 <p><span class="chinese">但是菲亚特也不容小觑。</span><span class="english">But Fiat also has an influential supporter.</span></p>
 
 <p><span class="chinese">千万别小觑了这区区的题材小事。</span><span class="english">We should never underestimate the issue of theme.</span></p>

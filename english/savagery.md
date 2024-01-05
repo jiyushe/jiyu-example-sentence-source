@@ -1,5 +1,7 @@
 # savagery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/savagery.md)
+
 <p><span class="chinese">他已经成为了拥有自然狂猛野性的战士。</span><span class="english">He has grown into a warrior at one with nature's savagery.</span></p>
 
 <p><span class="chinese">他的野蛮好斗的名声纯系神话。</span><span class="english">His reputation for savagery and belligerence is nothing but a myth.</span></p>

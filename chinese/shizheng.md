@@ -1,5 +1,7 @@
 # 实证
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizheng.md)
+
 <p><span class="chinese">第4章为实证分析。</span><span class="english">Part 4 is empirical research.</span></p>
 
 <p><span class="chinese">第三章是一个小样本的实证研究。</span><span class="english">The third part is a positive study.</span></p>

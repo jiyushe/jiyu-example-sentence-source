@@ -1,5 +1,7 @@
 # mitochondrion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mitochondrion.md)
+
 <p><span class="chinese">线粒体中有多少质子？</span><span class="english">How Many Protons in a Mitochondrion?</span></p>
 
 <p><span class="chinese">细胞色素氧化酶反应与电镜观察结果表明人毛滴虫缺乏线粒体。</span><span class="english">It is proved that there isn't any mitochondrion in trichomonas hominis.</span></p>

@@ -1,5 +1,7 @@
 # 望远镜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangyuanjing.md)
+
 <p><span class="chinese">这台望远镜拥有三台高灵敏度的红外照相机。</span><span class="english">sensitive infrared cameras.</span></p>
 
 <p><span class="chinese">他再次举起自己的望远镜。</span><span class="english">He lifted his spyglass again.</span></p>

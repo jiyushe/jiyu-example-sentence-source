@@ -1,5 +1,7 @@
 # standby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/standby.md)
+
 <p><span class="chinese">低电流待机模式。</span><span class="english">Low-Current Standby Mode.</span></p>
 
 <p><span class="chinese">待机时间就更不重要了。</span><span class="english">Standby time is even less relevant.</span></p>

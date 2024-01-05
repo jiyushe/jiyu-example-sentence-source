@@ -1,5 +1,7 @@
 # 唯物主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weiwuzhuyi.md)
+
 <p><span class="chinese">唯物主义的危险。</span><span class="english">The dangers of materialism.</span></p>
 
 <p><span class="chinese">这是个唯物主义的观念</span><span class="english">This is a materialist view.</span></p>

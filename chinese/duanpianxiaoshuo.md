@@ -1,5 +1,7 @@
 # 短篇小说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duanpianxiaoshuo.md)
+
 <p><span class="chinese">杂志开始刊载她的短篇小说。</span><span class="english">Magazines begin publishing her stories.</span></p>
 
 <p><span class="chinese">她被称为“短篇小说界里的乔伊斯”。</span><span class="english">She is known as "Joice of short stories".</span></p>

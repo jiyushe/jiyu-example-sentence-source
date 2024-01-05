@@ -1,5 +1,7 @@
 # 威势
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weishi_4.md)
+
 <p><span class="chinese">那个国王是个威势无比的君主而且十分傲慢，生性残暴，待人苛刻。</span><span class="english">The King is a mighty monarch but full of pride, harsh and cruel.</span></p>
 
 <p><span class="chinese">大家都知道猫是爱，真正拿出大的威势来海洋生物。</span><span class="english">We all know that cats are loving and truly awe-inspiring creatures.</span></p>

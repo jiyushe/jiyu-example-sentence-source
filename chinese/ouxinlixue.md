@@ -1,5 +1,7 @@
 # 呕心沥血
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ouxinlixue.md)
+
 <p><span class="chinese">我为这个杂志呕心沥血。</span><span class="english">I have bled for this magazine.</span></p>
 
 <p><span class="chinese">李老师总是呕心沥血地为我们精选习题。</span><span class="english">Mr Li always selects exercises for us.</span></p>

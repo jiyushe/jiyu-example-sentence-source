@@ -1,5 +1,7 @@
 # reconstituted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reconstituted.md)
+
 <p><span class="chinese">在门厅使用人工大理石进行贴面。</span><span class="english">Laying of the reconstituted stone surfacing in the foyer.</span></p>
 
 <p><span class="chinese">伊拉克已经宣布重新建造了铸造室。</span><span class="english">Iraq has declared that it has reconstituted these chambers.</span></p>

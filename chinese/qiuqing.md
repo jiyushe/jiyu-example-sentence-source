@@ -1,5 +1,7 @@
 # 求情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiuqing.md)
+
 <p><span class="chinese">不求情意浓，但愿情长久。</span><span class="english">Not love, love me long.</span></p>
 
 <p><span class="chinese">他替我向父亲求情。</span><span class="english">She interceded with my father for me.</span></p>

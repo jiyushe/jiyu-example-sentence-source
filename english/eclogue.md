@@ -1,5 +1,7 @@
 # eclogue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eclogue.md)
+
 <p><span class="chinese">然而简单地存放数据是不够的。</span><span class="english">In short, the eclogue took place.</span></p>
 
 <p><span class="chinese">大调为钢琴而作的第1田园诗曲。</span><span class="english">Eclogue No. 1, for piano in F major.</span></p>

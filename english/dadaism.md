@@ -1,5 +1,7 @@
 # dadaism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dadaism.md)
+
 <p><span class="chinese">它可以被看作是一种从达达主义中产生的中国版本的观念艺术。</span><span class="english">It can be considered a Chinese derivative of the conceptual art of Dadaism.</span></p>
 
 <p><span class="chinese">达达主义设问“什么是艺术？”并用幽默和令人震惊的色彩和手法作为表达元素。</span><span class="english">Dadaism asked"what is art"and used humor and shock value as communicative elements.</span></p>

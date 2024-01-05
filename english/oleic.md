@@ -1,5 +1,7 @@
 # oleic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oleic.md)
+
 <p><span class="chinese">它的维他命E、抗氧化剂以及油酸的含量极高。</span><span class="english">It's high in vitamin E, antioxidants and oleic acid.</span></p>
 
 <p><span class="chinese">抗坏血酸油酸酯具有强抗氧化作用。</span><span class="english">Ascorbyl oleic acid ester is a good kind of antioxidant.</span></p>

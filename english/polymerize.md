@@ -1,5 +1,7 @@
 # polymerize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polymerize.md)
+
 <p><span class="chinese">辐射瞬间聚合车辆，干燥，硬热固性树脂。</span><span class="english">Radiation instantly polymerize the vehicle to a dry, tough thermosetting resin.</span></p>
 
 <p><span class="chinese">然而它在特定的环境下将会以极慢的速率发生分子凝集作用。</span><span class="english">However it will polymerize at a very slow rate under certain environmental condition.</span></p>

@@ -1,5 +1,7 @@
 # twine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/twine.md)
+
 <p><span class="chinese">他用细绳来捆扎包裹。</span><span class="english">He tied the parcel with twine.</span></p>
 
 <p><span class="chinese">用麻绳构造一个椒盐卷饼形状。</span><span class="english">Form a pretzel-like shape with the twine.</span></p>

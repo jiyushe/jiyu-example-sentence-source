@@ -1,5 +1,7 @@
 # encode
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/encode.md)
+
 <p><span class="chinese">＃以JSON格式编码数据。</span><span class="english">Encode the data in JSON format.</span></p>
 
 <p><span class="chinese">现在，你还可以进行MPEG-1类型的编码。</span><span class="english">You can also encode to MPEG-1 as of now.</span></p>

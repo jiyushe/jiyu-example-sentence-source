@@ -1,5 +1,7 @@
 # unpleasantness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unpleasantness.md)
+
 <p><span class="chinese">怎么忘记所有的不愉快?。</span><span class="english">How to forget all unpleasantness?</span></p>
 
 <p><span class="chinese">但他们不希望出现不愉快。</span><span class="english">But they don't want unpleasantness.'</span></p>

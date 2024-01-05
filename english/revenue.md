@@ -1,5 +1,7 @@
 # revenue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revenue.md)
+
 <p><span class="chinese">而多的部分就是来自服务收入。</span><span class="english">Much of revenue was from service.</span></p>
 
 <p><span class="chinese">每延吨公里平均收入?。</span><span class="english">Average Revenue Per Ton-Kilometer?</span></p>

@@ -1,5 +1,7 @@
 # explicable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/explicable.md)
+
 <p><span class="chinese">销售额的突然增加是很容易理解的。</span><span class="english">The sudden increase in sales is easily explicable.</span></p>
 
 <p><span class="chinese">我国消费率合理性的评判标准——钱纳里模型能解释吗?。</span><span class="english">Is China's Consumption Rate Explicable by Chenery's Model?</span></p>

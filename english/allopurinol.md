@@ -1,5 +1,7 @@
 # allopurinol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allopurinol.md)
+
 <p><span class="chinese">别嘌呤醇是一种合适的长期降尿酸药物。</span><span class="english">Allopurinol is an appropriate long term urate lowering therapy.</span></p>
 
 <p><span class="chinese">报告1例别嘌呤醇所致药物超敏综合征。</span><span class="english">A case of drug hypersensitivity syndrome caused by allopurinol was reported.</span></p>

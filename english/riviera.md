@@ -1,5 +1,7 @@
 # riviera
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/riviera.md)
+
 <p><span class="chinese">我们在里维埃拉过冬。</span><span class="english">We wintered on the Riviera.</span></p>
 
 <p><span class="chinese">他在里维埃拉有一所别墅。</span><span class="english">He has a villa on the Riviera.</span></p>

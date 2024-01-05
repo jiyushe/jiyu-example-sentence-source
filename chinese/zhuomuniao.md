@@ -1,5 +1,7 @@
 # 啄木鸟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuomuniao.md)
+
 <p><span class="chinese">啄木鸟是怎样啄洞的？</span><span class="english">How do woodpeckers peck?</span></p>
 
 <p><span class="chinese">啄木鸟吃什么？</span><span class="english">What do woodpeckers eat?</span></p>

@@ -1,5 +1,7 @@
 # kin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kin.md)
+
 <p><span class="chinese">第一个答案是亲缘选择。</span><span class="english">One answer is kin selection.</span></p>
 
 <p><span class="chinese">我认为自由和权威是有联系的。</span><span class="english">I feel freedom and authority are kin.</span></p>

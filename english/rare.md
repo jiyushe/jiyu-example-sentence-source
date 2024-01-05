@@ -1,5 +1,7 @@
 # rare 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rare.md)
+
 <p><span class="chinese">这是一本不可多得的珍本。</span><span class="english">It's a rare book.</span></p>
 
 <p><span class="chinese">我想有一份半熟的牛排。</span><span class="english">I'll have mine rare.</span></p>

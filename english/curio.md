@@ -1,5 +1,7 @@
 # curio
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curio.md)
+
 <p><span class="chinese">这种古玩已经多次转手了。</span><span class="english">This curio has passed throgh many hands.</span></p>
 
 <p><span class="chinese">别把时间都浪费在搜集古玩上面。</span><span class="english">Don't trifle away your time on curio hunting.</span></p>

@@ -1,5 +1,7 @@
 # luzon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luzon.md)
+
 <p><span class="chinese">卡加延省，吕宋。</span><span class="english">Cagayan Province, Luzon.</span></p>
 
 <p><span class="chinese">这场风灾在吕宋岛，造成三十人丧生，十二人失踪。</span><span class="english">Typhoon Mindulle took 30 lives and left 12 missing in Luzon.</span></p>

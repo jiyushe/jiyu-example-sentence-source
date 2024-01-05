@@ -1,5 +1,7 @@
 # juba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/juba.md)
+
 <p><span class="chinese">当人们说起朱巴是首都城市的时候，我感到很自豪。</span><span class="english">I feel proud when someone says that Juba is the capital city.</span></p>
 
 <p><span class="chinese">所有报告的病例都集中在苏丹南部的耶伊和朱巴镇。</span><span class="english">All reported cases are concentrated in Yei and Juba towns of southern Sudan.</span></p>

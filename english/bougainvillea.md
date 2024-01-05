@@ -1,5 +1,7 @@
 # bougainvillea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bougainvillea.md)
+
 <p><span class="chinese">勒杜鹃是深圳的市花。</span><span class="english">Bougainvillea is the city flower.</span></p>
 
 <p><span class="chinese">我第一次见到簕杜鹃是12年前随爸妈来深圳安家的时候。</span><span class="english">I was first impressed by bougainvillea about 12 years ago when we moved to settle down here.</span></p>

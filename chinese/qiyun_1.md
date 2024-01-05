@@ -1,5 +1,7 @@
 # 气运
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiyun_1.md)
+
 <p><span class="chinese">我祝大家在新的一年里都有好气运！</span><span class="english">I wish everyone good luck in the new year!</span></p>
 
 <p><span class="chinese">另配有气运退销装置。</span><span class="english">It has pneumatic device to release the pin.</span></p>

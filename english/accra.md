@@ -1,5 +1,7 @@
 # accra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accra.md)
+
 <p><span class="chinese">飞往阿克拉的班机一星期开两班。</span><span class="english">The flight to Accra goes twice a week.</span></p>
 
 <p><span class="chinese">现在，阿克拉的一条路被命名为乔治.W.布什。</span><span class="english">Now George W. Bush has his own road in Accra.</span></p>

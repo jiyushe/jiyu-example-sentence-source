@@ -1,5 +1,7 @@
 # insipidity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insipidity.md)
+
 <p><span class="chinese">请做得清淡些。</span><span class="english">Please do it more insipidity.</span></p>
 
 <p><span class="chinese">那么压抑，生活是如此的苦涩无味。</span><span class="english">So depressed, life is so bitter insipidity.</span></p>

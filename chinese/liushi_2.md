@@ -1,5 +1,7 @@
 # 流食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liushi_2.md)
+
 <p><span class="chinese">手术之后医生规定他吃流食。</span><span class="english">The doctor put him on a liquid diet after operation.</span></p>
 
 <p><span class="chinese">医生规定这个生病的孩子吃流食。</span><span class="english">The doctor prescribed a juice diet for the sick child.</span></p>

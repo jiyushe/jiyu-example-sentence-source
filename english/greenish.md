@@ -1,5 +1,7 @@
 # greenish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greenish.md)
+
 <p><span class="chinese">果皮绿黄色。</span><span class="english">The skin is greenish yellow.</span></p>
 
 <p><span class="chinese">他们说它是相当淡的绿色或青绿色。</span><span class="english">A pale blue to light greenish blue.</span></p>

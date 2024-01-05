@@ -1,5 +1,7 @@
 # before
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/before.md)
+
 <p><span class="chinese">在我死之前。</span><span class="english">Before I die.</span></p>
 
 <p><span class="chinese">睡前散散步。</span><span class="english">Walk before bed.</span></p>

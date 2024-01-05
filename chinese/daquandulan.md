@@ -1,5 +1,7 @@
 # 大权独揽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daquandulan.md)
+
 <p><span class="chinese">民众谴责工党政府试图大权独揽。</span><span class="english">People are charging the Labour government with bossiness.</span></p>
 
 <p><span class="chinese">在查理斯任CEO大权独揽之后，科赫工业集团扩张迅速。</span><span class="english">With Charles as the undisputed chairman and C.E.O., Koch Industries expanded rapidly.</span></p>

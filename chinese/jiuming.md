@@ -1,5 +1,7 @@
 # 救命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuming.md)
+
 <p><span class="chinese">我的妈呀，救命啊。</span><span class="english">My mama ah, help.</span></p>
 
 <p><span class="chinese">再说他还是你的救命恩人。</span><span class="english">After all he was your savior.</span></p>

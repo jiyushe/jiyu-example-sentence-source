@@ -1,5 +1,7 @@
 # warsong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/warsong.md)
+
 <p><span class="chinese">佐拉姆加前哨站将会变为一座战歌堡风格的要塞。</span><span class="english">Zoram'gar Outpost will be a Warsong Hold style base.</span></p>
 
 <p><span class="chinese">这里长眠着格罗姆•地狱咆哮，战歌氏族的酋长。</span><span class="english">Here lies Grommash Hellscream, Chieftain of the Warsong Clan.</span></p>

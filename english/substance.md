@@ -1,5 +1,7 @@
 # substance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/substance.md)
+
 <p><span class="chinese">我们有一种工作物质。</span><span class="english">We have a substance.</span></p>
 
 <p><span class="chinese">盐是一种有用的物质。</span><span class="english">Salt is a useful substance.</span></p>

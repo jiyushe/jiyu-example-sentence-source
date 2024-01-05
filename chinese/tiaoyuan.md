@@ -1,5 +1,7 @@
 # 跳远
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaoyuan.md)
+
 <p><span class="chinese">她是一名跳远运动员。</span><span class="english">She's a long-jumper.</span></p>
 
 <p><span class="chinese">他保持着跳远的记录。</span><span class="english">He holds the long-jump record.</span></p>

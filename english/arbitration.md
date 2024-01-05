@@ -1,5 +1,7 @@
 # arbitration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arbitration.md)
+
 <p><span class="chinese">仲裁对他们不利。</span><span class="english">The arbitration is against them.</span></p>
 
 <p><span class="chinese">此事已通过强制性仲裁得到解决。</span><span class="english">It was settled by compulsory arbitration.</span></p>

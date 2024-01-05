@@ -1,5 +1,7 @@
 # 公告
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gonggao.md)
+
 <p><span class="chinese">⑤公告风险控制制度。</span><span class="english">Fifth, post risk-control system.</span></p>
 
 <p><span class="chinese">他在布告板上贴了一张公告。</span><span class="english">He posted a bulletin on the board.</span></p>

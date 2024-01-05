@@ -1,5 +1,7 @@
 # 愕然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/eran.md)
+
 <p><span class="chinese">我觉得非常愕然。</span><span class="english">I was extremely stunned.</span></p>
 
 <p><span class="chinese">那步哨愕然地举起双手。</span><span class="english">The sentry held up his hands in astonishment.</span></p>

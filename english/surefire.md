@@ -1,5 +1,7 @@
 # surefire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surefire.md)
+
 <p><span class="chinese">我必须在我的电池使用神火手电筒？</span><span class="english">Must I use SureFire batteries in my flashlight?</span></p>
 
 <p><span class="chinese">困难是你最终成功的必经之路。</span><span class="english">That’s your surefire route to ultimate success.</span></p>

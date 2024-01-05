@@ -1,5 +1,7 @@
 # trespass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trespass.md)
+
 <p><span class="chinese">我要来打扰你了。</span><span class="english">I will trespass on your hospitality.</span></p>
 
 <p><span class="chinese">可否借用贵报一点宝贵的篇幅。</span><span class="english">May I trespass on your valuable space.</span></p>

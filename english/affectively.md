@@ -1,5 +1,7 @@
 # affectively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affectively.md)
+
 <p><span class="chinese">必须采取措施进行有效地治理与生态调控。</span><span class="english">Must adopting the measure of ecological control affectively.</span></p>
 
 <p><span class="chinese">清晰自然，抗冲击，有效阻拦紫外线，眩光及散射光。</span><span class="english">Clear natural, anti-impact, affectively stopping ultraviolet radiation, scattered light.</span></p>

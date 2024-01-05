@@ -1,5 +1,7 @@
 # sterilize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sterilize.md)
+
 <p><span class="chinese">每天替婴儿所用的奶瓶消毒。</span><span class="english">Sterilize baby bottles every day.</span></p>
 
 <p><span class="chinese">辐射还能对肉类进行消毒。</span><span class="english">Irradiation can also sterilize meat.</span></p>

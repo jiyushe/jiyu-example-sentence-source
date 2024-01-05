@@ -1,5 +1,7 @@
 # capitalization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capitalization.md)
+
 <p><span class="chinese">它是资本加权指数还是价格加权指数？</span><span class="english">Is the index capitalization weighted or price weighted?</span></p>
 
 <p><span class="chinese">指数所代表的流通股权市值有多少？</span><span class="english">What is the market capitalization represented by the index?</span></p>

@@ -1,5 +1,7 @@
 # 活蹦乱跳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huobengluantiao.md)
+
 <p><span class="chinese">你看，我还是活蹦乱跳的。</span><span class="english">Well, I am still alive and kicking.</span></p>
 
 <p><span class="chinese">瞧瞧他，又活蹦乱跳的了。</span><span class="english">Look , he is alive and kicking again.</span></p>

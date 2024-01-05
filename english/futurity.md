@@ -1,5 +1,7 @@
 # futurity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/futurity.md)
+
 <p><span class="chinese">后人对我们将如何看待?</span><span class="english">How will futurity regard us?</span></p>
 
 <p><span class="chinese">我们应该展望未来。</span><span class="english">We should look for ward to the futurity.</span></p>

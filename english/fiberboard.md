@@ -1,5 +1,7 @@
 # fiberboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fiberboard.md)
+
 <p><span class="chinese">避免纤维板容器上的包装纸。</span><span class="english">Avoid using paper wrappers on fiberboard containers.</span></p>
 
 <p><span class="chinese">纤维板或V板容器证明并不适合实际在战地使用。</span><span class="english">Fiberboard or V-board containers did not prove practical for field use.</span></p>

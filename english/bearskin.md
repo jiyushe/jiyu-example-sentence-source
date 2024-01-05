@@ -1,5 +1,7 @@
 # bearskin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bearskin.md)
+
 <p><span class="chinese">“你可以成为熊毛地毯，”一些人说。</span><span class="english">"You can be a bearskin rug, "said some people.</span></p>
 
 <p><span class="chinese">不要在抓住熊之前就把熊皮卖掉！</span><span class="english">Don't sell the bearskin before the bear was caught!</span></p>

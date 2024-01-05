@@ -1,5 +1,7 @@
 # adenoidectomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adenoidectomy.md)
+
 <p><span class="chinese">她有一个腺样体切除术10岁的时候。</span><span class="english">She had had an adenoidectomy at the age of 10 years.</span></p>
 
 <p><span class="chinese">回顾性分析在我院施行腺样体切除术52例病例的临床资料。</span><span class="english">Methods Retrospectively analyzed 52 cases of adenoidectomy with nasal endoscope.</span></p>

@@ -1,5 +1,7 @@
 # irritant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irritant.md)
+
 <p><span class="chinese">在所有伟大的创新背后都有某个刺激性的东西。</span><span class="english">Behind any great innovation, there's an irritant.</span></p>
 
 <p><span class="chinese">苯乙胺也是皮肤刺激剂与可能的感光剂。</span><span class="english">Phenethylamine is also a skin irritant and possible sensitizer.</span></p>

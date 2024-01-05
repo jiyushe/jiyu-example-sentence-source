@@ -1,5 +1,7 @@
 # ct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ct.md)
+
 <p><span class="chinese">该患者CD4多少？CT片子能发上来？</span><span class="english">How about CD4? Can send CT film here?</span></p>
 
 <p><span class="chinese">CT采用胶体金斑点法，UU等均采用培养法。</span><span class="english">Using colloid golden spot to detect CT.</span></p>

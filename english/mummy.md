@@ -1,5 +1,7 @@
 # mummy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mummy.md)
+
 <p><span class="chinese">妈咪、爸比会伤心。</span><span class="english">Mummy and Daddy will be sad.</span></p>
 
 <p><span class="chinese">女巫干尸貌狰狞。</span><span class="english">Witches' mummy  maw and  gulf.</span></p>

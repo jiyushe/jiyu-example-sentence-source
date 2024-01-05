@@ -1,5 +1,7 @@
 # veritably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/veritably.md)
+
 <p><span class="chinese">我真的不明白。</span><span class="english">I didn't understand veritably.</span></p>
 
 <p><span class="chinese">一直到这俩车报废，你几乎没有真正的拥有过它也没有真正享受过它。</span><span class="english">You have almost never own it nor enjoy it veritably even it ruined.</span></p>

@@ -1,5 +1,7 @@
 # 再三
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaisan.md)
+
 <p><span class="chinese">再三道歉。</span><span class="english">Apologize repeatedly.</span></p>
 
 <p><span class="chinese">这样再三地。</span><span class="english">This again and again.</span></p>

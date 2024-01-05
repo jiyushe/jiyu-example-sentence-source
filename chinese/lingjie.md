@@ -1,5 +1,7 @@
 # 领结
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingjie.md)
+
 <p><span class="chinese">领结也很酷。</span><span class="english">And bow ties are cool.</span></p>
 
 <p><span class="chinese">他还系领结。</span><span class="english">He also wears bow ties.</span></p>

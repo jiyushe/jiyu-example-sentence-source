@@ -1,5 +1,7 @@
 # aggradation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aggradation.md)
+
 <p><span class="chinese">污泥沉积池罩是污泥沉积池的重要部件。</span><span class="english">The cover is an important component of the sludge aggradation tank.</span></p>
 
 <p><span class="chinese">河流系统演化是一个堆积与切割相互作用的过程。</span><span class="english">Development of fluvial system is a process of reaction of aggradation and incision.</span></p>

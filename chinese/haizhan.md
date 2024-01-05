@@ -1,5 +1,7 @@
 # 海战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haizhan.md)
+
 <p><span class="chinese">那就包括海战队和空军，海军和陆军。</span><span class="english">So it's marine force, air force, navy and army.</span></p>
 
 <p><span class="chinese">在海战结束后如何补充船员数量？</span><span class="english">How are lost crew numbers replenished post-battle?</span></p>

@@ -1,5 +1,7 @@
 # 时来运转
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shilaiyunzhuan.md)
+
 <p><span class="chinese">我们会时来运转的。</span><span class="english">Our time will come.</span></p>
 
 <p><span class="chinese">那天晚上我时来运转了。</span><span class="english">That evening my lucks turns.</span></p>

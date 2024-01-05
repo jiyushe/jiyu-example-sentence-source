@@ -1,5 +1,7 @@
 # deflationary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deflationary.md)
+
 <p><span class="chinese">雷孟达的声音有着算计和紧缩的效果。</span><span class="english">De Roquefort’s voice had a calculating and deflationary effect.</span></p>
 
 <p><span class="chinese">这样就会使金币标准可操作了因为不会引起通货紧缩。</span><span class="english">That would make a gold standard practicable and not too deflationary.</span></p>

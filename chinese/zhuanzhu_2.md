@@ -1,5 +1,7 @@
 # 转注
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanzhu_2.md)
+
 <p><span class="chinese">并认为转注也是一种比较特殊的造字法，从而对其进行了新的诠释。</span><span class="english">In addition, the paper also provides the new interpretation to the Zhuanzhu.</span></p>
 
 <p><span class="chinese">通过对实验结果的分析，寻找油田保持压力的界限及最佳转注时机。</span><span class="english">By analyzing the experiment data, the optimum time of water injection could be found.</span></p>

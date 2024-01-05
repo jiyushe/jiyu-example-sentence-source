@@ -1,5 +1,7 @@
 # 实行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shixing_1.md)
+
 <p><span class="chinese">为什么实行夏时制的日子被称为“绿色日子”？</span><span class="english">Green days.</span></p>
 
 <p><span class="chinese">我们实行的工作是两班倒。</span><span class="english">We work in two shifts.</span></p>

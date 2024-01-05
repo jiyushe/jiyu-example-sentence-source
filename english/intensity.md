@@ -1,5 +1,7 @@
 # intensity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intensity.md)
+
 <p><span class="chinese">单位面积上的发光强度。</span><span class="english">The luminous intensity on unit area.</span></p>
 
 <p><span class="chinese">他的比赛强度和对节奏性都在增长。</span><span class="english">His intensity and rhythm only increase.</span></p>

@@ -1,5 +1,7 @@
 # 熟习
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuxi.md)
+
 <p><span class="chinese">我和他不够熟习，不好请他佐理。</span><span class="english">I don't know him well enough to ask him for help.</span></p>
 
 <p><span class="chinese">小到每一个经过的角落都刻下了熟习的脚印。</span><span class="english">That every corner is stamped by familiar footprints.</span></p>

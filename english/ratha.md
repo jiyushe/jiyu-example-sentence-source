@@ -1,5 +1,7 @@
 # ratha
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ratha.md)
+
 <p><span class="chinese">他的维亚萨座位在檀车上准备好了，但他决定与奉献者一起行走。</span><span class="english">His Vyasasana was available on the Ratha cart, but he decided to walk with the devotees.</span></p>
 
 <p><span class="chinese">而且不确定的货币流动也会对汇款流量产生无法预测的影响。</span><span class="english">Also uncertain currency movements can have unpredictable effects on remittance flows,” Ratha added.</span></p>

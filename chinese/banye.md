@@ -1,5 +1,7 @@
 # 半夜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banye.md)
+
 <p><span class="chinese">我一直睡到半夜时醒了。</span><span class="english">I slept until midnight.</span></p>
 
 <p><span class="chinese">他看了看月亮，估计时间是半夜了。</span><span class="english">What do you make the time?</span></p>

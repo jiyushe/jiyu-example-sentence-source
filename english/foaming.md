@@ -1,5 +1,7 @@
 # foaming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foaming.md)
+
 <p><span class="chinese">低泡洗衣粉。</span><span class="english">Low foaming detergent.</span></p>
 
 <p><span class="chinese">我们发现一只垂死的狗口吐泡沫。</span><span class="english">We found a dying dog foaming at the mouth.</span></p>

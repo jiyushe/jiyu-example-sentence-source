@@ -1,5 +1,7 @@
 # isolate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isolate.md)
+
 <p><span class="chinese">好，我不想与世孤立。</span><span class="english">Okay, I'm not gonna isolate.</span></p>
 
 <p><span class="chinese">我们知道如何隔离家禽。</span><span class="english">We know how to isolate poultry.</span></p>

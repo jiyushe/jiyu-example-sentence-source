@@ -1,5 +1,7 @@
 # 死对头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siduitou.md)
+
 <p><span class="chinese">在对阵我们死对头的比赛中出场并且获得进球就像是一场梦。”兰斯布里说道。</span><span class="english">To come in against our rivals and score is a dream, " said Lansbury."</span></p>
 
 <p><span class="chinese">我们的足球队今晚要和我们长期以来的死对头决一胜负。</span><span class="english">Our football team will compete against our long-time adversary tonight.</span></p>

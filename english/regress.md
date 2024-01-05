@@ -1,5 +1,7 @@
 # regress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regress.md)
+
 <p><span class="chinese">在胜利的时刻，我们后退了。</span><span class="english">At the moment of victory, we regress.</span></p>
 
 <p><span class="chinese">他不可能前进甚至是倒退。</span><span class="english">He may not move forward or even regress.</span></p>

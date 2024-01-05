@@ -1,5 +1,7 @@
 # 自然主义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziranzhuyi.md)
+
 <p><span class="chinese">——自然主义者大卫·艾登堡</span><span class="english">David Attenborough, naturalist</span></p>
 
 <p><span class="chinese">我们都是天生的超自然主义者。</span><span class="english">We are natural-born supernaturalists.</span></p>

@@ -1,5 +1,7 @@
 # granny 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/granny.md)
+
 <p><span class="chinese">但是奶奶都懂。</span><span class="english">But Granny understood.</span></p>
 
 <p><span class="chinese">到底虎妞喜欢奶奶么？</span><span class="english">Do I really like granny?</span></p>

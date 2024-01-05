@@ -1,5 +1,7 @@
 # insignificant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insignificant.md)
+
 <p><span class="chinese">此种统计是没有意义的。</span><span class="english">statistically insignificant.</span></p>
 
 <p><span class="chinese">间断性可以忽略不计。</span><span class="english">The discontinuity can be insignificant.</span></p>

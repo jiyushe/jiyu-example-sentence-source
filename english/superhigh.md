@@ -1,5 +1,7 @@
 # superhigh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superhigh.md)
+
 <p><span class="chinese">又一座摩天大楼在我们的城市之中耸立起来。</span><span class="english">Another superhigh building has sprung in our city.</span></p>
 
 <p><span class="chinese">他的作品-电子超高速公路有12米宽，4.5米高。</span><span class="english">His electronic superhigh way is 12meters wide and 4.5meters tall.</span></p>

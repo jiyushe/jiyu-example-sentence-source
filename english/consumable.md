@@ -1,5 +1,7 @@
 # consumable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consumable.md)
+
 <p><span class="chinese">无任何耗材，使用成本低。</span><span class="english">No any consumable , low practical cost.</span></p>
 
 <p><span class="chinese">调查需要迅速并且是可消耗的。</span><span class="english">The surveys need to be speedy and consumable.</span></p>

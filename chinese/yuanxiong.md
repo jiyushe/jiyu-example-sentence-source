@@ -1,5 +1,7 @@
 # 元凶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanxiong.md)
+
 <p><span class="chinese">水火是忠仆，造灾成元凶。</span><span class="english">Fire and water are good servants but bad masters.</span></p>
 
 <p><span class="chinese">如果我告诉你，典狱长才是害死我老婆的元凶，你会怎么说？</span><span class="english">Why say that I told you that My wife is a murderer?</span></p>

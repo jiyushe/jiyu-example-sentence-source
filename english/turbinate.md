@@ -1,5 +1,7 @@
 # turbinate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turbinate.md)
+
 <p><span class="chinese">现有治鼻窦炎和下鼻甲肥厚症。</span><span class="english">The existing rule sinusitis and inferior turbinate hypertrophy disease.</span></p>
 
 <p><span class="chinese">如果术者有足够之经验，KTP雷射是一个实施下鼻甲缩小手术不错的工具。</span><span class="english">In experienced hands, the KTP laser should be an useful tool for inferior turbinate surgery.</span></p>

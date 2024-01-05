@@ -1,5 +1,7 @@
 # bivouac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bivouac.md)
+
 <p><span class="chinese">在人生征途的露宿营地。</span><span class="english">In the bivouac of Life.</span></p>
 
 <p><span class="chinese">在人生逆旅的露营中。</span><span class="english">In the bivouac of Life.</span></p>

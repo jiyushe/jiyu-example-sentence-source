@@ -1,5 +1,7 @@
 # slightness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slightness.md)
+
 <p><span class="chinese">此油道属细长孔，且于轴线成一定的角度。</span><span class="english">The lubricative path is a slightness hole which is oblique to the crank.</span></p>
 
 <p><span class="chinese">细长丝杠的车削是车工工艺的难点。</span><span class="english">The turning of slightness leading screw is the difficulty of techniques for lathemen.</span></p>

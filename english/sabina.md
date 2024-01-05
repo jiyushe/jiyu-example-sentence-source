@@ -1,5 +1,7 @@
 # sabina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sabina.md)
+
 <p><span class="chinese">然后我将会要求伯母萨拜娜为我们翻译。</span><span class="english">Then I will ask Aunt Sabina to translate for us.</span></p>
 
 <p><span class="chinese">而且伯母萨拜娜不为我们介意翻译，如此你能回答在华语。</span><span class="english">And Aunt Sabina does not mind translating for us so you can answer in Chinese.</span></p>

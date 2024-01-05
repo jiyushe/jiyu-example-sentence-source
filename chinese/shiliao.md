@@ -1,5 +1,7 @@
 # 史料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiliao.md)
+
 <p><span class="chinese">在雅典,史料记载的年龄是20岁</span><span class="english">In Athens, in classical times it was 20.</span></p>
 
 <p><span class="chinese">蒙古人没有多少文字史料。</span><span class="english">Mongolian people don't have many written historical records.</span></p>

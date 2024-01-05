@@ -1,5 +1,7 @@
 # potomac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/potomac.md)
+
 <p><span class="chinese">波托马克河边的篝火晚会。</span><span class="english">A Bivouac Fire on the Potomac.</span></p>
 
 <p><span class="chinese">波多马克的士兵——枕着自己的臂膀睡觉。</span><span class="english">Army of the Potomac — Sleeping on Their Arms.</span></p>

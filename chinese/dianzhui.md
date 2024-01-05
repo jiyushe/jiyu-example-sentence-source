@@ -1,5 +1,7 @@
 # 点缀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianzhui.md)
+
 <p><span class="chinese">蝴蝶结在鞋面点缀。</span><span class="english">Dashing embellishment at vamp.</span></p>
 
 <p><span class="chinese">晨露点缀了她的青春。</span><span class="english">Morning dew adorned her youth.</span></p>

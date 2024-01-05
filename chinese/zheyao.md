@@ -1,5 +1,7 @@
 # 折腰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zheyao.md)
+
 <p><span class="chinese">不要为五斗米折腰哦！</span><span class="english">Don't bend over for the soap.</span></p>
 
 <p><span class="chinese">永恒不要折腰，要一直把头举高。</span><span class="english">Never bend your head. Always hold it high.</span></p>

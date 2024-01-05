@@ -1,5 +1,7 @@
 # histopathologic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/histopathologic.md)
+
 <p><span class="chinese">手术后检查切除肿瘤标本的组织病理学反应。</span><span class="english">Histopathologic response in resection of the tumor was examined after surgery.</span></p>
 
 <p><span class="chinese">结果患者3次入院手术病理检查组织形态有较大变化。</span><span class="english">Results The histopathologic appearances of the tumor were differnent in three biopsies.</span></p>

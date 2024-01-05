@@ -1,5 +1,7 @@
 # 到时
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daoshi_1.md)
+
 <p><span class="chinese">到时叫醒我。</span><span class="english">Wake me up in time.</span></p>
 
 <p><span class="chinese">那太好了。到时见。</span><span class="english">That's good. See you then.</span></p>

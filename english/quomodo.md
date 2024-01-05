@@ -1,5 +1,7 @@
 # quomodo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quomodo.md)
+
 <p><span class="chinese">分析其各种类型的CT表现和不同术式的选择及术中所见。</span><span class="english">Diversified CT analysis and choice different operation quomodo and display of operation were analyzed.</span></p>
 
 <p><span class="chinese">美学家在世界不断裂变的形势中，以批判作为对人类生存意义守护的方式。</span><span class="english">In the metamorphic world, the estheticians use critic as the quomodo for guarding the meaning of human.</span></p>

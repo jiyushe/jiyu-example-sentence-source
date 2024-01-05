@@ -1,5 +1,7 @@
 # tsar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tsar.md)
+
 <p><span class="chinese">他在冷漠中成为了沙皇。</span><span class="english">He is a tsar in indifference.</span></p>
 
 <p><span class="chinese">出现“血友病沙皇”也为期不远了。</span><span class="english">A haemophilia tsar cannot be far away.</span></p>

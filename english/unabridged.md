@@ -1,5 +1,7 @@
 # unabridged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unabridged.md)
+
 <p><span class="chinese">DVD版电影是没有经过删节的。</span><span class="english">The movie in DVD is unabridged.</span></p>
 
 <p><span class="chinese">报纸上的那则消息是没有经过删节的。</span><span class="english">The message in the newspaper is unabridged.</span></p>

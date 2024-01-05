@@ -1,5 +1,7 @@
 # 无动于衷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wudongyuzhong.md)
+
 <p><span class="chinese">大师无动于衷。</span><span class="english">The Master was unmoved.</span></p>
 
 <p><span class="chinese">而荷兰人基本都无动于衷</span><span class="english">They basically didn't care.</span></p>

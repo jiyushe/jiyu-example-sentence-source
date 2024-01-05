@@ -1,5 +1,7 @@
 # exasperation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exasperation.md)
+
 <p><span class="chinese">她的嘴唇因激怒而抽搐着。</span><span class="english">Her lips twitched in exasperation.</span></p>
 
 <p><span class="chinese">堂-科利昂恼怒地发出哼声。</span><span class="english">Don Corleone grunted in exasperation.</span></p>

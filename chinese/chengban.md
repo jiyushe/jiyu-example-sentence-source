@@ -1,5 +1,7 @@
 # 承办
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengban.md)
+
 <p><span class="chinese">谁是世界媒体峰会的承办者？</span><span class="english">Who is the host of WMS?</span></p>
 
 <p><span class="chinese">我应该给宴会承办者打一个电话。</span><span class="english">I've got to call a caterer.</span></p>

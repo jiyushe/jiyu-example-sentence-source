@@ -1,5 +1,7 @@
 # 恪守
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keshou.md)
+
 <p><span class="chinese">恪守多哈的时间表。</span><span class="english">Keep to the Doha timetable.</span></p>
 
 <p><span class="chinese">他一向恪守诺言。</span><span class="english">He has always abided by his promises.</span></p>

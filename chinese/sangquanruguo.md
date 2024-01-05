@@ -1,5 +1,7 @@
 # 丧权辱国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sangquanruguo.md)
+
 <p><span class="chinese">试问这样一份丧权辱国的条约谁给接受?。</span><span class="english">How can such a treaty be accepted?</span></p>
 
 <p><span class="chinese">对这丧权辱国的条约，中国代表居然准备签字承认。</span><span class="english">This humiliating treaty, China was ready to acknowledge signatures.</span></p>

@@ -1,5 +1,7 @@
 # 轻水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingshui_1.md)
+
 <p><span class="chinese">比较了重水和轻水的工作曲线。</span><span class="english">The working curves of heavy water and light water are comparable.</span></p>
 
 <p><span class="chinese">MOX燃料在国外已成功应用于轻水堆和快中子增殖堆中。</span><span class="english">The MOX fuel has been successfully applicated in the LWRs and FBRs.</span></p>

@@ -1,5 +1,7 @@
 # bursitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bursitis.md)
+
 <p><span class="chinese">滑囊炎是滑囊的炎症。</span><span class="english">Bursitis is inflammation or irritation of a bursa.</span></p>
 
 <p><span class="chinese">结核性黏液囊炎发生率非常低。</span><span class="english">The incidence of tuberculous bursitis is very low.</span></p>

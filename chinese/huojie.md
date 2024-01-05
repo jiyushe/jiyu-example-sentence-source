@@ -1,5 +1,7 @@
 # 活结
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huojie.md)
+
 <p><span class="chinese">我最喜欢的音乐是摇滚，我最喜欢的乐队是活结。</span><span class="english">This dark color would calm me down. I like rock music the most.</span></p>
 
 <p><span class="chinese">文中主要介绍了活结头的结构设计、主要研制工艺和实验情况。</span><span class="english">This paper describes the structure design, manufacturing process and the performance.</span></p>

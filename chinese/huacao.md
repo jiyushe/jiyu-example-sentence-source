@@ -1,5 +1,7 @@
 # 花草
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huacao.md)
+
 <p><span class="chinese">像雨中长出的花草。</span><span class="english">As flowers in rain.</span></p>
 
 <p><span class="chinese">放些花花草草。</span><span class="english">Keep some plants or flowers.</span></p>

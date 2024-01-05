@@ -1,5 +1,7 @@
 # 生育率
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengyulv.md)
+
 <p><span class="chinese">科索沃人的生育率也在下降。</span><span class="english">Kosovar fertility is dropping, too.</span></p>
 
 <p><span class="chinese">结婚率和生育率已经猛跌。</span><span class="english">Marriage and fertility rates have plunged.</span></p>

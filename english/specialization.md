@@ -1,5 +1,7 @@
 # specialization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/specialization.md)
+
 <p><span class="chinese">专业化时代即将来临</span><span class="english">Specialization will set in.</span></p>
 
 <p><span class="chinese">动物的脑半球特化。</span><span class="english">Hemispheric specialization in animal.</span></p>

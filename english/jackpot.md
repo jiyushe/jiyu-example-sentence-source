@@ -1,5 +1,7 @@
 # jackpot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jackpot.md)
+
 <p><span class="chinese">中了头彩了！</span><span class="english">Jackpot.</span></p>
 
 <p><span class="chinese">自从我中大奖以后。</span><span class="english">Ever since I hit the jackpot.</span></p>

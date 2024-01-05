@@ -1,5 +1,7 @@
 # 装备
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangbei.md)
+
 <p><span class="chinese">设计与科技室是装备精良。</span><span class="english">D&T Room is well-equipped.</span></p>
 
 <p><span class="chinese">工厂已装备起来了。</span><span class="english">The plant has been tooled.</span></p>

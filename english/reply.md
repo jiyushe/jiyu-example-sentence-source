@@ -1,5 +1,7 @@
 # reply 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reply.md)
+
 <p><span class="chinese">“是的，”我回答她说。</span><span class="english">“Yeah, ” I reply.</span></p>
 
 <p><span class="chinese">请回应我吖。</span><span class="english">Please Reply Guys.</span></p>

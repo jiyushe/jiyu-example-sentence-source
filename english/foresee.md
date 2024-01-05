@@ -1,5 +1,7 @@
 # foresee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foresee.md)
+
 <p><span class="chinese">谁可以未卜先知呢？</span><span class="english">Who could foresee?</span></p>
 
 <p><span class="chinese">你预见到了具惠善的成功吗？</span><span class="english">Did you foresee GHS's success?</span></p>

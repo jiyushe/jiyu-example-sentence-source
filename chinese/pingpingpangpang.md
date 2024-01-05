@@ -1,5 +1,7 @@
 # 乒乒乓乓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingpingpangpang.md)
+
 <p><span class="chinese">他推着小脚轮车乒乒乓乓地过了几道门。</span><span class="english">He crashed the trolley through the doors.</span></p>
 
 <p><span class="chinese">我们可以听见孩子们在楼上乒乒乓乓地跑来跑去。</span><span class="english">We could hear the children banging about upstairs.</span></p>

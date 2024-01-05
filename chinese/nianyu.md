@@ -1,5 +1,7 @@
 # 鲇鱼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianyu.md)
+
 <p><span class="chinese">这是一条鲇鱼。</span><span class="english">This is a catfish.</span></p>
 
 <p><span class="chinese">我们为你祈祷为台风鲇鱼接近中国。</span><span class="english">We are praying for you as the typhoon Megi nears China.</span></p>

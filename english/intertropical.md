@@ -1,5 +1,7 @@
 # intertropical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intertropical.md)
+
 <p><span class="chinese">营养不良伴有的糖尿病多见于热带发展中国家。</span><span class="english">Hidebound companion someDiabeticSee more at intertropical developing country.</span></p>
 
 <p><span class="chinese">分布在全世界的热带，以南美洲的热带雨林地区最多。</span><span class="english">Distributing all over the world intertropical , the selva area with South America is most.</span></p>

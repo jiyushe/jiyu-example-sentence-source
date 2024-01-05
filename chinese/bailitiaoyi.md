@@ -1,5 +1,7 @@
 # 百里挑一
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bailitiaoyi.md)
+
 <p><span class="chinese">她是个百里挑一的人。</span><span class="english">Shes one in a million.</span></p>
 
 <p><span class="chinese">他是百里挑一的人。</span><span class="english">He is one in a thousand.</span></p>

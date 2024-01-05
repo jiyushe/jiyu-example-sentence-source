@@ -1,5 +1,7 @@
 # photographer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photographer.md)
+
 <p><span class="chinese">摄影家一蹶不振。</span><span class="english">The photographer was devastated.</span></p>
 
 <p><span class="chinese">阿米拉·弗里茨是一位德国摄影师。</span><span class="english">Amira Fritz is a German photographer.</span></p>

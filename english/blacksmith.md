@@ -1,5 +1,7 @@
 # blacksmith
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blacksmith.md)
+
 <p><span class="chinese">铁匠有强壮的胳膊。</span><span class="english">The blacksmith has a brawny arm.</span></p>
 
 <p><span class="chinese">爸爸是不会轻饶你的。</span><span class="english">Papa is a blacksmith. But who are you?</span></p>

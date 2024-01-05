@@ -1,5 +1,7 @@
 # circumspect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/circumspect.md)
+
 <p><span class="chinese">其他分析师更加谨慎。</span><span class="english">Other analysts are more circumspect.</span></p>
 
 <p><span class="chinese">他们心细，热爱他们的职业。</span><span class="english">They are circumspect , and they love this career.</span></p>

@@ -1,5 +1,7 @@
 # 直白
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhibai.md)
+
 <p><span class="chinese">一听那话她脸色登时变得苍白，直白到嘴唇了。</span><span class="english">On hearing that, her face went white to the lips.</span></p>
 
 <p><span class="chinese">患者讲更直白、绝望的语言。</span><span class="english">Consumers speak a more frank, despairing language.</span></p>

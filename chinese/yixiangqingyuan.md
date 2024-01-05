@@ -1,5 +1,7 @@
 # 一厢情愿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yixiangqingyuan.md)
+
 <p><span class="chinese">第一,一厢情愿</span><span class="english">Wishful thinking.</span></p>
 
 <p><span class="chinese">但那只是一厢情愿的想法。</span><span class="english">But that's just an opinion.</span></p>

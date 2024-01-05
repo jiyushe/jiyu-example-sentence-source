@@ -1,5 +1,7 @@
 # poignant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poignant.md)
+
 <p><span class="chinese">那段话有点尖刻的讽刺味。</span><span class="english">That’s sort of a poignant irony.</span></p>
 
 <p><span class="chinese">对我来说，那一刻是如此凄凉。</span><span class="english">For me, that moment was so poignant.</span></p>

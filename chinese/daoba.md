@@ -1,5 +1,7 @@
 # 刀把
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daoba.md)
+
 <p><span class="chinese">他用一把刀把他们切开。</span><span class="english">He cuts them open with a knife.</span></p>
 
 <p><span class="chinese">用快刀把面包卷切开。</span><span class="english">Slit the roll with a sharp knife.</span></p>

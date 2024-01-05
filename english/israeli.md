@@ -1,5 +1,7 @@
 # israeli
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/israeli.md)
+
 <p><span class="chinese">阿什杜德是靠近加沙的一个以色列港口。</span><span class="english">Ashdod is an Israeli port near Gaza.</span></p>
 
 <p><span class="chinese">以色列的国歌不就是那样的小调吗</span><span class="english">Isn't that the Israeli national anthem?</span></p>

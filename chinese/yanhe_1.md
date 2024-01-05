@@ -1,5 +1,7 @@
 # 言和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanhe_1.md)
+
 <p><span class="chinese">论文包括前言和正文六章。</span><span class="english">It includes preamble and six chapters.</span></p>
 
 <p><span class="chinese">谶，包括谶言和谶兆。</span><span class="english">Augury includes augury word and augury event.</span></p>

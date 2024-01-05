@@ -1,5 +1,7 @@
 # cayenne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cayenne.md)
+
 <p><span class="chinese">卡宴是辣椒。</span><span class="english">Cayenne is a chili pepper.</span></p>
 
 <p><span class="chinese">辣椒—充当天然止痛剂</span><span class="english">Cayenne pepper – acts as a natural analgesic</span></p>

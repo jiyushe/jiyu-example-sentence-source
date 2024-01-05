@@ -1,5 +1,7 @@
 # humourous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/humourous.md)
+
 <p><span class="chinese">你总是那么幽默。你跟卓文萱是什么时候认识的。</span><span class="english">You are still as humourous as ever . When did you get to know Genie?</span></p>
 
 <p><span class="chinese">我的老师，鲍老师，一个戴眼镜的，幽默的，有点老的绅士。</span><span class="english">My teacher, Mr. Bao, is a very humourous and advanced gentleman, who wears a pair of glasses.</span></p>

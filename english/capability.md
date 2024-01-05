@@ -1,5 +1,7 @@
 # capability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capability.md)
+
 <p><span class="chinese">低负载级别能力。</span><span class="english">Low load level capability.</span></p>
 
 <p><span class="chinese">预读编辑功能。</span><span class="english">Preread editing capability.</span></p>

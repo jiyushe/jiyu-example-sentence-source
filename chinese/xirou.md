@@ -1,5 +1,7 @@
 # 息肉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xirou.md)
+
 <p><span class="chinese">内壁上的息肉一般是要切除的。</span><span class="english">Polyps are generally removed.</span></p>
 
 <p><span class="chinese">未发现回肠粪袋息肉形成。</span><span class="english">No polyp in ileum pouch was seen.</span></p>

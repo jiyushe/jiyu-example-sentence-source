@@ -1,5 +1,7 @@
 # 有为
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youwei.md)
+
 <p><span class="chinese">没有为之厮杀或死亡。</span><span class="english">Nothing to kill or die for.</span></p>
 
 <p><span class="chinese">民之难治以其上之有为</span><span class="english">the reason people are hard to rule</span></p>

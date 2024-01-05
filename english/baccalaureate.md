@@ -1,5 +1,7 @@
 # baccalaureate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baccalaureate.md)
+
 <p><span class="chinese">通过考试的学生将获得国际学士学位。</span><span class="english">Students who pass receive a special international Baccalaureate certificate.</span></p>
 
 <p><span class="chinese">学位包括学士学位、硕士学位和博士学位三种。</span><span class="english">Degree includes baccalaureate , master ' s degree and doctor ' s degree 3 kinds.</span></p>

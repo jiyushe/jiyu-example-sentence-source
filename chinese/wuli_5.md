@@ -1,5 +1,7 @@
 # 武力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuli_5.md)
+
 <p><span class="chinese">他们会使用武力夺取吗？</span><span class="english">Would they take it with force?</span></p>
 
 <p><span class="chinese">他们用武力逼她工作。</span><span class="english">They dragooned her into working.</span></p>

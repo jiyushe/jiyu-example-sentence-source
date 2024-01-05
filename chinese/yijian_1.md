@@ -1,5 +1,7 @@
 # 意见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yijian_1.md)
+
 <p><span class="chinese">我们将听取意见。</span><span class="english">We’ll listen.</span></p>
 
 <p><span class="chinese">我同意你的意见。</span><span class="english">I agree with you.</span></p>

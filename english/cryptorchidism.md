@@ -1,5 +1,7 @@
 # cryptorchidism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cryptorchidism.md)
+
 <p><span class="chinese">并对出生的男宝宝进行隐睾症症状检查。</span><span class="english">Boys were examined after birth for any signs of cryptorchidism.</span></p>
 
 <p><span class="chinese">目的探讨腹腔镜在高位隐睾手术中的应用。</span><span class="english">Objective To study the application of laparoscopic surgery on high cryptorchidism.</span></p>

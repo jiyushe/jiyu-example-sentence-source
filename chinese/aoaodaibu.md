@@ -1,5 +1,7 @@
 # 嗷嗷待哺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aoaodaibu.md)
+
 <p><span class="chinese">这只母袋鼩有一窝嗷嗷待哺的小家伙要照顾。</span><span class="english">She has a brood of hungry youngsters to look after.</span></p>
 
 <p><span class="chinese">一个突如其来的礼物救赎了我嗷嗷待哺的心灵。</span><span class="english">Salvation presented itself in the form of a present.</span></p>

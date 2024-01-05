@@ -1,5 +1,7 @@
 # fea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fea.md)
+
 <p><span class="chinese">采用高级非线性有限元软件MSC。</span><span class="english">This paper uses the nonlinear FEA software MSC.</span></p>
 
 <p><span class="chinese">直接计算分析将运用有限元软件MSC。</span><span class="english">The calculation will accomplished by FEA software MSC.</span></p>

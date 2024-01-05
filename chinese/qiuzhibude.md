@@ -1,5 +1,7 @@
 # 求之不得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiuzhibude.md)
+
 <p><span class="chinese">这是求之不得的机会。</span><span class="english">This is a most welcome opportunity.</span></p>
 
 <p><span class="chinese">窑工正是求之不得，立刻把驴卖给他。</span><span class="english">The kiln man was overjoyed, and sold it to him at once.</span></p>

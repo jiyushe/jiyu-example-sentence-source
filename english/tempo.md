@@ -1,5 +1,7 @@
 # tempo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tempo.md)
+
 <p><span class="chinese">他喜欢迪斯科音乐的节奏。</span><span class="english">He liked disco music tempo.</span></p>
 
 <p><span class="chinese">我们随节奏轻舞一步接一步。</span><span class="english">We saunter through tempo step by step.</span></p>

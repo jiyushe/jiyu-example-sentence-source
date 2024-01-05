@@ -1,5 +1,7 @@
 # 邀约
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoyue_1.md)
+
 <p><span class="chinese">他甚至还在站点上邀约女孩子。</span><span class="english">He even used the site to ask out a girl.</span></p>
 
 <p><span class="chinese">谢谢你的邀约,但我有男朋友了.</span><span class="english">Thanks for asking,but I have a boyfriend.</span></p>

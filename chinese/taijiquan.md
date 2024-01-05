@@ -1,5 +1,7 @@
 # 太极拳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taijiquan.md)
+
 <p><span class="chinese">太极拳是武术的一种形式。</span><span class="english">Taijiquan is a form of martial arts.</span></p>
 
 <p><span class="chinese">我们为外国友人展示刚柔相济的太极拳。</span><span class="english">We show Tiji to our foreign friends.</span></p>

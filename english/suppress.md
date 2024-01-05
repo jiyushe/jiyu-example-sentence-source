@@ -1,5 +1,7 @@
 # suppress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suppress.md)
+
 <p><span class="chinese">不要禁止显示这些冲突。</span><span class="english">Do not suppress these violations.</span></p>
 
 <p><span class="chinese">吃什么药也不能止住他的咳嗽。</span><span class="english">No drug could suppress his cough.</span></p>

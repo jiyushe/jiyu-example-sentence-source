@@ -1,5 +1,7 @@
 # misalignment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misalignment.md)
+
 <p><span class="chinese">凸耳不应该用来作为管道校准。</span><span class="english">Lugs should not be used to adjust misalignment in piping.</span></p>
 
 <p><span class="chinese">我相信，美国城市确实视此为激励措施制定不当。</span><span class="english">I think U.S. cities really saw this as a misalignment of incentives.</span></p>

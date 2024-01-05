@@ -1,5 +1,7 @@
 # headman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headman.md)
+
 <p><span class="chinese">他是学校篮球队的队长。</span><span class="english">He is the headman of school basket ball team.</span></p>
 
 <p><span class="chinese">傍晚，大臣带着村民返回村里。</span><span class="english">The headman brought all the villagers home in the evening.</span></p>

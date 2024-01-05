@@ -1,5 +1,7 @@
 # 迈进
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maijin.md)
+
 <p><span class="chinese">还是我们将向前迈进呢？</span><span class="english">Or will we go forward?</span></p>
 
 <p><span class="chinese">一个游吟歌手迈进了大门！</span><span class="english">A minstrel enters at the door!</span></p>

@@ -1,5 +1,7 @@
 # 挑逗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaodou.md)
+
 <p><span class="chinese">然而这又是另一番挑逗之意了。</span><span class="english">Yet this is another tease.</span></p>
 
 <p><span class="chinese">玛丽卖弄风骚挑逗水手。</span><span class="english">Mary teased sailors with her charms.</span></p>

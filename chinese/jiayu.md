@@ -1,5 +1,7 @@
 # 驾御
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiayu.md)
+
 <p><span class="chinese">而那条道路应该是创始人能够娴熟驾御的。</span><span class="english">That path should be one that founders can skillfully navigate.</span></p>
 
 <p><span class="chinese">许多中国人以为美国政府是由我们美国国民驾御的。</span><span class="english">Most people in China think thin your government is out to lunch.</span></p>

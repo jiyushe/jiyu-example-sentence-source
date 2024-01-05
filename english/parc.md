@@ -1,5 +1,7 @@
 # parc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parc.md)
+
 <p><span class="chinese">第二，帕洛阿尔托研究中心的发明家拥有创造新的头脑。</span><span class="english">Second, the PARC inventors had creative smarts.</span></p>
 
 <p><span class="chinese">酒店位于普林斯萨帝遵循安道尔传统的山地风格。</span><span class="english">The Princesa Parc follows the traditional mountain style of Andorra.</span></p>

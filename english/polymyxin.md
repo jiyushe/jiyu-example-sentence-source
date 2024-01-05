@@ -1,5 +1,7 @@
 # polymyxin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polymyxin.md)
+
 <p><span class="chinese">重点研究了泡沫分离提取多粘菌素E的工艺。</span><span class="english">Extraction of polymyxin E by foam separation was studied.</span></p>
 
 <p><span class="chinese">多粘菌原来只推荐作局部应用。</span><span class="english">Initially, polymyxin was recommended for topical use only.</span></p>

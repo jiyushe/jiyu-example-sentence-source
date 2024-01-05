@@ -1,5 +1,7 @@
 # 消气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoqi_1.md)
+
 <p><span class="chinese">她消气了。</span><span class="english">She has cooled down.</span></p>
 
 <p><span class="chinese">她很快就消气了。</span><span class="english">Her anger boiled away soon.</span></p>

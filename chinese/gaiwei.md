@@ -1,5 +1,7 @@
 # 改为
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaiwei.md)
+
 <p><span class="chinese">我改为选择了220。</span><span class="english">I chose 220 instead.</span></p>
 
 <p><span class="chinese">他从学理改为学文。</span><span class="english">He changed from science to art.</span></p>

@@ -1,5 +1,7 @@
 # sweetening
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sweetening.md)
+
 <p><span class="chinese">甘蔗制成的蔗糖，用作甜料。</span><span class="english">Sucrose from sugarcane used as sweetening agent.</span></p>
 
 <p><span class="chinese">什么是您运动后饮料或点心的甜味剂？</span><span class="english">What's sweetening your post-workout drink or snack?</span></p>

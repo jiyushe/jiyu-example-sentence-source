@@ -1,5 +1,7 @@
 # discriminate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discriminate.md)
+
 <p><span class="chinese">或者你只是歧视吗?</span><span class="english">Or would you just discriminate?</span></p>
 
 <p><span class="chinese">我能辨别是非。</span><span class="english">I can discriminate right from wrong.</span></p>

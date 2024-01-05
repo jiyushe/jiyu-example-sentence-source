@@ -1,5 +1,7 @@
 # 改观
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaiguan.md)
+
 <p><span class="chinese">第3章并没有得到改观。</span><span class="english">Chapter three doesn't get any better.</span></p>
 
 <p><span class="chinese">在2010年这会有所改观吗？</span><span class="english">Definitely. Acceptable in the year 2010?</span></p>

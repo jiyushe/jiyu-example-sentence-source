@@ -1,5 +1,7 @@
 # introverted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/introverted.md)
+
 <p><span class="chinese">我曾经非常内向。</span><span class="english">I used to be incredibly introverted.</span></p>
 
 <p><span class="chinese">我的性格是内向还是外向？</span><span class="english">Am I more introverted or extroverted?</span></p>

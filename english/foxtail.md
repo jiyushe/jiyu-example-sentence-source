@@ -1,5 +1,7 @@
 # foxtail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foxtail.md)
+
 <p><span class="chinese">我们称水稻做稻谷或谷子，和北方旱地里的谷子不一样。</span><span class="english">We call for rice or millet and rice, northern dry land foxtail millet in different.</span></p>
 
 <p><span class="chinese">本文还对谷子种子活力测定的不同方法进行了讨论。</span><span class="english">Different ways of vigor testing on foxtail millet seeds were also discussed in this paper.</span></p>

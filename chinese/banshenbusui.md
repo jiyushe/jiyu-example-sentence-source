@@ -1,5 +1,7 @@
 # 半身不遂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banshenbusui.md)
+
 <p><span class="chinese">他因患中风而致半身不遂。</span><span class="english">The stroke left him paralysed on one side of his body.</span></p>
 
 <p><span class="chinese">还是自己变半身不遂，哪个会令你幸福？</span><span class="english">Or one in which you become paraplegic? Which would make you happier?</span></p>

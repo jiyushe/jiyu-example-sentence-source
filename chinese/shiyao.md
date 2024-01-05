@@ -1,5 +1,7 @@
 # 施药
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyao.md)
+
 <p><span class="chinese">这种药物有毒性，而且施药过程复杂。</span><span class="english">Such drugs are toxic and complicated to administer.</span></p>
 
 <p><span class="chinese">而施药机械是实现药物防治的主要工具。</span><span class="english">The spraying mechanism is the main tool to apply pesticide.</span></p>

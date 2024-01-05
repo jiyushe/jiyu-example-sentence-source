@@ -1,5 +1,7 @@
 # aeroelastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aeroelastic.md)
+
 <p><span class="chinese">抖振是大跨度桥梁易发生的一种风振形式。</span><span class="english">Buffeting is one of recurring aeroelastic dynamic response of long-span bridge.</span></p>
 
 <p><span class="chinese">这类飞机普遍具有大展弦比机翼的特点，它的非线性气动弹性问题…</span><span class="english">The aeroelastic problems of the UAV are significant due to its high-aspect -ratio wings.</span></p>

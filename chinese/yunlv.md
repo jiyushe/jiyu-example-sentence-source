@@ -1,5 +1,7 @@
 # 韵律
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunlv.md)
+
 <p><span class="chinese">奥秘在于韵律</span><span class="english">It's the rhythm.</span></p>
 
 <p><span class="chinese">她沉醉于韵律之中。</span><span class="english">She was besotted by rhythm.</span></p>

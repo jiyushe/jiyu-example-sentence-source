@@ -1,5 +1,7 @@
 # 棉田
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miantian.md)
+
 <p><span class="chinese">他们在棉田里挖了水渠。</span><span class="english">They channeled their cotton field.</span></p>
 
 <p><span class="chinese">他们在“棉田”里干活。</span><span class="english">They were working in the cotton fields.</span></p>

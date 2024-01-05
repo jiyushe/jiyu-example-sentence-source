@@ -1,5 +1,7 @@
 # hidebound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hidebound.md)
+
 <p><span class="chinese">你无法改变他们的意思，因为他们太墨守成规。</span><span class="english">You will never change their ideas. They are far too hidebound.</span></p>
 
 <p><span class="chinese">是个非常保守的社会，对任何新事物都抱着怀疑的态度。</span><span class="english">It's a very hidebound society and views anything new with suspicion.</span></p>

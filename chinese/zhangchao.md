@@ -1,5 +1,7 @@
 # 涨潮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangchao.md)
+
 <p><span class="chinese">涨潮了。</span><span class="english">The tide is heaving.</span></p>
 
 <p><span class="chinese">又涨潮了。</span><span class="english">The tide's coming in again.</span></p>

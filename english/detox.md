@@ -1,5 +1,7 @@
 # detox
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/detox.md)
+
 <p><span class="chinese">延迟新年排毒。</span><span class="english">Postpone the New Year detox.</span></p>
 
 <p><span class="chinese">咖啡可以协助肝脏排毒。</span><span class="english">Coffee will detox your liver in surprising ways.</span></p>

@@ -1,5 +1,7 @@
 # 大多数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daduoshu.md)
+
 <p><span class="chinese">大多数可能是这样。</span><span class="english">Most probably.</span></p>
 
 <p><span class="chinese">大多数是因为铜。</span><span class="english">Copper, mostly.</span></p>

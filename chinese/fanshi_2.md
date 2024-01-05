@@ -1,5 +1,7 @@
 # 反是
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanshi_2.md)
+
 <p><span class="chinese">她反是人的老师。</span><span class="english">She is none other than my teacher.</span></p>
 
 <p><span class="chinese">司提反是希伯来语还是亚拉姆语名字？</span><span class="english">Hmmm.Stephen,is that a good Hebrew or Aramaic name?</span></p>

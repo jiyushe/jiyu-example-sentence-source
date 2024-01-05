@@ -1,5 +1,7 @@
 # birdcage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/birdcage.md)
+
 <p><span class="chinese">鸟笼衬垫呢？</span><span class="english">Birdcage liners?</span></p>
 
 <p><span class="chinese">把一个鸟笼套到头上。</span><span class="english">Put a birdcage on the head.</span></p>

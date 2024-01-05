@@ -1,5 +1,7 @@
 # deathbed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deathbed.md)
+
 <p><span class="chinese">这是临终的景象。</span><span class="english">There's the deathbed scene.</span></p>
 
 <p><span class="chinese">我不想你呆在我的灵床旁边！</span><span class="english">I don't want you at my deathbed !</span></p>

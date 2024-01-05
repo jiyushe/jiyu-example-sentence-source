@@ -1,5 +1,7 @@
 # overrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overrate.md)
+
 <p><span class="chinese">我认为你对他的能力估计过高了。</span><span class="english">I believe you overrate his abilities.</span></p>
 
 <p><span class="chinese">你太过高估了自己的说服力。</span><span class="english">You vastly overrate your powers of persuasion.</span></p>

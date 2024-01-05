@@ -1,5 +1,7 @@
 # disciplinary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disciplinary.md)
+
 <p><span class="chinese">还是想让纪律检查委员会的医生来说呢？</span><span class="english">Or would you like Dr. Disciplinary to do it ?</span></p>
 
 <p><span class="chinese">执行纪律和申诉程序。</span><span class="english">Implement disciplinary and grievance procedures.</span></p>

@@ -1,5 +1,7 @@
 # 血仇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuechou.md)
+
 <p><span class="chinese">他们为他父亲报了血仇。</span><span class="english">They avenged their father's blood.</span></p>
 
 <p><span class="chinese">这两个家族间有血仇。</span><span class="english">There was a blood feud between the two families.</span></p>

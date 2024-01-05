@@ -1,5 +1,7 @@
 # 就地取材
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiudiqucai.md)
+
 <p><span class="chinese">Francis说，“人们可以在任何地方就地取材加以利用。</span><span class="english">Anything that would work to get stuff to places where people could use it.</span></p>
 
 <p><span class="chinese">它的墙壁就地取材于瓦尔斯的英岩板和草屋顶。</span><span class="english">It features walls of locally sourced Valser quartzite slabs and a grass roof.</span></p>

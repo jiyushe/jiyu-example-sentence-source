@@ -1,5 +1,7 @@
 # wot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wot.md)
+
 <p><span class="chinese">你会在哪些配件上花钱?。</span><span class="english">Wot gadgets do u spend ur money on?</span></p>
 
 <p><span class="chinese">当WOT遇到间谍软件可疑可疑地点时会提醒您。</span><span class="english">As WOT encounters suspect sites, it alerts you.</span></p>

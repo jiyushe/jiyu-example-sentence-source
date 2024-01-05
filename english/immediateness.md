@@ -1,5 +1,7 @@
 # immediateness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immediateness.md)
+
 <p><span class="chinese">即刻吸入新鲜空气后，头痛很快好转或消失。</span><span class="english">After immediateness and inspiratory fresh air, have a headache to improve very quickly or disappear.</span></p>
 
 <p><span class="chinese">类似野花黄的“懒骨头”可任意造型，即刻就能安置你腐败后的疲惫。</span><span class="english">Similar wild flower is yellow " shirker " but aleatoric modelling, immediateness can find a place for the exhaustion after you are corrupt.</span></p>

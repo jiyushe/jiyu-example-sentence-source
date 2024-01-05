@@ -1,5 +1,7 @@
 # 火枪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoqiang.md)
+
 <p><span class="chinese">这，是，我的，火枪！</span><span class="english">This. Is. My. Boomstick!</span></p>
 
 <p><span class="chinese">瞎眼的老鼠，火枪手，命运。</span><span class="english">Blind mice, musketeers, the Fates.</span></p>

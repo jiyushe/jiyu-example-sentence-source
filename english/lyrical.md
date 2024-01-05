@@ -1,5 +1,7 @@
 # lyrical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lyrical.md)
+
 <p><span class="chinese">主题可能更趋于抒情</span><span class="english">Themes tend maybe a little bit more lyrical.</span></p>
 
 <p><span class="chinese">我发现杜可风的摄影工作是有感觉的和衬歌式的。</span><span class="english">I found Doyle's camerawork to be lyrical and elegiac.</span></p>

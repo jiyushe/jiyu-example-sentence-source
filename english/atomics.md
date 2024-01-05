@@ -1,5 +1,7 @@
 # atomics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atomics.md)
+
 <p><span class="chinese">通用原子预计空军购买多达375收割。</span><span class="english">General Atomics expects the Air Force to buy as many as 375 Reapers.</span></p>
 
 <p><span class="chinese">这些无人飞机是通用原子航空系统公司制造的。</span><span class="english">The UAVs are manufactured by General Atomics Aeronautical Systems, Inc.</span></p>

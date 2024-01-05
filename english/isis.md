@@ -1,5 +1,7 @@
 # isis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isis.md)
+
 <p><span class="chinese">艾西斯有点像阿尔忒弥斯。</span><span class="english">But Isis is sort of like Artemis.</span></p>
 
 <p><span class="chinese">除了穆斯林没人会帮助IS。</span><span class="english">Removing muslims does not help ISIS.</span></p>

@@ -1,5 +1,7 @@
 # 准确
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhunque.md)
+
 <p><span class="chinese">那台钟走对准确吗？</span><span class="english">Can that clock be right?</span></p>
 
 <p><span class="chinese">寿桃造型准确。</span><span class="english">Peach is accurate shape.</span></p>

@@ -1,5 +1,7 @@
 # 困苦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kunku.md)
+
 <p><span class="chinese">他们便极其困苦。</span><span class="english">They were in great distress.</span></p>
 
 <p><span class="chinese">我曾经经历过这样的困苦。</span><span class="english">I had suffered such privations.</span></p>

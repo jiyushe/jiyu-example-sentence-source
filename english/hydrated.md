@@ -1,5 +1,7 @@
 # hydrated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrated.md)
+
 <p><span class="chinese">皮肤看起来水润容光焕发。</span><span class="english">Skin looks hydrated and glowing.</span></p>
 
 <p><span class="chinese">玻璃珠凝胶在使用之前不需要水化。</span><span class="english">Glass bead gels need not be hydrated prior to use.</span></p>

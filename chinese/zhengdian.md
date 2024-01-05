@@ -1,5 +1,7 @@
 # 整点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengdian.md)
+
 <p><span class="chinese">钟声每整点时会响。</span><span class="english">The bell rings on the hour.</span></p>
 
 <p><span class="chinese">班机每小时整点一班。</span><span class="english">A plane departs every hour on the hour.</span></p>

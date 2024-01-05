@@ -1,5 +1,7 @@
 # conjure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conjure.md)
+
 <p><span class="chinese">钢之刃我召唤汝。</span><span class="english">Blade of steel I conjure thee.</span></p>
 
 <p><span class="chinese">我恳求你听取我的请求。</span><span class="english">I conjure you to hear my plea.</span></p>

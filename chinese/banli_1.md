@@ -1,5 +1,7 @@
 # 板栗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banli_1.md)
+
 <p><span class="chinese">这怎么会是板栗呢？</span><span class="english">This is how it is chestnut?</span></p>
 
 <p><span class="chinese">这些板栗树开始结果了。</span><span class="english">The chestnut trees begin to bear fruit.</span></p>

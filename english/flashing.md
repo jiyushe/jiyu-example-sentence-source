@@ -1,5 +1,7 @@
 # flashing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flashing.md)
+
 <p><span class="chinese">蓝灯闪烁着。</span><span class="english">The blue light was flashing.</span></p>
 
 <p><span class="chinese">灯塔在远处闪烁。</span><span class="english">A lighthouse was flashing  afar.</span></p>

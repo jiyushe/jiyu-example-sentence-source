@@ -1,5 +1,7 @@
 # retaliation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retaliation.md)
+
 <p><span class="chinese">这只会引起报复。</span><span class="english">This will only invite retaliation.</span></p>
 
 <p><span class="chinese">报复只会升高施霸凌者的侵犯气焰。</span><span class="english">Retaliation only escalates a bully's aggression.</span></p>

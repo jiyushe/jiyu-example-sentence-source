@@ -1,5 +1,7 @@
 # delightful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delightful.md)
+
 <p><span class="chinese">美妙音乐使我们大饱耳福。</span><span class="english">Delightful music regales our ears.</span></p>
 
 <p><span class="chinese">朋友们捞叨著它们快乐的生活。</span><span class="english">Friends burble about their delightful lives.</span></p>

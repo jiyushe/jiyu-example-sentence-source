@@ -1,5 +1,7 @@
 # 切中
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiezhong.md)
+
 <p><span class="chinese">她的批评切中要害。</span><span class="english">Her criticism struck home.</span></p>
 
 <p><span class="chinese">你的答案未能切中要害。</span><span class="english">Your answer isn't to the point.</span></p>

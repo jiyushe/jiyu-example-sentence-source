@@ -1,5 +1,7 @@
 # acquisitive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acquisitive.md)
+
 <p><span class="chinese">如我们所知，Cephalus，，we，learn，终其一生都在从事贪得无厌的艺术。</span><span class="english">Cephalus has spent his life in the acquisitive arts.</span></p>
 
 <p><span class="chinese">愿你在急功近利的社会里多一份淡定与从容。</span><span class="english">May you be more calm when facing the acquisitive society.</span></p>

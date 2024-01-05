@@ -1,5 +1,7 @@
 # supplement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supplement.md)
+
 <p><span class="chinese">补编事实。</span><span class="english">Supplement Facts.</span></p>
 
 <p><span class="chinese">如果摄入不足，需要补充。</span><span class="english">If not, take a supplement.</span></p>

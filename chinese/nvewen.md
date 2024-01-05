@@ -1,5 +1,7 @@
 # 疟蚊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nvewen.md)
+
 <p><span class="chinese">并非所有的蚊子携带疟疾病毒，但是偏偏最喜食人类血液的疟蚊携带。</span><span class="english">Not all mosquitoes carry malaria.</span></p>
 
 <p><span class="chinese">疟蚊传播疟疾。</span><span class="english">Anopheles mosquitos transmit malaria.</span></p>

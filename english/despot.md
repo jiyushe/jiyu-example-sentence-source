@@ -1,5 +1,7 @@
 # despot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/despot.md)
+
 <p><span class="chinese">他是地方一霸。</span><span class="english">He is a local despot.</span></p>
 
 <p><span class="chinese">在另一方面，他是个不择不扣的暴君。</span><span class="english">On the other hand, he is a real despot.</span></p>

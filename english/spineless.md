@@ -1,5 +1,7 @@
 # spineless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spineless.md)
+
 <p><span class="chinese">软脚流氓不能进行阻挡。</span><span class="english">Spineless Thug can't block.</span></p>
 
 <p><span class="chinese">我的主管是一个没骨气的人。</span><span class="english">My supervisor is a spineless person.</span></p>

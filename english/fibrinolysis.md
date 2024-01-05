@@ -1,5 +1,7 @@
 # fibrinolysis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fibrinolysis.md)
+
 <p><span class="chinese">结论加味瓜蒌薤白白酒汤有抗凝和溶纤作用。</span><span class="english">ConclusionJGXBD has the effects of anticoagulation and fibrinolysis.</span></p>
 
 <p><span class="chinese">结论脑出血急性期有凝血、抗凝及纤溶状态的改变。</span><span class="english">Conclusion There were changes in coagulation, anti-coagulation and fibrinolysis status.</span></p>

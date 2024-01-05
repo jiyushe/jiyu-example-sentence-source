@@ -1,5 +1,7 @@
 # 以前
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiqian_2.md)
+
 <p><span class="chinese">三天以前，大前天。</span><span class="english">Three days ago.</span></p>
 
 <p><span class="chinese">那是好久以前的事。</span><span class="english">It is too long ago.</span></p>

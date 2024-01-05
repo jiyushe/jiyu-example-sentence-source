@@ -1,5 +1,7 @@
 # culvert
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/culvert.md)
+
 <p><span class="chinese">砌体暗渠取代混凝土排水沟。</span><span class="english">Masonry culvert replaces concrete gutter.</span></p>
 
 <p><span class="chinese">涵闸具有挡水、泄水的作用。</span><span class="english">Culvert and sluice block and sluice water.</span></p>

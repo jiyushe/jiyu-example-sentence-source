@@ -1,5 +1,7 @@
 # 领带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingdai.md)
+
 <p><span class="chinese">领带好酷！</span><span class="english">Cool tie!</span></p>
 
 <p><span class="chinese">我喜欢你的领带。</span><span class="english">I like your tie.</span></p>

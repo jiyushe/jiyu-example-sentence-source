@@ -1,5 +1,7 @@
 # 不辞辛劳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bucixinlao.md)
+
 <p><span class="chinese">一个是不辞辛劳的实用主义者，另一个是机智善变的自由主义者。</span><span class="english">One is a hard-working pragmatist, the other a mercurial idealist.</span></p>
 
 <p><span class="chinese">谢谢你不辞辛劳的帮助我学习英语。</span><span class="english">Thank you for the great trouble you have taken to help me with my English.</span></p>

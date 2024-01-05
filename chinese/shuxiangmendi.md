@@ -1,5 +1,7 @@
 # 书香门第
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuxiangmendi.md)
+
 <p><span class="chinese">书香门第，武术世家。14岁皈依武当派。</span><span class="english">Scholarly family, martial arts family. 14-year-old convert to Wu-Tang Clan.</span></p>
 
 <p><span class="chinese">你虽出自书香门第，父母亲是有一定的知名度。</span><span class="english">Although you are from a family of scholar, parents have a certain reputation.</span></p>

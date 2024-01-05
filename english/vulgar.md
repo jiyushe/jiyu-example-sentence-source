@@ -1,5 +1,7 @@
 # vulgar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vulgar.md)
+
 <p><span class="chinese">他是个庸俗的男人。</span><span class="english">Es un hombre muy vulgar.</span></p>
 
 <p><span class="chinese">粗俗的，淫秽的，鄙俗的。</span><span class="english">Obscene, lewd, or vulgar.</span></p>

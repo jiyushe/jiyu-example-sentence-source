@@ -1,5 +1,7 @@
 # 毙命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biming.md)
+
 <p><span class="chinese">两名匪徒当场毙命。</span><span class="english">Two of the bandits were killed on the spot.</span></p>
 
 <p><span class="chinese">盯着羊眼能使羊毙命吗？</span><span class="english">Can you kill a goat by staring into its eyes?</span></p>

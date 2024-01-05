@@ -1,5 +1,7 @@
 # unintelligible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unintelligible.md)
+
 <p><span class="chinese">这是黑暗中的鬼语。</span><span class="english">It is unintelligible in the dark.</span></p>
 
 <p><span class="chinese">不知所云的bd。到底这是怎么了？</span><span class="english">Unintelligible bd. In the end this is how?</span></p>

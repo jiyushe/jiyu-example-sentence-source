@@ -1,5 +1,7 @@
 # 强硬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangying.md)
+
 <p><span class="chinese">我会变强硬，鹌鹑会变干涩。</span><span class="english">I get tough, quail get dry.</span></p>
 
 <p><span class="chinese">先借人家的钱，再对人家强硬。</span><span class="english">Borrows money then gets tough.</span></p>

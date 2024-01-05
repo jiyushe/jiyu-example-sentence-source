@@ -1,5 +1,7 @@
 # tube
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tube.md)
+
 <p><span class="chinese">鼻胃管放置。</span><span class="english">Placement of NG tube.</span></p>
 
 <p><span class="chinese">花丝筒具长硬毛。</span><span class="english">Filament tube hirsute.</span></p>

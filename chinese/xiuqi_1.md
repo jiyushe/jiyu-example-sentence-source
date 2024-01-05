@@ -1,5 +1,7 @@
 # 修葺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuqi_1.md)
+
 <p><span class="chinese">城里的居民正在修葺城郭。</span><span class="english">The citizens are repairing the city walls.</span></p>
 
 <p><span class="chinese">对院子的布置和修葺等需要合作精神的工作提出建议。</span><span class="english">Connect over yard advice or repairs that need cooperation.</span></p>

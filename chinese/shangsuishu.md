@@ -1,5 +1,7 @@
 # 上岁数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangsuishu.md)
+
 <p><span class="chinese">她上岁数了。</span><span class="english">She is getting on in years.</span></p>
 
 <p><span class="chinese">结果一位上岁数的人死在了船上。</span><span class="english">One old man died on board, " says Hassan."</span></p>

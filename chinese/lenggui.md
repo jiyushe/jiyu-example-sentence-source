@@ -1,5 +1,7 @@
 # 冷柜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lenggui.md)
+
 <p><span class="chinese">当我回到家，我就把冷柜里的食物都吃了。</span><span class="english">When I got home I ate everything in the icebox.</span></p>
 
 <p><span class="chinese">你必须把冰箱、冷柜和橱子锁起来。</span><span class="english">You have to lock the refrigerator, the freezer, cabinets.</span></p>

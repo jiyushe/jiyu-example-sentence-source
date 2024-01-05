@@ -1,5 +1,7 @@
 # iceland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iceland.md)
+
 <p><span class="chinese">冰岛克朗冰岛的一种基本货币单位</span><span class="english">A basic unit of currency in Iceland.</span></p>
 
 <p><span class="chinese">但是，我以前没去爱尔兰争论。</span><span class="english">But I didn’t come to Iceland to argue.</span></p>

@@ -1,5 +1,7 @@
 # 谨慎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinshen_1.md)
+
 <p><span class="chinese">谨慎计划。</span><span class="english">Plan prudently.</span></p>
 
 <p><span class="chinese">他嘱咐要谨慎行事。</span><span class="english">He enjoined caution.</span></p>

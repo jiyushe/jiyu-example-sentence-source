@@ -1,5 +1,7 @@
 # indiscriminate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indiscriminate.md)
+
 <p><span class="chinese">从不乱猜疑他的晚归。</span><span class="english">He never indiscriminate suspicion of Wangui.</span></p>
 
 <p><span class="chinese">不加选择的随便送圣诞礼物。</span><span class="english">The indiscriminate giving of Christmas presents.</span></p>

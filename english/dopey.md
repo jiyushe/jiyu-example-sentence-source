@@ -1,5 +1,7 @@
 # dopey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dopey.md)
+
 <p><span class="chinese">糊涂蛋有大大的耳朵。</span><span class="english">Dopey has big ears.</span></p>
 
 <p><span class="chinese">糊涂蛋每天挖掘钻石。</span><span class="english">Dopey digs for diamonds every day.</span></p>

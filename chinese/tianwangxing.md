@@ -1,5 +1,7 @@
 # 天王星
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianwangxing.md)
+
 <p><span class="chinese">木星，土星，天王星和海王星。</span><span class="english">Jupiter, Saturn, Uranus and Neptune.</span></p>
 
 <p><span class="chinese">这个物体就是气体巨星天王星。</span><span class="english">The object was the gas giant Uranus.</span></p>

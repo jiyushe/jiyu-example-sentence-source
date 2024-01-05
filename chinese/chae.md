@@ -1,5 +1,7 @@
 # 差额
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chae.md)
+
 <p><span class="chinese">这一资助差额必须加以填补。</span><span class="english">This funding gap must be filled.</span></p>
 
 <p><span class="chinese">比现在的差额多一倍多。</span><span class="english">That is more than double the current shortfall.</span></p>

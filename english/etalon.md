@@ -1,5 +1,7 @@
 # etalon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/etalon.md)
+
 <p><span class="chinese">提出了一种新颖的入射光与F-P标准具垂直的精确调节方法。</span><span class="english">A novel method of F-P etalon perpendicularity adjusting was introduced as well.</span></p>
 
 <p><span class="chinese">薄板条玻璃绕激光腔内光轴旋转时可调节激光输出。</span><span class="english">The slab etalon is used as tuning element when it turns around the laser cavity axis.</span></p>

@@ -1,5 +1,7 @@
 # quinta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quinta.md)
+
 <p><span class="chinese">放松一下，在瓜达拉哈拉的放纵。</span><span class="english">Relax and indulge at Quinta Real Guadalajara.</span></p>
 
 <p><span class="chinese">别墅房华都尔科提供豪华住宿华都尔科。</span><span class="english">Quinta Real Huatulco offers luxury Huatulco accommodations.</span></p>

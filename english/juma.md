@@ -1,5 +1,7 @@
 # juma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/juma.md)
+
 <p><span class="chinese">在谈及自给自足，满足自我的产生模式时，朱玛博士提到了马拉维和中国。</span><span class="english">For models of self-sufficiency, Juma points to Malawi and China.</span></p>
 
 <p><span class="chinese">暴雨引发山洪暴发，在房山拒马河洪峰流量。</span><span class="english">Heavy rains triggered flash floods in Fangshan, Juma River flood peak discharge.</span></p>

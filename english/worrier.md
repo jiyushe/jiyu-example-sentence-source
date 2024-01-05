@@ -1,5 +1,7 @@
 # worrier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/worrier.md)
+
 <p><span class="chinese">你是个经常担忧的人吗？</span><span class="english">Are you a chronic worrier?</span></p>
 
 <p><span class="chinese">担心通货膨胀的人还有什么忧虑呢？</span><span class="english">What’s an inflation worrier to do?</span></p>

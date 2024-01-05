@@ -1,5 +1,7 @@
 # entangle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entangle.md)
+
 <p><span class="chinese">纠缠这个问题。</span><span class="english">Entangle this issue.</span></p>
 
 <p><span class="chinese">使受困扰使阻碍、牵绊或纠缠如陷入泥沼一般。</span><span class="english">To hinder, entrap, or entangle as if in mire.</span></p>

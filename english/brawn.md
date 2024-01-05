@@ -1,5 +1,7 @@
 # brawn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brawn.md)
+
 <p><span class="chinese">现在流行文化中的偶像都是些四肢发达，头脑简单的家伙。</span><span class="english">Nowadays, pop-culture icons are more brawn than brain.</span></p>
 
 <p><span class="chinese">魔鬼练习让良多人膂力不支。</span><span class="english">The devil exercises help greatly people hypodynamic brawn.</span></p>

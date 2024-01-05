@@ -1,5 +1,7 @@
 # 驻足
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuzu_1.md)
+
 <p><span class="chinese">但是驻足聆听。</span><span class="english">But stop to listen.</span></p>
 
 <p><span class="chinese">驻足此地，或轻轻走过！</span><span class="english">Stop here, or gently pass!</span></p>

@@ -1,5 +1,7 @@
 # moonlight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moonlight.md)
+
 <p><span class="chinese">我是一名月光族。</span><span class="english">I'm a moonlight clan.</span></p>
 
 <p><span class="chinese">当我犹自在月光里。</span><span class="english">All alone in the moonlight.</span></p>

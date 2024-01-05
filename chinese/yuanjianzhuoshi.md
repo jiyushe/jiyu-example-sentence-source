@@ -1,5 +1,7 @@
 # 远见卓识
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanjianzhuoshi.md)
+
 <p><span class="chinese">我们失去了一位真正具有远见卓识的人。</span><span class="english">We have lost a real far-sighted people.</span></p>
 
 <p><span class="chinese">具有远见卓识、善于博取公众的老板？</span><span class="english">A visionary boss with a flair for publicity?</span></p>

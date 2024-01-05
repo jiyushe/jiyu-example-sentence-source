@@ -1,5 +1,7 @@
 # 背离
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beili.md)
+
 <p><span class="chinese">否则就是背离家庭。</span><span class="english">That is deserting one's family.</span></p>
 
 <p><span class="chinese">以服务人民为荣，已背离人民为耻。</span><span class="english">Serve, do not disserve the human.</span></p>

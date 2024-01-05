@@ -1,5 +1,7 @@
 # 守信
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouxin.md)
+
 <p><span class="chinese">他向来都很守信。</span><span class="english">He always keeps his word.</span></p>
 
 <p><span class="chinese">他经常不守信诺。</span><span class="english">He often fails to keep his word.</span></p>

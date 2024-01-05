@@ -1,5 +1,7 @@
 # neva
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neva.md)
+
 <p><span class="chinese">涅瓦认为生活会是这样。</span><span class="english">Neva thought that life would be like this.</span></p>
 
 <p><span class="chinese">某修道院外的涅瓦河上的游船。</span><span class="english">Tour boats on the Neva River outside the Hermitage.</span></p>

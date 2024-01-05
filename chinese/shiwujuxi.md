@@ -1,5 +1,7 @@
 # 事无巨细
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiwujuxi.md)
+
 <p><span class="chinese">你必须强迫你自己做出选择，以治愈你的事无巨细综合症。</span><span class="english">The cure is to force yourself to make a choice.</span></p>
 
 <p><span class="chinese">他们说对于骆家辉的报道不要事无巨细。</span><span class="english">They said not to cover everything about Gary Locke.</span></p>

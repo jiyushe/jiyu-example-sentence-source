@@ -1,5 +1,7 @@
 # wane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wane.md)
+
 <p><span class="chinese">我们不能让这种势头减弱。</span><span class="english">We cannot let this momentum wane.</span></p>
 
 <p><span class="chinese">然后，点滴里的药劲儿开始过去。</span><span class="english">Then something in the drip began to wane.</span></p>

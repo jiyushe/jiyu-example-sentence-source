@@ -1,5 +1,7 @@
 # 迎宾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingbin.md)
+
 <p><span class="chinese">这儿是迎宾彩池。</span><span class="english">Here is the Yingbin Pool.</span></p>
 
 <p><span class="chinese">犬羊迎宾，有意思！</span><span class="english">Guest-Greeting Dog and Sheep.</span></p>

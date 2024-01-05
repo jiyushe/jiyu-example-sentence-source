@@ -1,5 +1,7 @@
 # 水印
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuiyin.md)
+
 <p><span class="chinese">他们与我的水印图案。</span><span class="english">Watermark them with my logo.</span></p>
 
 <p><span class="chinese">预定义和自定义水印。</span><span class="english">Pre-defined and custom watermarks.</span></p>

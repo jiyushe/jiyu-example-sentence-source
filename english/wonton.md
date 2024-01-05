@@ -1,5 +1,7 @@
 # wonton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wonton.md)
+
 <p><span class="chinese">我要一碗馄炖汤。</span><span class="english">I want a bowl of wonton soup.</span></p>
 
 <p><span class="chinese">我想要来一碗馄饨。</span><span class="english">I'd like a bowl of wonton soup.</span></p>

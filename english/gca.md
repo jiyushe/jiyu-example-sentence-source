@@ -1,5 +1,7 @@
 # gca
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gca.md)
+
 <p><span class="chinese">全球顾客评审GCA是正式的评审指南和方法。</span><span class="english">The Global Customer Audit "GCA" is the official audit guide.</span></p>
 
 <p><span class="chinese">干、湿面筋含量、蛋白质含量和单位面筋沉降值以GCA效应为主。</span><span class="english">Wet and dry gluten content, S. G S and protein content were controlled by GCA effect.</span></p>

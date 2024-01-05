@@ -1,5 +1,7 @@
 # expander
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expander.md)
+
 <p><span class="chinese">您可以订购的OSD专业扩展分开。</span><span class="english">You can order the OSD Pro Expander separately.</span></p>
 
 <p><span class="chinese">通过更换处理后，膨胀机运转恢复正常。</span><span class="english">After the replacement of it, the expander worked normally.</span></p>

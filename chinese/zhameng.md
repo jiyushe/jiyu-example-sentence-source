@@ -1,5 +1,7 @@
 # 蚱蜢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhameng.md)
+
 <p><span class="chinese">蚂蚁和蚱蜢是快乐的。</span><span class="english">Ants and grasshoppers are happy.</span></p>
 
 <p><span class="chinese">你试一只蚱蜢我就吃一只蜜蜂。</span><span class="english">I'll have a bee if you try a grasshopper.</span></p>

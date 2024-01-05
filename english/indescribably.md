@@ -1,5 +1,7 @@
 # indescribably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indescribably.md)
+
 <p><span class="chinese">英雄者，惊天地泣鬼神是也。</span><span class="english">Hero, who is also indescribably tragic.</span></p>
 
 <p><span class="chinese">许多这些事情困难地难以表述。</span><span class="english">Many of these duties will be indescribably difficult.</span></p>

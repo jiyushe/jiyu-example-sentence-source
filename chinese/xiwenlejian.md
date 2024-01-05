@@ -1,5 +1,7 @@
 # 喜闻乐见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiwenlejian.md)
+
 <p><span class="chinese">说书是中国人喜闻乐见的民间艺术。</span><span class="english">Story-telling is a folk art much loved by the Chinese.</span></p>
 
 <p><span class="chinese">我们的文艺必须为大众所喜闻乐见。</span><span class="english">Our literature and art must be popular among the public.</span></p>

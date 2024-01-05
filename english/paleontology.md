@@ -1,5 +1,7 @@
 # paleontology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paleontology.md)
+
 <p><span class="chinese">她是古生物学方面的专家。</span><span class="english">She is a specialist in paleontology.</span></p>
 
 <p><span class="chinese">我的问题没有一条是关于古生物学的。</span><span class="english">None of my questions have anything to do with paleontology.</span></p>

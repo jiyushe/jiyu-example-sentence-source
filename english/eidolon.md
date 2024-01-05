@@ -1,5 +1,7 @@
 # eidolon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eidolon.md)
+
 <p><span class="chinese">然而，又有多少人将水当作神灵呢？</span><span class="english">But not many people in the world regard water as an eidolon.</span></p>
 
 <p><span class="chinese">但是精灵、天使、仙子终有疲惫的一天。</span><span class="english">However , the fairy, the angel, the eidolon will be tired one day.</span></p>

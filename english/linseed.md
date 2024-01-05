@@ -1,5 +1,7 @@
 # linseed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/linseed.md)
+
 <p><span class="chinese">亚麻籽油是一种颜料展色剂。</span><span class="english">Linseed oil is a vehicle for paint.</span></p>
 
 <p><span class="chinese">亚麻籽油可软化僵硬的皮革。</span><span class="english">Linseed oil will soften stiff leather.</span></p>

@@ -1,5 +1,7 @@
 # civil 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/civil.md)
+
 <p><span class="chinese">暴动和骚乱。</span><span class="english">Riots and civil commotions.</span></p>
 
 <p><span class="chinese">但是，这是民事法律。</span><span class="english">However, this is a civil law.</span></p>

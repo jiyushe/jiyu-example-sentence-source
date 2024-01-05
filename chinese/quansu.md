@@ -1,5 +1,7 @@
 # 全速
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quansu.md)
+
 <p><span class="chinese">唐克，全速前进。</span><span class="english">Tank, all ahead full.</span></p>
 
 <p><span class="chinese">全速前进速度20节。</span><span class="english">Full sea speed 20 knots.</span></p>

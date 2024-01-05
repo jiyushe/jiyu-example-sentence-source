@@ -1,5 +1,7 @@
 # coincidence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coincidence.md)
+
 <p><span class="chinese">这是巧合吗？</span><span class="english">Is this coincidence?</span></p>
 
 <p><span class="chinese">这是纯属巧合吗？</span><span class="english">Is it pure coincidence?</span></p>

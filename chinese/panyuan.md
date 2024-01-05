@@ -1,5 +1,7 @@
 # 攀援
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/panyuan.md)
+
 <p><span class="chinese">那些常春藤攀援而上，爬满了整面墙。</span><span class="english">The wall is covered all over with ivy.</span></p>
 
 <p><span class="chinese">流水将岩石冲刷得像面玻璃，以致于她很难向上攀援。</span><span class="english">The water polishes the rock "like glass."</span></p>

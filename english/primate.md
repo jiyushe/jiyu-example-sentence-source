@@ -1,5 +1,7 @@
 # primate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/primate.md)
+
 <p><span class="chinese">如何鉴定它一直是争论的焦点，是啮齿类异或灵长类？</span><span class="english">Is it a rodent? A primate?</span></p>
 
 <p><span class="chinese">有点像最早开始进化的始祖鸟。</span><span class="english">This is like the Archaeopteryx of primate evolution.</span></p>

@@ -1,5 +1,7 @@
 # 睡袍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuipao_2.md)
+
 <p><span class="chinese">我讨厌所有的睡袍。</span><span class="english">I hate all my nightgowns.</span></p>
 
 <p><span class="chinese">她眨了眨眼，“你是说，在我睡袍里?”</span><span class="english">She blinked. "You mean, in my bathrobe?"</span></p>

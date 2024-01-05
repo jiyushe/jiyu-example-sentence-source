@@ -1,5 +1,7 @@
 # centum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centum.md)
+
 <p><span class="chinese">论述CEN-TUM-XL的重要功能及其在生产中的重要地位。</span><span class="english">Discusses main functions of CENTUM XL and its important situation in production.</span></p>
 
 <p><span class="chinese">利用CENTUM集散控制系统的顺序控制功能，即可实现催化剂自动连续补加。</span><span class="english">The catalyst auto-continuous addition was realized by using the CENTUM sequence control function.</span></p>

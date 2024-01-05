@@ -1,5 +1,7 @@
 # nostoc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nostoc.md)
+
 <p><span class="chinese">发菜中有含量较高的海藻糖、蔗糖。</span><span class="english">Nostoc flagelliforme contains trehalose and sucrose.</span></p>
 
 <p><span class="chinese">地木耳能作为水体污染监测植物。</span><span class="english">Nostoc Commune could be used as a kind of plant in monitoring water pollution.</span></p>

@@ -1,5 +1,7 @@
 # 蔚蓝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weilan.md)
+
 <p><span class="chinese">苏-25战机翱翔在埃里温蔚蓝的天空。</span><span class="english">The Su-25 in Yerevan’s sky.</span></p>
 
 <p><span class="chinese">风吹过那片蔚蓝海湾。</span><span class="english">Above the blue and windy sea.</span></p>

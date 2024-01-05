@@ -1,5 +1,7 @@
 # gangplank
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gangplank.md)
+
 <p><span class="chinese">在跳板上安鼠夹。</span><span class="english">Fix rat traps on the gangplank.</span></p>
 
 <p><span class="chinese">跳板的表面被装上凸出物以防止滑动。</span><span class="english">The surface of the gangplank was bossed to prevent slipping.</span></p>

@@ -1,5 +1,7 @@
 # king 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/king.md)
+
 <p><span class="chinese">封我为王！</span><span class="english">King Me!</span></p>
 
 <p><span class="chinese">我是金文勋。</span><span class="english">I'm Wex King.</span></p>

@@ -1,5 +1,7 @@
 # firebox
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/firebox.md)
+
 <p><span class="chinese">火箱子全是烟，还需要更多空气助火势？</span><span class="english">The firebox is full of smoke, the fire needs more air?</span></p>
 
 <p><span class="chinese">燃烧室采用全自动智能化控制手动控制，控制温度精确。</span><span class="english">Firebox using automatic intelligent control system of manual control system.</span></p>

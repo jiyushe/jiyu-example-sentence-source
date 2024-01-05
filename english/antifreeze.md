@@ -1,5 +1,7 @@
 # antifreeze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antifreeze.md)
+
 <p><span class="chinese">二甘醇用于防冻剂或作为一种溶剂使用。</span><span class="english">DEG is used in antifreeze and as a solvent.</span></p>
 
 <p><span class="chinese">确认您的车辆有新鲜的防冻液。</span><span class="english">Make sure your vehicle has fresh antifreeze.</span></p>

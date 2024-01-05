@@ -1,5 +1,7 @@
 # 辩学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianxue.md)
+
 <p><span class="chinese">我们应该根据古代汉语中语词的用法等对先秦的名辩学著作做出合理的解释。</span><span class="english">We should interpret Pre-Qin works of names and argumentation reasonably according to the usages of ancient Chinese, etc.</span></p>
 
 <p><span class="chinese">在中国古代名辩学研究的基础上，可以把这两种方法很好地结合起来。</span><span class="english">Without comparison and the guidance of modern logic, the historical analysis can not do well in knowing ancient Chinese logic.</span></p>

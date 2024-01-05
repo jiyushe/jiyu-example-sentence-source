@@ -1,5 +1,7 @@
 # endue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endue.md)
+
 <p><span class="chinese">新来的经理真让人受不了。</span><span class="english">I can't endue the new manager.</span></p>
 
 <p><span class="chinese">让别人嘲笑，我可受不了。</span><span class="english">I can't endue being laughed at.</span></p>

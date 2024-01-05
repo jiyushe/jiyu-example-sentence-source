@@ -1,5 +1,7 @@
 # pluralist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pluralist.md)
+
 <p><span class="chinese">这就是为什么我是一个多元主义者。</span><span class="english">That's why I'm a pluralist.</span></p>
 
 <p><span class="chinese">唐诗作为一种丰富和独特的文学题材，源于丰富和多元的唐代日常生活。</span><span class="english">These poems originated in the rich and pluralist day to day life of the Tang Dynasty.</span></p>

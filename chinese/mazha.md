@@ -1,5 +1,7 @@
 # 蚂蚱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mazha.md)
+
 <p><span class="chinese">看见过蚂蚱吧？</span><span class="english">Ever seen a grasshopper ?</span></p>
 
 <p><span class="chinese">一个男孩正在逮蚂蚱。</span><span class="english">BOY was hunting for locusts.</span></p>

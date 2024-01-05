@@ -1,5 +1,7 @@
 # 修炼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiulian.md)
+
 <p><span class="chinese">对于瑜伽修炼者，一切都是天赐之福。</span><span class="english">To the Yogi everything is bliss.</span></p>
 
 <p><span class="chinese">无上瑜伽的修炼是无穷无尽的。</span><span class="english">Practice of kundalini yoga is endless.</span></p>

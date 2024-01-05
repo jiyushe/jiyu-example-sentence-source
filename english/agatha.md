@@ -1,5 +1,7 @@
 # agatha
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agatha.md)
+
 <p><span class="chinese">是呀，必须让玛丽亚演阿加莎。</span><span class="english">Maria will be the best Agatha.</span></p>
 
 <p><span class="chinese">因此，在这部佛经之中，我说偈子道。</span><span class="english">So, in this sutra , I say in agatha.</span></p>

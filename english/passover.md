@@ -1,5 +1,7 @@
 # Passover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/passover.md)
+
 <p><span class="chinese">在创世纪，耶稣是亚伯拉罕祭坛上的公羊。</span><span class="english">In Exodus, He's the Passover Lamb.</span></p>
 
 <p><span class="chinese">在逾越节筵席结束时，他们唱起了赞美诗。</span><span class="english">At the end of a Passover meal, they sang a hymn.</span></p>

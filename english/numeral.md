@@ -1,5 +1,7 @@
 # numeral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/numeral.md)
+
 <p><span class="chinese">将这个数字映射到罗马数字系统。</span><span class="english">Map this number to the Roman numeral system.</span></p>
 
 <p><span class="chinese">这个数字意味着产量提高了一倍。</span><span class="english">This numeral means a onefold increase in production.</span></p>

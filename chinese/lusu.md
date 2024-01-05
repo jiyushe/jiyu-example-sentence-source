@@ -1,5 +1,7 @@
 # 卤素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lusu.md)
+
 <p><span class="chinese">卤素单质中，哪一种氧化性最强?。</span><span class="english">Which is the strongest oxidizing agent in the halogen?</span></p>
 
 <p><span class="chinese">配备了卤素工作灯及出现停止按钮。</span><span class="english">Equipped with halogen work lamp & emergence stop button.</span></p>

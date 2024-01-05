@@ -1,5 +1,7 @@
 # armageddon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/armageddon.md)
+
 <p><span class="chinese">哈米吉多顿只发生一次，你知道的。</span><span class="english">Armageddon only happens once, you know.</span></p>
 
 <p><span class="chinese">我们正在谈论金融大决战。</span><span class="english">We are talking about financial Armageddon.</span></p>

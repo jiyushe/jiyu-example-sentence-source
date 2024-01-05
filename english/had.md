@@ -1,5 +1,7 @@
 # had
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/had.md)
+
 <p><span class="chinese">我也有希望！</span><span class="english">I had hopes!</span></p>
 
 <p><span class="chinese">他们是逃兵吗？</span><span class="english">Had they fled?</span></p>

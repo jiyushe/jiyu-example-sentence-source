@@ -1,5 +1,7 @@
 # 轱辘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gulu_1.md)
+
 <p><span class="chinese">大车轱辘轱辘地驶过。</span><span class="english">The cart rumbled past.</span></p>
 
 <p><span class="chinese">一辆骡车轱辘轱辘地走过高低不平的车道。</span><span class="english">A mule-drawn cart rumbled down the rough street.</span></p>

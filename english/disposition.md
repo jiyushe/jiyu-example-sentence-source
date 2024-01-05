@@ -1,5 +1,7 @@
 # disposition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disposition.md)
+
 <p><span class="chinese">她的性情好。</span><span class="english">She has a good disposition.</span></p>
 
 <p><span class="chinese">她性情温和。</span><span class="english">She is mild in disposition.</span></p>

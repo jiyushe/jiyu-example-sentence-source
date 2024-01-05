@@ -1,5 +1,7 @@
 # kali
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kali.md)
+
 <p><span class="chinese">母神迦梨吃回她自己。</span><span class="english">Mother Kali eats herself back.</span></p>
 
 <p><span class="chinese">母亲卡利女神怎能够离去？</span><span class="english">How can your Mother Kali hold Herself away?</span></p>

@@ -1,5 +1,7 @@
 # 青云直上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingyunzhishang.md)
+
 <p><span class="chinese">能力或许会让你青云直上，到达顶峰，但这必须有足够的人格魅力，才能让你留在那里。</span><span class="english">Ability may get you to the top, but it takes character to keep you there.</span></p>
 
 <p><span class="chinese">荣膺2008-2009赛季最佳新秀的闪耀表现只是罗斯青云直上的一个开始。</span><span class="english">A stellar 2008-2009 Rookie of the Year season was just the beginning of a meteoric rise for Rose.</span></p>

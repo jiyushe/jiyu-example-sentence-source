@@ -1,5 +1,7 @@
 # contrail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contrail.md)
+
 <p><span class="chinese">是符合市场经济的发展轨迹的。</span><span class="english">Be the development contrail that accords with market economy.</span></p>
 
 <p><span class="chinese">这个凝结尾流向远处流动的速度太缓慢了，因此这不可能是火箭飞行留下的。</span><span class="english">The tip of the contrail is moving far too slowly to be a rocket.</span></p>

@@ -1,5 +1,7 @@
 # neuroblastoma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neuroblastoma.md)
+
 <p><span class="chinese">神经母细胞瘤5例，畸胎瘤1例，横纹肌肉瘤1例。</span><span class="english">There were neuroblastoma in 5, teratoma 1 and rhabdomyosarcoma 1.</span></p>
 
 <p><span class="chinese">神经母细胞瘤是儿童最常见的颅外实体肿瘤。</span><span class="english">Neuroblastoma is the most common extracranial solid tumor in children.</span></p>

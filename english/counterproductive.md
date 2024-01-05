@@ -1,5 +1,7 @@
 # counterproductive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/counterproductive.md)
+
 <p><span class="chinese">我们甚至可能看到双方针锋相对的情况。</span><span class="english">We might even see-saw between both counterproductive poles.</span></p>
 
 <p><span class="chinese">还有，肯定要选择纯中药，没有反作用的。</span><span class="english">Also, sure to select the pure Chinese, not counterproductive.</span></p>

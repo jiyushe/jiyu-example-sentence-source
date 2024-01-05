@@ -1,5 +1,7 @@
 # handrail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handrail.md)
+
 <p><span class="chinese">请抓紧扶手。</span><span class="english">Please hold the handrail.</span></p>
 
 <p><span class="chinese">走楼梯时要把着扶手。</span><span class="english">Use the handrail on stairs.</span></p>

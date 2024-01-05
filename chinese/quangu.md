@@ -1,5 +1,7 @@
 # 颧骨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quangu.md)
+
 <p><span class="chinese">高的颧骨。</span><span class="english">Cheekbones high.</span></p>
 
 <p><span class="chinese">北京猿人的颧骨较高。</span><span class="english">Peking Man cheekbones higher.</span></p>

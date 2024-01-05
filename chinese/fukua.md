@@ -1,5 +1,7 @@
 # 浮夸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fukua.md)
+
 <p><span class="chinese">但素有这些这都是一种浮夸的盛装游行。</span><span class="english">But it is all a grandiose pageant.</span></p>
 
 <p><span class="chinese">他的散文夹杂着浮夸的修辞。</span><span class="english">His prose is larded with pompous expressions.</span></p>

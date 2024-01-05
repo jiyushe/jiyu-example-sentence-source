@@ -1,5 +1,7 @@
 # 统制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongzhi_2.md)
+
 <p><span class="chinese">统制经济已让位于开放的市场。</span><span class="english">Controlled economies have given way to open markets.</span></p>
 
 <p><span class="chinese">罗马尼禄皇帝的统制是一个恐怖统治。</span><span class="english">The reign of Roman Emperor Nero was a reign of terror.</span></p>

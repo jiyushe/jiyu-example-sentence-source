@@ -1,5 +1,7 @@
 # 隐忍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinren.md)
+
 <p><span class="chinese">不要在沉默中隐忍。</span><span class="english">Do not suffer in silence.</span></p>
 
 <p><span class="chinese">隐忍型的父亲形象。</span><span class="english">Second, the forbearing father image.</span></p>

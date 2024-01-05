@@ -1,5 +1,7 @@
 # sized
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sized.md)
+
 <p><span class="chinese">每个缓存的配置大小。</span><span class="english">The configured sized of each cache.</span></p>
 
 <p><span class="chinese">杯子大小适合大部分车载饮料杯架放置。</span><span class="english">It's sized to fit most car cup holders.</span></p>

@@ -1,5 +1,7 @@
 # outlet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outlet.md)
+
 <p><span class="chinese">农场水井出水口。</span><span class="english">Outlet of farm well.</span></p>
 
 <p><span class="chinese">这个插座是好的吗？</span><span class="english">Is this outlet all right?</span></p>

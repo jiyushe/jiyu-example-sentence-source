@@ -1,5 +1,7 @@
 # 太上皇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taishanghuang.md)
+
 <p><span class="chinese">顾委会将成为香港电台的「太上皇」？</span><span class="english">Would Panel Be RTHK's Overlord?</span></p>
 
 <p><span class="chinese">太上皇有三千多姑娘呢。</span><span class="english">The old Emperor had three thousand palace maids.</span></p>

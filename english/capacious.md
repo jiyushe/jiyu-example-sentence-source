@@ -1,5 +1,7 @@
 # capacious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capacious.md)
+
 <p><span class="chinese">假如，让空间更为宽敞。</span><span class="english">If, make a space more capacious.</span></p>
 
 <p><span class="chinese">人是渺小的，心灵是广阔的。</span><span class="english">People is chickenshit, heart is capacious.</span></p>

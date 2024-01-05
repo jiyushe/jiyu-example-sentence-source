@@ -1,5 +1,7 @@
 # interested
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interested.md)
+
 <p><span class="chinese">安对数学很感兴趣。</span><span class="english">Ann is interested in math.</span></p>
 
 <p><span class="chinese">他对体育运动感兴趣。</span><span class="english">He is interested in sports.</span></p>

@@ -1,5 +1,7 @@
 # 修路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiulu.md)
+
 <p><span class="chinese">他是一个技术高超的修路工。</span><span class="english">He is a highly skilled road mender.</span></p>
 
 <p><span class="chinese">他在修路灯时因公殉职。</span><span class="english">He died on the job while repairing a streetlamp.</span></p>

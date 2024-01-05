@@ -1,5 +1,7 @@
 # 他人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taren.md)
+
 <p><span class="chinese">信任他人，但别忘了核实。</span><span class="english">Trust, but verify.</span></p>
 
 <p><span class="chinese">他们激励他人。</span><span class="english">They motivate others.</span></p>

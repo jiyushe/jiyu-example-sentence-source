@@ -1,5 +1,7 @@
 # nahum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nahum.md)
+
 <p><span class="chinese">神后来再差派那鸿去斥责他们。</span><span class="english">Later God sent Nahum to cry against it again.</span></p>
 
 <p><span class="chinese">这二种故事是分别来自先知那鸿和先知约拿。</span><span class="english">The two tale tellers are prophet Nahum and Jonah.</span></p>

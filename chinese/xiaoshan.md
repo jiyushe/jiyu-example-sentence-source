@@ -1,5 +1,7 @@
 # 小山
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoshan.md)
+
 <p><span class="chinese">小山笼罩在薄雾中。</span><span class="english">The hills misted over.</span></p>
 
 <p><span class="chinese">我的家在那座小山上。</span><span class="english">My house is on the hill.</span></p>

@@ -1,5 +1,7 @@
 # placatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/placatory.md)
+
 <p><span class="chinese">情感伤害用什么来抚慰是最好的？</span><span class="english">With what does affection harm come placatory be best?</span></p>
 
 <p><span class="chinese">中国男人在他们失败的低潮时刻，则期盼女人的抚慰。</span><span class="english">The low ebb hour that Chinese man fails in them, what expect a woman is placatory.</span></p>

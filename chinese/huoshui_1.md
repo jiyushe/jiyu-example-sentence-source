@@ -1,5 +1,7 @@
 # 祸水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoshui_1.md)
+
 <p><span class="chinese">红颜祸水，这场争论因她而起。</span><span class="english">She is Helen of Troy in the quarrel.</span></p>
 
 <p><span class="chinese">这个黑社会组织是当地的一股祸水。</span><span class="english">The underworld is a peril to the area.</span></p>

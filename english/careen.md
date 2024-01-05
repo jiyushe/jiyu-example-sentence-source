@@ -1,5 +1,7 @@
 # careen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/careen.md)
+
 <p><span class="chinese">他们的轮船被送入港口倾侧待修。</span><span class="english">Their ship was put into port to careen and refit.</span></p>
 
 <p><span class="chinese">看起来伊利诺斯州正从一个危机进入到下一个危机中去。</span><span class="english">Illinois seems to careen from one crisis to the next.</span></p>

@@ -1,5 +1,7 @@
 # payment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/payment.md)
+
 <p><span class="chinese">你们需要现金支付吗？</span><span class="english">Do you want cash payment?</span></p>
 
 <p><span class="chinese">先付给我50英镑定钱。</span><span class="english">Pay me 50 as a down payment.</span></p>

@@ -1,5 +1,7 @@
 # 停办
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingban.md)
+
 <p><span class="chinese">那所学校因经费不足而暂时停办。</span><span class="english">The school suspended for lack of finances.</span></p>
 
 <p><span class="chinese">不管人们用不用电子阅读器，估计2010年会有更多的报纸停办。</span><span class="english">Expect more of them to fold in 2010, e-readers or no.</span></p>

@@ -1,5 +1,7 @@
 # counterintuitive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/counterintuitive.md)
+
 <p><span class="chinese">因为这是反直觉的。</span><span class="english">It seemed counterintuitive.</span></p>
 
 <p><span class="chinese">网络逻辑是违反直觉的。</span><span class="english">Network logic is counterintuitive.</span></p>

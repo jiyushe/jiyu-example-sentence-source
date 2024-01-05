@@ -1,5 +1,7 @@
 # 黑头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heitou.md)
+
 <p><span class="chinese">他是一个黑头。</span><span class="english">He is a fathead.</span></p>
 
 <p><span class="chinese">我也是有黑头的…</span><span class="english">I also have blackheads.</span></p>

@@ -1,5 +1,7 @@
 # 热潮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rechao.md)
+
 <p><span class="chinese">这股热潮是帮助或是伤害了你的生意?</span><span class="english">Does the boom help or hurt your business?</span></p>
 
 <p><span class="chinese">出现了争购音乐会入场券的热潮。</span><span class="english">There was a rush for the concert tickets.</span></p>

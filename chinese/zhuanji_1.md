@@ -1,5 +1,7 @@
 # 专辑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanji_1.md)
+
 <p><span class="chinese">你们究竟听过我的专辑没？</span><span class="english">Have you listened to my album?</span></p>
 
 <p><span class="chinese">从这张专辑的白蝴蝶。</span><span class="english">From the album White Butterfly.</span></p>

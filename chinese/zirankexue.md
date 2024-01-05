@@ -1,5 +1,7 @@
 # 自然科学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zirankexue.md)
+
 <p><span class="chinese">我们知道自然科学。</span><span class="english">We know the science.</span></p>
 
 <p><span class="chinese">自然科学如何是诠释学的?。</span><span class="english">How is the Natural Science Hermeneutical?</span></p>

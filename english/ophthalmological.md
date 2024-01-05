@@ -1,5 +1,7 @@
 # ophthalmological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ophthalmological.md)
+
 <p><span class="chinese">坦白的说，我正在计划在美国进行眼科方面的训练。</span><span class="english">Frankly speaking, I am planning to receie my ophthalmological training in States.</span></p>
 
 <p><span class="chinese">本文就脂肪移植后基础研究以及眼科临床应用加以综述。</span><span class="english">The background and ophthalmological application of fat transplantation are summarized in this paper.</span></p>

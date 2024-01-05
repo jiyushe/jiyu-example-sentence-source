@@ -1,5 +1,7 @@
 # revery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revery.md)
+
 <p><span class="chinese">他经过了一整夜的头晕目眩的苦思。</span><span class="english">His dizzy revery lasted all night long.</span></p>
 
 <p><span class="chinese">可能通知我怎样才调找到他吗？</span><span class="english">Could you tell me where I can revery him?</span></p>

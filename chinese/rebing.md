@@ -1,5 +1,7 @@
 # 热病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rebing.md)
+
 <p><span class="chinese">垂挂著热病的露珠。</span><span class="english">With anguish moist and fever dew.</span></p>
 
 <p><span class="chinese">她感染上了严重的热病。</span><span class="english">She has contracted a severe fever.</span></p>

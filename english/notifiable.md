@@ -1,5 +1,7 @@
 # notifiable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/notifiable.md)
+
 <p><span class="chinese">食物中毒是一个须呈报的疾病，在英国。</span><span class="english">Food poisoning is a notifiable disease in the UK.</span></p>
 
 <p><span class="chinese">手足口病于5月2日在中国成为应报告的疾病。</span><span class="english">HFMD became a notifiable disease in China on 2 May.</span></p>

@@ -1,5 +1,7 @@
 # loggerhead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loggerhead.md)
+
 <p><span class="chinese">蠵龟在水下停留的时间长达1小时。</span><span class="english">Loggerhead turtles can stay underwater for up to an hour.</span></p>
 
 <p><span class="chinese">赤蠵龟要花上近半个世纪才达到成熟阶段，科学家说。</span><span class="english">Loggerhead turtles take almost half a century to reach maturity, say scientists.</span></p>

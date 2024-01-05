@@ -1,5 +1,7 @@
 # streamer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/streamer.md)
+
 <p><span class="chinese">怎么做流光字渐隐字？</span><span class="english">How to do fade streamer word word?</span></p>
 
 <p><span class="chinese">尊重台主与其他观众，不要惹起骂端。</span><span class="english">Respect other viewers and the streamer.</span></p>

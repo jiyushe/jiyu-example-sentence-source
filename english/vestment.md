@@ -1,5 +1,7 @@
 # vestment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vestment.md)
+
 <p><span class="chinese">属于、关于或类似于外衣的。</span><span class="english">Of or relating to or resembling a vestment.</span></p>
 
 <p><span class="chinese">纵观去年所有铰易，投资银行做得很好。</span><span class="english">Withallthedeals last year, in vestment investment banks did well.</span></p>

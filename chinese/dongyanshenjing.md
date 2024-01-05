@@ -1,5 +1,7 @@
 # 动眼神经
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongyanshenjing.md)
+
 <p><span class="chinese">术后2例不全偏瘫，2例动眼神经麻痹，无死亡。</span><span class="english">Hemiplegia occurred in 2 cases and oculomotor nerve palsy in 2 cases.</span></p>
 
 <p><span class="chinese">双侧动眼神经麻痹1例，与手术牵拉有关。</span><span class="english">Bilateral oculomotor palsy occurred in 1 case due to intraoperative traction.</span></p>

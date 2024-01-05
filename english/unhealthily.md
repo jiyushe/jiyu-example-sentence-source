@@ -1,5 +1,7 @@
 # unhealthily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unhealthily.md)
+
 <p><span class="chinese">毫无疑问，饮食不健康会导致疾病。</span><span class="english">It's no doubt that eating unhealthily will result in illness.</span></p>
 
 <p><span class="chinese">而他的支出与净收入相比，也出奇的低！</span><span class="english">His liability was also unhealthily low in comparison to his net worth.</span></p>

@@ -1,5 +1,7 @@
 # 意向
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yixiang_3.md)
+
 <p><span class="chinese">无意向窗外望去看到一轮弯月。</span><span class="english">I see luna from my window.</span></p>
 
 <p><span class="chinese">意向不明。</span><span class="english">One's intention is not clear.</span></p>

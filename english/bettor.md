@@ -1,5 +1,7 @@
 # bettor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bettor.md)
+
 <p><span class="chinese">那…这个受害人是个体育赌徒么？</span><span class="english">Your victim's a sports bettor ?</span></p>
 
 <p><span class="chinese">下注者手中有明天比赛的内部消息。</span><span class="english">The bettor has hot tips for tomorrow's race.</span></p>

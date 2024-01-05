@@ -1,5 +1,7 @@
 # cod
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cod.md)
+
 <p><span class="chinese">我不反对货到付款。</span><span class="english">I'm not opposed to COD.</span></p>
 
 <p><span class="chinese">鳕鱼是我最喜欢吃的。</span><span class="english">Cod is my favourite fish.</span></p>

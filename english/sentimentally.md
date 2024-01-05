@@ -1,5 +1,7 @@
 # sentimentally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sentimentally.md)
+
 <p><span class="chinese">她对这栋房子的感情很深。</span><span class="english">She was sentimentally attached to this house.</span></p>
 
 <p><span class="chinese">无异于你是幸运的，是上天的眷恋，也许吧！</span><span class="english">As you are lucky, be sentimentally attached, maybe!</span></p>

@@ -1,5 +1,7 @@
 # architecturally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/architecturally.md)
+
 <p><span class="chinese">每座小屋的建筑设计都是不同的。</span><span class="english">Each cabin is architecturally different.</span></p>
 
 <p><span class="chinese">我的意思是，建筑上很发达，但是挺封闭，</span><span class="english">I mean, very developed architecturally but quite insular,</span></p>

@@ -1,5 +1,7 @@
 # odontoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/odontoid.md)
+
 <p><span class="chinese">随后切除齿状突并重复施加负荷。</span><span class="english">The odontoid was then resected and loading repeated.</span></p>
 
 <p><span class="chinese">齿突骨折和BSS之间的关联鲜有报道。</span><span class="english">The association between odontoid fractures and BSS has been rarely reported.</span></p>

@@ -1,5 +1,7 @@
 # 同轴电缆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongzhoudianlan.md)
+
 <p><span class="chinese">下一页描述同轴电缆。</span><span class="english">The next page describes coaxial cable.</span></p>
 
 <p><span class="chinese">机器配线用高频同轴电缆“，”</span><span class="english">High Frequency Coaxial Cable for Appliance Wiring.</span></p>

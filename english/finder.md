@@ -1,5 +1,7 @@
 # finder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/finder.md)
+
 <p><span class="chinese">寻查师一定找得到工作。</span><span class="english">A finder can always find work.</span></p>
 
 <p><span class="chinese">我们知道如果我们再次运行Finder程序。</span><span class="english">We know if we relaunch the Finder.</span></p>

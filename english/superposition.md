@@ -1,5 +1,7 @@
 # superposition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superposition.md)
+
 <p><span class="chinese">重叠。</span><span class="english">Superposition.</span></p>
 
 <p><span class="chinese">这后来被称为叠加态。</span><span class="english">This became known as superposition.</span></p>

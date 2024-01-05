@@ -1,5 +1,7 @@
 # 解乏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiefa_1.md)
+
 <p><span class="chinese">是的，好好睡一觉就会解乏。</span><span class="english">Sure. A good sleep will refresh you.</span></p>
 
 <p><span class="chinese">我想您一定是睡了一个解乏的好觉。</span><span class="english">I think that you have had a refreshing sleep.</span></p>

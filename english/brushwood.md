@@ -1,5 +1,7 @@
 # brushwood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brushwood.md)
+
 <p><span class="chinese">司机把公共汽车开进了灌木丛中。</span><span class="english">The driver crashed the bus through a brushwood.</span></p>
 
 <p><span class="chinese">当心，草丛中还藏着一条蛇呢。</span><span class="english">Be careful, there still is a snake in brushwood.</span></p>

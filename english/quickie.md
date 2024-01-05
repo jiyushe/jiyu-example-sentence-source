@@ -1,5 +1,7 @@
 # quickie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quickie.md)
+
 <p><span class="chinese">不要低估匆匆性爱的影响力。</span><span class="english">Never underestimate the power of a quickie.</span></p>
 
 <p><span class="chinese">玛丽和杰克结婚了，他们的婚礼草草了事。</span><span class="english">Mary and Jack married, their wedding was a quickie.</span></p>

@@ -1,5 +1,7 @@
 # acknowledgement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acknowledgement.md)
+
 <p><span class="chinese">我低下头来承认过失。</span><span class="english">I bowed my head in acknowledgement of guilt.</span></p>
 
 <p><span class="chinese">您收到我们的确认信吗?。</span><span class="english">Didn't you receive any acknowledgement from us?</span></p>

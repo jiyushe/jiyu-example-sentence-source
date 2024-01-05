@@ -1,5 +1,7 @@
 # 吸收
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xishou.md)
+
 <p><span class="chinese">干沙吸收水分。</span><span class="english">Dry sand absorbs water.</span></p>
 
 <p><span class="chinese">我的身体仍在把甘霖吸收。</span><span class="english">And still my body drank.</span></p>

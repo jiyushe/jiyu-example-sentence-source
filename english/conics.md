@@ -1,5 +1,7 @@
 # conics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conics.md)
+
 <p><span class="chinese">并直接推出了二级曲线的五种标准方程。</span><span class="english">And five standard equations of conics are also directly deduced.</span></p>
 
 <p><span class="chinese">圆锥曲线是高中生解析几何学习中的一个难点。</span><span class="english">Conics is a difficult section in the Analytic Geometry for senior high school students.</span></p>

@@ -1,5 +1,7 @@
 # 制版
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiban_1.md)
+
 <p><span class="chinese">当他还是孩子的时候，就学会了如何制版。</span><span class="english">He learned to plate expertly while still a boy.</span></p>
 
 <p><span class="chinese">单张凹版印刷机、光纹制版设备等。</span><span class="english">Sheet fed Gravure Press, Plate Making Equipment etc.</span></p>

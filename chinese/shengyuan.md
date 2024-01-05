@@ -1,5 +1,7 @@
 # 声援
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengyuan.md)
+
 <p><span class="chinese">他们既得到了我们的物质上的支持也得到我们精神上的声援。</span><span class="english">They were supported by us both materially and spiritually.</span></p>
 
 <p><span class="chinese">我们的组织内有没有可以声援这个项目的人？</span><span class="english">Is there someone to champion the project within our organisation?</span></p>

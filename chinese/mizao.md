@@ -1,5 +1,7 @@
 # 蜜枣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mizao.md)
+
 <p><span class="chinese">唱颂之后，我获得了拥抱和蜜枣。</span><span class="english">After the chanting, I got hugs and dates.</span></p>
 
 <p><span class="chinese">但他们口渴了，并且只要几颗蜜枣果腹。</span><span class="english">But they were thirsty and had only a few dates to eat.</span></p>

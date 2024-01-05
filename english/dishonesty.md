@@ -1,5 +1,7 @@
 # dishonesty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dishonesty.md)
+
 <p><span class="chinese">他因不诚实而被解职。</span><span class="english">He was discharged for dishonesty.</span></p>
 
 <p><span class="chinese">他由于不诚实而被开除了。</span><span class="english">He was discharged for dishonesty.</span></p>

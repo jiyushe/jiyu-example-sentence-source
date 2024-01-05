@@ -1,5 +1,7 @@
 # terrestrial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terrestrial.md)
+
 <p><span class="chinese">他们同地球上“纳米细菌”进行比较。</span><span class="english">These were compared to terrestrial 'nanobacteria'.</span></p>
 
 <p><span class="chinese">主要生活于陆地上，行动缓慢。</span><span class="english">They are mainly terrestrial and relatively slow-moving.</span></p>

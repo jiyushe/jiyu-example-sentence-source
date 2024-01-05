@@ -1,5 +1,7 @@
 # moist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moist.md)
+
 <p><span class="chinese">当潮湿的防滑。</span><span class="english">Slip-resistant when moist.</span></p>
 
 <p><span class="chinese">草被露水沾湿了。</span><span class="english">Grasses were moist with dew.</span></p>

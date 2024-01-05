@@ -1,5 +1,7 @@
 # multithreading
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multithreading.md)
+
 <p><span class="chinese">描述如何在元件中实作多执行绪。</span><span class="english">Discusses how to implement multithreading in your components.</span></p>
 
 <p><span class="chinese">小心那些无法用于多线程的语言元素。</span><span class="english">Watch out for the language elements that will not work with multithreading.</span></p>

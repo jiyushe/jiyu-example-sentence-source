@@ -1,5 +1,7 @@
 # 牟取
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mouqu.md)
+
 <p><span class="chinese">有时伐树则是为了牟取木材利润。</span><span class="english">Sometimes trees are cut for lumber profits.</span></p>
 
 <p><span class="chinese">据估计，这类活动牟取的暴利每年可达几十亿美元。</span><span class="english">By some estimates, it generates billions of dollars each year.</span></p>

@@ -1,5 +1,7 @@
 # midlife
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/midlife.md)
+
 <p><span class="chinese">现在，中年危机还是来了。</span><span class="english">Now they face midlife crises.</span></p>
 
 <p><span class="chinese">统治这个世界的是想象力！</span><span class="english">Adversity is the midlife of genious.</span></p>

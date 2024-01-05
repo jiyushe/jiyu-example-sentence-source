@@ -1,5 +1,7 @@
 # 参天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cantian.md)
+
 <p><span class="chinese">但那些是参天古树。</span><span class="english">But those are huge old trees.</span></p>
 
 <p><span class="chinese">参天大树，独怕雷劈。</span><span class="english">Lofty tree most dread the thunder.</span></p>

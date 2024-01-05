@@ -1,5 +1,7 @@
 # cumbersome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cumbersome.md)
+
 <p><span class="chinese">但是这样做会非常累赘。</span><span class="english">This proved to be very cumbersome.</span></p>
 
 <p><span class="chinese">哟，这就沉不重气了？</span><span class="english">Hey, this sinks not cumbersome morale?</span></p>

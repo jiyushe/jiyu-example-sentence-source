@@ -1,5 +1,7 @@
 # lauryl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lauryl.md)
+
 <p><span class="chinese">可以使用十二烷基*钠作为该磺酸化合物。</span><span class="english">Sodium lauryl sulfate can be used as the sulfonic acid compound.</span></p>
 
 <p><span class="chinese">避免使用普通的肥皂或含有十二烷基硫酸钠及酒精的产品。</span><span class="english">Avoid plain soap or products that contain sodium lauryl sulfate or alcohol.</span></p>

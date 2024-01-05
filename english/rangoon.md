@@ -1,5 +1,7 @@
 # rangoon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rangoon.md)
+
 <p><span class="chinese">例如，台北和仰光之间每周有四次航班。</span><span class="english">For example, Taipei has four flights to Rangoon a week.</span></p>
 
 <p><span class="chinese">联邦巩固发展党总部由仰光迁往首都尼必都。</span><span class="english">The headquarters was also moved from Rangoon to Naypyitaw.</span></p>

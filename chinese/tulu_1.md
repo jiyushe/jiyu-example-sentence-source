@@ -1,5 +1,7 @@
 # 屠戮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tulu_1.md)
+
 <p><span class="chinese">它们曾经因自己体内的鲸油而惨遭屠戮，现在它们又是否会被我们的石油所害呢？</span><span class="english">Once killed for their own oil, will they now be killed by ours?</span></p>
 
 <p><span class="chinese">而这对行窃之人或施行屠戮的暴君同样是正确的。</span><span class="english">The same is true for people who steal or despots who slaughter.</span></p>

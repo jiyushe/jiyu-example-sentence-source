@@ -1,5 +1,7 @@
 # 哌嗪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paiqin.md)
+
 <p><span class="chinese">哌嗪是常见的中间体。</span><span class="english">Piperazine is a familiar intermediate.</span></p>
 
 <p><span class="chinese">分析了哌嗪的市场前景。</span><span class="english">The market prospects of piperazine is analyzed also.</span></p>

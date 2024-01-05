@@ -1,5 +1,7 @@
 # misdemeanour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misdemeanour.md)
+
 <p><span class="chinese">他的口气暗示他已经发现她有不轨行为。</span><span class="english">His tone suggested hed caught her out in some misdemeanour.</span></p>
 
 <p><span class="chinese">人们认为宠物几乎是不可能有错的。</span><span class="english">They are deemed to be incapable of almost any misdemeanour.</span></p>

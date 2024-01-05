@@ -1,5 +1,7 @@
 # 信马由缰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinmayoujiang.md)
+
 <p><span class="chinese">这是一个伟大的机会，让你的想象力信马由缰。</span><span class="english">This is a great opportunity to let your imagination run wild.</span></p>
 
 <p><span class="chinese">为了消遣，我让自己的思想信马由缰。我没有恐惧，也没有抱负。</span><span class="english">For entertainment I let my thoughts wander. I have no fear or ambitions.</span></p>

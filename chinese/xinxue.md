@@ -1,5 +1,7 @@
 # 心血
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinxue.md)
+
 <p><span class="chinese">我知道你花了很多心血在这事情上。</span><span class="english">Tell him I'm not in.</span></p>
 
 <p><span class="chinese">唐伯虎，不要枉费我们的一番心血。</span><span class="english">Ton Pak Fu, don't let us down.</span></p>

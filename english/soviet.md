@@ -1,5 +1,7 @@
 # Soviet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soviet.md)
+
 <p><span class="chinese">苏联工农***政权裙钗不休息。</span><span class="english">No rest for Soviet women.</span></p>
 
 <p><span class="chinese">该死的，就像个苏维埃官员！</span><span class="english">Like a Soviet officer, dammit!</span></p>

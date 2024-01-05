@@ -1,5 +1,7 @@
 # 切身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qieshen.md)
+
 <p><span class="chinese">唯一重要的是他们的切身感受。</span><span class="english">All that counts is what they feel.</span></p>
 
 <p><span class="chinese">我也笑了，因为我能切身体会他们的感受。</span><span class="english">I smiled because I knew exactly how they felt.</span></p>

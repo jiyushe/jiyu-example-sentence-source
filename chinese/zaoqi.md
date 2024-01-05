@@ -1,5 +1,7 @@
 # 早期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaoqi.md)
+
 <p><span class="chinese">早期采用者。</span><span class="english">Early Adopters.</span></p>
 
 <p><span class="chinese">从早期的CM7升级？</span><span class="english">Upgrading from earlier CM7?</span></p>

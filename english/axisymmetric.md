@@ -1,5 +1,7 @@
 # axisymmetric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/axisymmetric.md)
+
 <p><span class="chinese">它的核心部件是一个轴对称壳谐振子。</span><span class="english">Its key part is a axisymmetric shell vibra-tory.</span></p>
 
 <p><span class="chinese">建立了轴对称件拉深法兰起皱的数学模型。</span><span class="english">An analytical model is established for axisymmetric parts in deep drawing.</span></p>

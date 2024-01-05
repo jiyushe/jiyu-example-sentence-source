@@ -1,5 +1,7 @@
 # spondylolisthesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spondylolisthesis.md)
+
 <p><span class="chinese">脊椎滑脱的症状常起头于青少年迅速发育期。</span><span class="english">Symptoms of spondylolisthesis often begin during the teen-age growth spurt.</span></p>
 
 <p><span class="chinese">发育不良性脊椎前移是由于先天性骶骨或L5椎弓异常所致。</span><span class="english">Dysplastic spondylolisthesis is due to a congenital sacral or L5 arch anomaly.</span></p>

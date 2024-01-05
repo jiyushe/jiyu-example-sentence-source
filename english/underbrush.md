@@ -1,5 +1,7 @@
 # underbrush
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/underbrush.md)
+
 <p><span class="chinese">一只兔子跑进了矮树丛。</span><span class="english">A rabbit ran into the underbrush.</span></p>
 
 <p><span class="chinese">沙漠中仍有丛林。</span><span class="english">There is still underbrush in the desert.</span></p>

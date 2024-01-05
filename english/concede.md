@@ -1,5 +1,7 @@
 # concede
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concede.md)
+
 <p><span class="chinese">再认可海狸的无辜和创造力。</span><span class="english">I concede the innocence and creativity of beavers.</span></p>
 
 <p><span class="chinese">数据并没有显示我们已经稳获冠军。</span><span class="english">Stats do not concede us to be certain of the Scudetto.</span></p>

@@ -1,5 +1,7 @@
 # rationalisation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rationalisation.md)
+
 <p><span class="chinese">否则你就会陷入合理化的解释中。</span><span class="english">But otherwise you are caught in a rationalisation.</span></p>
 
 <p><span class="chinese">合理化意味着提高效益和降低成本。</span><span class="english">Rationalisation means increase of profit and reduction of cost.</span></p>

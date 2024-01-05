@@ -1,5 +1,7 @@
 # 朝不保夕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaobubaoxi.md)
+
 <p><span class="chinese">病人已朝不保夕。</span><span class="english">The patient's condition is critical.</span></p>
 
 <p><span class="chinese">家人过着朝不保夕的生活。</span><span class="english">The family lived a precarious existence.</span></p>

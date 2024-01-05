@@ -1,5 +1,7 @@
 # 万贯家财
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanguanjiacai.md)
+
 <p><span class="chinese">他儿子掷骰子赌输了万贯家财。</span><span class="english">His son diced himself out of a large fortune.</span></p>
 
 <p><span class="chinese">一个年轻人请教一个有钱的老人他是怎么挣得他得万贯家财的。</span><span class="english">A young man asked an old rich man how he made his money.</span></p>

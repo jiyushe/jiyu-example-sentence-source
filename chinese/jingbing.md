@@ -1,5 +1,7 @@
 # 精兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingbing.md)
+
 <p><span class="chinese">基督精兵前进，齐向战场走。</span><span class="english">Onward, Christian soldiers, marching as to war.</span></p>
 
 <p><span class="chinese">神的精兵都是从苦难中得来的。</span><span class="english">God gets his best soldiers out of the highlands of affliction.</span></p>

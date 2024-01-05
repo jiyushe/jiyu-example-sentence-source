@@ -1,5 +1,7 @@
 # limbal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/limbal.md)
+
 <p><span class="chinese">方法采用低钙培养法对人角膜缘基底层细胞组织块进行培养。</span><span class="english">Methods Limbal button with basal cells was cultured in low calcium medium.</span></p>
 
 <p><span class="chinese">目的探讨自体角膜缘移植在翼状胬肉治疗中的作用。</span><span class="english">Objective To discuss the effect of pterygium excision with limbal autografts.</span></p>

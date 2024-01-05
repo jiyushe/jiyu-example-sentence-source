@@ -1,5 +1,7 @@
 # 议论文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yilunwen.md)
+
 <p><span class="chinese">他的这篇议论文并没有把握住主题的肯綮。</span><span class="english">His argument does not get to the heart of the topic.</span></p>
 
 <p><span class="chinese">喜欢议论文，就去找一些有评论性质的文章读。</span><span class="english">Like the argumentation, find some critics nature articles read.</span></p>

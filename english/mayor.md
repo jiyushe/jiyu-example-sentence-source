@@ -1,5 +1,7 @@
 # mayor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mayor.md)
+
 <p><span class="chinese">他将任市长一职。</span><span class="english">He'll serve as a mayor.</span></p>
 
 <p><span class="chinese">他要同市长谈一谈。</span><span class="english">He wishes to talk to the mayor.</span></p>

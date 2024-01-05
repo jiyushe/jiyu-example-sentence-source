@@ -1,5 +1,7 @@
 # invalid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invalid.md)
+
 <p><span class="chinese">此证明无效。</span><span class="english">This certificate is invalid.</span></p>
 
 <p><span class="chinese">文件中无效的设定选项。</span><span class="english">Invalid setting in the MSDOS.</span></p>

@@ -1,5 +1,7 @@
 # scour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scour.md)
+
 <p><span class="chinese">我们该设法把锅里边刷净。</span><span class="english">We should try to scour the pot out.</span></p>
 
 <p><span class="chinese">分为护肤膏和洗涤剂。</span><span class="english">Cent creams to protect skin and scour.</span></p>

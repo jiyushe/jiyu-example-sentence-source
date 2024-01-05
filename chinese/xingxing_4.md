@@ -1,5 +1,7 @@
 # 猩猩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingxing_4.md)
+
 <p><span class="chinese">金刚！猩猩和他的地盘。</span><span class="english">King Kong! orang and his land.</span></p>
 
 <p><span class="chinese">大多数的猩猩木石大红色。</span><span class="english">Most poinsettias are bright red.</span></p>

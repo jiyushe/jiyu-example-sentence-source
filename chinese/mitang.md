@@ -1,5 +1,7 @@
 # 米汤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mitang.md)
+
 <p><span class="chinese">她乃烧了一碗米汤﹐喂他在床上吃了。</span><span class="english">She cooked a bowl of rice soup and fed him in bed.</span></p>
 
 <p><span class="chinese">另用一个碗混匀南瓜茸和米汤。</span><span class="english">In a separate bowl, mix pumpkin puree and rice milk together.</span></p>

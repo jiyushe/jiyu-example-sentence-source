@@ -1,5 +1,7 @@
 # 独生女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dushengnv.md)
+
 <p><span class="chinese">玛丽是我的独生女。</span><span class="english">Mary is my only daughter.</span></p>
 
 <p><span class="chinese">我女儿简是独生女。</span><span class="english">My daughter, Jane, only child.</span></p>

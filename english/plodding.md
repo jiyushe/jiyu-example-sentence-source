@@ -1,5 +1,7 @@
 # plodding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plodding.md)
+
 <p><span class="chinese">就在这时，比尔出现了，他正吃力地从山下爬上来。</span><span class="english">Now, Bill came in sight plodding up the hill.</span></p>
 
 <p><span class="chinese">他会把他的雨衣给了那些忘了带雨具的人。</span><span class="english">Once he gave his raincoat to a derelict plodding in the rain.</span></p>

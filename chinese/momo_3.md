@@ -1,5 +1,7 @@
 # 默默
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/momo_3.md)
+
 <p><span class="chinese">她在葬礼上献唱，我默默聆听。</span><span class="english">And she sang and I listen.</span></p>
 
 <p><span class="chinese">我默默的向上帝请求着。</span><span class="english">I pleaded silently to God.</span></p>

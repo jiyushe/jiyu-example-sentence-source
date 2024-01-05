@@ -1,5 +1,7 @@
 # footwork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/footwork.md)
+
 <p><span class="chinese">我们来练你的步法。</span><span class="english">Let's work on your footwork.</span></p>
 
 <p><span class="chinese">步法多以震脚、闯步结合而成。</span><span class="english">Footwork more to Lan feet, combines step ahead.</span></p>

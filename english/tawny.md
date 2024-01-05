@@ -1,5 +1,7 @@
 # tawny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tawny.md)
+
 <p><span class="chinese">一只黄褐色的猫头鹰在林中叩问着。</span><span class="english">Where a tawny owl was enquiring.</span></p>
 
 <p><span class="chinese">头部、腹面有淡褐色纵斑。</span><span class="english">Tawny spots can be found on the head and abdomen.</span></p>

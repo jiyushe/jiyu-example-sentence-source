@@ -1,5 +1,7 @@
 # beseeching
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beseeching.md)
+
 <p><span class="chinese">他用恳求的眼光望着儿子。</span><span class="english">He casts a beseeching glance at his son.</span></p>
 
 <p><span class="chinese">她紧紧挨着父亲，恳求他答应。</span><span class="english">She clung to her father, beseeching him for consent.</span></p>

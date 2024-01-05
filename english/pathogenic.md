@@ -1,5 +1,7 @@
 # pathogenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pathogenic.md)
+
 <p><span class="chinese">高致病形式表现得更为明显。</span><span class="english">The highly pathogenic form is far more dramatic.</span></p>
 
 <p><span class="chinese">夫邪之生也，或生于阴，或生于阳。</span><span class="english">Pathogenic factors are either or Yin or of Yang in nature.</span></p>

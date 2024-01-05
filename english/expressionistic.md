@@ -1,5 +1,7 @@
 # expressionistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expressionistic.md)
+
 <p><span class="chinese">什么是表现主义照明？。</span><span class="english">What Is Expressionistic Lighting?</span></p>
 
 <p><span class="chinese">我的雕刻风格是表现主义。</span><span class="english">When I sculpt, my style is expressionistic.</span></p>

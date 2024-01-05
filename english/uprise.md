@@ -1,5 +1,7 @@
 # uprise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uprise.md)
+
 <p><span class="chinese">武昌起义使很多热血志士首次经受革命的洗礼。</span><span class="english">Many revolutionary devotees were blooded in Wuchang Uprise.</span></p>
 
 <p><span class="chinese">啊哈，每次我们聊天的时候，我微笑着起义对抗像闪烁的明星。</span><span class="english">Hah, everytime when we chat, my smile uprise like the blink of the star.</span></p>

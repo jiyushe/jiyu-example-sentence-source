@@ -1,5 +1,7 @@
 # 肉饼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/roubing.md)
+
 <p><span class="chinese">所以，就让我们向油炸圈和夹肉饼说"不"吧。</span><span class="english">So say No to that doughnut and burger.</span></p>
 
 <p><span class="chinese">我先点这个炸鸡肉饼。</span><span class="english">I am going to order this chicken croquettes.</span></p>

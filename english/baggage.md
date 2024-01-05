@@ -1,5 +1,7 @@
 # baggage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baggage.md)
+
 <p><span class="chinese">什么样子的行李？</span><span class="english">What kind of baggage?</span></p>
 
 <p><span class="chinese">我弄丢了行李牌。</span><span class="english">I lost my baggage tag.</span></p>

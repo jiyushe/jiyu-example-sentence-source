@@ -1,5 +1,7 @@
 # 损毁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sunhui.md)
+
 <p><span class="chinese">贪婪是损毁幸福的祸根。</span><span class="english">Avarice is the bane to happiness.</span></p>
 
 <p><span class="chinese">我不会损毁她美丽的面容。</span><span class="english">I will not disfigure her pretty face.</span></p>

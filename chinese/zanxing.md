@@ -1,5 +1,7 @@
 # 暂行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zanxing.md)
+
 <p><span class="chinese">暂行条例在全中国统一实施。</span><span class="english">The Interim Regulations were uniformly implemented throughout China.</span></p>
 
 <p><span class="chinese">对于中小卖家来说，或许这次的暂行办法并没有想象中的可怕。</span><span class="english">For small sellers, perhaps the Interim Measures were not as terrible.</span></p>

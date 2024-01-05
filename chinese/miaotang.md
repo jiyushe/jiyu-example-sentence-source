@@ -1,5 +1,7 @@
 # 庙堂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miaotang.md)
+
 <p><span class="chinese">修建着风暴中倒塌的庙堂。</span><span class="english">and repair the temple the storm collapsed.</span></p>
 
 <p><span class="chinese">仪式是在一阵庄严肃穆的庙堂音乐中开始的。</span><span class="english">Ceremony was solemn temples burst of music began.</span></p>

@@ -1,5 +1,7 @@
 # lessen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lessen.md)
+
 <p><span class="chinese">你的爱绝不会减少，绝不会溜走？</span><span class="english">That your love would never lessen and never go?</span></p>
 
 <p><span class="chinese">以抚慰和减轻你一次次悸动着的苦痛</span><span class="english">to sooth and lessen the throbbing painful bout.</span></p>

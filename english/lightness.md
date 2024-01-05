@@ -1,5 +1,7 @@
 # lightness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lightness.md)
+
 <p><span class="chinese">宁也想感受那种轻盈。</span><span class="english">Ning wanted that lightness.</span></p>
 
 <p><span class="chinese">它给人一种轻松感。</span><span class="english">That gave one sense of lightness.</span></p>

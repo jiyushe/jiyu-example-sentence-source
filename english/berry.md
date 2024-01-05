@@ -1,5 +1,7 @@
 # berry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/berry.md)
+
 <p><span class="chinese">性感的莓果色达拉斯大理花。</span><span class="english">A "berry" sexy bloom of Dallas dahlia.</span></p>
 
 <p><span class="chinese">她的脸颊像是棕色的果浆。</span><span class="english">Herr cheeks that are brown as a berry.</span></p>

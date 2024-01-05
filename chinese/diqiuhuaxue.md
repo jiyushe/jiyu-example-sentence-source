@@ -1,5 +1,7 @@
 # 地球化学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diqiuhuaxue.md)
+
 <p><span class="chinese">射流晕是一种地球化学次生晕。</span><span class="english">Jet halo is a kind of geochemical secondary halo.</span></p>
 
 <p><span class="chinese">造山带地球化学编图的理论探讨。</span><span class="english">Disscusion of orogenic geochemical mapping in theory.</span></p>

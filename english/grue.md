@@ -1,5 +1,7 @@
 # grue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grue.md)
+
 <p><span class="chinese">你的山谷是什么颜色？</span><span class="english">How grue is your valley?</span></p>
 
 <p><span class="chinese">但是，她同样在周二撤回了提名。</span><span class="english">But she also with grue Tusedaywithdrew Tuesday.</span></p>

@@ -1,5 +1,7 @@
 # 托运
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuoyun.md)
+
 <p><span class="chinese">这是您的行李单。上海轿车托运。</span><span class="english">Here's your luggage bill.</span></p>
 
 <p><span class="chinese">这件行李我不托运。</span><span class="english">I wont check this baggage.</span></p>

@@ -1,5 +1,7 @@
 # spillway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spillway.md)
+
 <p><span class="chinese">溢流坝面为碾压混凝土台阶式溢流面。</span><span class="english">The spillway face are RCC benched spillway face.</span></p>
 
 <p><span class="chinese">台阶式溢流坝是一种全新的泄水建筑物形式。</span><span class="english">Stepped spillways is a type of new spillway structure.</span></p>

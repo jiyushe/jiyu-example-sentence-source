@@ -1,5 +1,7 @@
 # leaved
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leaved.md)
+
 <p><span class="chinese">最后，这个女孩走了，而这个男孩留下了。</span><span class="english">At last , the girl leaved and the boy keep back.</span></p>
 
 <p><span class="chinese">这位辩护律师给陪审团留下了很深的印象。</span><span class="english">The defense attorney leaved a deep impression on the jury.</span></p>

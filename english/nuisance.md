@@ -1,5 +1,7 @@
 # nuisance 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nuisance.md)
+
 <p><span class="chinese">他特招人讨厌。</span><span class="english">He's a nuisance.</span></p>
 
 <p><span class="chinese">那只狗是经常惹人讨厌的东西。</span><span class="english">That dog is perpetual nuisance.</span></p>

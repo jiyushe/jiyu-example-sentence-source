@@ -1,5 +1,7 @@
 # 佝偻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/goulou.md)
+
 <p><span class="chinese">当你佝偻着，在灼热的炉栅边</span><span class="english">And  beding  down  beside  the  glowing  bars</span></p>
 
 <p><span class="chinese">佝偻的金属桌子散布在有树的广场。</span><span class="english">Rickety metal tables dotted the treed square.</span></p>

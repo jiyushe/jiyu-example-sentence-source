@@ -1,5 +1,7 @@
 # emigrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emigrate.md)
+
 <p><span class="chinese">使民众把生死看得很重，而不往远处迁徒。</span><span class="english">Pay great attention to death, so people do not emigrate.</span></p>
 
 <p><span class="chinese">他说如果他的孩子们再大点的话他就会移居国外。</span><span class="english">He said that if his children were older he would emigrate.</span></p>

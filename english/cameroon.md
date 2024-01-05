@@ -1,5 +1,7 @@
 # cameroon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cameroon.md)
+
 <p><span class="chinese">比亚总统自1982年以来就领导喀麦隆。</span><span class="english">President Biya has led Cameroon since 1982.</span></p>
 
 <p><span class="chinese">喀麦隆和乍得尚未报告任何病例。</span><span class="english">Cameroon and Chad have not reported any cases.</span></p>

@@ -1,5 +1,7 @@
 # greatness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greatness.md)
+
 <p><span class="chinese">科托娃是注定成就卓越的。</span><span class="english">Kotova is destined for greatness.</span></p>
 
 <p><span class="chinese">不要再怀疑你自己的伟大。</span><span class="english">Stop doubting the greatness in YOU.</span></p>

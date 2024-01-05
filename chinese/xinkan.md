@@ -1,5 +1,7 @@
 # 心坎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinkan.md)
+
 <p><span class="chinese">流入我的心坎和脑壳。</span><span class="english">Passes into my heart and brain.</span></p>
 
 <p><span class="chinese">回想，是一种心坎的浮名。</span><span class="english">Memory is a sort of inner rumor.</span></p>

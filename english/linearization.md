@@ -1,5 +1,7 @@
 # linearization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/linearization.md)
+
 <p><span class="chinese">运输流量方程的线性化及其解。</span><span class="english">Linearization of equations of TF and solutions.</span></p>
 
 <p><span class="chinese">广东LNG站线项目是典型的线形工程。</span><span class="english">The LNG station-pipeline project is the typical linearization project.</span></p>

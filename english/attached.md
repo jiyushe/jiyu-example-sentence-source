@@ -1,5 +1,7 @@
 # attached
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/attached.md)
+
 <p><span class="chinese">三个档案全附呈。</span><span class="english">All three files attached.</span></p>
 
 <p><span class="chinese">我对我的家依依不舍。</span><span class="english">I am attached to my family.</span></p>

@@ -1,5 +1,7 @@
 # utilitarian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/utilitarian.md)
+
 <p><span class="chinese">你是个彻底的功利主义者嘛。</span><span class="english">You're an outright utilitarian.</span></p>
 
 <p><span class="chinese">我现在所做的任何事情都是带功利性的。</span><span class="english">I do now anything all is the belt utilitarian.</span></p>

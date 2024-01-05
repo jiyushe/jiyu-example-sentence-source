@@ -1,5 +1,7 @@
 # 审视
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenshi.md)
+
 <p><span class="chinese">然后重新审视博弈</span><span class="english">Then look again.</span></p>
 
 <p><span class="chinese">重新审视你的目标。</span><span class="english">Reevaluate your goals.</span></p>

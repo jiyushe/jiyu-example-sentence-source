@@ -1,5 +1,7 @@
 # 反比
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanbi.md)
+
 <p><span class="chinese">氟牙症和龋齿的病情呈反比关系。</span><span class="english">Dental caries and mottled enamel are inverse ratio.</span></p>
 
 <p><span class="chinese">伽氏无焦系统的筒长与视场之间存在反比律关系。</span><span class="english">The tube-length is inversely proportional to viewing field-angle Galilean non-Pow-er.</span></p>

@@ -1,5 +1,7 @@
 # nes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nes.md)
+
 <p><span class="chinese">你最喜欢的原创NES游戏是什么？</span><span class="english">Q. What was your favorite original NES game?</span></p>
 
 <p><span class="chinese">NES是如何达到或者超过你们的预期的？</span><span class="english">Q. How did the NES meet or exceed your expectations?</span></p>

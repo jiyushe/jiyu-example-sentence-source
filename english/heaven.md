@@ -1,5 +1,7 @@
 # heaven
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heaven.md)
+
 <p><span class="chinese">神自管居于其天国。</span><span class="english">God's in his heaven.</span></p>
 
 <p><span class="chinese">上天堂还是入地狱？</span><span class="english">In heaven or in hell?</span></p>

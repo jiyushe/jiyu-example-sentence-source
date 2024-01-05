@@ -1,5 +1,7 @@
 # camaraderie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/camaraderie.md)
+
 <p><span class="chinese">这个故事代表着完美的友谊和相互依存的关系。</span><span class="english">It 's a tale of perfect camaraderie and of co-dependence.</span></p>
 
 <p><span class="chinese">其结果营造了一种充满忘我、热烈和关爱的共有文化。</span><span class="english">The result is a shared culture of fandom, commentary, and camaraderie.</span></p>

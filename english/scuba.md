@@ -1,5 +1,7 @@
 # scuba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scuba.md)
+
 <p><span class="chinese">你是在那学会戴水肺潜水的?。</span><span class="english">A. Where did you learn to scuba dive ?</span></p>
 
 <p><span class="chinese">你甚至可以学如何浮潜。</span><span class="english">You could even learn how to scuba dive.</span></p>

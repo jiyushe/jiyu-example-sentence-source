@@ -1,5 +1,7 @@
 # unconditioned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unconditioned.md)
+
 <p><span class="chinese">一个是无条件作用。</span><span class="english">One is unconditioned.</span></p>
 
 <p><span class="chinese">涅槃是一种无条件的状态。</span><span class="english">Nibbana is an unconditioned state.</span></p>

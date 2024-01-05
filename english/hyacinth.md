@@ -1,5 +1,7 @@
 # hyacinth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyacinth.md)
+
 <p><span class="chinese">狂野的风信子在我肩上</span><span class="english">The hyacinth wild on my shoulder</span></p>
 
 <p><span class="chinese">他们叫我风信子姑娘。</span><span class="english">They called me the hyacinth girl.</span></p>

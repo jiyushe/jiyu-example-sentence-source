@@ -1,5 +1,7 @@
 # equipartition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equipartition.md)
+
 <p><span class="chinese">它被称为能量均分。</span><span class="english">It's called the equipartition of energy.</span></p>
 
 <p><span class="chinese">同时，对能均分原理也作了简洁的论证。</span><span class="english">The equipartition law of energy is also briefly demonstrated.</span></p>

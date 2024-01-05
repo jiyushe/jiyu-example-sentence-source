@@ -1,5 +1,7 @@
 # cameraman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cameraman.md)
+
 <p><span class="chinese">摄影师是谁啊？</span><span class="english">Who's the cameraman?</span></p>
 
 <p><span class="chinese">格来格。奥登是个摄影师。</span><span class="english">Greg Olden was a cameraman.</span></p>

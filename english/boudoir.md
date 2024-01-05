@@ -1,5 +1,7 @@
 # boudoir
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boudoir.md)
+
 <p><span class="chinese">她的闺房干净而整洁。</span><span class="english">Her boudoir is clean and tidy.</span></p>
 
 <p><span class="chinese">她的闺房干净而整齐。</span><span class="english">Her boudoir is clean and tidy.</span></p>

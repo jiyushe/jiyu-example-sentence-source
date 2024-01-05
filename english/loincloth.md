@@ -1,5 +1,7 @@
 # loincloth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loincloth.md)
+
 <p><span class="chinese">决斗者不能穿任何铠甲，只能希一条裹腰布。</span><span class="english">They're allowed no armor, only a loincloth.</span></p>
 
 <p><span class="chinese">我被一个穿著裹腰布的会飞的野人救了！</span><span class="english">I was saved by a flying wild man in a loincloth !</span></p>

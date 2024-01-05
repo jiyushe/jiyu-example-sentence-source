@@ -1,5 +1,7 @@
 # outfall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outfall.md)
+
 <p><span class="chinese">概率分析法在污水海洋排放近区模拟中的应用。</span><span class="english">The application of probabilistic analysis approach in the near field modeling of ocean outfall.</span></p>
 
 <p><span class="chinese">沈阳近海经济区是沈西工业走廊的龙头和出海口。</span><span class="english">Shenyang Approaching-port Economic Zone is the pacesetter and outfall of the West-Shenyang Industrial Corridor.</span></p>

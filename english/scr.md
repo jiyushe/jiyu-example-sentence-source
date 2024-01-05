@@ -1,5 +1,7 @@
 # scr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scr.md)
+
 <p><span class="chinese">这是典型的青睐大型工业可控硅运营商。</span><span class="english">It is typically favored by large industrial SCR operators.</span></p>
 
 <p><span class="chinese">从而使可控硅整流焊机的电弧穿透力与直流旋转焊机相当。</span><span class="english">SCR rectifier is the same as that of DC arc wilding generator.</span></p>

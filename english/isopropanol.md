@@ -1,5 +1,7 @@
 # isopropanol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isopropanol.md)
+
 <p><span class="chinese">在HFE-72DA中加异丙醇，可以增加其对于离子残留的清洗！</span><span class="english">The isopropanol in HFE-72DA ?uid provides enhanced removal of ionic contaminants.</span></p>
 
 <p><span class="chinese">硫醇在氰化甲烷里不容易混合，但可以被分散在异丙醇中。</span><span class="english">Mercaptans which are not miscible in acetonitrile may be dispersed in isopropanol.</span></p>

@@ -1,5 +1,7 @@
 # 自决
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zijue_1.md)
+
 <p><span class="chinese">我们不支持帝国，而是支持自决。</span><span class="english">We stand not for empire, but for self-determination.</span></p>
 
 <p><span class="chinese">是自决的工具，解放在今天的世界？</span><span class="english">Is self-determination a tool for liberation in today's world?</span></p>

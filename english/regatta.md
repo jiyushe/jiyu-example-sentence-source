@@ -1,5 +1,7 @@
 # regatta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regatta.md)
+
 <p><span class="chinese">我现在应该在赛舟会的。</span><span class="english">I'm supposed to be at a regatta gala.</span></p>
 
 <p><span class="chinese">下个月我们将参加一场划船比赛。</span><span class="english">We'll take part in a regatta next month.</span></p>

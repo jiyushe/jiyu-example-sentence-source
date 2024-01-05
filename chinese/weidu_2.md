@@ -1,5 +1,7 @@
 # 纬度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weidu_2.md)
+
 <p><span class="chinese">这些是纬度和经度。</span><span class="english">These are latitudes and longitudes.</span></p>
 
 <p><span class="chinese">SPI的股份相同纬度的南滩。</span><span class="english">SPI "shares" the same " latitude " South Beach.</span></p>

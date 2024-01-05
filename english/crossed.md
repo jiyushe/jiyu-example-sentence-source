@@ -1,5 +1,7 @@
 # crossed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crossed.md)
+
 <p><span class="chinese">你已经越线了。</span><span class="english">You've crossed a line.</span></p>
 
 <p><span class="chinese">他东渡去日本</span><span class="english">He crossed over to Japan.</span></p>

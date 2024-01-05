@@ -1,5 +1,7 @@
 # pious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pious.md)
+
 <p><span class="chinese">他父亲是个虔诚的圣徒。</span><span class="english">His father is a pious confessor.</span></p>
 
 <p><span class="chinese">把你捧在手上，虔诚地焚香。</span><span class="english">Put you held in the hand, pious incense.</span></p>

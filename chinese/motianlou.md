@@ -1,5 +1,7 @@
 # 摩天楼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/motianlou.md)
+
 <p><span class="chinese">摩天楼只是高的大厦。</span><span class="english">Skycrapers are just tall building.</span></p>
 
 <p><span class="chinese">岛上耸立着一座摩天楼。</span><span class="english">There stands a skyscraper on the island.</span></p>

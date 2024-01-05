@@ -1,5 +1,7 @@
 # tamping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tamping.md)
+
 <p><span class="chinese">回填土轻夯。</span><span class="english">Back fill light tamping.</span></p>
 
 <p><span class="chinese">适用于小型铸件砂型的捣固。</span><span class="english">It is also used in tamping small grinding castings.</span></p>

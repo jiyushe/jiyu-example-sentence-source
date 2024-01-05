@@ -1,5 +1,7 @@
 # chronometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chronometer.md)
+
 <p><span class="chinese">我的手表是精密型的，所以要比你的贵。</span><span class="english">My watch is more expensive because its a chronometer.</span></p>
 
 <p><span class="chinese">我的手表是精密型的，要比你的贵。</span><span class="english">My watch is more expensive because it's a chronometer.</span></p>

@@ -1,5 +1,7 @@
 # photophobia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photophobia.md)
+
 <p><span class="chinese">该妇女表现为畏光和视力下降。</span><span class="english">The woman presented with photophobia and reduced vision.</span></p>
 
 <p><span class="chinese">如畏光的眼睛是非常敏感的太阳。</span><span class="english">In the case of photophobia the eyes are very sensitive to the sun.</span></p>

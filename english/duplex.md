@@ -1,5 +1,7 @@
 # duplex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duplex.md)
+
 <p><span class="chinese">液体燃料增压泵撬装体。</span><span class="english">Duplex liquid fuel boost pump skid.</span></p>
 
 <p><span class="chinese">你想要双层楼公寓还是活动房屋？</span><span class="english">Would you like a duplex or a mobile home?</span></p>

@@ -1,5 +1,7 @@
 # 比较价格
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bijiaojiage.md)
+
 <p><span class="chinese">比较价格在电子伏特。</span><span class="english">Compare prices in electron volts.</span></p>
 
 <p><span class="chinese">比较价格箱运输。</span><span class="english">Compare prices of transport tanks.</span></p>

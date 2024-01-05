@@ -1,5 +1,7 @@
 # perdition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perdition.md)
+
 <p><span class="chinese">但那些走在毁灭道路的人将会悲痛。</span><span class="english">But woe to those who walk the path of perdition.</span></p>
 
 <p><span class="chinese">可卡因和海洛因是通往地狱的快车道。</span><span class="english">Cocaine and heroin are fast routes to perdition.</span></p>

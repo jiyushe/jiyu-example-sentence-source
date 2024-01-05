@@ -1,5 +1,7 @@
 # sugarless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sugarless.md)
+
 <p><span class="chinese">多喝水或者嚼无糖口香糖也会有所帮助。</span><span class="english">Drinking lots of water or chewing sugarless gum can also help.</span></p>
 
 <p><span class="chinese">如果你一定要吃零食，每次吃完记得刷牙或者咀嚼无糖口香糖。</span><span class="english">If you must snack, brush your teeth or chew sugarless gum afterward.</span></p>

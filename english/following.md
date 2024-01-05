@@ -1,5 +1,7 @@
 # following 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/following.md)
+
 <p><span class="chinese">以下内容空白。</span><span class="english">The following is blank.</span></p>
 
 <p><span class="chinese">我会给出下面的假定。</span><span class="english">I'll assume the following.</span></p>

@@ -1,5 +1,7 @@
 # hesitate 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hesitate.md)
+
 <p><span class="chinese">我在这个作品中有所犹豫。</span><span class="english">I hesitate in this work.</span></p>
 
 <p><span class="chinese">你将不再犹豫。</span><span class="english">Youll never hesitate again.</span></p>

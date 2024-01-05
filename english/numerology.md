@@ -1,5 +1,7 @@
 # numerology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/numerology.md)
+
 <p><span class="chinese">命理学中，水瓶座的幸运日</span><span class="english">Aquarius Lucky Days from Numerology</span></p>
 
 <p><span class="chinese">命理学让我很着迷。</span><span class="english">Numerology fascinates me a great deal.</span></p>

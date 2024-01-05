@@ -1,5 +1,7 @@
 # parochial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parochial.md)
+
 <p><span class="chinese">别这麽小家子气吗，考虑一下我们的意见呀！</span><span class="english">Don't be so parochial. Consider our opinions please.</span></p>
 
 <p><span class="chinese">我们本位主义的狭隘性和傲慢文化是一个危险的结合。</span><span class="english">Our parochial narrowness and cultural hubris are a dangerous combination.</span></p>

@@ -1,5 +1,7 @@
 # seduce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seduce.md)
+
 <p><span class="chinese">她是受雇来诱惑他的。</span><span class="english">She is an agent paid to seduce him.</span></p>
 
 <p><span class="chinese">擦这么多摩丝去勾引谁呀？”！</span><span class="english">Shining so many mousse to seduce Shuixia?</span></p>

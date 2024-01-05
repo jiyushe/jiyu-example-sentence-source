@@ -1,5 +1,7 @@
 # laparoscopy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laparoscopy.md)
+
 <p><span class="chinese">腹腔镜检查前要做哪些其他必要的检查？</span><span class="english">WHAT TESTS ARE NECESSARY BEFORE LAPAROSCOPY?</span></p>
 
 <p><span class="chinese">腹腔内镜检查证实康复时间为1到2天。</span><span class="english">With laparoscopy the recovery time is about one to two days.</span></p>

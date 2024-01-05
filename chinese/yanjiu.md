@@ -1,5 +1,7 @@
 # 烟酒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanjiu.md)
+
 <p><span class="chinese">他烟酒不沾。</span><span class="english">He never touches alcohol.</span></p>
 
 <p><span class="chinese">你喝酒抽烟吗，还是烟酒不沾？</span><span class="english">Do you drink alcohol, smoke, or abstain?</span></p>

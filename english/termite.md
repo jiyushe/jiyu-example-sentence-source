@@ -1,5 +1,7 @@
 # termite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/termite.md)
+
 <p><span class="chinese">这些钢钉基座同时也是一块防蚁板。</span><span class="english">The steel pin base also acts as a termite shield.</span></p>
 
 <p><span class="chinese">耸立在平原上的白蚁土丘竟高达三米。</span><span class="english">Termite mounds three metres tall tower above the flat plains.</span></p>

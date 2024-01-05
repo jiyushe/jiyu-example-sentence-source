@@ -1,5 +1,7 @@
 # 鹦鹉学舌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingwuxueshe.md)
+
 <p><span class="chinese">婴儿喜欢鹦鹉学舌一样学话。</span><span class="english">Besides like learning to say parrot fashion.</span></p>
 
 <p><span class="chinese">这个男孩总喜欢鹦鹉学舌。</span><span class="english">The little boy always parrots what others say.</span></p>

@@ -1,5 +1,7 @@
 # baffling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baffling.md)
+
 <p><span class="chinese">你在找碴吗?。</span><span class="english">Are you baffling me?</span></p>
 
 <p><span class="chinese">对这种莫明其妙的事我们无法接受。</span><span class="english">We cannot accept the baffling thing.</span></p>

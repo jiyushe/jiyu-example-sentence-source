@@ -1,5 +1,7 @@
 # 相近
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangjin.md)
+
 <p><span class="chinese">很相近，但也不尽相同。</span><span class="english">Close, but not quite.</span></p>
 
 <p><span class="chinese">请问相近有没有的士高？</span><span class="english">Is there a disco nearby?</span></p>

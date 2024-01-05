@@ -1,5 +1,7 @@
 # stepped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stepped.md)
+
 <p><span class="chinese">我踩上了沙子又踏上了顽石</span><span class="english">i stepped on sand then stone</span></p>
 
 <p><span class="chinese">他从黑暗中走了出来。</span><span class="english">He stepped out of the shadows.</span></p>

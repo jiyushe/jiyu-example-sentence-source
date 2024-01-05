@@ -1,5 +1,7 @@
 # 草履虫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caolvchong.md)
+
 <p><span class="chinese">用一个微处理器来控制草履虫的移动和得分。</span><span class="english">The movements of the paramecia and the score are kept by a</span></p>
 
 <p><span class="chinese">草履虫是一款在小小的流体腔中的实时游戏。</span><span class="english">The Paramecia play in real time, ala Tron, in a tiny fluid chamber.</span></p>

@@ -1,5 +1,7 @@
 # champ
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/champ.md)
+
 <p><span class="chinese">威尔伯猝不及防的一击，使他成为新拳击冠军。</span><span class="english">It was a quick kayo, and Wilbur was the new champ.</span></p>
 
 <p><span class="chinese">“冠军”朝赛场最后一排的一名男子发射了一件T恤。</span><span class="english">Champ launches a T-shirt to a man in the last row of the arena.</span></p>

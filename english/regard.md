@@ -1,5 +1,7 @@
 # regard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regard.md)
+
 <p><span class="chinese">是我没拿他们当回事？</span><span class="english">Had I no regard for them?</span></p>
 
 <p><span class="chinese">后人对我们将如何看待?</span><span class="english">How will futurity regard us?</span></p>

@@ -1,5 +1,7 @@
 # unsatisfactory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsatisfactory.md)
+
 <p><span class="chinese">这里电视节目的接收情况不佳。</span><span class="english">Reception of TV programmes is unsatisfactory here.</span></p>
 
 <p><span class="chinese">测试结果的特别记录是令人不满的。</span><span class="english">Ad-hoc recording of test results is unsatisfactory.</span></p>

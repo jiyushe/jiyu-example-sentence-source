@@ -1,5 +1,7 @@
 # pc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pc.md)
+
 <p><span class="chinese">在微机房发电子邮件.</span><span class="english">PC room-at e-mail sent.</span></p>
 
 <p><span class="chinese">系统上位机软件采用。</span><span class="english">PC software is made up on.</span></p>

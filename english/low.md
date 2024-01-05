@@ -1,5 +1,7 @@
 # low
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/low.md)
+
 <p><span class="chinese">低桥限高。</span><span class="english">Low Bridge.</span></p>
 
 <p><span class="chinese">信任感很低。</span><span class="english">Trust is low.</span></p>

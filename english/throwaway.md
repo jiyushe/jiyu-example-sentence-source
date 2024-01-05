@@ -1,5 +1,7 @@
 # throwaway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/throwaway.md)
+
 <p><span class="chinese">这些书远非一次性的海滩读物。</span><span class="english">These books may be far from a throwaway beach read.</span></p>
 
 <p><span class="chinese">对他来说这只是随口说说而已，她却很生气。</span><span class="english">She was very upset at what to him was just a throwaway remark.</span></p>

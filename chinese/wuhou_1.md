@@ -1,5 +1,7 @@
 # 物候
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuhou_1.md)
+
 <p><span class="chinese">物候变化是比物种分布更为清晰的信号。</span><span class="english">Phenology signals are clearer than changes in species distribution.</span></p>
 
 <p><span class="chinese">本研究探讨关刀溪森林生态系台湾榕物候适应性的表现。</span><span class="english">The present study investigated the phenology of Ficus formosana Maxim.</span></p>

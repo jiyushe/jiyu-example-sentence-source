@@ -1,5 +1,7 @@
 # 太阳帽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taiyangmao.md)
+
 <p><span class="chinese">这些太阳帽贵吗？</span><span class="english">Are the sun hats expensive?</span></p>
 
 <p><span class="chinese">戴上太阳帽以遮挡阳光。</span><span class="english">Wear a hat to protect yourself from the sun.</span></p>

@@ -1,5 +1,7 @@
 # 推销
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuixiao.md)
+
 <p><span class="chinese">那如何去推销保险呢？</span><span class="english">How to promote insurance?</span></p>
 
 <p><span class="chinese">我要去上门推销。</span><span class="english">I'm going on sales calls.</span></p>

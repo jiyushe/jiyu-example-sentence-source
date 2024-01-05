@@ -1,5 +1,7 @@
 # 自作主张
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zizuozhuzhang.md)
+
 <p><span class="chinese">它指自作主张和轻蔑。</span><span class="english">Brook It implies self-assertion and defiance.</span></p>
 
 <p><span class="chinese">你才是心理医生，我才不会那么自作主张。</span><span class="english">You're the shrink. I'm not big on self-affirmation.</span></p>

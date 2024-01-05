@@ -1,5 +1,7 @@
 # 职业道德
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiyedaode.md)
+
 <p><span class="chinese">三月份是职业道德宣传月。</span><span class="english">March is Ethics Awareness Month.</span></p>
 
 <p><span class="chinese">法官的职业道德必须是无懈可击的。</span><span class="english">A judge's ethics should be unexceptionable.</span></p>

@@ -1,5 +1,7 @@
 # 天气图
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianqitu.md)
+
 <p><span class="chinese">他摊开几份复印的天气图。</span><span class="english">He spread out several facsimile weather charts.</span></p>
 
 <p><span class="chinese">讨论了雨区在天气图上占的相对面积问题。</span><span class="english">In this paper the relative rainfall area in weather chart are discussed.</span></p>

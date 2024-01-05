@@ -1,5 +1,7 @@
 # gill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gill.md)
+
 <p><span class="chinese">没有鳃耙。</span><span class="english">No gill rakers.</span></p>
 
 <p><span class="chinese">可是它又没有鱼鳃。</span><span class="english">They don't have gill.</span></p>

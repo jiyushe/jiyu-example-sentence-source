@@ -1,5 +1,7 @@
 # examinee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/examinee.md)
+
 <p><span class="chinese">我就是考生，怎么没有人说话啊？</span><span class="english">I am examinee how to talk without the person?</span></p>
 
 <p><span class="chinese">百分之六十的考生都非常的满意。</span><span class="english">Sixty percent of the examinee were very satisfied.</span></p>

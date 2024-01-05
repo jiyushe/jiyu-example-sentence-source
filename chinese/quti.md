@@ -1,5 +1,7 @@
 # 躯体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quti.md)
+
 <p><span class="chinese">肉体意味着躯体和物质。</span><span class="english">Corporeal means bodily ,material.</span></p>
 
 <p><span class="chinese">他的死亡使其灵魂脱离了躯体。</span><span class="english">His death disembodied his spirits.</span></p>

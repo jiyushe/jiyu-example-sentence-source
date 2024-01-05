@@ -1,5 +1,7 @@
 # 腰背
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaobei.md)
+
 <p><span class="chinese">腰背酸软，肢体困重。</span><span class="english">Back and knees, body weight difficulties.</span></p>
 
 <p><span class="chinese">下背痛就是一种常见的腰背疾病。</span><span class="english">Low back pain is the commonest one of them.</span></p>

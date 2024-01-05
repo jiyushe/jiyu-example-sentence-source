@@ -1,5 +1,7 @@
 # 橡皮泥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangpini.md)
+
 <p><span class="chinese">你们有橡皮泥吗？</span><span class="english">Do you have plasticene?</span></p>
 
 <p><span class="chinese">橡皮泥和菓子。</span><span class="english">Fake wagashi with plasticene.</span></p>

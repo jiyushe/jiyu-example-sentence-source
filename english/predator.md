@@ -1,5 +1,7 @@
 # predator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/predator.md)
+
 <p><span class="chinese">而对罗马尼亚人而言，俄国人则是掠夺者。</span><span class="english">To Romanians Russia is a predator.</span></p>
 
 <p><span class="chinese">疯狂的南瓜雕刻——食肉动物。</span><span class="english">Insane pumpkin carving of the Predator.</span></p>

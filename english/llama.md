@@ -1,5 +1,7 @@
 # llama
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/llama.md)
+
 <p><span class="chinese">那只美洲驼有一只腿瘸。</span><span class="english">The llama has a lame leg.</span></p>
 
 <p><span class="chinese">汉娜的无峰驼有一把锤子。</span><span class="english">Hannah's llama has a hammer.</span></p>

@@ -1,5 +1,7 @@
 # 风镜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengjing_1.md)
+
 <p><span class="chinese">戴上风镜，戴上风镜！</span><span class="english">Goggles on goggles on!</span></p>
 
 <p><span class="chinese">下次我带我的风镜来怎么样？</span><span class="english">Next time I bring my goggles ja?</span></p>

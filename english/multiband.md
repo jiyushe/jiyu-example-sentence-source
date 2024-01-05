@@ -1,5 +1,7 @@
 # multiband
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multiband.md)
+
 <p><span class="chinese">将贝叶斯理论用于多波段SAR图像的分类。</span><span class="english">In this paper, Bayesian theory is applied to classification of multiband SAR images.</span></p>
 
 <p><span class="chinese">多组频带使得多频带OFDM设备可以多模式操作。</span><span class="english">Multiple groups of bandsenable multiple modes of operation for MultiBand OFDM devices.</span></p>

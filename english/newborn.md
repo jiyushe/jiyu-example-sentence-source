@@ -1,5 +1,7 @@
 # newborn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/newborn.md)
+
 <p><span class="chinese">像刚出生的婴儿？！？</span><span class="english">Like a newborn baby!?</span></p>
 
 <p><span class="chinese">我讨厌我的新生儿。</span><span class="english">I hate my newborn baby.</span></p>

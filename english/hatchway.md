@@ -1,5 +1,7 @@
 # hatchway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hatchway.md)
+
 <p><span class="chinese">这梯子靠在墙上。</span><span class="english">A ladder or stairway within a hatchway.</span></p>
 
 <p><span class="chinese">他躲进一个舱口，点上了一只烟。</span><span class="english">He ducks into a hatchway and lights a cigarette.</span></p>

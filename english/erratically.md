@@ -1,5 +1,7 @@
 # erratically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erratically.md)
+
 <p><span class="chinese">这辆有古怪的车被随后而来的警察追上。</span><span class="english">The car was pursued by police after it was spotted being driven erratically.</span></p>
 
 <p><span class="chinese">由于他非常兴奋，他心里开始扑腾越来越多的不稳定。</span><span class="english">As he became excited, his heart began to palpitate more and more erratically.</span></p>

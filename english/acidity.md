@@ -1,5 +1,7 @@
 # acidity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acidity.md)
+
 <p><span class="chinese">柔软，有酸味呢？</span><span class="english">Soft , and a crisp acidity?</span></p>
 
 <p><span class="chinese">酸度平衡带出木味。</span><span class="english">Balanced acidity with oaky flavors.</span></p>

@@ -1,5 +1,7 @@
 # 火爆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huobao_1.md)
+
 <p><span class="chinese">是的，园艺在这里很火爆。</span><span class="english">Yes, gardening is big here.</span></p>
 
 <p><span class="chinese">所以，这个真的很火爆。</span><span class="english">So yeah, it's really, really big.</span></p>

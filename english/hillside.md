@@ -1,5 +1,7 @@
 # hillside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hillside.md)
+
 <p><span class="chinese">山坡上躺着一个牧童。</span><span class="english">On the hillside lay a cowboy.</span></p>
 
 <p><span class="chinese">岩石沿着山坡滚下来。</span><span class="english">Rocks rolled down the hillside.</span></p>

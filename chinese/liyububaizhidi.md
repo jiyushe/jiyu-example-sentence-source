@@ -1,5 +1,7 @@
 # 立于不败之地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liyububaizhidi.md)
+
 <p><span class="chinese">学习会使你永远立于不败之地。</span><span class="english">Learning will make you invincible.</span></p>
 
 <p><span class="chinese">使您在激烈的市场竞争中，立于不败之地。</span><span class="english">So you in the fierce market competition, in an invincible position.</span></p>

@@ -1,5 +1,7 @@
 # 引以为荣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinyiweirong.md)
+
 <p><span class="chinese">它应该令我们每个人引以为荣。</span><span class="english">And it should make every one of us proud.</span></p>
 
 <p><span class="chinese">没有可引以为荣的成功。</span><span class="english">There was no success there to be proud of.</span></p>

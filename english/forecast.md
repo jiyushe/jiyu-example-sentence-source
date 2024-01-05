@@ -1,5 +1,7 @@
 # forecast
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forecast.md)
+
 <p><span class="chinese">我们怎样才能预测？</span><span class="english">How do we forecast?</span></p>
 
 <p><span class="chinese">安琪对2010年有何猜测？</span><span class="english">What's Angel's forecast for 2010?</span></p>

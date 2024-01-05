@@ -1,5 +1,7 @@
 # titrimetry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/titrimetry.md)
+
 <p><span class="chinese">采用EDTA减量滴定法测定固体饮料中的微量铜。</span><span class="english">Trace copper in powdered drinks is determined by the EDTA titrimetry.</span></p>
 
 <p><span class="chinese">用高精度散射光度滴定法测定苯妥英钠的含量。</span><span class="english">The phenytoin sodium was determined by highly-accurate nephelometric titrimetry.</span></p>

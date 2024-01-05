@@ -1,5 +1,7 @@
 # prefect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prefect.md)
+
 <p><span class="chinese">福特•普里菲克特一动不动地坐着。</span><span class="english">Ford Prefect sat still.</span></p>
 
 <p><span class="chinese">所有的目光都集中在福特•普里菲克特身上。</span><span class="english">All eyes were on Ford Prefect.</span></p>

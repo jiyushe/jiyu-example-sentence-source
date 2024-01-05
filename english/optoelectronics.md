@@ -1,5 +1,7 @@
 # optoelectronics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/optoelectronics.md)
+
 <p><span class="chinese">京东方光电科技有限公司。</span><span class="english">BOE Optoelectronics Technology Co. Ltd.</span></p>
 
 <p><span class="chinese">它们可以被广泛的应用于光电子领域。</span><span class="english">These glasses may be widely used in the field of optoelectronics.</span></p>

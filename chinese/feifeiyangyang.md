@@ -1,5 +1,7 @@
 # 沸沸扬扬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feifeiyangyang.md)
+
 <p><span class="chinese">那个消息在城里传得沸沸扬扬.</span><span class="english">The town was buzzing with the news.</span></p>
 
 <p><span class="chinese">有一种传的沸沸扬扬的说法是找到一个类似地球的星球。</span><span class="english">A term that's often kicked around is finding an Earth-analog.</span></p>

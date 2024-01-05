@@ -1,5 +1,7 @@
 # 密信
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mixin.md)
+
 <p><span class="chinese">密信缝入他的腰带。</span><span class="english">Secret letters were quilted in his belt.</span></p>
 
 <p><span class="chinese">敌人搜他全身想找到那封密信。</span><span class="english">The enemy searched him through for the secret letter.</span></p>

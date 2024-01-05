@@ -1,5 +1,7 @@
 # parquet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parquet.md)
+
 <p><span class="chinese">镶木地板光洁如镜。</span><span class="english">The parquet floors shone like mirrors.</span></p>
 
 <p><span class="chinese">您可以到地板商店得到更好的咨询结果。</span><span class="english">Better consultation You con receive in parquet shop.</span></p>

@@ -1,5 +1,7 @@
 # dispossession
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dispossession.md)
+
 <p><span class="chinese">与所有权来剥夺。</span><span class="english">With ownership comes dispossession.</span></p>
 
 <p><span class="chinese">我们看到大量的土地被剥夺。</span><span class="english">We are seeing dispossession on a massive scale.</span></p>

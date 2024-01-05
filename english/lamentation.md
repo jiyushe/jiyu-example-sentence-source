@@ -1,5 +1,7 @@
 # lamentation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lamentation.md)
+
 <p><span class="chinese">我有什么可悲叹的呢？</span><span class="english">What have I to do with lamentation?</span></p>
 
 <p><span class="chinese">有七位朋友处于不同程度的悲戚之中。</span><span class="english">Seven friends are in various stages of lamentation.</span></p>

@@ -1,5 +1,7 @@
 # 重犯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongfan.md)
+
 <p><span class="chinese">我成了一个已定罪的全国重犯。</span><span class="english">I'm a convicted federal felon.</span></p>
 
 <p><span class="chinese">我们要避免重犯这些错误。</span><span class="english">We must avoid repeating these mistakes.</span></p>

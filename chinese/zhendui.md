@@ -1,5 +1,7 @@
 # 针对
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhendui.md)
+
 <p><span class="chinese">我们可以针对这点加上附加条款。</span><span class="english">We can add a rider for that.</span></p>
 
 <p><span class="chinese">B2C销售针对个人。</span><span class="english">A B2C sale is to an individual.</span></p>

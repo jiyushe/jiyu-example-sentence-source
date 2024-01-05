@@ -1,5 +1,7 @@
 # sift
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sift.md)
+
 <p><span class="chinese">把小麦的壳筛出来。</span><span class="english">Sift out the wheat from the chaff.</span></p>
 
 <p><span class="chinese">低筋面粉过筛备用。</span><span class="english">Sift the cake flour and set aside.</span></p>

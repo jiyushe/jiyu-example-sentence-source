@@ -1,5 +1,7 @@
 # anemic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anemic.md)
+
 <p><span class="chinese">长期借款依然萎靡不振。</span><span class="english">Longer-term borrowing also is anemic.</span></p>
 
 <p><span class="chinese">山东推行足球进武校计划，功夫能拯救中国足球？</span><span class="english">China's anemic soccer pins hopes on Kungfu.</span></p>

@@ -1,5 +1,7 @@
 # 照相
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaoxiang_1.md)
+
 <p><span class="chinese">你也能照相缩小。</span><span class="english">You can photo-reduce.</span></p>
 
 <p><span class="chinese">我将给它照相。</span><span class="english">I am going to graph this.</span></p>

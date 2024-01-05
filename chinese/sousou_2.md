@@ -1,5 +1,7 @@
 # 飕飕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sousou_2.md)
+
 <p><span class="chinese">今天冷风飕飕。</span><span class="english">It's chilly today.</span></p>
 
 <p><span class="chinese">汽车飕飕地开了过去。</span><span class="english">Cars were whizzing past.</span></p>

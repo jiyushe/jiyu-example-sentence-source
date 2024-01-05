@@ -1,5 +1,7 @@
 # beach
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beach.md)
+
 <p><span class="chinese">大家都到海边去了。</span><span class="english">Everyone go to beach.</span></p>
 
 <p><span class="chinese">海滩好极了。</span><span class="english">The beach is amazing.</span></p>

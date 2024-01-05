@@ -1,5 +1,7 @@
 # ranking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ranking.md)
+
 <p><span class="chinese">但这种归类总让人感到是任意而为的。</span><span class="english">But ranking them just feels arbitrary.</span></p>
 
 <p><span class="chinese">考虑将客户分类或排列。</span><span class="english">Consider categorizing or ranking them.</span></p>

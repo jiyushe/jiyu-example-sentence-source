@@ -1,5 +1,7 @@
 # examples
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/examples.md)
+
 <p><span class="chinese">一些例子。</span><span class="english">Some examples.</span></p>
 
 <p><span class="chinese">好，下面来做例题。</span><span class="english">OK. Let's do examples.</span></p>

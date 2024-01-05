@@ -1,5 +1,7 @@
 # 探求
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanqiu.md)
+
 <p><span class="chinese">人们探求真理。</span><span class="english">Human beings seek the Truth.</span></p>
 
 <p><span class="chinese">他们正在探求真理。</span><span class="english">They are groping after the truth.</span></p>

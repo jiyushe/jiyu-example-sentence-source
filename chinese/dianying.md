@@ -1,5 +1,7 @@
 # 电影
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianying.md)
+
 <p><span class="chinese">看电影。</span><span class="english">Watch films.</span></p>
 
 <p><span class="chinese">可能就是看场电影。</span><span class="english">A movie maybe.</span></p>

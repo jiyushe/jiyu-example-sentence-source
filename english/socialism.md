@@ -1,5 +1,7 @@
 # socialism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/socialism.md)
+
 <p><span class="chinese">我要说说社会主义。</span><span class="english">I want to mention socialism.</span></p>
 
 <p><span class="chinese">他们表示拥护社会主义。</span><span class="english">They declared for socialism.</span></p>

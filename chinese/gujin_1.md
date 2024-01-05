@@ -1,5 +1,7 @@
 # 股金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gujin_1.md)
+
 <p><span class="chinese">他用银行本票支付购股金。</span><span class="english">He payed his subscription by banker's order.</span></p>
 
 <p><span class="chinese">二依合作社股金总额或合作社联合社所属合作社股金总额比例定之。</span><span class="english">Determined according to the total capital of each cooperative or cooperatives union.</span></p>

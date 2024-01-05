@@ -1,5 +1,7 @@
 # wildcat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wildcat.md)
+
 <p><span class="chinese">我很高兴到了国王之后，还能跟着另外一个野猫球员继续学习。</span><span class="english">I'm happy to have another Wildcat on my team to learn from.</span></p>
 
 <p><span class="chinese">东秋5井是一口典型的异常高压低渗透地层预探井。</span><span class="english">Well Dong Qiu5 is a wildcat well with Abnormal High Pressure.</span></p>

@@ -1,5 +1,7 @@
 # darpa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/darpa.md)
+
 <p><span class="chinese">我们之前已经对军方和DARPA如何开发新型自组网技术做过探讨。</span><span class="english">We've looked at how the Army and DARPA are developing new ad-hoc networking technology.</span></p>
 
 <p><span class="chinese">为了提高机动性和操纵性，DARPA要求公司在自然环境寻找案例。</span><span class="english">For mobility and manipulation, DARPA is asking companies to look at nature for examples.</span></p>

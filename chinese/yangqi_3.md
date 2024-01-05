@@ -1,5 +1,7 @@
 # 洋气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangqi_3.md)
+
 <p><span class="chinese">哇，果然好洋气呢！</span><span class="english">Wow, really good Western style!</span></p>
 
 <p><span class="chinese">白领算个屁，养猪才洋气。</span><span class="english">White collar is a fart, pig to Western style.</span></p>

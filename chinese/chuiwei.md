@@ -1,5 +1,7 @@
 # 垂危
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuiwei.md)
+
 <p><span class="chinese">他的生命逐渐垂危。</span><span class="english">His life is gradually ebbing.</span></p>
 
 <p><span class="chinese">她现在生命垂危。</span><span class="english">Her life now hangs by a thread.</span></p>

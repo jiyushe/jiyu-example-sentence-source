@@ -1,5 +1,7 @@
 # redact
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redact.md)
+
 <p><span class="chinese">我们编辑整理各大高校活动相关稿件。</span><span class="english">We redact and pack up the contributions from kinds of universities.</span></p>
 
 <p><span class="chinese">只要通过简单地移动鼠标，就可以修订一个单词。</span><span class="english">You can redact a word simply by selecting it with your mouse cursor.</span></p>

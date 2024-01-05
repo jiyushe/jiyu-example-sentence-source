@@ -1,5 +1,7 @@
 # conceptual
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conceptual.md)
+
 <p><span class="chinese">创建系统的概念模型。</span><span class="english">Create a conceptual model of the system.</span></p>
 
 <p><span class="chinese">那一个设计概念图您最喜欢的？</span><span class="english">Which one of conceptual plans do you like?</span></p>

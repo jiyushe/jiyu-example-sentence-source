@@ -1,5 +1,7 @@
 # solicitor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solicitor.md)
+
 <p><span class="chinese">他的代表律师是迪格比·庄逊。</span><span class="english">His solicitor is Digby Johnson.</span></p>
 
 <p><span class="chinese">我的律师将代我处理我的全部事务。</span><span class="english">My solicitor will act for me in my affairs.</span></p>

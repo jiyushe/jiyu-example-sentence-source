@@ -1,5 +1,7 @@
 # nfl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nfl.md)
+
 <p><span class="chinese">伍德拉夫进了橄榄球起草于1979年。</span><span class="english">Woodruff was drafted into the NFL in 1979.</span></p>
 
 <p><span class="chinese">NFL球手，2000年卷入一桩交通肇事案被捕。</span><span class="english">NFL player, was arrested in 2000 involved in a Traffic Accident.</span></p>

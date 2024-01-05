@@ -1,5 +1,7 @@
 # sappy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sappy.md)
+
 <p><span class="chinese">慌张无聊的音乐。</span><span class="english">Sappy boring music.</span></p>
 
 <p><span class="chinese">这是一首多愁善感的歌。</span><span class="english">It's a sappy song in word.</span></p>

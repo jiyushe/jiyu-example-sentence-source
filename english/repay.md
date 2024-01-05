@@ -1,5 +1,7 @@
 # repay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repay.md)
+
 <p><span class="chinese">我们应该报答他的好意。</span><span class="english">We should repay his kindness.</span></p>
 
 <p><span class="chinese">我们永远也偿还不了这笔债了。</span><span class="english">You can never repay that debt.</span></p>

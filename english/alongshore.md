@@ -1,5 +1,7 @@
 # alongshore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alongshore.md)
+
 <p><span class="chinese">去年生的草丛，Straditsa河流沿岸的芦苇。</span><span class="english">Bushes of last year reed mace alongshore the Straditsa river.</span></p>
 
 <p><span class="chinese">这一特性意味着它在沿岸方向始终保持它的形状。</span><span class="english">This means that it retains its shape in the alongshore direction over time.</span></p>

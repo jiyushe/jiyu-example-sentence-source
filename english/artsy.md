@@ -1,5 +1,7 @@
 # artsy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/artsy.md)
+
 <p><span class="chinese">艺术还是商业？</span><span class="english">Artsy or commercial?</span></p>
 
 <p><span class="chinese">我宁愿看一些更加艺术的影片。</span><span class="english">I would love to see some more artsy films.</span></p>

@@ -1,5 +1,7 @@
 # knower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knower.md)
+
 <p><span class="chinese">只有那个知者是真实的。</span><span class="english">Only the knower is true, is real.</span></p>
 
 <p><span class="chinese">这是对学者的良好的建议？</span><span class="english">Is this always good advice for a knower?</span></p>

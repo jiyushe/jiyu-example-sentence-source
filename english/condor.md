@@ -1,5 +1,7 @@
 # condor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/condor.md)
+
 <p><span class="chinese">你必须集合许多秃鹰吗?。</span><span class="english">Do you have to assemble many Condor?</span></p>
 
 <p><span class="chinese">让我们去对秃鹰的希望最好。</span><span class="english">Let's go wish the best to the Condor.</span></p>

@@ -1,5 +1,7 @@
 # 考察
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaocha.md)
+
 <p><span class="chinese">他们并不在终身制考察期。</span><span class="english">They are not on a tenure track.</span></p>
 
 <p><span class="chinese">接待考察爱购网。</span><span class="english">Welcome to love to buy network.</span></p>

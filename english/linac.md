@@ -1,5 +1,7 @@
 # linac
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/linac.md)
+
 <p><span class="chinese">因此，三个直线加速器站已经加入到SLC系统网。</span><span class="english">Therefore, three linac stations have been added to the SLC net.</span></p>
 
 <p><span class="chinese">对超导直线加速器的分段进行了详细的研究。</span><span class="english">Study on the section-division of superconducting proton linac is carried out in detail.</span></p>

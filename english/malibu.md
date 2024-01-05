@@ -1,5 +1,7 @@
 # malibu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malibu.md)
+
 <p><span class="chinese">那马里布呢？</span><span class="english">Malibu?</span></p>
 
 <p><span class="chinese">我想婚礼在马里布举行。</span><span class="english">I think the wedding is in Malibu.</span></p>

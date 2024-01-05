@@ -1,5 +1,7 @@
 # capitulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capitulation.md)
+
 <p><span class="chinese">投降还是修正?</span><span class="english">Capitulation or correction? This is a correction.</span></p>
 
 <p><span class="chinese">终于，日本天皇宣布投降。</span><span class="english">At last, the emperor of Japan announced capitulation.</span></p>

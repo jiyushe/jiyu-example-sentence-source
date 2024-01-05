@@ -1,5 +1,7 @@
 # 用功
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yonggong_1.md)
+
 <p><span class="chinese">他立誓要用功读书。</span><span class="english">He vowed to study hard.</span></p>
 
 <p><span class="chinese">我依旧用功读书。</span><span class="english">I still studied ery hard.</span></p>

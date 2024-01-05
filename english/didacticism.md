@@ -1,5 +1,7 @@
 # didacticism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/didacticism.md)
+
 <p><span class="chinese">除了绝对论，说教，道德训诫之外，他们一无所有。</span><span class="english">Everything else in them is nothing but absolutism, preaching, moral didacticism.</span></p>
 
 <p><span class="chinese">美国有一种说教，不只谴责奴隶制度和酗酒放纵。</span><span class="english">There was an American didacticism that went beyond condemning slavery or intemperance.</span></p>

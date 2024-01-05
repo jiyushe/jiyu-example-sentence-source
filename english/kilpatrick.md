@@ -1,5 +1,7 @@
 # kilpatrick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kilpatrick.md)
+
 <p><span class="chinese">帕特里克表示，韦斯科金融公司一直都由伯克希尔哈撒韦控股，这次交易顺理成章。</span><span class="english">"It ties up a loose end that's always been there at Berkshire," Kilpatrick said.</span></p>
 
 <p><span class="chinese">底特律市长夸梅·基尔帕特里克说他正在寻求无罪申辩。</span><span class="english">Detroit Mayor Kwame Kilpatrick says he is looking forward to complete exoneration.</span></p>

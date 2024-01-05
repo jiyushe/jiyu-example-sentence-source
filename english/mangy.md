@@ -1,5 +1,7 @@
 # mangy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mangy.md)
+
 <p><span class="chinese">这就是你们这群肮脏的佣兵能做的极限？</span><span class="english">So this is the best you mangy mercenaries can do?</span></p>
 
 <p><span class="chinese">污秽的骆驼四处游荡，用鼻子蹭着裸露的树梢。</span><span class="english">Mangy camelsrange, nuzzling the denuded tops of trees.</span></p>

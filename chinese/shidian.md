@@ -1,5 +1,7 @@
 # 试点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shidian.md)
+
 <p><span class="chinese">试点计划是敷衍了事。</span><span class="english">There is the pilot program dodge.</span></p>
 
 <p><span class="chinese">他是一个非委托干事试点。</span><span class="english">He was a Non-Commissioned Officer Pilot.</span></p>

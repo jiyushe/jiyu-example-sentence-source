@@ -1,5 +1,7 @@
 # 援救
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanjiu.md)
+
 <p><span class="chinese">但约瑟芬姨母来援救他了。</span><span class="english">But Aunt Josephine came to his rescue.</span></p>
 
 <p><span class="chinese">援救人员把他救了下来，去掉了钓鱼线。</span><span class="english">Rescue workers removed the fishing line.</span></p>

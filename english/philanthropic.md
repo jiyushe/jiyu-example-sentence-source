@@ -1,5 +1,7 @@
 # philanthropic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/philanthropic.md)
+
 <p><span class="chinese">同时他也热心于慈善,总的来说他的一切都近乎超然</span><span class="english">But he also has a philanthropic side so it all comes out very well.</span></p>
 
 <p><span class="chinese">他被委任为此次慈善活动的形象大使。</span><span class="english">He was appointed as the image ambassador of the philanthropic activity.</span></p>

@@ -1,5 +1,7 @@
 # giddiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/giddiness.md)
+
 <p><span class="chinese">眼花并可能失去知觉。</span><span class="english">Giddiness and possible unconsciousness.</span></p>
 
 <p><span class="chinese">眩晕遗址之一的心灵，而攻击。</span><span class="english">Giddiness ruins up one's mind while attack.</span></p>

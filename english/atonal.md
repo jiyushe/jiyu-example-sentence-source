@@ -1,5 +1,7 @@
 # atonal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atonal.md)
+
 <p><span class="chinese">那时，人们还不接受无调性音乐。</span><span class="english">People did not accept atonal music at that time.</span></p>
 
 <p><span class="chinese">无调性音乐中既有宏伟动人之作，又有糟得吓人之作。</span><span class="english">There is great atonal music and terrible atonal music.</span></p>

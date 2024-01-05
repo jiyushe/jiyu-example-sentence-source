@@ -1,5 +1,7 @@
 # 同素异形体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongsuyixingti.md)
+
 <p><span class="chinese">天然存在的透明、无色、结晶的碳的同素异形体。</span><span class="english">Naturally occurring transparent, colorless crystalline allotrope of carbon.</span></p>
 
 <p><span class="chinese">线型碳是1968年在自然界发现的一种碳的新同素异形体。</span><span class="english">Carbyne is a new allotrope of carbon which had been found in nature in 1968.</span></p>

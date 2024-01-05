@@ -1,5 +1,7 @@
 # estate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/estate.md)
+
 <p><span class="chinese">进入房地产吧。</span><span class="english">Go into real estate.</span></p>
 
 <p><span class="chinese">地产“泡沫化”。</span><span class="english">Real estate "bubble".</span></p>

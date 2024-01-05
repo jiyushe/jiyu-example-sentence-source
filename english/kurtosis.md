@@ -1,5 +1,7 @@
 # kurtosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kurtosis.md)
+
 <p><span class="chinese">峭度是随机变量非高斯性的一个经典度量。</span><span class="english">Kurtosis is a classical measure of non-Gaussianity of random variable.</span></p>
 
 <p><span class="chinese">提出一种基于峰度的视频水印新算法。</span><span class="english">This paper proposes a new algorithm of video watermarking based on kurtosis and DCT.</span></p>

@@ -1,5 +1,7 @@
 # 平衡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingheng.md)
+
 <p><span class="chinese">气候平衡理论说。</span><span class="english">Climatic Balance.</span></p>
 
 <p><span class="chinese">这是不平衡的。</span><span class="english">It is not balanced.</span></p>

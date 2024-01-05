@@ -1,5 +1,7 @@
 # penguin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/penguin.md)
+
 <p><span class="chinese">可是小企鹅哪儿去了？</span><span class="english">But where was the penguin?</span></p>
 
 <p><span class="chinese">十个小企鹅好伙伴！</span><span class="english">Ten little penguin friends!</span></p>

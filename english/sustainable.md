@@ -1,5 +1,7 @@
 # sustainable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sustainable.md)
+
 <p><span class="chinese">并且可持续的生存下去。</span><span class="english">Survive and be sustainable overtime.</span></p>
 
 <p><span class="chinese">以上两种形式既不可持续，我们也担不起后果。</span><span class="english">Neither of them is sustainable nor can we afford.</span></p>

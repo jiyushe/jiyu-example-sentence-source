@@ -1,5 +1,7 @@
 # positional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/positional.md)
+
 <p><span class="chinese">你需要测量三次位移</span><span class="english">You need three positional measurements.</span></p>
 
 <p><span class="chinese">使用位置谓词提前终止。</span><span class="english">Early termination with positional predicates.</span></p>

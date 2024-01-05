@@ -1,5 +1,7 @@
 # 物理化学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wulihuaxue.md)
+
 <p><span class="chinese">物理化学这已经是2002六百四十六小时和模型。</span><span class="english">This is the 2002 646 hours, and models.</span></p>
 
 <p><span class="chinese">我们可将物理化学划分为四个主要领域。</span><span class="english">We can divide physical chemistry into four main areas.</span></p>

@@ -1,5 +1,7 @@
 # bouillon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bouillon.md)
+
 <p><span class="chinese">一道道热气腾腾的肉汤被端上来了。</span><span class="english">Dishes of bouillon were brought in hot and hot.</span></p>
 
 <p><span class="chinese">加入扁豆，鸡精和水。</span><span class="english">Add lentils, chicken bouillon and water to the skillet.</span></p>

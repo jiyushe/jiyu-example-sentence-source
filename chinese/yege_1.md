@@ -1,5 +1,7 @@
 # 野鸽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yege_1.md)
+
 <p><span class="chinese">树林深处野鸽的哀诉声。</span><span class="english">The stock dove plain amid the forest deep.</span></p>
 
 <p><span class="chinese">野鸽在浓密的树林中哀诉。</span><span class="english">Thee stock dove plain amid the forest deep.</span></p>

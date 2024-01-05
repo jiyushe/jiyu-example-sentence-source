@@ -1,5 +1,7 @@
 # noticed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noticed.md)
+
 <p><span class="chinese">我已经注意到了。</span><span class="english">I have noticed that.</span></p>
 
 <p><span class="chinese">但没人注意到它。</span><span class="english">But no one noticed that.</span></p>

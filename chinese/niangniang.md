@@ -1,5 +1,7 @@
 # 娘娘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niangniang.md)
+
 <p><span class="chinese">行行好吧，鱼娘娘！</span><span class="english">The line do good, fish empress!</span></p>
 
 <p><span class="chinese">可是凝霜觉得娘娘真不该这样。</span><span class="english">But Ning frost feel empress really not should so.</span></p>

@@ -1,5 +1,7 @@
 # cerebral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cerebral.md)
+
 <p><span class="chinese">我患有脑瘫。</span><span class="english">I have cerebral palsy.</span></p>
 
 <p><span class="chinese">如何治疗脑血栓？</span><span class="english">How to treat cerebral thrombus?</span></p>

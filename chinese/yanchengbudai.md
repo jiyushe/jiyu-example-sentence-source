@@ -1,5 +1,7 @@
 # 严惩不贷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanchengbudai.md)
+
 <p><span class="chinese">违者严惩不贷。</span><span class="english">Those who disobey will be severely punished.</span></p>
 
 <p><span class="chinese">我们对那些刑事罪犯将严惩不贷。</span><span class="english">We will give the criminal offenders shot shrift.</span></p>

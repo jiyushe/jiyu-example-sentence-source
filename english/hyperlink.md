@@ -1,5 +1,7 @@
 # hyperlink
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperlink.md)
+
 <p><span class="chinese">加入新时装网址连结。</span><span class="english">Added new fashion website hyperlink.</span></p>
 
 <p><span class="chinese">不错，你可以建立一个超链由三种方式。</span><span class="english">Yes, you can create a hyperlink by three ways.</span></p>

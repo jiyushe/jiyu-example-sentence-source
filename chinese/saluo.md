@@ -1,5 +1,7 @@
 # 洒落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saluo.md)
+
 <p><span class="chinese">高高洒落在崖岸上。</span><span class="english">High on the rocky shore.</span></p>
 
 <p><span class="chinese">雪花洒落大地。</span><span class="english">Snow sluiced down over the earth.</span></p>

@@ -1,5 +1,7 @@
 # discernable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discernable.md)
+
 <p><span class="chinese">这张纸上没有明显的污损。</span><span class="english">There is no discernable offset on the paper.</span></p>
 
 <p><span class="chinese">他的品味相当挑，就像他只喜欢古典音乐。</span><span class="english">He has very discernable tastes he only likes classical music.</span></p>

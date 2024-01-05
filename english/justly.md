@@ -1,5 +1,7 @@
 # justly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/justly.md)
+
 <p><span class="chinese">人民警察必须做到公正执法。</span><span class="english">Police must enforce law justly.</span></p>
 
 <p><span class="chinese">电视新闻就因为它的公正而受到了很多的批评。</span><span class="english">TV news justly receives much criticism.</span></p>

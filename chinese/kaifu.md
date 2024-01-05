@@ -1,5 +1,7 @@
 # 开赴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaifu.md)
+
 <p><span class="chinese">他们在午夜踏上了开赴诺曼底的征程。</span><span class="english">They started off to Normandie at midnight.</span></p>
 
 <p><span class="chinese">中国将派新的采购团开赴欧洲。</span><span class="english">China to send new purchase teams to Europe.</span></p>

@@ -1,5 +1,7 @@
 # transferability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transferability.md)
+
 <p><span class="chinese">只有那些才可称其具有可转换性。</span><span class="english">Only those can be said to possess transferability.</span></p>
 
 <p><span class="chinese">第二章为提单的可转让性。</span><span class="english">Chapter Two discusses the transferability of bill of lading.</span></p>

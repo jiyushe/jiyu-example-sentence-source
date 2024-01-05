@@ -1,5 +1,7 @@
 # pi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pi.md)
+
 <p><span class="chinese">我选了圆周率的符号。</span><span class="english">I chose the symbol for pi.</span></p>
 
 <p><span class="chinese">乘以π，得到21。</span><span class="english">I multiply by pi and I get 21.5.</span></p>

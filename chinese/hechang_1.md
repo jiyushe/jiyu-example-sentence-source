@@ -1,5 +1,7 @@
 # 合唱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hechang_1.md)
+
 <p><span class="chinese">冯·特普家庭合唱组。</span><span class="english">The Von Trapp family singers.</span></p>
 
 <p><span class="chinese">就知牠昨夜去合唱。</span><span class="english">I knew he chorused last night.</span></p>

@@ -1,5 +1,7 @@
 # homogenate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homogenate.md)
+
 <p><span class="chinese">过量的树脂悬浮于粗匀浆中。</span><span class="english">Excess resin is suspended in the crude homogenate.</span></p>
 
 <p><span class="chinese">其余部分结肠组织匀浆测定MPO活性。</span><span class="english">Measure the MPO activity of the rest part of colon in homogenate.</span></p>

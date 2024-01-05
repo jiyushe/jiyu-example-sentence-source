@@ -1,5 +1,7 @@
 # 丛生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congsheng.md)
+
 <p><span class="chinese">茎通常丛生。</span><span class="english">Stems often tufted.</span></p>
 
 <p><span class="chinese">这条新路上荆棘丛生。</span><span class="english">The new path was a thorny one.</span></p>

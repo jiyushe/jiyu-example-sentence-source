@@ -1,5 +1,7 @@
 # joneses
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/joneses.md)
+
 <p><span class="chinese">我们只是在跟自己攀比。</span><span class="english">We are our own Joneses.</span></p>
 
 <p><span class="chinese">忘记那个负心汉吧！</span><span class="english">Forget about the Joneses.</span></p>

@@ -1,5 +1,7 @@
 # 军号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junhao.md)
+
 <p><span class="chinese">进军号吹响了。</span><span class="english">The advance was sounded.</span></p>
 
 <p><span class="chinese">军号吹响退兵号。</span><span class="english">The bugle tooted retreat.</span></p>

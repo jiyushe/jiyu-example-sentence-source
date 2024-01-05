@@ -1,5 +1,7 @@
 # granger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/granger.md)
+
 <p><span class="chinese">是的，德拉科告诉了我有关你的一切。</span><span class="english">Granger. Yes, Dracos told me all about you.</span></p>
 
 <p><span class="chinese">那是赫敏·格兰杰吗她跟格朗在一起?。</span><span class="english">Is that Hermione Granger? With Viktor Krum?</span></p>

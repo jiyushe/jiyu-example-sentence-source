@@ -1,5 +1,7 @@
 # 提篮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tilan.md)
+
 <p><span class="chinese">大号提篮式购物包，光滑皮革包边。</span><span class="english">Basket cord tote bag with smooth leather trims.</span></p>
 
 <p><span class="chinese">推车架、座椅、提篮和纺织品套装。</span><span class="english">A chassis, a seat, a carry cot, and textile sets.</span></p>

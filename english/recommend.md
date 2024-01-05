@@ -1,5 +1,7 @@
 # recommend 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recommend.md)
+
 <p><span class="chinese">我建议你可以烫发。</span><span class="english">I'd recommend a perm.</span></p>
 
 <p><span class="chinese">我强烈推荐这本书！</span><span class="english">I highly recommend it!</span></p>

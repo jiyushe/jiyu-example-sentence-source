@@ -1,5 +1,7 @@
 # 清规戒律
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingguijielv.md)
+
 <p><span class="chinese">我抛弃了城里的那些清规戒律。</span><span class="english">I shook off the discipline of the city.</span></p>
 
 <p><span class="chinese">最后被圈地法律和外来清规戒律击败。</span><span class="english">And unhorsed by fences, laws and alien taboos.</span></p>

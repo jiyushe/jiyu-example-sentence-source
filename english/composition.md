@@ -1,5 +1,7 @@
 # composition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/composition.md)
+
 <p><span class="chinese">那是一节作文课。</span><span class="english">It was a composition class.</span></p>
 
 <p><span class="chinese">他校改了我写得不好的作文。</span><span class="english">He fixed my bad composition.</span></p>

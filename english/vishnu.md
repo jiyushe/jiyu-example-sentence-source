@@ -1,5 +1,7 @@
 # vishnu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vishnu.md)
+
 <p><span class="chinese">佛祖，基督，毗湿奴，穆罕默德和亨利</span><span class="english">Buddha Christ Vishnu Mohammed and Henry</span></p>
 
 <p><span class="chinese">毗湿奴神沉睡在其所属的海洋…</span><span class="english">Lord Vishnu sleeps on him in the ocean of being.</span></p>

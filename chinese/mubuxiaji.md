@@ -1,5 +1,7 @@
 # 目不暇给
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mubuxiaji.md)
+
 <p><span class="chinese">目不暇给的魔术变换，让他们忘了回家的路。</span><span class="english">Mesmerized by the dazzling magic, they forget their way home.</span></p>
 
 <p><span class="chinese">这出电影透过某些如炼金术般神奇的手法，把本来沉闷的小说变为一次令人目不暇给的视觉旅程。</span><span class="english">This movie, through some sort of alchemy, has turned an otherwise dull novel into an arresting visual journey.</span></p>

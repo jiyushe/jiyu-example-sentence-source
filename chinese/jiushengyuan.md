@@ -1,5 +1,7 @@
 # 救生员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiushengyuan.md)
+
 <p><span class="chinese">没有救生员。</span><span class="english">No lifeguard on duty.</span></p>
 
 <p><span class="chinese">我们有救生员值班。</span><span class="english">We have lifeguards on duty.</span></p>

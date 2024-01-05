@@ -1,5 +1,7 @@
 # stabling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stabling.md)
+
 <p><span class="chinese">这所房子有可容纳20匹马的设备。</span><span class="english">The house has stabling for 20 horses.</span></p>
 
 <p><span class="chinese">如提供住房和舍饲设施。</span><span class="english">Inns provided shelter and stabling facilities.</span></p>

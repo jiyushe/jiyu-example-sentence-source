@@ -1,5 +1,7 @@
 # microcrack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microcrack.md)
+
 <p><span class="chinese">混凝土的基本破坏机理是微开裂。</span><span class="english">Microcrack is the failure mechanism of concrete.</span></p>
 
 <p><span class="chinese">介绍了一种用于岩石材料微裂纹观察的复型技术。</span><span class="english">A special surface replica technique for microcrack observation of rocks is introduced.</span></p>

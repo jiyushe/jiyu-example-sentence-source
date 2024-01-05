@@ -1,5 +1,7 @@
 # gynecological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gynecological.md)
+
 <p><span class="chinese">妇科炎症吃什么药？</span><span class="english">Gynecological inflammation eat what medicine?</span></p>
 
 <p><span class="chinese">避免妇科手术后感染。</span><span class="english">Three, avoid gynecological surgery infection.</span></p>

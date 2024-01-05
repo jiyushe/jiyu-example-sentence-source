@@ -1,5 +1,7 @@
 # 土里土气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tulituqi.md)
+
 <p><span class="chinese">土里土气土耳其四人行。</span><span class="english">Four people in Turkey.</span></p>
 
 <p><span class="chinese">那时候，我一度排斥格子，觉得格子一点也不时髦，土里土气的。</span><span class="english">At that time, I once exclusion lattice, that grid is nothing trendy, rustic of.</span></p>

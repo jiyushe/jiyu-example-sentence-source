@@ -1,5 +1,7 @@
 # industrialist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/industrialist.md)
+
 <p><span class="chinese">谭华正博士为著名工业家及慈善家。</span><span class="english">Dr Tam is a well-known industrialist and philanthropist.</span></p>
 
 <p><span class="chinese">近代着名的实业家张謇就是南通人。</span><span class="english">The famed modern-time industrialist Zhang Jian was born in Nantong.</span></p>

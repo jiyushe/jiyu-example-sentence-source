@@ -1,5 +1,7 @@
 # striptease
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/striptease.md)
+
 <p><span class="chinese">你喜欢看脱衣舞吗？</span><span class="english">Do you like to watch striptease?</span></p>
 
 <p><span class="chinese">每个人都喜欢电影中那些脱衣舞的经典桥段。</span><span class="english">Everyone loves a good striptease in movies.</span></p>

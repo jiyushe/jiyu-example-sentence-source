@@ -1,5 +1,7 @@
 # rook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rook.md)
+
 <p><span class="chinese">我用我的女王拿了她的车。</span><span class="english">I take her rook with my queen.</span></p>
 
 <p><span class="chinese">我们希望能够继续工作，对我们的会晤车！</span><span class="english">We want to get to work on our meeting rook !</span></p>

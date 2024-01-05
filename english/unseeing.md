@@ -1,5 +1,7 @@
 # unseeing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unseeing.md)
+
 <p><span class="chinese">感情是无形燃烧的火焰。</span><span class="english">Love is a fire which burns unseeing.</span></p>
 
 <p><span class="chinese">而当你终于无视地走过。</span><span class="english">But when at last you walk past unseeing.</span></p>

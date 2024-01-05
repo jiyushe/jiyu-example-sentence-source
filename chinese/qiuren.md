@@ -1,5 +1,7 @@
 # 求人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiuren.md)
+
 <p><span class="chinese">你想帮他个忙，他却说，他不喜欢求人。</span><span class="english">I hate asking favors of people.</span></p>
 
 <p><span class="chinese">求人帮忙实在叫他难于启齿。</span><span class="english">I'll find the people to help do it.</span></p>

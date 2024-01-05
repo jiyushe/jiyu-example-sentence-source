@@ -1,5 +1,7 @@
 # madre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/madre.md)
+
 <p><span class="chinese">马德雷德迪奥斯河上下游正在开采金矿的工人。</span><span class="english">Up and down the Madre de Dios River, people mine for gold.</span></p>
 
 <p><span class="chinese">古兹曼据信藏身于马德雷山中。</span><span class="english">Guzmán is believed to be hiding in the Sierra Madre mountains.</span></p>

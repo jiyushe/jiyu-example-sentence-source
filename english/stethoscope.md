@@ -1,5 +1,7 @@
 # stethoscope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stethoscope.md)
+
 <p><span class="chinese">他发明了一种新型听诊器。</span><span class="english">He invented a new type of stethoscope.</span></p>
 
 <p><span class="chinese">德克萨斯州沃斯堡力学听诊器。</span><span class="english">Fort Worth, Texas, and mechanics stethoscope.</span></p>

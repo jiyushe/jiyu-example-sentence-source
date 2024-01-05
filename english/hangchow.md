@@ -1,5 +1,7 @@
 # hangchow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hangchow.md)
+
 <p><span class="chinese">我在考虑到杭州去一趟。</span><span class="english">I'm thinking of going to Hangchow.</span></p>
 
 <p><span class="chinese">杭州西湖使游客流连忘返。</span><span class="english">The West Lake in Hangchow is a magnet for visitors.</span></p>

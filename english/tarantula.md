@@ -1,5 +1,7 @@
 # tarantula
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tarantula.md)
+
 <p><span class="chinese">同时他还在他的包里藏着一只狼蛛。</span><span class="english">He had also concealed a tarantula in his bag.</span></p>
 
 <p><span class="chinese">他们班上有一个宠物蜘蛛，非常可爱。</span><span class="english">they have a pet Tarantula in the class.  Lovely.</span></p>

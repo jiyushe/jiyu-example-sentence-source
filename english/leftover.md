@@ -1,5 +1,7 @@
 # leftover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leftover.md)
+
 <p><span class="chinese">剩饭开始发臭了。</span><span class="english">The leftover food began to smell bad.</span></p>
 
 <p><span class="chinese">加热一个未用完的薄片低脂比萨。</span><span class="english">Warm up a leftover slice of low-fat pizza.</span></p>

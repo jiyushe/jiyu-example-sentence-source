@@ -1,5 +1,7 @@
 # lawman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lawman.md)
+
 <p><span class="chinese">这还是执法人员梅尔文·珀维斯的故事，他被J。</span><span class="english">This is also the story of the lawman , Melvin Purvis, set to task by J.</span></p>
 
 <p><span class="chinese">梅尔文·珀维斯是一位方下巴的执法者，他在最后找到自己。</span><span class="english">Melvin Purvis is a square-jawed lawman who finds himself in the deep end.</span></p>

@@ -1,5 +1,7 @@
 # sandstone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sandstone.md)
+
 <p><span class="chinese">他们发现了一个沙岩石床。</span><span class="english">They found a bed of sandstone.</span></p>
 
 <p><span class="chinese">粗砂岩是硅酸砂岩。</span><span class="english">Gritrock is siliceous sandstone.</span></p>

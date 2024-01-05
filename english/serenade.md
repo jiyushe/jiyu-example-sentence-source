@@ -1,5 +1,7 @@
 # serenade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serenade.md)
+
 <p><span class="chinese">我偏爱舒伯特的小夜曲。</span><span class="english">I prefer Schubert 's Serenade.</span></p>
 
 <p><span class="chinese">用你的歌声为这个世界歌唱吧。</span><span class="english">Serenade the world with your song!</span></p>

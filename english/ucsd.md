@@ -1,5 +1,7 @@
 # ucsd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ucsd.md)
+
 <p><span class="chinese">加利福尼亚大学计算机科学大楼里的50台PC机现在都运行着“休眠服务器”这款软件。</span><span class="english">Fifty PCs in the computer science building of UCSD are now running SleepServer.</span></p>
 
 <p><span class="chinese">UCSD的研究人员表示，他们将提交此研究报告到医学杂志发表。</span><span class="english">The UCSD researchers said they will submit the study to a medical journal for publication.</span></p>

@@ -1,5 +1,7 @@
 # 天作之合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianzuozhihe.md)
+
 <p><span class="chinese">他们是天作之合。</span><span class="english">They are a match made in heaven.</span></p>
 
 <p><span class="chinese">新娘和新郎是天作之合的一对。</span><span class="english">The bride and groom made a lovely couple.</span></p>

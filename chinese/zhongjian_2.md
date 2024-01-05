@@ -1,5 +1,7 @@
 # 重剑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongjian_2.md)
+
 <p><span class="chinese">在击剑时用的是把重剑。</span><span class="english">I use a heavy sabre in fencing.</span></p>
 
 <p><span class="chinese">重剑教他的这些话聋哑学生。</span><span class="english">Epee taught these words to his deaf students.</span></p>

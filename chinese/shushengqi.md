@@ -1,5 +1,7 @@
 # 书生气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shushengqi.md)
+
 <p><span class="chinese">不要书生气十足。</span><span class="english">Don't be so bookish and unrealistic.</span></p>
 
 <p><span class="chinese">这是新来的员工吧，满身书生气。</span><span class="english">Is he new here? He appears quite nerdy.</span></p>

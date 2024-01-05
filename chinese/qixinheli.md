@@ -1,5 +1,7 @@
 # 齐心合力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qixinheli.md)
+
 <p><span class="chinese">你我要齐心合力，杰克。</span><span class="english">It's you and me, Jack.</span></p>
 
 <p><span class="chinese">我们必须齐心合力，斩断他的魔爪。</span><span class="english">We must take concerted action and cut his claws.</span></p>

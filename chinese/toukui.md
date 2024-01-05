@@ -1,5 +1,7 @@
 # 头盔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toukui.md)
+
 <p><span class="chinese">接下来，你需要头盔。</span><span class="english">Next, you need helmets.</span></p>
 
 <p><span class="chinese">请戴好安全头盔。</span><span class="english">Please wear the helmet.</span></p>

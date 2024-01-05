@@ -1,5 +1,7 @@
 # shipload
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shipload.md)
+
 <p><span class="chinese">一桩事实抵得上一船雄辩。</span><span class="english">A single fact is worth a shipload of arguments.</span></p>
 
 <p><span class="chinese">一个简单的事实，抵得一船的论证。/事实胜于雄辩。</span><span class="english">A single fact is worth a shipload of arguments.</span></p>

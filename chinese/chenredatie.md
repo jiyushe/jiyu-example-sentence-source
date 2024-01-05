@@ -1,5 +1,7 @@
 # 趁热打铁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenredatie.md)
+
 <p><span class="chinese">趁热打铁。抓住时机。</span><span class="english">Seize time by the forelock.</span></p>
 
 <p><span class="chinese">趁热打铁。</span><span class="english">Strike while the iron is hot.</span></p>

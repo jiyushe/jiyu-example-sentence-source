@@ -1,5 +1,7 @@
 # 凸现
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuxian_2.md)
+
 <p><span class="chinese">总而言之，你会感到全身不舒服，健康问题也由此凸现。</span><span class="english">All in all, you wouldn’t be healthy or comfortable.</span></p>
 
 <p><span class="chinese">游戏图形和声音凸现伟大的游戏动作。</span><span class="english">The game graphics are great and sound punctuates the game action.</span></p>

@@ -1,5 +1,7 @@
 # faithful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faithful.md)
+
 <p><span class="chinese">上帝是忠实的。</span><span class="english">And God is faithful.</span></p>
 
 <p><span class="chinese">他对妻子无贰心。</span><span class="english">He is faithful to his wife.</span></p>

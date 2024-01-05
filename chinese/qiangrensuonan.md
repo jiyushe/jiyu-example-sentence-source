@@ -1,5 +1,7 @@
 # 强人所难
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangrensuonan.md)
+
 <p><span class="chinese">我认为这是强人所难。</span><span class="english">I regard it as an imposition.</span></p>
 
 <p><span class="chinese">你无法叫螃蟹直着走。本性难移，不必强人所难。</span><span class="english">You can't make a crab walk straight.</span></p>

@@ -1,5 +1,7 @@
 # reprimand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reprimand.md)
+
 <p><span class="chinese">他把我训斥了一顿就让我过了。</span><span class="english">He let me off with a reprimand.</span></p>
 
 <p><span class="chinese">即使受到最严厉的申斥，他也不发抖。</span><span class="english">After the severest reprimand , he did not tremble.</span></p>

@@ -1,5 +1,7 @@
 # marduk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marduk.md)
+
 <p><span class="chinese">你应该用它来创造世界，Marduk正是这样做的。</span><span class="english">You build a world, and that's what Marduk did.</span></p>
 
 <p><span class="chinese">从理论上说，国王也只不过是太阳神马杜克的代言人。</span><span class="english">In theory the king was no more than an agent of Marduk.</span></p>

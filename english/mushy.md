@@ -1,5 +1,7 @@
 # mushy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mushy.md)
+
 <p><span class="chinese">这是非常糟糕的混合”。</span><span class="english">It's a very mushy hybrid.</span></p>
 
 <p><span class="chinese">这菠菜都给煮烂了。</span><span class="english">The spinach is overcooked and mushy.</span></p>

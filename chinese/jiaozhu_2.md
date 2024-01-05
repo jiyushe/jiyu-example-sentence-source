@@ -1,5 +1,7 @@
 # 浇铸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaozhu_2.md)
+
 <p><span class="chinese">铁比铜更易于浇铸。</span><span class="english">Iron casts better than copper.</span></p>
 
 <p><span class="chinese">活字版一般都浇铸以增加其耐印力。</span><span class="english">For long press rans type forms are often plated.</span></p>

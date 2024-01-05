@@ -1,5 +1,7 @@
 # picasso
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/picasso.md)
+
 <p><span class="chinese">我喜欢毕加索。</span><span class="english">I like the guy Picasso.</span></p>
 
 <p><span class="chinese">毕加索画了那张画。</span><span class="english">Picasso painted that picture.</span></p>

@@ -1,5 +1,7 @@
 # improvisation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/improvisation.md)
+
 <p><span class="chinese">它是激情迸发的即兴创作。</span><span class="english">It was the improvisation of the ebullition.</span></p>
 
 <p><span class="chinese">这位双簧管吹奏者以即兴演奏而著名。</span><span class="english">The oboist is well know for his improvisation.</span></p>

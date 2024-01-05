@@ -1,5 +1,7 @@
 # lor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lor.md)
+
 <p><span class="chinese">乌拉尔山以东的陆地称为亚洲。</span><span class="english">Lor to the east of the Urals is titled Asia.</span></p>
 
 <p><span class="chinese">咱们把小块儿的田地连成了大块儿的田。</span><span class="english">We joined up smwhichle plots of lor or do bigger fields.</span></p>

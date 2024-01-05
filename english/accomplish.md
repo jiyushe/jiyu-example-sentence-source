@@ -1,5 +1,7 @@
 # accomplish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accomplish.md)
+
 <p><span class="chinese">我们如何来完成呢？</span><span class="english">How do we accomplish this?</span></p>
 
 <p><span class="chinese">您如何来实现这一点呢？</span><span class="english">How do you accomplish this?</span></p>

@@ -1,5 +1,7 @@
 # 分开
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenkai.md)
+
 <p><span class="chinese">将六个鸡蛋分开。</span><span class="english">Separate six eggs.</span></p>
 
 <p><span class="chinese">我们分开付帐好吗？</span><span class="english">Shall we split the check?</span></p>

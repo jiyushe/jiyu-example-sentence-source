@@ -1,5 +1,7 @@
 # 柞蚕丝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuocansi.md)
+
 <p><span class="chinese">将柞蚕丝用不同方式进行鞣化处理，使柞蚕丝具有一定的抑菌性。</span><span class="english">After tanning the tussah silk, it becomes a certain against germs.</span></p>
 
 <p><span class="chinese">请贵方寄来柞蚕丝的样品并报来最低价。</span><span class="english">We ask you to send us samples of Tussah Silk and quote best rates.</span></p>

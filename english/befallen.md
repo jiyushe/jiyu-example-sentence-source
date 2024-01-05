@@ -1,5 +1,7 @@
 # befallen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/befallen.md)
+
 <p><span class="chinese">我听天由命，凡降临于我的都是公正的。</span><span class="english">You are the angel befallen the stage.</span></p>
 
 <p><span class="chinese">某种灾难必降临在他头上了。</span><span class="english">Some misfortune must have befallen him.</span></p>

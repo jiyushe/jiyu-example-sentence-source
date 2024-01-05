@@ -1,5 +1,7 @@
 # infantry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infantry.md)
+
 <p><span class="chinese">他们的儿子在步兵队。</span><span class="english">Their son is in the infantry.</span></p>
 
 <p><span class="chinese">好吧，我要调动我的步兵师。</span><span class="english">I'm moving my infantry division.</span></p>

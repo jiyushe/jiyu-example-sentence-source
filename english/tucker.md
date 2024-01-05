@@ -1,5 +1,7 @@
 # tucker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tucker.md)
+
 <p><span class="chinese">汤米·塔克试图系上塔米的海龟领带。</span><span class="english">Tommy Tucker tried to tie Tammy 's Turtles tie.</span></p>
 
 <p><span class="chinese">塔克·海登是我最好的朋友，他总有一堆稀奇古怪的主意。</span><span class="english">Hayden Tucker is my best friend, but he gets weird ideas.</span></p>

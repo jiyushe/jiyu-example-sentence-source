@@ -1,5 +1,7 @@
 # 刀口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daokou.md)
+
 <p><span class="chinese">选择在生活的刀口上生活。</span><span class="english">Choose to live on life’s edge.</span></p>
 
 <p><span class="chinese">和手术刀形成的刀口一致。</span><span class="english">It's consistent with a scalpel.</span></p>

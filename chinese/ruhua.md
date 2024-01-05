@@ -1,5 +1,7 @@
 # 入画
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruhua.md)
+
 <p><span class="chinese">元代的书法入画等。</span><span class="english">Yuan Dynasty calligraphy and other subjects.</span></p>
 
 <p><span class="chinese">引书入画对文人画的成熟发展有利有弊。</span><span class="english">It plays an active role in scholars paintings.</span></p>

@@ -1,5 +1,7 @@
 # 肃清
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suqing.md)
+
 <p><span class="chinese">陈旧的思想观念应当肃清。</span><span class="english">Outdated ideas should be rooted out.</span></p>
 
 <p><span class="chinese">“肃清行动”是什么？</span><span class="english">What does "Operation Sook Ching" refer to?</span></p>

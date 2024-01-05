@@ -1,5 +1,7 @@
 # changeable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/changeable.md)
+
 <p><span class="chinese">英国的天气是多变的。</span><span class="english">The weather in England is changeable.</span></p>
 
 <p><span class="chinese">别相信她——她是善变的。</span><span class="english">Do not trust her ---she is changeable.</span></p>

@@ -1,5 +1,7 @@
 # lax
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lax.md)
+
 <p><span class="chinese">财政纪律松驰。</span><span class="english">Financial discipline is lax.</span></p>
 
 <p><span class="chinese">松懈的保安措施使小偷有机可乘。</span><span class="english">Lax security allowed the thieves to enter.</span></p>

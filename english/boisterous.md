@@ -1,5 +1,7 @@
 # boisterous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boisterous.md)
+
 <p><span class="chinese">烈马要配粗辔头。</span><span class="english">A boisterous horse must have a rough bridle.</span></p>
 
 <p><span class="chinese">我并不屈就于它热热闹闹的外表。</span><span class="english">I don't condescend to boisterous displays of it.</span></p>

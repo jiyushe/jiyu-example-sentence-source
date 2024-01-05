@@ -1,5 +1,7 @@
 # 引荐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinjian_3.md)
+
 <p><span class="chinese">团体不引荐吃木瓜汁。</span><span class="english">Referral groups do not eat papaya.</span></p>
 
 <p><span class="chinese">眼霜产品，引荐艾弗莎的。</span><span class="english">Eye products, referrals Yifu Sha's.</span></p>

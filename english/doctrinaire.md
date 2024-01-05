@@ -1,5 +1,7 @@
 # doctrinaire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doctrinaire.md)
+
 <p><span class="chinese">那意味着，他们并不教条。</span><span class="english">That means they are not doctrinaire.</span></p>
 
 <p><span class="chinese">我想一个人可以在学习中猜想其特殊性。</span><span class="english">I suppose that one could be doctrinaire about the role of the individual in learning.</span></p>

@@ -1,5 +1,7 @@
 # 康乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kangle.md)
+
 <p><span class="chinese">下一站系康乐路。</span><span class="english">Next stop is Hong Lok Road.</span></p>
 
 <p><span class="chinese">祝我的须眉生日康乐。</span><span class="english">Happy birthday to my husband!</span></p>

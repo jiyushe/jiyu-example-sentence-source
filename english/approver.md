@@ -1,5 +1,7 @@
 # approver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/approver.md)
+
 <p><span class="chinese">每个审批人员可以接受或拒绝该审批。</span><span class="english">Every approver can accept or reject his Approval.</span></p>
 
 <p><span class="chinese">经证实，赞成者改善了防水屋顶。</span><span class="english">It's proved that the approver improved waterproof roof.</span></p>

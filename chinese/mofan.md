@@ -1,5 +1,7 @@
 # 模范
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mofan.md)
+
 <p><span class="chinese">他们认为她是模范女子。</span><span class="english">They co ider her a model woman.</span></p>
 
 <p><span class="chinese">不要拿我作为模范丈夫的例子。</span><span class="english">Don't hold me up as a model husband.</span></p>

@@ -1,5 +1,7 @@
 # parton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parton.md)
+
 <p><span class="chinese">帕顿是她心中的偶像。</span><span class="english">And Dolly Parton is her idol.</span></p>
 
 <p><span class="chinese">想想看，比较一下多莉·帕顿和劳拉·布什、唐·金和菲尔博士。</span><span class="english">Think of Dolly Parton vs. Laura Bush. Don King vs.</span></p>

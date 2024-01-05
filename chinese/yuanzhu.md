@@ -1,5 +1,7 @@
 # 原主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanzhu.md)
+
 <p><span class="chinese">他们去鸣不平的放弃原主张小山。</span><span class="english">They went grumbling back down the hill.</span></p>
 
 <p><span class="chinese">他们决定把它归还原主。</span><span class="english">They decided to give it back to its owner.</span></p>

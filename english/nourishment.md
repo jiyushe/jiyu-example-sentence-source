@@ -1,5 +1,7 @@
 # nourishment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nourishment.md)
+
 <p><span class="chinese">球形蛋黄液囊提供营养品。</span><span class="english">Bulbous yolk sacs provide nourishment.</span></p>
 
 <p><span class="chinese">我被判定有伪造罪。</span><span class="english">I must take some counterfeit nourishment.</span></p>

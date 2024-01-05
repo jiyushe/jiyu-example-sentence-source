@@ -1,5 +1,7 @@
 # 光盘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guangpan.md)
+
 <p><span class="chinese">这是谁的光盘随声听？</span><span class="english">Whose CD Walkman is it?</span></p>
 
 <p><span class="chinese">视频高密光盘?。</span><span class="english">VCD? Video Compact Disk?</span></p>

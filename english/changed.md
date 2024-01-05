@@ -1,5 +1,7 @@
 # changed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/changed.md)
+
 <p><span class="chinese">但是他改变了。</span><span class="english">But he changed.</span></p>
 
 <p><span class="chinese">从此我的生活完全变了样。</span><span class="english">My life has changed.</span></p>

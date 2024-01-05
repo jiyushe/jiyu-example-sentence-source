@@ -1,5 +1,7 @@
 # 科班
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keban.md)
+
 <p><span class="chinese">库尔特?科班写了涅?乐队的大部分歌曲。</span><span class="english">Kurt Cobain wrote most of Nirvana's songs.</span></p>
 
 <p><span class="chinese">我从来没有接受过科班的演绎训练，虽然很多人觉得我应该去上上啦。</span><span class="english">I am disgusted by the amount of myth about me that is accepted as fact.</span></p>

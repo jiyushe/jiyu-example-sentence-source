@@ -1,5 +1,7 @@
 # nigger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nigger.md)
+
 <p><span class="chinese">死了一个黑鬼。</span><span class="english">Killed a nigger.</span></p>
 
 <p><span class="chinese">再叫我一声黑鬼！</span><span class="english">Call me a nigger again!</span></p>

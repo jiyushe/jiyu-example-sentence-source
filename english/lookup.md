@@ -1,5 +1,7 @@
 # lookup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lookup.md)
+
 <p><span class="chinese">稀疏查找类型。</span><span class="english">The sparse lookup type.</span></p>
 
 <p><span class="chinese">但是查遍是普遍使用的一种方法。</span><span class="english">But table lookup is very common.</span></p>

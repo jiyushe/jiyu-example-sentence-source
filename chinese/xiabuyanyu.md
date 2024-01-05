@@ -1,5 +1,7 @@
 # 瑕不掩瑜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiabuyanyu.md)
+
 <p><span class="chinese">尽管如此，她的书依然瑕不掩瑜。</span><span class="english">Still, the merits of her book outweigh such flaws.</span></p>
 
 <p><span class="chinese">尽管也有不足，但瑕不掩瑜，它仍是一本优秀的论文集。</span><span class="english">Although there being some flaws, it is still a good thesis collection.</span></p>

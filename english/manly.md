@@ -1,5 +1,7 @@
 # manly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manly.md)
+
 <p><span class="chinese">败风景，男人味少了一半！</span><span class="english">Lost landscapes, manly cut by half!</span></p>
 
 <p><span class="chinese">阿波罗象征着青春和阳刚之美。</span><span class="english">Appollo stood for youth and manly beauty.</span></p>

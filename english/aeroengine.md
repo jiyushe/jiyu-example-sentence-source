@@ -1,5 +1,7 @@
 # aeroengine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aeroengine.md)
+
 <p><span class="chinese">涡轮叶片是航空发动机中的关键部件之一。</span><span class="english">The turbine blade is one of the key components in aeroengine.</span></p>
 
 <p><span class="chinese">对某型发动机压气机第2级轮盘进行了结构可靠性分析。</span><span class="english">Structural reliability analysis of an aeroengine 2nd-stage compressor disk is presented.</span></p>

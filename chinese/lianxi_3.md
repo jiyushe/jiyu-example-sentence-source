@@ -1,5 +1,7 @@
 # 联系
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianxi_3.md)
+
 <p><span class="chinese">我需要生活的联系。</span><span class="english">I need live links.</span></p>
 
 <p><span class="chinese">你打电话联系我。</span><span class="english">You telephoned me.</span></p>

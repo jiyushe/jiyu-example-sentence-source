@@ -1,5 +1,7 @@
 # 失窃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiqie.md)
+
 <p><span class="chinese">该车很有可能是法国失窃车辆。</span><span class="english">It may well have been stolen in France.</span></p>
 
 <p><span class="chinese">即将发生的皇冠钻石失窃案。</span><span class="english">The imminentrobbery of the Crown Jewels.</span></p>

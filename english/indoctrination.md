@@ -1,5 +1,7 @@
 # indoctrination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indoctrination.md)
+
 <p><span class="chinese">我也反对以教条式的儿童在寺院中。</span><span class="english">I am also opposed to the indoctrination of children in monasteries.</span></p>
 
 <p><span class="chinese">目前，中国教育仍然可以看到灌输式教育的影响。</span><span class="english">Now indoctrination in education still is influencing Chinese education.</span></p>

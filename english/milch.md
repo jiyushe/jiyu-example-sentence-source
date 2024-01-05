@@ -1,5 +1,7 @@
 # milch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/milch.md)
+
 <p><span class="chinese">他们将成为家庭的财源。</span><span class="english">They are becoming the milch cow of the family.</span></p>
 
 <p><span class="chinese">米切尔微笑着点点头。他以前听过这话。</span><span class="english">Milch smiled and nodded. He had heard this before.</span></p>

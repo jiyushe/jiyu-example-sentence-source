@@ -1,5 +1,7 @@
 # combined
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/combined.md)
+
 <p><span class="chinese">它结合了很多思想</span><span class="english">It combined so many ideas.</span></p>
 
 <p><span class="chinese">这两者如何结合为一？</span><span class="english">How are these two combined?</span></p>

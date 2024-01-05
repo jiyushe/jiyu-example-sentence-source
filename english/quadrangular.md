@@ -1,5 +1,7 @@
 # quadrangular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quadrangular.md)
+
 <p><span class="chinese">反之，当流动与壁面趋于平行时，四边形结构网格的计算效果较好。</span><span class="english">If the flow direction is parallel to wall, the quadrangular structured mesh is right.</span></p>
 
 <p><span class="chinese">是以由引入段、切削段、锥杆段和扭力段组成的丝锥组成的。</span><span class="english">The torque force section is changed to a regular hexagonal prism from a regular quadrangular prism.</span></p>

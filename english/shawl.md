@@ -1,5 +1,7 @@
 # shawl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shawl.md)
+
 <p><span class="chinese">范妮，去拿你的披肩。</span><span class="english">Get your shawl Fannie.</span></p>
 
 <p><span class="chinese">她很喜欢穿披肩。</span><span class="english">She likes to wear a shawl.</span></p>

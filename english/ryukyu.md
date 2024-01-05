@@ -1,5 +1,7 @@
 # ryukyu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ryukyu.md)
+
 <p><span class="chinese">中国帮助琉球抵抗侵略了嘛？</span><span class="english">Did China help Ryukyu during the invasion?</span></p>
 
 <p><span class="chinese">自明朝以后，中国对琉球一直拥有宗主权。</span><span class="english">China had the suzerainty over Ryukyu since Ming Dynasty.</span></p>

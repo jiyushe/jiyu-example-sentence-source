@@ -1,5 +1,7 @@
 # cinematics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cinematics.md)
+
 <p><span class="chinese">目前，用户接口界面只在进行游戏动画的时候关闭。</span><span class="english">Currently, the UI will only toggle off during game cinematics.</span></p>
 
 <p><span class="chinese">电影艺术批评是电影鉴赏的类存在。</span><span class="english">Cinematics critique is a kind of existence of film appreciation.</span></p>

@@ -1,5 +1,7 @@
 # 节奏感
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiezougan.md)
+
 <p><span class="chinese">史诗的演唱充满了丰富的音乐性和节奏感。</span><span class="english">It is rich in musical melody and rhythm.</span></p>
 
 <p><span class="chinese">有些人没有足够的节奏感跳布吉舞。</span><span class="english">Some people just don't have enough rhythm to boogie.</span></p>

@@ -1,5 +1,7 @@
 # hyperboloid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperboloid.md)
+
 <p><span class="chinese">这种方法也适用于抛物面和双曲面。</span><span class="english">This method can also be used for paraboloid and hyperboloid.</span></p>
 
 <p><span class="chinese">介绍了以旋转单叶双曲面作麻花钻钻尖后刀面的数学模型。</span><span class="english">The mathematical model of the hyperboloid twist drill was introduced.</span></p>

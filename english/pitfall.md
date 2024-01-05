@@ -1,5 +1,7 @@
 # pitfall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pitfall.md)
+
 <p><span class="chinese">这是一个主要的陷阱。</span><span class="english">This is a major pitfall.</span></p>
 
 <p><span class="chinese">这一缺陷花费了我们一年时间。</span><span class="english">This pitfall cost us one year.</span></p>

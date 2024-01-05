@@ -1,5 +1,7 @@
 # indoor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indoor.md)
+
 <p><span class="chinese">室内运动会。</span><span class="english">Indoor Olympics.</span></p>
 
 <p><span class="chinese">一个街舞博物馆，街舞的发源地是布朗克斯，还是一个室内游乐园？</span><span class="english">An indoor amusement park?</span></p>

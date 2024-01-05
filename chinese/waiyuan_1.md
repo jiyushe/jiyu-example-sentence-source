@@ -1,5 +1,7 @@
 # 外缘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waiyuan_1.md)
+
 <p><span class="chinese">呼气，右脚内收脚外缘落地。</span><span class="english">Exhale, right foot in and outer edge down.</span></p>
 
 <p><span class="chinese">迎香穴在鼻翼外缘中点。</span><span class="english">The midpoint of the alar rim Yingxiang point.</span></p>

@@ -1,5 +1,7 @@
 # highland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/highland.md)
+
 <p><span class="chinese">天高地广，我的故乡。</span><span class="english">A highland is wide, my home town.</span></p>
 
 <p><span class="chinese">仍然居住在高原的洞穴</span><span class="english">Still dwelling in my Highland cave</span></p>

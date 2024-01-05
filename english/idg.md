@@ -1,5 +1,7 @@
 # idg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/idg.md)
+
 <p><span class="chinese">IDG是全球领先的技术媒体，活动和研究公司。</span><span class="english">IDG is the world's leading technology media, events and research company.</span></p>
 
 <p><span class="chinese">他的那些风险投资人我多少还认识，还有就是IDG的那些达人们。</span><span class="english">The vc who lend money to him are familiar with me and I know the VCs from IDG.</span></p>

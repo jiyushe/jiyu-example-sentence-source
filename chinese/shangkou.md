@@ -1,5 +1,7 @@
 # 上口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangkou.md)
+
 <p><span class="chinese">你应该给狗戴上口套。</span><span class="english">You should muzzle your dog.</span></p>
 
 <p><span class="chinese">他不会想到他们戴上口套。</span><span class="english">He wouldn't think of muzzling them.</span></p>

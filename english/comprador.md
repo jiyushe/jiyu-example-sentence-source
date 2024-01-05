@@ -1,5 +1,7 @@
 # comprador
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comprador.md)
+
 <p><span class="chinese">现在的买办恶势力就是汉奸。</span><span class="english">Today's evil comprador forces are traitors.</span></p>
 
 <p><span class="chinese">接着党决定把这个印度卖办和大地主作为目标。</span><span class="english">Then the party decided to target this Indian comprador and landowner.</span></p>

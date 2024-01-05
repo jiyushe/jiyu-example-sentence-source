@@ -1,5 +1,7 @@
 # 宪政
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianzheng.md)
+
 <p><span class="chinese">宪政是专制政体的对立物。</span><span class="english">The constitutionalism is the opposite of the autocracy.</span></p>
 
 <p><span class="chinese">我们切望秘鲁恢复宪政形式。</span><span class="english">We are anxious to see a return to constitutional forms in peru.</span></p>

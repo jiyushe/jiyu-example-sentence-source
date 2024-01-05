@@ -1,5 +1,7 @@
 # 确切
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/queqie.md)
+
 <p><span class="chinese">还有更确切的见解吗</span><span class="english">Anything more specific?</span></p>
 
 <p><span class="chinese">尼娜说，“确切地说，是北朝鲜使用的韩文。”</span><span class="english">North Korean, specifically.</span></p>

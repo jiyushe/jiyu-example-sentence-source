@@ -1,5 +1,7 @@
 # geisha
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geisha.md)
+
 <p><span class="chinese">你们两个都参加了艺伎训练，是吧？</span><span class="english">You two went to geisha boot camp?</span></p>
 
 <p><span class="chinese">成为一名艺伎有多难呢？</span><span class="english">How hard was it to learn to be geisha?</span></p>

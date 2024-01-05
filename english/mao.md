@@ -1,5 +1,7 @@
 # mao
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mao.md)
+
 <p><span class="chinese">毛仍然还活着！</span><span class="english">Mao is still alive!</span></p>
 
 <p><span class="chinese">法犸说道。</span><span class="english">The method Mao says.</span></p>

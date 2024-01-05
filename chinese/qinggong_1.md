@@ -1,5 +1,7 @@
 # 清宫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinggong_1.md)
+
 <p><span class="chinese">后海的“楠书房”取清宫“南书房”的谐音，显现出几分雅致和沉稳。</span><span class="english">In Chinese, Phoebe Nanmu Study is homophonous with South Study Room.</span></p>
 
 <p><span class="chinese">媒体质疑清宫木质屏风被水泡坏？</span><span class="english">Media questioned the qing dynasty palace woodiness screen be blisters bad?</span></p>

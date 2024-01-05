@@ -1,5 +1,7 @@
 # unbelief
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unbelief.md)
+
 <p><span class="chinese">神对罪与悖逆发出公义的责难。</span><span class="english">God makes just condemnations of sin and unbelief.</span></p>
 
 <p><span class="chinese">不要让不信和苦毒在心中滋长。</span><span class="english">Do not let unbelief and bitterness grow inside us.</span></p>

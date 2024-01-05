@@ -1,5 +1,7 @@
 # visualisation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/visualisation.md)
+
 <p><span class="chinese">一个细胞表面有多个球菌的概念性视图。</span><span class="english">A conceptual visualisation of multiple coccus bacteria on a cellular surface</span></p>
 
 <p><span class="chinese">我现在在听33天的可视化自我催眠的CD。</span><span class="english">I have been listening to a visualisation self hypnosis CD every single day for 33 days now.</span></p>

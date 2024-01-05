@@ -1,5 +1,7 @@
 # wistful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wistful.md)
+
 <p><span class="chinese">他看上去怅然若失。</span><span class="english">He has a wistful look.</span></p>
 
 <p><span class="chinese">褐色也象征着悲伤与渴望。</span><span class="english">Brown can also be sad and wistful.</span></p>

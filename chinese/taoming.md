@@ -1,5 +1,7 @@
 # 逃命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taoming.md)
+
 <p><span class="chinese">我还没有说要你弃船逃命呢。</span><span class="english">I don't want you to jump ship just yet.</span></p>
 
 <p><span class="chinese">狐狸向森林里逃命去了。</span><span class="english">The fox ran for his life toward the woods.</span></p>

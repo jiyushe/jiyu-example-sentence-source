@@ -1,5 +1,7 @@
 # exothermic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exothermic.md)
+
 <p><span class="chinese">这是一个放热反应。</span><span class="english">It's an exothermic reaction.</span></p>
 
 <p><span class="chinese">地狱是放热还是吸热？</span><span class="english">Is Hell exothermic or endothermic?</span></p>

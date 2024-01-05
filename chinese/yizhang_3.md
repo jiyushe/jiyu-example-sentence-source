@@ -1,5 +1,7 @@
 # 议长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhang_3.md)
+
 <p><span class="chinese">我从来没有坐过议长的位子。</span><span class="english">Ive never sat in a chairmans chair.</span></p>
 
 <p><span class="chinese">首先的任务是找到一位新议长。</span><span class="english">Finding a new speaker is the first task.</span></p>

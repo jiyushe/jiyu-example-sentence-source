@@ -1,5 +1,7 @@
 # decamp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decamp.md)
+
 <p><span class="chinese">她说服他移居。</span><span class="english">She persuaded him to decamp.</span></p>
 
 <p><span class="chinese">假若遇到危险，它会喷出墨汁出来，然后逃之夭夭。</span><span class="english">In case of danger, it will eject ink out, then decamp.</span></p>

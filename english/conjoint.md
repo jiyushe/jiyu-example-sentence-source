@@ -1,5 +1,7 @@
 # conjoint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conjoint.md)
+
 <p><span class="chinese">习俗与理想的法律之间有距离，也有相承之处。</span><span class="english">The perfect law is away from the custom, yet they are conjoint.</span></p>
 
 <p><span class="chinese">作者在文章中提出一种用于分部定价的联合分析方法。</span><span class="english">The authors propose a method using conjoint analysis for multipart pricing.</span></p>

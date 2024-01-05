@@ -1,5 +1,7 @@
 # toothpaste
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toothpaste.md)
+
 <p><span class="chinese">我们需要一些牙膏。</span><span class="english">We need some toothpaste.</span></p>
 
 <p><span class="chinese">白色像牙膏一样浓。</span><span class="english">White is thick like toothpaste.</span></p>

@@ -1,5 +1,7 @@
 # paternalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paternalism.md)
+
 <p><span class="chinese">啊，这是家长作风。</span><span class="english">Well this is paternalism.</span></p>
 
 <p><span class="chinese">是自由么？，是家长式作风。</span><span class="english">Is it freedom? Paternalism.</span></p>

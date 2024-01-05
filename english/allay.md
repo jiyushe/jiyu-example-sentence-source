@@ -1,5 +1,7 @@
 # allay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allay.md)
+
 <p><span class="chinese">你怎样做才能消除他们的担忧？</span><span class="english">What can you do to allay their fears?</span></p>
 
 <p><span class="chinese">滕特公司设计的线塔应该有助于减轻这些恐惧感。</span><span class="english">TenneT’s pylons should help allay that fear.</span></p>

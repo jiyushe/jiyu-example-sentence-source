@@ -1,5 +1,7 @@
 # regret
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regret.md)
+
 <p><span class="chinese">所以不要后悔。</span><span class="english">So never regret.</span></p>
 
 <p><span class="chinese">我们并不遗憾。</span><span class="english">We regret nothing.</span></p>

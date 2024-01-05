@@ -1,5 +1,7 @@
 # 对质
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duizhi_1.md)
+
 <p><span class="chinese">当她与他对质时，他打了她。</span><span class="english">When she confronted him, he hit her.</span></p>
 
 <p><span class="chinese">经理吉姆·利兰德则当面与邦兹对质。</span><span class="english">Manager Jim Leyland confronted Bonds.</span></p>

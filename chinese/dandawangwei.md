@@ -1,5 +1,7 @@
 # 胆大妄为
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dandawangwei.md)
+
 <p><span class="chinese">我希望你能原谅我的胆大妄为。</span><span class="english">I hope you will forgive me for my nerves.</span></p>
 
 <p><span class="chinese">大卫为什么会做出这些胆大妄为的事情呢？</span><span class="english">Why does David do these dare-devil deeds?</span></p>

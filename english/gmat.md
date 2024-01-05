@@ -1,5 +1,7 @@
 # gmat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gmat.md)
+
 <p><span class="chinese">接下来，尽你所能，在研究生管理科学入学考试中获得高分。</span><span class="english">Next, do everything you can to get a high GMAT math score.</span></p>
 
 <p><span class="chinese">去年，接近900名美国居民向亚洲学校发送了GMAT成绩。</span><span class="english">Almost 900 U.S. residents sent GMAT scores to Asian institutions last year.</span></p>

@@ -1,5 +1,7 @@
 # 驱动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qudong.md)
+
 <p><span class="chinese">前轮驱动。</span><span class="english">Front wheel drive.</span></p>
 
 <p><span class="chinese">岩浆驱动夏威夷？</span><span class="english">Magma to Power Hawaii?</span></p>

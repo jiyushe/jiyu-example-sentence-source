@@ -1,5 +1,7 @@
 # 总体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongti.md)
+
 <p><span class="chinese">我需要找出一个总体趋势。</span><span class="english">I need to look for trends.</span></p>
 
 <p><span class="chinese">你的纸棒只是参与总体决定中的一票。</span><span class="english">Your wand is just one vote.</span></p>

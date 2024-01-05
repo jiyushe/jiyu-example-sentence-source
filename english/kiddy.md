@@ -1,5 +1,7 @@
 # kiddy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kiddy.md)
+
 <p><span class="chinese">你个靓妹做什么抢我们的袋钱呀？</span><span class="english">Kiddy ! Why did you rob our money bag?</span></p>
 
 <p><span class="chinese">还有，你不能在游泳池游戏机。</span><span class="english">Still , you cant swim in the kiddy pool.</span></p>

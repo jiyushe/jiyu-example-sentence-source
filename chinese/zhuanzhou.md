@@ -1,5 +1,7 @@
 # 转轴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanzhou.md)
+
 <p><span class="chinese">将指针分别固定在各自的转轴上。</span><span class="english">The hands are driven one by one onto the arbors.</span></p>
 
 <p><span class="chinese">行星在围绕太阳旋转的同时，也绕着它们的自转轴自转。</span><span class="english">Planets revolve about the sun and rotate on their axis.</span></p>

@@ -1,5 +1,7 @@
 # pained
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pained.md)
+
 <p><span class="chinese">我感到钻心的痛。</span><span class="english">My heart often pained me.</span></p>
 
 <p><span class="chinese">你因受试炼而痛苦。</span><span class="english">You are pained by the testings.</span></p>

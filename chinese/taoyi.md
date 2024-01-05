@@ -1,5 +1,7 @@
 # 逃逸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taoyi.md)
+
 <p><span class="chinese">我们被车撞了，肇事司机逃逸。</span><span class="english">We were victims of a hit and run driver.</span></p>
 
 <p><span class="chinese">是你所需的逃逸速度。</span><span class="english">That is the escape velocity that you need.</span></p>

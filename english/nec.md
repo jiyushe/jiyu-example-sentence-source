@@ -1,5 +1,7 @@
 # nec
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nec.md)
+
 <p><span class="chinese">收集分析125例NEC的临床资料。</span><span class="english">We analyzed 125 cases of NEC.</span></p>
 
 <p><span class="chinese">这是一个具有许多龙脖子和头部。</span><span class="english">This is a dragon that has many nec ks and heads.</span></p>

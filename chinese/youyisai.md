@@ -1,5 +1,7 @@
 # 友谊赛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youyisai.md)
+
 <p><span class="chinese">我能联系你门和你们打友谊赛吗？</span><span class="english">I can contact you and your friendlies?</span></p>
 
 <p><span class="chinese">列出所有本赛季国际友谊赛。</span><span class="english">A list of all this seasons International Friendlies.</span></p>

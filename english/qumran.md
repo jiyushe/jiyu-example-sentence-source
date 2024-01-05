@@ -1,5 +1,7 @@
 # qumran
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/qumran.md)
+
 <p><span class="chinese">在时间的基督，爱色尼在昆兰是犹太人僧侣。</span><span class="english">In the time of Christ, the Essenes at Qumran were Jewish monks.</span></p>
 
 <p><span class="chinese">藏于昆兰洞穴里的这些古书卷是迄今为止已知的旧约圣经中主要卷书中最久远的。</span><span class="english">The ancient manuscripts hidden in the caves near Qumran are the oldest known copies of key Old Testament books.</span></p>

@@ -1,5 +1,7 @@
 # basilisk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/basilisk.md)
+
 <p><span class="chinese">秘室里的怪物是一条巴斯里斯克蛇怪。</span><span class="english">The monster in the Chamber of Secrets is a basilisk.</span></p>
 
 <p><span class="chinese">是一个可嵌入的数据引擎和虚拟机。</span><span class="english">Basilisk is an embeddable data engine and virtual machine.</span></p>

@@ -1,5 +1,7 @@
 # 公务员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongwuyuan.md)
+
 <p><span class="chinese">现在他是一个公务员。</span><span class="english">Now he is an officeholder.</span></p>
 
 <p><span class="chinese">在古罗马，公务员身着蓝色。</span><span class="english">In ancient Rome, public servants wore blue.</span></p>

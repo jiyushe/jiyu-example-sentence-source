@@ -1,5 +1,7 @@
 # 市场经济
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shichangjingji.md)
+
 <p><span class="chinese">所有这些都可以在市场经济中发生。</span><span class="english">All this can transpire in market economies.</span></p>
 
 <p><span class="chinese">有没有点自由市场经济的迹象？</span><span class="english">Are there any signs of free market economics?</span></p>

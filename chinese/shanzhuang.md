@@ -1,5 +1,7 @@
 # 山庄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanzhuang.md)
+
 <p><span class="chinese">我喜欢壁炉山庄这个名字。</span><span class="english">I love the name Ingleside.</span></p>
 
 <p><span class="chinese">我搬到比佛利山庄了。</span><span class="english">I've moved to Beverly Hills.</span></p>

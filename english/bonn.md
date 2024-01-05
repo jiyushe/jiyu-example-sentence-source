@@ -1,5 +1,7 @@
 # bonn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bonn.md)
+
 <p><span class="chinese">牛津与波恩结成了友好城市。</span><span class="english">Oxford is twinned with bonn.</span></p>
 
 <p><span class="chinese">牛津和波恩是友好城市。</span><span class="english">Oxford and Bonn are twin towns.</span></p>

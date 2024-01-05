@@ -1,5 +1,7 @@
 # 惺忪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingsong.md)
+
 <p><span class="chinese">他们揉了揉惺忪的睡眼，强打起精神来。</span><span class="english">They rub the sleep out of their eyes.</span></p>
 
 <p><span class="chinese">Lincoln揉揉惺忪的睡眼，半眯着眼睛看了看他。</span><span class="english">Lincoln squints and rubs his bleary eyes.</span></p>

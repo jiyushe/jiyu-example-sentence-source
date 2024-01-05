@@ -1,5 +1,7 @@
 # cost
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cost.md)
+
 <p><span class="chinese">费用是一大问题。</span><span class="english">Cost is one issue.</span></p>
 
 <p><span class="chinese">④费用率低。</span><span class="english">Fourthly, cost low.</span></p>

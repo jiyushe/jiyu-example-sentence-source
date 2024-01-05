@@ -1,5 +1,7 @@
 # scatter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scatter.md)
+
 <p><span class="chinese">不要分散精力。</span><span class="english">Don't scatter your strength.</span></p>
 
 <p><span class="chinese">分头去找他们，狗东西！</span><span class="english">Scatter and look for them, dogs!</span></p>

@@ -1,5 +1,7 @@
 # hospital 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hospital.md)
+
 <p><span class="chinese">她在一家医院工作。</span><span class="english">She works in a hospital.</span></p>
 
 <p><span class="chinese">黛安娜去了一家医院。</span><span class="english">Diana went to a hospital.</span></p>

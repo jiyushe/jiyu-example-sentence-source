@@ -1,5 +1,7 @@
 # 马路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/malu.md)
+
 <p><span class="chinese">穿过一条小马路。</span><span class="english">Cross a small road.</span></p>
 
 <p><span class="chinese">这条马路向南伸延。</span><span class="english">The road runs south.</span></p>

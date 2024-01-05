@@ -1,5 +1,7 @@
 # demos
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demos.md)
+
 <p><span class="chinese">我怎样在演示中获取反馈？</span><span class="english">How do I get feedback in demos?</span></p>
 
 <p><span class="chinese">我如何利用演示来获取反馈？</span><span class="english">How do I get feedback using demos?</span></p>

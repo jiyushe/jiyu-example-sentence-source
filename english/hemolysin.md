@@ -1,5 +1,7 @@
 # hemolysin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hemolysin.md)
+
 <p><span class="chinese">目的研究迟缓爱德华菌溶血素的特征。</span><span class="english">Aim study the characteristic of the hemolysin of Edwardsiella tarda.</span></p>
 
 <p><span class="chinese">提示，肠球菌溶血素为成孔蛋白类溶血素。</span><span class="english">The result shows that hemolytic toxin of Enterococcus is hole protein class hemolysin.</span></p>

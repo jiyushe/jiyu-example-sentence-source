@@ -1,5 +1,7 @@
 # 遥遥相对
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoyaoxiangdui.md)
+
 <p><span class="chinese">死与生并非遥遥相对。</span><span class="english">Death was not the opposite of life.</span></p>
 
 <p><span class="chinese">遥遥相对的两棵芒果树，是街上两个最大的国度。</span><span class="english">The two mango trees far away were the biggest two country on the streets.</span></p>

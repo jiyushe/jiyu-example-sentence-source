@@ -1,5 +1,7 @@
 # 少数民族
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaoshuminzu.md)
+
 <p><span class="chinese">新疆是个少数民族问题的火药箱。</span><span class="english">Xijiang is an ethnic tinder-box.</span></p>
 
 <p><span class="chinese">在各方面他都与其希腊邻居不一样，他就应该是少数民族。</span><span class="english">In each case, he would be a minority.</span></p>

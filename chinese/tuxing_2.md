@@ -1,5 +1,7 @@
 # 徒刑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuxing_2.md)
+
 <p><span class="chinese">他被判处3年徒刑。</span><span class="english">He was given 3 years.</span></p>
 
 <p><span class="chinese">他因持械抢劫而服七年徒刑。</span><span class="english">He served seven years for armed robbery.</span></p>

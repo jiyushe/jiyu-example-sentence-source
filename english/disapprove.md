@@ -1,5 +1,7 @@
 # disapprove
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disapprove.md)
+
 <p><span class="chinese">我反对这个决定。</span><span class="english">I really disapprove this decision.</span></p>
 
 <p><span class="chinese">可是难以想象她会不满意你。</span><span class="english">But I cannot imagine she would disapprove of you.</span></p>

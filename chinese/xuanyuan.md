@@ -1,5 +1,7 @@
 # 轩辕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanyuan.md)
+
 <p><span class="chinese">是为黄帝轩辕氏。</span><span class="english">Is the Yellow Emperor Huangdi's.</span></p>
 
 <p><span class="chinese">黄昏中散发着银蓝光辉的轩辕十四略呈雪青色。</span><span class="english">Silvery-blue Regulus may look pinkish in the twilight.</span></p>

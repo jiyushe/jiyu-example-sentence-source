@@ -1,5 +1,7 @@
 # recognize 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recognize.md)
+
 <p><span class="chinese">但是我还认识他！</span><span class="english">But I recognize him!</span></p>
 
 <p><span class="chinese">我认得那家商店。</span><span class="english">I recognize the shop.</span></p>

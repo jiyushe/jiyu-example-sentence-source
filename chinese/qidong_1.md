@@ -1,5 +1,7 @@
 # 起动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qidong_1.md)
+
 <p><span class="chinese">从起动器起动泵。</span><span class="english">Start from pump starter.</span></p>
 
 <p><span class="chinese">高低压马达起动器“，”</span><span class="english">High, Low Voltage Motor Starters.</span></p>

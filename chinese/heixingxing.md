@@ -1,5 +1,7 @@
 # 黑猩猩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heixingxing.md)
+
 <p><span class="chinese">黑猩猩是杂食动物。</span><span class="english">Chimps are omnivorous10.</span></p>
 
 <p><span class="chinese">我希望他喜欢黑猩猩！</span><span class="english">I hope he likes chimpanzees!</span></p>

@@ -1,5 +1,7 @@
 # baseband
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baseband.md)
+
 <p><span class="chinese">基频与通频的正则扩大。</span><span class="english">Orthonormal expansions at baseband and passband.</span></p>
 
 <p><span class="chinese">它的实现通常在基带和中频频段上实现。</span><span class="english">It usually achieved in the baseband and IF band to achieve.</span></p>

@@ -1,5 +1,7 @@
 # hygiene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hygiene.md)
+
 <p><span class="chinese">保持良好的卫生习惯。</span><span class="english">Have good hygiene.</span></p>
 
 <p><span class="chinese">养成良好的卫生习惯。</span><span class="english">Practice good hygiene.</span></p>

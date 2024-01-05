@@ -1,5 +1,7 @@
 # zionist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zionist.md)
+
 <p><span class="chinese">对犹太复国主义者领导的局内人来说，一切皆有可能！</span><span class="english">Nothing is impossible to the Zionist led insiders! ! !</span></p>
 
 <p><span class="chinese">印度和巴西都被犹太复国主义阵营所支持。</span><span class="english">India and Brazil are both also wooed by the Zionist camp.</span></p>

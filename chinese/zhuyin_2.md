@@ -1,5 +1,7 @@
 # 注音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuyin_2.md)
+
 <p><span class="chinese">课文有注音吗?</span><span class="english">Is the text marked with phonetic symbols?</span></p>
 
 <p><span class="chinese">这个反切注音，就是现在“茶”字的读音。</span><span class="english">This Fanqie phonetic, is now "tea" the word pronunciation.</span></p>

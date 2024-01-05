@@ -1,5 +1,7 @@
 # pilar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pilar.md)
+
 <p><span class="chinese">“皮拉尔号”原本是用来去加勒比海捕鱼的。</span><span class="english">Pilar was designed for catching big fish in the Caribbean.</span></p>
 
 <p><span class="chinese">“比拉号”最初是为在加勒比海上捕获大鱼而设计。</span><span class="english">Pilar was designed for catching big fish in the Caribbean.</span></p>

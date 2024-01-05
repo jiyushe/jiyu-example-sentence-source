@@ -1,5 +1,7 @@
 # 久而久之
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuerjiuzhi.md)
+
 <p><span class="chinese">久而久之，你甚至可以做的更多。</span><span class="english">Over time, you may even get more done.</span></p>
 
 <p><span class="chinese">久而久之，我们的班集体就会整体落下。</span><span class="english">As time passes, our class will overall drop.</span></p>

@@ -1,5 +1,7 @@
 # balancer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/balancer.md)
+
 <p><span class="chinese">这是鉴于成品平衡器。</span><span class="english">This is a view of the finished balancer.</span></p>
 
 <p><span class="chinese">然后拆下阀盖及平衡器。</span><span class="english">Secondly, disassemble bonnet and balancer.</span></p>

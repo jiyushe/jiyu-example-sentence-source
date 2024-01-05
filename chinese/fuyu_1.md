@@ -1,5 +1,7 @@
 # 赋予
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuyu_1.md)
+
 <p><span class="chinese">他被赋予了新的笔芯。</span><span class="english">He was given a fresh refill.</span></p>
 
 <p><span class="chinese">是什么赋予了材料这样的属性</span><span class="english">What gives it those properties?</span></p>

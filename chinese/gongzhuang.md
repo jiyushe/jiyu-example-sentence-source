@@ -1,5 +1,7 @@
 # 工装
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongzhuang.md)
+
 <p><span class="chinese">你能像装罐工装的罐子一样，装一个罐子吗?。</span><span class="english">Can you can a can as a canner can can a can.</span></p>
 
 <p><span class="chinese">是的，对这个项目我们会提供付费工装。</span><span class="english">Yes. For this program, we will provide paid tooling.</span></p>

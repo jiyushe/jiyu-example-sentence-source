@@ -1,5 +1,7 @@
 # bisulfite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bisulfite.md)
+
 <p><span class="chinese">对红麻酸法制浆生产文化用纸进行了研究。</span><span class="english">How to produce kenaf pulp by bisulfite was studied in this paper.</span></p>
 
 <p><span class="chinese">亚硫酸氢钠正是使金沉淀的物质。</span><span class="english">This sodium bisulfite is what will allow the gold to precipitate.</span></p>

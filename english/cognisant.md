@@ -1,5 +1,7 @@
 # cognisant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cognisant.md)
+
 <p><span class="chinese">②万一原作损毁，复制品也可成为足资参考的珍贵资料。</span><span class="english">In case of damage of the original copy, also can become cognisant of the precious reference data.</span></p>
 
 <p><span class="chinese">这就是蜜蜂要忠告提升者去认识你正接收的指导的类型的原因。</span><span class="english">It is for this reason that Bee advises initiates to be cognisant of the type of guidance one is receiving.</span></p>

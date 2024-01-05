@@ -1,5 +1,7 @@
 # waiver
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waiver.md)
+
 <p><span class="chinese">它们从不自动放弃。</span><span class="english">They never waiver.</span></p>
 
 <p><span class="chinese">我签了弃权书。</span><span class="english">I signed the waiver.</span></p>

@@ -1,5 +1,7 @@
 # concubine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concubine.md)
+
 <p><span class="chinese">人生百态，爱恨情仇。</span><span class="english">Attitudes of life, love his concubine.</span></p>
 
 <p><span class="chinese">基甸的妾在示剑所生的儿子。</span><span class="english">Son of Gideon by a concubine in Shechem.</span></p>

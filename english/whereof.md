@@ -1,5 +1,7 @@
 # whereof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whereof.md)
+
 <p><span class="chinese">我们谨在此签名作证。</span><span class="english">In witness whereof We have hereunto subscribed our Names</span></p>
 
 <p><span class="chinese">岂有一件事人能指着说，这是新的。</span><span class="english">Is there any thing whereof it may be said, See, this is new?</span></p>

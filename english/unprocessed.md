@@ -1,5 +1,7 @@
 # unprocessed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unprocessed.md)
+
 <p><span class="chinese">一个沙漏，指示一个未处理的预订请求。</span><span class="english">An hourglass to indicate an unprocessed reservation request.</span></p>
 
 <p><span class="chinese">只要有可能吃有机增长，自然的，未经加工的食品。</span><span class="english">Whenever possible eat organically-grown, natural, unprocessed foods.</span></p>

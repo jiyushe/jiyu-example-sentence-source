@@ -1,5 +1,7 @@
 # toolbar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toolbar.md)
+
 <p><span class="chinese">卸载工具栏。</span><span class="english">Uninstalling the toolbar.</span></p>
 
 <p><span class="chinese">这是工具栏的特写。</span><span class="english">Here’s a closeup of the toolbar.</span></p>

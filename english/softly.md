@@ -1,5 +1,7 @@
 # softly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/softly.md)
+
 <p><span class="chinese">我低声的说。</span><span class="english">I said softly.</span></p>
 
 <p><span class="chinese">克鲁利轻轻地发出了嘶嘶的声音。</span><span class="english">He hissed softly.</span></p>

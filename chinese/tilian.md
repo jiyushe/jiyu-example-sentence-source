@@ -1,5 +1,7 @@
 # 提炼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tilian.md)
+
 <p><span class="chinese">铝是从铝土岩提炼出来的。</span><span class="english">Aluminum is made from bauxite.</span></p>
 
 <p><span class="chinese">把调查结论提炼成向面试官提的问题。</span><span class="english">Turn the research into questions.</span></p>

@@ -1,5 +1,7 @@
 # objectionable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/objectionable.md)
+
 <p><span class="chinese">缺乏角度是很糟糕的。</span><span class="english">Lack of angulation is objectionable.</span></p>
 
 <p><span class="chinese">弯曲的前腿和提琴前腿都属于缺陷。</span><span class="english">Bandy legs and fiddle front are objectionable.</span></p>

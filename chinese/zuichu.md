@@ -1,5 +1,7 @@
 # 最初
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuichu.md)
+
 <p><span class="chinese">他最初是一个唯美主义者。</span><span class="english">He begins as an aesthete.</span></p>
 
 <p><span class="chinese">最初6毫克，每日一次。</span><span class="english">Initially 6mg once daily.</span></p>

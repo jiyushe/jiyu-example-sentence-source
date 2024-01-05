@@ -1,5 +1,7 @@
 # sordid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sordid.md)
+
 <p><span class="chinese">这是一个追欢逐乐的场面。</span><span class="english">It was a sordid scene.</span></p>
 
 <p><span class="chinese">今天他正坐在肮脏的咖啡馆里。</span><span class="english">Today he is in a sordid café.</span></p>

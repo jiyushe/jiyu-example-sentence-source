@@ -1,5 +1,7 @@
 # unsurpassed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsurpassed.md)
+
 <p><span class="chinese">其结果就是军队拥有无与伦比的军事技能。</span><span class="english">The result is a military of unsurpassed skill.</span></p>
 
 <p><span class="chinese">我祈祷所有的生命获得无上正等正觉。</span><span class="english">I pray that all will gain unsurpassed Enlightenment.</span></p>

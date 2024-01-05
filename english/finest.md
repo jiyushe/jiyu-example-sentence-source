@@ -1,5 +1,7 @@
 # finest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/finest.md)
+
 <p><span class="chinese">用最细的羊毛织一条长袍。</span><span class="english">A gown made of the finest wool.</span></p>
 
 <p><span class="chinese">她是猫中非常姣好的。</span><span class="english">She is one of the finest of cats.</span></p>

@@ -1,5 +1,7 @@
 # rummage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rummage.md)
+
 <p><span class="chinese">抑或是黑暗污秽凌乱不堪的房间呢？</span><span class="english">Or, is it a rumpus room strewn of rummage?</span></p>
 
 <p><span class="chinese">每年，我家都要有一次弃物甩卖。</span><span class="english">Every year, our family holds a rummage sale.</span></p>

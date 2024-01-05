@@ -1,5 +1,7 @@
 # quiescent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quiescent.md)
+
 <p><span class="chinese">正是他们的抽象化能力处于不活动的状态。</span><span class="english">It is their capacity for abstraction that is quiescent.</span></p>
 
 <p><span class="chinese">他将弹簧绑紧，尽管工件都保持不动。</span><span class="english">He wound the springs tight, though the works remained quiescent.</span></p>

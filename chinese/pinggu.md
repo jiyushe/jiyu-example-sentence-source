@@ -1,5 +1,7 @@
 # 评估
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinggu.md)
+
 <p><span class="chinese">做一个自我评估。</span><span class="english">Do a self-assessment.</span></p>
 
 <p><span class="chinese">那你该怎么评估收益？</span><span class="english">How do you assess that?</span></p>

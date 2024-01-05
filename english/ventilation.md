@@ -1,5 +1,7 @@
 # ventilation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ventilation.md)
+
 <p><span class="chinese">它有一些基本的通风系统。</span><span class="english">It has some basic ventilation.</span></p>
 
 <p><span class="chinese">对煤气的通气量进行控制。</span><span class="english">The ventilation of gas control.</span></p>

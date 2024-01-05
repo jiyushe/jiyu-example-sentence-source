@@ -1,5 +1,7 @@
 # 会阴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huiyin.md)
+
 <p><span class="chinese">怎样为白血病病人进行会阴护理?。</span><span class="english">How to Conduct Perineum Nursing for Leukemia Patients?</span></p>
 
 <p><span class="chinese">会阴收束被证实对分娩同样有帮助。</span><span class="english">Moola bandha has also proved to be useful in childbirth.</span></p>

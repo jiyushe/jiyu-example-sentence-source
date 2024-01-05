@@ -1,5 +1,7 @@
 # coulombic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coulombic.md)
+
 <p><span class="chinese">库仑力就是这个故事的结尾。</span><span class="english">They're Coulombic forces, end of story.</span></p>
 
 <p><span class="chinese">有一个东西叫做库伦引力。</span><span class="english">There is a Coulombic force of attraction.</span></p>

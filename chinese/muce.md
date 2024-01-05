@@ -1,5 +1,7 @@
 # 目测
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muce.md)
+
 <p><span class="chinese">男孩就像一名拳击手一样在目测对手。</span><span class="english">The boy is like a boxer sizing up an opponent.</span></p>
 
 <p><span class="chinese">目测外观及火花检漏仪检测弯管防腐层。</span><span class="english">Visual and holiday detection of the bend coating.</span></p>

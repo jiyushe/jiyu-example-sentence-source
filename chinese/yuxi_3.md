@@ -1,5 +1,7 @@
 # 预习
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuxi_3.md)
+
 <p><span class="chinese">第一，一定要有预习。</span><span class="english">First, we must have preview.</span></p>
 
 <p><span class="chinese">我确信你们已经预习了这一课。</span><span class="english">I'm sure you have previewed it.</span></p>

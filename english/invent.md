@@ -1,5 +1,7 @@
 # invent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invent.md)
+
 <p><span class="chinese">尝试发明你自己的指法。</span><span class="english">Invent your own fingerings.</span></p>
 
 <p><span class="chinese">事实上，我创编了这个练习。</span><span class="english">That, in fact, I invent this.</span></p>

@@ -1,5 +1,7 @@
 # 企图
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qitu.md)
+
 <p><span class="chinese">现在让我们得到它企图不。</span><span class="english">Now let's get it movin'</span></p>
 
 <p><span class="chinese">他的企图成了泡影。</span><span class="english">He failed in his attempt.</span></p>

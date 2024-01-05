@@ -1,5 +1,7 @@
 # barreled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barreled.md)
+
 <p><span class="chinese">她沿街疾驶。</span><span class="english">She barreled down the street.</span></p>
 
 <p><span class="chinese">他沿公路高速行驶。</span><span class="english">He barreled along the highway.</span></p>

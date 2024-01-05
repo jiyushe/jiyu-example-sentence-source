@@ -1,5 +1,7 @@
 # decree
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decree.md)
+
 <p><span class="chinese">于是大流士王立这禁令，加盖玉玺。</span><span class="english">So King Darius put the decree in writing.</span></p>
 
 <p><span class="chinese">最后的判决解除了他们的婚姻关系。</span><span class="english">The final decree dissolved their marriage.</span></p>

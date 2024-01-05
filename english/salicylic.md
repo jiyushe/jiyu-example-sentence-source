@@ -1,5 +1,7 @@
 # salicylic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salicylic.md)
+
 <p><span class="chinese">但是水杨酸对怀孕女性来说又是一个要说不的成份。</span><span class="english">But salicylic acid is another no-no for pregnant women.</span></p>
 
 <p><span class="chinese">该法巳用于样品复方苯甲酸醇溶液中水杨酸的测定。</span><span class="english">The method was used to determine salicylic acid in benzoic acid.</span></p>

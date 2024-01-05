@@ -1,5 +1,7 @@
 # 新篇章
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinpianzhang.md)
+
 <p><span class="chinese">从此揭开了莱芜革命的新篇章。</span><span class="english">Since opened a new chapter in the Laiwu revolution.</span></p>
 
 <p><span class="chinese">2009年将开启全常德市中小学生英语，小学生数学，作文学习的新篇章！</span><span class="english">The year of 2009 will be a new chapter for your English study!</span></p>

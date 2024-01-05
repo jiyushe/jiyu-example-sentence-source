@@ -1,5 +1,7 @@
 # waiting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waiting.md)
+
 <p><span class="chinese">没人喜欢等待。</span><span class="english">Nobody likes waiting.</span></p>
 
 <p><span class="chinese">捷报在等我们。</span><span class="english">Proud waiting for us.</span></p>

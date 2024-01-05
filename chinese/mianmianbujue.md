@@ -1,5 +1,7 @@
 # 绵绵不绝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianmianbujue.md)
+
 <p><span class="chinese">人类的思想生生不息、绵绵不绝，原因就在这里。</span><span class="english">That is why man have all kinds of thoughts everyday and everywhere.</span></p>
 
 <p><span class="chinese">如果你非要说自己感情丰富，泪如泉涌，可以滔滔，绵绵不绝，那我也没有办法。</span><span class="english">If you want to say oneself emotional, tears, surging, so that I can't.</span></p>

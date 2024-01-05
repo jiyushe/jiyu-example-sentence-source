@@ -1,5 +1,7 @@
 # romano
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/romano.md)
+
 <p><span class="chinese">在哪里可以买到罗曼诺牌的洗头液和沐浴液？</span><span class="english">Where can I buy the Romano brand of shampoo and bath?</span></p>
 
 <p><span class="chinese">这次人质交换计划是在意大利总统普洛蒂和阿富汗总统卡尔扎伊的协商下进行的。</span><span class="english">The release was negotiated between Italian President Romano Prodi and Afghan President Hamid Karzai.</span></p>

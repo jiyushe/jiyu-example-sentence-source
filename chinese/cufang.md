@@ -1,5 +1,7 @@
 # 粗放
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cufang.md)
+
 <p><span class="chinese">二是经济增长方式粗放。</span><span class="english">Second, the pattern of economic growth is inefficient.</span></p>
 
 <p><span class="chinese">她有一种粗放勇敢的气质。</span><span class="english">There was a foundation of wildness and bravery in her.</span></p>

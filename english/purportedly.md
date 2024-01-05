@@ -1,5 +1,7 @@
 # purportedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purportedly.md)
+
 <p><span class="chinese">危地马拉政府则据说是掩盖了自己的腐败。</span><span class="english">The Guatemalan government purportedly covered up its own corruption.</span></p>
 
 <p><span class="chinese">俄亥俄洲大学据称是所有大学中猛鬼指数最高的大学。</span><span class="english">Ohio University purportedly has the most hauntings of any university.</span></p>

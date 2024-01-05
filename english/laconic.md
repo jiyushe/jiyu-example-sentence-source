@@ -1,5 +1,7 @@
 # laconic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laconic.md)
+
 <p><span class="chinese">这位作者简洁的文字做到既洗练又有邪恶的暗示。</span><span class="english">The author's laconic prose manages to be both dexterous and sinister.</span></p>
 
 <p><span class="chinese">完美的网站！所有全部都是简洁和美丽的。感谢！</span><span class="english">Perfect site! Anything superfluous, all is laconic and beautiful. Thanks!</span></p>

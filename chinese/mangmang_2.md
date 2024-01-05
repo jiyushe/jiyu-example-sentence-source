@@ -1,5 +1,7 @@
 # 莽莽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mangmang_2.md)
+
 <p><span class="chinese">他莽莽撞撞地走进了会议室。</span><span class="english">He tumbled into the meeting room.</span></p>
 
 <p><span class="chinese">这些画家喜欢画莽莽原野。</span><span class="english">These artists loved painting the wilderness.</span></p>

@@ -1,5 +1,7 @@
 # corkscrew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/corkscrew.md)
+
 <p><span class="chinese">这有个土豆，这是螺旋锥。</span><span class="english">I have a potato here and here is a corkscrew.</span></p>
 
 <p><span class="chinese">她用开塞钻打开了酒瓶。</span><span class="english">She opened the bottle of wine with a corkscrew.</span></p>

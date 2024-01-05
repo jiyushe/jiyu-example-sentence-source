@@ -1,5 +1,7 @@
 # outcrop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outcrop.md)
+
 <p><span class="chinese">斯德哥尔摩群岛上露出地面岩层的野营。</span><span class="english">Camping on a rocky outcrop in Stockholm Archipelag.</span></p>
 
 <p><span class="chinese">后期又由于仰冲推覆，最终出露地表。</span><span class="english">At last, it obducted and thrusted to outcrop on the surface.</span></p>

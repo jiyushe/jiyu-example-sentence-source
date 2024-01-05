@@ -1,5 +1,7 @@
 # 义演
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyan.md)
+
 <p><span class="chinese">他们安排了一次义演音乐会。</span><span class="english">They arranged for a benefit concert.</span></p>
 
 <p><span class="chinese">因为天可能会下雨，我们计划在室内举行义演。</span><span class="english">We plan to hold the show indoors because it might rain.</span></p>

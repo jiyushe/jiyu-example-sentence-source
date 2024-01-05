@@ -1,5 +1,7 @@
 # 独到之处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dudaozhichu.md)
+
 <p><span class="chinese">高旭对西方文化的见解，具有独到之处。</span><span class="english">Gaoxu had special view on western culture.</span></p>
 
 <p><span class="chinese">这就是那尖锐而有独到之处的论点。</span><span class="english">This is the pungent and original argument.</span></p>

@@ -1,5 +1,7 @@
 # flint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flint.md)
+
 <p><span class="chinese">玻璃，火石，中等1。</span><span class="english">Glass Flint Medium 1.</span></p>
 
 <p><span class="chinese">现在把火石给我吧。</span><span class="english">Now, give me the flint.</span></p>

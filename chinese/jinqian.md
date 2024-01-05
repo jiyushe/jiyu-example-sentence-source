@@ -1,5 +1,7 @@
 # 近前
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinqian.md)
+
 <p><span class="chinese">然后她们在火的近前坐下来。</span><span class="english">Then they sat down near the fire.</span></p>
 
 <p><span class="chinese">这时，老虎已经冲到了近前。</span><span class="english">At this moment, the tiger has already arrived near.</span></p>

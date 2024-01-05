@@ -1,5 +1,7 @@
 # cymbidium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cymbidium.md)
+
 <p><span class="chinese">我高高举起我的手，把我的小兰花送到他的面前。</span><span class="english">I raised my hand to him my little cymbidium lying in my hand.</span></p>
 
 <p><span class="chinese">大花蕙兰，又叫虎头兰、喜姆比兰和蝉兰。</span><span class="english">Cymbidium, also known as tiger orchid, Cymbidium orchid, and cicadas.</span></p>

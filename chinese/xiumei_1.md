@@ -1,5 +1,7 @@
 # 秀美
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiumei_1.md)
+
 <p><span class="chinese">湖南是一个人杰地灵，景色秀美的地方。</span><span class="english">Hunan is a place of greatness and beauty.</span></p>
 
 <p><span class="chinese">生物起源地，秀美青海湖！</span><span class="english">Biological origin, beautiful Qinghai Lake!</span></p>

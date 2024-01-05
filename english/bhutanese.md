@@ -1,5 +1,7 @@
 # bhutanese
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bhutanese.md)
+
 <p><span class="chinese">多数不丹人欢迎国王的命令。</span><span class="english">Most Bhutanese applaud the king's rule.</span></p>
 
 <p><span class="chinese">那么你不要选不丹的女人，这些女人当家作主。</span><span class="english">Then you may not choose Bhutanese women, these women dominate the family.</span></p>

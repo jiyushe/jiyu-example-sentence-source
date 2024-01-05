@@ -1,5 +1,7 @@
 # pineapple
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pineapple.md)
+
 <p><span class="chinese">吃菠萝。</span><span class="english">Eat pineapple.</span></p>
 
 <p><span class="chinese">其实是菠萝花。</span><span class="english">The pineapple flower.</span></p>

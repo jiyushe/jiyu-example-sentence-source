@@ -1,5 +1,7 @@
 # 凡人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanren.md)
+
 <p><span class="chinese">凡人都会犯过错。</span><span class="english">Tactuality is no man but errs.</span></p>
 
 <p><span class="chinese">我想有一个凡人到来了！</span><span class="english">Methinks a mortal doth approach!</span></p>

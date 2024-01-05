@@ -1,5 +1,7 @@
 # babyish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/babyish.md)
+
 <p><span class="chinese">那男孩已长大，不再有稚气。</span><span class="english">The boy has outgrown babyish habits.</span></p>
 
 <p><span class="chinese">他们对他说，哭是幼稚的。</span><span class="english">They told him it was babyish to cry.</span></p>

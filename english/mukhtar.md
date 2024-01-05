@@ -1,5 +1,7 @@
 # mukhtar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mukhtar.md)
+
 <p><span class="chinese">Mukhtar是我的英雄。</span><span class="english">Mukhtar is my hero.</span></p>
 
 <p><span class="chinese">纳克维是一名穆斯林，也是印度人民党的副主席。</span><span class="english">Mukhtar Abbas Naqvi is a Muslim and vice president of the BJP.</span></p>

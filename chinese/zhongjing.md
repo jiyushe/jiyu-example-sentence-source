@@ -1,5 +1,7 @@
 # 中景
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongjing.md)
+
 <p><span class="chinese">中景是成熟的橄榄树和火塘。</span><span class="english">Mature olive trees and fire pit in mid ground.</span></p>
 
 <p><span class="chinese">同时你也可以加一些另外的镜头，比如中景，假如你需要的话。</span><span class="english">You can also include other shots, such as mid shots, if you need them.</span></p>

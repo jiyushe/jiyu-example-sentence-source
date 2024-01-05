@@ -1,5 +1,7 @@
 # matriarch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/matriarch.md)
+
 <p><span class="chinese">杰克转身对女族长。</span><span class="english">JAKE turns to the MATRIARCH.</span></p>
 
 <p><span class="chinese">甘地王朝的女家长正牢牢的把握着权力。</span><span class="english">The matriarch of the Gandhi dynasty is keeping her grip on power.</span></p>

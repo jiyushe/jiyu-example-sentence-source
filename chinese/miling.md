@@ -1,5 +1,7 @@
 # 密令
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miling.md)
+
 <p><span class="chinese">蒸发密令约翰是美国法警，在证人安全保护中心工作。</span><span class="english">John is the American bailiff, in witness safekeeping of security main task.</span></p>
 
 <p><span class="chinese">帕尔帕廷发布了66号指令——一条宣布绝地武士为共和国叛徒的密令。</span><span class="english">Palpatine enacted Order 66, a coded command that identified the Jedi Knights as traitors to the Republic.</span></p>

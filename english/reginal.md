@@ -1,5 +1,7 @@
 # reginal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reginal.md)
+
 <p><span class="chinese">发展红利将成为今后中国区域经济增长的绿色动力源。</span><span class="english">Development dividend will be the green origination of reginal economical increase in China.</span></p>
 
 <p><span class="chinese">矿床的地质学及矿物学研究表明，该矿床是由区域变质作用形成的。</span><span class="english">Geological and mineralogical studies on the deposite indicate that they formed through reginal metamorphism.</span></p>

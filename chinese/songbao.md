@@ -1,5 +1,7 @@
 # 送报
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songbao.md)
+
 <p><span class="chinese">他总是早上送报。</span><span class="english">He delivers the morning paper.</span></p>
 
 <p><span class="chinese">我是送报员汤姆。威尔逊。</span><span class="english">It's the newspaper boy—Tommy Wilson.</span></p>

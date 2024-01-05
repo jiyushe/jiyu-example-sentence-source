@@ -1,5 +1,7 @@
 # helpfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/helpfully.md)
+
 <p><span class="chinese">“很难判定吗？”我以一种施助的口吻说道。</span><span class="english">“Hard to decide?” I said helpfully.</span></p>
 
 <p><span class="chinese">而且，他在1927年明确的指出，革命是“暴动，是暴力行为。</span><span class="english">Rather, as he helpfully clarified in 1927, it is “an insurrection, an act of violence.”</span></p>

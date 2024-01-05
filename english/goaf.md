@@ -1,5 +1,7 @@
 # goaf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goaf.md)
+
 <p><span class="chinese">采空区上建水力贮灰场在国内首例。</span><span class="english">Building waterpower ash storage site on goaf is the first example at home.</span></p>
 
 <p><span class="chinese">在建立如采矿区这样的复杂模型时，这种方法显得很有优势。</span><span class="english">This method has the advantage in the modeling of complex models such as goaf.</span></p>

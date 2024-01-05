@@ -1,5 +1,7 @@
 # reticulum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reticulum.md)
+
 <p><span class="chinese">该网的空中家园。</span><span class="english">The reticulum of our skyward home.</span></p>
 
 <p><span class="chinese">XBP1是内质网应激的标志物。</span><span class="english">XBP1 is endoplasmic reticulum stress signs.</span></p>

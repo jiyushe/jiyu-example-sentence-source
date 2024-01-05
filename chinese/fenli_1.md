@@ -1,5 +1,7 @@
 # 分理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenli_1.md)
+
 <p><span class="chinese">大使亲身背分理传达了分统的成绩。</span><span class="english">The ambassador personally conveyed the president's message to the premier.</span></p>
 
 <p><span class="chinese">在司法实践中，行政与司法相分离，民事与刑事相分理。</span><span class="english">In the judicial practice, administration separated with judicature, civil and criminal lawsuit were treated separately.</span></p>

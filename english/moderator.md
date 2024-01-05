@@ -1,5 +1,7 @@
 # moderator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moderator.md)
+
 <p><span class="chinese">缓和剂可以起到很好的。</span><span class="english">Can play a very good moderator.</span></p>
 
 <p><span class="chinese">谢谢斑竹的提醒。</span><span class="english">Thanks moderator for reminding me.</span></p>

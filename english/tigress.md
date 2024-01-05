@@ -1,5 +1,7 @@
 # tigress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tigress.md)
+
 <p><span class="chinese">在房间里做个母老虎。</span><span class="english">Be a tigress in the bedroom.</span></p>
 
 <p><span class="chinese">虎妞客气地试图溜走。</span><span class="english">Tigress politely tried to slip away.</span></p>

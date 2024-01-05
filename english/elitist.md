@@ -1,5 +1,7 @@
 # elitist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elitist.md)
+
 <p><span class="chinese">这是一个极度优秀的位置。</span><span class="english">It is a profoundly elitist position.</span></p>
 
 <p><span class="chinese">你和我是电脑怪客当中的精英。</span><span class="english">You and I are elitist computer snobs.</span></p>

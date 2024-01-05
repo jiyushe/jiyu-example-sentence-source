@@ -1,5 +1,7 @@
 # threatening
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/threatening.md)
+
 <p><span class="chinese">肢体重复性劳损症不会威胁生命。</span><span class="english">RSI is not life threatening.</span></p>
 
 <p><span class="chinese">那条狗非常吓人。</span><span class="english">That dog is very threatening.</span></p>

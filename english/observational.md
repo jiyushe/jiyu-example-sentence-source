@@ -1,5 +1,7 @@
 # observational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/observational.md)
+
 <p><span class="chinese">观测研究常常会误导。</span><span class="english">Observational studies are often misleading.</span></p>
 
 <p><span class="chinese">流行病学研究是观察性研究</span><span class="english">Now the epidemiology studies are observational studies.</span></p>

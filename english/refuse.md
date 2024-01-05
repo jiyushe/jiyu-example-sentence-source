@@ -1,5 +1,7 @@
 # refuse 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/refuse.md)
+
 <p><span class="chinese">按常例我该拒绝。</span><span class="english">I should refuse.</span></p>
 
 <p><span class="chinese">拒绝白色污染。</span><span class="english">Refuse white pollution.</span></p>

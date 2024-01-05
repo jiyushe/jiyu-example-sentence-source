@@ -1,5 +1,7 @@
 # willis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/willis.md)
+
 <p><span class="chinese">今天，我们向你介绍威利斯.科诺菲尔。</span><span class="english">Today, we tell about Willis Conover.</span></p>
 
 <p><span class="chinese">布鲁斯威利和黛咪摩儿终于离婚了。</span><span class="english">Bruce Willis and Demi Moore finally got divorced.</span></p>

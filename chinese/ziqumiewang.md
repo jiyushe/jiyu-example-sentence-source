@@ -1,5 +1,7 @@
 # 自取灭亡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziqumiewang.md)
+
 <p><span class="chinese">这只会自取灭亡。</span><span class="english">This is suicidal.</span></p>
 
 <p><span class="chinese">自我阻塞就是自取灭亡。</span><span class="english">Self barricading is to court one's own ruin.</span></p>

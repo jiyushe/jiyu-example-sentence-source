@@ -1,5 +1,7 @@
 # marlene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marlene.md)
+
 <p><span class="chinese">她的名字叫丽莉•玛琳。</span><span class="english">Her name was Lilli Marlene.</span></p>
 
 <p><span class="chinese">它没有阻止我姐姐玛琳。</span><span class="english">It didn't stop my sister Marlene.</span></p>

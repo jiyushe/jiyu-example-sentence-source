@@ -1,5 +1,7 @@
 # 存贮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cunzhu.md)
+
 <p><span class="chinese">盘子和工具为节省空间存贮筑巢。</span><span class="english">Trays and tool nest for space-saving storage.</span></p>
 
 <p><span class="chinese">同时，IBM公司还为该系统提供了500千兆字节的存贮空间。</span><span class="english">IBM is also providing 500 terabytes of storage.</span></p>

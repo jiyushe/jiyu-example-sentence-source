@@ -1,5 +1,7 @@
 # 乳臭未干
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruxiuweigan.md)
+
 <p><span class="chinese">做了些什么，在相爱之前，依旧乳臭未干？</span><span class="english">Did, till we loved? Were we not weaned till then?</span></p>
 
 <p><span class="chinese">我想提醒你，我并非是个乳臭未干的孩子。</span><span class="english">I would like to mind you I was not born yesterday.</span></p>

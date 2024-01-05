@@ -1,5 +1,7 @@
 # 爱人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/airen.md)
+
 <p><span class="chinese">啊，我的爱人像一支乐曲。</span><span class="english">My Luve's like the melodie.</span></p>
 
 <p><span class="chinese">哦，我的爱人像一支甜甜的乐曲。</span><span class="english">O my Luves like the melodie.</span></p>

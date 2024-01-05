@@ -1,5 +1,7 @@
 # 口服
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/koufu.md)
+
 <p><span class="chinese">这是口服药。</span><span class="english">This is for oral ministry.</span></p>
 
 <p><span class="chinese">甘露醇口服吸收很少。</span><span class="english">Little oral absorption of mannitol.</span></p>

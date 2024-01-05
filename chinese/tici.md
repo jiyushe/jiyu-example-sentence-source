@@ -1,5 +1,7 @@
 # 提词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tici.md)
+
 <p><span class="chinese">你是我们的观众兼提词员。</span><span class="english">You were our audience and prompter.</span></p>
 
 <p><span class="chinese">那演员经常需要提词。</span><span class="english">The actor needed to be prompted frequently.</span></p>

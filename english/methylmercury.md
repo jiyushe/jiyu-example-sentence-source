@@ -1,5 +1,7 @@
 # methylmercury
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/methylmercury.md)
+
 <p><span class="chinese">我给你看死于乙基汞的细胞培养中的细胞。</span><span class="english">The cells that I showed you dying in cell culture are dying from methylmercury.</span></p>
 
 <p><span class="chinese">证明鱼体肌肉中甲基含量最高，其次为肝脏、肾脏、脾脏。</span><span class="english">Methylmercury content in muscle was higher than that in liver, kidney and spleen.</span></p>

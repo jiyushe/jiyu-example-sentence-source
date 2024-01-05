@@ -1,5 +1,7 @@
 # 大快人心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dakuairenxin.md)
+
 <p><span class="chinese">而这一次胜利，无论对白人来说还是黑人来说，都是大快人心，欢欣鼓舞的。</span><span class="english">This one was marked by joy, white as well as black.</span></p>
 
 <p><span class="chinese">表面看来，由于李总理的要求，安居工程大快人心。</span><span class="english">Pressure from Mr Li looks, on the surface, to be paying off.</span></p>

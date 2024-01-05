@@ -1,5 +1,7 @@
 # 坯布
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pibu.md)
+
 <p><span class="chinese">我们可以稳定地供应坯布。</span><span class="english">We can guarantee regular supply of grey sheeting.</span></p>
 
 <p><span class="chinese">给出坯布质量对原纱质量的要求。</span><span class="english">Requirements of the gray fabric quality to greige yarn quality.</span></p>

@@ -1,5 +1,7 @@
 # 太阳能
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taiyangneng.md)
+
 <p><span class="chinese">太阳能集热板如何工作呢？</span><span class="english">How do solar panels work?</span></p>
 
 <p><span class="chinese">这所房屋是用太阳能供暖、供电的。</span><span class="english">This house was solar-heated.</span></p>

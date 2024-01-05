@@ -1,5 +1,7 @@
 # eke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eke.md)
+
 <p><span class="chinese">我的名字也必将在回忆中消逝名字消亡如拭尘。</span><span class="english">And eke my name be wiped out likewise.</span></p>
 
 <p><span class="chinese">我们必须尽量节约用水。</span><span class="english">We must try to eke out  our water supply.</span></p>

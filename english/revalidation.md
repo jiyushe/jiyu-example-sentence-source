@@ -1,5 +1,7 @@
 # revalidation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revalidation.md)
+
 <p><span class="chinese">重验证的程序取决于该变更的性质。</span><span class="english">The degree of revalidation depends on the nature of the change.</span></p>
 
 <p><span class="chinese">当程序发生改变时，替代系统的重新确认被做了吗？</span><span class="english">Are systems in place to initiate revalidation when program changes are made?</span></p>

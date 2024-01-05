@@ -1,5 +1,7 @@
 # nite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nite.md)
+
 <p><span class="chinese">今晚就是我们公司一个简单的圣诞晚会。</span><span class="english">Tonight is our company Chritmas Dinner Nite.</span></p>
 
 <p><span class="chinese">如果你有任何问题，我明天晚上回来。</span><span class="english">If you have any question I will be back tomorrow nite.</span></p>

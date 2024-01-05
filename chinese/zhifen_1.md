@@ -1,5 +1,7 @@
 # 脂粉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhifen_1.md)
+
 <p><span class="chinese">她搽着厚厚的脂粉。</span><span class="english">She paints herself thick.</span></p>
 
 <p><span class="chinese">玛丽稍稍涂了一点脂粉。</span><span class="english">Mary was slightly made up.</span></p>

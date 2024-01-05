@@ -1,5 +1,7 @@
 # formalization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/formalization.md)
+
 <p><span class="chinese">正式确立合作关系将会促进共和国之间合作的顺利进展。</span><span class="english">The formalization of co-operation between the republics would produce progress.</span></p>
 
 <p><span class="chinese">这种了解可以形成业务域矩阵。</span><span class="english">Formalization of this understanding might be documented as a business domain matrix.</span></p>

@@ -1,5 +1,7 @@
 # tardy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tardy.md)
+
 <p><span class="chinese">他总是工作迟到。</span><span class="english">He’s always tardy for work.</span></p>
 
 <p><span class="chinese">对不起，我又迟到了。</span><span class="english">Sorry for being tardy again.</span></p>

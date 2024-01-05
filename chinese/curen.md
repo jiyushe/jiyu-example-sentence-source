@@ -1,5 +1,7 @@
 # 粗人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/curen.md)
+
 <p><span class="chinese">看来，他是个典型的粗人。</span><span class="english">He seems to be a typical redneck.</span></p>
 
 <p><span class="chinese">莉萨认为她的上司是个粗人。</span><span class="english">Lisa thinks that her boss is an ass.</span></p>

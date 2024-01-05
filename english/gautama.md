@@ -1,5 +1,7 @@
 # gautama
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gautama.md)
+
 <p><span class="chinese">佛祖释迦牟尼的情况亦如是。</span><span class="english">The same would be true of Gautama Buddha.</span></p>
 
 <p><span class="chinese">一个接着一个，释迦牟尼以他的智慧和美德征服了他们。</span><span class="english">One by one, Gautama met the armies and defeated them with his virtue.</span></p>

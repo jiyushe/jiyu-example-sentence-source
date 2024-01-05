@@ -1,5 +1,7 @@
 # captivate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/captivate.md)
+
 <p><span class="chinese">为什么它能吸引你？</span><span class="english">Why does it captivate you?</span></p>
 
 <p><span class="chinese">你习惯于通过你产生共鸣的光亮让我着迷。</span><span class="english">You used to captivate me by your resonating light.</span></p>

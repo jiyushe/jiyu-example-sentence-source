@@ -1,5 +1,7 @@
 # 感召
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganzhao.md)
+
 <p><span class="chinese">那字母成了她响应感召的象征。</span><span class="english">The letter was the symbol of her calling.</span></p>
 
 <p><span class="chinese">我愿精神把不同肤色民族感召。</span><span class="english">I wish spirit impel the different colors of skin.</span></p>

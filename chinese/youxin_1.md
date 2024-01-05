@@ -1,5 +1,7 @@
 # 有心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youxin_1.md)
+
 <p><span class="chinese">我有心悸。</span><span class="english">I have a palpitation.</span></p>
 
 <p><span class="chinese">你有心悸现象吗？</span><span class="english">Do you have any palpitations?</span></p>

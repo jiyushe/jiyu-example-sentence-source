@@ -1,5 +1,7 @@
 # deferment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deferment.md)
+
 <p><span class="chinese">银行不容许他再次推迟付款。</span><span class="english">The bank did not allow further deferment of his payment.</span></p>
 
 <p><span class="chinese">本人会于已获批准的延迟修业期完结后复课。</span><span class="english">I undertake to resume studies following the expiry of the deferment period approved.</span></p>

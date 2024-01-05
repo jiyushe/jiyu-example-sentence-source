@@ -1,5 +1,7 @@
 # 起义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiyi_6.md)
+
 <p><span class="chinese">起义是狂热的表现。</span><span class="english">An insurrection is an enthusiasm.</span></p>
 
 <p><span class="chinese">上星期一支伪军部队起义了。</span><span class="english">A puppet troop revolted last week.</span></p>

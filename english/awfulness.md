@@ -1,5 +1,7 @@
 # awfulness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/awfulness.md)
+
 <p><span class="chinese">这才是永生所导致的真正糟糕的结果。</span><span class="english">This is the true awfulness of immortality.</span></p>
 
 <p><span class="chinese">在你看来，性冲动和性爱也包括在这种不快里面吗？</span><span class="english">In your view, does this awfulness include eroticism and love?</span></p>

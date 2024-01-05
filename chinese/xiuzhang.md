@@ -1,5 +1,7 @@
 # 袖章
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuzhang.md)
+
 <p><span class="chinese">所有的战士都必须佩戴袖章。</span><span class="english">All the soldiers must pin their armbands on.</span></p>
 
 <p><span class="chinese">我们决定戴黑袖章上学。</span><span class="english">and we decided to wear these black armbands to school.</span></p>

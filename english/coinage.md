@@ -1,5 +1,7 @@
 # coinage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coinage.md)
+
 <p><span class="chinese">“四人帮”创造了一个名词叫“臭老九”。</span><span class="english">That word is a recent coinage.</span></p>
 
 <p><span class="chinese">银币一再用铜币维隆来替代，实行贬值。</span><span class="english">The silver coinage was repeatedly debased with copper vellon.</span></p>

@@ -1,5 +1,7 @@
 # 喜悦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiyue.md)
+
 <p><span class="chinese">你看上去心虚喜悦。</span><span class="english">You look guilty.</span></p>
 
 <p><span class="chinese">噢，喜悦。嗨！喜悦！</span><span class="english">O joy, hey-ho! Joy!</span></p>

@@ -1,5 +1,7 @@
 # speedily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/speedily.md)
+
 <p><span class="chinese">云朵又迅速聚集起来。</span><span class="english">The clouds speedily gathered again.</span></p>
 
 <p><span class="chinese">这种苛刻标准帮助公司迅速成长。</span><span class="english">That rigor helped the company grow speedily.</span></p>

@@ -1,5 +1,7 @@
 # along 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/along.md)
+
 <p><span class="chinese">一只猫沿路走来。</span><span class="english">Along came a cat.</span></p>
 
 <p><span class="chinese">我们都相处得很好。</span><span class="english">We all get along.</span></p>

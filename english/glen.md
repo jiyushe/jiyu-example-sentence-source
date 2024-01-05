@@ -1,5 +1,7 @@
 # glen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glen.md)
+
 <p><span class="chinese">戈文去过那峡谷吗？</span><span class="english">Has Gwen been to the glen?</span></p>
 
 <p><span class="chinese">大山，你是怎么认识格伦的？</span><span class="english">Dashan, How do you know Glen?</span></p>

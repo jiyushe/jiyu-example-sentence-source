@@ -1,5 +1,7 @@
 # balaam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/balaam.md)
+
 <p><span class="chinese">于是巴兰同著巴勒的使臣去了。</span><span class="english">So Balaam went with the princes of Balak.</span></p>
 
 <p><span class="chinese">金巴兰海滩以海上日落著称。</span><span class="english">Gold balaam beach with sea sunset celebrated.</span></p>

@@ -1,5 +1,7 @@
 # ares
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ares.md)
+
 <p><span class="chinese">公制术语定义的长度单位。</span><span class="english">A metric unit of area equal to10 ares.</span></p>
 
 <p><span class="chinese">阿瑞斯站在战场上，观察着克瑞托斯。</span><span class="english">Ares stands on the battlefield observing kratos.</span></p>

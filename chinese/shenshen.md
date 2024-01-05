@@ -1,5 +1,7 @@
 # 伸伸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenshen.md)
+
 <p><span class="chinese">我们都得伸伸手脚了。</span><span class="english">We all need a good stretch.</span></p>
 
 <p><span class="chinese">伸伸你的胳膊和腿。</span><span class="english">Stretch out your arms and legs.</span></p>

@@ -1,5 +1,7 @@
 # ceremony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ceremony.md)
+
 <p><span class="chinese">这是奉纳演舞。</span><span class="english">This is ceremony dance.</span></p>
 
 <p><span class="chinese">他的鞠躬只是一种虚礼而已。</span><span class="english">His bow was mere ceremony.</span></p>

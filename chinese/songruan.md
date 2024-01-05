@@ -1,5 +1,7 @@
 # 松软
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songruan.md)
+
 <p><span class="chinese">从松软的土地到坚实的岩坻。</span><span class="english">from hollow ground to sturdy.</span></p>
 
 <p><span class="chinese">黑色像石油一样松软。</span><span class="english">Black is runny like, well, oil.</span></p>

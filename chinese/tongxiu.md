@@ -1,5 +1,7 @@
 # 铜臭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongxiu.md)
+
 <p><span class="chinese">当铜臭感染教鞭，灵魂变了。</span><span class="english">When place defile pointer, soul has changed.</span></p>
 
 <p><span class="chinese">因为他们的文字都被铜臭所污染了。</span><span class="english">The letter because they were contaminated by Nixon.</span></p>

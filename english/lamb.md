@@ -1,5 +1,7 @@
 # lamb 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lamb.md)
+
 <p><span class="chinese">那些羊肉都是多脂肪的。</span><span class="english">All that lamb is fatty.</span></p>
 
 <p><span class="chinese">玛丽有只小绵羊。</span><span class="english">Mary has a little lamb.</span></p>

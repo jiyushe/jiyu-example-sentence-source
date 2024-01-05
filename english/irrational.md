@@ -1,5 +1,7 @@
 # irrational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irrational.md)
+
 <p><span class="chinese">恐惧症说到底是一种非理性的恐惧。</span><span class="english">A phobia, after all, is an irrational fear.</span></p>
 
 <p><span class="chinese">另外这也是很荒谬的。</span><span class="english">It's always irrational as well, in addition.</span></p>

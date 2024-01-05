@@ -1,5 +1,7 @@
 # 血战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuezhan.md)
+
 <p><span class="chinese">一名男子用杯子砸向另一个人的头，还有一个人眼睛暴出，真是一场血战。</span><span class="english">One person's eye was popping out. It was a bloodbath.</span></p>
 
 <p><span class="chinese">阿拉伯革命武装已经达到了血战的高潮，联合国的禁飞区决意获得通过之后联合军也开始轰炸利比亚。</span><span class="english">The Arab Revolution has come to a bloody culmination.</span></p>

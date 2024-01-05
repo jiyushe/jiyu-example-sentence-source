@@ -1,5 +1,7 @@
 # 菲薄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feibo.md)
+
 <p><span class="chinese">殿下，请原谅我献上这般菲薄的礼品。</span><span class="english">Prince, please forgive this shabby present.</span></p>
 
 <p><span class="chinese">菲薄的待遇使他不想接受这项工作。</span><span class="english">The low salary did not dispose him to accept the position.</span></p>

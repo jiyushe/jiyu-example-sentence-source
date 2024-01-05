@@ -1,5 +1,7 @@
 # paprika
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paprika.md)
+
 <p><span class="chinese">加入白酒及甜红椒粉以调味。</span><span class="english">Add in white wine and paprika to taste.</span></p>
 
 <p><span class="chinese">所以我想我可以使用烟熏的红辣椒。</span><span class="english">That's when it hit me to use smoked paprika.</span></p>

@@ -1,5 +1,7 @@
 # accolade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accolade.md)
+
 <p><span class="chinese">但是他还是错过了最大的影片奖项。</span><span class="english">But the biggest film accolade eluded him.</span></p>
 
 <p><span class="chinese">奥斯卡金像奖是好莱坞最高荣誉奖。</span><span class="english">In Hollywood, an "Oscar" is the highest accolade.</span></p>

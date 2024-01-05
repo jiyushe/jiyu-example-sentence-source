@@ -1,5 +1,7 @@
 # undated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undated.md)
+
 <p><span class="chinese">该表未注明日期。</span><span class="english">That form is undated.</span></p>
 
 <p><span class="chinese">日期不明的班杰明．寇克斯在校照片。</span><span class="english">An undated copy of a school photograph of Benjamin Cox.</span></p>

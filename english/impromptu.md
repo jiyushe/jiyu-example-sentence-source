@@ -1,5 +1,7 @@
 # impromptu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impromptu.md)
+
 <p><span class="chinese">我们什么时候要做即席演讲？</span><span class="english">When do we make impromptu speeches?</span></p>
 
 <p><span class="chinese">一段即兴曲使音乐会更活跃了。</span><span class="english">A piece of impromptu spiced up the concert.</span></p>

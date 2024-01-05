@@ -1,5 +1,7 @@
 # 外教
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waijiao.md)
+
 <p><span class="chinese">他可能被大雾外教口语陪练所耽误了。</span><span class="english">He ean have been delayed by fog.</span></p>
 
 <p><span class="chinese">它可是我的外教老师摩西取的。</span><span class="english">It is my foreign teacher Moses to take.</span></p>

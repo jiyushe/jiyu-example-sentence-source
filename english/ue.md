@@ -1,5 +1,7 @@
 # ue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ue.md)
+
 <p><span class="chinese">为什么不能让聿各有一试。</span><span class="english">Why not let each of ue have a try.</span></p>
 
 <p><span class="chinese">大多数戏剧都是用对话体写的。</span><span class="english">Most plays are written in dialog ue.</span></p>

@@ -1,5 +1,7 @@
 # sexton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sexton.md)
+
 <p><span class="chinese">一个小念头对于整个世界就是敲钟挖墓的教堂执事。</span><span class="english">A little thought is sexton to all the world.</span></p>
 
 <p><span class="chinese">他的父亲在当地教会做教堂司事。</span><span class="english">His father worked as sexton in the local church.</span></p>

@@ -1,5 +1,7 @@
 # brussels
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brussels.md)
+
 <p><span class="chinese">布鲁塞尔估价定义。</span><span class="english">Brussels Definition of value BD.</span></p>
 
 <p><span class="chinese">布鲁塞尔真的在中间所以</span><span class="english">Brussels is really in the middle so</span></p>

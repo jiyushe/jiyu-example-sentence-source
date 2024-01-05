@@ -1,5 +1,7 @@
 # sequoia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sequoia.md)
+
 <p><span class="chinese">徐峥，红杉资本中国基金副总裁。</span><span class="english">George Xu is a Vice President of Sequoia Capital China.</span></p>
 
 <p><span class="chinese">北美红杉为什么与水杉那样相象。</span><span class="english">Why is Sequoia seperuirens so similar to Metasequoia glyptostroboides.</span></p>

@@ -1,5 +1,7 @@
 # edaphic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/edaphic.md)
+
 <p><span class="chinese">最简单的办法就是，植物盆内的土壤表面干了，就可以浇水了。</span><span class="english">The simplest way is, the edaphic surface inside plant basin worked, can water.</span></p>
 
 <p><span class="chinese">对土壤要求不太严格，但以疏松。肥沃。排水良好的壤土为好。</span><span class="english">Not quite strict to edaphic requirement, but with the loam with loose, fecund, good drainage had better.</span></p>

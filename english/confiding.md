@@ -1,5 +1,7 @@
 # confiding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confiding.md)
+
 <p><span class="chinese">这种倾诉是必要的，也是有好处的。</span><span class="english">Confiding is necessary and good to people.</span></p>
 
 <p><span class="chinese">但很快，他又装出一副让人信任的语气来。</span><span class="english">But soon he again assumed a confiding tone.</span></p>

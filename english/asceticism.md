@@ -1,5 +1,7 @@
 # asceticism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asceticism.md)
+
 <p><span class="chinese">我应该知道和尚奉行禁欲主义，还好他没有生气。</span><span class="english">I should have known that monks practice asceticism.</span></p>
 
 <p><span class="chinese">人们及各种族总是在禁欲主义和放荡形骸之间徘徊。</span><span class="english">Between asceticism and indulgence men and races swing.</span></p>

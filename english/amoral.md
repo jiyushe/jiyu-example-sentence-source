@@ -1,5 +1,7 @@
 # amoral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amoral.md)
+
 <p><span class="chinese">小孩子是不知好歹的。</span><span class="english">Young children are amoral.</span></p>
 
 <p><span class="chinese">题为“碎碎念会使你变得不道德吗？</span><span class="english">Entitled "Can Twitter Make You Amoral?</span></p>

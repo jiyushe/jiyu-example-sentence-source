@@ -1,5 +1,7 @@
 # wrapping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wrapping.md)
+
 <p><span class="chinese">正在包生煎。</span><span class="english">Wrapping the fry dumpling.</span></p>
 
 <p><span class="chinese">你需要多包一层纸作保护吗？</span><span class="english">Do you need extra wrapping?</span></p>

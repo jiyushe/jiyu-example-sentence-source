@@ -1,5 +1,7 @@
 # offtake
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/offtake.md)
+
 <p><span class="chinese">亚洲其他国家与日本的铝需求量也活跃起来。</span><span class="english">Offtake from other Asian and Japanese consumers has also been brisk.</span></p>
 
 <p><span class="chinese">美国国内消费量的下降成为美国豆粕供需形势的焦点，豆油数量的下降源于国内消费及出口。</span><span class="english">S. domestic usage headlined the U. S. soybean meal balance with domestic use and exports sharing the moderated soybean oil offtake.</span></p>

@@ -1,5 +1,7 @@
 # pawn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pawn.md)
+
 <p><span class="chinese">向前拱了一步卒。</span><span class="english">He moved a pawn forward.</span></p>
 
 <p><span class="chinese">整件事情都是走卒一个?。</span><span class="english">Just a pawn in all this?</span></p>

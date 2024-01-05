@@ -1,5 +1,7 @@
 # scaling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scaling.md)
+
 <p><span class="chinese">因此，防垢是非常必要的。</span><span class="english">Therefore, anti scaling is very necessary.</span></p>
 
 <p><span class="chinese">结垢是最复杂的问题。</span><span class="english">The scaling problem is the most challenging.</span></p>

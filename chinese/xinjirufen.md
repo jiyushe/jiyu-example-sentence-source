@@ -1,5 +1,7 @@
 # 心急如焚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinjirufen.md)
+
 <p><span class="chinese">国王失踪，卡梅洛特城里，众人心急如焚。</span><span class="english">People, the city king missing, carmelo, worried.</span></p>
 
 <p><span class="chinese">他们的电话关机了，”Shah心急如焚地说。</span><span class="english">Their cell phone was off, " Shah said, distraught.</span></p>

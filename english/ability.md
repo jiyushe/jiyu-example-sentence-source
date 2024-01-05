@@ -1,5 +1,7 @@
 # ability 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ability.md)
+
 <p><span class="chinese">她的写作能力如何？</span><span class="english">Her writing ability?</span></p>
 
 <p><span class="chinese">他有模仿能力。</span><span class="english">He has mimetic ability.</span></p>

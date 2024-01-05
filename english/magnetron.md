@@ -1,5 +1,7 @@
 # magnetron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magnetron.md)
+
 <p><span class="chinese">多腔磁控管的计算与设计原理。</span><span class="english">The calculation and design theory of multicavity magnetron.</span></p>
 
 <p><span class="chinese">你必须帮助磁控管安排了一系列的金属球在一个特定的模式。</span><span class="english">You must help Magnetron arrange a series of metal balls in a specific pattern.</span></p>

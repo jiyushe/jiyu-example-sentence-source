@@ -1,5 +1,7 @@
 # distemper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distemper.md)
+
 <p><span class="chinese">犬瘟一般是致命的。</span><span class="english">Distemper is often fatal.</span></p>
 
 <p><span class="chinese">我邻居的狗死于犬瘟热。</span><span class="english">My neighbor's dog died from distemper.</span></p>

@@ -1,5 +1,7 @@
 # predilection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/predilection.md)
+
 <p><span class="chinese">周边性病变没有肺叶的发病倾向性。</span><span class="english">Peripheral lesions have no lobar predilection.</span></p>
 
 <p><span class="chinese">但是，我们国家对惩罚的嗜好已经弄得无法收拾。</span><span class="english">But our national predilection for punishment has gotten out of hand.</span></p>

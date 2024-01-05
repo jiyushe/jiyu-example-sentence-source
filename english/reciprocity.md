@@ -1,5 +1,7 @@
 # reciprocity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reciprocity.md)
+
 <p><span class="chinese">这就是所谓的互惠原则。</span><span class="english">This is called The Law of Reciprocity.</span></p>
 
 <p><span class="chinese">互惠主义的原则在人群中是十分受用的。</span><span class="english">The Law of Reciprocity is strong in people.</span></p>

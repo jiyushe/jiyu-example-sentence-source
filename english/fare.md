@@ -1,5 +1,7 @@
 # fare
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fare.md)
+
 <p><span class="chinese">车费是多少钱?</span><span class="english">What’s the fare?</span></p>
 
 <p><span class="chinese">那么它是如何进行的？</span><span class="english">So how does it fare?</span></p>

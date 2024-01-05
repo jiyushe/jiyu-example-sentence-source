@@ -1,5 +1,7 @@
 # pocketknife
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pocketknife.md)
+
 <p><span class="chinese">史蒂文用随身带的小刀杀死了这只小鸟。</span><span class="english">Steven killed the bird with his pocketknife.</span></p>
 
 <p><span class="chinese">携带随身小折刀作为安全措施</span><span class="english">Carry a small pocketknife as a security measure</span></p>

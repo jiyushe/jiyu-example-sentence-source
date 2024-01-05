@@ -1,5 +1,7 @@
 # gi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gi.md)
+
 <p><span class="chinese">现在让我给你们提一些建议。</span><span class="english">Now let me gi vey ou some advice.</span></p>
 
 <p><span class="chinese">我希望在旁边有个同在战场上拼杀过的哥们聊聊天。</span><span class="english">I want to have an American GI to talk with.</span></p>

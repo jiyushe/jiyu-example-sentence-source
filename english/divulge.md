@@ -1,5 +1,7 @@
 # divulge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/divulge.md)
+
 <p><span class="chinese">那男孩许诺不泄露隐藏地的所在。</span><span class="english">The boy promised not to divulge the whereabouts of the hiding place.</span></p>
 
 <p><span class="chinese">他命令北美防空司令部﹐不要泄露外来飞行器的消息。</span><span class="english">He orders NORAD not to divulge information about foreign space vehicles.</span></p>

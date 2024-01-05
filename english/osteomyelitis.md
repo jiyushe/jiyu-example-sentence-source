@@ -1,5 +1,7 @@
 # osteomyelitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/osteomyelitis.md)
+
 <p><span class="chinese">合并邻近骨骼有骨髓炎者。</span><span class="english">Associated with osteomyelitis of the adjacent bone.</span></p>
 
 <p><span class="chinese">这是往往是造成骨髓炎，在儿童。</span><span class="english">This is often the cause of osteomyelitis in children.</span></p>

@@ -1,5 +1,7 @@
 # incite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incite.md)
+
 <p><span class="chinese">有人煽动，实行挡驾。</span><span class="english">Stop anyone trying to incite the people.</span></p>
 
 <p><span class="chinese">私下竞标有可能刺激敌对买家采取行动。</span><span class="english">A private bid could incite hostile buyers into action.</span></p>

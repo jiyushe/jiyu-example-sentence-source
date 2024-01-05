@@ -1,5 +1,7 @@
 # downtrodden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downtrodden.md)
+
 <p><span class="chinese">但到300岁的时候，我会觉得。</span><span class="english">But around 300,I say,The downtrodden.</span></p>
 
 <p><span class="chinese">一个饱压迫的地区正在尝试自由的滋味。</span><span class="english">A downtrodden region is getting a taste of freedom.</span></p>

@@ -1,5 +1,7 @@
 # 专注
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanzhu.md)
+
 <p><span class="chinese">我是个专注的步行者。</span><span class="english">I'm a keen walker.</span></p>
 
 <p><span class="chinese">专注于每一口。</span><span class="english">Focus on each mouthful.</span></p>

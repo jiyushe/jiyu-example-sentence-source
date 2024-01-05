@@ -1,5 +1,7 @@
 # diaphanous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diaphanous.md)
+
 <p><span class="chinese">她穿着一件薄如蝉翼的绸服。</span><span class="english">She was wearing a dress of diaphanous silk.</span></p>
 
 <p><span class="chinese">微微曙光把庞大透明的阴影冲淡了。</span><span class="english">The little light fades the immense and diaphanous shadows.</span></p>

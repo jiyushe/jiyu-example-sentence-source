@@ -1,5 +1,7 @@
 # 涌现
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongxian.md)
+
 <p><span class="chinese">生命之泉涌现，水来了！</span><span class="english">The spring of life emerged!</span></p>
 
 <p><span class="chinese">许多新事物正在涌现。</span><span class="english">Many new things are springing up.</span></p>

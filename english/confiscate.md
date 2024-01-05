@@ -1,5 +1,7 @@
 # confiscate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confiscate.md)
+
 <p><span class="chinese">警察通常是没收被偷盗的赃物.</span><span class="english">Police routinely confiscate stolen property.</span></p>
 
 <p><span class="chinese">查封所得以及拍卖所得的银两呢？</span><span class="english">Confiscate and seal income and silver gained by sale two?</span></p>

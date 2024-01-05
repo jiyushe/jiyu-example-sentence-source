@@ -1,5 +1,7 @@
 # apiece
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apiece.md)
+
 <p><span class="chinese">然而他们中的有三个人每人被判了八年徒刑。</span><span class="english">Yet three of them got eight years apiece.</span></p>
 
 <p><span class="chinese">最大的石头每块重五吨以上。</span><span class="english">The largest stones weigh over five tonnes apiece.</span></p>

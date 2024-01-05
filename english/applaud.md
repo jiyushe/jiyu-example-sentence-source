@@ -1,5 +1,7 @@
 # applaud
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/applaud.md)
+
 <p><span class="chinese">我赞佩你的决心。</span><span class="english">I applaud your decision.</span></p>
 
 <p><span class="chinese">我赞赏这种承诺。</span><span class="english">I applaud this commitment.</span></p>

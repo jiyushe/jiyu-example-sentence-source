@@ -1,5 +1,7 @@
 # river 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/river_1.md)
+
 <p><span class="chinese">哭出一条河。</span><span class="english">Cry me a river.</span></p>
 
 <p><span class="chinese">它靠近一条小河。</span><span class="english">It is on a river.</span></p>

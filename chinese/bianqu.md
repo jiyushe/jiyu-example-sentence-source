@@ -1,5 +1,7 @@
 # 边区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianqu.md)
+
 <p><span class="chinese">川陕边区的农业收成良好。</span><span class="english">The szechuan-shensi border area has had a good harvest.</span></p>
 
 <p><span class="chinese">国民党军继续向边区腹地进犯。</span><span class="english">The Kuomintang forces continued their attacks into the border areas.</span></p>

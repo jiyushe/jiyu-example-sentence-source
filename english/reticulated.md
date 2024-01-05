@@ -1,5 +1,7 @@
 # reticulated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reticulated.md)
+
 <p><span class="chinese">我见你抓到一只网纹蟒。</span><span class="english">I see you caught yourself a Reticulated Python.</span></p>
 
 <p><span class="chinese">在亚洲，有印度蟒蛇和网状蟒蛇。</span><span class="english">In Asia, there is the Indian python and the reticulated python.</span></p>

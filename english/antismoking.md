@@ -1,5 +1,7 @@
 # antismoking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antismoking.md)
+
 <p><span class="chinese">在浓重的烟雾中，有一道禁烟的曙光。</span><span class="english">In the thick of the fug there is an antismoking ray of light.</span></p>
 
 <p><span class="chinese">这些法律行动预示了美国反烟阵营的一次大规模的新攻势。</span><span class="english">The legal actions herald a major new offensive by America's antismoking forces.</span></p>

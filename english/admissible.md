@@ -1,5 +1,7 @@
 # admissible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/admissible.md)
+
 <p><span class="chinese">传言在法律上是不足采信的证据。</span><span class="english">Hearsay is not admissible evidence in court.</span></p>
 
 <p><span class="chinese">但是这样的压力测试并不可靠，而且在法庭上不允许使用。</span><span class="english">But such stress tests are beatable and not admissible in court.</span></p>

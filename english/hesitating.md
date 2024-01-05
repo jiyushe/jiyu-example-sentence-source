@@ -1,5 +1,7 @@
 # hesitating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hesitating.md)
+
 <p><span class="chinese">可你还在犹豫什么呢？</span><span class="english">But what are you hesitating about?</span></p>
 
 <p><span class="chinese">现在我要带你远走高飞。</span><span class="english">About what are you still hesitating?</span></p>

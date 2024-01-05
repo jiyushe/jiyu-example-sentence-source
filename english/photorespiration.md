@@ -1,5 +1,7 @@
 # photorespiration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photorespiration.md)
+
 <p><span class="chinese">C3作物光呼吸高，光合速率低。</span><span class="english">Photorespiration of C3 crops is high, but photosynthesis is low.</span></p>
 
 <p><span class="chinese">硝态氮明显提高叶片的光呼吸速率。</span><span class="english">Under the nitrate nutrients, the photorespiration of leaf was obviously higher.</span></p>

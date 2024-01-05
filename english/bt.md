@@ -1,5 +1,7 @@
 # bt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bt.md)
+
 <p><span class="chinese">试试水果忍者超爽变态版吧！</span><span class="english">Fruit Ninja BT Edition by Wangyjsh!</span></p>
 
 <p><span class="chinese">因此Ramesh暂停了关于Bt茄子的行动。</span><span class="english">So Ramesh froze action on Bt brinjal.</span></p>

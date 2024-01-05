@@ -1,5 +1,7 @@
 # normality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/normality.md)
+
 <p><span class="chinese">她们是孤独症患者，对她们来说，这很正常。</span><span class="english">They are autistic, and for them this is normality.</span></p>
 
 <p><span class="chinese">游程检验不要求正态性假设。</span><span class="english">The runs test does not require the normality assumption.</span></p>

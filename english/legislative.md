@@ -1,5 +1,7 @@
 # legislative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/legislative.md)
+
 <p><span class="chinese">澳门立法院选举开始投票。</span><span class="english">Macao kicks off legislative election.</span></p>
 
 <p><span class="chinese">这些人对他在立法机关所受的挫折幸灾乐祸。</span><span class="english">They gloat at his legislative setbacks.</span></p>

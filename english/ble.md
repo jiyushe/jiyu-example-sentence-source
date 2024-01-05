@@ -1,5 +1,7 @@
 # ble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ble.md)
+
 <p><span class="chinese">今天我没可能去看他。</span><span class="english">I won't be ble to see him tody.</span></p>
 
 <p><span class="chinese">上帝保佑美利坚合众国。</span><span class="english">And God ble the United States of America.</span></p>

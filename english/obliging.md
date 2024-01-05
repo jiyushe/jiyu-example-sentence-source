@@ -1,5 +1,7 @@
 # obliging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obliging.md)
+
 <p><span class="chinese">我试着让自己看上去带着遗憾并且亲切。</span><span class="english">I try to look regretful, and obliging.</span></p>
 
 <p><span class="chinese">他好说话儿，求求他准行。</span><span class="english">He is very obliging. He's sure to help if you ask him.</span></p>

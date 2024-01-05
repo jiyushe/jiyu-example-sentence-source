@@ -1,5 +1,7 @@
 # northward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/northward.md)
+
 <p><span class="chinese">由于世界变暖，水母纷纷向北面漂游。</span><span class="english">Jellyfish swarm northward in warming world.</span></p>
 
 <p><span class="chinese">这支军队逐步强行向北推进。</span><span class="english">This army gradually forced its way northward.</span></p>

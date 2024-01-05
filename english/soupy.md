@@ -1,5 +1,7 @@
 # soupy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soupy.md)
+
 <p><span class="chinese">糊状销售接受了他的脸上那档节目的第一馅饼。</span><span class="english">Soupy Sales received his first pie in the face on that show.</span></p>
 
 <p><span class="chinese">另一个是“糊状销售特区难道青少年点击鼠标等。”</span><span class="english">" The other was "Soupy Sales Sez Do the Mouse and Other Teen Hits.</span></p>

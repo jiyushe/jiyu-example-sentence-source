@@ -1,5 +1,7 @@
 # 子代
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zidai.md)
+
 <p><span class="chinese">平均每个采种母树与19个父本产生子代。</span><span class="english">Progenies were produced by each mother tree with 19 male trees.</span></p>
 
 <p><span class="chinese">每种配对都产生出所有可能单倍体子代。</span><span class="english">Each mating has generated all possible types of haploid progeny.</span></p>

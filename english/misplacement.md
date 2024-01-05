@@ -1,5 +1,7 @@
 # misplacement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misplacement.md)
+
 <p><span class="chinese">各环节之间在人才培养方面存在缺失和错位。</span><span class="english">Between the links, there appears to be disappearance and misplacement.</span></p>
 
 <p><span class="chinese">但是在现实生活中，人们又常常出现这样的思维错位。</span><span class="english">But in real life, such misplacement often occurs in people's thinking.</span></p>

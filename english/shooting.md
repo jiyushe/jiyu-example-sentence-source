@@ -1,5 +1,7 @@
 # shooting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shooting.md)
+
 <p><span class="chinese">树木在春天抽枝。</span><span class="english">The trees are shooting.</span></p>
 
 <p><span class="chinese">我不想拿枪打人。</span><span class="english">I don't like shooting people.</span></p>

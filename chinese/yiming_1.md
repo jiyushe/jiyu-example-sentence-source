@@ -1,5 +1,7 @@
 # 艺名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiming_1.md)
+
 <p><span class="chinese">你知道她新的艺名吗?。</span><span class="english">Do you know her new stage name?</span></p>
 
 <p><span class="chinese">这名女演员用艺名演出。</span><span class="english">The actress appeared under a false name.</span></p>

@@ -1,5 +1,7 @@
 # readme
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/readme.md)
+
 <p><span class="chinese">国内外更多信息见包括读我档文件。</span><span class="english">Fore more info see included readme. txt file.</span></p>
 
 <p><span class="chinese">下载包中有一个简单的自述文件。</span><span class="english">A simple readme file is included in the download package.</span></p>

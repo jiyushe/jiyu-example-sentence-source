@@ -1,5 +1,7 @@
 # aeolian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aeolian.md)
+
 <p><span class="chinese">但滩肩和海岸沙丘发育均不明显。</span><span class="english">But beach berm and aeolian dunes are poorly developed.</span></p>
 
 <p><span class="chinese">黄土的风成过程目前仍在进行。</span><span class="english">Aeolian process of the loess is still going on nowadays.</span></p>

@@ -1,5 +1,7 @@
 # 生趣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengqu.md)
+
 <p><span class="chinese">这些花儿给他以很大生趣。</span><span class="english">The flowers give him great joy of life.</span></p>
 
 <p><span class="chinese">失落一些生趣、由于失去了我？</span><span class="english">Wouldst thou miss any life in losing mine?</span></p>

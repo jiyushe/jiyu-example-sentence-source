@@ -1,5 +1,7 @@
 # 上脸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanglian.md)
+
 <p><span class="chinese">他气患上脸都红了。</span><span class="english">He went red with anger.</span></p>
 
 <p><span class="chinese">你看到他们是怎么蹬鼻子上脸的了吧？</span><span class="english">Have you seen the way they turn up their noses at us?</span></p>

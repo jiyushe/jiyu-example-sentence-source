@@ -1,5 +1,7 @@
 # 受领
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouling.md)
+
 <p><span class="chinese">受赠人应受领交付并接收所有权的转移。</span><span class="english">The donee must take delivery and accept the transfer of ownership.</span></p>
 
 <p><span class="chinese">买方必须在卖方按照A4和A7规定交货时受领货物。</span><span class="english">The buyer must take delivery of the goods when A4 and A7 have been complied with.</span></p>

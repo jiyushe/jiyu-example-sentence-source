@@ -1,5 +1,7 @@
 # 裱糊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaohu.md)
+
 <p><span class="chinese">这墙是用糊墙纸裱糊的。</span><span class="english">The wall was papered.</span></p>
 
 <p><span class="chinese">房间用绿色墙纸裱糊。</span><span class="english">To cover with wallpaper.</span></p>

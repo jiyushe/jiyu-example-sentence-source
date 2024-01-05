@@ -1,5 +1,7 @@
 # zack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zack.md)
+
 <p><span class="chinese">柴克没兴趣去露营。</span><span class="english">Zack had no interest in going camping.</span></p>
 
 <p><span class="chinese">乔西、伊芙、辛蒂、扎克和彼特走进来。</span><span class="english">Josie, Eve, Cindy, Zack and Pete walk in.</span></p>

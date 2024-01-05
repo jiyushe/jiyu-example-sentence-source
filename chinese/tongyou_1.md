@@ -1,5 +1,7 @@
 # 桐油
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongyou_1.md)
+
 <p><span class="chinese">桐油和樟木曾是它主要出口货物。</span><span class="english">Its chief exports were tung oil and camphor.</span></p>
 
 <p><span class="chinese">买主要求再供应些桐油。</span><span class="english">Buyers require additional supply of wood oil.</span></p>

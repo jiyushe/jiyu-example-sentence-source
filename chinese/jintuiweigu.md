@@ -1,5 +1,7 @@
 # 进退维谷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jintuiweigu.md)
+
 <p><span class="chinese">大型资产泡沫使得中国陷入了进退维谷的地步。</span><span class="english">The massive property bubble is creating ahuge dilemma to China.</span></p>
 
 <p><span class="chinese">如果沙特阿拉伯一直陷于这样的进退维谷之中，沙特阿拉伯人本身就该承担部分责任。</span><span class="english">If Saudi Arabia remains such a conundrum, the Saudis themselves are partly to blame.</span></p>

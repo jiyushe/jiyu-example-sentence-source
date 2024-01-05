@@ -1,5 +1,7 @@
 # nationality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nationality.md)
+
 <p><span class="chinese">她有双重国籍。</span><span class="english">She has dual nationality.</span></p>
 
 <p><span class="chinese">那么你的国籍是什么？</span><span class="english">Then what is your nationality?</span></p>

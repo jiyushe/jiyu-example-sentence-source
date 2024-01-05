@@ -1,5 +1,7 @@
 # 文饰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenshi_2.md)
+
 <p><span class="chinese">文饰又是一件事。</span><span class="english">Culture is one thing and varnish another.</span></p>
 
 <p><span class="chinese">第三，指为政治社会服务的规定和文饰。</span><span class="english">Third culture is stipulation and polish that political community served.</span></p>

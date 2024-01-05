@@ -1,5 +1,7 @@
 # malnourished
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malnourished.md)
+
 <p><span class="chinese">二十亿人营养不良。</span><span class="english">And, two billion were malnourished.</span></p>
 
 <p><span class="chinese">我可以在精神上营养不良的情况下是健康的吗？</span><span class="english">Can I behealthy if I am spiritually malnourished?</span></p>

@@ -1,5 +1,7 @@
 # 煤火
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meihuo.md)
+
 <p><span class="chinese">他们将用煤气取代煤火。</span><span class="english">They will replace coal fires by gas.</span></p>
 
 <p><span class="chinese">炉子里生着小小的煤火。</span><span class="english">A small coal fire burned in the grate.</span></p>

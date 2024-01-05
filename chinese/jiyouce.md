@@ -1,5 +1,7 @@
 # 集邮册
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiyouce.md)
+
 <p><span class="chinese">是啊，我自己有一本集邮册。</span><span class="english">Yes, I have a book of stamps.</span></p>
 
 <p><span class="chinese">他有四本装满邮票的集邮册。</span><span class="english">He has four books full of stamps.</span></p>

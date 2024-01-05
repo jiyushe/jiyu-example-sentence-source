@@ -1,5 +1,7 @@
 # mutt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mutt.md)
+
 <p><span class="chinese">多难看的杂种狗哇！</span><span class="english">What an ugly mutt !</span></p>
 
 <p><span class="chinese">一年以前，一只混血狗实现了我的一个愿望。</span><span class="english">A year ago, a mutt helped me fulfill one of my dreams.</span></p>

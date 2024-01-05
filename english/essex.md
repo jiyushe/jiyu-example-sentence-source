@@ -1,5 +1,7 @@
 # essex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/essex.md)
+
 <p><span class="chinese">没人知道艾斯克这个人。</span><span class="english">No body knows of a man named Essex.</span></p>
 
 <p><span class="chinese">埃塞克斯桥上，她扯开嗓子</span><span class="english">On Essex Bridge she strained her throat</span></p>

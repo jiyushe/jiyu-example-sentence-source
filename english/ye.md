@@ -1,5 +1,7 @@
 # ye
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ye.md)
+
 <p><span class="chinese">你们应当颂赞耶和华。</span><span class="english">Bless ye the LORD.</span></p>
 
 <p><span class="chinese">公主奥利夫殿下！</span><span class="english">Ye Princess Olive!</span></p>

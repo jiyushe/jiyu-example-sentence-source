@@ -1,5 +1,7 @@
 # residuum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/residuum.md)
+
 <p><span class="chinese">殷坑组底部存在一层底砾岩及褐铁矿等古风化壳沉积物。</span><span class="english">A layer of conglomerate and ancient residuum sediment, such as limonite is found.</span></p>
 
 <p><span class="chinese">欲望的功用是意符影响主体的最后残渣。</span><span class="english">The function of desire is a last residuum of the effect of the signifier in the subject.</span></p>

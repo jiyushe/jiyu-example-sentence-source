@@ -1,5 +1,7 @@
 # 孤单
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gudan_1.md)
+
 <p><span class="chinese">好孤单的年。</span><span class="english">Good lonely years.</span></p>
 
 <p><span class="chinese">达亚并不孤单。</span><span class="english">Dexia is not alone.</span></p>

@@ -1,5 +1,7 @@
 # 策士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ceshi_1.md)
+
 <p><span class="chinese">在这段经文中，我们读到那位应许要来的弥赛亚被称为「奇妙策士」。</span><span class="english">In this passage we read that the promised Messiah is called Wonderful Counselor.</span></p>
 
 <p><span class="chinese">祂称为奇妙策士，全能的神，永在的父，和平之君。</span><span class="english">He is named Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.</span></p>

@@ -1,5 +1,7 @@
 # 统称
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongcheng.md)
+
 <p><span class="chinese">葡萄酒中酒香和果香的统称。</span><span class="english">The bouquet and aroma of a wine.</span></p>
 
 <p><span class="chinese">卷烟、茄烟、丝复烤烟叶统称烟草制品。</span><span class="english">The paper and tobacco for rolling a cigarette.</span></p>

@@ -1,5 +1,7 @@
 # 得心应手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dexinyingshou.md)
+
 <p><span class="chinese">这个特性十分得心应手，原因有两个。</span><span class="english">This is a handy feature for two reasons.</span></p>
 
 <p><span class="chinese">他画起山水画儿来得心应手。</span><span class="english">He paints landscapes with great facility.</span></p>

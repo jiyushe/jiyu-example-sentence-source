@@ -1,5 +1,7 @@
 # superficial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superficial.md)
+
 <p><span class="chinese">这是一本立论肤浅的书。</span><span class="english">It's a superficial book.</span></p>
 
 <p><span class="chinese">恐怕不能，我们只能描述一些表面现象。</span><span class="english">We cannot, except in superficial terms.</span></p>

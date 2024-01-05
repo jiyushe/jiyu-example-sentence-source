@@ -1,5 +1,7 @@
 # 凭借
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingjie.md)
+
 <p><span class="chinese">请凭借我这韵文写就的符咒。</span><span class="english">And, by the incantation of this verse.</span></p>
 
 <p><span class="chinese">好风凭借力，送我上青云。</span><span class="english">Qingyun good wind with force, sent me.</span></p>

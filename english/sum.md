@@ -1,5 +1,7 @@
 # sum 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sum.md)
+
 <p><span class="chinese">已经包括在这笔钱里了。</span><span class="english">Is included in this sum.</span></p>
 
 <p><span class="chinese">五加三的总和是八。</span><span class="english">The sum of 5 and 3 is 8.</span></p>

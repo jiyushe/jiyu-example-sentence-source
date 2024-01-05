@@ -1,5 +1,7 @@
 # 真谛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhendi.md)
+
 <p><span class="chinese">那才是功夫茶的真谛。</span><span class="english">That is the soul of Kongfu tea.</span></p>
 
 <p><span class="chinese">哦，澄澈的天空，什么才是爱的真谛？</span><span class="english">Oh, mirror in the sky, what is love.</span></p>

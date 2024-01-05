@@ -1,5 +1,7 @@
 # inseparably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inseparably.md)
+
 <p><span class="chinese">幸福与道德责任密不可分。</span><span class="english">Happiness and moral duty are inseparably connected.</span></p>
 
 <p><span class="chinese">原始时期的音乐和舞蹈密不可分。</span><span class="english">Primitive music was inseparably connected with dancing.</span></p>

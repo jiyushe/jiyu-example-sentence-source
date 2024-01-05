@@ -1,5 +1,7 @@
 # pilose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pilose.md)
+
 <p><span class="chinese">有没有什么药治鼻毛多的？</span><span class="english">What medicine to have to treat nose pilose?</span></p>
 
 <p><span class="chinese">榆社鹿茸已经有20多年的历史。</span><span class="english">Yushe Pilose already has more than 20 years of history.</span></p>

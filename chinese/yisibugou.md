@@ -1,5 +1,7 @@
 # 一丝不苟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yisibugou.md)
+
 <p><span class="chinese">然而穆尔的头发并不总是梳得一丝不苟的。</span><span class="english">But Moore's hair was not always done up.</span></p>
 
 <p><span class="chinese">“我的家在一个仙境里面，”瓦妮特一丝不苟地说。</span><span class="english">"My house is in fairyland, " Vanity said primly.</span></p>

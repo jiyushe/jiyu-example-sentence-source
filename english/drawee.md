@@ -1,5 +1,7 @@
 # drawee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drawee.md)
+
 <p><span class="chinese">然后，票据交换所把这些实际的支票交给每个标据付款行。</span><span class="english">Then they deliver the actual checks to each drawee bank.</span></p>
 
 <p><span class="chinese">只是我们必须先把个人支票送到付款行去托收.</span><span class="english">But we have to send a personal check to the drawee bank for collection.</span></p>

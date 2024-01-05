@@ -1,5 +1,7 @@
 # comeuppance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comeuppance.md)
+
 <p><span class="chinese">很高兴看到美国终于恶有恶报。</span><span class="english">I love seeing arrogant USA get it's comeuppance.</span></p>
 
 <p><span class="chinese">一般来说说，巫婆，狼会得到他们的报应。</span><span class="english">In general, the witch, the wolf, get their comeuppance.</span></p>

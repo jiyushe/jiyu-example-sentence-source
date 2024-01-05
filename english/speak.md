@@ -1,5 +1,7 @@
 # speak 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/speak.md)
+
 <p><span class="chinese">他讲德语。</span><span class="english">He speak Gemany.</span></p>
 
 <p><span class="chinese">不许与我说话。</span><span class="english">Speak not to me.</span></p>

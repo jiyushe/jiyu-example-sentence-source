@@ -1,5 +1,7 @@
 # pnp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pnp.md)
+
 <p><span class="chinese">我可以在哪里找到PNP方面的编程资料？</span><span class="english">Where can I find programming info on PNP?</span></p>
 
 <p><span class="chinese">锌合金的表壳，无镍电镀PNP。</span><span class="english">Watchcase zinc alloy, nickel-free plating PNP.</span></p>

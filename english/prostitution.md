@@ -1,5 +1,7 @@
 # prostitution
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prostitution.md)
+
 <p><span class="chinese">我愿意为你去卖身，可以吧？</span><span class="english">I would like for you to prostitution , can you?</span></p>
 
 <p><span class="chinese">事实上，她的姐妹圈子里有几个人知道这件事。</span><span class="english">In fact, a few women in her prostitution ring knew.</span></p>

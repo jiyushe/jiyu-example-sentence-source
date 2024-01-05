@@ -1,5 +1,7 @@
 # 催泪弹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuileidan.md)
+
 <p><span class="chinese">五个士兵发射催泪弹。</span><span class="english">Five soldiers shot the teargas.</span></p>
 
 <p><span class="chinese">也许他们应该使用催泪弹吧。</span><span class="english">Perhaps they should have used tear gas.</span></p>

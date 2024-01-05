@@ -1,5 +1,7 @@
 # qinghai
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/qinghai.md)
+
 <p><span class="chinese">青海地震死亡人数上升至617。</span><span class="english">Death toll up to 617 in Qinghai quake.</span></p>
 
 <p><span class="chinese">青海湖是中国最大的咸水湖。</span><span class="english">Qinghai Lake is China's largest lagoonal.</span></p>

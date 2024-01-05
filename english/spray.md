@@ -1,5 +1,7 @@
 # spray
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spray.md)
+
 <p><span class="chinese">进来一安士喷雾。</span><span class="english">Comes in an 8oz spray.</span></p>
 
 <p><span class="chinese">我的润喉剂喷筒丢了。</span><span class="english">I've lost my throat spray.</span></p>

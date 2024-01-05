@@ -1,5 +1,7 @@
 # injection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/injection.md)
+
 <p><span class="chinese">我需要打针吗？</span><span class="english">Do I need an injection?</span></p>
 
 <p><span class="chinese">是谁给我注射了这一针？</span><span class="english">Who had given me the injection?</span></p>

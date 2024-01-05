@@ -1,5 +1,7 @@
 # emmanuel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emmanuel.md)
+
 <p><span class="chinese">他灵光一动，一副对联就这样出来了。</span><span class="english">He Emmanuel a move, so out of a couplet.</span></p>
 
 <p><span class="chinese">当汤米•艾曼纽尔接到电话时，他吃惊得脸色都变苍白。</span><span class="english">TOMMY Emmanuel went white when he got the call.</span></p>

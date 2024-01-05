@@ -1,5 +1,7 @@
 # 一衣带水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyidaishui.md)
+
 <p><span class="chinese">中国和越南是一衣带水的亚洲邻邦。</span><span class="english">Who will win a war between Vietnam and China?</span></p>
 
 <p><span class="chinese">中日两国是一衣带水的邻邦，有着二千多年交往的历史。</span><span class="english">Over two thousand years China and Japan are neighbouring countries.</span></p>

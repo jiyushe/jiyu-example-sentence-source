@@ -1,5 +1,7 @@
 # 文言文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenyanwen.md)
+
 <p><span class="chinese">这本著作是用文言文写成的。</span><span class="english">This book is written in classical Chinese.</span></p>
 
 <p><span class="chinese">探讨了文言文的最佳阅读方法。</span><span class="english">The best reading method of writings in classical chmese was discussed.</span></p>

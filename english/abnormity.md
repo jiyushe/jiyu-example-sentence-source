@@ -1,5 +1,7 @@
 # abnormity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abnormity.md)
+
 <p><span class="chinese">异形长条铝扣板天花。</span><span class="english">Smallpox of abnormity strip aluminous gusset plate.</span></p>
 
 <p><span class="chinese">四依工地主任之通报，处理工地紧急异常状况。</span><span class="english">Dispose the emergency and abnormity informed by the jobsite director.</span></p>

@@ -1,5 +1,7 @@
 # 霸权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baquan.md)
+
 <p><span class="chinese">而是对霸权的蔑视。</span><span class="english">It is a thumbing of the nose at hegemony.</span></p>
 
 <p><span class="chinese">英荷曾爆发过几次争夺海上霸权的战争</span><span class="english">There are various wars over control of the seas.</span></p>

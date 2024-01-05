@@ -1,5 +1,7 @@
 # 兴旺发达
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingwangfada.md)
+
 <p><span class="chinese">他的公司一定会兴旺发达起来。</span><span class="english">His firm will certainly grow and succeed.</span></p>
 
 <p><span class="chinese">经济改革使许多城市兴旺发达起来。</span><span class="english">The economy reform boomed many new cities.</span></p>

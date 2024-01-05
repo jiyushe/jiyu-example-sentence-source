@@ -1,5 +1,7 @@
 # smattering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smattering.md)
+
 <p><span class="chinese">这位军医能讲几句洋泾浜的越南语，护士也能讲几句半生不熟的法语。</span><span class="english">The doctor spoke some pidgin Vietnamese, and the nurse a smattering of highschool French.</span></p>
 
 <p><span class="chinese">持股者承认的是没有大型社区就无法将那些资产套现。</span><span class="english">But it wasn't able to leverage those offerings with the relative smattering of users it had.</span></p>

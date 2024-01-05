@@ -1,5 +1,7 @@
 # everybody 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/everybody.md)
+
 <p><span class="chinese">大家好。</span><span class="english">Hi everybody.</span></p>
 
 <p><span class="chinese">大家都笑了。</span><span class="english">everybody laughed.</span></p>

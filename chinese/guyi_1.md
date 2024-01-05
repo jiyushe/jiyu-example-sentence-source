@@ -1,5 +1,7 @@
 # 故意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guyi_1.md)
+
 <p><span class="chinese">这是故意的。</span><span class="english">This is intentional.</span></p>
 
 <p><span class="chinese">狄克故意在找别人的麻烦。</span><span class="english">Dick is being difficult.</span></p>

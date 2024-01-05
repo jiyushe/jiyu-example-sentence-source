@@ -1,5 +1,7 @@
 # fawning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fawning.md)
+
 <p><span class="chinese">我为你摇尾乞怜。</span><span class="english">I'm fawning for you.</span></p>
 
 <p><span class="chinese">仆人的脸上露出一种谄笑。</span><span class="english">The servant worn a fawning smile.</span></p>

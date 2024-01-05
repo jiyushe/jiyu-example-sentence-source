@@ -1,5 +1,7 @@
 # 剪纸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianzhi_3.md)
+
 <p><span class="chinese">我就买剪纸。</span><span class="english">I'll take paper-cut.</span></p>
 
 <p><span class="chinese">盘扣。剪纸的形式为主。</span><span class="english">The form of paper cutting.</span></p>

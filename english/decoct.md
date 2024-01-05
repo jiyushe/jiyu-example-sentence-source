@@ -1,5 +1,7 @@
 # decoct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decoct.md)
+
 <p><span class="chinese">您知道什么煎中药吗？</span><span class="english">Do you know how to decoct Chinese herbs?</span></p>
 
 <p><span class="chinese">过敏性鼻炎怎样煎药?。</span><span class="english">Irritability rhinitis how decoct medicine?</span></p>

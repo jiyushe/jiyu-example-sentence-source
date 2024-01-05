@@ -1,5 +1,7 @@
 # 赶上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganshang_1.md)
+
 <p><span class="chinese">我希望我还能赶上。</span><span class="english">I hope I can make it.</span></p>
 
 <p><span class="chinese">他被公牛赶上了树。</span><span class="english">He was treed by a bull.</span></p>

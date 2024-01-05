@@ -1,5 +1,7 @@
 # 赢余
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingyu_1.md)
+
 <p><span class="chinese">在钱的方面，我情愿经常保持有赢余。</span><span class="english">I'd rather keep a constant surplus in terms of money.</span></p>
 
 <p><span class="chinese">公司普通股、赢余及保留赢余的账面值。</span><span class="english">The book value of a company's common stock, surplus and retained surplus.</span></p>

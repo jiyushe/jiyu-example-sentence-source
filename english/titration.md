@@ -1,5 +1,7 @@
 # titration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/titration.md)
+
 <p><span class="chinese">采用大孔树脂吸附—高碘酸钾氧化法。</span><span class="english">Macroporous resin adsorption KIO 4 titration method.</span></p>
 
 <p><span class="chinese">示波滴定是判断滴定终点的一种新方法。</span><span class="english">Oscillographic titration is a new method for end point indication.</span></p>

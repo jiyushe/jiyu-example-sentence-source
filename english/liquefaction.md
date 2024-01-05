@@ -1,5 +1,7 @@
 # liquefaction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liquefaction.md)
+
 <p><span class="chinese">埋藏较浅的砂土会发生液化。</span><span class="english">The sand buried shallowly may be liquefaction.</span></p>
 
 <p><span class="chinese">供鉴别细菌液化明胶用。</span><span class="english">For differentiating bacteria based on liquefaction of gelation.</span></p>

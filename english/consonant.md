@@ -1,5 +1,7 @@
 # consonant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consonant.md)
+
 <p><span class="chinese">这个词以辅音结尾。</span><span class="english">The word ends in a consonant.</span></p>
 
 <p><span class="chinese">找出辅音连缀的单词。</span><span class="english">Find the words with consonant clusters.</span></p>

@@ -1,5 +1,7 @@
 # infarction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infarction.md)
+
 <p><span class="chinese">参见退休和心肌梗死。</span><span class="english">See and myocardial infarction.</span></p>
 
 <p><span class="chinese">我想您得的是急性心肌梗塞。</span><span class="english">I think you have an acute myocardial infarction.</span></p>

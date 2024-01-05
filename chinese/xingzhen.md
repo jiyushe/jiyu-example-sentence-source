@@ -1,5 +1,7 @@
 # 刑侦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingzhen.md)
+
 <p><span class="chinese">即某市公安局刑侦大队实习生李某致人轻伤案。</span><span class="english">Be that case of the probationer causing somebody slight wound case.</span></p>
 
 <p><span class="chinese">主人公冯鸿涛是刑侦支队的支队长。</span><span class="english">The detachment that hero Feng Hong Tao is punishment detect detachment is long.</span></p>

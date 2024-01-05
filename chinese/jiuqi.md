@@ -1,5 +1,7 @@
 # 酒器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuqi.md)
+
 <p><span class="chinese">让嘴凑近酒器，不要后退。</span><span class="english">Lips to the vessels, never shrink.</span></p>
 
 <p><span class="chinese">答案当然是醒酒器。</span><span class="english">And we use decanters to "awaken" our wines.</span></p>

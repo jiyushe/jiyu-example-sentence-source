@@ -1,5 +1,7 @@
 # offal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/offal.md)
+
 <p><span class="chinese">支出弹性以猪杂最高。</span><span class="english">Edible pork offal had the largest expenditure elasticity.</span></p>
 
 <p><span class="chinese">产自苏格兰，基本上，碎屑里头还是碎屑。</span><span class="english">Haggis, Scotland. Basically, offal encased by more offal.</span></p>

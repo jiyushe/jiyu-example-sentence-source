@@ -1,5 +1,7 @@
 # boating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boating.md)
+
 <p><span class="chinese">还有些学员划船在水上训练。</span><span class="english">Some cadets went boating.</span></p>
 
 <p><span class="chinese">我们去湖上划船吧。</span><span class="english">Let's go boating on the lake.</span></p>

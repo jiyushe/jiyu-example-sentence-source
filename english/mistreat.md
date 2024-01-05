@@ -1,5 +1,7 @@
 # mistreat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mistreat.md)
+
 <p><span class="chinese">没有人该虐待无辜的孩子。</span><span class="english">No one should mistreat innocent kids.</span></p>
 
 <p><span class="chinese">我没有虐待你。我从没打过你。</span><span class="english">I don't mistreat you. I've never hit you.</span></p>

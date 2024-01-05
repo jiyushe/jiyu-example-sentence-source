@@ -1,5 +1,7 @@
 # strongpoint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strongpoint.md)
+
 <p><span class="chinese">第三，多学习他身上的优点！</span><span class="english">Third, We should study his strongpoint much more.</span></p>
 
 <p><span class="chinese">众所周知，对女人来说，丰满是个优点。</span><span class="english">And as we all know, chubbiness is a strongpoint for a woman.</span></p>

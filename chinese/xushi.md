@@ -1,5 +1,7 @@
 # 叙事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xushi.md)
+
 <p><span class="chinese">生命叙事线，这是我对它的称谓。</span><span class="english">The narrative arc, as I put it.</span></p>
 
 <p><span class="chinese">打破传统叙事方式。</span><span class="english">Break the classic narrative apporach.</span></p>

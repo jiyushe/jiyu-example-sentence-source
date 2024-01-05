@@ -1,5 +1,7 @@
 # withdrawn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/withdrawn.md)
+
 <p><span class="chinese">传票被撤回。</span><span class="english">The summons was withdrawn.</span></p>
 
 <p><span class="chinese">他变得非常沉默抑郁。</span><span class="english">He became very withdrawn and broody.</span></p>

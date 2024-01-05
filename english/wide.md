@@ -1,5 +1,7 @@
 # wide 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wide.md)
+
 <p><span class="chinese">这条路有多宽？</span><span class="english">How wide is the road?</span></p>
 
 <p><span class="chinese">他坐起身来，睁大眼看。</span><span class="english">He sits up, eyes wide.</span></p>

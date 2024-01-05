@@ -1,5 +1,7 @@
 # fdr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fdr.md)
+
 <p><span class="chinese">国会民主党人也需要以罗斯福为榜样。</span><span class="english">Congressional Democrats should heed the FDR model as well.</span></p>
 
 <p><span class="chinese">小亨利和罗斯福一边共进午餐，一边追叙昔日的生活。</span><span class="english">FDR and Henry, Jr . reminisced about the old days over lunch.</span></p>

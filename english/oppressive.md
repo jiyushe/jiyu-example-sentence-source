@@ -1,5 +1,7 @@
 # oppressive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oppressive.md)
+
 <p><span class="chinese">没有自由，安全是压制性的。</span><span class="english">Without liberty, security is oppressive.</span></p>
 
 <p><span class="chinese">“我要出去散步，房间里太憋闷了”英文怎么说？</span><span class="english">I am going for a walk for the room is too oppressive.</span></p>

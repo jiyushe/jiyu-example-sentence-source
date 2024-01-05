@@ -1,5 +1,7 @@
 # uterine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uterine.md)
+
 <p><span class="chinese">子宫平滑肌瘤。</span><span class="english">Uterine fibroids.</span></p>
 
 <p><span class="chinese">有不明原因的子宫出血</span><span class="english">Have unexplained uterine bleeding</span></p>

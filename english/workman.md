@@ -1,5 +1,7 @@
 # workman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/workman.md)
+
 <p><span class="chinese">不会撑船怪河弯/拙匠总怪工具差。</span><span class="english">A bad workman always blames his tools.</span></p>
 
 <p><span class="chinese">手艺差的工人总是挟恨工具不好使。</span><span class="english">A bpost workman quarrels with his tools.</span></p>

@@ -1,5 +1,7 @@
 # struma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/struma.md)
+
 <p><span class="chinese">甲状腺性卵巢畸胎瘤为罕见的成熟性卵巢畸胎瘤。</span><span class="english">Struma ovarii is a rare form of mature teratoma of the ovary.</span></p>
 
 <p><span class="chinese">极少数情况下，卵巢甲状腺肿也可以由甲状腺机能亢进引起。</span><span class="english">Rarely, a struma ovarii can even be a cause for hyperthyroidism.</span></p>

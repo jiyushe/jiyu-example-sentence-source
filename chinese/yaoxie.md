@@ -1,5 +1,7 @@
 # 要挟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoxie.md)
+
 <p><span class="chinese">赞助商以不付款为要挟。</span><span class="english">The sponsor threatened not to pay up.</span></p>
 
 <p><span class="chinese">根秀拿仁顺的过去要挟善英。</span><span class="english">RenShun past take root show good English demanding.</span></p>

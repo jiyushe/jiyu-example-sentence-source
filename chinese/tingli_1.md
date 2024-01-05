@@ -1,5 +1,7 @@
 # 挺立
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingli_1.md)
+
 <p><span class="chinese">这是一顶傲然挺立的帽子。</span><span class="english">This is a gravity-defying hat.</span></p>
 
 <p><span class="chinese">挺立成一棵笔直的树木。</span><span class="english">Straight into a stand of trees.</span></p>

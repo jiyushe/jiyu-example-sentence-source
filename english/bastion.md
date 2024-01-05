@@ -1,5 +1,7 @@
 # bastion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bastion.md)
+
 <p><span class="chinese">真正的铜墙铁壁是什么？</span><span class="english">What is a true bastion of iron?</span></p>
 
 <p><span class="chinese">就在去年，最后的堡垒陷落了。</span><span class="english">Last year the final bastion fell.</span></p>

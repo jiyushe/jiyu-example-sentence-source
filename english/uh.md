@@ -1,5 +1,7 @@
 # uh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uh.md)
+
 <p><span class="chinese">无力的，恩。</span><span class="english">Powerless. Uh huh.</span></p>
 
 <p><span class="chinese">意志坚定，恩。</span><span class="english">Determined. Uh huh.</span></p>

@@ -1,5 +1,7 @@
 # 党团
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangtuan.md)
+
 <p><span class="chinese">但是欧洲议会社会党党团和绿党提议改革条例以阻止勒庞掌管欧洲议会。</span><span class="english">But the Socialists and Greens proposed a rule change to block Mr Le Pen.</span></p>
 
 <p><span class="chinese">西太平洋上的关岛在星期六举行了民主党党团大会。</span><span class="english">The western Pacific island of Guam held Democratic Party caucuses on Saturday.</span></p>

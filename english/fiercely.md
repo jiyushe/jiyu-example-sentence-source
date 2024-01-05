@@ -1,5 +1,7 @@
 # fiercely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fiercely.md)
+
 <p><span class="chinese">而是自信、狠下的决心和母亲。</span><span class="english">Fiercely determined. Mother.</span></p>
 
 <p><span class="chinese">炉火炽烈。</span><span class="english">The stove is burning fiercely.</span></p>

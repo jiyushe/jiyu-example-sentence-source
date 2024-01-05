@@ -1,5 +1,7 @@
 # taxpaying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taxpaying.md)
+
 <p><span class="chinese">他怎么看待那对纳税夫妇呢？</span><span class="english">What does he think of the taxpaying couple?</span></p>
 
 <p><span class="chinese">毕业生也会产生持续增加纳税群体。</span><span class="english">Graduates also provide communities with a continuing pool of taxpaying labor.</span></p>

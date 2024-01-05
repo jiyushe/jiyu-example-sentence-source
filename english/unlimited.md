@@ -1,5 +1,7 @@
 # unlimited
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unlimited.md)
+
 <p><span class="chinese">我希望不限流量的数据。</span><span class="english">I want unlimited data.</span></p>
 
 <p><span class="chinese">是因为他不受自然的约束</span><span class="english">He is unlimited by nature.</span></p>

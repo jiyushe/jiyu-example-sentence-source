@@ -1,5 +1,7 @@
 # barbarian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barbarian.md)
+
 <p><span class="chinese">他可以跳过地图上的烈风峡谷之类障碍。</span><span class="english">Barbarian can hop across gaps on the map.</span></p>
 
 <p><span class="chinese">呜哈！选得好！野蛮人是个非常有趣的职业。</span><span class="english">Huzzah! Good choice! Barbarian is very fun class.</span></p>

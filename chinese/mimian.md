@@ -1,5 +1,7 @@
 # 米面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mimian.md)
+
 <p><span class="chinese">元宵是有填充物的粘米面的小球。</span><span class="english">Tang Yuan Dumplings are a bolls of glutinous rice flour with Fillings.</span></p>
 
 <p><span class="chinese">“外面种植米面，我们这里种植所有食物，”他的妻子说。</span><span class="english">"Outside rice and flour, we grow all of our food here, " his wife added.</span></p>

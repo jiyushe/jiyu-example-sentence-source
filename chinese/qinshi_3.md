@@ -1,5 +1,7 @@
 # 琴师
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinshi_3.md)
+
 <p><span class="chinese">你听说这个在法国的意大利人琴师吗？</span><span class="english">Have you heard this Italian French luthier?</span></p>
 
 <p><span class="chinese">琴师也不会在琴上面签名。</span><span class="english">The luthiers usually do not sign these guitar labels.</span></p>

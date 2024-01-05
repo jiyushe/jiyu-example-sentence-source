@@ -1,5 +1,7 @@
 # 永葆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongbao_1.md)
+
 <p><span class="chinese">年轻意味着永葆一颗青春之心。</span><span class="english">Youth means being young at heart.</span></p>
 
 <p><span class="chinese">怀疑作用巨大，它使信仰永葆活力。</span><span class="english">Suspected enormous effect, it makes the religion activity.</span></p>

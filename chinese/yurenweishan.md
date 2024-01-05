@@ -1,5 +1,7 @@
 # 与人为善
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yurenweishan.md)
+
 <p><span class="chinese">“新约”则贩卖与人为善的道德准则。</span><span class="english">The new testament is a good code of ethics.</span></p>
 
 <p><span class="chinese">最后我告诉自己要与人为善，要笑对人生。</span><span class="english">Finally I told myself to helping others, smile.</span></p>

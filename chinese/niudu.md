@@ -1,5 +1,7 @@
 # 牛犊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niudu.md)
+
 <p><span class="chinese">小牛犊出生时有牙齿吗？</span><span class="english">Are calves born with teeth?</span></p>
 
 <p><span class="chinese">初生牛犊不怕虎。</span><span class="english">Nothing brave, nothing have.</span></p>

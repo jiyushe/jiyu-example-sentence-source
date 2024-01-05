@@ -1,5 +1,7 @@
 # 选矿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuankuang.md)
+
 <p><span class="chinese">CMC水溶液增粘后用作浮游选矿等。</span><span class="english">CMC aqueous solution viscosity for flotation etc.</span></p>
 
 <p><span class="chinese">因此是烤鸡或与低热量的选矿的一道蔬菜沙拉。</span><span class="english">So is grilled chicken or a green salad with low-cal dressing.</span></p>

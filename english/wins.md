@@ -1,5 +1,7 @@
 # wins
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wins.md)
+
 <p><span class="chinese">他赌马赢了钱。</span><span class="english">He wins the bet.</span></p>
 
 <p><span class="chinese">谁是最大的赢家？</span><span class="english">Who wins the most?</span></p>

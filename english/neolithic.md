@@ -1,5 +1,7 @@
 # neolithic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neolithic.md)
+
 <p><span class="chinese">砚发端于新石器时代。</span><span class="english">Inkstone originated in Neolithic age.</span></p>
 
 <p><span class="chinese">这些书里称它为新石器革命。</span><span class="english">They call it the Neolithic Revolution.</span></p>

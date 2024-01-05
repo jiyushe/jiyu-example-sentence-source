@@ -1,5 +1,7 @@
 # 行刑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingxing_5.md)
+
 <p><span class="chinese">那你该知道他们是个行刑队。</span><span class="english">You know that they're a death squad.</span></p>
 
 <p><span class="chinese">这个法术召唤少量行刑吏。</span><span class="english">This spell summons a handful of Lictors.</span></p>

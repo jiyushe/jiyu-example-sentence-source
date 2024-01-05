@@ -1,5 +1,7 @@
 # stockholm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stockholm.md)
+
 <p><span class="chinese">他来自斯德哥尔摩.</span><span class="english">He is from Stockholm.</span></p>
 
 <p><span class="chinese">斯德哥尔摩的圣诞时分。</span><span class="english">It's Christmastime in Stockholm.</span></p>

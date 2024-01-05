@@ -1,5 +1,7 @@
 # 摇晃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaohuang.md)
+
 <p><span class="chinese">我开始摇晃起来。</span><span class="english">I started to sway.</span></p>
 
 <p><span class="chinese">先把药瓶摇晃几下。</span><span class="english">First shake the bottle.</span></p>

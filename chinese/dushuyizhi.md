@@ -1,5 +1,7 @@
 # 独树一帜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dushuyizhi.md)
+
 <p><span class="chinese">她独树一帜，特立独行。</span><span class="english">She's totally unique and cool.</span></p>
 
 <p><span class="chinese">根植于泉州大地，并在市场独树一帜。</span><span class="english">Rooted in quanzhou, and in the market.</span></p>

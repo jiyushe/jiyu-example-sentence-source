@@ -1,5 +1,7 @@
 # pappy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pappy.md)
+
 <p><span class="chinese">帕比像个小孩似的傻笑一声。</span><span class="english">Pappy smirked like a child.</span></p>
 
 <p><span class="chinese">但最令我骄傲的是我的爸爸。</span><span class="english">But I'm most proud of my pappy.</span></p>

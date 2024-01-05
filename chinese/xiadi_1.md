@@ -1,5 +1,7 @@
 # 下第
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiadi_1.md)
+
 <p><span class="chinese">是啊！我一二季都看完了才发现忘了下第三季！</span><span class="english">He is unlike anything we have seen before.</span></p>
 
 <p><span class="chinese">在列王纪下第七章，我们发现一个有关撒马里亚城被围攻的有趣故事。</span><span class="english">In 2 Kings 7 we find an intriguing story about Samaria under siege.</span></p>

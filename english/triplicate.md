@@ -1,5 +1,7 @@
 # triplicate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triplicate.md)
+
 <p><span class="chinese">她道歉总是一式三份。</span><span class="english">She always apologized in triplicate.</span></p>
 
 <p><span class="chinese">申请书必须填写一式三份。</span><span class="english">Applications must be made out in triplicate.</span></p>

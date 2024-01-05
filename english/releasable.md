@@ -1,5 +1,7 @@
 # releasable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/releasable.md)
+
 <p><span class="chinese">“可发布”意味着已完成集成测试。</span><span class="english">Releasable means integration tested.</span></p>
 
 <p><span class="chinese">主干必须一直保持可发布状态。</span><span class="english">The trunk must always be releasable.</span></p>

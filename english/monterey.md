@@ -1,5 +1,7 @@
 # monterey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monterey.md)
+
 <p><span class="chinese">我们喜欢在蒙特利尔放标签。</span><span class="english">We'd love to tag in Monterey.</span></p>
 
 <p><span class="chinese">蒙特里海湾水族馆也致力于挽救海獭。</span><span class="english">Monterey Bay Aquarium also works to save the sea otter.</span></p>

@@ -1,5 +1,7 @@
 # 遍地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biandi.md)
+
 <p><span class="chinese">金一遍又一遍地跳绳。</span><span class="english">Kim jumps the rope again and again.</span></p>
 
 <p><span class="chinese">那是一个遍地鲜花，香气袭人的地方。</span><span class="english">It was a land fragrant with flowers.</span></p>

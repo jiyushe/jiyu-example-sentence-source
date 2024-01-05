@@ -1,5 +1,7 @@
 # 天鹅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiane_1.md)
+
 <p><span class="chinese">他们是天鹅，他并不知道这些鸟是什么鸟。</span><span class="english">They were swans.</span></p>
 
 <p><span class="chinese">游得好，天鹅。</span><span class="english">Well swum, Swan.</span></p>

@@ -1,5 +1,7 @@
 # eaves
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eaves.md)
+
 <p><span class="chinese">晓开帘，欲平檐。</span><span class="english">Xiao open shade to flat eaves.</span></p>
 
 <p><span class="chinese">屋檐上挂着冰柱。</span><span class="english">Icicles depended from the eaves.</span></p>

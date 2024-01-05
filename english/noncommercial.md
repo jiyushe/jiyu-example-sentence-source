@@ -1,5 +1,7 @@
 # noncommercial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noncommercial.md)
+
 <p><span class="chinese">它是免费的非商业性使用。</span><span class="english">It is free for noncommercial use.</span></p>
 
 <p><span class="chinese">仅限于个人浏览，非商业性用途。</span><span class="english">For personal, noncommercial use only.</span></p>

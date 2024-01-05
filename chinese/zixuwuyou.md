@@ -1,5 +1,7 @@
 # 子虚乌有
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zixuwuyou.md)
+
 <p><span class="chinese">那这种子虚乌有的说法是从哪儿来的?。</span><span class="english">So where did this myth come from?</span></p>
 
 <p><span class="chinese">这些当然只是人们的幽默和子虚乌有。</span><span class="english">This is all humbug and good humor, of course.</span></p>

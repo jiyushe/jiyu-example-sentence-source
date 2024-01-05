@@ -1,5 +1,7 @@
 # usaf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/usaf.md)
+
 <p><span class="chinese">我被安排到美国陆军安全部门服役。</span><span class="english">I was assigned to the USAF Security Service.</span></p>
 
 <p><span class="chinese">2009财年，USAF将为该系统花费200万美元。</span><span class="english">For FY09, the USAF will spend over ＄2 million for the system.</span></p>

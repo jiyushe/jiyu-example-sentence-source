@@ -1,5 +1,7 @@
 # malamute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malamute.md)
+
 <p><span class="chinese">将中国阿拉斯加爱好者与世界连接起来！</span><span class="english">We connect Chinese Malamute fans to the world!</span></p>
 
 <p><span class="chinese">阿拉斯加应该是“朋友狗”。</span><span class="english">The Alaskan Malamute should be an outgoing dog.</span></p>

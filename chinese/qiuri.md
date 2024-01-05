@@ -1,5 +1,7 @@
 # 秋日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiuri.md)
+
 <p><span class="chinese">祝你有一份秋日的好心情！</span><span class="english">Beuty in fall! Share with you!</span></p>
 
 <p><span class="chinese">秋日的天气真是高爽。</span><span class="english">The autumn weather is fresh and cool.</span></p>

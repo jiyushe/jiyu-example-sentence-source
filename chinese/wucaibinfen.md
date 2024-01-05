@@ -1,5 +1,7 @@
 # 五彩缤纷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wucaibinfen.md)
+
 <p><span class="chinese">它非常的五彩缤纷。</span><span class="english">It’s very colourful.</span></p>
 
 <p><span class="chinese">它浸染在五彩缤纷的秋色里</span><span class="english">See it in the colors of autumn</span></p>

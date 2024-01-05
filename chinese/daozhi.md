@@ -1,5 +1,7 @@
 # 倒置
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daozhi.md)
+
 <p><span class="chinese">我把广口瓶倒置。</span><span class="english">I turn the jar upside down.</span></p>
 
 <p><span class="chinese">这是一个小倒置。</span><span class="english">It’s a bit of an inversion.</span></p>

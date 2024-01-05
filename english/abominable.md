@@ -1,5 +1,7 @@
 # abominable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abominable.md)
+
 <p><span class="chinese">堕胎是应该受诅咒的罪恶。</span><span class="english">Abortion is an abominable sin.</span></p>
 
 <p><span class="chinese">温格的队伍惨不忍睹。</span><span class="english">Wenger's team were abominable.</span></p>

@@ -1,5 +1,7 @@
 # 生命力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengmingli.md)
+
 <p><span class="chinese">一株植物是一个有生命力的实体</span><span class="english">A plant is a living thing.</span></p>
 
 <p><span class="chinese">感受你生命力正在运转。</span><span class="english">Feel your life-force in motion!</span></p>

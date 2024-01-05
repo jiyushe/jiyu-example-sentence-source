@@ -1,5 +1,7 @@
 # grip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grip.md)
+
 <p><span class="chinese">他松开紧握的手。</span><span class="english">He unloosed his grip.</span></p>
 
 <p><span class="chinese">我未能抓住他的论据。</span><span class="english">I cannot grip his argument.</span></p>

@@ -1,5 +1,7 @@
 # 担子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danzi_1.md)
+
 <p><span class="chinese">沉重的担子把他压垮了。</span><span class="english">The heavy burden has brayed him.</span></p>
 
 <p><span class="chinese">他一个人挑不起这副担子。</span><span class="english">He could not carry the burden alone.</span></p>

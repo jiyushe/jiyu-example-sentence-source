@@ -1,5 +1,7 @@
 # elisabeth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elisabeth.md)
+
 <p><span class="chinese">伊丽莎白打扮整齐，准备参加舞会。</span><span class="english">Elisabeth decked herself up for the dancing party.</span></p>
 
 <p><span class="chinese">进了撒迦利亚的家、问以利沙伯安。</span><span class="english">And entered into the house of Zacharias, and saluted Elisabeth.</span></p>

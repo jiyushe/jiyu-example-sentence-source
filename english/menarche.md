@@ -1,5 +1,7 @@
 # menarche
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/menarche.md)
+
 <p><span class="chinese">男性吸烟、女性初潮年龄对骨密度有一定的影响。</span><span class="english">Smoking in male and age of menarche in female influenced BMD.</span></p>
 
 <p><span class="chinese">初潮年龄平均16.19岁，略晚于我国妇女正常初潮平均年龄。</span><span class="english">The menarche age averaged 16.19 years, a bit later than normal.</span></p>

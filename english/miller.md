@@ -1,5 +1,7 @@
 # miller
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/miller.md)
+
 <p><span class="chinese">我的名字叫吉姆•米乐。</span><span class="english">I’m Jim Miller.</span></p>
 
 <p><span class="chinese">你是亨利?米勒吗？</span><span class="english">Are you Henry Miller?</span></p>

@@ -1,5 +1,7 @@
 # 打印
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dayin.md)
+
 <p><span class="chinese">我把它打印了。</span><span class="english">I do print this.</span></p>
 
 <p><span class="chinese">照片打印服务。</span><span class="english">Photo printing service.</span></p>

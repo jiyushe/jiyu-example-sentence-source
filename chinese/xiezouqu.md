@@ -1,5 +1,7 @@
 # 协奏曲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiezouqu.md)
+
 <p><span class="chinese">协奏曲是另外一种风格</span><span class="english">The concerto is another genre.</span></p>
 
 <p><span class="chinese">钢琴协奏曲第4号在G大，作品。</span><span class="english">Piano Concerto No. 4 in G major, Op.</span></p>

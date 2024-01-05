@@ -1,5 +1,7 @@
 # welfare 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/welfare.md)
+
 <p><span class="chinese">这题目关系到我们的福利。</span><span class="english">The subject touches our welfare.</span></p>
 
 <p><span class="chinese">他为人平易近谋幸福，呼儿咳哟。</span><span class="english">He works for the people's welfare.</span></p>

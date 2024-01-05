@@ -1,5 +1,7 @@
 # 赋有
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuyou_3.md)
+
 <p><span class="chinese">赋有轻清的灵质，不能朽坏。</span><span class="english">And Empyreal substance cannot fail.</span></p>
 
 <p><span class="chinese">它是果断的，也是赋有目的的。</span><span class="english">It is always decisive and purposeful.</span></p>

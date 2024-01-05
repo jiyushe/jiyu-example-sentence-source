@@ -1,5 +1,7 @@
 # 污泥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuni_1.md)
+
 <p><span class="chinese">他的靴子溅满污泥。</span><span class="english">His boots were dabbled with mud.</span></p>
 
 <p><span class="chinese">供试污泥呈酸性。</span><span class="english">The tested sewage sludge is acid.</span></p>

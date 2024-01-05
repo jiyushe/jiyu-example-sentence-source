@@ -1,5 +1,7 @@
 # hallowed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hallowed.md)
+
 <p><span class="chinese">愿人都尊你的名为圣。</span><span class="english">Hallowed be thy name.</span></p>
 
 <p><span class="chinese">他高声嗾使着他的猎犬。</span><span class="english">He hallowed at his hound.</span></p>

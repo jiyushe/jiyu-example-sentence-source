@@ -1,5 +1,7 @@
 # 叹惜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanxi.md)
+
 <p><span class="chinese">叹惜自然的强大。</span><span class="english">Lamenting the nature are strong.</span></p>
 
 <p><span class="chinese">我们都叹惜她缺乏好态度。</span><span class="english">We all deplored her lack of good manners.</span></p>

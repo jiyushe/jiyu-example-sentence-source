@@ -1,5 +1,7 @@
 # untapped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/untapped.md)
+
 <p><span class="chinese">这是一个未开发过的需求”。</span><span class="english">There was a real untapped demand.</span></p>
 
 <p><span class="chinese">其他来源，包括尚未开发的格陵兰。</span><span class="english">Other sources, untapped as yet, include Greenland.</span></p>

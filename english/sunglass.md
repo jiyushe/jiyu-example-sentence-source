@@ -1,5 +1,7 @@
 # sunglass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sunglass.md)
+
 <p><span class="chinese">我有一副蓝色的太阳镜。</span><span class="english">I have a pair of blue sunglass.</span></p>
 
 <p><span class="chinese">你觉得我的新太阳镜怎么样？</span><span class="english">What do you think of my new sunglass?</span></p>

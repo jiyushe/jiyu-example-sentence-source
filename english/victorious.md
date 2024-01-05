@@ -1,5 +1,7 @@
 # victorious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/victorious.md)
+
 <p><span class="chinese">疗肝脏疾病，百战百胜！</span><span class="english">Cure liver disease, ever victorious !</span></p>
 
 <p><span class="chinese">而那美善至终一定得胜。</span><span class="english">And that good will eventually be victorious.</span></p>

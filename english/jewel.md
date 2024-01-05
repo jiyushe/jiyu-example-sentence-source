@@ -1,5 +1,7 @@
 # jewel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jewel.md)
+
 <p><span class="chinese">地中海的明珠。</span><span class="english">The Mediterranean jewel.</span></p>
 
 <p><span class="chinese">珠宝放在珠宝箱里。</span><span class="english">The jewels go in the jewel box.</span></p>

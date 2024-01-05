@@ -1,5 +1,7 @@
 # garrulous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/garrulous.md)
+
 <p><span class="chinese">你还嫌我唠叨。</span><span class="english">You just complained I am garrulous.</span></p>
 
 <p><span class="chinese">噢，饶舌的莺儿，你能告诉我吗。</span><span class="english">Oh, garrulous warbler, can you tell me.</span></p>

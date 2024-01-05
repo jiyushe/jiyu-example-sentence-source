@@ -1,5 +1,7 @@
 # circumstance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/circumstance.md)
+
 <p><span class="chinese">在每一种环境。</span><span class="english">In every circumstance.</span></p>
 
 <p><span class="chinese">在任何情况下都不要行骗。</span><span class="english">Don't deceive under any circumstance.</span></p>

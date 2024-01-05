@@ -1,5 +1,7 @@
 # 叙述
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xushu.md)
+
 <p><span class="chinese">这个叙述与他的叙述一致。</span><span class="english">This story agrees with his.</span></p>
 
 <p><span class="chinese">让我来叙述一些实例。</span><span class="english">Let me recite a few examples.</span></p>

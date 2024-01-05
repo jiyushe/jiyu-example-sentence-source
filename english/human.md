@@ -1,5 +1,7 @@
 # human 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/human.md)
+
 <p><span class="chinese">有人情味。</span><span class="english">Be human.</span></p>
 
 <p><span class="chinese">这就是人。</span><span class="english">This is human.</span></p>

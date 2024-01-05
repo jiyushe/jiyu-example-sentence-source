@@ -1,5 +1,7 @@
 # 蛇毒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shedu.md)
+
 <p><span class="chinese">达内尔是一位专业采蛇毒者。</span><span class="english">Darnell is a snake milker.</span></p>
 
 <p><span class="chinese">在这一组中不需抗蛇毒素。</span><span class="english">No antivenin was necessary in this series.</span></p>

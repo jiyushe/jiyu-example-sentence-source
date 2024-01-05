@@ -1,5 +1,7 @@
 # 暖洋洋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nuanyangyang.md)
+
 <p><span class="chinese">屋子里面暖洋洋的。</span><span class="english">It's warm in the house.</span></p>
 
 <p><span class="chinese">红红的大字“照”得我心里暖洋洋的。</span><span class="english">Red big word "as" warm in my heart.</span></p>

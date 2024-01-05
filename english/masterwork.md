@@ -1,5 +1,7 @@
 # masterwork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/masterwork.md)
+
 <p><span class="chinese">我说，光是那极品长弓的价值就差不多了！</span><span class="english">I mean, the cost of masterwork bows alone!</span></p>
 
 <p><span class="chinese">相反，让我们侧重于如何欣赏这幅杰作。</span><span class="english">Instead, it will focus on how to look at this masterwork.</span></p>

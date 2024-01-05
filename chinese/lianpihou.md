@@ -1,5 +1,7 @@
 # 脸皮厚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianpihou.md)
+
 <p><span class="chinese">论脸皮厚，你可算是天下第一。</span><span class="english">For sheer cheek, you're it.</span></p>
 
 <p><span class="chinese">脸皮厚一点大声说出来！</span><span class="english">Be thick-skinned and speak up!</span></p>

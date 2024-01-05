@@ -1,5 +1,7 @@
 # 古已有之
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guyiyouzhi.md)
+
 <p><span class="chinese">他们古已有之。</span><span class="english">They have existed since ancient times.</span></p>
 
 <p><span class="chinese">教育公平是古已有之的美好理想。</span><span class="english">The education justice is an ancient bright ideal.</span></p>

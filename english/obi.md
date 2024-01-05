@@ -1,5 +1,7 @@
 # obi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obi.md)
+
 <p><span class="chinese">奥比王的力量现在已经衰弱了。</span><span class="english">The Force is weak in Obi Wang right now.</span></p>
 
 <p><span class="chinese">正是在这一点时，奥比安排堕胎。</span><span class="english">It is at this point when Obi arranges an abortion.</span></p>

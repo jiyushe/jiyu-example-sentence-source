@@ -1,5 +1,7 @@
 # ley
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ley.md)
+
 <p><span class="chinese">天候控制—扩大天然地脉的能量及交流</span><span class="english">Weather Control- Amplification of Natural Ley Energy- Communication</span></p>
 
 <p><span class="chinese">可是，只要越来越多的人进行基因组测序，这个问题就会得到改善，莱依说。</span><span class="english">But that will change once more people have their genomes sequenced, Ley said.</span></p>

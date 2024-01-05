@@ -1,5 +1,7 @@
 # 开工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaigong.md)
+
 <p><span class="chinese">卷起袖子就开工，那很好。</span><span class="english">Roll up your sleeves. That's great.</span></p>
 
 <p><span class="chinese">所以，读完这篇文章，你就立刻开工吧！</span><span class="english">So stop reading this. And just start!</span></p>

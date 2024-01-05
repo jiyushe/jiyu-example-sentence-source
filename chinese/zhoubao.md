@@ -1,5 +1,7 @@
 # 周报
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhoubao.md)
+
 <p><span class="chinese">几年后我去到一家周报工作。</span><span class="english">Years later, I upgraded to a weekly newspaper.</span></p>
 
 <p><span class="chinese">温斯赖·霍姆，哈泼斯周报，1862年6月7日。</span><span class="english">By Winslow Homer, Harper's Weekly, June 7, 1862.</span></p>

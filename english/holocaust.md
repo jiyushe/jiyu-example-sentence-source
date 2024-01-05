@@ -1,5 +1,7 @@
 # holocaust
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/holocaust.md)
+
 <p><span class="chinese">然后会有些人问咪咪她是否记得大屠杀。</span><span class="english">Then there are those who asked if Mimi remembered the Holocaust.</span></p>
 
 <p><span class="chinese">伯杰说他母亲的家族在大屠杀中失去了26个成员。</span><span class="english">Berger said his mother's family lost 26 members in the Holocaust.</span></p>

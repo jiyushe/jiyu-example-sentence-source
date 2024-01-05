@@ -1,5 +1,7 @@
 # defocus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defocus.md)
+
 <p><span class="chinese">最轻微的运动都会使显微镜散焦。</span><span class="english">The slightest movement will defocus the microscope.</span></p>
 
 <p><span class="chinese">提出了一种基于散焦图像计算景物距离的新方法。</span><span class="english">A new method for depth from defocus images is proposed.</span></p>

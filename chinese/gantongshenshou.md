@@ -1,5 +1,7 @@
 # 感同身受
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gantongshenshou.md)
+
 <p><span class="chinese">格鲁吉亚人与你感同身受。</span><span class="english">The Georgians feel your pain.</span></p>
 
 <p><span class="chinese">你渴望他人的感同身受。</span><span class="english">You crave the touch from another.</span></p>

@@ -1,5 +1,7 @@
 # dichroism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dichroism.md)
+
 <p><span class="chinese">木胎，漆表呈黑、红二色。</span><span class="english">Fetal wood, lacquer table was black, red dichroism.</span></p>
 
 <p><span class="chinese">同时，利用园二色光谱进一步阐述手性分子识别过程。</span><span class="english">Circular dichroism spectra have been used to explain chiral molecular recognition.</span></p>

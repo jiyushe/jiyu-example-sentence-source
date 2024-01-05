@@ -1,5 +1,7 @@
 # 有请
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youqing_2.md)
+
 <p><span class="chinese">有请一位好手。</span><span class="english">A good player pls.</span></p>
 
 <p><span class="chinese">有请冯·特普全家。</span><span class="english">The family Von Trapp.</span></p>

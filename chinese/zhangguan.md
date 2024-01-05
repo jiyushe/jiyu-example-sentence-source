@@ -1,5 +1,7 @@
 # 掌管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangguan.md)
+
 <p><span class="chinese">掌管大小一百三十八地狱。</span><span class="english">Administer size 138 hell.</span></p>
 
 <p><span class="chinese">但我知谁掌管明天，我也知谁牵我手。</span><span class="english">And I know who holds my hand.</span></p>

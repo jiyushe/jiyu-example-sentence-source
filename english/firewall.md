@@ -1,5 +1,7 @@
 # firewall
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/firewall.md)
+
 <p><span class="chinese">ZoneAlarm是一个很好的免费防火墙。</span><span class="english">A good free firewall is ZoneAlarm.</span></p>
 
 <p><span class="chinese">更改虚拟机监控程序防火墙规则</span><span class="english">Altering hypervisor firewall rules</span></p>

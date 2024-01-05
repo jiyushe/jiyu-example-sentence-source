@@ -1,5 +1,7 @@
 # 泽泻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zexie.md)
+
 <p><span class="chinese">目的研究泽泻利尿作用的物质基础。</span><span class="english">OBJECTIVE To study on the diuretic active compounds of Alisma orientalis.</span></p>
 
 <p><span class="chinese">目的研究泽泻汤对正常小鼠血压的影响及其特点。</span><span class="english">ObjectiveTo study the effect of Zexie decoction on blood pressure in mice.</span></p>

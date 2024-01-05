@@ -1,5 +1,7 @@
 # 白纸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baizhi.md)
+
 <p><span class="chinese">如有需要，请另用白纸填写。</span><span class="english">Use plain paper if necessary.</span></p>
 
 <p><span class="chinese">用白纸裱糊墙壁。</span><span class="english">Paper the walls with while paper.</span></p>

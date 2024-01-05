@@ -1,5 +1,7 @@
 # precipitator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/precipitator.md)
+
 <p><span class="chinese">一台除尘器基本上是一个大空箱。</span><span class="english">Basically a precipitator is a large hollow box.</span></p>
 
 <p><span class="chinese">沸腾炉的吸尘部分采用了静电除尘。</span><span class="english">Electrostatic precipitator is adopted as dust collector for ebullition furnace.</span></p>

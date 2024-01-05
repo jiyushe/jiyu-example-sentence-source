@@ -1,5 +1,7 @@
 # diastolic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diastolic.md)
+
 <p><span class="chinese">这是被称为舒张压。</span><span class="english">This is known as the diastolic pressure.</span></p>
 
 <p><span class="chinese">舒张期心力衰竭—是真正独立的疾病吗？</span><span class="english">Diastolic Heart Failure-Is It Really a Dis tinct Entity?</span></p>

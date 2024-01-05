@@ -1,5 +1,7 @@
 # bighead
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bighead.md)
+
 <p><span class="chinese">第一个案例是关于2种亚洲鲤鱼，头大，银色的鱼身。</span><span class="english">The first involves 2 kinds of Asian carp, bighead and silver.</span></p>
 
 <p><span class="chinese">建议控制方法同太湖新银鱼。</span><span class="english">The suggested control measures for Taihu Icefish are recommended for Bighead.</span></p>

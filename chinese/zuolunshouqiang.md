@@ -1,5 +1,7 @@
 # 左轮手枪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuolunshouqiang.md)
+
 <p><span class="chinese">是谁发明的左轮手枪?</span><span class="english">Who invented the revolver?</span></p>
 
 <p><span class="chinese">是谁发明的左轮手枪？</span><span class="english">Q6 Who invented the revolver?</span></p>

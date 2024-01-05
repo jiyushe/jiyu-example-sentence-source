@@ -1,5 +1,7 @@
 # machinist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/machinist.md)
+
 <p><span class="chinese">查尔斯·巴切尔多是一位机械师。</span><span class="english">Charles Batcheldor was a machinist.</span></p>
 
 <p><span class="chinese">去问问任何一个机械师，问他怎么看中国的金属。</span><span class="english">Ask any machinist what he thinks of Chinese metals.</span></p>

@@ -1,5 +1,7 @@
 # agglutination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agglutination.md)
+
 <p><span class="chinese">在试管凝集反应中，水浴温度为40℃，可延缓自凝现象的出现。</span><span class="english">So did it in tube agglutination conducted in bath at 40℃.</span></p>
 
 <p><span class="chinese">半定量玻片凝集试验和单管维达尔试验效果不佳。</span><span class="english">Semiquantitative slide agglutination and single-tube Widal tests performed poorly.</span></p>

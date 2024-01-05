@@ -1,5 +1,7 @@
 # cheyenne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheyenne.md)
+
 <p><span class="chinese">他和夏延一同在社区里闲逛。</span><span class="english">Together he and Cheyenne explored the community.</span></p>
 
 <p><span class="chinese">亲爱的我必须走了，如果抓紧时间我还来得及赶到夏延。</span><span class="english">Gotta go now baby, if I hurry I can still make Cheyenne.</span></p>

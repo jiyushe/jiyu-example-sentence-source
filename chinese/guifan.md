@@ -1,5 +1,7 @@
 # 轨范
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guifan.md)
+
 <p><span class="chinese">在这里什么也不要做，如不美观你需要额外的终止轨范。</span><span class="english">Do nothing else here. If you need extra terminate steps.</span></p>
 
 <p><span class="chinese">陪同成功的轨范，阿寿扩建了他的衡宇。</span><span class="english">With the tone of success, Yip Sang added to his building.</span></p>

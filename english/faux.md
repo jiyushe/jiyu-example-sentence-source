@@ -1,5 +1,7 @@
 # faux
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faux.md)
+
 <p><span class="chinese">人造毛皮镶边的按钮关闭。</span><span class="english">Button off faux fur trim.</span></p>
 
 <p><span class="chinese">可拆卸人造毛皮装饰罩。</span><span class="english">Removable faux fur trim on hood.</span></p>

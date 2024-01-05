@@ -1,5 +1,7 @@
 # svalbard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/svalbard.md)
+
 <p><span class="chinese">这正是在斯瓦尔巴特建立种子银行的原因之一。</span><span class="english">That is one of the reasons to build the seed bank in Svalbard.</span></p>
 
 <p><span class="chinese">种子库建立在斯瓦尔巴Longyearbyen村冰冻的山体中。</span><span class="english">The vault is built into a frozen mountain near the village of Longyearbyen, Svalbard.</span></p>

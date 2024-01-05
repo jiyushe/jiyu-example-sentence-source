@@ -1,5 +1,7 @@
 # nappy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nappy.md)
+
 <p><span class="chinese">她给婴儿喂了饭，换了尿布。</span><span class="english">She fed the baby and changed its nappy.</span></p>
 
 <p><span class="chinese">一个小姑娘在假装更换一个玩偶的尿布。</span><span class="english">A young girl pretending to change a doll's nappy.</span></p>

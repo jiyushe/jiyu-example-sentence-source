@@ -1,5 +1,7 @@
 # dixie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dixie.md)
+
 <p><span class="chinese">走吧，走吧，在迪克西向南走吧。</span><span class="english">Away, away, away down south in Dixie.</span></p>
 
 <p><span class="chinese">我问Dixie她的第一次性体验。</span><span class="english">I asked Dixie about her first sexual experience.</span></p>

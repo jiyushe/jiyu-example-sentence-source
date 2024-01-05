@@ -1,5 +1,7 @@
 # emend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emend.md)
+
 <p><span class="chinese">我打算对该书中的第二节进行修改。</span><span class="english">I am going to emend the second passage in this book.</span></p>
 
 <p><span class="chinese">同时，从音韵学的角度，对不同版本刘长卿近体诗的用韵字进行了校勘。</span><span class="english">From the viewpoint of the phonology , we emend the words in different editions of Liu's poems.</span></p>

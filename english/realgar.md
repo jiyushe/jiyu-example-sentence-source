@@ -1,5 +1,7 @@
 # realgar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/realgar.md)
+
 <p><span class="chinese">我喜欢在端午节喝点雄黄酒。</span><span class="english">I enjoy drinking realgar wine during the festival.</span></p>
 
 <p><span class="chinese">在端午节，我们也喝雄黄酒。</span><span class="english">At Dragon Boat Festival, we also drank realgar wine.</span></p>

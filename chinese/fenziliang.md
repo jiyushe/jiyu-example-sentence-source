@@ -1,5 +1,7 @@
 # 分子量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenziliang.md)
+
 <p><span class="chinese">这就是A的分子量。</span><span class="english">Well, that's the molecular weight of it.</span></p>
 
 <p><span class="chinese">用凝固点下降法测定了产品的分子量为478。</span><span class="english">The freezing point has been determined out 478.</span></p>

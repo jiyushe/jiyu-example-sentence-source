@@ -1,5 +1,7 @@
 # foregut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foregut.md)
+
 <p><span class="chinese">前肠的假设后来引起争议。</span><span class="english">The foregut hypothesis was later contested.</span></p>
 
 <p><span class="chinese">胰腺胚胎学起源于前肠的2个芽。</span><span class="english">The embryologic pancreas arises from 2 buds in the foregut.</span></p>

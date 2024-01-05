@@ -1,5 +1,7 @@
 # cornmeal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cornmeal.md)
+
 <p><span class="chinese">这是胡萝卜、鸡蛋，还有玉米做的。</span><span class="english">There are carrots, eggs and cornmeal.</span></p>
 
 <p><span class="chinese">他每天用玉米面填饱他的鸭子。</span><span class="english">He crams his ducks with cornmeal every day.</span></p>

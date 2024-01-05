@@ -1,5 +1,7 @@
 # shimizu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shimizu.md)
+
 <p><span class="chinese">清水是她的保镖，一旦出现问题，便由他出面解决。</span><span class="english">Shimizu is her bodyguard and will move in if there are problems.</span></p>
 
 <p><span class="chinese">一色清水红砖，墙角装饰花纹凸现。</span><span class="english">Isshiki Shimizu red brick, corner decorative patterns highlighted.</span></p>

@@ -1,5 +1,7 @@
 # 孕穗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunsui.md)
+
 <p><span class="chinese">拔节孕穗肥施氮比例增加，增产效果最好。</span><span class="english">The N at jointing-booting stage increased yield evidently.</span></p>
 
 <p><span class="chinese">水稻在拔节孕穗后期干物质生产速率最大。</span><span class="english">In the late of jointing and booting stage rice has highest dry matter productivity.</span></p>

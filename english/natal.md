@@ -1,5 +1,7 @@
 # natal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/natal.md)
+
 <p><span class="chinese">他花了他的童年在产前和祖鲁兰。</span><span class="english">He spent his childhood in Natal and Zululand.</span></p>
 
 <p><span class="chinese">在传统的本命占星中，这是死亡之宫。</span><span class="english">In conventional natal horoscopes it is the house of death.</span></p>

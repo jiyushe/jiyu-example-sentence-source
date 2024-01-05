@@ -1,5 +1,7 @@
 # hajj
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hajj.md)
+
 <p><span class="chinese">目前，他用哈吉·乌萨马的名字指挥津坦的反叛军。</span><span class="english">He now commands rebels in Zintan, using the name Hajj Usama.</span></p>
 
 <p><span class="chinese">官员说，死者中异国发觉麦加朝觐者。</span><span class="english">No pilgrims attending the annual hajj were among the dead, officials said.</span></p>

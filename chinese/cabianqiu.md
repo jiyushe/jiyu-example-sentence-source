@@ -1,5 +1,7 @@
 # 擦边球
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cabianqiu.md)
+
 <p><span class="chinese">于是他和他的团队打了擦边球。</span><span class="english">So he and his team did an end run.</span></p>
 
 <p><span class="chinese">“他们在打擦边球，”伟纳说。</span><span class="english">"They are walking a fine line, " Wagner said.</span></p>

@@ -1,5 +1,7 @@
 # myxoid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/myxoid.md)
+
 <p><span class="chinese">需与粘液脂肪肉瘤鉴别。</span><span class="english">It needs to be differentiated from myxoid liposarcoma.</span></p>
 
 <p><span class="chinese">注意乳突状结构周围的细胞都有粘液样结缔组织核心。</span><span class="english">Note the cells around papillations that have a myxoid connective tissue core.</span></p>

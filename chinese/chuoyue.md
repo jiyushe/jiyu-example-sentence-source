@@ -1,5 +1,7 @@
 # 绰约
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuoyue.md)
+
 <p><span class="chinese">她风姿绰约，适合当一名舞蹈演员。</span><span class="english">She is graceful enough to be a dancer.</span></p>
 
 <p><span class="chinese">他们正谈论着斯威夫特夫人时，她风姿绰约地走了进来。</span><span class="english">They were talking of Mrs. Swift when she sailed in.</span></p>

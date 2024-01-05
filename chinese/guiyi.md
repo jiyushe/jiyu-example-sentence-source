@@ -1,5 +1,7 @@
 # 诡异
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guiyi.md)
+
 <p><span class="chinese">有件诡异的事情</span><span class="english">Here's the weird thing.</span></p>
 
 <p><span class="chinese">最诡异的是这种观点了。</span><span class="english">That's the weirdest of all.</span></p>

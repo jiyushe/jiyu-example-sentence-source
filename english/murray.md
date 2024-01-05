@@ -1,5 +1,7 @@
 # murray
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/murray.md)
+
 <p><span class="chinese">意外碰到了比尔·莫瑞。</span><span class="english">Met up with Bill Murray.</span></p>
 
 <p><span class="chinese">安妮•莫莉再次哀泣。</span><span class="english">Anne Murray wailed again.</span></p>

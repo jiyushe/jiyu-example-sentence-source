@@ -1,5 +1,7 @@
 # semiotics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semiotics.md)
+
 <p><span class="chinese">然而符号学却第一次给她带来了一丝激进的味道。</span><span class="english">Semiotics was the first thing that smacked of revolution.</span></p>
 
 <p><span class="chinese">就乳癌的症状来说，手术意味着肿瘤是恶性的。</span><span class="english">In the semiotics of breast cancer, surgery means malignancy.</span></p>

@@ -1,5 +1,7 @@
 # proposer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proposer.md)
+
 <p><span class="chinese">投保人必须年满18岁或以上。</span><span class="english">The proposer must be aged 18 or above.</span></p>
 
 <p><span class="chinese">作文提议者处理掉了那些元件。</span><span class="english">The composition proposer disposed of the components.</span></p>

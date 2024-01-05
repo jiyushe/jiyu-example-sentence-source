@@ -1,5 +1,7 @@
 # 左边
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuobian.md)
+
 <p><span class="chinese">他面朝着左边。</span><span class="english">He faced left.</span></p>
 
 <p><span class="chinese">现在轮到左边的同学看了。</span><span class="english">Now this group.</span></p>

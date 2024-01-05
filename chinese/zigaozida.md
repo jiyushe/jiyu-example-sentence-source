@@ -1,5 +1,7 @@
 # 自高自大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zigaozida.md)
+
 <p><span class="chinese">他是一个自高自大的人。</span><span class="english">He is an arrogant man.</span></p>
 
 <p><span class="chinese">他是个自高自大的笨蛋！</span><span class="english">He's an arrogant little twit!</span></p>

@@ -1,5 +1,7 @@
 # blepharitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blepharitis.md)
+
 <p><span class="chinese">睑缘炎是眼睑的炎症，通常由细菌群集而引起。</span><span class="english">Blepharitis is inflammation of the eyelid, usually from bacterial colonization.</span></p>
 
 <p><span class="chinese">目的分析溃疡性睑缘炎的最佳治疗方法。</span><span class="english">Objective The aim is to analyze and seek for the best treatment for ulcerative blepharitis.</span></p>

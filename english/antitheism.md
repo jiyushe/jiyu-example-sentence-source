@@ -1,5 +1,7 @@
 # antitheism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antitheism.md)
+
 <p><span class="chinese">无神论变得无关，有神论也无关。</span><span class="english">It has nothing to do with antitheism or theism.</span></p>
 
 <p><span class="chinese">无神论变得无关，有神论也无关。</span><span class="english">Antitheism has nothing to with it, nor does theism.</span></p>

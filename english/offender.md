@@ -1,5 +1,7 @@
 # offender
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/offender.md)
+
 <p><span class="chinese">违者被除名了。</span><span class="english">The offender was extruded.</span></p>
 
 <p><span class="chinese">年轻的犯人被饶赦了。</span><span class="english">The young offender was spared.</span></p>

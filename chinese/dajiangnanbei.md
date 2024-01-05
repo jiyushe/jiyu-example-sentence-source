@@ -1,5 +1,7 @@
 # 大江南北
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dajiangnanbei.md)
+
 <p><span class="chinese">这里的人爱吃，小小县城却能吃遍大江南北。</span><span class="english">People here love to eat, a small county can eat across.</span></p>
 
 <p><span class="chinese">该饮料几乎一夜间红遍大江南北。</span><span class="english">The drinks almost overnight Hongbian major north-south.</span></p>

@@ -1,5 +1,7 @@
 # baseboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baseboard.md)
+
 <p><span class="chinese">如果是，他们包括踢脚线吗？</span><span class="english">If so, do they include the baseboard?</span></p>
 
 <p><span class="chinese">会更美好，为什么不买新的脚板瓷砖吗？</span><span class="english">Better yet, why not buy new baseboard tile too?</span></p>

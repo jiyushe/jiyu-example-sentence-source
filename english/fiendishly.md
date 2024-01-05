@@ -1,5 +1,7 @@
 # fiendishly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fiendishly.md)
+
 <p><span class="chinese">外面冷极了。</span><span class="english">It's fiendishly cold outside.</span></p>
 
 <p><span class="chinese">要赢得“花岗岩州”有如过刀山下火海。</span><span class="english">Wooing the Granite State is fiendishly hard.</span></p>

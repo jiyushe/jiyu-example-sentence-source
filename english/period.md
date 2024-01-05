@@ -1,5 +1,7 @@
 # period
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/period.md)
+
 <p><span class="chinese">本项目常期采购。</span><span class="english">Long period purchase.</span></p>
 
 <p><span class="chinese">现在是选课期间</span><span class="english">This is shopping period.</span></p>

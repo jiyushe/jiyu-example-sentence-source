@@ -1,5 +1,7 @@
 # download
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/download.md)
+
 <p><span class="chinese">我会下载我的照片。</span><span class="english">I’ll download my photos.</span></p>
 
 <p><span class="chinese">下载状态栏？</span><span class="english">The download status bar?</span></p>

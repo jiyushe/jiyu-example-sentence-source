@@ -1,5 +1,7 @@
 # uppsala
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uppsala.md)
+
 <p><span class="chinese">他曾是瑞典乌普萨拉大学工商管理学博士。</span><span class="english">He has done Ph. D. in Business Management from Uppsala University, Sweden.</span></p>
 
 <p><span class="chinese">位于乌普萨拉的农业科学大学将负责这次的计画。</span><span class="english">The Swedish University for Agricultural Sciences in Uppsala is in charge of the project.</span></p>

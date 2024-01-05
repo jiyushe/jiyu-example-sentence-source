@@ -1,5 +1,7 @@
 # seaport
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seaport.md)
+
 <p><span class="chinese">最大的海港在哪里？</span><span class="english">Where is the biggest seaport?</span></p>
 
 <p><span class="chinese">图为爱琴海中的海港卡瓦拉。</span><span class="english">Left, the seaport of Kavala on the Aegean.</span></p>

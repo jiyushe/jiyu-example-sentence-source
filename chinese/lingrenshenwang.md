@@ -1,5 +1,7 @@
 # 令人神往
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingrenshenwang.md)
+
 <p><span class="chinese">那是一种令人神往的情形。</span><span class="english">It's a beautiful situation.</span></p>
 
 <p><span class="chinese">世界上令人神往的地方比比皆是。</span><span class="english">The world is full of fascinating places.</span></p>

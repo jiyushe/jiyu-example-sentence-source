@@ -1,5 +1,7 @@
 # 破涕为笑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/potiweixiao.md)
+
 <p><span class="chinese">噗嗤，小贼破涕为笑。</span><span class="english">Burst Chi, the little thief laughs via tears.</span></p>
 
 <p><span class="chinese">听完我的话，她破涕为笑。</span><span class="english">Hearing what I said, she smiled away her tears.</span></p>

@@ -1,5 +1,7 @@
 # propound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/propound.md)
+
 <p><span class="chinese">他因提出学说而获奖。</span><span class="english">He wins the prize by propound the theory.</span></p>
 
 <p><span class="chinese">马丁自己也向她提出了问题，想衡量一下她对他的信心。</span><span class="english">Martin had a question of his own to propound to her.</span></p>

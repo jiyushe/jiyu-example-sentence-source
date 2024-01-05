@@ -1,5 +1,7 @@
 # pabx
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pabx.md)
+
 <p><span class="chinese">这个典型应用主要用在建立在PABX上的个人网络环境中。</span><span class="english">This typical application is used in a private network environment that founded behind a PABX.</span></p>
 
 <p><span class="chinese">由于网络电话系统是以软件为基础的，这使得开发者更容易开发，添加和改进功能和部件。</span><span class="english">Since an IP PABX is software-based, it is easier for developers to add and improve feature sets.</span></p>

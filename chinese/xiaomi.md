@@ -1,5 +1,7 @@
 # 小米
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaomi.md)
+
 <p><span class="chinese">小米。</span><span class="english">millet.</span></p>
 
 <p><span class="chinese">小米是由英华达做的！！！</span><span class="english">Xiaomi is made by OKWAP!</span></p>

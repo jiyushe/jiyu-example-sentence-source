@@ -1,5 +1,7 @@
 # 圆领
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanling.md)
+
 <p><span class="chinese">穿你的圆领汗衫吧。</span><span class="english">Wear your T-shirt, please.</span></p>
 
 <p><span class="chinese">圆领和深亨利开口。</span><span class="english">Crew neck and deep henley placket.</span></p>

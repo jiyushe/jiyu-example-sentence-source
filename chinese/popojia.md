@@ -1,5 +1,7 @@
 # 婆婆家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/popojia.md)
+
 <p><span class="chinese">上个周末，去公公婆婆家。</span><span class="english">We went back home last weekend.</span></p>
 
 <p><span class="chinese">星期天，我们如常到婆婆家。</span><span class="english">Sunday, we went to Por Por's home as usual.</span></p>

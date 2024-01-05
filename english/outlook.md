@@ -1,5 +1,7 @@
 # outlook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outlook.md)
+
 <p><span class="chinese">那么前景会是如何？</span><span class="english">So what is the outlook?</span></p>
 
 <p><span class="chinese">不过其发展前景也存在风险。</span><span class="english">There are risks to the outlook.</span></p>

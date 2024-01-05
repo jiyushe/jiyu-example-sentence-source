@@ -1,5 +1,7 @@
 # 善于
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanyu.md)
+
 <p><span class="chinese">他善于作诗。</span><span class="english">He is good at verse.</span></p>
 
 <p><span class="chinese">他不善于玩板球。</span><span class="english">He is clumsy at cricket.</span></p>

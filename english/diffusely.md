@@ -1,5 +1,7 @@
 # diffusely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diffusely.md)
+
 <p><span class="chinese">弥漫性甲状腺肿在一定程度上是结节状。</span><span class="english">This diffusely enlarged thyroid gland is somewhat nodular.</span></p>
 
 <p><span class="chinese">有时纤维囊性变导致乳腺更多的肿块出现。</span><span class="english">Sometimes, fibrocystic changes produce a more diffusely lumpy breast.</span></p>

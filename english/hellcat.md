@@ -1,5 +1,7 @@
 # hellcat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hellcat.md)
+
 <p><span class="chinese">这是关于一个悍妇的故事。</span><span class="english">The story tells of a hellcat.</span></p>
 
 <p><span class="chinese">他的妻子是个十足的悍妇，她总是牢牢地控制着他。</span><span class="english">His wife is a typical hellcat who always wraps him around her fingers.</span></p>

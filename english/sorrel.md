@@ -1,5 +1,7 @@
 # sorrel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sorrel.md)
+
 <p><span class="chinese">她今天穿着件栗色的外套。</span><span class="english">She wears a sorrel coat today.</span></p>
 
 <p><span class="chinese">那匹栗色马轻易地赢了那场赛马。</span><span class="english">The sorrel easily won the race.</span></p>

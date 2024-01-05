@@ -1,5 +1,7 @@
 # sprite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sprite.md)
+
 <p><span class="chinese">我喜欢雪碧。</span><span class="english">I like Sprite.</span></p>
 
 <p><span class="chinese">雪碧是你最喜欢的饮料吗？</span><span class="english">Is Sprite your favoriate drink?</span></p>

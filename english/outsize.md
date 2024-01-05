@@ -1,5 +1,7 @@
 # outsize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outsize.md)
+
 <p><span class="chinese">有这么一个特大号笨蛋，小心翼翼地爱护著妳，栩婷。</span><span class="english">Has such a Outsize fool , Cherishes you devotedly , Hooting.</span></p>
 
 <p><span class="chinese">现在，政策上的任何风吹草动都可能对地产价格产生重大影响。</span><span class="english">As a result, any policy change now has an outsize effect on prices.</span></p>

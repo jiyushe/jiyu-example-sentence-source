@@ -1,5 +1,7 @@
 # snout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snout.md)
+
 <p><span class="chinese">猪用嘴拱地。</span><span class="english">Pigs dig earth with the snout.</span></p>
 
 <p><span class="chinese">泰斯拉越过自己的猪嘴巴低头看着这个人类。</span><span class="english">Tesla looked down his snout at the Human.</span></p>

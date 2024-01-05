@@ -1,5 +1,7 @@
 # herring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/herring.md)
+
 <p><span class="chinese">他钓到一条大青鱼。</span><span class="english">He fished up a big herring.</span></p>
 
 <p><span class="chinese">她的名字是玛格丽特•海岭。</span><span class="english">Her name was Margaret Herring.</span></p>

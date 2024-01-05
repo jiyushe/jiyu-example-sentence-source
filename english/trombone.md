@@ -1,5 +1,7 @@
 # trombone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trombone.md)
+
 <p><span class="chinese">中国长号大号协会理事。</span><span class="english">China trombone tuba Association.</span></p>
 
 <p><span class="chinese">长号球员艾米Loudin同意。</span><span class="english">Trombone player Amy Loudin agrees.</span></p>

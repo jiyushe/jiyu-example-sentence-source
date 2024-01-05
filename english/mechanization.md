@@ -1,5 +1,7 @@
 # mechanization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mechanization.md)
+
 <p><span class="chinese">农业的根本出路在于机械化。</span><span class="english">The key to agriculture is mechanization.</span></p>
 
 <p><span class="chinese">机械化数年前在艾莱的农场实现了。</span><span class="english">Mechanization happened years ago on the farms of Islay.</span></p>

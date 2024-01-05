@@ -1,5 +1,7 @@
 # mahatma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mahatma.md)
+
 <p><span class="chinese">大圣爷爷饶我。</span><span class="english">Please forgive me, Mahatma.</span></p>
 
 <p><span class="chinese">马哈特马·甘地在印度被人称作“父亲”。</span><span class="english">Mahatma Gandhi is also known in India as "bapu" or father.</span></p>

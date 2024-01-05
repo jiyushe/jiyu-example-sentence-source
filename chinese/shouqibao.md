@@ -1,5 +1,7 @@
 # 受气包
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouqibao.md)
+
 <p><span class="chinese">她真是个受气包。</span><span class="english">She is plain doormat.</span></p>
 
 <p><span class="chinese">你真是个受气包。</span><span class="english">You are plain doormat.</span></p>

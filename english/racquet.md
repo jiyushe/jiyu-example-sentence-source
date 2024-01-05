@@ -1,5 +1,7 @@
 # racquet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/racquet.md)
+
 <p><span class="chinese">我拍子要换线。</span><span class="english">I need my racquet restrung.</span></p>
 
 <p><span class="chinese">至于穿线，我不记得了。</span><span class="english">Stringing a racquet? I can't remember.</span></p>

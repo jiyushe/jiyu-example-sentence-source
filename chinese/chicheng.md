@@ -1,5 +1,7 @@
 # 驰骋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chicheng.md)
+
 <p><span class="chinese">驰骋在兰阳平原上。</span><span class="english">Riding on the Lanyang plain.</span></p>
 
 <p><span class="chinese">你宁愿偏安一隅，而不愿在战火中驰骋吗？</span><span class="english">And did you exchange a walk on part in the war</span></p>

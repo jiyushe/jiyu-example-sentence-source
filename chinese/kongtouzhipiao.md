@@ -1,5 +1,7 @@
 # 空头支票
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongtouzhipiao.md)
+
 <p><span class="chinese">他开了许多空头支票。</span><span class="english">He kited many checks.</span></p>
 
 <p><span class="chinese">我知道他是决不会开空头支票的。</span><span class="english">I know that he can't act on guess-work.</span></p>

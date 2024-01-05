@@ -1,5 +1,7 @@
 # filamentous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/filamentous.md)
+
 <p><span class="chinese">雄茧扁平，由空心长丝状蜡编织形成。</span><span class="english">The male cocoon was flat, forming by long filamentous wax.</span></p>
 
 <p><span class="chinese">丝状绿藻具有典型的单倍性生物的生活史。</span><span class="english">Haplontic life cycles are typical of the filamentous green algae.</span></p>

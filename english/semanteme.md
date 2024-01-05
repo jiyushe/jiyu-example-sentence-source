@@ -1,5 +1,7 @@
 # semanteme
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semanteme.md)
+
 <p><span class="chinese">MDBS是建立在多个LDBS之上的，这些LDBS存储了一些语义相关的数据。</span><span class="english">MDBS is built on many of LDBS, these LDBS stored a few data of semanteme relevances.</span></p>
 
 <p><span class="chinese">第三章从词义的角度出发，将同形词分为同形同义词和同形异义词。</span><span class="english">In the third chapter, identical words have been divided into synonymy and homograph from semanteme.</span></p>

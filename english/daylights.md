@@ -1,5 +1,7 @@
 # daylights
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/daylights.md)
+
 <p><span class="chinese">用日光残忍的灼烧我的肌肤？</span><span class="english">The cruel daylights upon my skin?</span></p>
 
 <p><span class="chinese">那次爆炸把我吓坏了。</span><span class="english">That explosion scared the living daylights out of me.</span></p>

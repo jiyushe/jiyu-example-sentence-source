@@ -1,5 +1,7 @@
 # lynx
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lynx.md)
+
 <p><span class="chinese">一只山猫蹲在白雪覆盖的岩石上。</span><span class="english">A lynx sits on a snow-covered rock.</span></p>
 
 <p><span class="chinese">猞猁是国家二级保护动物。</span><span class="english">Lynx is a nationally protected animal.</span></p>

@@ -1,5 +1,7 @@
 # amelia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amelia.md)
+
 <p><span class="chinese">艾米莉亚·艾尔哈特我想变得忱自由。</span><span class="english">Amelia Earhart I want to be free.</span></p>
 
 <p><span class="chinese">阿梅利亚将会接受医学检查。</span><span class="english">Amelia will made the medical tests.</span></p>

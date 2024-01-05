@@ -1,5 +1,7 @@
 # 养路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanglu.md)
+
 <p><span class="chinese">被分配指派到工段养路班的劳工。</span><span class="english">a laborer assigned to a section gang.</span></p>
 
 <p><span class="chinese">更重要的是电动车可以免除养路税以及伦敦的塞车税。</span><span class="english">And they are exempt from road tax and London's congestion charge.</span></p>

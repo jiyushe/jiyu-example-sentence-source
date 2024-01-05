@@ -1,5 +1,7 @@
 # battlement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/battlement.md)
+
 <p><span class="chinese">她厉声呼喊迫卡皮亚，并从城垛上纵身一跃。</span><span class="english">She cries out to Scarpia and leaps from the battlement.</span></p>
 
 <p><span class="chinese">在微风中，城堡的雉堞式装饰墙上飘著一面旗帜。</span><span class="english">From the battlement of the tower float a flag in the soft wind.</span></p>

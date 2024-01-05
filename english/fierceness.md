@@ -1,5 +1,7 @@
 # fierceness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fierceness.md)
+
 <p><span class="chinese">于是耶和华转意，不发他的烈怒。</span><span class="english">So the LORD turned from the fierceness of his anger.</span></p>
 
 <p><span class="chinese">用您的凶猛粉碎这个邪恶的敌人！</span><span class="english">With all of your fierceness , come smash this foul enemy!</span></p>

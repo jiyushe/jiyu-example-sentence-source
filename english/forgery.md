@@ -1,5 +1,7 @@
 # forgery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forgery.md)
+
 <p><span class="chinese">因伪造罪他被下牢。</span><span class="english">He is send to prison for forgery.</span></p>
 
 <p><span class="chinese">因伪造罪他被下牢。</span><span class="english">He is sent to prison for forgery.</span></p>

@@ -1,5 +1,7 @@
 # wildcard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wildcard.md)
+
 <p><span class="chinese">所有的工具都支持通配符匹配。</span><span class="english">All of the tools support wildcard matching.</span></p>
 
 <p><span class="chinese">通配符搜索使用前、中和尾匹配</span><span class="english">Wildcard search, using front, middle, and end masking</span></p>

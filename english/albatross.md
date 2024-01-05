@@ -1,5 +1,7 @@
 # albatross
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/albatross.md)
+
 <p><span class="chinese">但是飞行不全是靠按钮和图表，小信天翁。</span><span class="english">It ain't all buttons and charts, little albatross.</span></p>
 
 <p><span class="chinese">那就让冷暖自知的心成为自己永远的包袱。</span><span class="english">Then let articulate the heart become ever albatross.</span></p>

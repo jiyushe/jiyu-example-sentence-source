@@ -1,5 +1,7 @@
 # 白体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baiti.md)
+
 <p><span class="chinese">乐府元白体，诗文传世长。</span><span class="english">Yue Fu Yuan white, handed down the long poems.</span></p>
 
 <p><span class="chinese">对番茄种子蛋白体的结构、类型及萌发过程中的变化进行了详细观察。</span><span class="english">The protein body of ungerminated and germinated tomato seeds was studied in this paper.</span></p>

@@ -1,5 +1,7 @@
 # asynchronous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asynchronous.md)
+
 <p><span class="chinese">同步还是异步？</span><span class="english">Synchronous or asynchronous?</span></p>
 
 <p><span class="chinese">它们是同步还是异步的？</span><span class="english">Are they synchronous or asynchronous?</span></p>

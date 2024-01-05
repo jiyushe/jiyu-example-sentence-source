@@ -1,5 +1,7 @@
 # reunify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reunify.md)
+
 <p><span class="chinese">共同努力，实现祖国统一。</span><span class="english">We should all strive to reunify the motherland.</span></p>
 
 <p><span class="chinese">只有社会主义才能救中国、强中国，并使香港回归。</span><span class="english">Only socialism can save and strengthen China and reunify Hongkong.</span></p>

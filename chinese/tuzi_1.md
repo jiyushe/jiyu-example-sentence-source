@@ -1,5 +1,7 @@
 # 吐字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuzi_1.md)
+
 <p><span class="chinese">我已学会用柔音使自已的吐字圆润委婉。</span><span class="english">I learned to use a soft voice to oil my words.</span></p>
 
 <p><span class="chinese">她们的英语讲得如此吐字清晰而且没有口音，这让我很吃惊。</span><span class="english">I'm amazed at how clear and unaccented their English is.</span></p>

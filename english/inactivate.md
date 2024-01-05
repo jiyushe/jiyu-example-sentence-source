@@ -1,5 +1,7 @@
 # inactivate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inactivate.md)
+
 <p><span class="chinese">使某些激素灭活，使其失去生物学活性。</span><span class="english">To inactivate hormone , to make it lose its bioactivity.</span></p>
 
 <p><span class="chinese">癌细胞也可能甩掉或关闭肿瘤抑制基因PTEN。</span><span class="english">The cells may also lose or inactivate the tumor suppressor gene PTEN.</span></p>

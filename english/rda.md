@@ -1,5 +1,7 @@
 # rda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rda.md)
+
 <p><span class="chinese">RDA战士们暴露于野兽和有毒植物面前。</span><span class="english">RDA soldiers are exposed to animals’ and exotic plants’ attacks.</span></p>
 
 <p><span class="chinese">当超剂量服用时为X类，也就是最危险的一类。</span><span class="english">The risk category will be X only if used in doses above the RDA.</span></p>

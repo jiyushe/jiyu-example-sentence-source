@@ -1,5 +1,7 @@
 # 中耳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhonger.md)
+
 <p><span class="chinese">关于中耳内的小骨的。</span><span class="english">Pertaining to the ossicles in the middle ear.</span></p>
 
 <p><span class="chinese">中耳整复术中耳的手术修复或重造。</span><span class="english">Surgical repair or reconstruction of the middle ear.</span></p>

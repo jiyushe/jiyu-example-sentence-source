@@ -1,5 +1,7 @@
 # 同床共枕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongchuanggongzhen.md)
+
 <p><span class="chinese">钱可以让陌生人同床共枕。</span><span class="english">Money makes for strange bedfellows.</span></p>
 
 <p><span class="chinese">我怀念和妻子同床共枕的感觉。</span><span class="english">I also missed sleeping with my wife.</span></p>

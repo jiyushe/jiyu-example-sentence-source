@@ -1,5 +1,7 @@
 # traditionalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/traditionalism.md)
+
 <p><span class="chinese">这幢大楼的设计有趣地集传统主义和现代主义于一身。</span><span class="english">The building's design is an interesting blend of traditionalism and modernism.</span></p>
 
 <p><span class="chinese">长沙意味着岳麓书院严谨的传统文化，也意味着魅力四射酒吧热辣的舞台秀。</span><span class="english">Changsha is the austere traditionalism of Yuelu Academy and it's the stage show at Glamour bar.</span></p>

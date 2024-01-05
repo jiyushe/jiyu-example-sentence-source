@@ -1,5 +1,7 @@
 # 升平
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengping.md)
+
 <p><span class="chinese">清代戏曲管理分三个时期，即教坊司、南府和升平署。</span><span class="english">The opera management is divided into three period, Jiaofang, Nanfu and Shengpingshu in Qing Dynasty.</span></p>
 
 <p><span class="chinese">以上研究成果，为升平油田措施挖潜和开发调整奠定了基础。</span><span class="english">All of the studies has provided the basis for further exploitation and adjusting of Shengping oilfield.</span></p>

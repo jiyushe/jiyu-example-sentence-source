@@ -1,5 +1,7 @@
 # 火球
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoqiu.md)
+
 <p><span class="chinese">让火球起飞吧！</span><span class="english">Let the fireballs fly!</span></p>
 
 <p><span class="chinese">接着他就引火自焚变成火球。</span><span class="english">He then lit himself and became a fireball.</span></p>

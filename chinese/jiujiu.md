@@ -1,5 +1,7 @@
 # 久久
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiujiu.md)
+
 <p><span class="chinese">男孩忘着天空，久久不能囬神。</span><span class="english">Do you know Sky can cry ?</span></p>
 
 <p><span class="chinese">我时常久久独坐。</span><span class="english">I often sat, for hours together.</span></p>

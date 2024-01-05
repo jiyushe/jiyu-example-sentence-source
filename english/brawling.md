@@ -1,5 +1,7 @@
 # brawling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brawling.md)
+
 <p><span class="chinese">菲尔以为她们要开始吵架了。</span><span class="english">Phyl expected them to start brawling.</span></p>
 
 <p><span class="chinese">啊，吵吵闹闹的相爱，亲亲热热的怨恨！</span><span class="english">Why then, O brawling love, O loving hate.</span></p>

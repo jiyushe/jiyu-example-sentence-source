@@ -1,5 +1,7 @@
 # 家门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiamen.md)
+
 <p><span class="chinese">因为这条路通往家门。</span><span class="english">For the road leads home.</span></p>
 
 <p><span class="chinese">埃林娜发现斯特凡在自己家门前。</span><span class="english">Elena finds Stefan at her door.</span></p>

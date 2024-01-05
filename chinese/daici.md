@@ -1,5 +1,7 @@
 # 代词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daici.md)
+
 <p><span class="chinese">它们的词性是代词。</span><span class="english">They are the pronouns.</span></p>
 
 <p><span class="chinese">对名词性物主代词进行总结。</span><span class="english">The possessive form of nouns.</span></p>

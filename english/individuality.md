@@ -1,5 +1,7 @@
 # individuality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/individuality.md)
+
 <p><span class="chinese">我们应该尊重个性。</span><span class="english">We should respect individuality.</span></p>
 
 <p><span class="chinese">追求你的个性。</span><span class="english">Keep pursuing your individuality.</span></p>

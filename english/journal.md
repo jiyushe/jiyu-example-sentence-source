@@ -1,5 +1,7 @@
 # journal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/journal.md)
+
 <p><span class="chinese">毒物学杂志。</span><span class="english">Journal of Toxicology.</span></p>
 
 <p><span class="chinese">宗教杂志。</span><span class="english">Journal of Religion, The.</span></p>

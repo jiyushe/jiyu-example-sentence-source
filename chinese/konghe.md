@@ -1,5 +1,7 @@
 # 恐吓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/konghe.md)
+
 <p><span class="chinese">停止恐吓自己。</span><span class="english">Stop scaring yourself.</span></p>
 
 <p><span class="chinese">他吼叫着发出恐吓。</span><span class="english">He snarled out a threat.</span></p>

@@ -1,5 +1,7 @@
 # 年历
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianli.md)
+
 <p><span class="chinese">有些年历不可用。</span><span class="english">Some almanacs are not available.</span></p>
 
 <p><span class="chinese">使用学年历模板。</span><span class="english">Use the school year calendar template.</span></p>

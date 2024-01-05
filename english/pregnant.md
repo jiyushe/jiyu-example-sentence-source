@@ -1,5 +1,7 @@
 # pregnant 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pregnant.md)
+
 <p><span class="chinese">我的太太怀孕了。</span><span class="english">My wife is pregnant.</span></p>
 
 <p><span class="chinese">她怀孕5个月了。</span><span class="english">She is 5 months pregnant.</span></p>

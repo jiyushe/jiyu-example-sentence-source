@@ -1,5 +1,7 @@
 # swage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swage.md)
+
 <p><span class="chinese">踩脚踏板合拢扣压机头，完成扣压。</span><span class="english">Press the Foot Switch to close the head and perform the swage.</span></p>
 
 <p><span class="chinese">这个曾经繁荣的地方充斥着垃圾和污水，而且供电不足。</span><span class="english">The once prosperous area is filled with trash and swage sewage and lacks electricity.</span></p>

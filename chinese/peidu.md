@@ -1,5 +1,7 @@
 # 陪都
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peidu.md)
+
 <p><span class="chinese">他开始重新恶补中国知识，以一位汉学家的身份来到陪都重庆出任英国驻华使馆的科学参赞。</span><span class="english">He retrained as a Sinologist and took a job in Chongqing as Britain’s scientific emissary.</span></p>
 
 <p><span class="chinese">北宋时期的应天府，是陪都南京的所在地。</span><span class="english">The Yingtian prefecture in Northern Song Dynasty was located in Nanjing, the supplementary capital.</span></p>

@@ -1,5 +1,7 @@
 # crusher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crusher.md)
+
 <p><span class="chinese">特点聚四氟蜡液压冲击破碎机1。</span><span class="english">Features of PFW Hydraulic impact crusher 1.</span></p>
 
 <p><span class="chinese">用于高效式二合一破碎机。</span><span class="english">It is mainly used in high-performance two-in-one crusher.</span></p>

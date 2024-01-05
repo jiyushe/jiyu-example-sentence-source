@@ -1,5 +1,7 @@
 # 水荒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuihuang.md)
+
 <p><span class="chinese">西班牙正在着手利用高科技手段解决水荒问题。</span><span class="english">Spain is turning hi-tech to solve its water woes.</span></p>
 
 <p><span class="chinese">一新的水权规范有望缓解中国西南干旱地区的水荒问题。</span><span class="english">A new scheme hopes to alleviate water poverty in an arid area of southwest China.</span></p>

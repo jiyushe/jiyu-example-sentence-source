@@ -1,5 +1,7 @@
 # 掩藏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yancang.md)
+
 <p><span class="chinese">雪的下面，又掩藏着什么呢？</span><span class="english">Below the snow, but also hidden what?</span></p>
 
 <p><span class="chinese">月亮掩藏于云后。</span><span class="english">The moon hid itself behind the clouds.</span></p>

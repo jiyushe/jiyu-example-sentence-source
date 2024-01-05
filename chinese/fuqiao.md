@@ -1,5 +1,7 @@
 # 浮桥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuqiao.md)
+
 <p><span class="chinese">那时候还是一座浮桥。</span><span class="english">It was then a floating bridge.</span></p>
 
 <p><span class="chinese">对啊。这种桥叫浮桥。</span><span class="english">Yes. It's called the floating bridge.</span></p>

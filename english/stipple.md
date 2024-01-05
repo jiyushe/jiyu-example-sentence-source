@@ -1,5 +1,7 @@
 # stipple
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stipple.md)
+
 <p><span class="chinese">画点画在其默认值。</span><span class="english">Stipple at its defaults.</span></p>
 
 <p><span class="chinese">你看见我的点刻画像了？</span><span class="english">Did you see my stipple portrait?</span></p>

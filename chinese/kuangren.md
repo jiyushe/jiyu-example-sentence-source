@@ -1,5 +1,7 @@
 # 狂人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuangren.md)
+
 <p><span class="chinese">高尔夫球手，赌徒，汽车收集狂人。</span><span class="english">Golfer, gambler, car-pooler.</span></p>
 
 <p><span class="chinese">Gonzo在内心里是一位技术狂人。</span><span class="english">Gonzo is a techno-geek at heart.</span></p>

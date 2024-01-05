@@ -1,5 +1,7 @@
 # miami
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/miami.md)
+
 <p><span class="chinese">迈阿密我也喜欢。</span><span class="english">Miami I like too.</span></p>
 
 <p><span class="chinese">马宏抵达了迈阿密。</span><span class="english">Mahone arrives in Miami.</span></p>

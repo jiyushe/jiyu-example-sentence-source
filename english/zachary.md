@@ -1,5 +1,7 @@
 # zachary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zachary.md)
+
 <p><span class="chinese">这个系蓝丝带的篮子是给你们的。</span><span class="english">But the one with the blue ribbon is just for you and Zachary.</span></p>
 
 <p><span class="chinese">南卡罗来那国民警卫队的扎卡里·托马斯称该演习任务非常艰巨。</span><span class="english">Zachary Thomas, with the South Carolina National Guard, says it was tough.</span></p>

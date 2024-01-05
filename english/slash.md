@@ -1,5 +1,7 @@
 # slash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slash.md)
+
 <p><span class="chinese">你是否畏惧暴雨的抽打？</span><span class="english">The slash of the rain?</span></p>
 
 <p><span class="chinese">是反斜杠0，对不？</span><span class="english">The back slash zero, right?</span></p>

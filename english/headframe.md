@@ -1,5 +1,7 @@
 # headframe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headframe.md)
+
 <p><span class="chinese">某煤矿主井井架由于提升能力的增加，引起井架构件受力增大，导致安全性能降低。</span><span class="english">The security of one main well headframe will be reduced due to more load.</span></p>
 
 <p><span class="chinese">本文介绍了大型箱型钢结构井架的制作方法及质量控制要素。</span><span class="english">The article describes the fabrication methods and quality control factors on Heavy Box-Type Steel Headframe.</span></p>

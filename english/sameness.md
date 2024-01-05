@@ -1,5 +1,7 @@
 # sameness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sameness.md)
+
 <p><span class="chinese">与众不同是成功的开始，雷同流俗是失败的根源。</span><span class="english">Succeed because of the difference, sameness cause the failure.</span></p>
 
 <p><span class="chinese">平行结构表达了平行、对称和一致性。</span><span class="english">The word parallel implies coordination, balance, and sameness.</span></p>

@@ -1,5 +1,7 @@
 # tram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tram.md)
+
 <p><span class="chinese">这个有轨电车可太好玩了！</span><span class="english">The tram was so much fun!</span></p>
 
 <p><span class="chinese">你坐过有轨电车了吗？</span><span class="english">Have you been on a tram yet?</span></p>

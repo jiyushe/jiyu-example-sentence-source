@@ -1,5 +1,7 @@
 # merle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/merle.md)
+
 <p><span class="chinese">梅尔夫人决不虚有其表，她是表里如一的。</span><span class="english">Madame Merle was not superficial-not she.</span></p>
 
 <p><span class="chinese">梅尔夫人注意到了这种郑重其事的脸色。</span><span class="english">Madame Merle appeared to note this eagerness.</span></p>

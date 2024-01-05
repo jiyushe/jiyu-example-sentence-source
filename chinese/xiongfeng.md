@@ -1,5 +1,7 @@
 # 熊蜂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongfeng.md)
+
 <p><span class="chinese">最后，他们把问题集中在熊蜂身上。</span><span class="english">Eventually they focused their questions on bumblebees.</span></p>
 
 <p><span class="chinese">“短毛熊蜂非常挑食，”她说。</span><span class="english">The short-haired bumblebee is a very fussy eater, " she said.</span></p>

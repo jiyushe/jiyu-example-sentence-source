@@ -1,5 +1,7 @@
 # 脱口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuokou.md)
+
 <p><span class="chinese">你为什么脱口说出那个意见?</span><span class="english">Why did you fling out that remark?</span></p>
 
 <p><span class="chinese">有一天珂赛特脱口叫了他一声“父亲”。</span><span class="english">One day Cosette chanced to say "father" to him.</span></p>

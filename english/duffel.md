@@ -1,5 +1,7 @@
 # duffel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duffel.md)
+
 <p><span class="chinese">你装了一个粗呢包？</span><span class="english">That's my duffel bag.</span></p>
 
 <p><span class="chinese">你装了一个粗呢包？</span><span class="english">You packed a duffel bag?</span></p>

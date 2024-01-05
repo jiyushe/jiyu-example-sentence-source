@@ -1,5 +1,7 @@
 # 亲代
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qindai.md)
+
 <p><span class="chinese">这种“亲代投入理论”尤其可以很好地解释人类行为。</span><span class="english">This “parental investment theory” should apply especially well to humans.</span></p>
 
 <p><span class="chinese">这表明一些藻类也许直接通过亲代直接传到子代。</span><span class="english">Which suggests that some algae may be handed down directly from parent to child.</span></p>

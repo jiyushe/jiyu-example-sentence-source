@@ -1,5 +1,7 @@
 # sincere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sincere.md)
+
 <p><span class="chinese">他是真诚的。</span><span class="english">He is sincere.</span></p>
 
 <p><span class="chinese">他的歉意是出自内心的。</span><span class="english">His apology was sincere.</span></p>

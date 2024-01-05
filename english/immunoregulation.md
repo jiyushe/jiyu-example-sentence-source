@@ -1,5 +1,7 @@
 # immunoregulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immunoregulation.md)
+
 <p><span class="chinese">目的定位免疫功能相关的中枢脑区。</span><span class="english">To study the location of brain areas involved in immunoregulation.</span></p>
 
 <p><span class="chinese">结论急性肾炎患儿为一种自身免疫调节异常的疾病。</span><span class="english">Conclusion Acute nephritis is a kind of disease due to abnormal immunoregulation.</span></p>

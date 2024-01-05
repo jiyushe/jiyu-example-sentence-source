@@ -1,5 +1,7 @@
 # restoration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/restoration.md)
+
 <p><span class="chinese">这就是所谓的王政复辟。</span><span class="english">It was called the Restoration.</span></p>
 
 <p><span class="chinese">然而，恢复计划没有到此为止。</span><span class="english">Yet restoration plans don't stop there.</span></p>

@@ -1,5 +1,7 @@
 # 佳句
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaju.md)
+
 <p><span class="chinese">来跟我们分享影响您的名言佳句吧！</span><span class="english">Any quote that inspires you, share with us here!</span></p>
 
 <p><span class="chinese">我想这是我一生听过最美，最动人的佳句！</span><span class="english">I think this is the life I have heard the most beautiful and moving Couplets !</span></p>

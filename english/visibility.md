@@ -1,5 +1,7 @@
 # visibility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/visibility.md)
+
 <p><span class="chinese">能见度怎样？</span><span class="english">How is visibility?</span></p>
 
 <p><span class="chinese">提高可见度。</span><span class="english">Increase your visibility.</span></p>

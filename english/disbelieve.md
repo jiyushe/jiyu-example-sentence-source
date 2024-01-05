@@ -1,5 +1,7 @@
 # disbelieve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disbelieve.md)
+
 <p><span class="chinese">我不信上帝。</span><span class="english">I disbelieve in God.</span></p>
 
 <p><span class="chinese">我不相信幽浮。</span><span class="english">I disbelieve in UFOs.</span></p>

@@ -1,5 +1,7 @@
 # electromotion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electromotion.md)
+
 <p><span class="chinese">仪器由滚筒罐及电动转架组成。</span><span class="english">The instrument is composed of roller drum and Electromotion turner.</span></p>
 
 <p><span class="chinese">机组设计了电动提升装置，方便工具及备件的提升。</span><span class="english">The generator set has design of electromotion takeup , to take up convenient tool and backup.</span></p>

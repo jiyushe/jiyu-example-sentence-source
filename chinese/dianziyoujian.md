@@ -1,5 +1,7 @@
 # 电子邮件
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianziyoujian.md)
+
 <p><span class="chinese">给我打电话或发电子邮件。</span><span class="english">Call me ore-mail me.</span></p>
 
 <p><span class="chinese">给我打电话，或发电子邮件。</span><span class="english">Call me or e-mail me.</span></p>

@@ -1,5 +1,7 @@
 # 条理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaoli_1.md)
+
 <p><span class="chinese">她能条理清楚地推理。</span><span class="english">She can reason very clearly.</span></p>
 
 <p><span class="chinese">这篇文章条理清楚。</span><span class="english">The article is well-organized.</span></p>

@@ -1,5 +1,7 @@
 # literate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/literate.md)
+
 <p><span class="chinese">其中许多人都是半文盲。</span><span class="english">Many of them seem to be barely literate.</span></p>
 
 <p><span class="chinese">你的孩子应该会识字算数。</span><span class="english">Your children should be literate and numerate.</span></p>

@@ -1,5 +1,7 @@
 # 全军覆没
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanjunfumo.md)
+
 <p><span class="chinese">那支部队全军覆没，无一生还。</span><span class="english">The whole army went down in flames, and no one survived.</span></p>
 
 <p><span class="chinese">那么他全军覆没而你得到一场完胜</span><span class="english">So he has none left and you've managed to destroy two of them.</span></p>

@@ -1,5 +1,7 @@
 # horst
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horst.md)
+
 <p><span class="chinese">届时德国总统霍斯特•科勒先生将到场出席。</span><span class="english">German president Horst Köhler is also expected to attend the event.</span></p>
 
 <p><span class="chinese">正如霍斯特所说的那样，我期待着我们共同出访非洲。</span><span class="english">I am looking forward to our joint visit to Africa, as Horst has mentioned.</span></p>

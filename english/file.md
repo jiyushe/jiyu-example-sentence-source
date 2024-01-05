@@ -1,5 +1,7 @@
 # file 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/file.md)
+
 <p><span class="chinese">文件尺寸。</span><span class="english">File size.</span></p>
 
 <p><span class="chinese">打开此文件。</span><span class="english">Open this file.</span></p>

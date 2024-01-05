@@ -1,5 +1,7 @@
 # unmanned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unmanned.md)
+
 <p><span class="chinese">他的朋友逝世的消息使他难以自持而哭了起来。</span><span class="english">The news of his friend’s death unmanned him and he wept.</span></p>
 
 <p><span class="chinese">不伦不载人的探测器能否在火星上发现生命迹象。</span><span class="english">Whether or not unmanned probes find signs of life on Mars.</span></p>

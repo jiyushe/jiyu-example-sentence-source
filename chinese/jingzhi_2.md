@@ -1,5 +1,7 @@
 # 精制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingzhi_2.md)
+
 <p><span class="chinese">他们用这种方法精制糖。</span><span class="english">They refine sugar using this way.</span></p>
 
 <p><span class="chinese">最重要的是，避免精制糖。</span><span class="english">Most importantly, avoid refined sugar.</span></p>

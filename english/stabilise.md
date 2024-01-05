@@ -1,5 +1,7 @@
 # stabilise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stabilise.md)
+
 <p><span class="chinese">或者地球本身将稳定下来？</span><span class="english">Or will the planet itself stabilise?</span></p>
 
 <p><span class="chinese">这将有助于稳定他们的股票价格。</span><span class="english">That should help stabilise their stock prices.</span></p>

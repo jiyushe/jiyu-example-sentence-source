@@ -1,5 +1,7 @@
 # abandoned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abandoned.md)
+
 <p><span class="chinese">他放弃一切希望。</span><span class="english">He abandoned all hope.</span></p>
 
 <p><span class="chinese">现今它们都被遗弃了。</span><span class="english">Today they are all abandoned.</span></p>

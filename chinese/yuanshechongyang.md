@@ -1,5 +1,7 @@
 # 远涉重洋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanshechongyang.md)
+
 <p><span class="chinese">为寻找吾爱我曾远涉重洋。</span><span class="english">Once I travelled 7 seas to find my love.</span></p>
 
 <p><span class="chinese">他远涉重洋到澳大利亚去当法语教师。</span><span class="english">He went out to Australia as a French teacher.</span></p>

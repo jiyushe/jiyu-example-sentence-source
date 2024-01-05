@@ -1,5 +1,7 @@
 # upholstery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upholstery.md)
+
 <p><span class="chinese">椅座及椅背可选配全真皮，半真皮及颜色布料复盖。</span><span class="english">Available in genuine leather , half leather and fabric upholstery.</span></p>
 
 <p><span class="chinese">时间长了，还要对座套、地毯进行清洗。</span><span class="english">At longer intervals, seating upholstery and carpets must be shampooed.</span></p>

@@ -1,5 +1,7 @@
 # 诸位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuwei_1.md)
+
 <p><span class="chinese">诸位早上好。</span><span class="english">Good morning everyone.</span></p>
 
 <p><span class="chinese">我愿向诸位介绍张先生。</span><span class="english">I'd like to introduce Mr. Zhang.</span></p>

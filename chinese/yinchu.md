@@ -1,5 +1,7 @@
 # 引出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinchu.md)
+
 <p><span class="chinese">因此,七引出八</span><span class="english">So, seven pulls up into eight.</span></p>
 
 <p><span class="chinese">这就引出了一个显而易见的问题.</span><span class="english">And it begs the obvious question.</span></p>

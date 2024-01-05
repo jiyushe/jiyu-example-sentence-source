@@ -1,5 +1,7 @@
 # mug
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mug.md)
+
 <p><span class="chinese">这是我的小杯子。</span><span class="english">P3 This is my mug.</span></p>
 
 <p><span class="chinese">首先，你打碎了一个杯子。</span><span class="english">First, you break the mug.</span></p>

@@ -1,5 +1,7 @@
 # buses
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buses.md)
+
 <p><span class="chinese">所有的PMT公交都很挤。</span><span class="english">All PMT buses are crowded.</span></p>
 
 <p><span class="chinese">我需要转车吗？</span><span class="english">Do I need to change buses?</span></p>

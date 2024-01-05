@@ -1,5 +1,7 @@
 # schoolfellow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schoolfellow.md)
+
 <p><span class="chinese">“可是，欧文，你在干什么？”他的老同学问道。</span><span class="english">But, Owen, what are you about?asked his old schoolfellow.</span></p>
 
 <p><span class="chinese">原来，白鹰与史月儿在国外是同窗。</span><span class="english">Original, bai Ying and Shi Yueer are in abroad is schoolfellow.</span></p>

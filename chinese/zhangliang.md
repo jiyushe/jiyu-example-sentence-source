@@ -1,5 +1,7 @@
 # 丈量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangliang.md)
+
 <p><span class="chinese">电容的丈量单元是法拉。</span><span class="english">It is measured in farads.</span></p>
 
 <p><span class="chinese">我要丈量这间房子。</span><span class="english">I have to measure the room.</span></p>

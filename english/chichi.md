@@ -1,5 +1,7 @@
 # chichi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chichi.md)
+
 <p><span class="chinese">琦琦这个名字很好听。</span><span class="english">Chichi is a nice name.</span></p>
 
 <p><span class="chinese">我的鹦鹉叫琦琦。</span><span class="english">My parrot’s name is Chichi.</span></p>

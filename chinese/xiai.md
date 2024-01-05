@@ -1,5 +1,7 @@
 # 喜爱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiai.md)
+
 <p><span class="chinese">你喜爱诗。</span><span class="english">You love it.</span></p>
 
 <p><span class="chinese">我喜爱猴子。</span><span class="english">I Iike monkeys.</span></p>

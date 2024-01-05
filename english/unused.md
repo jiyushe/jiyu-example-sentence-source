@@ -1,5 +1,7 @@
 # unused
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unused.md)
+
 <p><span class="chinese">她保存着一枚未曾用过的猴邮票。</span><span class="english">She keeps an unused stamp of monkey.</span></p>
 
 <p><span class="chinese">删除不用的代码或者特性。</span><span class="english">Remove unused code or unused features.</span></p>

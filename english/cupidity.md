@@ -1,5 +1,7 @@
 # cupidity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cupidity.md)
+
 <p><span class="chinese">避免对金钱和荣誉的贪婪。</span><span class="english">Avoid cupidity of money and glory.</span></p>
 
 <p><span class="chinese">他的眼里闪着贪婪的光芒，使他暴露无遗。</span><span class="english">His eyes gave him away, shining with cupidity.</span></p>

@@ -1,5 +1,7 @@
 # 苦思冥想
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kusimingxiang.md)
+
 <p><span class="chinese">他停住了，苦思冥想。</span><span class="english">The man paused, thinking.</span></p>
 
 <p><span class="chinese">她为那事苦思冥想。</span><span class="english">She tasked her mind with that.</span></p>

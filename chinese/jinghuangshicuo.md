@@ -1,5 +1,7 @@
 # 惊慌失措
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinghuangshicuo.md)
+
 <p><span class="chinese">现在,我终于惊慌失措了</span><span class="english">Now, I'm really panicking.</span></p>
 
 <p><span class="chinese">他对这次事故感到惊慌失措。</span><span class="english">He panicked over this accident.</span></p>

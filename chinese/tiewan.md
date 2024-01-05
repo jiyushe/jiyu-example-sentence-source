@@ -1,5 +1,7 @@
 # 铁腕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiewan.md)
+
 <p><span class="chinese">俾斯麦用铁腕手段统治德国。</span><span class="english">Bismarck ruled Germany by a strong hand.</span></p>
 
 <p><span class="chinese">在国内，卡扎菲用铁腕统治。</span><span class="english">At home, Gaddafi rules with an iron hand.</span></p>

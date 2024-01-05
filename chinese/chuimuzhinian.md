@@ -1,5 +1,7 @@
 # 垂暮之年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuimuzhinian.md)
+
 <p><span class="chinese">他作出最大了贡献的时候已是垂暮之年了。</span><span class="english">His greatest contributions came when he was a "senior citizen."</span></p>
 
 <p><span class="chinese">我也想到了所有那些关于唐璜垂暮之年的故事、传说和笑话。</span><span class="english">I think of all those tales, legends, and laughs about the aged Don Juan.</span></p>

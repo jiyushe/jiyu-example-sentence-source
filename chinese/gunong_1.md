@@ -1,5 +1,7 @@
 # 雇农
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gunong_1.md)
+
 <p><span class="chinese">在这出戏里他既扮演雇农又扮演矿工。</span><span class="english">He doubles the parts of a farmhand and a miner.</span></p>
 
 <p><span class="chinese">那地主迫使雇农们累死累活地干。</span><span class="english">The landlord almost worked the farmhands to death.</span></p>

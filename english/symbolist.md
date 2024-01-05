@@ -1,5 +1,7 @@
 # symbolist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/symbolist.md)
+
 <p><span class="chinese">他还热衷于法国象征主义诗歌。</span><span class="english">He was also attracted by the French symbolist poetry.</span></p>
 
 <p><span class="chinese">象征主义者之墨守原文，唯美主义，反映浪子与城市的关系。</span><span class="english">Symbolist Textuality, Aestheticism, Relation to Image the Flaneur and the City.</span></p>

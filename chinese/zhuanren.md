@@ -1,5 +1,7 @@
 # 专人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanren.md)
+
 <p><span class="chinese">这封短信经由专人送交。</span><span class="english">The note was delivered by hand.</span></p>
 
 <p><span class="chinese">这项工作由专人负责。</span><span class="english">Someone is put in charge of the work.</span></p>

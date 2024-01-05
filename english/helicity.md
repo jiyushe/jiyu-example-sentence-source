@@ -1,5 +1,7 @@
 # helicity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/helicity.md)
+
 <p><span class="chinese">其实语文的教学是有其联系性，是一种“螺旋性上升的”学习。</span><span class="english">Actually the language teaching has its relation, is one kind "the helicity rise" the study.</span></p>
 
 <p><span class="chinese">磁场的螺度是开展很早的理论研究，尤其是在核聚变方面。</span><span class="english">The helicity study of magnetic field began very early, especially in the field of nucleus fusion.</span></p>

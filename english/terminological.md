@@ -1,5 +1,7 @@
 # terminological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terminological.md)
+
 <p><span class="chinese">俄国术语学在世界范围内占有举足轻重的地位。</span><span class="english">Russian terminological science is of world-widely great importance.</span></p>
 
 <p><span class="chinese">严肃的人不致浪费时问来讨论像这样的用语上的问题。</span><span class="english">No serious man wastes his time in discussing such a terminological question.</span></p>

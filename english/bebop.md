@@ -1,5 +1,7 @@
 # bebop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bebop.md)
+
 <p><span class="chinese">戴维斯创立了调式爵士和融合爵士并促成了比波普爵士的诞生。</span><span class="english">Davis created modal jazz and fusion, and he helped transform bebop.</span></p>
 
 <p><span class="chinese">而比博普，这种更为前卫、锋利，且更具有实验精神的音乐形式即将诞生。</span><span class="english">A leaner, sharper and more experimental music was about to be born – bebop.</span></p>

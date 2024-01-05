@@ -1,5 +1,7 @@
 # 斑马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banma.md)
+
 <p><span class="chinese">狮子追猎斑马。</span><span class="english">Lions hunt zebra.</span></p>
 
 <p><span class="chinese">黄嘴牛椋鸟和斑马，南非</span><span class="english">Oxpecker and Zebra, South Africa</span></p>

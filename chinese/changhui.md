@@ -1,5 +1,7 @@
 # 常会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changhui.md)
+
 <p><span class="chinese">您时常会感觉非常不踏实。</span><span class="english">At times youll feel very ungrounded.</span></p>
 
 <p><span class="chinese">杰克常会整天争论不休骂骂咧咧。</span><span class="english">Jack would argue and eff all day long.</span></p>

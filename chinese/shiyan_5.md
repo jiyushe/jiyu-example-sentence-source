@@ -1,5 +1,7 @@
 # 食盐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyan_5.md)
+
 <p><span class="chinese">加入香草香精和食盐。</span><span class="english">Add the vanilla and salt.</span></p>
 
 <p><span class="chinese">减少摄入食盐量可以降低血压。</span><span class="english">Less salt can meana lower blood pressure.</span></p>

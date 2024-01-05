@@ -1,5 +1,7 @@
 # patina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patina.md)
+
 <p><span class="chinese">只不过是令人心悦诚服的真相表层罢了。</span><span class="english">It only took a convincing patina of truth.</span></p>
 
 <p><span class="chinese">铜绿是一个美丽的词语，也是一个美好的概念。</span><span class="english">Patina is a pretty word, and a beautiful concept.</span></p>

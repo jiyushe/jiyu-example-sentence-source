@@ -1,5 +1,7 @@
 # zambian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zambian.md)
+
 <p><span class="chinese">还有一个赞比亚铜矿的事例。</span><span class="english">Or there’s the example of the Zambian copper mines.</span></p>
 
 <p><span class="chinese">可在赞比亚的维多利亚瀑布结束这次旅程。</span><span class="english">End your journey on the Zambian side of Victoria Falls.</span></p>

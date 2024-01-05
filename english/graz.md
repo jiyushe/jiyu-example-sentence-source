@@ -1,5 +1,7 @@
 # graz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/graz.md)
+
 <p><span class="chinese">彼特•J•什图尔穆是奥地利格拉兹科技大学教授。</span><span class="english">Peter J. Sturm is professor at Graz University of Technology, Austria.</span></p>
 
 <p><span class="chinese">格拉茨是奥地利的第二大城市，是在东南地区。</span><span class="english">Graz is Austria's second largest city and is in the south east of the country.</span></p>

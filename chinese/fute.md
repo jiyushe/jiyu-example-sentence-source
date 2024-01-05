@@ -1,5 +1,7 @@
 # 伏特
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fute.md)
+
 <p><span class="chinese">它有13。6电子伏特。</span><span class="english">It is 13.6 electron volts.</span></p>
 
 <p><span class="chinese">就是一单位的电子伏特。</span><span class="english">That is one electron volt.</span></p>

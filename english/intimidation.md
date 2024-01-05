@@ -1,5 +1,7 @@
 # intimidation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intimidation.md)
+
 <p><span class="chinese">骚扰和恐吓。</span><span class="english">Harassment and intimidation.</span></p>
 
 <p><span class="chinese">他的统治手段是恐惧和恐吓。</span><span class="english">It was rule by fear and intimidation.</span></p>

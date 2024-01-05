@@ -1,5 +1,7 @@
 # venter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/venter.md)
+
 <p><span class="chinese">范特尔不这麽认为。</span><span class="english">Venter does not believe so.</span></p>
 
 <p><span class="chinese">文特尔先生说合成体是一个新的物种。</span><span class="english">Mister Venter says Synthia is a new species.</span></p>

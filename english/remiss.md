@@ -1,5 +1,7 @@
 # remiss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remiss.md)
+
 <p><span class="chinese">我也真是，办事就是不周到。</span><span class="english">I've certainly been remiss about things.</span></p>
 
 <p><span class="chinese">政府的大意已经触发了强烈的反应。</span><span class="english">The government's remiss has triggered a forceful reaction.</span></p>

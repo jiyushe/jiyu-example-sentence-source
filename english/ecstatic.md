@@ -1,5 +1,7 @@
 # ecstatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ecstatic.md)
+
 <p><span class="chinese">埃迪对他的新玩具火车着了迷。</span><span class="english">Eddie is ecstatic over his new train set.</span></p>
 
 <p><span class="chinese">他得知你恢复清白身一定很兴奋。</span><span class="english">He must be ecstatic about your exoneration.</span></p>

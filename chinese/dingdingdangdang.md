@@ -1,5 +1,7 @@
 # 叮叮当当
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingdingdangdang.md)
+
 <p><span class="chinese">它烧着黄铜叮叮当当的响。</span><span class="english">It is noisy burning clanging brass.</span></p>
 
 <p><span class="chinese">那白人轻轻一笑，把口袋里的硬币弄得叮叮当当直响。</span><span class="english">The white man laughed softly, jingled some coins in his pocket.</span></p>

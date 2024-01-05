@@ -1,5 +1,7 @@
 # achieve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/achieve.md)
+
 <p><span class="chinese">下次会获得白勺！</span><span class="english">Achieve it next time!</span></p>
 
 <p><span class="chinese">但是如何实现呢?</span><span class="english">But how to achieve this?</span></p>

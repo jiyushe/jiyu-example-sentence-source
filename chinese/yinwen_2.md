@@ -1,5 +1,7 @@
 # 引文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinwen_2.md)
+
 <p><span class="chinese">此处引文从略。</span><span class="english">The quotation is omitted here.</span></p>
 
 <p><span class="chinese">“这段引文非常有趣，”西王母说。</span><span class="english">"The quotation is funny, " she said.</span></p>

@@ -1,5 +1,7 @@
 # biggish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biggish.md)
+
 <p><span class="chinese">特别是当流的数目较大时其性能甚至超过了DRR。</span><span class="english">Especially, it outperforms DRR when the flow number is biggish.</span></p>
 
 <p><span class="chinese">受其影响，渤海冬季的冰情时空分布状况发生了较大变化。</span><span class="english">It result in biggish movement of the spatiotemporal transformation of the Bo-hai sea ice.</span></p>

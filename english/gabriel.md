@@ -1,5 +1,7 @@
 # gabriel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gabriel.md)
+
 <p><span class="chinese">那是天使加百利。</span><span class="english">It was the angel Gabriel.</span></p>
 
 <p><span class="chinese">加百利生活在多米尼加共和国。</span><span class="english">Gabriel lives in the Dominican Republic.</span></p>

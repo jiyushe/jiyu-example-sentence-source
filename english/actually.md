@@ -1,5 +1,7 @@
 # actually
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/actually.md)
+
 <p><span class="chinese">当然可以。</span><span class="english">Sure, actually.</span></p>
 
 <p><span class="chinese">它开始旋转。</span><span class="english">It actually rotated.</span></p>

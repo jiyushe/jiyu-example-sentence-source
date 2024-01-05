@@ -1,5 +1,7 @@
 # 攀缘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/panyuan_1.md)
+
 <p><span class="chinese">他从绳上攀缘而下。</span><span class="english">He climbed down a rope.</span></p>
 
 <p><span class="chinese">长春藤有攀缘向上的习性。</span><span class="english">Ivy has a climbing habit.</span></p>

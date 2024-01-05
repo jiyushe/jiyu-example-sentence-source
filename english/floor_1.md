@@ -1,5 +1,7 @@
 # floor 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/floor_1.md)
+
 <p><span class="chinese">平躺在地板上。</span><span class="english">Lie on the floor.</span></p>
 
 <p><span class="chinese">我来拖地板。</span><span class="english">I'll mop the floor.</span></p>

@@ -1,5 +1,7 @@
 # clavier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clavier.md)
+
 <p><span class="chinese">任何两首不同风格之史卡拉第奏鸣曲或巴赫“四十八首十二平均律钢琴曲集”之任何一首。</span><span class="english">SCARLATTI any two contrasting sonatas of your own choice or BACH any one "Well Tempered Clavier" Prelude and Fugue.</span></p>
 
 <p><span class="chinese">采用较慢的速度、温和的触键方式以及在不同声部弹出不同音色的演奏方法是掌握巴赫作品风格的关键。</span><span class="english">The playing Key of Bach's style is to play out different timbres with mild ways of playing the clavier in a slower speed.</span></p>

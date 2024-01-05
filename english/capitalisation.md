@@ -1,5 +1,7 @@
 # capitalisation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capitalisation.md)
+
 <p><span class="chinese">银行也在一直加快提高他们的资本化标准。</span><span class="english">Banks are also continuing to step up their capitalisation levels.</span></p>
 
 <p><span class="chinese">全球市值最大的四家银行有三家是由国家控制的。</span><span class="english">Three of the four largest banks by market capitalisation are state-controlled.</span></p>

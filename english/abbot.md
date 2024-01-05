@@ -1,5 +1,7 @@
 # abbot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abbot.md)
+
 <p><span class="chinese">听言方丈悲痛流泪。</span><span class="english">Yet the abbot sad tears.</span></p>
 
 <p><span class="chinese">你在想我是坎特伯雷市的修道院长。</span><span class="english">This is the chamber of the abbot.</span></p>

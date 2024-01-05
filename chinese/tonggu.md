@@ -1,5 +1,7 @@
 # 铜鼓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tonggu.md)
+
 <p><span class="chinese">展项中的铜鼓影像、幻影绣球等也别具一格。</span><span class="english">The bronze drum image and phantom silk ball have a unique style.</span></p>
 
 <p><span class="chinese">铜鼓是布依族的神器礼器。</span><span class="english">Brass drums are the Bouyei people's instruments of deity worshipping.</span></p>

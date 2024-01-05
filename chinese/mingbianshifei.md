@@ -1,5 +1,7 @@
 # 明辨是非
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingbianshifei.md)
+
 <p><span class="chinese">尽管他是个孩子，他明辨是非。</span><span class="english">Child as he is, he knows right from wrong.</span></p>
 
 <p><span class="chinese">小孩不能明辨是非。</span><span class="english">Little children do not know right from wrong.</span></p>

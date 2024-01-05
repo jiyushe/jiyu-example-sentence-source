@@ -1,5 +1,7 @@
 # 起诉书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qisushu.md)
+
 <p><span class="chinese">公诉人正在宣读一份长达73页的起诉书。</span><span class="english">Prosecutor is to read a 73-page indictment.</span></p>
 
 <p><span class="chinese">起诉书也写得含糊不清、语无伦次。</span><span class="english">The indictment is vague, woolly and incoherent.</span></p>

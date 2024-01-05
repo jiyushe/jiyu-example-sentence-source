@@ -1,5 +1,7 @@
 # setback
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/setback.md)
+
 <p><span class="chinese">但是这个低潮是短暂的。</span><span class="english">The setback was only temporary, however.</span></p>
 
 <p><span class="chinese">⊙、短时期的挫折比短时期的成功好。</span><span class="english">Short-term setback than short-term success.</span></p>

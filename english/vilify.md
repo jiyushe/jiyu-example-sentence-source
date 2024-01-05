@@ -1,5 +1,7 @@
 # vilify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vilify.md)
+
 <p><span class="chinese">但希望我也别给人诬衊。</span><span class="english">But I also do not want people to vilify.</span></p>
 
 <p><span class="chinese">然而，也有两个人并不愿诋毁思斯奇林。</span><span class="english">Two chose not to vilify Skilling, however.</span></p>

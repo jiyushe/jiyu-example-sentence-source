@@ -1,5 +1,7 @@
 # various 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/various.md)
+
 <p><span class="chinese">四川各种矿藏蕴量丰富。</span><span class="english">Various ores were abundant.</span></p>
 
 <p><span class="chinese">这可能会表现为多种形式。</span><span class="english">This can take various forms.</span></p>

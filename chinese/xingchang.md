@@ -1,5 +1,7 @@
 # 刑场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingchang.md)
+
 <p><span class="chinese">在敌人刑场上。</span><span class="english">At the enemy's execution court.</span></p>
 
 <p><span class="chinese">喂，你，把火点上。把她拉到火刑场去！</span><span class="english">Light your fire, man. to the stake with her.</span></p>

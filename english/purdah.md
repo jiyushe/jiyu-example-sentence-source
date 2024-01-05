@@ -1,5 +1,7 @@
 # purdah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purdah.md)
+
 <p><span class="chinese">又没有更多的面纱了。</span><span class="english">There is no more purdah.</span></p>
 
 <p><span class="chinese">世博会又带其走出来“深闺”走向了世界。</span><span class="english">Expo has come out with its "purdah" to the world.</span></p>

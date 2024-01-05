@@ -1,5 +1,7 @@
 # 质地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhidi_1.md)
+
 <p><span class="chinese">这质地是纯毛的吗？</span><span class="english">Is this material pure wool?</span></p>
 
 <p><span class="chinese">这种布的质地薄。</span><span class="english">This cloth lacks substance.</span></p>

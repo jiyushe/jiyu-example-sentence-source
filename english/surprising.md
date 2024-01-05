@@ -1,5 +1,7 @@
 # surprising 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surprising.md)
+
 <p><span class="chinese">我觉得这确实出人意外。</span><span class="english">I find it really surprising.</span></p>
 
 <p><span class="chinese">他的发现令人惊讶。</span><span class="english">What he found was surprising.</span></p>

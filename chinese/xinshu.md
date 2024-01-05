@@ -1,5 +1,7 @@
 # 心术
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinshu.md)
+
 <p><span class="chinese">动物传心术，灵气治疗及宠物褓姆。</span><span class="english">Animal communication, Reiki healing and pet nanny.</span></p>
 
 <p><span class="chinese">不好心术，师长教师-，您是说您丢了房间的钥匙？</span><span class="english">Excuse me- sir. Do you meany kind of you lost your room key?</span></p>

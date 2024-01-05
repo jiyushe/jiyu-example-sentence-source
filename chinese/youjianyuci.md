@@ -1,5 +1,7 @@
 # 有鉴于此
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youjianyuci.md)
+
 <p><span class="chinese">有见地！小弟就是有鉴于此，这次破釜沉舟。</span><span class="english">Sure! Because of that I tried to risk for the last time.</span></p>
 
 <p><span class="chinese">有鉴于此，该公司开始实行灵活的工作时间和轮班制。</span><span class="english">So Aflac started offering flexible schedules and job sharing.</span></p>

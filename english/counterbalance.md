@@ -1,5 +1,7 @@
 # counterbalance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/counterbalance.md)
+
 <p><span class="chinese">那两个秤锤互成平衡。</span><span class="english">The two weights counterbalance each other.</span></p>
 
 <p><span class="chinese">必须定期检查大钳平衡铊的吊绳。</span><span class="english">L. The rig tong counterbalance line must be inspected at a regular interval.</span></p>

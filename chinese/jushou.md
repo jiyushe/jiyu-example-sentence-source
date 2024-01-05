@@ -1,5 +1,7 @@
 # 据守
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jushou.md)
+
 <p><span class="chinese">韩珊坐在山崖下的河水边，昼夜据守。</span><span class="english">HanShan sitting under the cliff edge, night and day, JuShou river.</span></p>
 
 <p><span class="chinese">第五新西兰旅在该山口死守了三天，这是必须据守的三天。</span><span class="english">The pass was sternly defended for the necessary three days by the 5th new zealand brigade.</span></p>

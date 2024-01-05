@@ -1,5 +1,7 @@
 # ged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ged.md)
+
 <p><span class="chinese">那么告诉我你的真名。</span><span class="english">I am named Ged. And you?</span></p>
 
 <p><span class="chinese">船紧靠着岸边而行。</span><span class="english">The boat hug ged the coast.</span></p>

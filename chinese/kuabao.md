@@ -1,5 +1,7 @@
 # 挎包
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuabao.md)
+
 <p><span class="chinese">我的挎包是随身行李。</span><span class="english">My shoulder bag is carry-on luggage.</span></p>
 
 <p><span class="chinese">就这个箱子。我的挎包是随身携带行李。</span><span class="english">Just a suitcase. My shoulder bag is carry-on luggage.</span></p>

@@ -1,5 +1,7 @@
 # tel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tel.md)
+
 <p><span class="chinese">让我来告诉你及时行乐的重要。</span><span class="english">Let me tel you about carpe diem.</span></p>
 
 <p><span class="chinese">史记出生于北特拉维夫。</span><span class="english">Sagi was born in North Tel Aviv.</span></p>

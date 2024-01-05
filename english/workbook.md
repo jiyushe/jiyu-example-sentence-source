@@ -1,5 +1,7 @@
 # workbook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/workbook.md)
+
 <p><span class="chinese">订正练习册1-55页需要订正的错误处。</span><span class="english">Correct pages 1-55 in your workbook.</span></p>
 
 <p><span class="chinese">他的作业本塞在了窗缝里。</span><span class="english">His workbook is wedged in the window.</span></p>

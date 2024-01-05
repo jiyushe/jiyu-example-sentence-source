@@ -1,5 +1,7 @@
 # savvy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/savvy.md)
+
 <p><span class="chinese">托尼来了，你知道吗?</span><span class="english">Tony's coming, do you savvy?</span></p>
 
 <p><span class="chinese">我所说的网络通具体指的是什么呢？</span><span class="english">What do I mean by web savvy?</span></p>

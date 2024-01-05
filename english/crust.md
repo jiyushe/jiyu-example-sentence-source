@@ -1,5 +1,7 @@
 # crust
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crust.md)
+
 <p><span class="chinese">远在地壳之下。</span><span class="english">Far ' neath the earth crust.</span></p>
 
 <p><span class="chinese">一些海鲜和锅巴。</span><span class="english">Some seafood and fried rice crust.</span></p>

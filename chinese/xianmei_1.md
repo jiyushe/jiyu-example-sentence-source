@@ -1,5 +1,7 @@
 # 鲜美
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianmei_1.md)
+
 <p><span class="chinese">这道菜非常鲜美可口。</span><span class="english">This course is quite palatable.</span></p>
 
 <p><span class="chinese">你是否希望吃上一盘鲜美的鱼？</span><span class="english">Do you love all kinds of seafood?</span></p>

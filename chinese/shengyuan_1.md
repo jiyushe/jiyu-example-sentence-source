@@ -1,5 +1,7 @@
 # 声源
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengyuan_1.md)
+
 <p><span class="chinese">发射机是声源发射机。</span><span class="english">Transmitter is the sound transmitter.</span></p>
 
 <p><span class="chinese">,这个声源，发射机靠近你们。</span><span class="english">the sound source, the transmitter is coming to you.</span></p>

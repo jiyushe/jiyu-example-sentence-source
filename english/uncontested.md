@@ -1,5 +1,7 @@
 # uncontested
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncontested.md)
+
 <p><span class="chinese">她说，一个无争议的离婚案件现在要花半年时间。</span><span class="english">An uncontested divorce now takes about half a year, she says.</span></p>
 
 <p><span class="chinese">非洲、拉丁美洲和加勒比组的席位没有竞争。</span><span class="english">The seats for Africa and Latin America and the Caribbean were uncontested.</span></p>

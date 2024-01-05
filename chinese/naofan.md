@@ -1,5 +1,7 @@
 # 闹翻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naofan.md)
+
 <p><span class="chinese">她和她丈夫闹翻了。</span><span class="english">She is out with her husband.</span></p>
 
 <p><span class="chinese">他们一会儿和好，一会儿闹翻，一天有上十次。</span><span class="english">They fall in and out ten times a day.</span></p>

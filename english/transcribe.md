@@ -1,5 +1,7 @@
 # transcribe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transcribe.md)
+
 <p><span class="chinese">记录并转录会议纪要。</span><span class="english">Record and transcribe minutes of meetings.</span></p>
 
 <p><span class="chinese">我们都努力抄写这些信息。</span><span class="english">We are working to transcribe both of these messages.</span></p>

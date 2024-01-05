@@ -1,5 +1,7 @@
 # scallop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scallop.md)
+
 <p><span class="chinese">想家的病只能煮粥来安抚！</span><span class="english">Drt scallop congee for home sick!</span></p>
 
 <p><span class="chinese">虾，雪蟹，带壳扇贝，蛤蜊。</span><span class="english">Shrimp, snow crab, and scallop in shell, clam.</span></p>

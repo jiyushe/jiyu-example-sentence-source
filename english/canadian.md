@@ -1,5 +1,7 @@
 # canadian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canadian.md)
+
 <p><span class="chinese">我喜欢做一个加拿大人。</span><span class="english">I love being a Canadian.</span></p>
 
 <p><span class="chinese">我喜欢做一个加拿大人。</span><span class="english">I do love being a Canadian.</span></p>

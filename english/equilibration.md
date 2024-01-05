@@ -1,5 +1,7 @@
 # equilibration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equilibration.md)
+
 <p><span class="chinese">有9篇没有比较组间的均衡性。</span><span class="english">Still another 9 didn' t compare the interclass equilibration.</span></p>
 
 <p><span class="chinese">你可以根据梯度范围等比的调整重新平衡时间。</span><span class="english">You can adjust the equilibration time in proportion to the gradient range.</span></p>

@@ -1,5 +1,7 @@
 # 力图
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/litu.md)
+
 <p><span class="chinese">他力图说出他的感受。</span><span class="english">He tried to vocalize his feelings.</span></p>
 
 <p><span class="chinese">作者似乎在力图标新立异。</span><span class="english">The author seems to strain after novelty.</span></p>

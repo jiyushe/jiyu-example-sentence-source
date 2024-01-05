@@ -1,5 +1,7 @@
 # lyceum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lyceum.md)
+
 <p><span class="chinese">亚里士多德创建了自己的流派，叫作学园派。</span><span class="english">Aristotle founded his own school, the lyceum.</span></p>
 
 <p><span class="chinese">但是，正确的科学名称，学园枸杞。</span><span class="english">However, the correct scientific name is, Lyceum Barbarum.</span></p>

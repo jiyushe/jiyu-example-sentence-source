@@ -1,5 +1,7 @@
 # unstained
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unstained.md)
+
 <p><span class="chinese">他纯洁，没有罪的污垢。</span><span class="english">It is pure and unstained by sin.</span></p>
 
 <p><span class="chinese">而你的正是纯洁无瑕的初春。</span><span class="english">And thou present'st a pure unstained prime.</span></p>

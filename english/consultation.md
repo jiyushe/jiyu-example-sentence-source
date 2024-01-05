@@ -1,5 +1,7 @@
 # consultation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consultation.md)
+
 <p><span class="chinese">医生会诊的结果？</span><span class="english">The consultation of Doctor Combi?</span></p>
 
 <p><span class="chinese">一个好处是理财咨询。</span><span class="english">One privilege is financing consultation.</span></p>

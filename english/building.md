@@ -1,5 +1,7 @@
 # building
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/building.md)
+
 <p><span class="chinese">你跳楼啦。</span><span class="english">You jump building.</span></p>
 
 <p><span class="chinese">在船台上。</span><span class="english">On the building berth.</span></p>

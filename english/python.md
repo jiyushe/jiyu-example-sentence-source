@@ -1,5 +1,7 @@
 # python
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/python.md)
+
 <p><span class="chinese">渔民网到一条20英尺长的蟒蛇。</span><span class="english">They had caught a 20-foot python.</span></p>
 
 <p><span class="chinese">来访问这些变量。</span><span class="english">Unfortunately, Python doesn't do this.</span></p>

@@ -1,5 +1,7 @@
 # southerly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/southerly.md)
+
 <p><span class="chinese">温和的偏南风。</span><span class="english">Moderate southerly winds.</span></p>
 
 <p><span class="chinese">再给它们两天南方的气候</span><span class="english">give them another two more southerly days</span></p>

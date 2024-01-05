@@ -1,5 +1,7 @@
 # chalcedony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chalcedony.md)
+
 <p><span class="chinese">玉髓是本指南中列出自己的专用。</span><span class="english">Chalcedony is in this guide to list your special.</span></p>
 
 <p><span class="chinese">还发现了铁矿中玉髓的似生物结构。</span><span class="english">Some fossil-like structures were also found in the chalcedony.</span></p>

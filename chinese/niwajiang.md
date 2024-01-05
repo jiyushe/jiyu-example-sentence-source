@@ -1,5 +1,7 @@
 # 泥瓦匠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niwajiang.md)
+
 <p><span class="chinese">他骑脚踏车去叫泥瓦匠。</span><span class="english">He pedaled off to summon a mason.</span></p>
 
 <p><span class="chinese">他骑脚踏车去叫泥瓦匠。</span><span class="english">He pedalled off to summon a mason.</span></p>

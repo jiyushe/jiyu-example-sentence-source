@@ -1,5 +1,7 @@
 # reload
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reload.md)
+
 <p><span class="chinese">在索姆固定的问题加载吗？</span><span class="english">Fixed problem in somes reload?</span></p>
 
 <p><span class="chinese">提高上弹速度和弹夹容量。</span><span class="english">Advanced reload speed and capacity.</span></p>

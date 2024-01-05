@@ -1,5 +1,7 @@
 # intermittence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intermittence.md)
+
 <p><span class="chinese">孩子间歇性斜视是什么病？</span><span class="english">What disease is child intermittence strabismus?</span></p>
 
 <p><span class="chinese">声音时断时续，我意识到那是雁鸣声。</span><span class="english">The voice intermittence , then I realize that it's honking.</span></p>

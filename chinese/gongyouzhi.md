@@ -1,5 +1,7 @@
 # 公有制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongyouzhi.md)
+
 <p><span class="chinese">那么，公有制社会的今天。</span><span class="english">But today in the communistic society.</span></p>
 
 <p><span class="chinese">坚持公有制为主导的所有制结构。</span><span class="english">Adhere to the ownership structure dominated by public ownership.</span></p>

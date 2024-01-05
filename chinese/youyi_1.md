@@ -1,5 +1,7 @@
 # 友谊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youyi_1.md)
+
 <p><span class="chinese">愿友谊地久天长！</span><span class="english">Long live the friendship!</span></p>
 
 <p><span class="chinese">友谊时间表雷打不动。</span><span class="english">Make time for friendships.</span></p>

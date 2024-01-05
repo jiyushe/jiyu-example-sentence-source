@@ -1,5 +1,7 @@
 # antigravity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antigravity.md)
+
 <p><span class="chinese">反重力等离子，磁力场</span><span class="english">Antigravity Plasma, Magnetic force fields</span></p>
 
 <p><span class="chinese">围巾男子，神秘景点和反吸引力山只是开始。</span><span class="english">Muffler men, mystery spots and antigravity hills are just the beginning.</span></p>

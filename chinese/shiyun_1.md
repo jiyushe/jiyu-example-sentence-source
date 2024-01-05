@@ -1,5 +1,7 @@
 # 诗韵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyun_1.md)
+
 <p><span class="chinese">李诗韵来自于加利福尼亚州的费尔奥克斯。</span><span class="english">Selena Li is from Fair Oaks, California.</span></p>
 
 <p><span class="chinese">诗韵之于诗歌犹如“文”之于“言”。</span><span class="english">The rhyme is more important to the poetry.</span></p>

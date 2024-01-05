@@ -1,5 +1,7 @@
 # 夫婿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuxu.md)
+
 <p><span class="chinese">她不敢去唤醒她夫婿。</span><span class="english">She was afraid to wake her husband.</span></p>
 
 <p><span class="chinese">我夫婿昂首看了看，说“母亲来了？”</span><span class="english">My husband looked up and said, 'Mom's here?'</span></p>

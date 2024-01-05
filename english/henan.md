@@ -1,5 +1,7 @@
 # henan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/henan.md)
+
 <p><span class="chinese">是为河南龙氏。</span><span class="english">Is the Henan dragon's.</span></p>
 
 <p><span class="chinese">河南曲剧是一门综合性戏曲艺术。</span><span class="english">Henan Opera is a comprehensive art.</span></p>

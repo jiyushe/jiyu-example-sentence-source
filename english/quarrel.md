@@ -1,5 +1,7 @@
 # quarrel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quarrel.md)
+
 <p><span class="chinese">又吵架了？</span><span class="english">Quarrel again?</span></p>
 
 <p><span class="chinese">他平息了那次争吵。</span><span class="english">He stilled the quarrel.</span></p>

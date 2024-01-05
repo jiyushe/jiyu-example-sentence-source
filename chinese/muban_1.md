@@ -1,5 +1,7 @@
 # 木版
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muban_1.md)
+
 <p><span class="chinese">连做一块木版都要四十二天。</span><span class="english">Even do forty-two days a piece of wood.</span></p>
 
 <p><span class="chinese">当时的文字是写在表面涂蜡的木版上的。</span><span class="english">Writing in those days was done on wax-coated tablets made of wood.</span></p>

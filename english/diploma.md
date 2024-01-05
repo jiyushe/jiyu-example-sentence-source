@@ -1,5 +1,7 @@
 # diploma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diploma.md)
+
 <p><span class="chinese">我拿到文凭了。</span><span class="english">I got the diploma.</span></p>
 
 <p><span class="chinese">你有大学文凭吗？</span><span class="english">Have you got University Diploma?</span></p>

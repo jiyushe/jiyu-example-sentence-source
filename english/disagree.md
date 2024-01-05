@@ -1,5 +1,7 @@
 # disagree
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disagree.md)
+
 <p><span class="chinese">我却不同意。</span><span class="english">I disagree.</span></p>
 
 <p><span class="chinese">或者你不同意？</span><span class="english">Do you disagree?</span></p>

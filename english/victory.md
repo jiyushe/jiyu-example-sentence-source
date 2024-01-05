@@ -1,5 +1,7 @@
 # victory 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/victory.md)
+
 <p><span class="chinese">我以我翔向胜利。</span><span class="english">I soar to victory.</span></p>
 
 <p><span class="chinese">胜利就在手边！</span><span class="english">Victory is at hand!</span></p>

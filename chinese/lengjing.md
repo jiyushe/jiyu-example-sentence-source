@@ -1,5 +1,7 @@
 # 冷静
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengjing.md)
+
 <p><span class="chinese">杰克沈著冷静。</span><span class="english">Jack is cold.</span></p>
 
 <p><span class="chinese">“我并不自私，”布里森登冷静地笑了。</span><span class="english">I'm not selfish.</span></p>

@@ -1,5 +1,7 @@
 # photogrammetric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photogrammetric.md)
+
 <p><span class="chinese">承接各类测绘项目。</span><span class="english">Services for conventional photogrammetric and mapping projects.</span></p>
 
 <p><span class="chinese">这里对数字摄影测量中的若干关键技术进行了研究和改进。</span><span class="english">It researches and improves several key parts of photogrammetric technology.</span></p>

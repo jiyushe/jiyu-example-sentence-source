@@ -1,5 +1,7 @@
 # inconsistent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inconsistent.md)
+
 <p><span class="chinese">体例前后不一致。</span><span class="english">The style is inconsistent.</span></p>
 
 <p><span class="chinese">不一致的且无来龙去脉的共享</span><span class="english">Inconsistent and context-less sharing</span></p>

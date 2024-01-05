@@ -1,5 +1,7 @@
 # 如下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruxia.md)
+
 <p><span class="chinese">这里列举10个如下。</span><span class="english">Here are 10 of them.</span></p>
 
 <p><span class="chinese">全文如下。</span><span class="english">The full text follows.</span></p>

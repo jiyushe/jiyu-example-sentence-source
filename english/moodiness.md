@@ -1,5 +1,7 @@
 # moodiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moodiness.md)
+
 <p><span class="chinese">他学会了忍受她的喜怒无常。</span><span class="english">He has learnt to live with her moodiness.</span></p>
 
 <p><span class="chinese">我认为法国人的浪漫性格被误解了。</span><span class="english">I think our romantic moodiness is misunderstood.</span></p>

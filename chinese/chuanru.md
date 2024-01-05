@@ -1,5 +1,7 @@
 # 传入
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuanru.md)
+
 <p><span class="chinese">伊斯兰教1153年传入。</span><span class="english">Islam was introduced in 1153.</span></p>
 
 <p><span class="chinese">没有对传入隐藏的短信铃声。</span><span class="english">No ringtone on incoming hidden SMS.</span></p>

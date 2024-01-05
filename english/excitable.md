@@ -1,5 +1,7 @@
 # excitable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excitable.md)
+
 <p><span class="chinese">哎呀，他是容易激动的那类人。</span><span class="english">Gee, he's an excitable type.</span></p>
 
 <p><span class="chinese">他性情易兴奋。</span><span class="english">He is excitable by temperament.</span></p>

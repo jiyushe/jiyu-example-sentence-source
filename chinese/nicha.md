@@ -1,5 +1,7 @@
 # 逆差
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nicha.md)
+
 <p><span class="chinese">贸易逆差有升有降，这很正常。</span><span class="english">It goes up, it goes down.</span></p>
 
 <p><span class="chinese">美国需要削减他的贸易逆差，中国则对外贸易过剩。</span><span class="english">The US needs to cut its trade deficit, China its surplus.</span></p>

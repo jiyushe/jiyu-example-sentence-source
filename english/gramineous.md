@@ -1,5 +1,7 @@
 # gramineous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gramineous.md)
+
 <p><span class="chinese">赖草属是多年生禾本科植物，在中国的分布地域较为广泛。</span><span class="english">Leymus is a perennial gramineous plant that widely spreads in China.</span></p>
 
 <p><span class="chinese">茭白属于禾本科多年生宿根沼泽草本植物。</span><span class="english">Wild rice stem belongs to herb of marsh of gramineous vivacious perennial root.</span></p>

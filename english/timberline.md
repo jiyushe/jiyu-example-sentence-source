@@ -1,5 +1,7 @@
 # timberline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/timberline.md)
+
 <p><span class="chinese">林木线以上清凉泉水。</span><span class="english">A cool spring above the timberline.</span></p>
 
 <p><span class="chinese">在美国西部廷伯莱恩行李。</span><span class="english">Timberline luggage in " the " western United States.</span></p>

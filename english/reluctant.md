@@ -1,5 +1,7 @@
 # reluctant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reluctant.md)
+
 <p><span class="chinese">人们动摇了。</span><span class="english">People were reluctant.</span></p>
 
 <p><span class="chinese">他是不情愿做天才。</span><span class="english">And he was a reluctant genius.</span></p>

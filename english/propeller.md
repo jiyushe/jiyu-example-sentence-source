@@ -1,5 +1,7 @@
 # propeller
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/propeller.md)
+
 <p><span class="chinese">我们船有固定螺距螺旋桨。</span><span class="english">We have fixed pitch propeller.</span></p>
 
 <p><span class="chinese">螺旋桨是固定螺距。</span><span class="english">We have a fixed pitch propeller.</span></p>

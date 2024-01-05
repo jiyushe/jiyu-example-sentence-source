@@ -1,5 +1,7 @@
 # 灾星
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaixing_1.md)
+
 <p><span class="chinese">也许，我真是个灾星。</span><span class="english">Maybe I was a time.</span></p>
 
 <p><span class="chinese">我是个可悲的灾星。</span><span class="english">I'm a pathetic disaster.</span></p>

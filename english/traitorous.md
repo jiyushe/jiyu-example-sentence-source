@@ -1,5 +1,7 @@
 # traitorous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/traitorous.md)
+
 <p><span class="chinese">他的叛变活动使他受到军法审判。</span><span class="english">His traitorous activity got him court-martialed.</span></p>
 
 <p><span class="chinese">她对爱情的表达是大胆的、叛逆的。</span><span class="english">Her expressions towards love were bold and traitorous.</span></p>

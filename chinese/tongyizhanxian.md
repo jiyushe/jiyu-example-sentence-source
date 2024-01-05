@@ -1,5 +1,7 @@
 # 统一战线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongyizhanxian.md)
+
 <p><span class="chinese">因此，建立统一战线很有必要。</span><span class="english">A united front is, therefore, essential.</span></p>
 
 <p><span class="chinese">大团结、大联合与共同奋斗是统一战线的主题。</span><span class="english">Its themes are uniting, consolidation and joint struggle.</span></p>

@@ -1,5 +1,7 @@
 # 泥土
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nitu.md)
+
 <p><span class="chinese">冰把泥土冻实了。</span><span class="english">Ice bound the earth.</span></p>
 
 <p><span class="chinese">由理生是一块泥土。</span><span class="english">Urizen is a clod of clay!</span></p>

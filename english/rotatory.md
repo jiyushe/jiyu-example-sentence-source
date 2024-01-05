@@ -1,5 +1,7 @@
 # rotatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rotatory.md)
+
 <p><span class="chinese">回转式双重洗涤系统。</span><span class="english">Rotatory Dual Washing System.</span></p>
 
 <p><span class="chinese">旋光玻璃的主要性质为费尔德常数。</span><span class="english">The main property of Faraday rotatory glass is the Verdet constant.</span></p>

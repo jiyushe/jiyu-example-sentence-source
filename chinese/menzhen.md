@@ -1,5 +1,7 @@
 # 门诊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/menzhen.md)
+
 <p><span class="chinese">但要是你讨厌门诊环境，</span><span class="english">but if you hate being in it,</span></p>
 
 <p><span class="chinese">我想看专家门诊。</span><span class="english">I want to see the specialist.</span></p>

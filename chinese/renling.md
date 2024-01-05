@@ -1,5 +1,7 @@
 # 认领
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renling.md)
+
 <p><span class="chinese">我掉了认领标签了。</span><span class="english">I lost my claim tag.</span></p>
 
 <p><span class="chinese">有人认领这件行李吗?</span><span class="english">Does anyone claim this luggage?</span></p>

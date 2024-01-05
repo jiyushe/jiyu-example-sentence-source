@@ -1,5 +1,7 @@
 # composite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/composite.md)
+
 <p><span class="chinese">它们是合成的。</span><span class="english">They are composite.</span></p>
 
 <p><span class="chinese">合成的东西能够被毁掉。</span><span class="english">Composite things can be destroyed.</span></p>

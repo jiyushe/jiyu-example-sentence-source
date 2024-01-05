@@ -1,5 +1,7 @@
 # transship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transship.md)
+
 <p><span class="chinese">货物如果转运，我们得多付运费。</span><span class="english">We have been able to transship cargoes at Hong Kong.</span></p>
 
 <p><span class="chinese">我们没有开往中国的航班，货物必须在悉尼转船。</span><span class="english">We don't have liners to China, we must transship the goods at Sydney.</span></p>

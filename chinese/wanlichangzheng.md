@@ -1,5 +1,7 @@
 # 万里长征
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanlichangzheng.md)
+
 <p><span class="chinese">BP只是迈出了万里长征的第一步。</span><span class="english">This is a first step in a very long journey.</span></p>
 
 <p><span class="chinese">这只是万里长征第一步，我们会大有作为的！</span><span class="english">This is just the first step. We're gonna be huge.</span></p>

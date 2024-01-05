@@ -1,5 +1,7 @@
 # breeder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breeder.md)
+
 <p><span class="chinese">病人是一名18岁男子，牛养殖者。</span><span class="english">He was an 18-year-old man, a cattle breeder.</span></p>
 
 <p><span class="chinese">第二个是伯特是一个胖的养畜者。</span><span class="english">The second one Bert was a fat stock breeder.</span></p>

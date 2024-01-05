@@ -1,5 +1,7 @@
 # leakage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leakage.md)
+
 <p><span class="chinese">泄露和消除。</span><span class="english">Leakage and removal.</span></p>
 
 <p><span class="chinese">有效防侧漏。</span><span class="english">Prevent side leakage.</span></p>

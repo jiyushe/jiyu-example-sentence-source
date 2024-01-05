@@ -1,5 +1,7 @@
 # ebony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ebony.md)
+
 <p><span class="chinese">黑檀树种黑而坚硬树木。</span><span class="english">Ebony is a hard black wood.</span></p>
 
 <p><span class="chinese">BBW乌木人称和热辣受骗的！</span><span class="english">BBW Ebony Hottie Fucked and Jizzed On!</span></p>

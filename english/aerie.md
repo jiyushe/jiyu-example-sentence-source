@@ -1,5 +1,7 @@
 # aerie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aerie.md)
+
 <p><span class="chinese">我们看到悬崖上有个鹰巢。</span><span class="english">We saw a hawk's aerie on the cliff.</span></p>
 
 <p><span class="chinese">虽然艾黎失去了她的翅膀，她找到了更重要的东西-的爱。</span><span class="english">And though she lost her wings , Aerie found something even more valuable.</span></p>

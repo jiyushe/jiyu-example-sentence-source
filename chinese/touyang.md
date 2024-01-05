@@ -1,5 +1,7 @@
 # 头羊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touyang.md)
+
 <p><span class="chinese">他们曾经丢失了45头羊和一条警卫犬。</span><span class="english">They had lost 45 sheep and a guard dog.</span></p>
 
 <p><span class="chinese">我记得有一只叫做杰克的小家伙，它的家族很优秀，它的祖父是我的头羊，名叫老阿比。</span><span class="english">I remember one little fellow. I named him Jake.</span></p>

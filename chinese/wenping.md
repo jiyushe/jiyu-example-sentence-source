@@ -1,5 +1,7 @@
 # 文凭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenping.md)
+
 <p><span class="chinese">我拿到文凭了。</span><span class="english">I got the diploma.</span></p>
 
 <p><span class="chinese">升级你的文凭。</span><span class="english">Upgrade your credentials.</span></p>

@@ -1,5 +1,7 @@
 # avian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avian.md)
+
 <p><span class="chinese">崇明东滩湿地鸟类群落的演替规律。</span><span class="english">The general rules of avian community succession.</span></p>
 
 <p><span class="chinese">已经发现至少有一种禽病的病原体。</span><span class="english">At least one avian disease pathogen has been found.</span></p>

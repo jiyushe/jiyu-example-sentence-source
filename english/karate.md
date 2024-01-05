@@ -1,5 +1,7 @@
 # karate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/karate.md)
+
 <p><span class="chinese">你还在继续空手道吗？</span><span class="english">Do you continue Karaté?</span></p>
 
 <p><span class="chinese">他是空手道黑带选手。</span><span class="english">He is a black belt in karate.</span></p>

@@ -1,5 +1,7 @@
 # theodolite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theodolite.md)
+
 <p><span class="chinese">这个方法也适合于一般具有竖盘符合水准器的经纬仪。</span><span class="english">This method is also suitable for the theodolite with a contract index level.</span></p>
 
 <p><span class="chinese">并估算了水准仪、经纬仪测滩结果的误差范围。</span><span class="english">And the error ranges of the measurements with theodolite and level are evaluated.</span></p>

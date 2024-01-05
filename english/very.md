@@ -1,5 +1,7 @@
 # very 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/very.md)
+
 <p><span class="chinese">不很饿。</span><span class="english">Not very.</span></p>
 
 <p><span class="chinese">非常大。</span><span class="english">Very big.</span></p>

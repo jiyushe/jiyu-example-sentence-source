@@ -1,5 +1,7 @@
 # buns
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buns.md)
+
 <p><span class="chinese">又是我去买叉烧包。</span><span class="english">I buy buns again.</span></p>
 
 <p><span class="chinese">三十八个豆沙包。</span><span class="english">Thirty-eight bean buns.</span></p>

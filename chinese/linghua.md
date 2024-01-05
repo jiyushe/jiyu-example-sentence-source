@@ -1,5 +1,7 @@
 # 零花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linghua.md)
+
 <p><span class="chinese">业余时间赚点零花。有意请联系！</span><span class="english">Please feel free to contact me!</span></p>
 
 <p><span class="chinese">妈妈给了他五块钱做零花。</span><span class="english">Mother gave him five yuan as pocket money.</span></p>

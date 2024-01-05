@@ -1,5 +1,7 @@
 # 支农
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhinong.md)
+
 <p><span class="chinese">支农政策调整对农业信贷资金运行既是机遇也是挑战。</span><span class="english">The adjustment is a challenge as well as an opportunity.</span></p>
 
 <p><span class="chinese">中央新增支农资金100亿元。</span><span class="english">Central finance has added 100 billion fund for agriculture.</span></p>

@@ -1,5 +1,7 @@
 # tedium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tedium.md)
+
 <p><span class="chinese">无聊，沉闷。</span><span class="english">The problem, of course, is boredom. The problem is tedium.</span></p>
 
 <p><span class="chinese">它是最轻的，你会觉得厌烦。</span><span class="english">Now, he's currently the smallest and you can feel the tedium.</span></p>

@@ -1,5 +1,7 @@
 # fluff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluff.md)
+
 <p><span class="chinese">让我把枕头拍松一下。</span><span class="english">Let me fluff the pillow.</span></p>
 
 <p><span class="chinese">还是柔软若鸭绒?。</span><span class="english">Or soft as eiderdown fluff?</span></p>

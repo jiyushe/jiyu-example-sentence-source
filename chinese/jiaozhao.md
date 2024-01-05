@@ -1,5 +1,7 @@
 # 脚爪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaozhao.md)
+
 <p><span class="chinese">我的脚爪像天鹅绒一般。</span><span class="english">See! My paws are velveted.</span></p>
 
 <p><span class="chinese">猫有着锋利的脚爪。</span><span class="english">Cats have very sharp claws.</span></p>

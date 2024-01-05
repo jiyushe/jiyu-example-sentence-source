@@ -1,5 +1,7 @@
 # antigenicity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antigenicity.md)
+
 <p><span class="chinese">表达产物具有良好的抗原性。</span><span class="english">The expressed product shows a specific antigenicity.</span></p>
 
 <p><span class="chinese">结论放射辐照处理降低异体神经的抗原性。</span><span class="english">Conclusion Radiation could decrease the antigenicity of homogenous nerve.</span></p>

@@ -1,5 +1,7 @@
 # disturb 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disturb_1.md)
+
 <p><span class="chinese">我打扰你了吗？</span><span class="english">Do I disturb you?</span></p>
 
 <p><span class="chinese">不要打扰我画圆！</span><span class="english">Do not disturb my circles.</span></p>

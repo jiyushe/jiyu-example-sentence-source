@@ -1,5 +1,7 @@
 # 内力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neili.md)
+
 <p><span class="chinese">它们都属于内力。</span><span class="english">That's all internal forces.</span></p>
 
 <p><span class="chinese">我们称为内力。</span><span class="english">We call them internal forces.</span></p>

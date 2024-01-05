@@ -1,5 +1,7 @@
 # 洪灾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongzai.md)
+
 <p><span class="chinese">它的目的是要治理母亲河长江的长年洪灾。</span><span class="english">It aims to make the mother of all floods.</span></p>
 
 <p><span class="chinese">那里有洪灾，我们要清理排水沟。</span><span class="english">There's a flood. We meed to clear the drains.</span></p>

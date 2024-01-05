@@ -1,5 +1,7 @@
 # donator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/donator.md)
+
 <p><span class="chinese">神经端侧缝合术对供体神经的功能无明显影响。</span><span class="english">The end-to-side neurorrhaphy do not impact palpably the function of donator.</span></p>
 
 <p><span class="chinese">这意味着所有捐赠者将在他们的账户上获得至少一枚邀请。</span><span class="english">That means every donator at least have 1 invite available sitting on their account.</span></p>

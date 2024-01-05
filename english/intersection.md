@@ -1,5 +1,7 @@
 # intersection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intersection.md)
+
 <p><span class="chinese">在十字路口右转。</span><span class="english">Turn right at this intersection.</span></p>
 
 <p><span class="chinese">你看到的是一个交叉点。</span><span class="english">What you see is an intersection.</span></p>

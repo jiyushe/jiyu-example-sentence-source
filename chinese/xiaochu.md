@@ -1,5 +1,7 @@
 # 消除
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaochu.md)
+
 <p><span class="chinese">张力消除。</span><span class="english">Tension eliminated.</span></p>
 
 <p><span class="chinese">泄露和消除。</span><span class="english">Leakage and removal.</span></p>

@@ -1,5 +1,7 @@
 # 添加
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianjia_1.md)
+
 <p><span class="chinese">添加描边。</span><span class="english">Add a Stroke.</span></p>
 
 <p><span class="chinese">添加标题。</span><span class="english">Add headings.</span></p>

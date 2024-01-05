@@ -1,5 +1,7 @@
 # 支流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiliu.md)
+
 <p><span class="chinese">第四条支流是幼发拉底。</span><span class="english">And the fourth river is Euphrates.</span></p>
 
 <p><span class="chinese">有好几条河都是恒河的支流。</span><span class="english">Several rivers are _ to the Ganges.</span></p>

@@ -1,5 +1,7 @@
 # 绝境
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juejing_1.md)
+
 <p><span class="chinese">你不会陷入绝境除非你选择那样！</span><span class="english">You are not trapped unless you choose to be!</span></p>
 
 <p><span class="chinese">他很无能已导致我们濒临绝境。</span><span class="english">His incompetence have bring us to the brink of ruin.</span></p>

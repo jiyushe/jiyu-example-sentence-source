@@ -1,5 +1,7 @@
 # 开初
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaichu.md)
+
 <p><span class="chinese">开初我讨厌如许。</span><span class="english">Early on, I hated it.</span></p>
 
 <p><span class="chinese">猎人开初走开。</span><span class="english">The hunter started to walk away.</span></p>

@@ -1,5 +1,7 @@
 # 街口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiekou_2.md)
+
 <p><span class="chinese">请在第三个十字街口停下来。</span><span class="english">Please stop at the third crossing.</span></p>
 
 <p><span class="chinese">他的车在十字街口处突然转弯了。</span><span class="english">His car swung round at the crisscross.</span></p>

@@ -1,5 +1,7 @@
 # 爵士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jueshi.md)
+
 <p><span class="chinese">一个爱尔兰的爵士迷！</span><span class="english">An Irish hipster!</span></p>
 
 <p><span class="chinese">您叫我，克劳德爵士？</span><span class="english">You rang, Sir Claud?</span></p>

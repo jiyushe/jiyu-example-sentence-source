@@ -1,5 +1,7 @@
 # 迫不得已
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pobudeyi.md)
+
 <p><span class="chinese">在你有某种感觉或者迫不得已的时候。</span><span class="english">When you felt like it, or had to.</span></p>
 
 <p><span class="chinese">将迫不得已而漫过岸堤。</span><span class="english">Perforce will force it overflow the bank.</span></p>

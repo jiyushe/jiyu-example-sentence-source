@@ -1,5 +1,7 @@
 # gawain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gawain.md)
+
 <p><span class="chinese">高文爵士是亚瑟王的外甥。</span><span class="english">Sir Gawain was Arthur’s nephew.</span></p>
 
 <p><span class="chinese">加文和巫婆婚礼是怎么样的？！</span><span class="english">What a wedding Gawain and the witch had!</span></p>

@@ -1,5 +1,7 @@
 # 臂膊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bibo.md)
+
 <p><span class="chinese">你的臂膊抱满，你的头发湿漉，我说不出。</span><span class="english">Your arms full, and your hair wet, I could not.</span></p>
 
 <p><span class="chinese">臂膊折了骨，使它避免任何震动。</span><span class="english">He puts it in splints to keep it from vibration.</span></p>

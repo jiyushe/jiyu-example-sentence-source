@@ -1,5 +1,7 @@
 # 同心同德
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongxintongde.md)
+
 <p><span class="chinese">看来他们对待事业专心一致，同心同德…。</span><span class="english">We seem to be in complete agreement on these procedures.</span></p>
 
 <p><span class="chinese">我感谢他们在这些困难的时期和我们同心同德。</span><span class="english">I thanked them for sticking with us during these bad times.</span></p>

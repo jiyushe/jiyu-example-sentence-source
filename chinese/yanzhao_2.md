@@ -1,5 +1,7 @@
 # 眼罩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanzhao_2.md)
+
 <p><span class="chinese">你觉得他会戴眼罩吗？</span><span class="english">Do you think he has an eyepatch?</span></p>
 
 <p><span class="chinese">那匹马不喜欢带眼罩。</span><span class="english">The horse dislike wearing blinkers.</span></p>

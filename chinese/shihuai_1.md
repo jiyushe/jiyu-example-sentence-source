@@ -1,5 +1,7 @@
 # 释怀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shihuai_1.md)
+
 <p><span class="chinese">可是,"你为何无法释怀"</span><span class="english">But, "why don't you get over this?"</span></p>
 
 <p><span class="chinese">当他释怀的时候，他的胃轻摇一打嗝。</span><span class="english">His stomach jiggled as he let off a belch.</span></p>

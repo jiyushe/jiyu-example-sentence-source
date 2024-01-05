@@ -1,5 +1,7 @@
 # turkey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turkey.md)
+
 <p><span class="chinese">买一个火鸡浇油管。</span><span class="english">Buy a turkey baster.</span></p>
 
 <p><span class="chinese">他们吃了火鸡吗？</span><span class="english">Did they eat turkey?</span></p>

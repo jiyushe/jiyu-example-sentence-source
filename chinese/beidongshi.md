@@ -1,5 +1,7 @@
 # 被动式
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beidongshi.md)
+
 <p><span class="chinese">他们以为培训仅仅是被动式的学习。</span><span class="english">In their minds, training means passive learning.</span></p>
 
 <p><span class="chinese">被动式红外传感器是用来检测对象的存在或占用。</span><span class="english">PIR Sensors are used to detect the presence or occupancy of an object.</span></p>

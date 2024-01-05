@@ -1,5 +1,7 @@
 # flippant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flippant.md)
+
 <p><span class="chinese">她给了他一个无礼的答复。</span><span class="english">She gave him a flippant answer.</span></p>
 
 <p><span class="chinese">他轻率的评论只是让法官更加愤怒。</span><span class="english">His flippant remarks only made the judge angrier.</span></p>

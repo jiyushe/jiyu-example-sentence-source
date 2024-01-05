@@ -1,5 +1,7 @@
 # bob
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bob.md)
+
 <p><span class="chinese">Bob耸了耸肩。</span><span class="english">Bob shrugged.</span></p>
 
 <p><span class="chinese">我感谢鲍勃。</span><span class="english">I thanked Bob.</span></p>

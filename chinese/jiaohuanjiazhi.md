@@ -1,5 +1,7 @@
 # 交换价值
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaohuanjiazhi.md)
+
 <p><span class="chinese">任何具有交换价值的占有物。</span><span class="english">Any possession that has value in an exchange.</span></p>
 
 <p><span class="chinese">文物是一种特殊商品，具有使用价值、交换价值和收藏价值。</span><span class="english">In which there is use value, exchange value and collection value.</span></p>

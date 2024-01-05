@@ -1,5 +1,7 @@
 # furtively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/furtively.md)
+
 <p><span class="chinese">两次我都是默默地暗吞苦果，偷偷地擦干眼泪。</span><span class="english">Twice I had to swallow hard and furtively dry the tears.</span></p>
 
 <p><span class="chinese">那样我们就不必通过电邮来偷偷摸摸的谈话。</span><span class="english">Then we would not have to furtively bye-mail conversation.</span></p>

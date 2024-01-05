@@ -1,5 +1,7 @@
 # 作协
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoxie.md)
+
 <p><span class="chinese">记者未能联系到中国作协置评。</span><span class="english">The Chinese Writers Association couldn't be reached for comment.</span></p>
 
 <p><span class="chinese">网络作家对申请入作协反响冷漠，为何？</span><span class="english">Network writer is made to applying for assist resonant inhospitality , why?</span></p>

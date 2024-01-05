@@ -1,5 +1,7 @@
 # steeliness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/steeliness.md)
+
 <p><span class="chinese">而阿布那双眼睛透露出来的冷峻表明，他真的不怎么在乎。</span><span class="english">A certain steeliness behind the eyes suggests he does not care much.</span></p>
 
 <p><span class="chinese">在球场之外，她把冷酷刚强的个性和毫不掩饰的女性特征惊人地融合在一起。</span><span class="english">When off court, she's a striking blend of steeliness and unabashed femininity.</span></p>

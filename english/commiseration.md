@@ -1,5 +1,7 @@
 # commiseration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commiseration.md)
+
 <p><span class="chinese">愿上帝怜悯我的敌人，因为我不会这样做！</span><span class="english">Wish commiseration my enemy of God, because I can't so do.</span></p>
 
 <p><span class="chinese">我并没有想获得任何同情，明白吗？</span><span class="english">I DO NOT want to eary any commiseration. Do you understand?</span></p>

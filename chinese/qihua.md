@@ -1,5 +1,7 @@
 # 企划
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qihua.md)
+
 <p><span class="chinese">我会终止这份企划案。</span><span class="english">I'll halt the project.</span></p>
 
 <p><span class="chinese">什么样的企划案？</span><span class="english">What kind of proposal is it?</span></p>

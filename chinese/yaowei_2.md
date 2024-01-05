@@ -1,5 +1,7 @@
 # 药味
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaowei_2.md)
+
 <p><span class="chinese">这药味很冲。</span><span class="english">This medicine has a strong smell.</span></p>
 
 <p><span class="chinese">糖衣掩盖了药片的药味。</span><span class="english">Sugar coating hides the taste of pills.</span></p>

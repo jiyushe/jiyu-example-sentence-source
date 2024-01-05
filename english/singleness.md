@@ -1,5 +1,7 @@
 # singleness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/singleness.md)
+
 <p><span class="chinese">我还没听说过谁因单身而死的。</span><span class="english">I've never heard of anyone dying of singleness.</span></p>
 
 <p><span class="chinese">去接受单身是一种胜利，而非一场失利。</span><span class="english">Accepting singleness is a victory, not a defeat.</span></p>

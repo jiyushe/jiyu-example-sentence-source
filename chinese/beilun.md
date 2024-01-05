@@ -1,5 +1,7 @@
 # 悖论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/beilun.md)
+
 <p><span class="chinese">这就是悖论所在。</span><span class="english">This is the paradox.</span></p>
 
 <p><span class="chinese">悖论不断深入。</span><span class="english">The paradox goes deeper.</span></p>

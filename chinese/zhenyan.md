@@ -1,5 +1,7 @@
 # 真言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenyan.md)
+
 <p><span class="chinese">酷酷的真言真语？</span><span class="english">Cool or True?</span></p>
 
 <p><span class="chinese">他有个一字真言，“可扩展的”。</span><span class="english">His one-word mantra is “scalable.”</span></p>

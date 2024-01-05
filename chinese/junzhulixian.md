@@ -1,5 +1,7 @@
 # 君主立宪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junzhulixian.md)
+
 <p><span class="chinese">对杨度的君主立宪思想进行总体评价。</span><span class="english">Overall evaluate Yang Du's constitutional monarchy idea.</span></p>
 
 <p><span class="chinese">这个君主立宪制国家的部分问题现在比以往更加明朗化了。</span><span class="english">The monarchy is now, more clearly than ever, part of the problem.</span></p>

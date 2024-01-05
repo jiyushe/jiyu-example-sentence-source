@@ -1,5 +1,7 @@
 # shorty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shorty.md)
+
 <p><span class="chinese">蜂蜜色的短衣放浪的棕色头发。</span><span class="english">Honey colored shorty with insane brown hair.</span></p>
 
 <p><span class="chinese">嫁给了本村一个姓冯的矬子。</span><span class="english">Married to the village of a surname von shorty.</span></p>

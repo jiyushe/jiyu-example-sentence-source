@@ -1,5 +1,7 @@
 # backplane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backplane.md)
+
 <p><span class="chinese">背板产品在营业收入中的比例？</span><span class="english">Percentage of revenue from backplane production.</span></p>
 
 <p><span class="chinese">55LQ2直流-直流转换器能插入标准的紧凑型PCI背板。</span><span class="english">The 55LQ2 plugs into a standard CompactPCI backplane.</span></p>

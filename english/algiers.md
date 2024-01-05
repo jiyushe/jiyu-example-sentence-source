@@ -1,5 +1,7 @@
 # algiers
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/algiers.md)
+
 <p><span class="chinese">阿尔及尔的礼拜日是最为不详。</span><span class="english">Algiers Sundays are among the most sinister.</span></p>
 
 <p><span class="chinese">阿尔及尔，夏天把人生的起点和终点展现给了我们。</span><span class="english">Summer betrays these beginnings and ends to us in Algiers.</span></p>

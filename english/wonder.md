@@ -1,5 +1,7 @@
 # wonder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wonder.md)
+
 <p><span class="chinese">你想知道原因。</span><span class="english">You wonder why.</span></p>
 
 <p><span class="chinese">我开始怀疑。</span><span class="english">I started to wonder.</span></p>

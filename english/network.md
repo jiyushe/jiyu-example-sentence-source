@@ -1,5 +1,7 @@
 # network 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/network.md)
+
 <p><span class="chinese">网络警察。</span><span class="english">Network Police.</span></p>
 
 <p><span class="chinese">语音网络?。</span><span class="english">VON? VOice Network?</span></p>

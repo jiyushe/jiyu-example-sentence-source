@@ -1,5 +1,7 @@
 # 誊写
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tengxie.md)
+
 <p><span class="chinese">随后录音被誊写出来作为分析的依据。</span><span class="english">Then the recordings were transcribed as the base for analysis.</span></p>
 
 <p><span class="chinese">来稿须誊写清楚、用字规范、内容属实。</span><span class="english">The copy should be clear, with correct characters and true content.</span></p>

@@ -1,5 +1,7 @@
 # fundamentalist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fundamentalist.md)
+
 <p><span class="chinese">比方说我是在德克萨斯的,一个非常宗派性的原教旨主义教会长大的。</span><span class="english">For example,I grew up in a very,very sectarian fundamentalist church in Texas.</span></p>
 
 <p><span class="chinese">他成为了詹森主义，当时一种基督教原教旨主义的信徒。</span><span class="english">He became a follower of Jansenism, a fundamentalist version of the Christianity of his day.</span></p>

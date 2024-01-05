@@ -1,5 +1,7 @@
 # graining
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/graining.md)
+
 <p><span class="chinese">头发像木纹也很明显，在其中的一些。</span><span class="english">Hair like graining is also evident in some of them.</span></p>
 
 <p><span class="chinese">我奋斗以轮胎木纹和缺乏夹子。</span><span class="english">I was struggling with tyre graining and lack of grip.</span></p>

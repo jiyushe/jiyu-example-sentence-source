@@ -1,5 +1,7 @@
 # traditional 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/traditional.md)
+
 <p><span class="chinese">谁使用传统医学？</span><span class="english">Who uses traditional medicine?</span></p>
 
 <p><span class="chinese">传统的三股桥梁。</span><span class="english">Traditional three-unit bridges.</span></p>

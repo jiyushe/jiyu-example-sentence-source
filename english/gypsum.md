@@ -1,5 +1,7 @@
 # gypsum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gypsum.md)
+
 <p><span class="chinese">他们的嘴里叼满了石膏。</span><span class="english">Their mouths were full of gypsum.</span></p>
 
 <p><span class="chinese">互相帮助，以搬运石膏。</span><span class="english">Helping each other to remove the gypsum.</span></p>

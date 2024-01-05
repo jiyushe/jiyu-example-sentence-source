@@ -1,5 +1,7 @@
 # 福地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fudi_3.md)
+
 <p><span class="chinese">世界在人类堕落之前本是一块福地。</span><span class="english">The world was blessed place before the Fall.</span></p>
 
 <p><span class="chinese">在某一处有一个新的世界，他们称之为福地。</span><span class="english">There is a world somewhere they call the promised land.</span></p>

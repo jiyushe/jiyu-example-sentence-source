@@ -1,5 +1,7 @@
 # perineum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perineum.md)
+
 <p><span class="chinese">怎样为白血病病人进行会阴护理?。</span><span class="english">How to Conduct Perineum Nursing for Leukemia Patients?</span></p>
 
 <p><span class="chinese">会阴也有弹性但是弹性力不如子宫。</span><span class="english">The perineum is also elastic but less so than the vagina.</span></p>

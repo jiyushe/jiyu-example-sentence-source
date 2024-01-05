@@ -1,5 +1,7 @@
 # glenn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glenn.md)
+
 <p><span class="chinese">格伦贝克的观点是来自他的信仰。</span><span class="english">Glenn Beck is coming from his faith.</span></p>
 
 <p><span class="chinese">约翰-葛伦是太空施行的先驱者。</span><span class="english">John Glenn was a pioneer in space travel.</span></p>

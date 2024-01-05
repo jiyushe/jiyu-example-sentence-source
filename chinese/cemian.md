@@ -1,5 +1,7 @@
 # 侧面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cemian.md)
+
 <p><span class="chinese">我曾经侧面打听过。</span><span class="english">I have inquired about it.</span></p>
 
 <p><span class="chinese">在一个外圈侧面。</span><span class="english">In one outer ring side face.</span></p>

@@ -1,5 +1,7 @@
 # pituitrin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pituitrin.md)
+
 <p><span class="chinese">垂体后叶是大咯血首选药物，止血效果好。</span><span class="english">Pituitrin is the first choice for large amount hemoptysis achieving good effects.</span></p>
 
 <p><span class="chinese">目的探讨垂体后叶素对腹腔镜输卵管切开取胚术患者预后的影响。</span><span class="english">Objective To explore the effect of pituitrin on the prognosis of patients with laparoscope salpingotomy.</span></p>

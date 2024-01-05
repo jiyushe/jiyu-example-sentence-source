@@ -1,5 +1,7 @@
 # holograph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/holograph.md)
+
 <p><span class="chinese">可以用胶片、全息图和光栅作为滤波片。</span><span class="english">Film, holograph and grating can be used as the filter.</span></p>
 
 <p><span class="chinese">这四个字，是马云当年亲笔题写的。</span><span class="english">These four characters, is Ma Yun's holograph inscribe.</span></p>

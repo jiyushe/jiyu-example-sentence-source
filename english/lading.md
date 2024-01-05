@@ -1,5 +1,7 @@
 # lading
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lading.md)
+
 <p><span class="chinese">这是提货单。</span><span class="english">This is bill of lading.</span></p>
 
 <p><span class="chinese">提单的种类繁多。</span><span class="english">There are many types of bills of lading.</span></p>

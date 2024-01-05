@@ -1,5 +1,7 @@
 # dns
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dns.md)
+
 <p><span class="chinese">DNS修改和域名解析有什么不同吗？</span><span class="english">DNS modification and DNS what differs?</span></p>
 
 <p><span class="chinese">我们无法通过您的域名进行域名解析验证！</span><span class="english">We cannot solve your domain name through DNS protocol.</span></p>

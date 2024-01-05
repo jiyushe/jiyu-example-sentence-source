@@ -1,5 +1,7 @@
 # emotionality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/emotionality.md)
+
 <p><span class="chinese">情感性是歌唱思维的内部动力。</span><span class="english">Emotionality is the inner motive of the thought-of-singing.</span></p>
 
 <p><span class="chinese">那人对关系到他家人的任何事没有感触。</span><span class="english">The man had no emotionality in anything concerning his family.</span></p>

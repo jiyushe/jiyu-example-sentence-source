@@ -1,5 +1,7 @@
 # 多种多样
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duozhongduoyang.md)
+
 <p><span class="chinese">艺术的形式是多种多样的。</span><span class="english">The forms of art are many and varied.</span></p>
 
 <p><span class="chinese">国家税的上缴方式多种多样。</span><span class="english">There are various ways to pay state tax.</span></p>

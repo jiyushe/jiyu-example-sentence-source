@@ -1,5 +1,7 @@
 # whose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whose.md)
+
 <p><span class="chinese">谁的手？</span><span class="english">Whose hand?</span></p>
 
 <p><span class="chinese">那是谁的呢？</span><span class="english">Whose is that?</span></p>

@@ -1,5 +1,7 @@
 # tusk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tusk.md)
+
 <p><span class="chinese">别自悲，暴牙很好！</span><span class="english">Fasten from Bei, tusk is very good!</span></p>
 
 <p><span class="chinese">他书房的墙上装饰着一支巨大的象牙。</span><span class="english">A huge tusk decorated the wall of his study.</span></p>

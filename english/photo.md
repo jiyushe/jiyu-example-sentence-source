@@ -1,5 +1,7 @@
 # photo 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photo.md)
+
 <p><span class="chinese">看看那张照片吧。</span><span class="english">Look at that photo.</span></p>
 
 <p><span class="chinese">哦，看看这幅照片。</span><span class="english">Oh, see this photo.</span></p>

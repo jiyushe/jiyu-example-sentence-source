@@ -1,5 +1,7 @@
 # identify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/identify.md)
+
 <p><span class="chinese">确定关键链。</span><span class="english">Identify key chain.</span></p>
 
 <p><span class="chinese">我们何时可以指认他们？</span><span class="english">When can we identify them?</span></p>

@@ -1,5 +1,7 @@
 # 重刑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongxing_5.md)
+
 <p><span class="chinese">这么一个无辜的女孩怎么会是重刑犯？</span><span class="english">How could such an innocent girl be a prisoner?</span></p>
 
 <p><span class="chinese">法官对罪犯作出了重刑判决。</span><span class="english">The judge gave the criminal a severe sentence.</span></p>

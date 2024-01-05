@@ -1,5 +1,7 @@
 # 炮眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paoyan.md)
+
 <p><span class="chinese">下层炮眼已淹没在水里。</span><span class="english">The lower gun-ports were now below water.</span></p>
 
 <p><span class="chinese">窗户是个炮眼，墙壁异乎寻常的厚。</span><span class="english">The window was an embrasure in an enormously thick wall.</span></p>

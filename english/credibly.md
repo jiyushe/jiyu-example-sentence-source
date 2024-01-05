@@ -1,5 +1,7 @@
 # credibly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/credibly.md)
+
 <p><span class="chinese">一个高效的网管软件是网络运行的可靠保证。</span><span class="english">An effective management software ensures network to run credibly.</span></p>
 
 <p><span class="chinese">SL-2在现场工作稳定可靠，监测效果良好。</span><span class="english">SL-2 works stably and credibly. The effect of application is identified well.</span></p>

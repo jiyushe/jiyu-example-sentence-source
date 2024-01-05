@@ -1,5 +1,7 @@
 # 公制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongzhi.md)
+
 <p><span class="chinese">公制术语定义的长度单位。</span><span class="english">A metric unit of area equal to10 ares.</span></p>
 
 <p><span class="chinese">公制或英制读反可用。</span><span class="english">Metric or imperial reading counter available.</span></p>

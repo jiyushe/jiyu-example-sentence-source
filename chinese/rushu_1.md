@@ -1,5 +1,7 @@
 # 如数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rushu_1.md)
+
 <p><span class="chinese">就是罪人也借给罪人，要如数收回。</span><span class="english">Even 'sinners' love those who love them.</span></p>
 
 <p><span class="chinese">他履行了他的诺言，把钱如数归还。</span><span class="english">He kept his word and returned all the money.</span></p>

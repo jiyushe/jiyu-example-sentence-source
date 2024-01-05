@@ -1,5 +1,7 @@
 # blustering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blustering.md)
+
 <p><span class="chinese">暴风夜，兆睛天。</span><span class="english">A blustering night, a fair day.</span></p>
 
 <p><span class="chinese">恐吓地或轻蔑地讲话。</span><span class="english">To intimidate or dominate in a blustering way.</span></p>

@@ -1,5 +1,7 @@
 # 飞扬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feiyang.md)
+
 <p><span class="chinese">阵雨涤荡了空中飞扬的灰尘。</span><span class="english">The shower laid the dust.</span></p>
 
 <p><span class="chinese">一场阵雨于尘埃不再飞扬。</span><span class="english">A shower has laid the dust.</span></p>

@@ -1,5 +1,7 @@
 # 实习
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shixi_1.md)
+
 <p><span class="chinese">不，我只是来实习…</span><span class="english">No, I'm just interning.</span></p>
 
 <p><span class="chinese">我做过很多实习，</span><span class="english">I did a lot of internships</span></p>

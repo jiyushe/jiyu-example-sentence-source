@@ -1,5 +1,7 @@
 # tula
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tula.md)
+
 <p><span class="chinese">在俄国，黑金镶嵌制品被称为图拉工艺品。</span><span class="english">In Russia niello work is known as Tula work.</span></p>
 
 <p><span class="chinese">该炮由图拉机械设计局研制。</span><span class="english">The gun is supplied by the Instrument Design Bureau in Tula.</span></p>

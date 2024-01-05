@@ -1,5 +1,7 @@
 # gaussian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gaussian.md)
+
 <p><span class="chinese">一种随机的一种均匀分布和一种高斯分布。</span><span class="english">A random-- a uniform, and a Gaussian.</span></p>
 
 <p><span class="chinese">预计算高斯距离权重。</span><span class="english">Pre-compute Gaussian distance weights.</span></p>

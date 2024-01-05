@@ -1,5 +1,7 @@
 # vermiform
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vermiform.md)
+
 <p><span class="chinese">蠕虫形状的阑尾悬垂于大肠和小肠之间，是有著盲端的湿滑囊腔。</span><span class="english">The vermiform appendix is a slimy dead-end sac that hangs between the small and large intestines.</span></p>
 
 <p><span class="chinese">子宫内膜异位引致阑尾套叠，是一非常罕见的临床现象。</span><span class="english">Invagination of the vermiform appendix due to endometriosis is a very uncommon clinical phenomenon.</span></p>

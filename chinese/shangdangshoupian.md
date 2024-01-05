@@ -1,5 +1,7 @@
 # 上当受骗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangdangshoupian.md)
+
 <p><span class="chinese">我怎么才能避免上当受骗？</span><span class="english">How can I avoid getting stung?</span></p>
 
 <p><span class="chinese">如果你上当受骗，那真是个大问题。</span><span class="english">It's a big problem if you get scammed.</span></p>

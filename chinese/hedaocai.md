@@ -1,5 +1,7 @@
 # 喝倒彩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hedaocai.md)
+
 <p><span class="chinese">他甚至被喝倒彩。</span><span class="english">He even got booed.</span></p>
 
 <p><span class="chinese">观众向那个演员喝倒彩。</span><span class="english">The audience hooted the actor.</span></p>

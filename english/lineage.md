@@ -1,5 +1,7 @@
 # lineage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lineage.md)
+
 <p><span class="chinese">血统被传递种马边。</span><span class="english">Lineage is passed on the stallion side.</span></p>
 
 <p><span class="chinese">婚姻大体上是为了保险和繁衍。</span><span class="english">Marriage mostly was for security and lineage.</span></p>

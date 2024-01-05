@@ -1,5 +1,7 @@
 # subpleural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subpleural.md)
+
 <p><span class="chinese">胸膜下蜂窝囊泡可见于数个相邻层面。</span><span class="english">Subpleural honeycomb cysts typically occur in several contiguous layers.</span></p>
 
 <p><span class="chinese">轻度的蜂窝肺可见胸膜下小囊泡。</span><span class="english">Correct. Small subpleural cysts are present typical of mild honeycombing.</span></p>

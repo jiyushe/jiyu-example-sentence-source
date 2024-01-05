@@ -1,5 +1,7 @@
 # degranulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/degranulation.md)
+
 <p><span class="chinese">本文观察人体皮肤索沟局部肥大细胞脱颗粒率变化。</span><span class="english">The rate of mast cell degranulation was studied on ligature marks of human skin.</span></p>
 
 <p><span class="chinese">肥大细胞在发情后期有明显的脱颗粒现象。</span><span class="english">Significant degranulation in the mast cells was observed mainly during metaestrus.</span></p>

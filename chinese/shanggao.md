@@ -1,5 +1,7 @@
 # 上告
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanggao.md)
+
 <p><span class="chinese">我要上告于凯撒。</span><span class="english">I appeal unto Caesar.</span></p>
 
 <p><span class="chinese">在这场较劲中，范畴较小的独立代理商已根本上告败。</span><span class="english">This is a battle that the smaller independent agencies have largely lost.</span></p>

@@ -1,5 +1,7 @@
 # atrocious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atrocious.md)
+
 <p><span class="chinese">她讲的法语带有很难听的口音。</span><span class="english">She speaks French with an atrocious accent.</span></p>
 
 <p><span class="chinese">他们犯下了极其凶残的暴行。</span><span class="english">They committed the most atrocious cruelties.</span></p>

@@ -1,5 +1,7 @@
 # incorporated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incorporated.md)
+
 <p><span class="chinese">国王收编了这支部队。</span><span class="english">The King incorporated this army.</span></p>
 
 <p><span class="chinese">这家厂与别家合并了。</span><span class="english">The mill incorporated with others.</span></p>

@@ -1,5 +1,7 @@
 # conservatively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conservatively.md)
+
 <p><span class="chinese">他为人安静内敛，穿着保守。</span><span class="english">He’s quiet and reflective, and he dresses conservatively.</span></p>
 
 <p><span class="chinese">和棋对彭来说是合适的，所以她应该下得更稳妥些。</span><span class="english">A draw would suit Peng, so she should have played more conservatively.</span></p>

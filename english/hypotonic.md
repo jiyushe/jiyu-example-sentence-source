@@ -1,5 +1,7 @@
 # hypotonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypotonic.md)
+
 <p><span class="chinese">收集细胞悬液，再经低渗处理后滴片染色。</span><span class="english">Cell suspension was collected, and then stained after hypotonic treatment.</span></p>
 
 <p><span class="chinese">在等渗浓度或等渗浓度以下，席藻能保持慢速增殖。</span><span class="english">Under isotonic or hypotonic concentrations the alga could proliferate slowly.</span></p>

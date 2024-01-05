@@ -1,5 +1,7 @@
 # tholeiite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tholeiite.md)
+
 <p><span class="chinese">原生岩浆是高镁拉斑玄武岩浆。</span><span class="english">Its primary magma is high MgO tholeiite.</span></p>
 
 <p><span class="chinese">基性岩套由拉斑玄武岩-碱性玄武岩组成。</span><span class="english">Basic suite consists of tholeiite and alkali-basalt.</span></p>

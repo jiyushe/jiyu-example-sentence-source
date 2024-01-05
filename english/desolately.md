@@ -1,5 +1,7 @@
 # desolately
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/desolately.md)
+
 <p><span class="chinese">帕蒂再一次凄惨地哭了起来。</span><span class="english">Patty began to cry again very desolately.</span></p>
 
 <p><span class="chinese">也有橙色代表落寞也苦涩。</span><span class="english">Also has the orange to represent desolately also bitter.</span></p>

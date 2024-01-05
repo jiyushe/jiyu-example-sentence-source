@@ -1,5 +1,7 @@
 # clampdown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clampdown.md)
+
 <p><span class="chinese">只有对经济复苏的信念越加坚定，财政紧缩措施才可以越早开始推行。</span><span class="english">The more entrenched the recovery, the earlier a fiscal clampdown can begin.</span></p>
 
 <p><span class="chinese">视频共享网站Youtube近日公布了一项对“涉黄”视频剪辑的禁令。</span><span class="english">Video sharing website YouTube has announced a clampdown on sexually suggestive clips.</span></p>

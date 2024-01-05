@@ -1,5 +1,7 @@
 # 偏差
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piancha.md)
+
 <p><span class="chinese">但这只是一个偏差。</span><span class="english">But it’s just a disjunction.</span></p>
 
 <p><span class="chinese">什么是偏差检测？</span><span class="english">What is deviation detection?</span></p>

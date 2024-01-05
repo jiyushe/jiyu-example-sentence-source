@@ -1,5 +1,7 @@
 # bowery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bowery.md)
+
 <p><span class="chinese">包厘街上至少开有一家廉价旅馆。</span><span class="english">At least one flophouse survives on the Bowery.</span></p>
 
 <p><span class="chinese">另一个在波威里街上，他知道这条街上有很多豪华的酒店。</span><span class="english">Another was on the Bowery , which he knew contained many showy resorts.</span></p>

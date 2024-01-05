@@ -1,5 +1,7 @@
 # diversion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diversion.md)
+
 <p><span class="chinese">你已经知道了，我自己转移注意力的方法就是熨衣服。</span><span class="english">You already know that my diversion is ironing.</span></p>
 
 <p><span class="chinese">小比利既让我感到不再无聊，又是一个旅伴。</span><span class="english">Billy Boy was both a diversion and a fellow traveler.</span></p>

@@ -1,5 +1,7 @@
 # cosmopolitan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cosmopolitan.md)
+
 <p><span class="chinese">能给我来一杯四海为家吗？</span><span class="english">Can I get a cosmopolitan?</span></p>
 
 <p><span class="chinese">阿利坎特非常全球化。</span><span class="english">Alicante is very cosmopolitan.</span></p>

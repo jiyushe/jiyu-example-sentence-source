@@ -1,5 +1,7 @@
 # 嘱托
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhutuo.md)
+
 <p><span class="chinese">记住卡罗尔神圣的嘱托。</span><span class="english">Remember Carroll's sacred trust.</span></p>
 
 <p><span class="chinese">在老师的嘱托下，我们很幸福。</span><span class="english">In the teachers of entrust, we are very happy.</span></p>

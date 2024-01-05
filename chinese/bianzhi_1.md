@@ -1,5 +1,7 @@
 # 编织
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianzhi_1.md)
+
 <p><span class="chinese">她整日编织。</span><span class="english">She knits all day.</span></p>
 
 <p><span class="chinese">长到可以编织。</span><span class="english">Long enough to braid.</span></p>

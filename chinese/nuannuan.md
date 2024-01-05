@@ -1,5 +1,7 @@
 # 暖暖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nuannuan.md)
+
 <p><span class="chinese">想起来，还是暖暖的。</span><span class="english">Think of it, still warm.</span></p>
 
 <p><span class="chinese">可以暖暖青春的梦。</span><span class="english">Which can warm up youthful dreams.</span></p>

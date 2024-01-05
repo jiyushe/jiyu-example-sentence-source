@@ -1,5 +1,7 @@
 # 担当
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dandang.md)
+
 <p><span class="chinese">过多夸奖，反成担当。</span><span class="english">Too much praise is a weight.</span></p>
 
 <p><span class="chinese">是我们对先烈的报答，对历史的担当。</span><span class="english">It is the reward of our martyrs.</span></p>

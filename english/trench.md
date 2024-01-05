@@ -1,5 +1,7 @@
 # trench
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trench.md)
+
 <p><span class="chinese">壕沟被用砖覆盖起来了。</span><span class="english">The trench was bricked over.</span></p>
 
 <p><span class="chinese">他们重新夺回了堑壕。</span><span class="english">They recaptured their trench.</span></p>

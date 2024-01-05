@@ -1,5 +1,7 @@
 # bok
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bok.md)
+
 <p><span class="chinese">那本书的书款你付过了吗？</span><span class="english">Did you pay for the bok?</span></p>
 
 <p><span class="chinese">博凯文化的核心是创新。</span><span class="english">Bok ¨ culture is the core of innovation.</span></p>

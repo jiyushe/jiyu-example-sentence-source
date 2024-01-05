@@ -1,5 +1,7 @@
 # kiel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kiel.md)
+
 <p><span class="chinese">现在格纳森瑙躺在基尔港。</span><span class="english">Now the Gneisenau lay in Kiel.</span></p>
 
 <p><span class="chinese">慕尼黑，基尔和斯图加特是进度最快的。</span><span class="english">Munich, Kiel and Stuttgart were the fastest.</span></p>

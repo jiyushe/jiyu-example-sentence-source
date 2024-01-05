@@ -1,5 +1,7 @@
 # greenpeace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greenpeace.md)
+
 <p><span class="chinese">‘绿色和平’组织好象迷失了方向”，沃森说。</span><span class="english">Greenpeace seems to have lost their direction," says Watson.</span></p>
 
 <p><span class="chinese">高尔夫球是对抗绿色和平的有效方法。</span><span class="english">Golf balls are an effective deterrent against Greenpeace weenies.</span></p>

@@ -1,5 +1,7 @@
 # stay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stay.md)
+
 <p><span class="chinese">保持凉爽。</span><span class="english">Stay cool.</span></p>
 
 <p><span class="chinese">去还是留？</span><span class="english">Stay or go?</span></p>

@@ -1,5 +1,7 @@
 # unabated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unabated.md)
+
 <p><span class="chinese">艇继续着他们的猎杀势头。</span><span class="english">The U-boats continued their hunting unabated.</span></p>
 
 <p><span class="chinese">我知道他会希望我们继续作出不懈的努力。</span><span class="english">I know he would want our work to continue unabated.</span></p>

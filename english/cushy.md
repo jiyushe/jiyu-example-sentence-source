@@ -1,5 +1,7 @@
 # cushy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cushy.md)
+
 <p><span class="chinese">汤姆在找新工作。他希望干个轻松的工作。</span><span class="english">Tom is looking for a new job. He hopes to take a cushy job.</span></p>
 
 <p><span class="chinese">“但他们并没有把我送进个好点儿医院，”托尼接着说。</span><span class="english">"But they didn't send me to some cushy hospital, " Tony continued.</span></p>

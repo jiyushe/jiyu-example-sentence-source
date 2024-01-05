@@ -1,5 +1,7 @@
 # 边民
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianmin.md)
+
 <p><span class="chinese">目前一些边民已经陆续返回。</span><span class="english">At present, some of these people have returned home.</span></p>
 
 <p><span class="chinese">边民们都认识这个孤独的怪人。</span><span class="english">Thousands of settlers came to know this strange, lonely man.</span></p>

@@ -1,5 +1,7 @@
 # resurface
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resurface.md)
+
 <p><span class="chinese">他的坏习惯又冒了出来。</span><span class="english">His bad habits began to resurface.</span></p>
 
 <p><span class="chinese">残余的原油深埋在沙子和沉积物中，它们可能会随时再被冲刷出来。</span><span class="english">Residual oil buried in sand or sediment may resurface over time.</span></p>

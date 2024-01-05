@@ -1,5 +1,7 @@
 # 战斗力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhandouli.md)
+
 <p><span class="chinese">我很幸运能加入这么一支充满战斗力的球队。</span><span class="english">I'm lucky enough to join a well-oiled team.</span></p>
 
 <p><span class="chinese">以及肩膀张开来展现更大的战斗力。</span><span class="english">The shoulders open up to reveal more repulsors too.</span></p>

@@ -1,5 +1,7 @@
 # monarch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monarch.md)
+
 <p><span class="chinese">他在君主那里说得上话。</span><span class="english">He had the ear of the monarch.</span></p>
 
 <p><span class="chinese">那君主被军事政变者废黜了。</span><span class="english">The monarch was ousted by a military coup.</span></p>

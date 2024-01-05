@@ -1,5 +1,7 @@
 # invariable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invariable.md)
+
 <p><span class="chinese">逃避是不变的游戏。</span><span class="english">Eluding is the invariable game.</span></p>
 
 <p><span class="chinese">直到如今，她还一个劲地克制自己。</span><span class="english">Even now her self-command is invariable.</span></p>

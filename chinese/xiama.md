@@ -1,5 +1,7 @@
 # 下马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiama.md)
+
 <p><span class="chinese">第二次下马时更糟。</span><span class="english">Next time it was worse.</span></p>
 
 <p><span class="chinese">在他下马之前，我走去开门。</span><span class="english">He got up and strode to the door.</span></p>

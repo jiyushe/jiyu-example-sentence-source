@@ -1,5 +1,7 @@
 # watershed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/watershed.md)
+
 <p><span class="chinese">我们的婚姻到了一个转折关头。</span><span class="english">Our marriage was at a watershed.</span></p>
 
 <p><span class="chinese">失明成为我人生的一个分水岭。</span><span class="english">Going blind was the watershed of my life.</span></p>

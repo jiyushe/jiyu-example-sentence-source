@@ -1,5 +1,7 @@
 # instantiation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/instantiation.md)
+
 <p><span class="chinese">下图强调了继承与实例化的异同。</span><span class="english">A diagram emphasizes the orthogonality of inheritance and instantiation</span></p>
 
 <p><span class="chinese">在程序运行时随需构造新的实例化类。</span><span class="english">Construct new instantiation classes on demand while the program is running.</span></p>

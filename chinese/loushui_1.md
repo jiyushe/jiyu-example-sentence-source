@@ -1,5 +1,7 @@
 # 漏税
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/loushui_1.md)
+
 <p><span class="chinese">愚蠢的企业逃税漏税，聪明的企业合理避税。</span><span class="english">Stupid business evades tax and smart business avoids tax.</span></p>
 
 <p><span class="chinese">政府已修订逃漏税的罚则。</span><span class="english">The government has revised the penalties for tax evasion.</span></p>

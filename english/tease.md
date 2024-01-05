@@ -1,5 +1,7 @@
 # tease
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tease.md)
+
 <p><span class="chinese">我取笑他。</span><span class="english">I tease her.</span></p>
 
 <p><span class="chinese">别逗弄我的孩子!</span><span class="english">Don't tease my child.</span></p>

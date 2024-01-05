@@ -1,5 +1,7 @@
 # backhaul
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/backhaul.md)
+
 <p><span class="chinese">它们的部署将会增加对新回程解决方案的需求。</span><span class="english">Their deployments will increase the need for new backhaul solutions.</span></p>
 
 <p><span class="chinese">研究中考虑回程及任务时间限制，建立数学模型。</span><span class="english">Backhaul and task due time are considered to establish mathematic model.</span></p>

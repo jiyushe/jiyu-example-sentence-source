@@ -1,5 +1,7 @@
 # 仰慕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangmu.md)
+
 <p><span class="chinese">举人我仰慕您很久了。</span><span class="english">I admire you for a long time.</span></p>
 
 <p><span class="chinese">他似乎很喜爱在动物园受到人们的仰慕。</span><span class="english">He seemed to enjoy the adoration of the mob at the zoo.</span></p>

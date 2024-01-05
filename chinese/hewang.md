@@ -1,5 +1,7 @@
 # 河网
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hewang.md)
+
 <p><span class="chinese">汇流演算基于河网结构采用分段马斯京根方法。</span><span class="english">For river network routing, the Muskingum method is usually used.</span></p>
 
 <p><span class="chinese">本文研究了河网水质数学模型。</span><span class="english">Water quality model for the river network has been studied in this paper.</span></p>

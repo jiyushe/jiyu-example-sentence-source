@@ -1,5 +1,7 @@
 # 定时器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingshiqi.md)
+
 <p><span class="chinese">如果有必要的话设个定时器。</span><span class="english">Set a timer if you have to.</span></p>
 
 <p><span class="chinese">这钟是一个很好的定时器。</span><span class="english">This clock is a good timekeeper.</span></p>

@@ -1,5 +1,7 @@
 # metric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metric.md)
+
 <p><span class="chinese">好，那我们又该如何使用这个测算标准呢？</span><span class="english">OK, but how we can use this metric?</span></p>
 
 <p><span class="chinese">这个女子可以使用他的米尺。</span><span class="english">The woman could use his metric ruler.</span></p>

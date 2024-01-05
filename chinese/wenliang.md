@@ -1,5 +1,7 @@
 # 温良
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenliang.md)
+
 <p><span class="chinese">少女应温良谦恭，敏于听而慎于言。</span><span class="english">Maidens must be mild and meek, swift to hear and slow to speak.</span></p>
 
 <p><span class="chinese">它们十分驯服温良，是很好的宠物。</span><span class="english">They are very tame and good natured so they make very good pets.</span></p>

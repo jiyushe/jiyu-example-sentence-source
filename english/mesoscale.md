@@ -1,5 +1,7 @@
 # mesoscale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mesoscale.md)
+
 <p><span class="chinese">而中尺度感热通量的强弱受多种因素的制约。</span><span class="english">The mesoscale sensible heat flux is influenced by many facts.</span></p>
 
 <p><span class="chinese">在青岛石岛附近还存在一个中尺度的反气旋型涡旋。</span><span class="english">There is a mesoscale anticyclone addy near Qingdao and Shidao.</span></p>

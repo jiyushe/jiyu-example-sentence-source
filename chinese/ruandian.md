@@ -1,5 +1,7 @@
 # 软垫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruandian.md)
+
 <p><span class="chinese">舌苔薄软垫和衣领。</span><span class="english">Thin padded tongue and collar.</span></p>
 
 <p><span class="chinese">你会想用多少钱去买软垫?。</span><span class="english">How much do you spend on one cushion?</span></p>

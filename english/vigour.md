@@ -1,5 +1,7 @@
 # vigour
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vigour.md)
+
 <p><span class="chinese">她的身上散发着青春的活力。</span><span class="english">She smells of vigour of youth.</span></p>
 
 <p><span class="chinese">你给了我新的生命和活力。</span><span class="english">You give me fresh life and vigour.</span></p>

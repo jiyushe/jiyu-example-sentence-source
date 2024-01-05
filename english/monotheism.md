@@ -1,5 +1,7 @@
 # monotheism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monotheism.md)
+
 <p><span class="chinese">是一神教的宗教我们第一次父母？</span><span class="english">Was monotheism the religion of our first parents?</span></p>
 
 <p><span class="chinese">一神论有何创新性？</span><span class="english">What is so new and revolutionary about monotheism?</span></p>

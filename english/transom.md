@@ -1,5 +1,7 @@
 # transom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transom.md)
+
 <p><span class="chinese">一束灯光从门头上的气窗里透了出来。</span><span class="english">A light appeared through the transom overhead.</span></p>
 
 <p><span class="chinese">数分钟后，墙上的扬声器传来更多的消息。</span><span class="english">Minutes later, more word came over the transom.</span></p>

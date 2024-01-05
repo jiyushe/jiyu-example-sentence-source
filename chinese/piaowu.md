@@ -1,5 +1,7 @@
 # 飘舞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaowu.md)
+
 <p><span class="chinese">旗帜在风中飘舞着。</span><span class="english">Flags danced in the wind.</span></p>
 
 <p><span class="chinese">微风中彩旗飘舞。</span><span class="english">Colorful flags danced in the breeze.</span></p>

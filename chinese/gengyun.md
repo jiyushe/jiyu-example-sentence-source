@@ -1,5 +1,7 @@
 # 耕耘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gengyun.md)
+
 <p><span class="chinese">记住，“一分耕耘，一分收获”。</span><span class="english">Remember, "No pain, No gain".</span></p>
 
 <p><span class="chinese">九份耕耘一份收获，一定。</span><span class="english">No pains, a harvest, a certain.</span></p>

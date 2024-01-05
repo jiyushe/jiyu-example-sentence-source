@@ -1,5 +1,7 @@
 # fentanyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fentanyl.md)
+
 <p><span class="chinese">枸橼酸芬太尼采用同样的方法海洛因。</span><span class="english">Fentanyl citrate is used in the same manner as heroin.</span></p>
 
 <p><span class="chinese">癌症病人弥补大部分芬太尼贴片使用者。</span><span class="english">Cancer patients make up the majority of Fentanyl patch users.</span></p>

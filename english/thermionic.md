@@ -1,5 +1,7 @@
 # thermionic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermionic.md)
+
 <p><span class="chinese">可选地，电子发射可以通过热离子装置。</span><span class="english">Alternately, electron emission may be by thermionic means.</span></p>
 
 <p><span class="chinese">该电子源可经由场发射或热离子发射来发射电子。</span><span class="english">The electron source may emit electrons either via field emission or thermionic emission.</span></p>

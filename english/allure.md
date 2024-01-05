@@ -1,5 +1,7 @@
 # allure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allure.md)
+
 <p><span class="chinese">倾城是来自首都北京。</span><span class="english">Allure from the capital, Beijing.</span></p>
 
 <p><span class="chinese">它的魅力不受时间和国界的限制。</span><span class="english">Its allure defies time and borders.</span></p>

@@ -1,5 +1,7 @@
 # 仪器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiqi_2.md)
+
 <p><span class="chinese">把仪器抬下来…</span><span class="english">Take down the tool.</span></p>
 
 <p><span class="chinese">设计一台新仪器。</span><span class="english">Devise a new instrument.</span></p>

@@ -1,5 +1,7 @@
 # feces
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feces.md)
+
 <p><span class="chinese">回收粪便作为食物？</span><span class="english">Recycling feces for food?</span></p>
 
 <p><span class="chinese">尿液、汗水和粪便中不含艾滋病毒。</span><span class="english">Urine, sweat and feces in non-HIV.</span></p>

@@ -1,5 +1,7 @@
 # iata
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iata.md)
+
 <p><span class="chinese">IATA表示，全球有330家航空公司已经通过其安全标准审查。</span><span class="english">IATA says 330 airlines around the world have passed its audit.</span></p>
 
 <p><span class="chinese">国际航空运输协会估计欧洲航空公司的情况比那时更糟糕。</span><span class="english">IATA reckons the situation for Europe's airlines is even worse than then.</span></p>

@@ -1,5 +1,7 @@
 # tiberium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tiberium.md)
+
 <p><span class="chinese">您可以放置一个诡雷在泰矿柱上。</span><span class="english">You can plant a Booby Trap on a Tiberium Spike.</span></p>
 
 <p><span class="chinese">根本没有泰矿的解毒剂，神化就等于死亡。</span><span class="english">There is no antidote for Tiberium. Divination is death.</span></p>

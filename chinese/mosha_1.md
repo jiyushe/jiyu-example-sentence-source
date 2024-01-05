@@ -1,5 +1,7 @@
 # 抹煞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mosha_1.md)
+
 <p><span class="chinese">无论怎样的论辩也不能抹煞他的这一历史影响。</span><span class="english">No controversy will erase the historic impact.</span></p>
 
 <p><span class="chinese">贡献是不可抹煞的！</span><span class="english">Her contribution to art can not be obliterated.</span></p>

@@ -1,5 +1,7 @@
 # luxe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luxe.md)
+
 <p><span class="chinese">您认为“奢侈品包装的绿色革命”特区的展示如何？</span><span class="english">How did you think about"Luxe Pack in Green" area?</span></p>
 
 <p><span class="chinese">奥巴马是穆斯林和外国人，第一夫人在花着公民的钱过着奢侈的生活。</span><span class="english">He’s Muslim and foreign. She’s living the luxe life on your dime.</span></p>

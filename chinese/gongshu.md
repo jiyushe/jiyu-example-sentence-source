@@ -1,5 +1,7 @@
 # 公署
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongshu.md)
+
 <p><span class="chinese">1894年，国会成立移民办公署。</span><span class="english">In 1894, Congress established the Bureau of Immigration.</span></p>
 
 <p><span class="chinese">思茅在解放初期称“普洱专区”，市长公署驻普洱。</span><span class="english">Simao said that in the early liberation "Pu'er area, " Mayor Corruption in Pu'er.</span></p>

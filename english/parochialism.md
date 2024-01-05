@@ -1,5 +1,7 @@
 # parochialism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parochialism.md)
+
 <p><span class="chinese">在未来我们的模式中，没有狭隘和保护主义。</span><span class="english">There is no room for parochialism or protectionism in our model of the future.</span></p>
 
 <p><span class="chinese">合同相对性原则削足适履的做法，会不可避免地造成契约法的封闭化。</span><span class="english">The principle of privity of contract will, inevitably cause the parochialism of contract law.</span></p>

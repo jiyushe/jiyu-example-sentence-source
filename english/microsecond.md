@@ -1,5 +1,7 @@
 # microsecond
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microsecond.md)
+
 <p><span class="chinese">1微秒就是一百万分之一秒。</span><span class="english">A microsecond is a millionth of a second.</span></p>
 
 <p><span class="chinese">我连一微秒都没害怕过。</span><span class="english">UNH! HEY, I WASN'T WORRIED FOR A MICROSECOND.</span></p>

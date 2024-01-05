@@ -1,5 +1,7 @@
 # bifurcate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bifurcate.md)
+
 <p><span class="chinese">整个水系向北排水，各个河道朝该方向分叉。</span><span class="english">Drainage was to the north and individual channels bifurcate in that direction.</span></p>
 
 <p><span class="chinese">交际翻译和语义翻译在认知翻译的后阶段分道扬镳。</span><span class="english">Communicative and semantive translation bifurcate at a later stage of analytical or cognitive translation.</span></p>

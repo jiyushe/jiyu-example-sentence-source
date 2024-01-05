@@ -1,5 +1,7 @@
 # 修筑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuzhu.md)
+
 <p><span class="chinese">新铁路正在修筑之中。</span><span class="english">The new railway is under construction.</span></p>
 
 <p><span class="chinese">这条高速公路依丘陵地形起伏修筑。</span><span class="english">The highway was contoured to the hills.</span></p>

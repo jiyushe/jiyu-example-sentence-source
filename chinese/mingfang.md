@@ -1,5 +1,7 @@
 # 鸣放
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingfang.md)
+
 <p><span class="chinese">这正是刚才在浓雾里鸣放汽笛的那辆机车。</span><span class="english">This it was which was whistling in the mist.</span></p>
 
 <p><span class="chinese">船长命令部下鸣放礼炮。</span><span class="english">The captain ordered his men to fire a salute.</span></p>

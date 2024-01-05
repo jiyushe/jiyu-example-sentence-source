@@ -1,5 +1,7 @@
 # 洋楼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanglou.md)
+
 <p><span class="chinese">众人来到了洋楼外。</span><span class="english">They came to the building outside.</span></p>
 
 <p><span class="chinese">可是，钱能买洋楼，可以买到温暖的家吗？</span><span class="english">Money can buy mansions, but can it buy a warm home?</span></p>

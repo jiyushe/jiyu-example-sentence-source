@@ -1,5 +1,7 @@
 # 花灯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huadeng_1.md)
+
 <p><span class="chinese">秦琼在街上边走边观赏花灯。</span><span class="english">QinQiong in the street walk while viewing lanterns.</span></p>
 
 <p><span class="chinese">其表演形式与“花灯”近似。</span><span class="english">The performance is similar to the "Festive Lantern".</span></p>

@@ -1,5 +1,7 @@
 # 头套
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toutao.md)
+
 <p><span class="chinese">在上述代码更换头套、挽救。</span><span class="english">Replace the CAPS in above code and Save.</span></p>
 
 <p><span class="chinese">把萝卜头的头套套在某个学生头上，假装要拔他，说。</span><span class="english">Johnny tried to pull the turnip up. He sang.</span></p>

@@ -1,5 +1,7 @@
 # noctilucent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noctilucent.md)
+
 <p><span class="chinese">1885年，一位业余天文学爱好者最早观察到夜光云。</span><span class="english">Noctilucent clouds were first observed in 1885 by an amateur astronomer.</span></p>
 
 <p><span class="chinese">以下可以对比自然形成的夜光云看起来来是怎样的</span><span class="english">Here's what a naturally-occuring noctilucent cloud looks like, for comparison</span></p>

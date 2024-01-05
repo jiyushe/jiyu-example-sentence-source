@@ -1,5 +1,7 @@
 # scorn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scorn.md)
+
 <p><span class="chinese">他是嘲笑的目标。</span><span class="english">He is a target for scorn.</span></p>
 
 <p><span class="chinese">庞德竖子，何敢藐视吾耶！</span><span class="english">How dare this punk scorn me!</span></p>

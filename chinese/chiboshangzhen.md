@@ -1,5 +1,7 @@
 # 赤膊上阵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chiboshangzhen.md)
+
 <p><span class="chinese">谁该更多的赤膊上阵呢？</span><span class="english">Who should be shirtless more?</span></p>
 
 <p><span class="chinese">扮演一个狼人，在最后两部影片里几乎都是打赤膊上阵的。</span><span class="english">Jacob, as a werwolf, has bared all already in the last two films.</span></p>

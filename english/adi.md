@@ -1,5 +1,7 @@
 # adi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adi.md)
+
 <p><span class="chinese">“他是谁？”阿瓦塔阿谛达问。</span><span class="english">"Who is that?" Avatar Adi Da asked.</span></p>
 
 <p><span class="chinese">“他是谁？”阿瓦塔阿谛达问。“你的意思是幸福？”</span><span class="english">Adi Da asked. "Do you mean Happiness?"</span></p>

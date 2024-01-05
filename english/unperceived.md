@@ -1,5 +1,7 @@
 # unperceived
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unperceived.md)
+
 <p><span class="chinese">厨房是白色的漆和互相垂直的不锈钢。</span><span class="english">The kitchen is unperceived in a white lacquer and stainless steel orthogonal form.</span></p>
 
 <p><span class="chinese">物质层成了一个阴影实相，很长时间未被灵魂发觉。</span><span class="english">Physicality became a shadow reality that went unperceived for a long time on the part of soul.</span></p>

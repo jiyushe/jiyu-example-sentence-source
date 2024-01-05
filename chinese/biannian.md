@@ -1,5 +1,7 @@
 # 编年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biannian.md)
+
 <p><span class="chinese">数学史不仅仅是单纯的数学成就的编年记录。</span><span class="english">The history of mathematical more than the record of math achievement.</span></p>
 
 <p><span class="chinese">在中国古代哪本编年史书中留下了关于哈雷彗星最早的记载？</span><span class="english">Which annalistic style book in ancient China leaving the earliest record about Halley's Comet?</span></p>

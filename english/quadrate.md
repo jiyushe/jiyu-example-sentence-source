@@ -1,5 +1,7 @@
 # quadrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quadrate.md)
+
 <p><span class="chinese">这必须和那一致。</span><span class="english">This must quadrate with that.</span></p>
 
 <p><span class="chinese">在花园的中央有一个方形水池。</span><span class="english">In the center of the garden, there is a quadrate tank.</span></p>

@@ -1,5 +1,7 @@
 # 军旗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junqi.md)
+
 <p><span class="chinese">敬礼这面绚丽的中国八一军旗！</span><span class="english">Do obeisance to the florid China oriflamme!</span></p>
 
 <p><span class="chinese">他们一边望着那面军旗，一边谈论着等待着。</span><span class="english">They talked, and looked at the flag, and waited.</span></p>

@@ -1,5 +1,7 @@
 # gastroesophageal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gastroesophageal.md)
+
 <p><span class="chinese">目的探讨门静脉高压症并发出血的治疗方法。</span><span class="english">ObjectiveTo evaluate the surgical therapy for bleeding gastroesophageal varix.</span></p>
 
 <p><span class="chinese">胃食管反流会引起冠心病患者心肌缺血?。</span><span class="english">Does gastroesophageal reflux provoke the myocardial ischemia in patients with CAD?</span></p>

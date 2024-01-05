@@ -1,5 +1,7 @@
 # version 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/version.md)
+
 <p><span class="chinese">的非贪婪版本。</span><span class="english">A non-greedy version of ?.</span></p>
 
 <p><span class="chinese">这是试用版本。</span><span class="english">This is trialware version.</span></p>

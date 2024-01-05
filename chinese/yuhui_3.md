@@ -1,5 +1,7 @@
 # 语汇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuhui_3.md)
+
 <p><span class="chinese">这里用的是钓鱼语汇。</span><span class="english">This refers to a fishing term.</span></p>
 
 <p><span class="chinese">取得增益集的语汇基元以供未来启动。</span><span class="english">Get a token of the add-in for future activation.</span></p>

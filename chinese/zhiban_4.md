@@ -1,5 +1,7 @@
 # 置办
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiban_4.md)
+
 <p><span class="chinese">如果我可以，我会给小龙置办一个工作室。</span><span class="english">If i can, I'll make a workroom to my bro'.</span></p>
 
 <p><span class="chinese">迅速部署了应对小组，置办了设备，并设立了隔离区。</span><span class="english">Rapid response teams were deployed. Equipment was organized.</span></p>

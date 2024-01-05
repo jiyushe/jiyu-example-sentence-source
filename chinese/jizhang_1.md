@@ -1,5 +1,7 @@
 # 记账
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jizhang_1.md)
+
 <p><span class="chinese">我是一个记账员。</span><span class="english">I'm an Accounting Clerk.</span></p>
 
 <p><span class="chinese">我们讨论的是会计记账，查理。</span><span class="english">We are just talking about accounting, Charlie.</span></p>

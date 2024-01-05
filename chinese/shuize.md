@@ -1,5 +1,7 @@
 # 税则
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuize.md)
+
 <p><span class="chinese">但是对非共同体的国家则实行统一的对外税则。</span><span class="english">But a common external tariff exists for non-eec countries.</span></p>
 
 <p><span class="chinese">删除该税则时出错，请稍后重试。</span><span class="english">Error while deleting this tax rule. Please try again later.</span></p>

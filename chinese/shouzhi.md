@@ -1,5 +1,7 @@
 # 受制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouzhi.md)
+
 <p><span class="chinese">他们都要受制于同样的问题。</span><span class="english">They are all grappling with the same issue.</span></p>
 
 <p><span class="chinese">啊，我的思绪如此杂乱无章，如此受制于回忆与往事。</span><span class="english">Ah, I'm so disorganized, so browbeaten by what I remember.</span></p>

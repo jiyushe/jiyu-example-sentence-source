@@ -1,5 +1,7 @@
 # strop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strop.md)
+
 <p><span class="chinese">每个人都是一个月亮，都有他不可示人的阴暗的一面。</span><span class="english">The people who in love always have a strop.</span></p>
 
 <p><span class="chinese">滑速是滑索设计的关键。</span><span class="english">Sliding speed is key to the design of strop ropeway.</span></p>

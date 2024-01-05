@@ -1,5 +1,7 @@
 # colonize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colonize.md)
+
 <p><span class="chinese">有一天人类能够征服其他行星。</span><span class="english">Humans may one day colonize other planets.</span></p>
 
 <p><span class="chinese">公元700年左右阿拉伯人开始把东非变为殖民地。</span><span class="english">Around 700 A. D. Arabs began to colonize East Africa.</span></p>

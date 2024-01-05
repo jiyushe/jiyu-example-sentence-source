@@ -1,5 +1,7 @@
 # 王浆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangjiang.md)
+
 <p><span class="chinese">工蜂的口粮则是由蜂蜜和花粉稀释了的王浆。</span><span class="english">Workers' rations are diluted with honey and pollen.</span></p>
 
 <p><span class="chinese">这些物质与王浆混合在一起，王浆是一种由年轻的工蜂产生的液体。</span><span class="english">These substances are mixed with bee milk, a liquid produced by young worker bees.</span></p>

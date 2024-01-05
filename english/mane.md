@@ -1,5 +1,7 @@
 # mane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mane.md)
+
 <p><span class="chinese">那匹马的鬃稀。</span><span class="english">The horse has a thin mane.</span></p>
 
 <p><span class="chinese">牠鬃毛和尾巴扎辫子。</span><span class="english">His mane and tail are braided.</span></p>

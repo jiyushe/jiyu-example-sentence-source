@@ -1,5 +1,7 @@
 # fuzzy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fuzzy.md)
+
 <p><span class="chinese">我喜欢他的毛绒绒的软毛。</span><span class="english">I like his fuzzy fur!</span></p>
 
 <p><span class="chinese">法利瓦力是只熊。</span><span class="english">Fuzzy Wuzzy was a bear.</span></p>

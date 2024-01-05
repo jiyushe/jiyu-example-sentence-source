@@ -1,5 +1,7 @@
 # coefficient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coefficient.md)
+
 <p><span class="chinese">参见近交系数。</span><span class="english">See coefficient of inbreeding.</span></p>
 
 <p><span class="chinese">经验阻力系数法。</span><span class="english">Experiential drag coefficient method.</span></p>

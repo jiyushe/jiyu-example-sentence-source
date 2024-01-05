@@ -1,5 +1,7 @@
 # scannable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scannable.md)
+
 <p><span class="chinese">他们对代码128可扫描和信息是正确的。</span><span class="english">They are scannable on CODE 128 and the information is correct.</span></p>
 
 <p><span class="chinese">发送普通的简历，并附送一份易于扫描的版本。</span><span class="english">Send a regular copy of your resume along with the scannable version.</span></p>

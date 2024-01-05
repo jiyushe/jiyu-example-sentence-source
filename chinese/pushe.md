@@ -1,5 +1,7 @@
 # 铺设
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pushe.md)
+
 <p><span class="chinese">他们在铺设下水道。</span><span class="english">They are laying sewers.</span></p>
 
 <p><span class="chinese">谁将铺设地板油毡?。</span><span class="english">Who will lay the linoleum?</span></p>

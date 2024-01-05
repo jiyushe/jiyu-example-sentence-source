@@ -1,5 +1,7 @@
 # snr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/snr.md)
+
 <p><span class="chinese">并建立了一个高信噪比的单路检测系统。</span><span class="english">And a single way detection system with higher SNR is set up.</span></p>
 
 <p><span class="chinese">软件将显示它们的信噪比，点扩展函数和均方差值。</span><span class="english">The software will display the snr fwhm and rms values found.</span></p>

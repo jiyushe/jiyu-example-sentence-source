@@ -1,5 +1,7 @@
 # mina
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mina.md)
+
 <p><span class="chinese">睡觉，和洋子还是和弥娜？</span><span class="english">Sleep, with yoko or Mina?</span></p>
 
 <p><span class="chinese">米娜·奥普瑞高塔坐到了卢修斯的膝盖上。</span><span class="english">Mina Operagalta sat on Lucius' knees.</span></p>

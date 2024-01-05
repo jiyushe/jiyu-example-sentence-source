@@ -1,5 +1,7 @@
 # disorder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disorder.md)
+
 <p><span class="chinese">这支部队仓皇溃逃。</span><span class="english">The troops fled in disorder.</span></p>
 
 <p><span class="chinese">她患的是代谢紊乱。</span><span class="english">She has a metabolic disorder.</span></p>

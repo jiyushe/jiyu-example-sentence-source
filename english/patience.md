@@ -1,5 +1,7 @@
 # patience 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patience.md)
+
 <p><span class="chinese">练习耐性。</span><span class="english">Practice patience.</span></p>
 
 <p><span class="chinese">只要有耐心。</span><span class="english">Jesu have patience.</span></p>

@@ -1,5 +1,7 @@
 # gradualness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gradualness.md)
+
 <p><span class="chinese">“渐”的本质是“时间”。</span><span class="english">Time" is the essence of "gradualness".</span></p>
 
 <p><span class="chinese">造物主骗人的手段，也莫如“渐”。</span><span class="english">It is by this " gradualness" that the Creator deceives all humans.</span></p>

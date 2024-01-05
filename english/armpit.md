@@ -1,5 +1,7 @@
 # armpit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/armpit.md)
+
 <p><span class="chinese">男性的腋窝的味道很性感。</span><span class="english">Male armpit sex is sexy.</span></p>
 
 <p><span class="chinese">那时我已经开始长腋毛了。</span><span class="english">Also had armpit hair in that times.</span></p>

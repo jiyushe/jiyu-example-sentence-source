@@ -1,5 +1,7 @@
 # gynecologic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gynecologic.md)
+
 <p><span class="chinese">但不要取消你的下一个妇科检查只是尚未。</span><span class="english">But don't cancel your next gynecologic exam just yet.</span></p>
 
 <p><span class="chinese">首次授予内科肿瘤学和妇科肿瘤学资格。</span><span class="english">Certification in medical oncology and gynecologic oncology first offered.</span></p>

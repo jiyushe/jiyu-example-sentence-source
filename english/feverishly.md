@@ -1,5 +1,7 @@
 # feverishly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feverishly.md)
+
 <p><span class="chinese">他拼命收集资料。</span><span class="english">Feverishly he collected his data.</span></p>
 
 <p><span class="chinese">四只毛茸茸快乐嬉戏的的朋友，真好玩。</span><span class="english">Four furry friends frolicking feverishly for fun.</span></p>

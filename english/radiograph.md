@@ -1,5 +1,7 @@
 # radiograph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radiograph.md)
+
 <p><span class="chinese">小弹簧及牙片，末了功用到纸张。</span><span class="english">Small spring and radiograph is applied to paper, in the end.</span></p>
 
 <p><span class="chinese">支点弯曲影像有潜在的预测能力。</span><span class="english">The fulcrum bending radiograph has potential predictive utility.</span></p>

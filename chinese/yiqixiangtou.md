@@ -1,5 +1,7 @@
 # 意气相投
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiqixiangtou.md)
+
 <p><span class="chinese">他是一个和我意气相投的人。</span><span class="english">I found in him a congenial temper.</span></p>
 
 <p><span class="chinese">我只接纳与我意气相投的人。</span><span class="english">I only let people in who vibe with me.</span></p>

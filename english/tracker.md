@@ -1,5 +1,7 @@
 # tracker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tracker.md)
+
 <p><span class="chinese">真正的纤夫！</span><span class="english">Real boat tracker !</span></p>
 
 <p><span class="chinese">杰克说，“我要你激活追踪器。”</span><span class="english">I want you to activate the tracker.</span></p>

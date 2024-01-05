@@ -1,5 +1,7 @@
 # 匠人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangren.md)
+
 <p><span class="chinese">生命是原材料，我们是匠人。</span><span class="english">Life is raw material. We are artisans.</span></p>
 
 <p><span class="chinese">罗德，阿挪，匠人之谷。</span><span class="english">Lod, and Ono, the valley of craftsmen.</span></p>

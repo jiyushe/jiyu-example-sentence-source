@@ -1,5 +1,7 @@
 # discouraging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discouraging.md)
+
 <p><span class="chinese">这些数据的确很让人泄气</span><span class="english">These numbers are very discouraging.</span></p>
 
 <p><span class="chinese">我觉得既令人鼓舞又令人沮丧。</span><span class="english">I found it both encouraging and discouraging.</span></p>

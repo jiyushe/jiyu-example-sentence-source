@@ -1,5 +1,7 @@
 # 水产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuichan.md)
+
 <p><span class="chinese">干鱿鱼，冻海水鱼，其它水产制品。</span><span class="english">Dried Squid, Frozen Fish, Other Aquatic.</span></p>
 
 <p><span class="chinese">水产土产，粮油食品。</span><span class="english">Native Produce, Cereals, Oils & Foodstuffs.</span></p>

@@ -1,5 +1,7 @@
 # intelligible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intelligible.md)
+
 <p><span class="chinese">并不完美，但理解。</span><span class="english">Not perfect, but intelligible.</span></p>
 
 <p><span class="chinese">他的翻译通顺易懂。</span><span class="english">His interpretation is coherent and intelligible.</span></p>

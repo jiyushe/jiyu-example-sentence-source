@@ -1,5 +1,7 @@
 # lovely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lovely.md)
+
 <p><span class="chinese">她真可爱。</span><span class="english">Isn't she lovely?</span></p>
 
 <p><span class="chinese">他是个可爱的小淘气。</span><span class="english">He is a lovely elf.</span></p>

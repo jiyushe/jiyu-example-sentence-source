@@ -1,5 +1,7 @@
 # abstruse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abstruse.md)
+
 <p><span class="chinese">奥硝唑可以治疗什么病啊？</span><span class="english">What disease can abstruse saltpetre Zun treat?</span></p>
 
 <p><span class="chinese">爱因斯坦的相对论非常难懂。</span><span class="english">Einstein's theory of relativity is very abstruse.</span></p>

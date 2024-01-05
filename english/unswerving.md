@@ -1,5 +1,7 @@
 # unswerving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unswerving.md)
+
 <p><span class="chinese">雅夏经常羡慕他们毫不动摇的信仰。</span><span class="english">Yasha often envied their unswerving faith.</span></p>
 
 <p><span class="chinese">冰雪的芬兰，不仅造就了他冰凝的面容，也造就了他冰一样刚毅的性格。</span><span class="english">The icy Finland not only made his face icy, but also made his character unswerving.</span></p>

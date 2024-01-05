@@ -1,5 +1,7 @@
 # 巷口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangkou.md)
+
 <p><span class="chinese">我依旧站在巷口，孤独地等待。</span><span class="english">I still stand alley, lonely wait.</span></p>
 
 <p><span class="chinese">几乎每个巷口都有便利商店。</span><span class="english">There are convenience stores on almost every street corner.</span></p>

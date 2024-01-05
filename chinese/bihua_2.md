@@ -1,5 +1,7 @@
 # 比画
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bihua_2.md)
+
 <p><span class="chinese">她边说边比画着。</span><span class="english">When she said she gestured.</span></p>
 
 <p><span class="chinese">更是一个比画面的一首诗。</span><span class="english">It is more a picture than a poem.</span></p>

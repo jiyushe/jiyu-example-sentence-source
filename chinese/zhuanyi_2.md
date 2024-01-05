@@ -1,5 +1,7 @@
 # 转椅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanyi_2.md)
+
 <p><span class="chinese">他把坐着的转椅转过来面向着我们。</span><span class="english">He swivelled in his chair to face us.</span></p>
 
 <p><span class="chinese">你愿意去玩茶杯转椅吗？</span><span class="english">Would you like to go on the teacups ?</span></p>

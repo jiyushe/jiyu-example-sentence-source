@@ -1,5 +1,7 @@
 # 老哥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laoge.md)
+
 <p><span class="chinese">老哥说“哇”</span><span class="english">Brother says "wow""</span></p>
 
 <p><span class="chinese">希望老哥能看到我说的这句。</span><span class="english">I Hope You Know, what are you doing?</span></p>

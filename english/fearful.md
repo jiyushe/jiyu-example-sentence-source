@@ -1,5 +1,7 @@
 # fearful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fearful.md)
+
 <p><span class="chinese">他是个十足的势利眼。</span><span class="english">He was a fearful snob.</span></p>
 
 <p><span class="chinese">昰一件很可怕旳亊情。</span><span class="english">Is a very fearful matter.</span></p>

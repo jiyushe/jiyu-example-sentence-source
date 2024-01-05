@@ -1,5 +1,7 @@
 # hawse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hawse.md)
+
 <p><span class="chinese">锚链在锚链筒运行良好。</span><span class="english">The chain runs well in the hawse pipe.</span></p>
 
 <p><span class="chinese">这个应用就要求更大的锚链管道阀门。</span><span class="english">This application calls for a much larger Hawse pipe valve.</span></p>

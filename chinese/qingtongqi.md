@@ -1,5 +1,7 @@
 # 青铜器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingtongqi.md)
+
 <p><span class="chinese">这里的青铜器真精美！</span><span class="english">How beautiful the bronze wares are!</span></p>
 
 <p><span class="chinese">时期是我国的青铜器时代。</span><span class="english">The pre-Qin days were China's bronze age.</span></p>

@@ -1,5 +1,7 @@
 # rollaway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rollaway.md)
+
 <p><span class="chinese">我们还可以加活动床铺。</span><span class="english">We could also add rollaway.</span></p>
 
 <p><span class="chinese">我想借用一下楼道坐放着的那张床可以吗?。</span><span class="english">Can I borrow one of the rollaway beds in the corridor?</span></p>

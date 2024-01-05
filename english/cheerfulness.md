@@ -1,5 +1,7 @@
 # cheerfulness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheerfulness.md)
+
 <p><span class="chinese">样子愉快是壮健的增加剂。</span><span class="english">Cheerfulness is the promoter of health.</span></p>
 
 <p><span class="chinese">那些孤儿院需要欢呼声。</span><span class="english">Those in the orphanages needs cheerfulness.</span></p>

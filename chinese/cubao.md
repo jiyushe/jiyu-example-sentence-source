@@ -1,5 +1,7 @@
 # 粗暴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cubao.md)
+
 <p><span class="chinese">粗暴毁爱情。</span><span class="english">Unkindness destroys love.</span></p>
 
 <p><span class="chinese">他是一个粗暴而惧内的男人。</span><span class="english">He is a man rude but henpecked.</span></p>

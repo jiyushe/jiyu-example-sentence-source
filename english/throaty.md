@@ -1,5 +1,7 @@
 # throaty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/throaty.md)
+
 <p><span class="chinese">颈部太短、太粗或有赘肉。</span><span class="english">Neck too short, thick or throaty.</span></p>
 
 <p><span class="chinese">这女孩的声音低沉而宏亮。</span><span class="english">The young girl has a throaty voice.</span></p>

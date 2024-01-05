@@ -1,5 +1,7 @@
 # 固定汇率
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gudinghuilv.md)
+
 <p><span class="chinese">显而易见的差别是，1971年美国采用固定汇率制度。</span><span class="english">The obvious difference is that in 1971 America was locked into a system of fixed parities.</span></p>
 
 <p><span class="chinese">每股收益达24.0便士，上升了3个百分点，按固定汇率计算，增长11个百分点。</span><span class="english">Earnings per share came in at 24.0 pence, up 3 pct, or 11 pct higher in constant currencies.</span></p>

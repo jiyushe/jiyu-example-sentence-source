@@ -1,5 +1,7 @@
 # gorse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gorse.md)
+
 <p><span class="chinese">金雀花，俗称农民的诅咒。</span><span class="english">Gorse. The farmers’ curse.</span></p>
 
 <p><span class="chinese">金雀花丛把她的马惊得猛然后退。</span><span class="english">Her horse shied violently at a gorse bush.</span></p>

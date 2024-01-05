@@ -1,5 +1,7 @@
 # animism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/animism.md)
+
 <p><span class="chinese">万物有灵论在原始人中很普遍。</span><span class="english">Animism is common among primitive peoples.</span></p>
 
 <p><span class="chinese">万物有灵论是学说或理论的灵魂。</span><span class="english">Animism is the doctrine or theory of the soul.</span></p>

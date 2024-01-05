@@ -1,5 +1,7 @@
 # 死缓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sihuan.md)
+
 <p><span class="chinese">泰勒的哥哥杰克·泰勒说，他们希望希尔死，并对其死缓感到非常的愤怒。</span><span class="english">They want Hill dead and they were angry when his execution was halted.</span></p>
 
 <p><span class="chinese">被判死缓的人通常会获得减刑。</span><span class="english">People given a suspended death penalty typically have the sentence commuted.</span></p>

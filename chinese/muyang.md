@@ -1,5 +1,7 @@
 # 模样
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muyang.md)
+
 <p><span class="chinese">她们微笑的模样。</span><span class="english">The way they smile.</span></p>
 
 <p><span class="chinese">他的模样像一只牧羊狗。</span><span class="english">He looked like a sheepdog.</span></p>

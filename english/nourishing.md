@@ -1,5 +1,7 @@
 # nourishing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nourishing.md)
+
 <p><span class="chinese">功效滋阴补血。</span><span class="english">Efficacy nourishing blood.</span></p>
 
 <p><span class="chinese">好像乳汁滋润着我的心窝！</span><span class="english">Nourishing my heart like milk!</span></p>

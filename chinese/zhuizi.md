@@ -1,5 +1,7 @@
 # 坠子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuizi.md)
+
 <p><span class="chinese">这条项链有一鸡心型坠子。</span><span class="english">A pendant worn on a chain around the neck.</span></p>
 
 <p><span class="chinese">这条项链有一鸡心型坠子。</span><span class="english">Her diamond necklace must have cost a king's ransom.</span></p>

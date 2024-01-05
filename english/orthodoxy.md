@@ -1,5 +1,7 @@
 # orthodoxy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orthodoxy.md)
+
 <p><span class="chinese">因此正统基督教绝对是相信两元论的。</span><span class="english">So orthodoxy is definitively dualist.</span></p>
 
 <p><span class="chinese">斑瑞尔一直忠实格守古老的正统观念。</span><span class="english">Berel had remained true to the old orthodoxy.</span></p>

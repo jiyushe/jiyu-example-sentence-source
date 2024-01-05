@@ -1,5 +1,7 @@
 # 内分泌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neifenmi.md)
+
 <p><span class="chinese">有机锡化合物疑亦是一种内分泌干扰物质。</span><span class="english">Organotin compounds are suspected to be endocrine disrupters.</span></p>
 
 <p><span class="chinese">肾上腺骨髓脂肪瘤是一稀少，没有内分泌性的良性肿瘤。</span><span class="english">Adrenel myelolipoma is a rare, benign and non-functioning tumor.</span></p>

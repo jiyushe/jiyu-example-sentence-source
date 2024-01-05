@@ -1,5 +1,7 @@
 # 钱物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianwu.md)
+
 <p><span class="chinese">我是说，他有没有向你索要钱物？</span><span class="english">I mean, did he ask you for your money or anything?</span></p>
 
 <p><span class="chinese">第五题旅游者钱物丢失，导游人员应如何处理？</span><span class="english">The treatment that the tourist's money or goods is lost.</span></p>

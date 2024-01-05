@@ -1,5 +1,7 @@
 # 壁垒森严
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bileisenyan.md)
+
 <p><span class="chinese">这是非常岁，是壁垒森严。</span><span class="english">It is very old, and was strongly fortified.</span></p>
 
 <p><span class="chinese">我们的防线壁垒森严。</span><span class="english">Our line of defense was strongly fortified.</span></p>

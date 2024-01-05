@@ -1,5 +1,7 @@
 # 异样
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyang.md)
+
 <p><span class="chinese">她的声音异样地颤抖著。</span><span class="english">Her voice quavered grotesquely.</span></p>
 
 <p><span class="chinese">异样的食物，还有猪肺头。</span><span class="english">Strange food, as well as lung head.</span></p>

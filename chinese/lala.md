@@ -1,5 +1,7 @@
 # 拉拉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lala.md)
+
 <p><span class="chinese">我把拉拉尔夫拖到那里那里。</span><span class="english">I pulled Ralph over there.</span></p>
 
 <p><span class="chinese">你就没请杜拉拉喝一杯的时候？</span><span class="english">Mayn't I treat you as a lover?</span></p>

@@ -1,5 +1,7 @@
 # declare
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/declare.md)
+
 <p><span class="chinese">我没有要申报纳税的东西。</span><span class="english">I have nothing to declare.</span></p>
 
 <p><span class="chinese">什么时候我们能宣布胜利？</span><span class="english">When do we declare victory?</span></p>

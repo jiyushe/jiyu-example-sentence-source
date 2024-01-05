@@ -1,5 +1,7 @@
 # unimaginable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unimaginable.md)
+
 <p><span class="chinese">这是一个难以想象的悲剧。</span><span class="english">This is an unimaginable tragedy.</span></p>
 
 <p><span class="chinese">当中很多在不久以前还是不可想象的。</span><span class="english">Much of this was unimaginable a short time ago.</span></p>

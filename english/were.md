@@ -1,5 +1,7 @@
 # were
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/were.md)
+
 <p><span class="chinese">我们很意外。</span><span class="english">So were we.</span></p>
 
 <p><span class="chinese">我们到家了。</span><span class="english">We were home.</span></p>

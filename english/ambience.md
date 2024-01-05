@@ -1,5 +1,7 @@
 # ambience
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ambience.md)
+
 <p><span class="chinese">她较喜欢新水疗池的环境。</span><span class="english">She prefers the ambience at Spa House.</span></p>
 
 <p><span class="chinese">法国餐厅的环境很好。</span><span class="english">The ambience in the French restaurant is very good.</span></p>

@@ -1,5 +1,7 @@
 # compensate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/compensate.md)
+
 <p><span class="chinese">那他们会怎样补偿我呢?</span><span class="english">So how will they compensate me?</span></p>
 
 <p><span class="chinese">我们要求你们赔偿我们遭受的损失。</span><span class="english">Yd to compensate us for the damage.</span></p>

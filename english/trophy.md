@@ -1,5 +1,7 @@
 # trophy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trophy.md)
+
 <p><span class="chinese">他把那狮子头挂起来作为狩猎纪念品。</span><span class="english">He hung the lion's head as a trophy.</span></p>
 
 <p><span class="chinese">他荣获射击银牌奖。</span><span class="english">He won a silver trophy for shooting.</span></p>

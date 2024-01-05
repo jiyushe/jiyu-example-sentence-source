@@ -1,5 +1,7 @@
 # 插画
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chahua.md)
+
 <p><span class="chinese">我偏爱线条细致的老式插画。</span><span class="english">I prefer the old fine-lined illustrations.</span></p>
 
 <p><span class="chinese">就好像他的插画，眼见为实。</span><span class="english">Just as in his illustrations, seeing is believing.</span></p>

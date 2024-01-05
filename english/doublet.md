@@ -1,5 +1,7 @@
 # doublet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doublet.md)
+
 <p><span class="chinese">质子和中子构成电荷双重态。</span><span class="english">Proton and neutron form a charge doublet.</span></p>
 
 <p><span class="chinese">这仿宝石看上去像真宝石。</span><span class="english">The doublet looks like genuine precious stone.</span></p>

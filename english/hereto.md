@@ -1,5 +1,7 @@
 # hereto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hereto.md)
+
 <p><span class="chinese">本协议一式二份，各方圴持有一份正本。</span><span class="english">This Agreement is made in duplicate, one original for each party hereto.</span></p>
 
 <p><span class="chinese">兹证明协议双方于文首所日期签署本协议。</span><span class="english">AS WITNESS the hands of the parties hereto the day and year first above written.</span></p>

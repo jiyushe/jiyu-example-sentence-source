@@ -1,5 +1,7 @@
 # broadband
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/broadband.md)
+
 <p><span class="chinese">你们有宽带接口吗？</span><span class="english">Do you have broadband access?</span></p>
 
 <p><span class="chinese">宽带接入是将来的趋势。</span><span class="english">Broadband is the wave of the future.</span></p>

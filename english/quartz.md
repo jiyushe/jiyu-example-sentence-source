@@ -1,5 +1,7 @@
 # quartz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quartz.md)
+
 <p><span class="chinese">石英管“，”</span><span class="english">Quartz Heater Pipe.</span></p>
 
 <p><span class="chinese">模拟石英机芯。</span><span class="english">Quartz analog movement.</span></p>

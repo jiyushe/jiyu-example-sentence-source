@@ -1,5 +1,7 @@
 # keratoconus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keratoconus.md)
+
 <p><span class="chinese">角膜有异常或病变，比如圆锥角膜或角膜水肿。</span><span class="english">Have a disease or abnormality of the cornea, such as keratoconus or corneal edema.</span></p>
 
 <p><span class="chinese">病例二表现两眼角膜中心或旁中心全层白斑及后锥形角膜。</span><span class="english">The second case presents bilateral central corneal opacities with posterior keratoconus.</span></p>

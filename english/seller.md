@@ -1,5 +1,7 @@
 # seller
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seller.md)
+
 <p><span class="chinese">那本畅销书我读了两遍。</span><span class="english">I read that best seller twice.</span></p>
 
 <p><span class="chinese">该货是畅销货。</span><span class="english">This product is a best seller.</span></p>

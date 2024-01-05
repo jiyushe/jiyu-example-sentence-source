@@ -1,5 +1,7 @@
 # surveyor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surveyor.md)
+
 <p><span class="chinese">哦，公证员什么时候来？</span><span class="english">When can the surveyor come?</span></p>
 
 <p><span class="chinese">乌韦兰格是一个48岁的验船师。</span><span class="english">Uwe Lange is a 48-year-old surveyor.</span></p>

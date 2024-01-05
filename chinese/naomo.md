@@ -1,5 +1,7 @@
 # 脑膜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naomo.md)
+
 <p><span class="chinese">脑膜上的伤如何解释？</span><span class="english">Any information of the meninges?</span></p>
 
 <p><span class="chinese">结果结核性脑膜脑炎患者脑脊液白细胞总数升高。</span><span class="english">Results The total leucocytes increased in CSF of TBM patients.</span></p>

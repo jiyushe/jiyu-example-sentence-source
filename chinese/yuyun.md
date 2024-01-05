@@ -1,5 +1,7 @@
 # 余韵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuyun.md)
+
 <p><span class="chinese">丰富而优雅葡萄酒余韵悠长。</span><span class="english">Rich and elegant wine in length.</span></p>
 
 <p><span class="chinese">平衡的酒体和完好的单宁使得余韵绵长。</span><span class="english">A long and structured finish with fine tannins.</span></p>

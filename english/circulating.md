@@ -1,5 +1,7 @@
 # circulating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/circulating.md)
+
 <p><span class="chinese">空气流动。</span><span class="english">The air is circulating.</span></p>
 
 <p><span class="chinese">怀特霍尔街上流传著谣言。</span><span class="english">Rumours are circulating in Whitehall.</span></p>

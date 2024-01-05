@@ -1,5 +1,7 @@
 # 遗志
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhi_15.md)
+
 <p><span class="chinese">这一定是我们掉去的那些人的遗志。</span><span class="english">That must be the legacy of those we have lost.</span></p>
 
 <p><span class="chinese">虽然他不再与我们同在，他的遗志将永存后世。</span><span class="english">Although he is no longer with us, his legacy will live on forever.</span></p>

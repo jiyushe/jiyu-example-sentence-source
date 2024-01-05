@@ -1,5 +1,7 @@
 # dune
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dune.md)
+
 <p><span class="chinese">登一座山，在沙漠里兜风，赤着脚漫步在草地上。</span><span class="english">Climb a mountain. Ride in a dune buggy.</span></p>
 
 <p><span class="chinese">风吹沙子形成的小山。</span><span class="english">Dune A hill or ridge of wind-blown sand.</span></p>

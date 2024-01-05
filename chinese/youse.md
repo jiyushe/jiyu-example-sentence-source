@@ -1,5 +1,7 @@
 # 有色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youse.md)
+
 <p><span class="chinese">木炭可以吸附有色的液体。</span><span class="english">Charcoal can adsorb colored liquids.</span></p>
 
 <p><span class="chinese">然后把软木塞放进盛满有色水的瓶颈里。</span><span class="english">A cork fits into the neck of a bottle.</span></p>

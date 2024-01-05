@@ -1,5 +1,7 @@
 # oil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oil.md)
+
 <p><span class="chinese">橄榄油。</span><span class="english">Olive oil.</span></p>
 
 <p><span class="chinese">山金车油。</span><span class="english">Arnica oil.</span></p>

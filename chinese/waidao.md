@@ -1,5 +1,7 @@
 # 外道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waidao.md)
+
 <p><span class="chinese">一切外道，亦复如此。</span><span class="english">This is also true with all the heretics.</span></p>
 
 <p><span class="chinese">佛教说“邪魔外道”。</span><span class="english">" Buddhism says, "Evil is alien to Truth.</span></p>

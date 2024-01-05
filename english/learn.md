@@ -1,5 +1,7 @@
 # learn 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/learn.md)
+
 <p><span class="chinese">学唱歌曲。</span><span class="english">Learn to sing.</span></p>
 
 <p><span class="chinese">我们来好好学习一下，</span><span class="english">Let's learn it.</span></p>

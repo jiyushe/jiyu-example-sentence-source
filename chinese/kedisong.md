@@ -1,5 +1,7 @@
 # 可的松
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kedisong.md)
+
 <p><span class="chinese">你得等几分钟让可的松奏效。</span><span class="english">You need a few minutes for cortisone to take.</span></p>
 
 <p><span class="chinese">还可能需要可的松注射。</span><span class="english">A course of cortisone injections may also be prescribed.</span></p>

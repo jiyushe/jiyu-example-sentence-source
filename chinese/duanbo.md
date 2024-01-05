@@ -1,5 +1,7 @@
 # 短波
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duanbo.md)
+
 <p><span class="chinese">这个收音机能收短波吗？</span><span class="english">Can this radio receive short-wave?</span></p>
 
 <p><span class="chinese">那个收音机能收短波吗？</span><span class="english">Can this radio receive short-wave?</span></p>

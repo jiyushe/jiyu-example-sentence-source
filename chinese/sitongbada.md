@@ -1,5 +1,7 @@
 # 四通八达
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sitongbada.md)
+
 <p><span class="chinese">公路四通八达。</span><span class="english">Highways radiate in all directions.</span></p>
 
 <p><span class="chinese">铁路四通八达遍布全国。</span><span class="english">Railways ramified all over the country.</span></p>

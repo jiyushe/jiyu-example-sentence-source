@@ -1,5 +1,7 @@
 # piecemeal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piecemeal.md)
+
 <p><span class="chinese">把这事一气儿解决了吧，别零敲碎打了。</span><span class="english">Let's settle the matter at one stroke, not piecemeal.</span></p>
 
 <p><span class="chinese">“你不能做改革的零敲碎打的过程中，”他说。</span><span class="english">You can't do reform in a piecemeal process, " he said."</span></p>

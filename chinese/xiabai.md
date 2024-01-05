@@ -1,5 +1,7 @@
 # 下摆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiabai.md)
+
 <p><span class="chinese">在下摆的弹性拉绳。</span><span class="english">Elastic drawstring at hem.</span></p>
 
 <p><span class="chinese">松紧下摆和袖口。</span><span class="english">Elasticized hem and cuffs.</span></p>

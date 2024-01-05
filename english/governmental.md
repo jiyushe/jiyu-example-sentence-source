@@ -1,5 +1,7 @@
 # governmental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/governmental.md)
+
 <p><span class="chinese">第五，我坚定不移地反对政府检查制度。</span><span class="english">Fifth, I am unalterably opposed to governmental censorship.</span></p>
 
 <p><span class="chinese">建筑现场经常有政府官员前来视察。</span><span class="english">The construction site was often visited by governmental officials.</span></p>

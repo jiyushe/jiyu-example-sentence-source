@@ -1,5 +1,7 @@
 # isomerism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isomerism.md)
+
 <p><span class="chinese">什么样的异性会令你回头?。</span><span class="english">What kinds of isomerism will turn your head?</span></p>
 
 <p><span class="chinese">其中7例属右同形位，1例属左同形位。</span><span class="english">Of which 7 were right isomerism and 1 was left isomerism.</span></p>

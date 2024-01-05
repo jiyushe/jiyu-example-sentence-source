@@ -1,5 +1,7 @@
 # 浅陋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianlou.md)
+
 <p><span class="chinese">学识浅陋是一件危险的事。</span><span class="english">Little learning is a dangerous thing.</span></p>
 
 <p><span class="chinese">学识浅陋是险事。</span><span class="english">A little learning is a dangerous thing.</span></p>

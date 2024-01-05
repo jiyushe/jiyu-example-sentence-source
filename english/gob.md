@@ -1,5 +1,7 @@
 # gob
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gob.md)
+
 <p><span class="chinese">我看见了他的唾液，伙计。</span><span class="english">I saw his gob , me mate.</span></p>
 
 <p><span class="chinese">采空区地层有其独特的地电特征，可以利用瞬变电磁法进行探测。</span><span class="english">Coal mine gob has its unique geo-electrical identity, so it can be detected using TEM.</span></p>

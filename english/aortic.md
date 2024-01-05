@@ -1,5 +1,7 @@
 # aortic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aortic.md)
+
 <p><span class="chinese">主动脉瓣狭窄是一个讨厌的疾病。</span><span class="english">Aortic stenosis is a nasty disease.</span></p>
 
 <p><span class="chinese">近肾主动脉瘤的治疗。</span><span class="english">Treatment for pararenal aortic aneurysm.</span></p>

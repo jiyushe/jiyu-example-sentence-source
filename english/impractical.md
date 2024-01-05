@@ -1,5 +1,7 @@
 # impractical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impractical.md)
+
 <p><span class="chinese">他的主意大体说来很不实际。</span><span class="english">His ideas are, in the main , impractical.</span></p>
 
 <p><span class="chinese">不过，这经常被证明是不切实际的。</span><span class="english">Yet often this turns out to be impractical.</span></p>

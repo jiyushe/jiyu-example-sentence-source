@@ -1,5 +1,7 @@
 # likewise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/likewise.md)
+
 <p><span class="chinese">就像这里。</span><span class="english">And likewise down here.</span></p>
 
 <p><span class="chinese">注意看着我然后照样做。</span><span class="english">Watch me and do likewise.</span></p>

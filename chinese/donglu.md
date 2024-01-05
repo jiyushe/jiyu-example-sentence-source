@@ -1,5 +1,7 @@
 # 东麓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/donglu.md)
+
 <p><span class="chinese">在山的东麓是辛亥革命烈士陵园。</span><span class="english">In the mountain Donglu was the cemetery of revolutionary martyrs.</span></p>
 
 <p><span class="chinese">“东麓的圣母啊，愿你为我们祷告”，教堂顶部的大红字回应着110年前被围困者的祈愿。</span><span class="english">“Holy Mary of Donglu, Pray For Us”, say large red characters attached to its railings, echoing the pleas of the besieged 110 years ago.</span></p>

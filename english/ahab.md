@@ -1,5 +1,7 @@
 # ahab
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ahab.md)
+
 <p><span class="chinese">亚哈王气冲冲地问。</span><span class="english">Ahab asked angrily.</span></p>
 
 <p><span class="chinese">亚哈与他列祖同睡。</span><span class="english">Ahab rested with his fathers.</span></p>

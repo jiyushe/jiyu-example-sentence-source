@@ -1,5 +1,7 @@
 # 稍为
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaowei_1.md)
+
 <p><span class="chinese">若说有何区别，玛莉今天是稍为好转了些。</span><span class="english">Mary is, if anything, a little better today.</span></p>
 
 <p><span class="chinese">请把法律稍为变更一下吧。做一件大好事。</span><span class="english">Please change the law a little. To do a great right.</span></p>

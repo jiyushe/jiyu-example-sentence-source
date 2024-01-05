@@ -1,5 +1,7 @@
 # realization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/realization.md)
+
 <p><span class="chinese">从而，最中实现我共创双赢的美好宿愿。</span><span class="english">And for realization of a win-win result.</span></p>
 
 <p><span class="chinese">这里我将重点讨论服务实现。</span><span class="english">Here I will focus on service realization.</span></p>

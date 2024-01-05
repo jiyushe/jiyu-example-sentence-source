@@ -1,5 +1,7 @@
 # banc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/banc.md)
+
 <p><span class="chinese">俄亥俄州第一银行通过兼并一些小银行成为中西部地区的巨头。</span><span class="english">Banc One of Ohio has built an empire in the mid-west by gobbling up smaller banks.</span></p>
 
 <p><span class="chinese">放松你的生活，让笑声回归，你马上就会变得快乐很多，这是最自然的方法。</span><span class="english">Unserious your life and let laughter banc in---and watch as you become happier, the natural way.</span></p>

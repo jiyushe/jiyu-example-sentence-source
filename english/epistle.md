@@ -1,5 +1,7 @@
 # epistle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epistle.md)
+
 <p><span class="chinese">他说，没有它的第二次书信。</span><span class="english">He says nothing of it in the Second Epistle.</span></p>
 
 <p><span class="chinese">他说，没有它在第二次书信。</span><span class="english">He says nothing of it in the Second Epistle.</span></p>

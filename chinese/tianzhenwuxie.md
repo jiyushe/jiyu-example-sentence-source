@@ -1,5 +1,7 @@
 # 天真无邪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianzhenwuxie.md)
+
 <p><span class="chinese">她有一种天真无邪的气质。</span><span class="english">There is an ingenue air about her.</span></p>
 
 <p><span class="chinese">中国可爱的小和尚，天真无邪唷！</span><span class="english">The lovely little monks from China.</span></p>

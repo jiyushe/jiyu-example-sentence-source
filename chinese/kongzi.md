@@ -1,5 +1,7 @@
 # 空子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongzi.md)
+
 <p><span class="chinese">他们有些人钻了经济政策的空子。</span><span class="english">Some of them beat the economic policy.</span></p>
 
 <p><span class="chinese">有时，人们能够钻税收法律的空子。</span><span class="english">You can sometimes get round the tax laws.</span></p>

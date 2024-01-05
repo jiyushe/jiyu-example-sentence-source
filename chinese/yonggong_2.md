@@ -1,5 +1,7 @@
 # 用工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yonggong_2.md)
+
 <p><span class="chinese">检测方法主要是使用工况法。</span><span class="english">The Drive Cycle is the primary test method.</span></p>
 
 <p><span class="chinese">本文本不适用非全日制用工使用。</span><span class="english">The contract is not suitable for non-full-time employment.</span></p>

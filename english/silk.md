@@ -1,5 +1,7 @@
 # silk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/silk.md)
+
 <p><span class="chinese">水墨绢本。</span><span class="english">Ink on silk.</span></p>
 
 <p><span class="chinese">如丝般柔软。</span><span class="english">As soft as silk.</span></p>

@@ -1,5 +1,7 @@
 # hmas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hmas.md)
+
 <p><span class="chinese">这已足以向我们证明他是澳大利亚皇家海军悉尼号的水兵。</span><span class="english">That was enough to convince us he was an HMAS Sydney sailor.</span></p>
 
 <p><span class="chinese">在战役中，HMAS珀斯号被击沉，霍巴特号受到损伤后开向锡兰。</span><span class="english">During the battle HMAS Perth was sunk and Hobart was damaged before proceeding to Ceylon.</span></p>

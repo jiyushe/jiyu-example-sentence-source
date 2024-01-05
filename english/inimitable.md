@@ -1,5 +1,7 @@
 # inimitable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inimitable.md)
+
 <p><span class="chinese">独特的ATC和APC电路通过控制泵浦激光器的输出保证了输出功率的稳定。</span><span class="english">Inimitable ATC and APC circuit to ensure the stability of output power.</span></p>
 
 <p><span class="chinese">在此基础上，考察了福柯别开生面的权力观。</span><span class="english">Based on this, the thesis reviews Foucaults inimitable conception of power.</span></p>

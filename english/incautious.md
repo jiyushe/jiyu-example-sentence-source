@@ -1,5 +1,7 @@
 # incautious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incautious.md)
+
 <p><span class="chinese">他们轻易的应用将会得到错误的结论。</span><span class="english">Their incautious use can lead to wholly misleading results.</span></p>
 
 <p><span class="chinese">你不小心自己，为什么责怪别的人？</span><span class="english">You were incautious yourself, why did you blame the others?</span></p>

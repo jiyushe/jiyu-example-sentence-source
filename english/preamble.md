@@ -1,5 +1,7 @@
 # preamble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preamble.md)
+
 <p><span class="chinese">论文包括前言和正文六章。</span><span class="english">It includes preamble and six chapters.</span></p>
 
 <p><span class="chinese">开头和结尾提供标准的设置。</span><span class="english">The preamble and epilogue provide standard setup.</span></p>

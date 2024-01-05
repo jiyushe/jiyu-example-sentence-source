@@ -1,5 +1,7 @@
 # cavalierly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cavalierly.md)
+
 <p><span class="chinese">不能如此傲慢地对待盟友。</span><span class="english">Allies can be treated so cavalierly.</span></p>
 
 <p><span class="chinese">但不应该这样随便做。</span><span class="english">But it ought not be done cavalierly.</span></p>

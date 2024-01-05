@@ -1,5 +1,7 @@
 # 玩耍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanshua.md)
+
 <p><span class="chinese">孩子们嬉笑玩耍。</span><span class="english">Children laughed and played.</span></p>
 
 <p><span class="chinese">小孩们要玩耍。</span><span class="english">Little children want to paly.</span></p>

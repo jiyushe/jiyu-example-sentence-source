@@ -1,5 +1,7 @@
 # 文具
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenju.md)
+
 <p><span class="chinese">你们有文具出售吗？</span><span class="english">Do you carry stationery?</span></p>
 
 <p><span class="chinese">金斯先生是一位文具商。</span><span class="english">Mr. Kings is a stationer.</span></p>

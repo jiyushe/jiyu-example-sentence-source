@@ -1,5 +1,7 @@
 # 农转非
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongzhuanfei.md)
+
 <p><span class="chinese">这变化更多地体现在农转非人员社区生活中。</span><span class="english">This change is reflected in their community life.</span></p>
 
 <p><span class="chinese">户口农转非啦还可以迁回家非转农吗？</span><span class="english">Rights of Peasants account can also be non-GM farmers to move back home it?</span></p>

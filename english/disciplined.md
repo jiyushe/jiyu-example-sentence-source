@@ -1,5 +1,7 @@
 # disciplined
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disciplined.md)
+
 <p><span class="chinese">我会要求孩子们遵守规则。</span><span class="english">I have disciplined my children.</span></p>
 
 <p><span class="chinese">他们纪律严明地一齐射击。</span><span class="english">They fired in disciplined volleys.</span></p>

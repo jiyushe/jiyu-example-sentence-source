@@ -1,5 +1,7 @@
 # thule
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thule.md)
+
 <p><span class="chinese">研究的最终目的在于应用。</span><span class="english">Application is the ultima thule of study.</span></p>
 
 <p><span class="chinese">适合所有拓乐快速的系统负荷载架脚。</span><span class="english">Fit all Thule Rapid System load carrier feet.</span></p>

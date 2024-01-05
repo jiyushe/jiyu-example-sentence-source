@@ -1,5 +1,7 @@
 # 臭不可闻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/choubukewen.md)
+
 <p><span class="chinese">快洗笼子，已是臭不可闻了。</span><span class="english">Wash the bird's cage at once. It smells high heaven.</span></p>
 
 <p><span class="chinese">脏尿布臭气熏天，臭鸡蛋令人作呕，但臭鼬才真的是臭不可闻！</span><span class="english">Dirty diapers are disgusting. Rotten eggs smell rancid.</span></p>

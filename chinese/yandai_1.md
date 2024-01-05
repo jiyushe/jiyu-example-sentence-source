@@ -1,5 +1,7 @@
 # 眼袋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yandai_1.md)
+
 <p><span class="chinese">怎么使眼袋变小？</span><span class="english">How to make pouch decrescent?</span></p>
 
 <p><span class="chinese">有什么消除眼袋的办法？</span><span class="english">What removes the measure of pouch?</span></p>

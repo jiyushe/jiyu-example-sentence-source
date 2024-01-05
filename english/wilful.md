@@ -1,5 +1,7 @@
 # wilful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wilful.md)
+
 <p><span class="chinese">现在，他对指控对问题视而不见睁一眼闭一眼。</span><span class="english">He was open now to charges of wilful blindness.</span></p>
 
 <p><span class="chinese">的小孩，赌气着，不肯承认长大的事实。</span><span class="english">A wilful child in my heart never accept hia grow-up.</span></p>

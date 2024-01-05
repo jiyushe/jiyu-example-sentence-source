@@ -1,5 +1,7 @@
 # 习性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xixing.md)
+
 <p><span class="chinese">长春藤有攀缘向上的习性。</span><span class="english">Ivy has a climbing habit.</span></p>
 
 <p><span class="chinese">诚实已成了她的习性。</span><span class="english">Honesty is engrafted in her character.</span></p>

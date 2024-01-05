@@ -1,5 +1,7 @@
 # 字谜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zimi.md)
+
 <p><span class="chinese">我喜欢你的字谜。</span><span class="english">I loved your puzzle.</span></p>
 
 <p><span class="chinese">这又是字谜？</span><span class="english">Is it another anagram?</span></p>

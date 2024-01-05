@@ -1,5 +1,7 @@
 # wilhelm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wilhelm.md)
+
 <p><span class="chinese">这是德国威黑姆国王的纪念台。</span><span class="english">This is the "Kaiser Wilhelm" memorial.</span></p>
 
 <p><span class="chinese">威廉约翰森提出了基因这个专门术语。</span><span class="english">Wilhelm johannsen coined the term gene.</span></p>

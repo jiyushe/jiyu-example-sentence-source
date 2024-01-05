@@ -1,5 +1,7 @@
 # 绘声绘色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huishenghuise.md)
+
 <p><span class="chinese">一条绘声绘色的小道消息正在传来传去。</span><span class="english">A piece of juicy gossip is going the rounds.</span></p>
 
 <p><span class="chinese">她绘声绘色地描述了她在热带丛林中的生活。</span><span class="english">She gave a thrilling account of her life in the jungle.</span></p>

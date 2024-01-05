@@ -1,5 +1,7 @@
 # dairy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dairy.md)
+
 <p><span class="chinese">卡特先生经营着一个牛奶场。</span><span class="english">Mr. Carter ran a dairy.</span></p>
 
 <p><span class="chinese">我想参观你们的乳品厂。</span><span class="english">I would like to visit your dairy.</span></p>

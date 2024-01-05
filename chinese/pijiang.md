@@ -1,5 +1,7 @@
 # 皮匠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pijiang.md)
+
 <p><span class="chinese">不要嘲笑皮匠的黑拇指。</span><span class="english">Mock not a cobbler for his black thumbs.</span></p>
 
 <p><span class="chinese">此后彼得在约帕一个硝皮匠西门的家里，住了多日。</span><span class="english">Peter stayed in Joppa for some time with a tanner named Simon.</span></p>

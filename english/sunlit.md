@@ -1,5 +1,7 @@
 # sunlit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sunlit.md)
+
 <p><span class="chinese">梦见你睡在阳光照耀的草地上</span><span class="english">Dream that sleep is a sunlit meadow</span></p>
 
 <p><span class="chinese">在阳光普照的寂静高天。</span><span class="english">High in the sunlit silence. Hov'ring there</span></p>

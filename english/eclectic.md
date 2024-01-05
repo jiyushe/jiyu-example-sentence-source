@@ -1,5 +1,7 @@
 # eclectic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eclectic.md)
+
 <p><span class="chinese">这是一个折衷的课程。</span><span class="english">It's an eclectic class.</span></p>
 
 <p><span class="chinese">所以本课程是折衷的。</span><span class="english">So the class is eclectic.</span></p>

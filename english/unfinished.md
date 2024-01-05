@@ -1,5 +1,7 @@
 # unfinished
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unfinished.md)
+
 <p><span class="chinese">她是一首未完的诗。</span><span class="english">She is an unfinished poem.</span></p>
 
 <p><span class="chinese">你还有未竟的事业？</span><span class="english">Have you got some unfinished business?</span></p>

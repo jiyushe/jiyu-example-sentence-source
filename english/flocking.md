@@ -1,5 +1,7 @@
 # flocking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flocking.md)
+
 <p><span class="chinese">他们会蜂拥而至的！</span><span class="english">They’ll come flocking in!</span></p>
 
 <p><span class="chinese">⊙、踏破青毡可惜，多行数步何妨。</span><span class="english">Flocking felt pity, multi-line step number.</span></p>

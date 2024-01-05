@@ -1,5 +1,7 @@
 # 反证
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanzheng_1.md)
+
 <p><span class="chinese">反证公司要换血了。</span><span class="english">Counterevidence company should change blood.</span></p>
 
 <p><span class="chinese">反证摆在眼前，他仍不能相信。</span><span class="english">He could not believe even with the disproof before his eyes.</span></p>

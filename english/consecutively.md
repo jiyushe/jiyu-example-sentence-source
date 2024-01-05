@@ -1,5 +1,7 @@
 # consecutively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consecutively.md)
+
 <p><span class="chinese">请在每箱上唛头并加上连续编号。</span><span class="english">Please mark the cases and the number consecutively.</span></p>
 
 <p><span class="chinese">相反，只用连续地读一遍你的笔记就行了。</span><span class="english">Instead, read your notes through consecutively only once.</span></p>

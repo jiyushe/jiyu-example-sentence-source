@@ -1,5 +1,7 @@
 # vegas
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vegas.md)
+
 <p><span class="chinese">我们仍然在威加中吗?。</span><span class="english">Are we still in Vegas?</span></p>
 
 <p><span class="chinese">我在拉斯维加斯赌输了很多钱。</span><span class="english">I lose my shirt in Las Vegas.</span></p>

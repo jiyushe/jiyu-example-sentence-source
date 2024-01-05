@@ -1,5 +1,7 @@
 # flirtation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flirtation.md)
+
 <p><span class="chinese">她和杜洛埃的那一段小小的调情现在看来似乎出格了。</span><span class="english">Her little flirtation with Drouet seemed now an extraordinary thing.</span></p>
 
 <p><span class="chinese">误解、泄密、未偿还的贷款或恶意的调情。</span><span class="english">A misunderstanding, a betrayed confidence, an unrepaid loan, an ill-conceived flirtation.</span></p>

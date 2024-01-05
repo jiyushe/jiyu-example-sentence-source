@@ -1,5 +1,7 @@
 # illuminant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illuminant.md)
+
 <p><span class="chinese">最后一步，为灯具选择光源。</span><span class="english">Last pace, choose illuminant for lamps and lanterns.</span></p>
 
 <p><span class="chinese">另外要利用辅助光源营造气氛。</span><span class="english">Want to use auxiliary illuminant to build atmosphere additionally.</span></p>

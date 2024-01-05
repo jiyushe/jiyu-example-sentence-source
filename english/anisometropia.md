@@ -1,5 +1,7 @@
 # anisometropia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anisometropia.md)
+
 <p><span class="chinese">目的探讨屈光参差对立体视功能的影响及其机制。</span><span class="english">Objective To investigate the affection of anisometropia on stereopsis and its mechanism.</span></p>
 
 <p><span class="chinese">结论弱视程度与屈光参差程度有关，与屈光参差类型无关。</span><span class="english">Conclusion The extent of amblyopia is related to extent of anisometropia but not its type.</span></p>

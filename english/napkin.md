@@ -1,5 +1,7 @@
 # napkin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/napkin.md)
+
 <p><span class="chinese">我可以要张餐巾纸吗？</span><span class="english">May I have a paper napkin ?</span></p>
 
 <p><span class="chinese">从餐巾纸中获得帮助。</span><span class="english">Get help from a paper napkin.</span></p>

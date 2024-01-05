@@ -1,5 +1,7 @@
 # tire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tire.md)
+
 <p><span class="chinese">加上轮胎印儿。</span><span class="english">Plus tire tracks.</span></p>
 
 <p><span class="chinese">我的轮胎没气了。</span><span class="english">I have a flat tire.</span></p>

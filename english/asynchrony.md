@@ -1,5 +1,7 @@
 # asynchrony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asynchrony.md)
+
 <p><span class="chinese">在这个计划中，异步节省了多少时间呢？</span><span class="english">How much time is saved by the asynchrony in this plan?</span></p>
 
 <p><span class="chinese">但是此方法不使用传输级别的异步。</span><span class="english">But this approach doesn't use transport-level asynchrony.</span></p>

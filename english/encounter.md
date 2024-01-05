@@ -1,5 +1,7 @@
 # encounter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/encounter.md)
+
 <p><span class="chinese">约会就是见面会。</span><span class="english">Dating is the look-see encounter.</span></p>
 
 <p><span class="chinese">卟崾害怕往承担风险。</span><span class="english">Don tbe afraid to encounter risks.</span></p>

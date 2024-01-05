@@ -1,5 +1,7 @@
 # gui
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gui.md)
+
 <p><span class="chinese">这瑰，指的就是像玉一样的石头。</span><span class="english">"Gui" refers to jade-like rocks.</span></p>
 
 <p><span class="chinese">安娜被连哄带骗的与王贵结婚了。</span><span class="english">Reluctantly, unwillingly, Anna marries Wang Gui.</span></p>

@@ -1,5 +1,7 @@
 # 商品生产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangpinshengchan.md)
+
 <p><span class="chinese">公司具备自己的原料和商品生产厂家。</span><span class="english">The company has raw materials and self-produced factory.</span></p>
 
 <p><span class="chinese">货币，毕竟既不能吃也不能在商品生产过程中被消耗掉。</span><span class="english">Money, after all, can neither be eaten nor used up in production.</span></p>

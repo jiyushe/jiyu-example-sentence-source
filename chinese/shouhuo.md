@@ -1,5 +1,7 @@
 # 收获
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouhuo.md)
+
 <p><span class="chinese">是再一次的收获。</span><span class="english">It is re-collect.</span></p>
 
 <p><span class="chinese">一分辛苦，一分收获。</span><span class="english">No pain, no gain.</span></p>

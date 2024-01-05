@@ -1,5 +1,7 @@
 # demulsification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demulsification.md)
+
 <p><span class="chinese">最后概述了三元复合驱采出液的化学破乳机理。</span><span class="english">Last the demulsification mechanism of ASP flooding produced liquid was summarized.</span></p>
 
 <p><span class="chinese">本文报道了一种破坏乳状液的新方法——研磨破乳技术。</span><span class="english">In this paper a new developed technique of demulsification Grinding Demulsion is intro- duced.</span></p>

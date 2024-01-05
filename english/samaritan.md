@@ -1,5 +1,7 @@
 # samaritan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/samaritan.md)
+
 <p><span class="chinese">撒玛利亚的妇人婚姻失败了很多次</span><span class="english">The Samaritan woman had several failed marriages</span></p>
 
 <p><span class="chinese">举例来说，耶稣曾经向一位撒玛利亚妇女讨杯水喝。</span><span class="english">For instance, Jesus once asked a Samaritan woman for a drink of water.</span></p>

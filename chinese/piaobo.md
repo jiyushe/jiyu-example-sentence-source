@@ -1,5 +1,7 @@
 # 漂泊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaobo.md)
+
 <p><span class="chinese">我有点厌倦了漂泊的生活。</span><span class="english">I'm kind of tired of the vagabond life.</span></p>
 
 <p><span class="chinese">有时，那是一种漂泊不定的生活。</span><span class="english">It was at times a knockabout existence.</span></p>

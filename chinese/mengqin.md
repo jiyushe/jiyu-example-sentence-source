@@ -1,5 +1,7 @@
 # 猛禽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mengqin.md)
+
 <p><span class="chinese">就现在，让我们像热恋中的猛禽</span><span class="english">And now, like am'rous birds of prey</span></p>
 
 <p><span class="chinese">而这又为红狐和猛禽带来好处。</span><span class="english">That has benefited red fox and raptors.</span></p>

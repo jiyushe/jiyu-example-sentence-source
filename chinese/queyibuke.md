@@ -1,5 +1,7 @@
 # 缺一不可
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/queyibuke.md)
+
 <p><span class="chinese">可能两者缺一不可。</span><span class="english">Probably both.</span></p>
 
 <p><span class="chinese">三个支点缺一不可。</span><span class="english">Three fulcrums lack a can't.</span></p>

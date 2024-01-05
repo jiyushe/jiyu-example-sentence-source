@@ -1,5 +1,7 @@
 # plasmapheresis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plasmapheresis.md)
+
 <p><span class="chinese">告诉她病人需要抽血浆。</span><span class="english">And tell her the patient needs a plasmapheresis.</span></p>
 
 <p><span class="chinese">血浆置换治疗明显优于血浆输注。</span><span class="english">Plasmapheresis prior to plasma infusion in TTP treatment.</span></p>

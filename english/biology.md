@@ -1,5 +1,7 @@
 # biology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biology.md)
+
 <p><span class="chinese">你是否生物系的学生?。</span><span class="english">Are you a Biology student?</span></p>
 
 <p><span class="chinese">这里给你上节小小的生物课。</span><span class="english">A little biology lesson here.</span></p>

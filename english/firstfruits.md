@@ -1,5 +1,7 @@
 # firstfruits
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/firstfruits.md)
+
 <p><span class="chinese">你们世世代代，应从初熟麦面团中取出，献给上主作礼品。</span><span class="english">So also shall you give firstfruits of your dough to the Lord.</span></p>
 
 <p><span class="chinese">这说明了耶稣就是从死里而来的初熟的果子。</span><span class="english">This lesson says that Jesus is the "firstfruits" from the dead.</span></p>

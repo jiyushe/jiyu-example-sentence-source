@@ -1,5 +1,7 @@
 # bms
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bms.md)
+
 <p><span class="chinese">事业促进演说者在努力建立一个联合的团队。</span><span class="english">A BMS work hard to create a team that's united.</span></p>
 
 <p><span class="chinese">WhichPLM分享了一份免费的BMS白皮书阐述这个话题。</span><span class="english">is sharing a free copy of BMS whitepaper with this catching topic.</span></p>

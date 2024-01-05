@@ -1,5 +1,7 @@
 # blustery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blustery.md)
+
 <p><span class="chinese">在一月某个刮大风的日子里，我必须到外头去干活。</span><span class="english">One blustery January day I had to do some outside work.</span></p>
 
 <p><span class="chinese">大风的日子里没有什么比得上一杯热可可饮料。</span><span class="english">There’s nothing like a cup of hot cocoa on a blustery day.</span></p>

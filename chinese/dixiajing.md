@@ -1,5 +1,7 @@
 # 地下茎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dixiajing.md)
+
 <p><span class="chinese">竹类地下茎解剖结构的研究。</span><span class="english">Anatomical studies on the bamboo rhizomes.</span></p>
 
 <p><span class="chinese">错。土豆属于地下茎类又称作块茎类蔬菜。</span><span class="english">False. Potatoes are underground stems called tubers.</span></p>

@@ -1,5 +1,7 @@
 # success 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/success.md)
+
 <p><span class="chinese">成功有如死亡。</span><span class="english">Success is like death.</span></p>
 
 <p><span class="chinese">他一心想取得成功。</span><span class="english">He was bent on success.</span></p>

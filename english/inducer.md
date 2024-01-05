@@ -1,5 +1,7 @@
 # inducer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inducer.md)
+
 <p><span class="chinese">那氏778诱导剂是GPIT技术的第一代主要产品。</span><span class="english">Na family 778 inducer is leading product of GPIT technique.</span></p>
 
 <p><span class="chinese">以上结果说明，氧化苦参碱是细胞色素P-450的诱导剂。</span><span class="english">The results indicated that Oxymatrine is a inducer of P-450.</span></p>

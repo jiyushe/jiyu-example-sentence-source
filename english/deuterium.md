@@ -1,5 +1,7 @@
 # deuterium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deuterium.md)
+
 <p><span class="chinese">它的质量是等于重氢的质量。</span><span class="english">It has an atomic mass of two deuterium.</span></p>
 
 <p><span class="chinese">如果你能把氘和氘合并，你得到能量。</span><span class="english">If you could merge deuterium with deuterium, you gain energy.</span></p>

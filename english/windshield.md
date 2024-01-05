@@ -1,5 +1,7 @@
 # windshield
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/windshield.md)
+
 <p><span class="chinese">挡风玻璃被冰层覆盖。</span><span class="english">The windshield has iced up.</span></p>
 
 <p><span class="chinese">请清洗挡风玻璃。</span><span class="english">Please clean the windshield.</span></p>

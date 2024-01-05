@@ -1,5 +1,7 @@
 # 镇守
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenshou.md)
+
 <p><span class="chinese">镇守这座城市的敌军投降了。</span><span class="english">The enemy that garrisoned the city surrendered.</span></p>
 
 <p><span class="chinese">阆中古城有关张飞的传说流传甚多，皆源于张飞镇守阆中的历史。</span><span class="english">There are many legends of Zhang Fei in the ancient city of Langzhong.</span></p>

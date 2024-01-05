@@ -1,5 +1,7 @@
 # principal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/principal.md)
+
 <p><span class="chinese">他是我们的中学校长。</span><span class="english">He's our principal.</span></p>
 
 <p><span class="chinese">学校校长被停职检查。</span><span class="english">The principal was suspended.</span></p>

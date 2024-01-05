@@ -1,5 +1,7 @@
 # stainless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stainless.md)
+
 <p><span class="chinese">不锈钢丝。</span><span class="english">Wire of stainless steel.</span></p>
 
 <p><span class="chinese">不锈钢网篮。</span><span class="english">STAINLESS steel mesh Basket.</span></p>

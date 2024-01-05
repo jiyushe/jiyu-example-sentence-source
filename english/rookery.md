@@ -1,5 +1,7 @@
 # rookery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rookery.md)
+
 <p><span class="chinese">罗伊兹海角群栖地的阿德利企鹅。</span><span class="english">Adélie penguins at the Cape Royds rookery.</span></p>
 
 <p><span class="chinese">一个群栖地可以容纳上百万个企鹅。</span><span class="english">A single rookery may contain as many as a million penguins.</span></p>

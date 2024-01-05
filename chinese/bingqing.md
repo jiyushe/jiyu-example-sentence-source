@@ -1,5 +1,7 @@
 # 病情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingqing.md)
+
 <p><span class="chinese">根据美国运动医学学院的研究，患感冒时进行锻炼不会使病情加重。</span><span class="english">not make the cold worse.</span></p>
 
 <p><span class="chinese">他的病情恶化了。</span><span class="english">His condition was soured.</span></p>

@@ -1,5 +1,7 @@
 # feet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feet.md)
+
 <p><span class="chinese">六尺。</span><span class="english">Six feet.</span></p>
 
 <p><span class="chinese">他身高7英尺。</span><span class="english">He tops 7 feet.</span></p>

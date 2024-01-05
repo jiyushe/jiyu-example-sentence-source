@@ -1,5 +1,7 @@
 # 助手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhushou_1.md)
+
 <p><span class="chinese">他训斥他的助手们。</span><span class="english">He blistered his aides.</span></p>
 
 <p><span class="chinese">职业拳击手的助手。</span><span class="english">A prizefighter's second.</span></p>

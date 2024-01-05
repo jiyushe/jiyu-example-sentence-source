@@ -1,5 +1,7 @@
 # stunt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stunt.md)
+
 <p><span class="chinese">表演一分钟的特技组合。</span><span class="english">Perform a minute-long Stunt Combo.</span></p>
 
 <p><span class="chinese">“威亚特技”现在是个很受关注焦点。</span><span class="english">"Wire stunt" It is a popular focus.</span></p>

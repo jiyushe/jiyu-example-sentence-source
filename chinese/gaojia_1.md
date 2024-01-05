@@ -1,5 +1,7 @@
 # 高价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaojia_1.md)
+
 <p><span class="chinese">这能以高价出卖。</span><span class="english">It can sell high.</span></p>
 
 <p><span class="chinese">今天鸡蛋售高价。</span><span class="english">Eggs bring a high price today.</span></p>

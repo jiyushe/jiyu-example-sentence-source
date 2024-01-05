@@ -1,5 +1,7 @@
 # socioeconomic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/socioeconomic.md)
+
 <p><span class="chinese">非传染性疾病造成的社会经济影响如何？</span><span class="english">What are the socioeconomic impacts of NCDs?</span></p>
 
 <p><span class="chinese">购买优酪乳者以女生较多。</span><span class="english">Girls with higher socioeconomic status drank more yoghurt.</span></p>

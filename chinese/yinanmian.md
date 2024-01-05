@@ -1,5 +1,7 @@
 # 阴暗面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinanmian.md)
+
 <p><span class="chinese">每个都有阴暗面。</span><span class="english">Eveyone has a dark side.</span></p>
 
 <p><span class="chinese">然而这一切都有其阴暗面。</span><span class="english">But all this has a dark side.</span></p>

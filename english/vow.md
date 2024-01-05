@@ -1,5 +1,7 @@
 # vow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vow.md)
+
 <p><span class="chinese">我立誓写作时非常年轻。</span><span class="english">I made a vow to writing, very young.</span></p>
 
 <p><span class="chinese">这是一个公众耻感的誓言，仅仅为了一个人。</span><span class="english">A vow of public humiliation, for one.</span></p>

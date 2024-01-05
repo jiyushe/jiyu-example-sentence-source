@@ -1,5 +1,7 @@
 # grasshopper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grasshopper.md)
+
 <p><span class="chinese">看见过蚂蚱吧？</span><span class="english">Ever seen a grasshopper ?</span></p>
 
 <p><span class="chinese">不要做蚂蚱，做蚂蚁。</span><span class="english">Don’t be a grasshopper. Be an ant.</span></p>

@@ -1,5 +1,7 @@
 # planer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/planer.md)
+
 <p><span class="chinese">刨工制造了一架行星飞机。</span><span class="english">The planer made a planet airplane.</span></p>
 
 <p><span class="chinese">另外还有车床镗床刨床等设备。</span><span class="english">Another boring machine planer lathes and other equipment.</span></p>

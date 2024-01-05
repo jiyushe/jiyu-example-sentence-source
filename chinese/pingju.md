@@ -1,5 +1,7 @@
 # 平局
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingju.md)
+
 <p><span class="chinese">如果平局就掷硬币</span><span class="english">Flip if tie.</span></p>
 
 <p><span class="chinese">中国队和巴西队打成平局。</span><span class="english">China drew against Brazil.</span></p>

@@ -1,5 +1,7 @@
 # 默许
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moxu.md)
+
 <p><span class="chinese">他眨眨眼，传来男人的信号，默许了吉姆的罪过。</span><span class="english">Winking a man\'s signal.</span></p>
 
 <p><span class="chinese">我猜他默许了我的淘气。</span><span class="english">I guess he tolerated my naughtiness.</span></p>

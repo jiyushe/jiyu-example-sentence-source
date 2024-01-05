@@ -1,5 +1,7 @@
 # diversification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diversification.md)
+
 <p><span class="chinese">他非常强调投资多样化</span><span class="english">He really emphasized diversification.</span></p>
 
 <p><span class="chinese">稀释-或许它拥有太多的多样化。</span><span class="english">It's possible to have too much diversification.</span></p>

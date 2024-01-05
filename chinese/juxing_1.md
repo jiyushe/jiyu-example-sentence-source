@@ -1,5 +1,7 @@
 # 句型
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juxing_1.md)
+
 <p><span class="chinese">我们来做句型练习。</span><span class="english">Let's do pattern drills.</span></p>
 
 <p><span class="chinese">多加练习这个句型。</span><span class="english">Practice the "who" pattern.</span></p>

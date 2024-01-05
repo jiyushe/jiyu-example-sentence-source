@@ -1,5 +1,7 @@
 # abstractive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abstractive.md)
+
 <p><span class="chinese">她的绘画已汇入形体抽象艺术的潮流中。</span><span class="english">Her artwork is in harmony in the tide of abstractive gesture.</span></p>
 
 <p><span class="chinese">一幕幕景象在她眼前闪现，是那样奇妙而迷人呀。</span><span class="english">A series of scenes appeared in front of her eyes, how dramatic, and how abstractive.</span></p>

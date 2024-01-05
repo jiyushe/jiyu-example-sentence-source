@@ -1,5 +1,7 @@
 # 说来话长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuolaihuachang.md)
+
 <p><span class="chinese">说来话长！真是一言难尽！</span><span class="english">It's a long story!</span></p>
 
 <p><span class="chinese">一言难尽。说来话长。</span><span class="english">It's a long story.</span></p>

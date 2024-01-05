@@ -1,5 +1,7 @@
 # cardioversion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cardioversion.md)
+
 <p><span class="chinese">未出现需要直流电复律的情况。</span><span class="english">There were no patient required electrical cardioversion after ibutilide used.</span></p>
 
 <p><span class="chinese">目的探讨丙泊酚用于心脏电复律麻醉的效果。</span><span class="english">Objective To investigate the anaesthetic effects of Propofol for cardioversion.</span></p>

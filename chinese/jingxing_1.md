@@ -1,5 +1,7 @@
 # 惊醒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingxing_1.md)
+
 <p><span class="chinese">他的鼾声把她惊醒了。</span><span class="english">His snores woke her up.</span></p>
 
 <p><span class="chinese">这天是吉姆布伦南的生日，8月潮湿的清晨，外面花园的鸟鸣声让他惊醒。</span><span class="english">It is Jim Brennan's birthday.</span></p>

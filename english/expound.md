@@ -1,5 +1,7 @@
 # expound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expound.md)
+
 <p><span class="chinese">为什么不去叫一个占卜者来解释我的梦呢?。</span><span class="english">Why not get a diviner to expound my dream?</span></p>
 
 <p><span class="chinese">兰迪诺已着手来阐明他同样的意见。</span><span class="english">Landino had taken upon him to expound the same opinion.</span></p>

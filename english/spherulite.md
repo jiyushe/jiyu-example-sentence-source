@@ -1,5 +1,7 @@
 # spherulite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spherulite.md)
+
 <p><span class="chinese">并且在慢速冷却条件下，球粒尺寸明显增大，球体更加规则。</span><span class="english">At a slow cooling rate, the size of spherulite becomes larger and more regular.</span></p>
 
 <p><span class="chinese">硬石膏的加入使得球晶尺寸减小，数量增加。</span><span class="english">The anhydrite caused spherulite size of PP diminishing, the quantity increasing.</span></p>

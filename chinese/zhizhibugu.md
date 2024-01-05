@@ -1,5 +1,7 @@
 # 置之不顾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizhibugu.md)
+
 <p><span class="chinese">算术、科学知识等等全被置之不顾。</span><span class="english">Arithmetic, science and other subjects were forgotten.</span></p>
 
 <p><span class="chinese">即便家中冰箱里有上好的寿司，男人们还是会为了冻鱼条置之不顾。</span><span class="english">Men go out for fishfingers when sushi is in the fridge.</span></p>

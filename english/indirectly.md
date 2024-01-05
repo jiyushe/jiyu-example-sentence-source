@@ -1,5 +1,7 @@
 # indirectly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indirectly.md)
+
 <p><span class="chinese">这消息我是间接听来的。</span><span class="english">I heard the news indirectly.</span></p>
 
 <p><span class="chinese">因此它试图间接地控制它们。</span><span class="english">So it tries to control them indirectly.</span></p>

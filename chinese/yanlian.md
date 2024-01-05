@@ -1,5 +1,7 @@
 # 眼帘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanlian.md)
+
 <p><span class="chinese">这时，汤姆的拼音课本跃入他的眼帘。</span><span class="english">Tom's spelling-book fell under his eye.</span></p>
 
 <p><span class="chinese">两小时后，长城映入我们的眼帘。</span><span class="english">After two hours the Great Wall appeared before our eyes.</span></p>

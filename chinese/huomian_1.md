@@ -1,5 +1,7 @@
 # 豁免
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huomian_1.md)
+
 <p><span class="chinese">捐税已豁免了。</span><span class="english">The taxes have been remitted.</span></p>
 
 <p><span class="chinese">该豁免DC基于魅力。</span><span class="english">The save DC is Charisma-based.</span></p>

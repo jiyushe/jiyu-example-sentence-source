@@ -1,5 +1,7 @@
 # volume 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/volume.md)
+
 <p><span class="chinese">诗一卷。</span><span class="english">Poetry volume.</span></p>
 
 <p><span class="chinese">下一个。</span><span class="english">OK, constant volume.</span></p>

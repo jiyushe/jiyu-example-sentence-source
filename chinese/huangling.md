@@ -1,5 +1,7 @@
 # 皇陵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangling.md)
+
 <p><span class="chinese">它是十三陵建造的第一座皇陵。</span><span class="english">It was the first of 13 tombs built here.</span></p>
 
 <p><span class="chinese">几个世纪以来，我们的家族都在皇陵守护着。</span><span class="english">My family has watch over the emperor's tombs for centuries.</span></p>

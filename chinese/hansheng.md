@@ -1,5 +1,7 @@
 # 鼾声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hansheng.md)
+
 <p><span class="chinese">他鼾声如雷。</span><span class="english">He snored loudly.</span></p>
 
 <p><span class="chinese">他的鼾声吵醒了我。</span><span class="english">His snores woke me up.</span></p>

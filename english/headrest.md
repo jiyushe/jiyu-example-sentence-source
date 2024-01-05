@@ -1,5 +1,7 @@
 # headrest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headrest.md)
+
 <p><span class="chinese">你能拿一些头片给我吗？</span><span class="english">Can you get me some headrest covers?</span></p>
 
 <p><span class="chinese">需要我们更换头片吗？…</span><span class="english">Do you need us to change headrest cover ?</span></p>

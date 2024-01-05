@@ -1,5 +1,7 @@
 # yesteryear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yesteryear.md)
+
 <p><span class="chinese">这个昔日的机器人时宠爱犬晃。</span><span class="english">This canine robot of yesteryear wiggles when petted.</span></p>
 
 <p><span class="chinese">网络就像多年前的电话簿，你必须列名其上。</span><span class="english">It’s like the phonebook of yesteryear – you need to be on it.</span></p>

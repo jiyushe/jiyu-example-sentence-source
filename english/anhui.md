@@ -1,5 +1,7 @@
 # anhui
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anhui.md)
+
 <p><span class="chinese">他们都来自安徽省。</span><span class="english">Both come from Anhui Province.</span></p>
 
 <p><span class="chinese">你在合肥念书，你是安徽人吗？</span><span class="english">Your school in Hefei, Anhui you people?</span></p>

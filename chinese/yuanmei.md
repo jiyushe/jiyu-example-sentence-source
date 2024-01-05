@@ -1,5 +1,7 @@
 # 原煤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanmei.md)
+
 <p><span class="chinese">另外，我公司还有大量原煤、精煤出售。</span><span class="english">In addition, I have a lot of coal companies, coal for sale.</span></p>
 
 <p><span class="chinese">所用煤种包括高硫原煤、低硫原煤、中煤。</span><span class="english">The coals used included high-sulfur raw-coal, low-sulfur raw-coal and middling coal.</span></p>

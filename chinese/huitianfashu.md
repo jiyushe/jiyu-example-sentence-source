@@ -1,5 +1,7 @@
 # 回天乏术
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huitianfashu.md)
+
 <p><span class="chinese">斯皮兹现在是回天乏术了。</span><span class="english">There was no hope for Spitz now.</span></p>
 
 <p><span class="chinese">我最亲爱、亲爱的妹妹还是回天乏术了。</span><span class="english">And so my dear, dear sister died.</span></p>

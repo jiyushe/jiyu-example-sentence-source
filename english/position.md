@@ -1,5 +1,7 @@
 # position
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/position.md)
+
 <p><span class="chinese">给他留好了个位置。</span><span class="english">Give him a position.</span></p>
 
 <p><span class="chinese">竹位时。</span><span class="english">When bamboo position.</span></p>

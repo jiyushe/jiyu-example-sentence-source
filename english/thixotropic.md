@@ -1,5 +1,7 @@
 # thixotropic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thixotropic.md)
+
 <p><span class="chinese">触变型，邻苯型基体的不饱和聚酯树脂。</span><span class="english">Thixotropic resin based on ortho-phthalic acid.</span></p>
 
 <p><span class="chinese">这种特性叫做树脂的触变性。</span><span class="english">This is referred to as a thixotropic property of the resin.</span></p>

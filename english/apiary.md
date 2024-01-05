@@ -1,5 +1,7 @@
 # apiary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apiary.md)
+
 <p><span class="chinese">养蜂场有人失踪吗？</span><span class="english">Anyone Missing at the Apiary?</span></p>
 
 <p><span class="chinese">我姐姐被派去负责养蜂场。</span><span class="english">My sister was put in charge of the apiary.</span></p>

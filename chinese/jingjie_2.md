@@ -1,5 +1,7 @@
 # 警诫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingjie_2.md)
+
 <p><span class="chinese">啊，我知道一切规劝警诫都是徒劳的。</span><span class="english">Alas, I know all warning is vain.</span></p>
 
 <p><span class="chinese">本期节目题目是“警诫。”</span><span class="english">This episode is called "Giving Warnings and Cautions."</span></p>

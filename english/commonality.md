@@ -1,5 +1,7 @@
 # commonality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commonality.md)
+
 <p><span class="chinese">共性。</span><span class="english">Commonality.</span></p>
 
 <p><span class="chinese">凯恩重复道，“没有共性。”</span><span class="english">Cain repeated, "No commonality."</span></p>

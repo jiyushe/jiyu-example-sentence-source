@@ -1,5 +1,7 @@
 # getter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/getter.md)
+
 <p><span class="chinese">幽默如果运用得恰当，在吸引听众注意力上能取到很好的效果。</span><span class="english">Humor, handled well, can be a wonderful attention getter.</span></p>
 
 <p><span class="chinese">不管是什么公司，都会有大大小小的问题，所以先消消气。</span><span class="english">No matter what, there will be large and small, so to eliminate Getter.</span></p>

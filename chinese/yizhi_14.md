@@ -1,5 +1,7 @@
 # 遗址
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yizhi_14.md)
+
 <p><span class="chinese">野人海岸迅猛龙遗址。</span><span class="english">Savage Coast Raptor Fields.</span></p>
 
 <p><span class="chinese">这是马家浜遗址。</span><span class="english">This is the Majiabang Ruins.</span></p>

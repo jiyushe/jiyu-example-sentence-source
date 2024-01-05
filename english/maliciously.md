@@ -1,5 +1,7 @@
 # maliciously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maliciously.md)
+
 <p><span class="chinese">他的敌人恶毒地密谋搞垮他。</span><span class="english">His enemies maliciously conspired to ruin him.</span></p>
 
 <p><span class="chinese">他用棒球棒恶意损毁了一辆汽车。</span><span class="english">He maliciously damaged a car with a baseball bat.</span></p>

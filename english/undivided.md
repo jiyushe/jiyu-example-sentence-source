@@ -1,5 +1,7 @@
 # undivided
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undivided.md)
+
 <p><span class="chinese">这是我唯一关注的问题。</span><span class="english">This is my undivided attention.</span></p>
 
 <p><span class="chinese">他经常是专口致志的做事。</span><span class="english">He often works with undivided attention.</span></p>

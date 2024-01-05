@@ -1,5 +1,7 @@
 # 水门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuimen.md)
+
 <p><span class="chinese">黑水门？</span><span class="english">Black penstock?</span></p>
 
 <p><span class="chinese">尼克松因为水门事件辞职。</span><span class="english">He resigned because of Watergate.</span></p>

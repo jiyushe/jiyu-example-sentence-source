@@ -1,5 +1,7 @@
 # 高炉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaolu.md)
+
 <p><span class="chinese">高炉用回溯法是可能的吗？</span><span class="english">Is BFS is possible using backtracking?</span></p>
 
 <p><span class="chinese">熔剂在高炉中起什么作用?。</span><span class="english">What do fluxes do in blast furnace smelting?</span></p>

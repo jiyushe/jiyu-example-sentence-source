@@ -1,5 +1,7 @@
 # redwood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redwood.md)
+
 <p><span class="chinese">但是红杉市队不这样。</span><span class="english">Redwood City did not.</span></p>
 
 <p><span class="chinese">我喜欢红木树长得快。</span><span class="english">I like redwood tree growing fast.</span></p>

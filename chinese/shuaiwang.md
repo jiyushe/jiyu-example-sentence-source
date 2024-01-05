@@ -1,5 +1,7 @@
 # 衰亡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuaiwang.md)
+
 <p><span class="chinese">抑或男人一词的衰亡。</span><span class="english">Or the decline of man.</span></p>
 
 <p><span class="chinese">但有谁知道那水晶只是衰亡的雾？</span><span class="english">And who knows but a crystal is mist in decay?</span></p>

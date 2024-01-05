@@ -1,5 +1,7 @@
 # 讯号
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunhao.md)
+
 <p><span class="chinese">我一直听到忙线讯号。</span><span class="english">I keep getting the busy signals.</span></p>
 
 <p><span class="chinese">到底费洛蒙有什麽化学讯号在里面？</span><span class="english">What are the chemicals in pheromones?</span></p>

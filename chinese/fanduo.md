@@ -1,5 +1,7 @@
 # 繁多
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanduo.md)
+
 <p><span class="chinese">地球上的热带地区物种繁多。</span><span class="english">The earth's tropics teem with species.</span></p>
 
 <p><span class="chinese">网络种类繁多、大小不一。</span><span class="english">Networks come in many shapes and sizes.</span></p>

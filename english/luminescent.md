@@ -1,5 +1,7 @@
 # luminescent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luminescent.md)
+
 <p><span class="chinese">琥珀色的眼睛，在长黑的刘海下，闪烁光芒。</span><span class="english">Luminescent amber eyes were fringed with long, dark lashes.</span></p>
 
 <p><span class="chinese">事实上，萤火虫幼虫发光现象支持了这一理论。</span><span class="english">The fact that even larvae are luminescent lends support to this theory.</span></p>

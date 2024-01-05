@@ -1,5 +1,7 @@
 # 急先锋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jixianfeng.md)
+
 <p><span class="chinese">他们把自己看成是当今改革运动的急先锋。</span><span class="english">They see themselves as latter-day crusading knights.</span></p>
 
 <p><span class="chinese">雅典却是反对菲力浦的领头者和急先锋。</span><span class="english">Athens was the head and front of the opposition to Philip.</span></p>

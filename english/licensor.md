@@ -1,5 +1,7 @@
 # licensor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/licensor.md)
+
 <p><span class="chinese">这项技术对许可证持有人有多重要？</span><span class="english">How important is the technology to the licensor?</span></p>
 
 <p><span class="chinese">许可人未嫩弈行其合同义务。</span><span class="english">Licensor fails to perform its obligations under this Contract.</span></p>

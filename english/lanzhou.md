@@ -1,5 +1,7 @@
 # lanzhou
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lanzhou.md)
+
 <p><span class="chinese">中国的兰州大学。</span><span class="english">Lanzhou University in China.</span></p>
 
 <p><span class="chinese">必麦森凝胶兰州哪有卖？</span><span class="english">Maisen gel Lanzhou has necessarily sell?</span></p>

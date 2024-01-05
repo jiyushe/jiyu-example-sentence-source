@@ -1,5 +1,7 @@
 # uncircumcised
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uncircumcised.md)
+
 <p><span class="chinese">但未受割礼的，都不可吃这羊羔。</span><span class="english">No uncircumcised male may eat of it.</span></p>
 
 <p><span class="chinese">你们这硬着颈项，心与耳未受割礼的人，常时抗拒圣灵。</span><span class="english">You stiff-necked people, with uncircumcised hearts and ears!</span></p>

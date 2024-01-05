@@ -1,5 +1,7 @@
 # tattoo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tattoo.md)
+
 <p><span class="chinese">甚至可以是一块刺青。</span><span class="english">It could even be a tattoo.</span></p>
 
 <p><span class="chinese">他前臂上刺有花纹。</span><span class="english">He had a tattoo on his forearm.</span></p>

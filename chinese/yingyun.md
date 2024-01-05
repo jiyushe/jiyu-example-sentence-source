@@ -1,5 +1,7 @@
 # 应允
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingyun.md)
+
 <p><span class="chinese">金蛙应允了他的愿望。</span><span class="english">The frog granted his wish.</span></p>
 
 <p><span class="chinese">我不能应允你的要求。</span><span class="english">I cannot assent to what you ask.</span></p>

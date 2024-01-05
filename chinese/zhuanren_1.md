@@ -1,5 +1,7 @@
 # 专任
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanren_1.md)
+
 <p><span class="chinese">他是我们学校的专任老师。</span><span class="english">He is a full-time teacher in our school.</span></p>
 
 <p><span class="chinese">目前﹐黄锦祥牧师是本教会专任主任牧师。</span><span class="english">Currently, Pastor Shawn Huang is our Senior Pastor.</span></p>

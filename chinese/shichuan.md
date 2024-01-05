@@ -1,5 +1,7 @@
 # 失传
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shichuan.md)
+
 <p><span class="chinese">一个失传了的古字。</span><span class="english">PROFIT-An archaic word no longer in use.</span></p>
 
 <p><span class="chinese">再现了许多已失传的典籍。</span><span class="english">To re-discover many lost classical documents.</span></p>

@@ -1,5 +1,7 @@
 # overkill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overkill.md)
+
 <p><span class="chinese">我知道那样有点杀鸡用牛刀。</span><span class="english">I know that might seem like overkill.</span></p>
 
 <p><span class="chinese">那就够了，再多一点多余的。</span><span class="english">That's enough, anymore is just overkill.</span></p>

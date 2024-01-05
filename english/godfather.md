@@ -1,5 +1,7 @@
 # godfather
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/godfather.md)
+
 <p><span class="chinese">署名是“教父”。</span><span class="english">It is signed  Godfather.</span></p>
 
 <p><span class="chinese">游戏界的教父！</span><span class="english">The Godfather of gaming!</span></p>

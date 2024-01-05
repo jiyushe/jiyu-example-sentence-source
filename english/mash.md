@@ -1,5 +1,7 @@
 # mash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mash.md)
+
 <p><span class="chinese">湿纸和糨糊的混合物。</span><span class="english">A mash of wet paper and paste.</span></p>
 
 <p><span class="chinese">用叉把马铃薯捣碎成泥。</span><span class="english">Mash the potatoes with a fork.</span></p>

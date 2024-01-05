@@ -1,5 +1,7 @@
 # absurd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/absurd.md)
+
 <p><span class="chinese">这是荒谬的。</span><span class="english">This was absurd.</span></p>
 
 <p><span class="chinese">多么荒唐的念头!</span><span class="english">What an absurd idea!</span></p>

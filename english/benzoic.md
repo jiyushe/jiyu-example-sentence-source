@@ -1,5 +1,7 @@
 # benzoic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/benzoic.md)
+
 <p><span class="chinese">从苯甲酸衍生而来的一价化学基。</span><span class="english">The univalent radical derived from benzoic acid.</span></p>
 
 <p><span class="chinese">它最先是由苯甲酸脱羧而得到的。</span><span class="english">It was originally obtained by decarboxylation of benzoic acid.</span></p>

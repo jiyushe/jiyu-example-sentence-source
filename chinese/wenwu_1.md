@@ -1,5 +1,7 @@
 # 文物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenwu_1.md)
+
 <p><span class="chinese">古董，文物？</span><span class="english">Curio, cultural thing?</span></p>
 
 <p><span class="chinese">但是文物的旅行并没有就此结束。</span><span class="english">But the journey was not over.</span></p>

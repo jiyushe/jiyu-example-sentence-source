@@ -1,5 +1,7 @@
 # downturn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downturn.md)
+
 <p><span class="chinese">现在是严重的低密时期。</span><span class="english">Now that's a serious downturn.</span></p>
 
 <p><span class="chinese">对于LMA来说，衰退提供了机会。</span><span class="english">For LMA, the downturn provided an opportunity.</span></p>

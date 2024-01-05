@@ -1,5 +1,7 @@
 # gaston
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gaston.md)
+
 <p><span class="chinese">第二天早上加斯顿起床的时候，他的妻子已经离开了。</span><span class="english">When Gaston arose in the morning, his wife had already departed.</span></p>
 
 <p><span class="chinese">加斯顿的酒产自波尔多和朗古度湖斯朗。</span><span class="english">Gaston produces the wines both from Bordeaux and Langoudoc-Roussillon.</span></p>

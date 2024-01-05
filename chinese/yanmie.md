@@ -1,5 +1,7 @@
 # 湮灭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanmie.md)
+
 <p><span class="chinese">皆湮灭在时间日益僵滞的深渊中。</span><span class="english">In the petrifying abyss of Time.</span></p>
 
 <p><span class="chinese">低质量黑洞湮灭了吗？</span><span class="english">Are low-mass black holes vanishing?</span></p>

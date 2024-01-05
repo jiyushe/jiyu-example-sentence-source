@@ -1,5 +1,7 @@
 # swimmy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swimmy.md)
+
 <p><span class="chinese">他们继续往前游，噢，一条鱼。</span><span class="english">They are swimmy around , Oh , a fish.</span></p>
 
 <p><span class="chinese">眩晕病会造成脑溢血吗?。</span><span class="english">Can swimmy disease cause cerebral haemorrhage?</span></p>

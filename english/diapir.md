@@ -1,5 +1,7 @@
 # diapir
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diapir.md)
+
 <p><span class="chinese">在天然气水合物勘探中，海底的泥底辟和泥火山构造是重要的研究对象。</span><span class="english">Both shallow and deep gas plays are present in the mud diapir belt.</span></p>
 
 <p><span class="chinese">盆地广泛发育断裂、底辟构造，影响着水合物的分布。</span><span class="english">Faults and diapir develop widely and influence the distribution of gas hydrate.</span></p>

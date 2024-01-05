@@ -1,5 +1,7 @@
 # yt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yt.md)
+
 <p><span class="chinese">YT愿你拥有快乐与幸福。</span><span class="english">YT wish you have happy and happiness.</span></p>
 
 <p><span class="chinese">马莉从邮递员手中一接过信，就把它撕开了。</span><span class="english">As soon as the postman passed her the letter, Mary tore yt open.</span></p>

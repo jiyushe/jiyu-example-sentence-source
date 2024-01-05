@@ -1,5 +1,7 @@
 # 排版
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paiban_1.md)
+
 <p><span class="chinese">电脑排版，节省材料。</span><span class="english">Typeset and saving material.</span></p>
 
 <p><span class="chinese">我假定这些只是排版错误。</span><span class="english">I assume these are just typos.</span></p>

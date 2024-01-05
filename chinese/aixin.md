@@ -1,5 +1,7 @@
 # 爱心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aixin.md)
+
 <p><span class="chinese">育人之道，爱心为先。</span><span class="english">Yu-Way, first love.</span></p>
 
 <p><span class="chinese">而「爱心」则是敬虔生命的流露。</span><span class="english">Love is life's overflow.</span></p>

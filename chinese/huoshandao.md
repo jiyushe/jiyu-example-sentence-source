@@ -1,5 +1,7 @@
 # 火山岛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoshandao.md)
+
 <p><span class="chinese">最后不能不提一下喀拉喀托火山岛。</span><span class="english">Finally consider the island of Krakatoa.</span></p>
 
 <p><span class="chinese">岛群由火山岛和珊瑚礁组成。</span><span class="english">Island group from the volcanic island and cays.</span></p>

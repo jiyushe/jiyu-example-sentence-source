@@ -1,5 +1,7 @@
 # 外衣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waiyi_1.md)
+
 <p><span class="chinese">她的外衣敞着。</span><span class="english">Her coat was open.</span></p>
 
 <p><span class="chinese">这外衣是氯纶织物制的。</span><span class="english">This coat is made of PVC.</span></p>

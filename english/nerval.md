@@ -1,5 +1,7 @@
 # nerval
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nerval.md)
+
 <p><span class="chinese">一种类神经内分泌特异性蛋白，其编码序列，制法和应用。</span><span class="english">Nerval incretion specific protein analog, its coding sequence, making method and uses.</span></p>
 
 <p><span class="chinese">手术对于稳定颈椎，改善神经功能和生活质量有很大帮助。</span><span class="english">Surgery could stabilize cervical vertebra, improve nerval function and quality of life.</span></p>

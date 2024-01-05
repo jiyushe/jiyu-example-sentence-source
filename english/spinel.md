@@ -1,5 +1,7 @@
 # spinel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spinel.md)
+
 <p><span class="chinese">包体类型主要为尖晶石二辉橄榄岩。</span><span class="english">The mantle xenoliths are dominated by spinel lherzolite.</span></p>
 
 <p><span class="chinese">这就是所谓的钴尖晶石是在斯里兰卡发现。</span><span class="english">It is called the cobalt spinel which was found in Sri Lanka.</span></p>

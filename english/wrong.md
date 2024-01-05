@@ -1,5 +1,7 @@
 # wrong
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wrong.md)
+
 <p><span class="chinese">半对半错。</span><span class="english">Half wrong.</span></p>
 
 <p><span class="chinese">又错了。</span><span class="english">Wrong again.</span></p>

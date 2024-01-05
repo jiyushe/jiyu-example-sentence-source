@@ -1,5 +1,7 @@
 # conservancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conservancy.md)
+
 <p><span class="chinese">水利建设成就显著。</span><span class="english">Notable achievements made in water conservancy.</span></p>
 
 <p><span class="chinese">林业、水利建设取得新进展。</span><span class="english">Forestry and water conservancy made new progress.</span></p>

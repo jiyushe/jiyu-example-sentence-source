@@ -1,5 +1,7 @@
 # 农舍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongshe.md)
+
 <p><span class="chinese">一座谷仓靠着农舍。</span><span class="english">A barn adjoins the farmhouse.</span></p>
 
 <p><span class="chinese">借湖村的哈尼农舍。</span><span class="english">Hani cottage in Jiehu village.</span></p>

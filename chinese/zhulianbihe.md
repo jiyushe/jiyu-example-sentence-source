@@ -1,5 +1,7 @@
 # 珠联璧合
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhulianbihe.md)
+
 <p><span class="chinese">而且，如果斯科拉和姚明珠联璧合呢？</span><span class="english">And if Scola fits next to Yao Ming?</span></p>
 
 <p><span class="chinese">成双成对多，珠联璧合少。</span><span class="english">It is not every couple that is a pair.</span></p>

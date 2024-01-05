@@ -1,5 +1,7 @@
 # bacteriostatic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bacteriostatic.md)
+
 <p><span class="chinese">为了研究苔藓植物的抑菌效果。</span><span class="english">The purpose was to study the bacteriostatic effect of bryophytes.</span></p>
 
 <p><span class="chinese">它不受任何抗菌素或普通制菌剂的影响。</span><span class="english">It is not affected by any antibiotics or common bacteriostatic agents.</span></p>

@@ -1,5 +1,7 @@
 # 小心翼翼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoxinyiyi.md)
+
 <p><span class="chinese">她小心翼翼地关上门。</span><span class="english">She cautiously closed the door.</span></p>
 
 <p><span class="chinese">他小心翼翼地将泥土拭去。</span><span class="english">He dabbed the mud carefully off.</span></p>

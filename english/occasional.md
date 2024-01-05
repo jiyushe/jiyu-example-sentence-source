@@ -1,5 +1,7 @@
 # occasional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/occasional.md)
+
 <p><span class="chinese">这名观众名叫安德鲁。</span><span class="english">This is from Andrew at the Occasional.</span></p>
 
 <p><span class="chinese">因为你偶尔的多愁善感。</span><span class="english">Because of your occasional sentimentality.</span></p>

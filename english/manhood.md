@@ -1,5 +1,7 @@
 # manhood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manhood.md)
+
 <p><span class="chinese">和你的男子气挥手告别。</span><span class="english">Waving bye-bye to your manhood.</span></p>
 
 <p><span class="chinese">弗洛拉曼胡德把发麻的双臂交换了一下位置。</span><span class="english">Flora manhood had to shift her dead arm.</span></p>

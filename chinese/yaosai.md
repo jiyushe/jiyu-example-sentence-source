@@ -1,5 +1,7 @@
 # 要塞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaosai.md)
+
 <p><span class="chinese">英国东印度公司于1639年在此建立圣·乔治要塞。</span><span class="english">Founded in 1639 as Fort St.</span></p>
 
 <p><span class="chinese">军队袭击那个要塞。</span><span class="english">The army assailed the fortress.</span></p>

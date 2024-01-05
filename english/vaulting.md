@@ -1,5 +1,7 @@
 # vaulting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vaulting.md)
+
 <p><span class="chinese">摆上一个鞍马和蹦床。</span><span class="english">Get a vaulting horse and a trampoline.</span></p>
 
 <p><span class="chinese">横亘海上，草原的梦土</span><span class="english">Vaulting the sea, the prairies' dreaming sod</span></p>

@@ -1,5 +1,7 @@
 # puppy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puppy.md)
+
 <p><span class="chinese">小狗狺吠。</span><span class="english">A puppy yelps.</span></p>
 
 <p><span class="chinese">那是早恋。</span><span class="english">It's puppy love.</span></p>

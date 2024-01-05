@@ -1,5 +1,7 @@
 # animality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/animality.md)
+
 <p><span class="chinese">这是人类的动物性。</span><span class="english">It is human's animality.</span></p>
 
 <p><span class="chinese">你整个人性以及动物性。</span><span class="english">Your entire humanity and animality.</span></p>

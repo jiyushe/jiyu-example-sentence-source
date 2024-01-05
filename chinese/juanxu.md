@@ -1,5 +1,7 @@
 # 卷须
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juanxu.md)
+
 <p><span class="chinese">许多种类叶腋有卷须。</span><span class="english">Many have tendrils in leaf axils.</span></p>
 
 <p><span class="chinese">攀援植物的卷须就有向触性。</span><span class="english">The tendrils of climbing plants are thigmotropic.</span></p>

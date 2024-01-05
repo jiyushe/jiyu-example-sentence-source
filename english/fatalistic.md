@@ -1,5 +1,7 @@
 # fatalistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fatalistic.md)
+
 <p><span class="chinese">谁听说过一个乡下人是宿命论者？</span><span class="english">Who ever heard of a fatalistic farmer?</span></p>
 
 <p><span class="chinese">有人可能会将这看成一种宿命型思维。</span><span class="english">Some may see this as fatalistic thinking.</span></p>

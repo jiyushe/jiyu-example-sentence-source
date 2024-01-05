@@ -1,5 +1,7 @@
 # credence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/credence.md)
+
 <p><span class="chinese">把厨炊的烟火气从衣服上去掉是很难的。</span><span class="english">It was difficult to give credence to the report.</span></p>
 
 <p><span class="chinese">突来的暴风雨看来证实了气象员的警报。</span><span class="english">This sudden storm lends credence to the weatherman's warning.</span></p>

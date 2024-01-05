@@ -1,5 +1,7 @@
 # 释迦牟尼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shijiamuni.md)
+
 <p><span class="chinese">释迦牟尼佛是男性至上主义者吗？</span><span class="english">Was the Lord Buddha a sexist?</span></p>
 
 <p><span class="chinese">释迦牟尼佛在看着你。</span><span class="english">Shakyamuni Buddha looking at you.</span></p>

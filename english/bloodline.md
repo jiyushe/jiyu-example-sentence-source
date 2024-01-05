@@ -1,5 +1,7 @@
 # bloodline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bloodline.md)
+
 <p><span class="chinese">黄约翰光盘，开始著名的血统。</span><span class="english">Yellow John ROM, to start the famous bloodline.</span></p>
 
 <p><span class="chinese">他的儿子凯尔萨斯王子是这个皇家血统的最后血脉。</span><span class="english">His son is the only remaining survivor of the royal bloodline.</span></p>

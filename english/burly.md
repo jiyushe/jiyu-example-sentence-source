@@ -1,5 +1,7 @@
 # burly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burly.md)
+
 <p><span class="chinese">从犹太人当中蓦地冲出一个彪形大汉。</span><span class="english">A burly figure bursts from the Jews.</span></p>
 
 <p><span class="chinese">那些橄榄球运动员看上去既高大，又魁梧。</span><span class="english">Those football players are huge. They look burly.</span></p>

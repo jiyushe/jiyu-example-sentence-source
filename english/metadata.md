@@ -1,5 +1,7 @@
 # metadata
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metadata.md)
+
 <p><span class="chinese">你给它的元数据了吗？</span><span class="english">Do you have metadata for it?</span></p>
 
 <p><span class="chinese">将出现“清除元数据”菜单。</span><span class="english">The Metadata Cleanup menu appears.</span></p>

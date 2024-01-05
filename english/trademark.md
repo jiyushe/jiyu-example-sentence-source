@@ -1,5 +1,7 @@
 # trademark
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trademark.md)
+
 <p><span class="chinese">奴佛卡因是商标。</span><span class="english">Novocain is a trademark.</span></p>
 
 <p><span class="chinese">在uspto.gov上进行商标查询</span><span class="english">a trademark search on uspto.gov</span></p>

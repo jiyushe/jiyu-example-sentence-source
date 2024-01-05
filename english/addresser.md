@@ -1,5 +1,7 @@
 # addresser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/addresser.md)
+
 <p><span class="chinese">发信人是乔治先生。</span><span class="english">The addresser is Mr. George.</span></p>
 
 <p><span class="chinese">这一点应该引起写信人的注意。</span><span class="english">This should arouse the attention of the addresser.</span></p>

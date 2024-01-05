@@ -1,5 +1,7 @@
 # bristly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bristly.md)
+
 <p><span class="chinese">她觉得他的胡须太扎人。</span><span class="english">She finds his beard too bristly.</span></p>
 
 <p><span class="chinese">他粗硬的红头发根根直立。</span><span class="english">His bristly red hair was standing on end.</span></p>

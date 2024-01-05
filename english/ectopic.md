@@ -1,5 +1,7 @@
 # ectopic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ectopic.md)
+
 <p><span class="chinese">请问我的是宫外孕嘛？</span><span class="english">Is excuse me mine ectopic pregnancy?</span></p>
 
 <p><span class="chinese">硬膜外异位脑膜瘤是一种罕见的肿瘤。</span><span class="english">Extradural ectopic meningioma is a rare tumor.</span></p>

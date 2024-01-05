@@ -1,5 +1,7 @@
 # 练达
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianda.md)
+
 <p><span class="chinese">世事洞明皆学问，人情练达即文章。</span><span class="english">That article things clarity all learning.</span></p>
 
 <p><span class="chinese">语言学家没有必要成为练达的音位学家。</span><span class="english">The linguist does not need to be a consummate phonologist.</span></p>

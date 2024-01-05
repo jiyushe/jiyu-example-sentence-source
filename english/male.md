@@ -1,5 +1,7 @@
 # male 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/male.md)
+
 <p><span class="chinese">遗体，男性。</span><span class="english">Body, male.</span></p>
 
 <p><span class="chinese">雄性动物的奶头。</span><span class="english">Take male nipples.</span></p>

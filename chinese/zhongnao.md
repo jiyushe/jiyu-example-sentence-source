@@ -1,5 +1,7 @@
 # 中脑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongnao.md)
+
 <p><span class="chinese">结扎住中脑动脉，而后再注入。</span><span class="english">The brain artery was ligated and then infused.</span></p>
 
 <p><span class="chinese">中脑动脉在表面形成的吻合，平均每例为3.6支。</span><span class="english">There are 3.6 anastomose branches in each midbrain.</span></p>

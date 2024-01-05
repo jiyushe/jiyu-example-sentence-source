@@ -1,5 +1,7 @@
 # honduras
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/honduras.md)
+
 <p><span class="chinese">洪都拉斯的麻烦和穷困已经够多了。</span><span class="english">There’s enough trouble and poverty in Honduras already.</span></p>
 
 <p><span class="chinese">得到帕拉西奥斯为我们开启了洪都拉斯一扇门。</span><span class="english">Getting Palacios has opened up the door to Honduras for us.</span></p>

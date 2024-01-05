@@ -1,5 +1,7 @@
 # inspire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inspire.md)
+
 <p><span class="chinese">“罗马”激起了恐惧。</span><span class="english">The Roma inspire fear.</span></p>
 
 <p><span class="chinese">举例来说，人是怎样激励的？</span><span class="english">For example, how does one inspire?</span></p>

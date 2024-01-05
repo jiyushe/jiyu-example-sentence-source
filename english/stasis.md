@@ -1,5 +1,7 @@
 # stasis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stasis.md)
+
 <p><span class="chinese">其中血瘀耳窍为最主要的病机。</span><span class="english">Blood stasis is the most common pathogenesis.</span></p>
 
 <p><span class="chinese">自2005年以来，基类库就处于停滞之中。</span><span class="english">Since 2005, the base class library was in stasis.</span></p>

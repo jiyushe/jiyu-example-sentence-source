@@ -1,5 +1,7 @@
 # hydroxyproline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydroxyproline.md)
+
 <p><span class="chinese">用氯胺T法测心肌组织羟脯氨酸的含量。</span><span class="english">Hydroxyproline was determined by chloramines T method.</span></p>
 
 <p><span class="chinese">它还含有高浓度的脯氨酸和羟脯氨酸。</span><span class="english">It also contains high concentrations of proline and hydroxyproline.</span></p>

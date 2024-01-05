@@ -1,5 +1,7 @@
 # 另外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingwai.md)
+
 <p><span class="chinese">另外一个文化馆。</span><span class="english">Another culture house.</span></p>
 
 <p><span class="chinese">另外我的丈夫是一个数学奇才。</span><span class="english">My hubby is a math wiz.</span></p>

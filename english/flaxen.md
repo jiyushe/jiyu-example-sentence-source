@@ -1,5 +1,7 @@
 # flaxen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flaxen.md)
+
 <p><span class="chinese">我的打火机是淡黄色的和透明的。</span><span class="english">My lighter are flaxen and transparent.</span></p>
 
 <p><span class="chinese">再一次弓形的亚麻眉毛，“你这麽认为。</span><span class="english">The flaxen brow arched again, You think so.</span></p>

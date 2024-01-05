@@ -1,5 +1,7 @@
 # disclosure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disclosure.md)
+
 <p><span class="chinese">这条新闻的揭露震惊了公众。</span><span class="english">The new's disclosure shocked the public.</span></p>
 
 <p><span class="chinese">Schneck博士并未披露财务状况。</span><span class="english">Dr. Schneck reports no financial disclosure.</span></p>

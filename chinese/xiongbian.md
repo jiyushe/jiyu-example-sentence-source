@@ -1,5 +1,7 @@
 # 雄辩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiongbian.md)
+
 <p><span class="chinese">我不善言语，而他却是位雄辩家。</span><span class="english">I'm no orator , as he is.</span></p>
 
 <p><span class="chinese">他的雄辩之才能开岩裂石。</span><span class="english">His eloquence could split rocks.</span></p>

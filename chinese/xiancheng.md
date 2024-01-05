@@ -1,5 +1,7 @@
 # 县城
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiancheng.md)
+
 <p><span class="chinese">北川曾经是一个有22000人口的小县城。</span><span class="english">Beichuan was once a town of 22, 000.</span></p>
 
 <p><span class="chinese">南距顺义县城约9公里。</span><span class="english">South from shunyi county about 9 km.</span></p>

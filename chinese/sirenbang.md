@@ -1,5 +1,7 @@
 # 四人帮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sirenbang.md)
+
 <p><span class="chinese">“四人帮”创造了一个名词叫“臭老九”。</span><span class="english">That word is a recent coinage.</span></p>
 
 <p><span class="chinese">华国锋在四人帮被捕中的作用至今不甚明瞭。</span><span class="english">Hua's role in the arrests is unclear.</span></p>

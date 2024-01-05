@@ -1,5 +1,7 @@
 # cuvette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cuvette.md)
+
 <p><span class="chinese">打开比色皿槽和拿走比色皿。</span><span class="english">Unlock the cell holder and remove the cuvette.</span></p>
 
 <p><span class="chinese">可有带有试管的血色素测量机构或卡。</span><span class="english">There may be a hemoglobin measurement mechanism or card with a cuvette.</span></p>

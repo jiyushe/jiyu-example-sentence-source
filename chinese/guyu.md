@@ -1,5 +1,7 @@
 # 谷雨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guyu.md)
+
 <p><span class="chinese">谷雨是二十四节气之一。</span><span class="english">Grain Rain is one of the 24 solar terms.</span></p>
 
 <p><span class="chinese">谷雨时洛阳牡丹开花。</span><span class="english">Peony of the Luoyang when Grain Rain blossoms.</span></p>

@@ -1,5 +1,7 @@
 # glancing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glancing.md)
+
 <p><span class="chinese">海棠开后，望到如今。</span><span class="english">Begonia open, glancing now.</span></p>
 
 <p><span class="chinese">他打了他一下打歪了，滑到他下巴上了。</span><span class="english">He hit him a glancing blow on the chin.</span></p>

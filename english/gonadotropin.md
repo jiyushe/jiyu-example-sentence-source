@@ -1,5 +1,7 @@
 # gonadotropin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gonadotropin.md)
+
 <p><span class="chinese">原因是促性腺激素缺乏。</span><span class="english">The reason is the lack of gonadotropin.</span></p>
 
 <p><span class="chinese">从而影响促性腺激素释放激素及黄体生成素的水平。</span><span class="english">That to affect the level of gonadotropin releasing hormone and luteinizing hormone.</span></p>

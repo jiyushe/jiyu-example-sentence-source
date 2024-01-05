@@ -1,5 +1,7 @@
 # disengagement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disengagement.md)
+
 <p><span class="chinese">在对抗脱离的这场战斗中，一个大的障碍就是内疚。</span><span class="english">A big obstacle in this battle against disengagement is guilt.</span></p>
 
 <p><span class="chinese">“问问他，莎娜认为脱离时有没有什么问题？”瑞克对文斯说。</span><span class="english">"Ask him if Sarna anticipates any disengagement problems, " Rick said to Vince.</span></p>

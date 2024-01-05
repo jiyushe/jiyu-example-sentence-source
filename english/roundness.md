@@ -1,5 +1,7 @@
 # roundness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roundness.md)
+
 <p><span class="chinese">切削刃钝圆一般能使切屑卷曲半径增大。</span><span class="english">The cutting edge roundness can make chip curling radii larger.</span></p>
 
 <p><span class="chinese">他的下巴依然留着一点婴儿肥的痕迹。</span><span class="english">He still had just a hint of childish roundness left around his chin.</span></p>

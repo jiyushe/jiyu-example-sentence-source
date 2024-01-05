@@ -1,5 +1,7 @@
 # 坎儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaner.md)
+
 <p><span class="chinese">四十岁好像是人的一个坎儿。</span><span class="english">Aging forty years old like living on a threshold.</span></p>
 
 <p><span class="chinese">摩托车只要一经过坎儿，发动机就会熄火。</span><span class="english">If the motorcycle goes over a bump , the engine misfires.</span></p>

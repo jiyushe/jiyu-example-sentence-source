@@ -1,5 +1,7 @@
 # wringing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wringing.md)
+
 <p><span class="chinese">她跑出屋去，扭着双手。</span><span class="english">She rushed out of the room, wringing her hands.</span></p>
 
 <p><span class="chinese">他正在把游泳裤中的水绞出来。</span><span class="english">He is wringing out the water from his swimming trunks.</span></p>

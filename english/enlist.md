@@ -1,5 +1,7 @@
 # enlist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enlist.md)
+
 <p><span class="chinese">他决定入伍当美国海军陆战队士兵。</span><span class="english">He decided to enlist in the Marines.</span></p>
 
 <p><span class="chinese">长期询求与您项目合作！</span><span class="english">Enlist the long-term project cooperation with you!</span></p>

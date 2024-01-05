@@ -1,5 +1,7 @@
 # sceptical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sceptical.md)
+
 <p><span class="chinese">我们对任何一刀切的解决方案表示怀疑。</span><span class="english">We would be sceptical to any broad-brush solution.</span></p>
 
 <p><span class="chinese">威妮弗莱德的脸上露出了一丝神秘，怀疑的微笑。</span><span class="english">A small smile came over Winifred's face, subtle and sceptical.</span></p>

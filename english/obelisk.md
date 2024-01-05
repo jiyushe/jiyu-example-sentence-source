@@ -1,5 +1,7 @@
 # obelisk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obelisk.md)
+
 <p><span class="chinese">那是一座高耸的方形尖塔。</span><span class="english">It is a very tall obelisk.</span></p>
 
 <p><span class="chinese">仔细看一下这座方尖石塔。</span><span class="english">Take a good look at this obelisk.</span></p>

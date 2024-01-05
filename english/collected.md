@@ -1,5 +1,7 @@
 # collected
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collected.md)
+
 <p><span class="chinese">什么时候取信？</span><span class="english">When are the letters collected?</span></p>
 
 <p><span class="chinese">他收集了一捆树枝。</span><span class="english">He collected a bundle of sticks.</span></p>

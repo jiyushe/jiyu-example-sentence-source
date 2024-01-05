@@ -1,5 +1,7 @@
 # shortlist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shortlist.md)
+
 <p><span class="chinese">2011年前进诗歌奖最终候选人名单揭晓。</span><span class="english">The 2011 Forward prize shortlist has been announced.</span></p>
 
 <p><span class="chinese">面对无尽的装饰可能性，我列出了一个决选名单。</span><span class="english">Faced with an endless array of possibilities, I made a shortlist.</span></p>

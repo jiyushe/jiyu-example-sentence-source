@@ -1,5 +1,7 @@
 # chuck 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chuck.md)
+
 <p><span class="chinese">查克认输了。</span><span class="english">Chuck was defeated.</span></p>
 
 <p><span class="chinese">查诺里斯是一个坏演员。</span><span class="english">Chuck Noris is a bad actor.</span></p>

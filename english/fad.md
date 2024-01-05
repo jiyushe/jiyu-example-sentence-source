@@ -1,5 +1,7 @@
 # fad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fad.md)
+
 <p><span class="chinese">那不仅仅是一时的狂热。</span><span class="english">It is not just a fad.</span></p>
 
 <p><span class="chinese">这些新音乐将会是好景不常？</span><span class="english">Is this new music just a fad?</span></p>

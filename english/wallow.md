@@ -1,5 +1,7 @@
 # wallow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wallow.md)
+
 <p><span class="chinese">而在美国，我们恰恰沉溺于此。</span><span class="english">In America, we wallow in it.</span></p>
 
 <p><span class="chinese">不要让自己沉浸在愧疚的深渊里。</span><span class="english">Try not to wallow in feelings of guilt.</span></p>

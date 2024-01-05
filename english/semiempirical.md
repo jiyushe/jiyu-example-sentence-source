@@ -1,5 +1,7 @@
 # semiempirical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semiempirical.md)
+
 <p><span class="chinese">计算中，用半经验方法确定了分子轨道系数。</span><span class="english">The molecular orbital coefficients are determined by means of a semiempirical method in the calculation.</span></p>
 
 <p><span class="chinese">方法研究了固体材料中键电荷与键共价性的关系。</span><span class="english">The relationship between bond valence and bond covalency has been investigated by a semiempirical method.</span></p>

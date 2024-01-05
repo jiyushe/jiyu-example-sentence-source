@@ -1,5 +1,7 @@
 # 铅垂线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianchuixian.md)
+
 <p><span class="chinese">铅垂线总是垂直于水平面的。</span><span class="english">Water always finds its own level.</span></p>
 
 <p><span class="chinese">铅垂线总是垂直于水平面的。</span><span class="english">The plumbline is always perpendicular to the horizontal plane.</span></p>

@@ -1,5 +1,7 @@
 # burrito
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burrito.md)
+
 <p><span class="chinese">她递给他一个微波卷饼。</span><span class="english">She hands him a microwaved burrito.</span></p>
 
 <p><span class="chinese">他在厨房，热墨西哥卷饼当早餐。</span><span class="english">Yeah, he's nuking his breakfast burrito in the kitchen.</span></p>

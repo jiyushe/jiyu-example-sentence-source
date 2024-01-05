@@ -1,5 +1,7 @@
 # truck 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/truck.md)
+
 <p><span class="chinese">垃圾车。</span><span class="english">Garbage truck.</span></p>
 
 <p><span class="chinese">一辆卡车急驶而过。</span><span class="english">A truck dashed by.</span></p>

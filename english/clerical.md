@@ -1,5 +1,7 @@
 # clerical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clerical.md)
+
 <p><span class="chinese">协助处理公司行政事务。</span><span class="english">Cooperate to handle clerical work.</span></p>
 
 <p><span class="chinese">一位穿灰色教士服、系贴颈硬白领圈的祭司。</span><span class="english">A priest in a clerical grey suit with a dog collar.</span></p>

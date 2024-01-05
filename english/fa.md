@@ -1,5 +1,7 @@
 # fa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fa.md)
+
 <p><span class="chinese">腐植酸全部采用黄腐酸。</span><span class="english">The use of humic acid FA.</span></p>
 
 <p><span class="chinese">比如法国，就是“法瓜”。</span><span class="english">France, for example, is Fa Gwa.</span></p>

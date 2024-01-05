@@ -1,5 +1,7 @@
 # 马鹿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/malu_2.md)
+
 <p><span class="chinese">对马鹿流产胎儿的肝脏中的细菌进行分离和鉴定。</span><span class="english">To isolate and identify the bacteria form the liver of aborted fetus of wapiti.</span></p>
 
 <p><span class="chinese">眠乃宁是一种在梅花鹿、马鹿和熊等草食、杂食野生动物上使用比较广泛的麻醉药。</span><span class="english">Miannaining is a good anaesthetic for animal such as deer, red deer and bear etc.</span></p>

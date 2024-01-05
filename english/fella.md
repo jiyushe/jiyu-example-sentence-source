@@ -1,5 +1,7 @@
 # fella
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fella.md)
+
 <p><span class="chinese">我之前和这人见过一次。</span><span class="english">I had met the fella once before.</span></p>
 
 <p><span class="chinese">这个小伙子中等个头儿。</span><span class="english">The fella has a moderate stature.</span></p>

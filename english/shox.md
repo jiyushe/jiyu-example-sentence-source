@@ -1,5 +1,7 @@
 # shox
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shox.md)
+
 <p><span class="chinese">耐克弹力柱鞋在鞋垫下方有一个狭缝。</span><span class="english">The Nike shox has a slot beneath the cushion that lines the shoe.</span></p>
 
 <p><span class="chinese">她还给了他一杯牛奶。“谢谢您，夫人。”他说。</span><span class="english">She gave him a tin cup of milk. nike shox nz"I thank you, lady, " he said.</span></p>

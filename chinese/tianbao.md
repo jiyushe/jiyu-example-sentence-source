@@ -1,5 +1,7 @@
 # 填报
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianbao.md)
+
 <p><span class="chinese">你们交验的证件与填报的名单不符，为什么？</span><span class="english">Your documents are out of accord with the name list, why?</span></p>
 
 <p><span class="chinese">本人谨此声明在本报名表填报的资料均属正确。</span><span class="english">I affirm that the facts set forth in it are true and complete.</span></p>

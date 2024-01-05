@@ -1,5 +1,7 @@
 # afterbirth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afterbirth.md)
+
 <p><span class="chinese">精细胞是否有细胞周期?。</span><span class="english">Whether does afterbirth have cellular cycle?</span></p>
 
 <p><span class="chinese">屁股上面长胞是怎么一回事?。</span><span class="english">Is long afterbirth above the buttock how one and the same?</span></p>

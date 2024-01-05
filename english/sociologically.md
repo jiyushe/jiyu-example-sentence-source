@@ -1,5 +1,7 @@
 # sociologically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sociologically.md)
+
 <p><span class="chinese">禁忌语的产生有着明显的历史和社会根源。</span><span class="english">Taboo words can be analyzed historically and sociologically.</span></p>
 
 <p><span class="chinese">他们在文化上、社交上、性倾向上、政治上都是不同的。</span><span class="english">The group was as culturally, sociologically , sexually, and politically diverse as you could assemble.</span></p>

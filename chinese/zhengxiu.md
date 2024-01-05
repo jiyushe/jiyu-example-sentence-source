@@ -1,5 +1,7 @@
 # 整修
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengxiu.md)
+
 <p><span class="chinese">正是整修窝巢的时候。</span><span class="english">It is time to renovate the nest.</span></p>
 
 <p><span class="chinese">她一直在整修那所房子，你们知道的。</span><span class="english">She’s been fixing it up, you know.</span></p>

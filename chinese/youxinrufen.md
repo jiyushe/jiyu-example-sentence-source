@@ -1,5 +1,7 @@
 # 忧心如焚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youxinrufen.md)
+
 <p><span class="chinese">我们真的觉得很忧心如焚最近。</span><span class="english">We really feel very distraught recently.</span></p>
 
 <p><span class="chinese">越发越增添了心中的忧虑，一时竟至忧心如焚。</span><span class="english">The anxiety increased, became almost painful for a moment.</span></p>

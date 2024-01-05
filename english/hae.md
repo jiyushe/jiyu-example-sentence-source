@@ -1,5 +1,7 @@
 # hae
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hae.md)
+
 <p><span class="chinese">他们有一个小花园。</span><span class="english">They hae a little garden.</span></p>
 
 <p><span class="chinese">我可以要一张免费城市地图么？</span><span class="english">May I hae the free city map?</span></p>

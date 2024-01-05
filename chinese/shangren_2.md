@@ -1,5 +1,7 @@
 # 商人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangren_2.md)
+
 <p><span class="chinese">一些商人以贩卖军火赚钱。</span><span class="english">He is a coal merchant.</span></p>
 
 <p><span class="chinese">商人买进卖出。</span><span class="english">Merchants buy and sell.</span></p>

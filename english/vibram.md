@@ -1,5 +1,7 @@
 # vibram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vibram.md)
+
 <p><span class="chinese">没有任何人能停止这个男人的所谓表现。</span><span class="english">Nobody can stop the one-man show, buy vibram five finger.</span></p>
 
 <p><span class="chinese">友谊如金钱个别，轻易得到却不易坚持。</span><span class="english">Friendship is like money, Vibram Five Fingers, easier made than kept.</span></p>

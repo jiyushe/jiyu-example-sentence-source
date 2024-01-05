@@ -1,5 +1,7 @@
 # 血友病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueyoubing.md)
+
 <p><span class="chinese">血友病是他家的遗传。</span><span class="english">Hemophilia runs in his family.</span></p>
 
 <p><span class="chinese">出现“血友病沙皇”也为期不远了。</span><span class="english">A haemophilia tsar cannot be far away.</span></p>

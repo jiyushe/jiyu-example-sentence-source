@@ -1,5 +1,7 @@
 # luther
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luther.md)
+
 <p><span class="chinese">马丁路德去世。</span><span class="english">Martin Luther died.</span></p>
 
 <p><span class="chinese">小马丁。路德。京博士。</span><span class="english">Dr. Martin Luther King, Jr.</span></p>

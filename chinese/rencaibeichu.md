@@ -1,5 +1,7 @@
 # 人才辈出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rencaibeichu.md)
+
 <p><span class="chinese">我们的时代是人才辈出的时代。</span><span class="english">It is a period prolific of great poets.</span></p>
 
 <p><span class="chinese">青史册册,人才辈出,各领风骚,谁人相助</span><span class="english">Every ten years a great man Who paid the piper?</span></p>

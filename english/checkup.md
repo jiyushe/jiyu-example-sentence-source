@@ -1,5 +1,7 @@
 # checkup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/checkup.md)
+
 <p><span class="chinese">一个上了年纪的男人请医生为他作健康检查。</span><span class="english">An elderly man visits the doctor for a checkup.</span></p>
 
 <p><span class="chinese">一个男人找到大夫为他做一个全面检查。</span><span class="english">A man goes to his doctor for a complete checkup.</span></p>

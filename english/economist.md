@@ -1,5 +1,7 @@
 # economist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/economist.md)
+
 <p><span class="chinese">最好的周刊是经济学家。</span><span class="english">The best weekly is The Economist.</span></p>
 
 <p><span class="chinese">这位严厉的经济学家是谁？</span><span class="english">Who was that tough-talking economist?</span></p>

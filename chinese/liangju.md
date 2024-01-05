@@ -1,5 +1,7 @@
 # 量具
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangju.md)
+
 <p><span class="chinese">安一量具，高品质的象征。</span><span class="english">On one gauge, high-quality symbol.</span></p>
 
 <p><span class="chinese">所有量具是否都有校验？</span><span class="english">Have all gages been dimensionally certified?</span></p>

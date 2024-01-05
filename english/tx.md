@@ -1,5 +1,7 @@
 # tx
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tx.md)
+
 <p><span class="chinese">如果您使用的新模式，重做你的Tx校准。</span><span class="english">If you use the new modes, redo your Tx Calibration.</span></p>
 
 <p><span class="chinese">她的生日是三月五日，而她住在德克萨斯州奥斯汀市。</span><span class="english">Her birthday is March 5, and she lives in Austin, TX.</span></p>

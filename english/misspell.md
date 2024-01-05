@@ -1,5 +1,7 @@
 # misspell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misspell.md)
+
 <p><span class="chinese">此外，他们可能拼错了。</span><span class="english">Furthermore, they may misspell some.</span></p>
 
 <p><span class="chinese">列一张你经常拼错字的表。</span><span class="english">Keep a list of words that you often misspell.</span></p>

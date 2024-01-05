@@ -1,5 +1,7 @@
 # steelwork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/steelwork.md)
+
 <p><span class="chinese">桅杆天线为钢结构。</span><span class="english">The antenna is a open lattice of steelwork.</span></p>
 
 <p><span class="chinese">钢结构工业厂房的设计，施工，维护。</span><span class="english">Structural steelwork industrial plant design, construction and maintenance.</span></p>

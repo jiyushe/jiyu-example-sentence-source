@@ -1,5 +1,7 @@
 # unorganized
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unorganized.md)
+
 <p><span class="chinese">这个工厂的工人未加入工会。</span><span class="english">The workers in the plant were unorganized.</span></p>
 
 <p><span class="chinese">无组织的地区缺乏正规的政府。</span><span class="english">Unorganized territories lack a formal government.</span></p>

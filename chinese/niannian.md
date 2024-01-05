@@ -1,5 +1,7 @@
 # 念念
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niannian.md)
+
 <p><span class="chinese">我想要给你们念念我收到的一封来信。</span><span class="english">I want to read you a letter that I got.</span></p>
 
 <p><span class="chinese">妈，如果是玛丽的来信，就大声念念吧。</span><span class="english">If it's a letter from Mary, read it out, Mother.</span></p>

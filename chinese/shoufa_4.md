@@ -1,5 +1,7 @@
 # 首发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoufa_4.md)
+
 <p><span class="chinese">快剧网首发，齐大为找到樱子。</span><span class="english">Fast play nets start to find yingzi, qi.</span></p>
 
 <p><span class="chinese">我认为巴西的首发阵容中将没有尼尔玛。</span><span class="english">A. I expect Brazil to line up without Nilmar</span></p>

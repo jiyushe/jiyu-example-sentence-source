@@ -1,5 +1,7 @@
 # nonnegotiable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonnegotiable.md)
+
 <p><span class="chinese">这在物理里是确定的。</span><span class="english">That is nonnegotiable in physics.</span></p>
 
 <p><span class="chinese">“主权问题是不能谈判的”。</span><span class="english">The question of sovereignty of is nonnegotiable or not negotiable.</span></p>

@@ -1,5 +1,7 @@
 # 毫无疑义
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haowuyiyi.md)
+
 <p><span class="chinese">检阅你“必须做”的事情清单是毫无疑义的。</span><span class="english">Checking things off a To-Do list is rarely meaningful.</span></p>
 
 <p><span class="chinese">预计官员们将在WTO下个月的一次部长级会议上毫无疑义地正式批准这桩交易。</span><span class="english">Officials are expected to rubber-stamp the deal next month at a WTO ministerial meeting.</span></p>

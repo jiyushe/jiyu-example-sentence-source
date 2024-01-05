@@ -1,5 +1,7 @@
 # 预产期
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuchanqi.md)
+
 <p><span class="chinese">预产期不在接下来这两周内。</span><span class="english">The baby isn’t due for another two weeks.</span></p>
 
 <p><span class="chinese">其中一个婴儿的预产期为2009年12月，另一个呢？</span><span class="english">One baby's due date is in December 2009. The other?</span></p>

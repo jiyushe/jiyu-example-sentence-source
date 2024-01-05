@@ -1,5 +1,7 @@
 # 诗话
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shihua_4.md)
+
 <p><span class="chinese">其中“领悟式”的批评方法，对于后世诗话具有垂范作用。</span><span class="english">The criticism way of" apperception type" was helpful to the poetic criticism of aftertime.</span></p>
 
 <p><span class="chinese">本论文共分三个部分，第一部分为第一章即略论理性在宋诗话中的兴起和发展。</span><span class="english">The first chapter that a brief discussion of the rise and development of reason in Song dynasty poetics.</span></p>

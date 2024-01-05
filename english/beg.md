@@ -1,5 +1,7 @@
 # beg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beg.md)
+
 <p><span class="chinese">能重复一下吗</span><span class="english">I beg your pardon.</span></p>
 
 <p><span class="chinese">不求收藏！但求阅看！</span><span class="english">Do not beg collect!</span></p>

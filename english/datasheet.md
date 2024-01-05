@@ -1,5 +1,7 @@
 # datasheet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/datasheet.md)
+
 <p><span class="chinese">数据手册的第6页被省略。</span><span class="english">Page 6 of the datasheet is omitted.</span></p>
 
 <p><span class="chinese">在“数据表”视图中打开“客户”表。</span><span class="english">Open the Customers table in Datasheet view.</span></p>

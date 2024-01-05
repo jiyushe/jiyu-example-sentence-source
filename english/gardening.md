@@ -1,5 +1,7 @@
 # gardening
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gardening.md)
+
 <p><span class="chinese">与玛丽一起莳花。</span><span class="english">Gardening with Mary.</span></p>
 
 <p><span class="chinese">农业和园艺业。</span><span class="english">Farming and gardening.</span></p>

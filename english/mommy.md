@@ -1,5 +1,7 @@
 # mommy 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mommy.md)
+
 <p><span class="chinese">妈咪，对不起。</span><span class="english">Sorry, Mommy.</span></p>
 
 <p><span class="chinese">宝贝，把它给妈妈。</span><span class="english">Give it to mommy.</span></p>

@@ -1,5 +1,7 @@
 # forebay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forebay.md)
+
 <p><span class="chinese">介绍了金凤水电站调压塔式前池的结构型式。</span><span class="english">This paper gives a presentation of the surge tower type forebay design of Jinfeng Hydroelectric Power Station.</span></p>
 
 <p><span class="chinese">虽然易趣正式否认了直插式，分析师认为，卖方罢工作为一个先声，为艰苦的时候来易趣。</span><span class="english">Though eBay officially denies the dip, analysts see the seller strike as a harbinger for tough times to come foreBay.</span></p>

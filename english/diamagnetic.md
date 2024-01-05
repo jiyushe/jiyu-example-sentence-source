@@ -1,5 +1,7 @@
 # diamagnetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diamagnetic.md)
+
 <p><span class="chinese">在磁学中抗磁材料，好。</span><span class="english">In magnetism. The diamagnetic materials. Right.</span></p>
 
 <p><span class="chinese">许多金属和大部分非金属都是逆磁性的。</span><span class="english">Many of the metals and most of the nonmetals are diamagnetic.</span></p>

@@ -1,5 +1,7 @@
 # respirable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/respirable.md)
+
 <p><span class="chinese">运动造成的可吸入颗粒物污染。</span><span class="english">Second Movement from pollution caused by respirable particles.</span></p>
 
 <p><span class="chinese">车间空气中呼吸性矽尘卫生标准。</span><span class="english">Health standard for respirable silica dust in the air of workplace.</span></p>

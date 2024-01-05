@@ -1,5 +1,7 @@
 # 礼金
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lijin_1.md)
+
 <p><span class="chinese">告诉宾客们将如何使用在婚礼上收到的礼金会促使人们更愿意慷慨解囊。</span><span class="english">Telling guests what the money is for can encourage more giving.</span></p>
 
 <p><span class="chinese">我们不能再继续下去而不送的礼金，以支付更多的护理人员。</span><span class="english">We cannot continue without gifts of money to pay for more nursing staff.</span></p>

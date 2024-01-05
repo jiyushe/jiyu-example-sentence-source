@@ -1,5 +1,7 @@
 # narrowly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/narrowly.md)
+
 <p><span class="chinese">他险些就被公汽撞倒了。</span><span class="english">He was narrowly hit by the bus.</span></p>
 
 <p><span class="chinese">首轮比赛她涉险过关。</span><span class="english">She narrowly won the first race.</span></p>

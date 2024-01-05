@@ -1,5 +1,7 @@
 # arch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arch.md)
+
 <p><span class="chinese">那是有叶形饰物之拱门。</span><span class="english">That is a foiled arch.</span></p>
 
 <p><span class="chinese">那是一座拱桥。</span><span class="english">That's an arch bridge.</span></p>

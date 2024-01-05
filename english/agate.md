@@ -1,5 +1,7 @@
 # agate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agate.md)
+
 <p><span class="chinese">玛瑙的亮灯擎在你手里。</span><span class="english">The agate lamp within thy hand!</span></p>
 
 <p><span class="chinese">且有含水玛瑙，称为水胆玛瑙。</span><span class="english">And a water agate, called water bile agate.</span></p>

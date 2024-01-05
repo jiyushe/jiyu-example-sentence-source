@@ -1,5 +1,7 @@
 # 大国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daguo.md)
+
 <p><span class="chinese">他把俄国建成一个军事大国</span><span class="english">He makes Russia a military power.</span></p>
 
 <p><span class="chinese">在这殃殃大国，我们还可以相信什么？</span><span class="english">In such a country what can we believe?</span></p>

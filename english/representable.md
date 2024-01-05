@@ -1,5 +1,7 @@
 # representable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/representable.md)
+
 <p><span class="chinese">这些数据表示的是基于挤压板材。</span><span class="english">The data representable is based on extruded sheet.</span></p>
 
 <p><span class="chinese">第三，意义的各个方面都可以用短语生成的方式来描写。</span><span class="english">Third, all aspects of meaning are representable in phrase. marker form.</span></p>

@@ -1,5 +1,7 @@
 # guaranty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guaranty.md)
+
 <p><span class="chinese">内住的圣灵是我们在主里新身份的保证。</span><span class="english">Our guaranty of new identity is the indwelling Spirit.</span></p>
 
 <p><span class="chinese">总监提交各投标公司担保金情况。</span><span class="english">CEO submits guaranty fund conditions of every bidding company.</span></p>

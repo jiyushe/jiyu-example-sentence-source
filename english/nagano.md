@@ -1,5 +1,7 @@
 # nagano
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nagano.md)
+
 <p><span class="chinese">Yukimi长野唱丰富，自我最重要的男子。</span><span class="english">Yukimi Nagano sings about a rich, self-important man.</span></p>
 
 <p><span class="chinese">长野县周边地区也相继发生3、4级地震。</span><span class="english">Nagano and the surrounding areas have occurred 3,4 earthquake.</span></p>

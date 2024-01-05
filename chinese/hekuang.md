@@ -1,5 +1,7 @@
 # 何况
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hekuang.md)
+
 <p><span class="chinese">何况，它还能赚钱。</span><span class="english">Besides, it makes money.</span></p>
 
 <p><span class="chinese">何况，我们也是朋友。</span><span class="english">Besides, we were friends.</span></p>

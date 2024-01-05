@@ -1,5 +1,7 @@
 # twig
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/twig.md)
+
 <p><span class="chinese">一个小嫩枝。</span><span class="english">And a small twig.</span></p>
 
 <p><span class="chinese">握在枯枝之中。</span><span class="english">In withered twig.</span></p>

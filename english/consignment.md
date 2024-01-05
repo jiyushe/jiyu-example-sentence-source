@@ -1,5 +1,7 @@
 # consignment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/consignment.md)
+
 <p><span class="chinese">航空托运单?。</span><span class="english">ACN? air consignment?</span></p>
 
 <p><span class="chinese">开一家寄售商店需要做些什么？</span><span class="english">What does it take to start a consignment shop?</span></p>

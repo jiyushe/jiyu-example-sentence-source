@@ -1,5 +1,7 @@
 # 金光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinguang.md)
+
 <p><span class="chinese">金光大道在脚下。</span><span class="english">Golden thoroughfare in the feet.</span></p>
 
 <p><span class="chinese">我看见一条闪金光的小鱼看着我。</span><span class="english">I see a shiny fish looking at me.</span></p>

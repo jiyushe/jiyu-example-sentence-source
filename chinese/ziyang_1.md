@@ -1,5 +1,7 @@
 # 滋养
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziyang_1.md)
+
 <p><span class="chinese">怎样产生，又怎样滋养？</span><span class="english">How begot, how nourished?</span></p>
 
 <p><span class="chinese">提供锦鲤良好的滋养。</span><span class="english">To keep Koi well-Nourished.</span></p>

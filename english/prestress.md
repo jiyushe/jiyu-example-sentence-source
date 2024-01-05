@@ -1,5 +1,7 @@
 # prestress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prestress.md)
+
 <p><span class="chinese">预应力混凝土梁中通常采用C50混凝土。</span><span class="english">Prestress concrete beam uses C50 concrete usually.</span></p>
 
 <p><span class="chinese">体外预应力是无粘结预应力的一种。</span><span class="english">External prestressing is a kind of no felt prestress.</span></p>

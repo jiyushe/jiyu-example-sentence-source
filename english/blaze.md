@@ -1,5 +1,7 @@
 # blaze
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blaze.md)
+
 <p><span class="chinese">火光烛天。</span><span class="english">The blaze lit up the sky.</span></p>
 
 <p><span class="chinese">干木燃起夺目的火焰。</span><span class="english">Dry wood makes a good blaze.</span></p>

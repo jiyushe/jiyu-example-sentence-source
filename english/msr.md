@@ -1,5 +1,7 @@
 # msr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/msr.md)
+
 <p><span class="chinese">微软研究院的工作环境怎么样？</span><span class="english">Hows the work environment at MSR?</span></p>
 
 <p><span class="chinese">一般来说微软研究院的雇员都是经人介绍的。</span><span class="english">Generally MSR employees refer other people.</span></p>

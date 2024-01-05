@@ -1,5 +1,7 @@
 # lint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lint.md)
+
 <p><span class="chinese">我们需要绷带呀。</span><span class="english">We want some lint.</span></p>
 
 <p><span class="chinese">清理掉干衣机的棉絮。</span><span class="english">Clean out dryer lint.</span></p>

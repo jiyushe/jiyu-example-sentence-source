@@ -1,5 +1,7 @@
 # seamount
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seamount.md)
+
 <p><span class="chinese">海山链有弯曲的地方吗?。</span><span class="english">Is there any bend in the seamount chain?</span></p>
 
 <p><span class="chinese">水底下的火山叫海底锥形山。</span><span class="english">An underwater volcano is called a seamount.</span></p>

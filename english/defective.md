@@ -1,5 +1,7 @@
 # defective
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defective.md)
+
 <p><span class="chinese">正确的汽油泵是有缺陷的。</span><span class="english">Right fuel pump is defective.</span></p>
 
 <p><span class="chinese">烟斗如有缺损，可予更换。</span><span class="english">Any defective pipe may be replaced.</span></p>

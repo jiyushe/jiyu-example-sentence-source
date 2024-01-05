@@ -1,5 +1,7 @@
 # 梅花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meihua.md)
+
 <p><span class="chinese">梅花在早春开花。</span><span class="english">The flowers wake in spring.</span></p>
 
 <p><span class="chinese">再拿出梅花A和梅花A上面一张。</span><span class="english">Take A and A plum plum above a.</span></p>

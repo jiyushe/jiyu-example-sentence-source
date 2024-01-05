@@ -1,5 +1,7 @@
 # 蜈蚣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wugong_3.md)
+
 <p><span class="chinese">就是蜈蚣！</span><span class="english">A centipede !</span></p>
 
 <p><span class="chinese">地蜈蚣是甲壳虫的一种。</span><span class="english">Earwig is a kind of beetle.</span></p>

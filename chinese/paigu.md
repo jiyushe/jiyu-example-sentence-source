@@ -1,5 +1,7 @@
 # 排骨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paigu.md)
+
 <p><span class="chinese">这道牛肉排骨真是太特别了。</span><span class="english">It’s special.</span></p>
 
 <p><span class="chinese">排骨汆水后以冷水洗净备用。</span><span class="english">Wash and scald spare ribs.</span></p>

@@ -1,5 +1,7 @@
 # analogize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/analogize.md)
+
 <p><span class="chinese">更高分的话一样以此类推。</span><span class="english">The word of higher component is same analogize.</span></p>
 
 <p><span class="chinese">配橡胶内衬的复合材料板壳可以模拟真实纤维缠绕压力容器。</span><span class="english">Composite plate and shell with rubber liners can analogize real filament wound pressure vessels.</span></p>

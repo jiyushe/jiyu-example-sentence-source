@@ -1,5 +1,7 @@
 # isolating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isolating.md)
+
 <p><span class="chinese">内装隔爆型按钮和增安型电流表。</span><span class="english">Built-in isolating explosion button and ammeter.</span></p>
 
 <p><span class="chinese">隔离安全阀须安装全通径阀。</span><span class="english">Full bore valves to be installed for isolating PSV's.</span></p>

@@ -1,5 +1,7 @@
 # decompensation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decompensation.md)
+
 <p><span class="chinese">该例患者患了重症肝炎，肝脏失代偿。</span><span class="english">This patient developed severe hepatitis with hepatic decompensation.</span></p>
 
 <p><span class="chinese">急性代谢异常和神经学的病变往往造成严重的后遗症。</span><span class="english">The acute metabolic decompensation and neurological deterioration attribute to severe sequelae.</span></p>

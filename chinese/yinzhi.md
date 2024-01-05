@@ -1,5 +1,7 @@
 # 印制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinzhi.md)
+
 <p><span class="chinese">中义印制洋红色墨的印版。</span><span class="english">The plate that prints magenta ink.</span></p>
 
 <p><span class="chinese">这可都是用雕版印刷术印制出来的。</span><span class="english">They were all printed using carved blocked.</span></p>

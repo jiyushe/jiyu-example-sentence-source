@@ -1,5 +1,7 @@
 # xerophthalmia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xerophthalmia.md)
+
 <p><span class="chinese">缺少维生素A也叫眼球干燥症。</span><span class="english">Vitamin A deficiency is also known as xerophthalmia.</span></p>
 
 <p><span class="chinese">舌下腺游离移植治疗重症干眼症是可行的。</span><span class="english">It is feasible to treat severe xerophthalmia by the free grafting of sublingual gland.</span></p>

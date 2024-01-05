@@ -1,5 +1,7 @@
 # 弃置
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qizhi_2.md)
+
 <p><span class="chinese">所有东西都被弃置了。</span><span class="english">Everything was discarded.</span></p>
 
 <p><span class="chinese">汤匙因弃置不用而生锈了。</span><span class="english">The spoon has been rusty from disuse.</span></p>

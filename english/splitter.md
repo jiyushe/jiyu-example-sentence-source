@@ -1,5 +1,7 @@
 # splitter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/splitter.md)
+
 <p><span class="chinese">把5V的电源和分配器连接起来。</span><span class="english">Connect 5V power supply to the HDMI 1x4 Splitter.</span></p>
 
 <p><span class="chinese">蒂亚戈斯普利特能够帮一些忙，但这还远远不够。</span><span class="english">Tiago Splitter should help, but he won't be enough.</span></p>

@@ -1,5 +1,7 @@
 # 风疹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengzhen.md)
+
 <p><span class="chinese">风疹引起皮疹和腺体肿胀。</span><span class="english">Rubella causes a rash and swollen glands.</span></p>
 
 <p><span class="chinese">你感染风疹也可以没有任何症状。</span><span class="english">But you can have it without having any symptoms.</span></p>

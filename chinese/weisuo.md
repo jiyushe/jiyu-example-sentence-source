@@ -1,5 +1,7 @@
 # 猥琐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weisuo.md)
+
 <p><span class="chinese">我这位室友是个非常猥琐的人。</span><span class="english">This roomate was a very lewd man.</span></p>
 
 <p><span class="chinese">相反，我知道我很穷、很丑、很猥琐。</span><span class="english">Far from it. I know I'm poor, damned and ugly.</span></p>

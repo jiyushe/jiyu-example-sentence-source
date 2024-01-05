@@ -1,5 +1,7 @@
 # wilton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wilton.md)
+
 <p><span class="chinese">使用这款惠尔通装饰，扮靓您的蛋糕只是几分钟的事情。</span><span class="english">With Wilton Toppers, a decorated cake is just minutes away!</span></p>
 
 <p><span class="chinese">用这款惠尔通插片，扮靓你的蛋糕只是几分钟的事。</span><span class="english">With Wilton toppers, a decorated cake is just minutes away!</span></p>

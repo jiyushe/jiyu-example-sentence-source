@@ -1,5 +1,7 @@
 # rote
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rote.md)
+
 <p><span class="chinese">他能凭记忆背诵那一首诗。</span><span class="english">He has conned the poems by rote.</span></p>
 
 <p><span class="chinese">他们说，哦，这是死记硬背啊。</span><span class="english">They say, oh, this is rote learning.</span></p>

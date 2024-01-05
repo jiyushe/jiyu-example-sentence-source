@@ -1,5 +1,7 @@
 # playbill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/playbill.md)
+
 <p><span class="chinese">我挺喜欢这个海报的。</span><span class="english">I very like this playbill.</span></p>
 
 <p><span class="chinese">海报牢牢地粘在墙上。</span><span class="english">The playbill was stuck down on the wall.</span></p>

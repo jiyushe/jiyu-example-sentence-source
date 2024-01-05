@@ -1,5 +1,7 @@
 # rattle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rattle.md)
+
 <p><span class="chinese">锅碗瓢盆发出的哐啷声。</span><span class="english">A rattle of pots and pans.</span></p>
 
 <p><span class="chinese">来吧拨浪鼓它们的制造者。</span><span class="english">Come on rattle them bones.</span></p>

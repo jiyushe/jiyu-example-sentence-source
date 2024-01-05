@@ -1,5 +1,7 @@
 # 人形
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renxing.md)
+
 <p><span class="chinese">用类似人形的炮弹射击红色的求。</span><span class="english">Shoot the red ball with a humanoid cannonball.</span></p>
 
 <p><span class="chinese">在谷歌街景地图中，Cadie取代了pegman人形图标。</span><span class="english">In Google Maps Street View, Cadie replaced pegman.</span></p>

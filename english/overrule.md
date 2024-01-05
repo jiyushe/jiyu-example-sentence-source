@@ -1,5 +1,7 @@
 # overrule
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overrule.md)
+
 <p><span class="chinese">然而，法院下达的命令有时候会凌驾于这条规定。</span><span class="english">Court orders sometimes overrule that.</span></p>
 
 <p><span class="chinese">你的情绪否决了你的肚子和疲劳。</span><span class="english">Your emotions overrule your stomach and fatigue.</span></p>

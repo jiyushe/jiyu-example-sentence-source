@@ -1,5 +1,7 @@
 # plausibly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plausibly.md)
+
 <p><span class="chinese">有趣的是,每一个前提似乎都有其合理质疑之处</span><span class="english">And the interesting thing is that each one of these premises could be plausibly challenged.</span></p>
 
 <p><span class="chinese">而班主任却振振有词地说，这是为了“激励后进孩子奋进”，拒不改正。</span><span class="english">The class teacher is plausibly said, is to "inspire children Endeavour backward" and refused to correct.</span></p>

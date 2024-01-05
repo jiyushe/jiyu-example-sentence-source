@@ -1,5 +1,7 @@
 # painterly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/painterly.md)
+
 <p><span class="chinese">在艺术史的语言里，它是画家式的。</span><span class="english">In the language of art history, it is painterly.</span></p>
 
 <p><span class="chinese">因此，我们依靠独特的绘画手法的生活行动。</span><span class="english">Hence, we relied on unique painterly manipulation of live action.</span></p>

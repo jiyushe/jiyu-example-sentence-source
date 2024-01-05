@@ -1,5 +1,7 @@
 # program
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/program.md)
+
 <p><span class="chinese">程序名。</span><span class="english">Program name.</span></p>
 
 <p><span class="chinese">异常中断程序。</span><span class="english">Aborts the program.</span></p>

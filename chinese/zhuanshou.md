@@ -1,5 +1,7 @@
 # 转手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanshou.md)
+
 <p><span class="chinese">他们试图夸大金币的投资价值来转手</span><span class="english">They're trying to oversell.</span></p>
 
 <p><span class="chinese">吉姆把偷来的电脑转手给她窝赃。</span><span class="english">Jim dinged the computer to her.</span></p>

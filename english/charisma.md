@@ -1,5 +1,7 @@
 # charisma
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/charisma.md)
+
 <p><span class="chinese">他精力充沛，很有感召力。</span><span class="english">He has a lot of energy and charisma.</span></p>
 
 <p><span class="chinese">他的骄傲自大被看作神秘的个人魅力。</span><span class="english">He had a cockiness that passed for8 charisma.</span></p>

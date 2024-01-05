@@ -1,5 +1,7 @@
 # longshore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/longshore.md)
+
 <p><span class="chinese">那边有一条沿岸槽。</span><span class="english">There is a longshore trough over there.</span></p>
 
 <p><span class="chinese">从船坞望向沿岸的景象。</span><span class="english">Sittin' on the dock of the bay in Longshore.</span></p>

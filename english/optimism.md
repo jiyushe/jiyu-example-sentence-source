@@ -1,5 +1,7 @@
 # optimism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/optimism.md)
+
 <p><span class="chinese">乐观是什么呢？</span><span class="english">What is optimism?</span></p>
 
 <p><span class="chinese">为人诚实正派，乐观。</span><span class="english">Honest, upright and optimism.</span></p>

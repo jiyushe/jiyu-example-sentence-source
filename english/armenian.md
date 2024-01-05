@@ -1,5 +1,7 @@
 # armenian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/armenian.md)
+
 <p><span class="chinese">战争榨干了原本繁荣的亚美尼亚经济。</span><span class="english">The war has bled the once-strong Armenian economy dry.</span></p>
 
 <p><span class="chinese">亚美尼亚德拉姆对美元的汇率已跌去三分之一强。</span><span class="english">The Armenian dram has lost over a third of its value against the dollar.</span></p>

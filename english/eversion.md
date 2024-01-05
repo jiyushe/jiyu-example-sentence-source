@@ -1,5 +1,7 @@
 # eversion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eversion.md)
+
 <p><span class="chinese">他眼睑的外翻很严重。</span><span class="english">The eversion of his eyelids is serious.</span></p>
 
 <p><span class="chinese">将眼睑翻转可发现一扩张的睑板腺。</span><span class="english">Eversion of the eyelid may show a dilated meibomian gland.</span></p>

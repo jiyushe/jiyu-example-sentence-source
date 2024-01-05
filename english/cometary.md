@@ -1,5 +1,7 @@
 # cometary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cometary.md)
+
 <p><span class="chinese">我们正在分析星尘号的彗星样品。</span><span class="english">We are analyzing Stardust cometary samples.</span></p>
 
 <p><span class="chinese">美国宇航局似乎知道这个红色慧星天体的东西。</span><span class="english">NASA appears to know something about this red cometary orb.</span></p>

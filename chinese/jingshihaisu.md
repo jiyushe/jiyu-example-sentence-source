@@ -1,5 +1,7 @@
 # 惊世骇俗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingshihaisu.md)
+
 <p><span class="chinese">这些说法-如果是真实的话-绝对是惊世骇俗的。</span><span class="english">This version — if it's true — is beyond shocking.</span></p>
 
 <p><span class="chinese">在那场比赛中，卡萨尼的一脚惊世骇俗的远射帮助西西里球队3比2取得了胜利。</span><span class="english">Cassani's blockbuster from distance secured a late 3-2 victory for the Sicilians.</span></p>

@@ -1,5 +1,7 @@
 # unscrew
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unscrew.md)
+
 <p><span class="chinese">旋开锁住盘片的螺母。</span><span class="english">Unscrew the disc-locking nut.</span></p>
 
 <p><span class="chinese">把锁从门上拆下来！</span><span class="english">Unscrew the locks from the doors!</span></p>

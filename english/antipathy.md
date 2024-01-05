@@ -1,5 +1,7 @@
 # antipathy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antipathy.md)
+
 <p><span class="chinese">这种反感是相互的。</span><span class="english">The antipathy is mutual.</span></p>
 
 <p><span class="chinese">家长对教师角色行为变化的为难。</span><span class="english">Parents' antipathy on the change of teachers'role.</span></p>

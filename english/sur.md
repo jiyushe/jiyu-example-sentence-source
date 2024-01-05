@@ -1,5 +1,7 @@
 # sur
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sur.md)
+
 <p><span class="chinese">她生在滨海蒙特勒伊①。</span><span class="english">She was born at M. sur M.</span></p>
 
 <p><span class="chinese">漫步春天里，我来到伊通河畔。</span><span class="english">Walk through the spring, I came to Iraq- sur -.</span></p>

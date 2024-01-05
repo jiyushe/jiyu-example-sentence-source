@@ -1,5 +1,7 @@
 # 毅然决然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiranjueran.md)
+
 <p><span class="chinese">他毅然决然地重返前线。</span><span class="english">He resolutely went back to the front.</span></p>
 
 <p><span class="chinese">揉了体检表，毅然决然地离去，又能怎样？</span><span class="english">Rub a medical table, resolutely away, but also what?</span></p>

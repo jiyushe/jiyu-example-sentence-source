@@ -1,5 +1,7 @@
 # appalling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appalling.md)
+
 <p><span class="chinese">爆炸的结果是很可怕的。</span><span class="english">The results of explosion were appalling.</span></p>
 
 <p><span class="chinese">当时清扫工的状况是触目惊心的。</span><span class="english">At this time, the situation was appalling.</span></p>

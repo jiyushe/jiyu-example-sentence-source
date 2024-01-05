@@ -1,5 +1,7 @@
 # hyperlipemia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hyperlipemia.md)
+
 <p><span class="chinese">结论胆道疾病与高脂血症是妊娠期急性胰腺炎的主要病因。</span><span class="english">Conclusion Cholelithiasis and hyperlipemia are the main reasons of APIP.</span></p>
 
 <p><span class="chinese">主要用于治疗痰湿血瘀型高脂血症。</span><span class="english">It is mainly used to cure Hyperlipemia caused by block of blood and phlegm.</span></p>

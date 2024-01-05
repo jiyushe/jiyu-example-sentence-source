@@ -1,5 +1,7 @@
 # 吸盘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xipan.md)
+
 <p><span class="chinese">六条黏糊糊的吸盘棒。</span><span class="english">Six sticky sucker sticks.</span></p>
 
 <p><span class="chinese">这是起重机配件非接触式真空吸盘。</span><span class="english">This is a non-contact vacuum crane accessory sucker.</span></p>

@@ -1,5 +1,7 @@
 # pissed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pissed.md)
+
 <p><span class="chinese">你简直气死我了。</span><span class="english">You pissed me off.</span></p>
 
 <p><span class="chinese">让我们一醉方休！</span><span class="english">Let's all get pissed !</span></p>

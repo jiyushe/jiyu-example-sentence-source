@@ -1,5 +1,7 @@
 # xix
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xix.md)
+
 <p><span class="chinese">在十九世纪，英国控制着中国的茶叶市场。</span><span class="english">During the XIX century, the English owned the tea marked in China.</span></p>
 
 <p><span class="chinese">测量了激光加热块状银靶产生的等离子体XUV光谱。</span><span class="english">The XUV spectra from Ag XIX of laser-produced plasma are measured.</span></p>

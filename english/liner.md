@@ -1,5 +1,7 @@
 # liner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liner.md)
+
 <p><span class="chinese">将唇线笔用作眼线笔？</span><span class="english">Lip liner as eye liner?</span></p>
 
 <p><span class="chinese">没有比液体眼线笔更好的选择了。</span><span class="english">Nothing beats liquid liner.</span></p>

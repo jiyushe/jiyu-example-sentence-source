@@ -1,5 +1,7 @@
 # faerie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faerie.md)
+
 <p><span class="chinese">我是地球仙境。</span><span class="english">I am the Earth Faerie.</span></p>
 
 <p><span class="chinese">仙龙现为穿刺伤害了。</span><span class="english">Faerie Dragons now do piercing damage.</span></p>

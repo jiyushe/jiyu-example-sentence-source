@@ -1,5 +1,7 @@
 # hovercraft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hovercraft.md)
+
 <p><span class="chinese">这是我第一次看见气垫船。</span><span class="english">Look, I can be a hovercraft.</span></p>
 
 <p><span class="chinese">为什么我要用气垫船？</span><span class="english">Why do i have to use a hovercraft ?</span></p>

@@ -1,5 +1,7 @@
 # 干部
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganbu.md)
+
 <p><span class="chinese">她的母亲也是个忠诚的干部。</span><span class="english">Her mother was another loyal cadre.</span></p>
 
 <p><span class="chinese">使选拔干部的原则更加具体。</span><span class="english">This makes the criteria more concrete.</span></p>

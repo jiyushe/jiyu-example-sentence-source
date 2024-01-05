@@ -1,5 +1,7 @@
 # 石英
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiying.md)
+
 <p><span class="chinese">模拟石英机芯。</span><span class="english">Quartz analog movement.</span></p>
 
 <p><span class="chinese">瑞士制造的石英机芯。</span><span class="english">Swiss-made quartz movement.</span></p>

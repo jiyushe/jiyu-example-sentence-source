@@ -1,5 +1,7 @@
 # bronchoscope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bronchoscope.md)
+
 <p><span class="chinese">全部病例均经纤维支气管镜。</span><span class="english">All case were confirmed by fibreoptic bronchoscope.</span></p>
 
 <p><span class="chinese">纤支镜检查对肺部空洞性病变的诊断具有较高价值。</span><span class="english">Bronchoscope has higher value to the diagnosis of pulmonary cavity.</span></p>

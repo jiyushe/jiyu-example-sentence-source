@@ -1,5 +1,7 @@
 # lovemaking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lovemaking.md)
+
 <p><span class="chinese">这完全是心灵性爱的一部分。</span><span class="english">This is all a part of conscious lovemaking.</span></p>
 
 <p><span class="chinese">古印度爱经之爱爱的艺术。</span><span class="english">Kamasutra. The. Indian. Art. of. Lovemaking.</span></p>

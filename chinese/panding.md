@@ -1,5 +1,7 @@
 # 判定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/panding.md)
+
 <p><span class="chinese">“很难判定吗？”我以一种施助的口吻说道。</span><span class="english">“Hard to decide?” I said helpfully.</span></p>
 
 <p><span class="chinese">裁判员判定该进球无效。</span><span class="english">The referee called the goal illegal.</span></p>

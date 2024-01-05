@@ -1,5 +1,7 @@
 # almighty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/almighty.md)
+
 <p><span class="chinese">禁止它吧，全能的上帝!</span><span class="english">Forbid it Almighty God!</span></p>
 
 <p><span class="chinese">是的，他认为他是全能的上帝。</span><span class="english">Oh, yes, he thinks he's God Almighty.</span></p>

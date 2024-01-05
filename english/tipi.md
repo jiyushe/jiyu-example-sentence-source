@@ -1,5 +1,7 @@
 # tipi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tipi.md)
+
 <p><span class="chinese">其他的动物则藏在帐篷附近。</span><span class="english">The others hid near Bear's tipi.</span></p>
 
 <p><span class="chinese">他们问这两只幼熊怎么不见他们的妈妈。</span><span class="english">By the tipi were two young bears.</span></p>

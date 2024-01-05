@@ -1,5 +1,7 @@
 # scouting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scouting.md)
+
 <p><span class="chinese">童子军活动？</span><span class="english">Scouting?</span></p>
 
 <p><span class="chinese">我已经让人搜过那些山了。</span><span class="english">I have people scouting the hills already.</span></p>

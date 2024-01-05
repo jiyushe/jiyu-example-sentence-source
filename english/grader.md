@@ -1,5 +1,7 @@
 # grader
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grader.md)
+
 <p><span class="chinese">小心总比打五年级学生好。</span><span class="english">Better be safe than punch a 5th grader.</span></p>
 
 <p><span class="chinese">除了给你打分的人，还有谁是你交流的对象？</span><span class="english">Who are you communicating with beyond the grader?</span></p>

@@ -1,5 +1,7 @@
 # disenchantment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disenchantment.md)
+
 <p><span class="chinese">这些人向他叙述的觉醒故事惊人地相似。</span><span class="english">The men have told him strikingly similar stories of disenchantment.</span></p>
 
 <p><span class="chinese">也就是说，世界经过了一个韦伯所说的“脱魅”过程。</span><span class="english">Namely, the world went through a process of what Weber called "disenchantment".</span></p>

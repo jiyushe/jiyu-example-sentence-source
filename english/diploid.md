@@ -1,5 +1,7 @@
 # diploid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diploid.md)
+
 <p><span class="chinese">二者杂交不能形成稳定遗传的双二倍体。</span><span class="english">The hybrid can not be steadily hereditary as double diploid.</span></p>
 
 <p><span class="chinese">同源四倍体水稻是二倍体水稻染色体加倍形成的。</span><span class="english">Autotetroploid rice has double genome compared with diploid rice.</span></p>

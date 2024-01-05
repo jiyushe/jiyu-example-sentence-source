@@ -1,5 +1,7 @@
 # kantian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kantian.md)
+
 <p><span class="chinese">我不知道康德之崇高指的是什么。</span><span class="english">I didn’t know what the Kantian sublime was.</span></p>
 
 <p><span class="chinese">康德哲学之主旨乃是对人的能力之探究。</span><span class="english">It is the center of Kantian philosophy to explore the human ability.</span></p>

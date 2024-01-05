@@ -1,5 +1,7 @@
 # ouch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ouch.md)
+
 <p><span class="chinese">哎吆，这地方太热了！</span><span class="english">Ouch. This is too hot!</span></p>
 
 <p><span class="chinese">下雨和哎呦的儿歌。</span><span class="english">Rain ank ouch ouch chant.</span></p>

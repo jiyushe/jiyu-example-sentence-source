@@ -1,5 +1,7 @@
 # sarcastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sarcastic.md)
+
 <p><span class="chinese">他一边向后退，一边鞠着躬，真是一种讽刺的谦恭。</span><span class="english">He bowed in sarcastic deference.</span></p>
 
 <p><span class="chinese">我不喜欢他说话时嘲讽的腔调。</span><span class="english">I dislike the sarcastic tone of his speech.</span></p>

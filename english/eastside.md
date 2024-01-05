@@ -1,5 +1,7 @@
 # eastside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eastside.md)
+
 <p><span class="chinese">欢迎来到市中心东区。</span><span class="english">Welcome to the Downtown Eastside.</span></p>
 
 <p><span class="chinese">鞋店在购物中心的东侧，靠近自助餐厅。</span><span class="english">The shoe shop is on the eastside of the shopping center close to the cafeteria.</span></p>

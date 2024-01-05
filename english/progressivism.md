@@ -1,5 +1,7 @@
 # progressivism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/progressivism.md)
+
 <p><span class="chinese">一些家庭的共和党根源来自泰迪。罗斯福的进步改革主义。</span><span class="english">Some families had Republican roots in Teddy Roosevelt's progressivism.</span></p>
 
 <p><span class="chinese">从政治上说，进步可以被描述为对社会开放。</span><span class="english">Politically speaking, progressivism can be described as being socially liberal.</span></p>

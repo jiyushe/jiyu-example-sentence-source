@@ -1,5 +1,7 @@
 # mover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mover.md)
+
 <p><span class="chinese">成为先发者自有其优势所在。</span><span class="english">Being the first mover has its advantages.</span></p>
 
 <p><span class="chinese">将发电机与原动机脱开。</span><span class="english">Disconnect the generator from the prime mover.</span></p>

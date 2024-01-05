@@ -1,5 +1,7 @@
 # 从中作梗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/congzhongzuogeng.md)
+
 <p><span class="chinese">许多金钱丑闻总是有性这个因素从中作梗。</span><span class="english">Many money scandals have a sexual element.</span></p>
 
 <p><span class="chinese">不要让误解从中作梗。</span><span class="english">Don't let any small misunderstandings get in the way.</span></p>

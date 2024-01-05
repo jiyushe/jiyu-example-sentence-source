@@ -1,5 +1,7 @@
 # 凤毛麟角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengmaolinjiao.md)
+
 <p><span class="chinese">到达时的我。这种贴着瓷砖的平房在当地是凤毛麟角。</span><span class="english">On my arrival. Tiled bungalow is luxury in this area.</span></p>
 
 <p><span class="chinese">世界上能把这些工作做好的人可以说是凤毛麟角。</span><span class="english">It's just very few people in the world can do it well.</span></p>

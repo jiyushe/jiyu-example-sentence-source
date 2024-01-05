@@ -1,5 +1,7 @@
 # 疆场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangchang.md)
+
 <p><span class="chinese">我的传教士屹立异国之疆场！</span><span class="english">My missionaries in a foreign field.</span></p>
 
 <p><span class="chinese">疆场的景象令人毛骨悚然。</span><span class="english">The sight of the battlefield was horrible.</span></p>

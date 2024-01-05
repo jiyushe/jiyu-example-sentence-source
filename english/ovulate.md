@@ -1,5 +1,7 @@
 # ovulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ovulate.md)
+
 <p><span class="chinese">不排卵有什么症状呢？</span><span class="english">What are the symptoms do not ovulate ?</span></p>
 
 <p><span class="chinese">女性排卵大熊猫一年只有一次，在春季。</span><span class="english">Female pandas ovulate only once a year, in the spring.</span></p>

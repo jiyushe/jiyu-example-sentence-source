@@ -1,5 +1,7 @@
 # 新区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinqu_1.md)
+
 <p><span class="chinese">欢迎来到北部新区！</span><span class="english">Welcome to New North Zone!</span></p>
 
 <p><span class="chinese">没错儿，就是浦东新区。</span><span class="english">Yes, it is Pudong New Area.</span></p>

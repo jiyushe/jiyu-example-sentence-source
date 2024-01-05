@@ -1,5 +1,7 @@
 # fermentation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fermentation.md)
+
 <p><span class="chinese">牛奶发酵会凝结起来。</span><span class="english">The fermentation of milk causes it to curdle.</span></p>
 
 <p><span class="chinese">骆驼的奶水不会凝固。</span><span class="english">The fermentation of milk causes it to curdle.</span></p>

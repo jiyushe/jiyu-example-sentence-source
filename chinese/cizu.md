@@ -1,5 +1,7 @@
 # 词组
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cizu.md)
+
 <p><span class="chinese">但如果我说一个词组，“我看到呢？“</span><span class="english">But what if I had the phrase, "I see"?</span></p>
 
 <p><span class="chinese">是否可以删掉一些多余的词组？</span><span class="english">Can you cut out any redundant phrases?</span></p>

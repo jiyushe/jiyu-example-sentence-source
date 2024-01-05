@@ -1,5 +1,7 @@
 # 六道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liudao.md)
+
 <p><span class="chinese">诺拉的六道彩虹照是非常罕见的。</span><span class="english">Nola's six are a sight of a lifetime though.</span></p>
 
 <p><span class="chinese">我又“艰苦奋斗”了3分钟，六道题还空着三个。</span><span class="english">" I "work hard, " 3 minutes and 6 issue still empty 3.</span></p>

@@ -1,5 +1,7 @@
 # affirmation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affirmation.md)
+
 <p><span class="chinese">一个星期天，她尝试着她新的主张。</span><span class="english">One Sunday, she tried her new affirmation.</span></p>
 
 <p><span class="chinese">人靠肯定来生活比靠面包更甚。</span><span class="english">Man lives by affirmation even more than by bread.</span></p>

@@ -1,5 +1,7 @@
 # auctioneer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/auctioneer.md)
+
 <p><span class="chinese">她是名查账员并为一名拍卖商工作。</span><span class="english">She was an auditor and worked for an auctioneer.</span></p>
 
 <p><span class="chinese">他试着把假的德加的画卖给拍卖人。</span><span class="english">He tried to pass off a false Dagas on the auctioneer.</span></p>

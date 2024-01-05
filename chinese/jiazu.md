@@ -1,5 +1,7 @@
 # 家族
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiazu.md)
+
 <p><span class="chinese">辛普森家族"是个卡通节目，很好玩的。</span><span class="english">The Simpsons are on.</span></p>
 
 <p><span class="chinese">大熊家族对人类的善举也有了回应。</span><span class="english">The bears are responding.</span></p>

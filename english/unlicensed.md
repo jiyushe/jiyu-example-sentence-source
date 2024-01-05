@@ -1,5 +1,7 @@
 # unlicensed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unlicensed.md)
+
 <p><span class="chinese">警察正在取缔无证商贩。</span><span class="english">The police are weeding out the unlicensed pedler.</span></p>
 
 <p><span class="chinese">无照餐馆被取缔，也禁止食用狗肉。</span><span class="english">Unlicensed restaurants are out, as is serving dog meat.</span></p>

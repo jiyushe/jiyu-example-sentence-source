@@ -1,5 +1,7 @@
 # 痛哭流涕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongkuliuti.md)
+
 <p><span class="chinese">在他下葬的那天，我像个孩子一样痛哭流涕。</span><span class="english">At his grave today, I cried like a baby.</span></p>
 
 <p><span class="chinese">在没有它的第一个小时，我痛哭流涕。</span><span class="english">For the first hours without him, I cried. A lot.</span></p>

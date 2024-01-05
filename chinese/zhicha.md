@@ -1,5 +1,7 @@
 # 枝杈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhicha.md)
+
 <p><span class="chinese">细小的枝杈，随风摇曳。</span><span class="english">A small twig, the wind swaying.</span></p>
 
 <p><span class="chinese">它长长的枝杈为他们遮蔽了日晒。</span><span class="english">Its long branches shade them from the sun.</span></p>

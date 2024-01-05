@@ -1,5 +1,7 @@
 # bundle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bundle.md)
+
 <p><span class="chinese">包退包换包赔制度。</span><span class="english">A small package or bundle.</span></p>
 
 <p><span class="chinese">我已捆好了包裹。</span><span class="english">I have tied up the bundle.</span></p>

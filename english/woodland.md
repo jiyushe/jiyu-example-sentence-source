@@ -1,5 +1,7 @@
 # woodland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woodland.md)
+
 <p><span class="chinese">她陶醉于林地的美景。</span><span class="english">She drank in the beauty of the woodland scene.</span></p>
 
 <p><span class="chinese">他们整个上午都在林中小径上漫步。</span><span class="english">They spent the morning rambling woodland paths.</span></p>

@@ -1,5 +1,7 @@
 # 胶乳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoru.md)
+
 <p><span class="chinese">粘度稳定剂延长了鲜胶乳的凝固时间。</span><span class="english">Are there set hours of work in your company?</span></p>
 
 <p><span class="chinese">研究了附聚胶乳接枝反应并测试了接枝胶乳性能。</span><span class="english">It is studied the graft reaction of agglutinated latex.</span></p>

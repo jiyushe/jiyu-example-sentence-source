@@ -1,5 +1,7 @@
 # 物产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuchan.md)
+
 <p><span class="chinese">中国物产丰富。</span><span class="english">China is rich in products.</span></p>
 
 <p><span class="chinese">中国物产丰富。</span><span class="english">China is abundant with products.</span></p>

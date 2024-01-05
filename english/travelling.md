@@ -1,5 +1,7 @@
 # travelling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/travelling.md)
+
 <p><span class="chinese">我不喜欢单独旅行。</span><span class="english">I loathe travelling alone.</span></p>
 
 <p><span class="chinese">如果你在亚洲旅行，</span><span class="english">If you're travelling in Asia</span></p>

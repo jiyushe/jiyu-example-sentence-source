@@ -1,5 +1,7 @@
 # 真相大白
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenxiangdabai.md)
+
 <p><span class="chinese">真相大白，克里斯果断地向多恩开了枪。</span><span class="english">The truth, Chris decisively shot donne.</span></p>
 
 <p><span class="chinese">那名侦探很快就于真相大白。</span><span class="english">The detective soon ravelled out the truth.</span></p>

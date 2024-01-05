@@ -1,5 +1,7 @@
 # sundown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sundown.md)
+
 <p><span class="chinese">一份简单的爱情，日出而作，日落而息。</span><span class="english">A simple love, sunrise and sundown.</span></p>
 
 <p><span class="chinese">等到日落前你们再来。</span><span class="english">Wait until just before sundown and then come over.</span></p>

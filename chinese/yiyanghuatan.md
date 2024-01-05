@@ -1,5 +1,7 @@
 # 一氧化碳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiyanghuatan.md)
+
 <p><span class="chinese">一氧化碳是一种危险的燃烧产物。</span><span class="english">Carbon monoxide is a dangerous product of fire.</span></p>
 
 <p><span class="chinese">一氧化碳不易被人的感觉器官所觉察。</span><span class="english">CO is not readily perceived by the human senses.</span></p>

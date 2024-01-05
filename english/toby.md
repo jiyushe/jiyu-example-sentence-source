@@ -1,5 +1,7 @@
 # toby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toby.md)
+
 <p><span class="chinese">托比向我微笑。</span><span class="english">Toby smiled at me.</span></p>
 
 <p><span class="chinese">陶比因多起谋杀案而受到审判。</span><span class="english">Toby was on trial for several murders.</span></p>

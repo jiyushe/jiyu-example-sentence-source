@@ -1,5 +1,7 @@
 # thermometry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thermometry.md)
+
 <p><span class="chinese">红外测温中需要选择合适的工作波长。</span><span class="english">The proper working wavelengths should be selected in infrared thermometry.</span></p>
 
 <p><span class="chinese">阐述温度测量的基本原理、类型，并对热电耦温度计进行试制作。</span><span class="english">This paper describes the fundamental of thermometry and the types of thermometer.</span></p>

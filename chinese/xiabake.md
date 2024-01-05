@@ -1,5 +1,7 @@
 # 下巴颏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiabake.md)
+
 <p><span class="chinese">没有下巴颏儿的人爬回到他原来的地方。</span><span class="english">The chinless man climbed back into his place.</span></p>
 
 <p><span class="chinese">你把毯子拉到下巴颏，闭上了眼睛。</span><span class="english">You pull the blankets up to your chin and close your eyes.</span></p>

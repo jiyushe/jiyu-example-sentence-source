@@ -1,5 +1,7 @@
 # securities
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/securities.md)
+
 <p><span class="chinese">一证券商许可证影本。</span><span class="english">Copy of securities firm permit.</span></p>
 
 <p><span class="chinese">证券借贷方如何赚钱？</span><span class="english">How does a Securities Lender make money?</span></p>

@@ -1,5 +1,7 @@
 # christie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/christie.md)
+
 <p><span class="chinese">以下克里斯蒂·尼克尔森为你报导解答。</span><span class="english">Christie Nicholson reports.</span></p>
 
 <p><span class="chinese">她比克里斯蒂更瘦小更纤弱。</span><span class="english">She is smaller and slighter than Christie.</span></p>

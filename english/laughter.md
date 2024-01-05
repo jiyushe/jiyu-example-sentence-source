@@ -1,5 +1,7 @@
 # laughter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laughter.md)
+
 <p><span class="chinese">观众哄堂大笑，欢声雷动！</span><span class="english">Laughter and cheers!</span></p>
 
 <p><span class="chinese">男孩们都在笑。</span><span class="english">Laughter from the boys.</span></p>

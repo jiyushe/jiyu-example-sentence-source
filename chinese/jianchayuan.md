@@ -1,5 +1,7 @@
 # 检查员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianchayuan.md)
+
 <p><span class="chinese">检查员看见了那名妇女。</span><span class="english">The inspector saw the woman.</span></p>
 
 <p><span class="chinese">检查员还挂起这点。</span><span class="english">Inspector also pendred this point.</span></p>

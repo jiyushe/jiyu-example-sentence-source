@@ -1,5 +1,7 @@
 # courthouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/courthouse.md)
+
 <p><span class="chinese">看庭前花开花落…</span><span class="english">See the courthouse flowers bloom.</span></p>
 
 <p><span class="chinese">你好，是市法院么？</span><span class="english">Hi. is this the municipal courthouse ?</span></p>

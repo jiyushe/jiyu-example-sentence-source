@@ -1,5 +1,7 @@
 # skylab
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skylab.md)
+
 <p><span class="chinese">在太空中吃饭这一任务到“天空实验室”时有了很大进步。</span><span class="english">The task of eating in space got a big boost in Skylab.</span></p>
 
 <p><span class="chinese">工程师们迅速制定了维修天空实验室的各种方案。</span><span class="english">The engineers quickly designed different ways to repair Skylab.</span></p>

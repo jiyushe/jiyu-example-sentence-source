@@ -1,5 +1,7 @@
 # 难过
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanguo_2.md)
+
 <p><span class="chinese">他难过地看着她。</span><span class="english">He looked at her sadly.</span></p>
 
 <p><span class="chinese">他难过地摇摇头。</span><span class="english">He shook his head sadly.</span></p>

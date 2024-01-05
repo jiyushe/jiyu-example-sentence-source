@@ -1,5 +1,7 @@
 # 门缝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/menfeng.md)
+
 <p><span class="chinese">我手指被夹在门缝中。</span><span class="english">I caught my fingers in the door.</span></p>
 
 <p><span class="chinese">优美的音乐从门缝中流泻出来。</span><span class="english">Melodious music escapes out the door.</span></p>

@@ -1,5 +1,7 @@
 # ses
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ses.md)
+
 <p><span class="chinese">卫星船站的接受电平不稳定。</span><span class="english">The receiving level of the INMARSAT SES is not stable.</span></p>
 
 <p><span class="chinese">他经济局局长还有一次双曲正割战斗由于那一个'日'战争'偷取生命超过。</span><span class="english">He ses one more sech fight as that an' th' war 'll be over.</span></p>

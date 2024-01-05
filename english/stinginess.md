@@ -1,5 +1,7 @@
 # stinginess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stinginess.md)
+
 <p><span class="chinese">做供养以对抗吝啬。</span><span class="english">Make offerings to go against stinginess.</span></p>
 
 <p><span class="chinese">我们不能把勤俭和吝啬等同起来。</span><span class="english">We must not equate thrift with stinginess.</span></p>

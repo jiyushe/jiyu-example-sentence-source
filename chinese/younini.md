@@ -1,5 +1,7 @@
 # 油腻腻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/younini.md)
+
 <p><span class="chinese">头发油腻腻的！</span><span class="english">My hair all greasy.</span></p>
 
 <p><span class="chinese">她要洗油腻腻的碟子和肮脏的衣服。</span><span class="english">She has to wash slimy dishes and dirty clothes.</span></p>

@@ -1,5 +1,7 @@
 # amusing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amusing.md)
+
 <p><span class="chinese">彬格莱马上接下去说，“那一定是一门很有趣的学问吧。”</span><span class="english">It must be an amusing study.</span></p>
 
 <p><span class="chinese">他讲的故事很使发笑。</span><span class="english">He is an amusing story-teller.</span></p>

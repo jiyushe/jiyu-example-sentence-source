@@ -1,5 +1,7 @@
 # toed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toed.md)
+
 <p><span class="chinese">她踮着脚尖走出了房间。</span><span class="english">She toed cautiously into the room.</span></p>
 
 <p><span class="chinese">杰克不安的把脚趾在地上的鹅卵石上来回蹭着。</span><span class="english">Jack toed at a pebble on the pavement.</span></p>

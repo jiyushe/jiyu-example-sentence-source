@@ -1,5 +1,7 @@
 # physically 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/physically.md)
+
 <p><span class="chinese">她生理上一切正常。</span><span class="english">She's a-okay physically.</span></p>
 
 <p><span class="chinese">它外观上很美，</span><span class="english">Physically it's beautiful,</span></p>

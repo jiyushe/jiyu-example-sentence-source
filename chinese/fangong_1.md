@@ -1,5 +1,7 @@
 # 返工
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangong_1.md)
+
 <p><span class="chinese">这件上衣需要返工。</span><span class="english">This jacket needs to be remade.</span></p>
 
 <p><span class="chinese">这项工程必须返工。</span><span class="english">This project must be started all over again.</span></p>

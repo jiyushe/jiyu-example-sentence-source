@@ -1,5 +1,7 @@
 # 伶伶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingling.md)
+
 <p><span class="chinese">当秋风吹起，熊孤伶伶地在洞穴中，它因为鼻塞而感到头疼。</span><span class="english">Alone in his cave as the autumn wind blows, Bear feels achy with a stuffed-up nose.</span></p>
 
 <p><span class="chinese">在这些树丛中孤伶伶地站着的有二十多个动物，它们都在耐心地等着喝水呢。</span><span class="english">Standing forlornly among the trees were scores of animals, patiently waiting to drink.</span></p>

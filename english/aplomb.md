@@ -1,5 +1,7 @@
 # aplomb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aplomb.md)
+
 <p><span class="chinese">盖茨是少数自信的成功者之一。</span><span class="english">Gates is one of the few to pull off both feats with aplomb.</span></p>
 
 <p><span class="chinese">别人向他提的哪些问题他都会沉着应对。</span><span class="english">All these things that were thrown at him, he handled it with aplomb.</span></p>

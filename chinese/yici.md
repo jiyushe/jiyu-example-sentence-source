@@ -1,5 +1,7 @@
 # 以次
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yici.md)
+
 <p><span class="chinese">民间即以次象征吉祥和喜庆来歌颂幸福的生活。</span><span class="english">The folks take the phoenix as the symbol of auspiciousness and happiness.</span></p>
 
 <p><span class="chinese">工程期预期30个工作日，根据施工所具备的条件以次类推。</span><span class="english">First, the project period is expected to 30 days, the condition of construction etc.</span></p>

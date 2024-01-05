@@ -1,5 +1,7 @@
 # loaf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loaf.md)
+
 <p><span class="chinese">再拿上这片面包。</span><span class="english">Take this loaf.</span></p>
 
 <p><span class="chinese">不要虚度一生。</span><span class="english">Don't loaf your life away.</span></p>

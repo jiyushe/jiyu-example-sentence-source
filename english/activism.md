@@ -1,5 +1,7 @@
 # activism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/activism.md)
+
 <p><span class="chinese">在那些日子里，我自豪于我的积极性。</span><span class="english">In those days, I prided myself on my activism.</span></p>
 
 <p><span class="chinese">这样的话，政治和社会激进主义都将自动消亡。</span><span class="english">As such, political and social activism was an end in itself.</span></p>

@@ -1,5 +1,7 @@
 # sextile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sextile.md)
+
 <p><span class="chinese">为了便于理解，这两种情况都将被称之为六合相。</span><span class="english">For our aspect reading, both cases will be taken as Sextile cases.</span></p>
 
 <p><span class="chinese">水星跟火星之间的六分相赋予智能跟敏锐的思维。</span><span class="english">The sextile formed between Mercury and Mars gives mental energy and a sharp intellect.</span></p>

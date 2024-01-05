@@ -1,5 +1,7 @@
 # tianjin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tianjin.md)
+
 <p><span class="chinese">我的家乡是天津。</span><span class="english">My hometown is Tianjin.</span></p>
 
 <p><span class="chinese">这条是通往天津的路。</span><span class="english">It's the road to Tianjin.</span></p>

@@ -1,5 +1,7 @@
 # stigmatization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stigmatization.md)
+
 <p><span class="chinese">支持性工作者反对偏见。</span><span class="english">Support the fight against the stigmatization of sex workers.</span></p>
 
 <p><span class="chinese">他说，这种遣责将对集束弹的使用形成强有力的威摄作用。</span><span class="english">He says this stigmatization will act as a potent deterrent to their use.</span></p>

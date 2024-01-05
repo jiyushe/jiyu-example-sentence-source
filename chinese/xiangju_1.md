@@ -1,5 +1,7 @@
 # 相距
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangju_1.md)
+
 <p><span class="chinese">但这与事实相距甚远。</span><span class="english">But that's far from the truth.</span></p>
 
 <p><span class="chinese">尽管是相距千万里。</span><span class="english">Though were ten thousand mile.</span></p>

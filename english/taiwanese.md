@@ -1,5 +1,7 @@
 # taiwanese
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taiwanese.md)
+
 <p><span class="chinese">我说的台语你听得懂喔？</span><span class="english">Can you understand my Taiwanese?</span></p>
 
 <p><span class="chinese">当中，台湾籍博士生一共有642人。</span><span class="english">Among a total of 642 Taiwanese doctor who.</span></p>

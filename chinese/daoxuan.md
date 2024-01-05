@@ -1,5 +1,7 @@
 # 倒悬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daoxuan.md)
+
 <p><span class="chinese">像撕薄了的棉絮，铺在倒悬著的碧海上。</span><span class="english">Like cotton fiber spreading on bluish green sea.</span></p>
 
 <p><span class="chinese">晦暗，覆盖着倒悬的诗句的藤蔓。</span><span class="english">Darkened and overhung by the running vine of the verses.</span></p>

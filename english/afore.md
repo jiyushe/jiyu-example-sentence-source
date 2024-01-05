@@ -1,5 +1,7 @@
 # afore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/afore.md)
+
 <p><span class="chinese">这福音是神从前藉众先知，在圣经上所应许的。</span><span class="english">Which he had promised afore by his prophets in the holy scriptures</span></p>
 
 <p><span class="chinese">愿他们像房顶上的草，未长成而枯乾。</span><span class="english">Let them be as the grass upon the housetops, which withereth afore it groweth up</span></p>

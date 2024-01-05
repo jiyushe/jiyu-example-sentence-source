@@ -1,5 +1,7 @@
 # severely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/severely.md)
+
 <p><span class="chinese">她的衣着很简朴。</span><span class="english">Her dress is severely plain.</span></p>
 
 <p><span class="chinese">土壤中的水分严重。</span><span class="english">Soil moisture severely dwindles.</span></p>

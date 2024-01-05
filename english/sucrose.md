@@ -1,5 +1,7 @@
 # sucrose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sucrose.md)
+
 <p><span class="chinese">蔗糖是日常饮食中必不可少的。</span><span class="english">Sucrose is essentially table sugar.</span></p>
 
 <p><span class="chinese">服用蔗糖液是因为其似乎能起作用。</span><span class="english">Sucrose is given because it seems to work.</span></p>

@@ -1,5 +1,7 @@
 # gibraltar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gibraltar.md)
+
 <p><span class="chinese">船在直布罗陀上煤。</span><span class="english">Ships coal at Gibraltar.</span></p>
 
 <p><span class="chinese">许多船在直布罗陀加煤。</span><span class="english">Many ships coal at Gibraltar.</span></p>

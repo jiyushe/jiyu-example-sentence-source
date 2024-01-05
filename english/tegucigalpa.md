@@ -1,5 +1,7 @@
 # tegucigalpa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tegucigalpa.md)
+
 <p><span class="chinese">你没有看到他是怎么进入特古西加尔巴吗?</span><span class="english">Couldn’t you see how he entered Tegucigalpa?</span></p>
 
 <p><span class="chinese">特古西加尔巴为首都和最大的城市。</span><span class="english">Tegucigalpa is the capital and the largest city.</span></p>

@@ -1,5 +1,7 @@
 # seventy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seventy.md)
+
 <p><span class="chinese">有七十个刎。</span><span class="english">There are seventy.</span></p>
 
 <p><span class="chinese">七十比六十七。</span><span class="english">Seventy to sixty-seven.</span></p>

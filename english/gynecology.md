@@ -1,5 +1,7 @@
 # gynecology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gynecology.md)
+
 <p><span class="chinese">身影便出现在了妇产科外面。</span><span class="english">The figure then appears at gynecology outside.</span></p>
 
 <p><span class="chinese">北京龙城妇科专家如是说。</span><span class="english">Beijing Dragon City Gynecology department experts said.</span></p>

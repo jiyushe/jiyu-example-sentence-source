@@ -1,5 +1,7 @@
 # thunder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thunder.md)
+
 <p><span class="chinese">雷声轰响。</span><span class="english">Strikes the thunder.</span></p>
 
 <p><span class="chinese">你怕不怕打雷？</span><span class="english">Are you afraid of thunder?</span></p>

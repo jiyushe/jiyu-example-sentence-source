@@ -1,5 +1,7 @@
 # 须眉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xumei.md)
+
 <p><span class="chinese">祝我的须眉生日康乐。</span><span class="english">Happy birthday to my husband!</span></p>
 
 <p><span class="chinese">落后的须眉缺少玄色配景。</span><span class="english">the backward man lacks black background.</span></p>

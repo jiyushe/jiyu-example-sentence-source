@@ -1,5 +1,7 @@
 # 竞走
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingzou.md)
+
 <p><span class="chinese">“真是笑话，我可以边玩边以及你竞走。”兔子说。</span><span class="english">"that is a good joke, " said the hare.</span></p>
 
 <p><span class="chinese">它的竞走比赛，谁可以出喧嚣谁？</span><span class="english">It's a foot race, who can out-hustle who?</span></p>

@@ -1,5 +1,7 @@
 # figuration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/figuration.md)
+
 <p><span class="chinese">“象喻”是中国人的思维特性之一。</span><span class="english">Vivid figuration is one of characteristics of Chinese thinking.</span></p>
 
 <p><span class="chinese">本企业保留技术及外形修改之权力。</span><span class="english">JIADI reserves the right of technology and change of figuration.</span></p>

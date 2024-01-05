@@ -1,5 +1,7 @@
 # coast 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coast.md)
+
 <p><span class="chinese">海水将海岸冲击得凹凸不平。</span><span class="english">The sea indents the coast.</span></p>
 
 <p><span class="chinese">野人海岸迅猛龙遗址。</span><span class="english">Savage Coast Raptor Fields.</span></p>

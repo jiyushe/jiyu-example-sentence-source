@@ -1,5 +1,7 @@
 # rigor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rigor.md)
+
 <p><span class="chinese">科学要非常精准。</span><span class="english">Science has to have some rigor.</span></p>
 
 <p><span class="chinese">坚硬是一种僵尸的表现。</span><span class="english">Rigidity is a sign of rigor mortis.</span></p>

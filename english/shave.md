@@ -1,5 +1,7 @@
 # shave 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shave.md)
+
 <p><span class="chinese">缅甸剃。</span><span class="english">Burma Shave.</span></p>
 
 <p><span class="chinese">我得刮刮胡子。</span><span class="english">I have to shave.</span></p>

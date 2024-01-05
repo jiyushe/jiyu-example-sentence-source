@@ -1,5 +1,7 @@
 # 随从
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suicong.md)
+
 <p><span class="chinese">他下令随从们停下。</span><span class="english">He ordered the cortege to stop.</span></p>
 
 <p><span class="chinese">他带着一大群随从走出来。</span><span class="english">He came out with a troop of followers.</span></p>

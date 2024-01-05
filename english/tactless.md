@@ -1,5 +1,7 @@
 # tactless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tactless.md)
+
 <p><span class="chinese">“就出版商们而言出版这本挂历是不明智的”。</span><span class="english">It is tactless on the part of the publishers.</span></p>
 
 <p><span class="chinese">她那些不得体的话简直是火上加油。</span><span class="english">Her tactless remarks just added fuel to the fire.</span></p>

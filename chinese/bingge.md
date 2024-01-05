@@ -1,5 +1,7 @@
 # 兵戈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bingge.md)
+
 <p><span class="chinese">你来这儿是干什么的，二等兵戈登？</span><span class="english">Why are you here, Private Gordon?</span></p>
 
 <p><span class="chinese">我不相信。你为什么来这儿，二等兵戈登？</span><span class="english">I don't believe you. Why are you here, Private Gordon?</span></p>

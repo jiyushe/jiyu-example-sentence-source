@@ -1,5 +1,7 @@
 # 直到
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhidao_1.md)
+
 <p><span class="chinese">直到约会？</span><span class="english">Till date?</span></p>
 
 <p><span class="chinese">直到现在。</span><span class="english">Until now.</span></p>

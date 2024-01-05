@@ -1,5 +1,7 @@
 # 古今
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gujin.md)
+
 <p><span class="chinese">古今将相在何方？荒冢一堆草没了。</span><span class="english">The great ones of old, where are they now?</span></p>
 
 <p><span class="chinese">古今多少事，就付笑谈中吧！</span><span class="english">How many ancient and modern things, pay the joke !</span></p>

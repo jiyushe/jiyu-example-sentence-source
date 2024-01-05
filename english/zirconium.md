@@ -1,5 +1,7 @@
 # zirconium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zirconium.md)
+
 <p><span class="chinese">锆的强度几乎与钢一样。</span><span class="english">Zirconium is almost as strong as steel.</span></p>
 
 <p><span class="chinese">生产高品质的硅酸锆产品。</span><span class="english">The production of high quality Zirconium Silicate Products.</span></p>

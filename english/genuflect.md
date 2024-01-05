@@ -1,5 +1,7 @@
 # genuflect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/genuflect.md)
+
 <p><span class="chinese">跪求妇科，妈妈病了。</span><span class="english">Genuflect begs department of gynaecology, mom is ill.</span></p>
 
 <p><span class="chinese">这种“整批处理”的含义是“排队磕头”。</span><span class="english">This type of batch processing shouts, "Get in line to genuflect."</span></p>

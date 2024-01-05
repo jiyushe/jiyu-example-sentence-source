@@ -1,5 +1,7 @@
 # des
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/des.md)
+
 <p><span class="chinese">每个人都想去得梅因。</span><span class="english">Everybody wants to go to Des Moines.</span></p>
 
 <p><span class="chinese">盒是DES算法中的一个关键环节。</span><span class="english">S-box is a key part of DES algorithm.</span></p>

@@ -1,5 +1,7 @@
 # phenomenology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phenomenology.md)
+
 <p><span class="chinese">现象学的中心主题就是意向性。</span><span class="english">The central theme of phenomenology is intentionality.</span></p>
 
 <p><span class="chinese">“存在”为什么是现象学本身的问题?。</span><span class="english">Why Is "Being" an Subject of Phenomenology in Itself ?</span></p>

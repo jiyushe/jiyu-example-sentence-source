@@ -1,5 +1,7 @@
 # 事先
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shixian.md)
+
 <p><span class="chinese">那场比赛的输赢事先已讲定。</span><span class="english">That game is fixed.</span></p>
 
 <p><span class="chinese">用事先皮肤白白净净的！</span><span class="english">With prior skin scrub!</span></p>

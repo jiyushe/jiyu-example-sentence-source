@@ -1,5 +1,7 @@
 # rsv
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rsv.md)
+
 <p><span class="chinese">目前尚无RSV疫苗也没有更好的治疗方法。</span><span class="english">There is no vaccine and no good treatment for RSV.</span></p>
 
 <p><span class="chinese">结论呼吸道合胞病毒是新生儿肺炎的重要病原之一。</span><span class="english">Conclusion RSV is one of the important pathogen of neonate pneumonia.</span></p>

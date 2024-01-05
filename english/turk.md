@@ -1,5 +1,7 @@
 # Turk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turk.md)
+
 <p><span class="chinese">这盘是格兰特岛的。</span><span class="english">This tape is about Grand Turk Island.</span></p>
 
 <p><span class="chinese">她的神庙在1686年被土耳其人破杯。</span><span class="english">Her Temple was damaged by Turk in 1686.</span></p>

@@ -1,5 +1,7 @@
 # 数额
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shue.md)
+
 <p><span class="chinese">欧洲的数额略少。</span><span class="english">Amounts in Europe are somewhat less.</span></p>
 
 <p><span class="chinese">要求一笔大数额的汇款。</span><span class="english">A remittance of a large sum is required.</span></p>

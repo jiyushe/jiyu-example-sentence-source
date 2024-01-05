@@ -1,5 +1,7 @@
 # revolt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revolt.md)
+
 <p><span class="chinese">他策动了这次叛乱。</span><span class="english">He instigated the revolt.</span></p>
 
 <p><span class="chinese">是一次人民反对自己的暴乱。</span><span class="english">A revolt of the people against itself.</span></p>

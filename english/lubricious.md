@@ -1,5 +1,7 @@
 # lubricious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lubricious.md)
+
 <p><span class="chinese">对于较敏感的颜色能很好地克服色花和层差。</span><span class="english">For more sensitive colour can overcome lubricious flowers and layer.</span></p>
 
 <p><span class="chinese">餐厅里，红棕色的餐桌，有利于增进食欲。</span><span class="english">In dining-room, gong Zong's lubricious table, be helpful for stomachic.</span></p>

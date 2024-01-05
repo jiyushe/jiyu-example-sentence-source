@@ -1,5 +1,7 @@
 # 付之一炬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuzhiyiju.md)
+
 <p><span class="chinese">我把这本坏书付之一炬。</span><span class="english">I commit this evil book to the flames.</span></p>
 
 <p><span class="chinese">当天晚上，华人开设的洗衣店就有二十家被付之一炬。</span><span class="english">Twenty laundries were burned that night.</span></p>

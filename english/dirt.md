@@ -1,5 +1,7 @@
 # dirt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dirt.md)
+
 <p><span class="chinese">把所有的丑闻都说给我听。</span><span class="english">Give me all the dirt.</span></p>
 
 <p><span class="chinese">她把脏土扫了出去。</span><span class="english">She swept the dirt out.</span></p>

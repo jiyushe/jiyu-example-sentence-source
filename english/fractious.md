@@ -1,5 +1,7 @@
 # fractious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fractious.md)
+
 <p><span class="chinese">印度遇到的第2只拦路虎就是在这个难以驾驭的民主国家，大规模的基础设施改建及更新项目往往会引发许多问题与争端。</span><span class="english">Then there is the issue of upgrading the infrastructure on time in a fractious democracy.</span></p>
 
 <p><span class="chinese">当谈及这片被暴力和乖戾支配的土地时，似乎它的每件东西都有自己的价格。</span><span class="english">When it comes to governing this violent, fractious land, everything, it seems, has its price.</span></p>

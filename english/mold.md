@@ -1,5 +1,7 @@
 # mold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mold.md)
+
 <p><span class="chinese">包含一个脱模剂。</span><span class="english">Contains a mold release agent.</span></p>
 
 <p><span class="chinese">郭德纲正好符合这个模式。</span><span class="english">Mr. Guo seems to fit this mold.</span></p>

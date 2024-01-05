@@ -1,5 +1,7 @@
 # stalactite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stalactite.md)
+
 <p><span class="chinese">洞中的钟乳石千姿百态，形状奇特。</span><span class="english">Mix of the stalactite cave, strange shapes.</span></p>
 
 <p><span class="chinese">在钟乳石溶洞里，可以见到渗流现象。</span><span class="english">Seepage flow can be observed in stalactite caves.</span></p>

@@ -1,5 +1,7 @@
 # 短打
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duanda.md)
+
 <p><span class="chinese">不要短打。</span><span class="english">Don’t bunt.</span></p>
 
 <p><span class="chinese">我还以为他会来个触击短打！</span><span class="english">I thought he was going to bunt!</span></p>

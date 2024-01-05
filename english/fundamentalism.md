@@ -1,5 +1,7 @@
 # fundamentalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fundamentalism.md)
+
 <p><span class="chinese">同样的说法也适用于基要主义。</span><span class="english">The same might be said for fundamentalism.</span></p>
 
 <p><span class="chinese">这种质朴冷酷的原教旨主义也许只是一种讥讽？</span><span class="english">Is this countrified bleak fundamentalism a spoof?</span></p>

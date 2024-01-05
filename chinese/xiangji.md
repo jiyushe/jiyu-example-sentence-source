@@ -1,5 +1,7 @@
 # 相机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangji.md)
+
 <p><span class="chinese">买个还过得去的相机。</span><span class="english">Use a decent camera.</span></p>
 
 <p><span class="chinese">亲家母…你真的好买相机了！</span><span class="english">You very often get it.</span></p>

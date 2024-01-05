@@ -1,5 +1,7 @@
 # abridged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abridged.md)
+
 <p><span class="chinese">这本书被节略过。</span><span class="english">The book is abridged.</span></p>
 
 <p><span class="chinese">剧本经过节略，以拍摄电视片。</span><span class="english">The play was abridged for TV.</span></p>

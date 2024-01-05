@@ -1,5 +1,7 @@
 # superpower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superpower.md)
+
 <p><span class="chinese">未来的超级大国在哪儿？</span><span class="english">But the superpower of the future?</span></p>
 
 <p><span class="chinese">美国是农业的超级大国。</span><span class="english">The US is the agricultural superpower.</span></p>

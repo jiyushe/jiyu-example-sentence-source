@@ -1,5 +1,7 @@
 # 稳固
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wengu.md)
+
 <p><span class="chinese">这门学说的基础很稳固。</span><span class="english">The theory is well grounded.</span></p>
 
 <p><span class="chinese">在培训中稳固新的方法。</span><span class="english">Anchoring new approaches in the culture.</span></p>

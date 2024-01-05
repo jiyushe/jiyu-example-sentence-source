@@ -1,5 +1,7 @@
 # 移师
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishi_7.md)
+
 <p><span class="chinese">每年夏天，“秋季”露天游乐场都会移师到克兰布鲁克。</span><span class="english">Each summer the fall Fair comes to Cranbrook.</span></p>
 
 <p><span class="chinese">让我们移师到陈三郎老师的家，再一起分享吧！</span><span class="english">Let's move on to Mr. Chen's house for more sharings!</span></p>

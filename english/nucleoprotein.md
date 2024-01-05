@@ -1,5 +1,7 @@
 # nucleoprotein
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nucleoprotein.md)
+
 <p><span class="chinese">研究提取淡水鱼精巢中的核蛋白和鱼精蛋白的工艺条件。</span><span class="english">The extraction process of nucleoprotein and protamine from freshwater fish spermary was studied.</span></p>
 
 <p><span class="chinese">衣壳粒在电子显微镜下呈子粒状，故又称子粒，病毒衣壳粒由核蛋白组建而成。</span><span class="english">Capsomere got its name by being kernel-like, the viral capsid of which consists of nucleoprotein.</span></p>

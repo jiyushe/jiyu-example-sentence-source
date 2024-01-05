@@ -1,5 +1,7 @@
 # tangier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tangier.md)
+
 <p><span class="chinese">如果你看见她，说声哈罗，她可能在丹吉尔。</span><span class="english">If you see her, say hello, she might be in Tangier.</span></p>
 
 <p><span class="chinese">当时我正在丹吉尔的一个市场里。瞧！我发现了这个。</span><span class="english">I was in a market in Tangier and bingo! I found this.</span></p>

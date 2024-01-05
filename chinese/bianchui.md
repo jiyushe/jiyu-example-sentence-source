@@ -1,5 +1,7 @@
 # 边陲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianchui.md)
+
 <p><span class="chinese">早期的马料水远离市区，甚至可说地处边陲，这是。</span><span class="english">Ma Liu Shui was remote, even peripheral, in the old.</span></p>
 
 <p><span class="chinese">现在，你在这个边陲之地的学习之期已近尾声。</span><span class="english">Now, the end of your time at this borderland school draws near.</span></p>

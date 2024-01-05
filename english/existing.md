@@ -1,5 +1,7 @@
 # existing 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/existing.md)
+
 <p><span class="chinese">打开一个已存在的测试日志。</span><span class="english">Open an existing test log.</span></p>
 
 <p><span class="chinese">现有泉眼四口。</span><span class="english">It has four existing springs.</span></p>

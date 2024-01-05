@@ -1,5 +1,7 @@
 # medulla
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/medulla.md)
+
 <p><span class="chinese">肾上腺素的任何一组化学元。</span><span class="english">Chromaffin cells of the adrenal medulla.</span></p>
 
 <p><span class="chinese">病灶近髓腔侧有细的硬化线。</span><span class="english">Well-defined sclerotic edge near the medulla.</span></p>

@@ -1,5 +1,7 @@
 # reverse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reverse.md)
+
 <p><span class="chinese">掉过来了。</span><span class="english">It's the reverse.</span></p>
 
 <p><span class="chinese">只要把上面的过程反过来。</span><span class="english">Just reverse the process.</span></p>

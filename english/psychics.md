@@ -1,5 +1,7 @@
 # psychics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychics.md)
+
 <p><span class="chinese">通灵之人为什么还要问你的姓名呢？</span><span class="english">Why do  psychics have to ask you for your name?</span></p>
 
 <p><span class="chinese">特别献给加利福尼亚心灵诊所的顾客！</span><span class="english">Special Offer for Our California Psychics Customers!</span></p>

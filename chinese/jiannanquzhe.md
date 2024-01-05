@@ -1,5 +1,7 @@
 # 艰难曲折
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiannanquzhe.md)
+
 <p><span class="chinese">人生即是一段艰难曲折的旅程。</span><span class="english">Life is but a hard and tortuous journey.</span></p>
 
 <p><span class="chinese">美国缓慢地开始倾听，但并非没有艰难曲折。</span><span class="english">Slowly and not without struggle, America began to listen.</span></p>

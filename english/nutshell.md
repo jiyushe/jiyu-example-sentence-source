@@ -1,5 +1,7 @@
 # nutshell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nutshell.md)
+
 <p><span class="chinese">在坚硬的电视外壳下面的其实是腐烂的内芯。</span><span class="english">In a nutshell TV is lame!</span></p>
 
 <p><span class="chinese">果壳裹着果仁。</span><span class="english">The nutshell includes the kernel.</span></p>

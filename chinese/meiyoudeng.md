@@ -1,5 +1,7 @@
 # 煤油灯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/meiyoudeng.md)
+
 <p><span class="chinese">煤油灯被吹熄了。</span><span class="english">The kerosene lamp blew out.</span></p>
 
 <p><span class="chinese">煤油灯闪了闪就灭了。</span><span class="english">With a flash, the kerosene lamp went out.</span></p>

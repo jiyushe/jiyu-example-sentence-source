@@ -1,5 +1,7 @@
 # 水田
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuitian.md)
+
 <p><span class="chinese">从水田出来的“签儿”是什么“签儿”？</span><span class="english">What came out of rice fields KUJI 2 KUJI?</span></p>
 
 <p><span class="chinese">中国水田花亚族植物的整理。</span><span class="english">A review of the subtribe Adininae in China.</span></p>

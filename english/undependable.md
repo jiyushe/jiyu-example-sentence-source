@@ -1,5 +1,7 @@
 # undependable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undependable.md)
+
 <p><span class="chinese">他的远投太不可靠吗？</span><span class="english">Was his perimeter shot too undependable?</span></p>
 
 <p><span class="chinese">而平常的快意，是不可靠的。</span><span class="english">As for ordinary pleasure, it's undependable.</span></p>

@@ -1,5 +1,7 @@
 # coolly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coolly.md)
+
 <p><span class="chinese">你面前的这个半身人沉着的注视着你。</span><span class="english">The halfling before you regards you coolly.</span></p>
 
 <p><span class="chinese">“那好吧。”她回了一句然后挂断了电话。</span><span class="english">"All right then," she said coolly and hung up.</span></p>

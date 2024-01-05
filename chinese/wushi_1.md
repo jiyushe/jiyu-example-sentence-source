@@ -1,5 +1,7 @@
 # 务实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wushi_1.md)
+
 <p><span class="chinese">对我们来说，这是纯粹的务实性。</span><span class="english">For us, it was sheer practicality.</span></p>
 
 <p><span class="chinese">各方的发言是冷静的，也是务实的。</span><span class="english">The speeches have been sober and pragmatic.</span></p>

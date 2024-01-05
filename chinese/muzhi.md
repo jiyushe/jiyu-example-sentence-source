@@ -1,5 +1,7 @@
 # 拇指
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muzhi.md)
+
 <p><span class="chinese">拇指的残根。</span><span class="english">Thumb stump.</span></p>
 
 <p><span class="chinese">我是拇指姑娘。</span><span class="english">I am Thumbelina.</span></p>

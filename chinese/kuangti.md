@@ -1,5 +1,7 @@
 # 矿体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuangti.md)
+
 <p><span class="chinese">矿体为铌矿体。</span><span class="english">No. 3 is columbium orebody.</span></p>
 
 <p><span class="chinese">这有助于确定如何为经济矿体。</span><span class="english">This helps determine how economic the orebody is.</span></p>

@@ -1,5 +1,7 @@
 # crossroad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crossroad.md)
+
 <p><span class="chinese">我们转回到那个十字路口吧。</span><span class="english">Let's go back to that crossroad.</span></p>
 
 <p><span class="chinese">两辆小车在十字路口相撞。</span><span class="english">The two cars crashed at the crossroad.</span></p>

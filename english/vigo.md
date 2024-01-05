@@ -1,5 +1,7 @@
 # vigo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vigo.md)
+
 <p><span class="chinese">在对塞尔塔的维哥的比赛中我也进了球，而今天比赛里我打进了第50球。</span><span class="english">I already scored against Vigo this week and today I got my 50th.</span></p>
 
 <p><span class="chinese">比戈是一个海军基地和主要的航泊、渔业中心。</span><span class="english">Vigo is a naval base and major shipping and fishing center. Population, 277, 460.</span></p>

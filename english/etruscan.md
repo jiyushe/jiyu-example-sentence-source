@@ -1,5 +1,7 @@
 # etruscan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/etruscan.md)
+
 <p><span class="chinese">我知道你会为了一只伊特鲁里亚花瓶出卖你母亲。</span><span class="english">I knew you would sell your mother for an etruscan vase.</span></p>
 
 <p><span class="chinese">教皇十六世格里高利在1837年建立了伊特鲁里亚博物馆。</span><span class="english">Pope Gregory XVI established the Etruscan Museum in 1837.</span></p>

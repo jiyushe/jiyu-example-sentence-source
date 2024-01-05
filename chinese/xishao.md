@@ -1,5 +1,7 @@
 # 稀少
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xishao.md)
+
 <p><span class="chinese">基里巴斯的自然资源非常稀少。</span><span class="english">Kiribati has few natural resources.</span></p>
 
 <p><span class="chinese">或稀少不齐，颜色暗淡。</span><span class="english">Or exiguous not neat, color is dim.</span></p>

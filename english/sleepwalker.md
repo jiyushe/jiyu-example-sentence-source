@@ -1,5 +1,7 @@
 # sleepwalker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sleepwalker.md)
+
 <p><span class="chinese">要叫醒梦游者吗？</span><span class="english">Should you wake a sleepwalker?</span></p>
 
 <p><span class="chinese">我小时候就是一个梦游冠军。</span><span class="english">I'm somebody who was a champion sleepwalker as a kid.</span></p>

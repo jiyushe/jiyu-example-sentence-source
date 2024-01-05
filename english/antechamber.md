@@ -1,5 +1,7 @@
 # antechamber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antechamber.md)
+
 <p><span class="chinese">这里是大桡船的接待室。</span><span class="english">It was the antechamber of the galleys.</span></p>
 
 <p><span class="chinese">那餐室同时也是起坐间，位于两间卧室之间。</span><span class="english">The dining-room was an antechamber as well, and separated the two bedrooms.</span></p>

@@ -1,5 +1,7 @@
 # riverboat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/riverboat.md)
+
 <p><span class="chinese">他们看见一艘大船。</span><span class="english">They saw a big riverboat.</span></p>
 
 <p><span class="chinese">在剧中，他出演一位船工。</span><span class="english">He played a riverboat worker.</span></p>

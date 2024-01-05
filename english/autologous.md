@@ -1,5 +1,7 @@
 # autologous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autologous.md)
+
 <p><span class="chinese">可能是自体接种而发病。</span><span class="english">May be autologous vaccination and disease.</span></p>
 
 <p><span class="chinese">组为成年小香猪自体表皮皮片。</span><span class="english">Group C is to graft autologous epidermis flap.</span></p>

@@ -1,5 +1,7 @@
 # glycoprotein
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glycoprotein.md)
+
 <p><span class="chinese">含4个相同亚单位的糖蛋白。</span><span class="english">Glycoprotein composed of 4 identical subunits.</span></p>
 
 <p><span class="chinese">由于含有糖的成分，它被称为糖蛋白。</span><span class="english">Because of its sugar content, it is called a glycoprotein.</span></p>

@@ -1,5 +1,7 @@
 # lethality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lethality.md)
+
 <p><span class="chinese">体现了很强的杀伤力。</span><span class="english">Has manifested the very strong lethality.</span></p>
 
 <p><span class="chinese">她是远程杀伤里最高的兵种，拥有穿透敌人的特技。</span><span class="english">She is long-range lethality highest warriors, have penetrate enemy stunts.</span></p>

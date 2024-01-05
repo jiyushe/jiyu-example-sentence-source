@@ -1,5 +1,7 @@
 # 沙场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shachang.md)
+
 <p><span class="chinese">他战死沙场。</span><span class="english">He was killed in battle.</span></p>
 
 <p><span class="chinese">我们的士兵不应该为这样一件事战死沙场。</span><span class="english">Our soldiers shouldn't die for it.</span></p>

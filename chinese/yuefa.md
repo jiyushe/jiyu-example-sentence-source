@@ -1,5 +1,7 @@
 # 越发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuefa.md)
+
 <p><span class="chinese">雾越发浓重了。</span><span class="english">The fog became thicker still.</span></p>
 
 <p><span class="chinese">古老的泰山越发显得崔嵬了。</span><span class="english">Mount Tai looked more precipitous.</span></p>

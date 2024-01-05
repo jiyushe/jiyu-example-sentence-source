@@ -1,5 +1,7 @@
 # geographic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geographic.md)
+
 <p><span class="chinese">战争刀兵系列之坦克篇。</span><span class="english">National Geographic War Machines Tank.</span></p>
 
 <p><span class="chinese">如果你发现他请致电国家地理。</span><span class="english">Call National Geographic if you spot him.</span></p>

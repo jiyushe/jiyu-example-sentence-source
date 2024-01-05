@@ -1,5 +1,7 @@
 # 股份制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gufenzhi.md)
+
 <p><span class="chinese">我们采取的是股份制。</span><span class="english">We adopt share-holding system.</span></p>
 
 <p><span class="chinese">我公司是一股份制企业。</span><span class="english">Our company is a joint-stock enterprises.</span></p>

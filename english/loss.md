@@ -1,5 +1,7 @@
 # loss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loss.md)
+
 <p><span class="chinese">我们哀悼它的消失。</span><span class="english">We lament its loss.</span></p>
 
 <p><span class="chinese">蒸发器热损失少。</span><span class="english">The heat loss is less.</span></p>

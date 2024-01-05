@@ -1,5 +1,7 @@
 # fumaric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fumaric.md)
+
 <p><span class="chinese">以富马酸和松香为原料制备富马海松酸。</span><span class="english">Fumaropimaric acid was prepared from rosin and fumaric acid as raw materials.</span></p>
 
 <p><span class="chinese">富马松香由富马酸对松香经过加成改性而成。</span><span class="english">In this paper, the method of the synthesis of fumaric acid modified rosin was studied.</span></p>

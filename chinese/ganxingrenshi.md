@@ -1,5 +1,7 @@
 # 感性认识
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganxingrenshi.md)
+
 <p><span class="chinese">教师播放投影片，放录音，学生先从视听觉上对新内容有一感性认识。</span><span class="english">Now, let's look at the picture and listen to the tape.</span></p>
 
 <p><span class="chinese">但是F-35从对越少越好的感性认识上来说是最好的阐释。</span><span class="english">But the F-35 is the ultimate expression of the less-is-more sensibility.</span></p>

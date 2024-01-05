@@ -1,5 +1,7 @@
 # pauper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pauper.md)
+
 <p><span class="chinese">他是同僚中的穷光蛋。</span><span class="english">He is a fellow of the pauper.</span></p>
 
 <p><span class="chinese">我是说我不会要求任何姑娘给一个叫化子。</span><span class="english">I'm not asking any girl to marry a pauper.</span></p>

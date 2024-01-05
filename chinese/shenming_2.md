@@ -1,5 +1,7 @@
 # 神明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenming_2.md)
+
 <p><span class="chinese">神明是奇怪的。</span><span class="english">The gods are strange.</span></p>
 
 <p><span class="chinese">神明不死,人类却会</span><span class="english">Gods do not die. Men die.</span></p>

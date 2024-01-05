@@ -1,5 +1,7 @@
 # worship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/worship.md)
+
 <p><span class="chinese">真正的敬拜是要付代价的。</span><span class="english">Real worship costs.</span></p>
 
 <p><span class="chinese">财富能使人拜倒。</span><span class="english">Wealth makes worship.</span></p>

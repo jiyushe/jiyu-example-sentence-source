@@ -1,5 +1,7 @@
 # 抹灰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mohui.md)
+
 <p><span class="chinese">泥瓦工正在墙上抹灰。</span><span class="english">The plasterers were rendering the walls.</span></p>
 
 <p><span class="chinese">水泥类含纤维的增强抹灰砂浆。</span><span class="english">Cement based fiber reinforced rendering mortar.</span></p>

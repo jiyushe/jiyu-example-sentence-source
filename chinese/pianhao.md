@@ -1,5 +1,7 @@
 # 偏好
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianhao.md)
+
 <p><span class="chinese">我偏好双人床.</span><span class="english">I prefer a double bed.</span></p>
 
 <p><span class="chinese">择偶偏好又如何？</span><span class="english">What about mate preference?</span></p>

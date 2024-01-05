@@ -1,5 +1,7 @@
 # lolly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lolly.md)
+
 <p><span class="chinese">萝莉念了一个很短的故事。</span><span class="english">Lolly read a very short story.</span></p>
 
 <p><span class="chinese">它可能是一种棒糖或是一种游戏的名字。</span><span class="english">It could be the name of a lolly , or a game.</span></p>

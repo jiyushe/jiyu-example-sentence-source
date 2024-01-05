@@ -1,5 +1,7 @@
 # handshaking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handshaking.md)
+
 <p><span class="chinese">与适当的握手之一。</span><span class="english">With one of the appropriate handshaking.</span></p>
 
 <p><span class="chinese">他热情地伸出手来和大家握手。</span><span class="english">He extended his hand cordially for handshaking.</span></p>

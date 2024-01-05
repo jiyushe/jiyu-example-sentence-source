@@ -1,5 +1,7 @@
 # 大西北
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daxibei.md)
+
 <p><span class="chinese">想想我们干涸的大西北，请珍惜每一滴水。</span><span class="english">Think of dry northwest of China, please save water.</span></p>
 
 <p><span class="chinese">我们是一家制造商和出口商的服装在大西北。</span><span class="english">We are a manufacturer of garment in northwest China.</span></p>

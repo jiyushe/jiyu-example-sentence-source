@@ -1,5 +1,7 @@
 # 沙盘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shapan.md)
+
 <p><span class="chinese">这也是一个很好的沙盘演练。</span><span class="english">It's also a good drill for sand play.</span></p>
 
 <p><span class="chinese">我们秦山核电基地的沙盘模型。</span><span class="english">A sand table of our qinshan nuclear power base.</span></p>

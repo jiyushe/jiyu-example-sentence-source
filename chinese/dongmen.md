@@ -1,5 +1,7 @@
 # 东门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongmen.md)
+
 <p><span class="chinese">东门之池、可以沤菅。</span><span class="english">The moat at the east gate.</span></p>
 
 <p><span class="chinese">张任自退入东门去了。</span><span class="english">Zhang Ren backed into the east gate.</span></p>

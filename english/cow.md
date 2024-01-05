@@ -1,5 +1,7 @@
 # cow 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cow.md)
+
 <p><span class="chinese">母牛哞哞叫。</span><span class="english">A cow moos.</span></p>
 
 <p><span class="chinese">我听到一声牛叫。</span><span class="english">I hear a cow.</span></p>

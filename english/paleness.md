@@ -1,5 +1,7 @@
 # paleness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paleness.md)
+
 <p><span class="chinese">她脸色一阵苍白。</span><span class="english">A paleness overspread her face.</span></p>
 
 <p><span class="chinese">脸上的苍白使她花容减色。</span><span class="english">Her paleness took from her beauty.</span></p>

@@ -1,5 +1,7 @@
 # crybaby
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crybaby.md)
+
 <p><span class="chinese">她是个爱哭的女孩。</span><span class="english">She is a crybaby.</span></p>
 
 <p><span class="chinese">为什么会有爱哭的人？什么是坚强?。</span><span class="english">Why can you have crybaby? What is firm?</span></p>

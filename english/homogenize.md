@@ -1,5 +1,7 @@
 # homogenize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homogenize.md)
+
 <p><span class="chinese">其四，“与物同体”之乐。</span><span class="english">Finally, the joy is "homogenize with things".</span></p>
 
 <p><span class="chinese">充满困难，不要单一化。</span><span class="english">Let it be difficult. Don't homogenize it all.</span></p>

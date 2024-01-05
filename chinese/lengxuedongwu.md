@@ -1,5 +1,7 @@
 # 冷血动物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengxuedongwu.md)
+
 <p><span class="chinese">他们是冷血动物，像蛇一样。</span><span class="english">They are cold-blooded, like snakes.</span></p>
 
 <p><span class="chinese">海龟和所有爬行动物一样，是冷血动物。</span><span class="english">The turtle, like all reptiles, is cold-blooded.</span></p>

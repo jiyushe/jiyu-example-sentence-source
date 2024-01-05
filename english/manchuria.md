@@ -1,5 +1,7 @@
 # manchuria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manchuria.md)
+
 <p><span class="chinese">这意指满州必须收回。</span><span class="english">This means that Manchuria must be regained.</span></p>
 
 <p><span class="chinese">俄国正通过满洲向朝鲜推进。</span><span class="english">Russia was pushing down through Manchuria to Corea.</span></p>

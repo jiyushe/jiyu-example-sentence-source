@@ -1,5 +1,7 @@
 # whatnot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whatnot.md)
+
 <p><span class="chinese">可以参与俱乐部或类似的活动。</span><span class="english">get involved with clubs and whatnot.</span></p>
 
 <p><span class="chinese">我们已经讨论了同位素等。</span><span class="english">We talked about isotopes, and whatnot.</span></p>

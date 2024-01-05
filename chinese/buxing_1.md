@@ -1,5 +1,7 @@
 # 不幸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buxing_1.md)
+
 <p><span class="chinese">谁能对不幸一笑了之?</span><span class="english">Who can smile at grief?</span></p>
 
 <p><span class="chinese">我不幸错过了末班火车。</span><span class="english">I missed the last train.</span></p>

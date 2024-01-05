@@ -1,5 +1,7 @@
 # 义项
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yixiang_1.md)
+
 <p><span class="chinese">且各义项以转喻或隐喻方式为主要纽带，组成了一张多核的相关语义网。</span><span class="english">These senses form a multi-centered polysemy network via metonymy or metaphor.</span></p>
 
 <p><span class="chinese">由于“头”义项过多，语言系统没有选择“头”而是选择“项”作为“头项”的简缩式。</span><span class="english">Because Tou has numerous extended meanings, Xiang is used as the abbreviation.</span></p>

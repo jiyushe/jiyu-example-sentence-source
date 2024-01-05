@@ -1,5 +1,7 @@
 # prevision
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prevision.md)
+
 <p><span class="chinese">某种预感警告探险者将有麻烦发生。</span><span class="english">Some prevision warned the explorer of trouble.</span></p>
 
 <p><span class="chinese">这将是第一例此类事件，因为此前欧足联从未有过先例规则。</span><span class="english">It would be a first as there are no prevision in the UEFA rules.</span></p>

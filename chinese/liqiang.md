@@ -1,5 +1,7 @@
 # 篱墙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liqiang.md)
+
 <p><span class="chinese">到了颓圮的篱墙。</span><span class="english">To the crumbling wall.</span></p>
 
 <p><span class="chinese">在埃克斯穆尔高地，远处山坡上隐约可见长长的篱墙。</span><span class="english">On Exmoor, hedge banks faintly trace the far hill.</span></p>

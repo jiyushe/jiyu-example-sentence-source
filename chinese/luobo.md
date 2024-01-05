@@ -1,5 +1,7 @@
 # 萝卜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luobo.md)
+
 <p><span class="chinese">你真是个花心大萝卜。</span><span class="english">You are a playboy.</span></p>
 
 <p><span class="chinese">葫萝卜是是健康食品。</span><span class="english">Carrot is healthy food.</span></p>

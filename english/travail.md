@@ -1,5 +1,7 @@
 # travail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/travail.md)
+
 <p><span class="chinese">我已把自己劳动奉献给艰苦的工作。</span><span class="english">I have had my labor for my travail.</span></p>
 
 <p><span class="chinese">神的最大赐予，都要经过了苦痛方能得到。</span><span class="english">God's greatest gifts come through travail.</span></p>

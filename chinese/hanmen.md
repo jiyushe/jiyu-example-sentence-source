@@ -1,5 +1,7 @@
 # 寒门
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanmen.md)
+
 <p><span class="chinese">刚刚从一个贫苦的男童寒门。</span><span class="english">Hes just a poor boy from a poor family.</span></p>
 
 <p><span class="chinese">寒门出才子，高山出俊鸟。</span><span class="english">Poor family out of wit, mountain Jun birds out.</span></p>

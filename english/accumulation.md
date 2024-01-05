@@ -1,5 +1,7 @@
 # accumulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accumulation.md)
+
 <p><span class="chinese">因此，我们可以说，圣人是来自于积累。</span><span class="english">Thus, a sage grows out of accumulation.</span></p>
 
 <p><span class="chinese">要措置的数据的一种聚积。</span><span class="english">An accumulation of data to be processed.</span></p>

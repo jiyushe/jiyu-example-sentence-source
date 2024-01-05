@@ -1,5 +1,7 @@
 # 人学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renxue.md)
+
 <p><span class="chinese">文学是人学，是心学。</span><span class="english">Literature is human studies as well as study of heart.</span></p>
 
 <p><span class="chinese">“受动性”是马克思早期人学思想中的一个重要概念。</span><span class="english">"Suffering" is one of Marx's early concepts of humanism.</span></p>

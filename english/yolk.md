@@ -1,5 +1,7 @@
 # yolk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yolk.md)
+
 <p><span class="chinese">加入糖蜜和蛋黄搅拌。</span><span class="english">Stir in molasses and egg yolk.</span></p>
 
 <p><span class="chinese">球形蛋黄液囊提供营养品。</span><span class="english">Bulbous yolk sacs provide nourishment.</span></p>

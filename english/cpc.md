@@ -1,5 +1,7 @@
 # cpc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cpc.md)
+
 <p><span class="chinese">中共第十七届中央委员会委员。</span><span class="english">Member of the 17th CPC Central Committee.</span></p>
 
 <p><span class="chinese">黄埔四期出的中共将领是最多的</span><span class="english">Huangpu four out of the CPC is the most general</span></p>

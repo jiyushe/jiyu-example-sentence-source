@@ -1,5 +1,7 @@
 # slighting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slighting.md)
+
 <p><span class="chinese">瓦妮莎竟没有在乎我对她男朋友的轻慢。</span><span class="english">It was a miracle that Vanessa didn't get upset over my slighting her boyfriend.</span></p>
 
 <p><span class="chinese">以色列王闷闷不乐地回了撒玛黎雅，进了自己的宫殿。</span><span class="english">And the king of Israel returned to his house, slighting to hear, and raging came into Samaria.</span></p>

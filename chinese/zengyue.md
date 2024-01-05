@@ -1,5 +1,7 @@
 # 赠阅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zengyue.md)
+
 <p><span class="chinese">马上订阅，可获2周免费赠阅。</span><span class="english">Subscribe now, get 2 weeks free.</span></p>
 
 <p><span class="chinese">我想要一个赠阅版本，所以我写信去索要。</span><span class="english">I want a free copy so I'll write away for one.</span></p>

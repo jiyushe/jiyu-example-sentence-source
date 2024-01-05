@@ -1,5 +1,7 @@
 # unscrupulous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unscrupulous.md)
+
 <p><span class="chinese">她被一个奸诈的经纪人骗了。</span><span class="english">She was done in by an unscrupulous broker.</span></p>
 
 <p><span class="chinese">无耻之徒总是会欺骗头脑单纯的人。</span><span class="english">The unscrupulous often deceive the innocent.</span></p>

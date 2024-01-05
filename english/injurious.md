@@ -1,5 +1,7 @@
 # injurious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/injurious.md)
+
 <p><span class="chinese">他从未做过任何伤风败俗的事。</span><span class="english">He's never done anything injurious to morals.</span></p>
 
 <p><span class="chinese">吸烟有害我的健康。</span><span class="english">Smoking is injurious to my health. Smoking injures my health.</span></p>

@@ -1,5 +1,7 @@
 # mbps
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mbps.md)
+
 <p><span class="chinese">同时，南韩的下载速度将进31.5Mbps。</span><span class="english">South Korean download speeds, meanwhile, are around 31.5 Mbps.</span></p>
 
 <p><span class="chinese">这家公司在2005年就开始向香港家庭提供100兆的宽带。</span><span class="english">The same company had launched 100 Mbps to the home back in 2005.</span></p>

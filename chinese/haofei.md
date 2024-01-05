@@ -1,5 +1,7 @@
 # 耗费
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haofei.md)
+
 <p><span class="chinese">成本耗费在哪里？</span><span class="english">Where are the costs?</span></p>
 
 <p><span class="chinese">一概不要耗费食物。</span><span class="english">Never was well aste food.</span></p>

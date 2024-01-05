@@ -1,5 +1,7 @@
 # stria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stria.md)
+
 <p><span class="chinese">是预防脸上的斑还是身上的纹呢？</span><span class="english">Is to prevent the face or body stria spot it?</span></p>
 
 <p><span class="chinese">手纹不好，不代表孩子的命不好。</span><span class="english">Stria bad hand, bad does not mean that a child's life.</span></p>

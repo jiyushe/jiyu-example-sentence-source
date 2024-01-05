@@ -1,5 +1,7 @@
 # geodynamics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geodynamics.md)
+
 <p><span class="chinese">固体地球循环和地球动力学。</span><span class="english">Solid earth cycles and geodynamics.</span></p>
 
 <p><span class="chinese">固体地球动力学研究应向流体地球动力学进行概念转变。</span><span class="english">We need to change the concept of solid geodynamics to liquid one.</span></p>

@@ -1,5 +1,7 @@
 # petite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/petite.md)
+
 <p><span class="chinese">我个子高，她则身材娇小。</span><span class="english">I was tall ands she was petite.</span></p>
 
 <p><span class="chinese">通常一个小的爆竹。</span><span class="english">Prisca-Usually a petite firecracker.</span></p>

@@ -1,5 +1,7 @@
 # cannibalistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cannibalistic.md)
+
 <p><span class="chinese">斗鸡在任何情况下都是非常残忍的。</span><span class="english">Game birds are very cannibalistic under any circumstances.</span></p>
 
 <p><span class="chinese">弗雷家同族相食的命运在第三季就有重大暗示。</span><span class="english">A big hint about the Freys' cannibalistic fate was given back in season three.</span></p>

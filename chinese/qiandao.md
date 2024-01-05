@@ -1,5 +1,7 @@
 # 前导
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiandao.md)
+
 <p><span class="chinese">前导零消隐。</span><span class="english">Leading zero blanking.</span></p>
 
 <p><span class="chinese">删除前导和尾随空白。</span><span class="english">Remove leading and trailing white-space.</span></p>

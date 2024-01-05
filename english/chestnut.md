@@ -1,5 +1,7 @@
 # chestnut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chestnut.md)
+
 <p><span class="chinese">这怎么会是板栗呢？</span><span class="english">This is how it is chestnut?</span></p>
 
 <p><span class="chinese">土生的栗树并没有绝种。</span><span class="english">The native chestnut is not extinct.</span></p>

@@ -1,5 +1,7 @@
 # amylopectin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amylopectin.md)
+
 <p><span class="chinese">图1支链淀粉结构的模型。</span><span class="english">Fig. 1 Cluster model of amylopectin structure.</span></p>
 
 <p><span class="chinese">支链淀粉含量以加性效应为主。</span><span class="english">Amylopectin contents was controlled by additive genes.</span></p>

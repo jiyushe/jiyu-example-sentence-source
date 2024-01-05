@@ -1,5 +1,7 @@
 # 整整齐齐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengzhengqiqi.md)
+
 <p><span class="chinese">我喜欢把东西整理得整整齐齐。</span><span class="english">I like to put things in order.</span></p>
 
 <p><span class="chinese">我一会儿就可以把你打扮得整整齐齐的。</span><span class="english">I'll make you decent in a trice.</span></p>

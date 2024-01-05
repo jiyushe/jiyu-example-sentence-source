@@ -1,5 +1,7 @@
 # 珍爱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenai.md)
+
 <p><span class="chinese">杨宝很珍爱这只小鸟。</span><span class="english">He loved his little bird.</span></p>
 
 <p><span class="chinese">她珍爱她的像册。</span><span class="english">She treasures her photo album.</span></p>

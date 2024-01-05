@@ -1,5 +1,7 @@
 # slouch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slouch.md)
+
 <p><span class="chinese">他们无精打采。</span><span class="english">They slouch.</span></p>
 
 <p><span class="chinese">当然他自己的小说也写的不错。</span><span class="english">And of course he was no slouch at fiction-writing himself.</span></p>

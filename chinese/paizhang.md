@@ -1,5 +1,7 @@
 # 拍掌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paizhang.md)
+
 <p><span class="chinese">好，我们来玩拍掌游戏。</span><span class="english">OK. Let's play hand games.</span></p>
 
 <p><span class="chinese">可否多借我十对手来为他大力拍掌？</span><span class="english">Can I please have twenty more hands to clap for him?</span></p>

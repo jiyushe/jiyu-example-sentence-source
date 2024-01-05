@@ -1,5 +1,7 @@
 # borscht
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/borscht.md)
+
 <p><span class="chinese">但甜菜罗宋汤是最常见的一种。</span><span class="english">However, beet borscht is the most common form of this soup.</span></p>
 
 <p><span class="chinese">罗宋汤在德国和东欧很常见的菜肴。</span><span class="english">Borscht is a very common dish in Germany and Eastern Europe.</span></p>

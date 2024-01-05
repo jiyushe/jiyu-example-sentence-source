@@ -1,5 +1,7 @@
 # chalcopyrite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chalcopyrite.md)
+
 <p><span class="chinese">矿体包含黄铁矿，黄铜矿和闪锌矿。</span><span class="english">The ore body consists of pyrite, chalcopyrite and sphalerite.</span></p>
 
 <p><span class="chinese">照片10含黄铜矿乳滴的闪锌矿的相分析图。</span><span class="english">Photo 10 Phase analysis of sphalerite with chalcopyrite inclusions.</span></p>

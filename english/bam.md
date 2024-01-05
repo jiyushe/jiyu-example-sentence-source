@@ -1,5 +1,7 @@
 # bam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bam.md)
+
 <p><span class="chinese">所花费的步骤数是一样的。</span><span class="english">Right, in the binary case, bam.</span></p>
 
 <p><span class="chinese">所以我们有2007年，2008年，2009年和“bang</span><span class="english">So there we were 2007, 2008, 2009, and bam.</span></p>

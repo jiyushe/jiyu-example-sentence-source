@@ -1,5 +1,7 @@
 # 洗手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xishou_2.md)
+
 <p><span class="chinese">勤洗手。</span><span class="english">Handwashing.</span></p>
 
 <p><span class="chinese">勤洗手。</span><span class="english">Wash your hands often.</span></p>

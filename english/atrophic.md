@@ -1,5 +1,7 @@
 # atrophic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atrophic.md)
+
 <p><span class="chinese">萎缩性鼻炎是非常困难的治疗。</span><span class="english">Atrophic rhinitis is very difficult to treat.</span></p>
 
 <p><span class="chinese">萎缩性胃炎能吃醋泡生姜吗？</span><span class="english">Atrophic gastritis can be jealous of ginger soak it?</span></p>

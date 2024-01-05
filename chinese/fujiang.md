@@ -1,5 +1,7 @@
 # 福将
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fujiang.md)
+
 <p><span class="chinese">所以，人们称之为“福将”。</span><span class="english">Therefore, they are called"Fu-jiang".</span></p>
 
 <p><span class="chinese">在你的关心与支持下，天福将再创佳绩！</span><span class="english">You The concern and support, Frederick will create success!</span></p>

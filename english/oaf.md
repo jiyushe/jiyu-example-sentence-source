@@ -1,5 +1,7 @@
 # oaf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oaf.md)
+
 <p><span class="chinese">那个人是个草包。</span><span class="english">That man is a bungling oaf.</span></p>
 
 <p><span class="chinese">谢谢你的关心，呆子。</span><span class="english">Thanks for your concern, oaf.</span></p>

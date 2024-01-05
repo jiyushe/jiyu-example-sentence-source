@@ -1,5 +1,7 @@
 # toner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toner.md)
+
 <p><span class="chinese">打开硒鼓盖门。</span><span class="english">Open the toner door.</span></p>
 
 <p><span class="chinese">关闭硒鼓盖门。</span><span class="english">Close the toner door.</span></p>

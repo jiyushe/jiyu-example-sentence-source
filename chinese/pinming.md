@@ -1,5 +1,7 @@
 # 品名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinming.md)
+
 <p><span class="chinese">展品的品名，机器型号，数量，及单价。</span><span class="english">Exact name of item, Model of machine, quantity, unit price.</span></p>
 
 <p><span class="chinese">注明品名、净重、含量、批号、厂名等。</span><span class="english">Marking commodity, gross weight, net weight and company name.</span></p>

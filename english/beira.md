@@ -1,5 +1,7 @@
 # beira
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beira.md)
+
 <p><span class="chinese">哈尔福德对贝拉犯规吃到黄牌。</span><span class="english">Halford of Beira to eat yellow card fouls.</span></p>
 
 <p><span class="chinese">本特纳与贝拉组成前锋线。</span><span class="english">Turner and the composition of the Beira forward line.</span></p>

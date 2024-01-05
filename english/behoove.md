@@ -1,5 +1,7 @@
 # behoove
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/behoove.md)
+
 <p><span class="chinese">那么，家庭护理应做些什么呢?。</span><span class="english">So, what does the family protect behoove to do?</span></p>
 
 <p><span class="chinese">有必要把新帐与旧帐分开。</span><span class="english">New account book and old debt behoove are apart.</span></p>

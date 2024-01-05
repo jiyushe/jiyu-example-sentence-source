@@ -1,5 +1,7 @@
 # 风习
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengxi.md)
+
 <p><span class="chinese">“这是个古老的好风习，”他说，“我很高兴如今还没有废除。”</span><span class="english">That's a fine old custom, he said. I am glad to see it has not died out.</span></p>
 
 <p><span class="chinese">“真可惜，”范妮嚷道，“这一风习居然中断了。</span><span class="english">"It is a pity, " cried Fanny, "that the custom should have been discontinued.</span></p>

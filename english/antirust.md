@@ -1,5 +1,7 @@
 # antirust
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antirust.md)
+
 <p><span class="chinese">主要用于压载舱、原油舱等部位的防腐漆。</span><span class="english">As antirust paint for water ballast tank and crude oil tank.</span></p>
 
 <p><span class="chinese">对金属模具有防锈功能，并有清洁模具之作用。</span><span class="english">For metal mould has antirust function, and has the clean mold role.</span></p>

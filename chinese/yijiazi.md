@@ -1,5 +1,7 @@
 # 一家子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yijiazi.md)
+
 <p><span class="chinese">我们是一家子。</span><span class="english">We are all family.</span></p>
 
 <p><span class="chinese">看看脚踏车上的那一家子！</span><span class="english">Look at that family on a moped!</span></p>

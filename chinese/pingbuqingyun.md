@@ -1,5 +1,7 @@
 # 平步青云
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingbuqingyun.md)
+
 <p><span class="chinese">预祝平步青云环保讲坛圆满成功！</span><span class="english">Best wishes to the success of the Green Pathfinders Forum!</span></p>
 
 <p><span class="chinese">飞黄腾达，每位家长都希望自己的孩子将来能平步青云。</span><span class="english">Apprentice, every parent wants their children will be a meteoric rise.</span></p>

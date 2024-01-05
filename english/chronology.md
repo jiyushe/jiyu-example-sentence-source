@@ -1,5 +1,7 @@
 # chronology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chronology.md)
+
 <p><span class="chinese">年代学的与年代有关或依据年代的…</span><span class="english">Relating to or in accordance with chronology.</span></p>
 
 <p><span class="chinese">我不希望在维基中出现一个时间轴。</span><span class="english">I didn't want there to be a chronology in wiki.</span></p>

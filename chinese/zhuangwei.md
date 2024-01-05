@@ -1,5 +1,7 @@
 # 壮伟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangwei.md)
+
 <p><span class="chinese">她是一个壮伟的国度。</span><span class="english">She is great country.</span></p>
 
 <p><span class="chinese">在北京有许多壮伟的建筑物。</span><span class="english">There a range of huge constructs in Beijing.</span></p>

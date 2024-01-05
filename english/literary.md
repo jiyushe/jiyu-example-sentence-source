@@ -1,5 +1,7 @@
 # literary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/literary.md)
+
 <p><span class="chinese">同时他也很擅长文学。</span><span class="english">And he was very literary.</span></p>
 
 <p><span class="chinese">你觉得文学社怎么样？</span><span class="english">How about the Literary Club?</span></p>

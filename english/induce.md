@@ -1,5 +1,7 @@
 # induce
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/induce.md)
+
 <p><span class="chinese">没有什么可以说服我去的。</span><span class="english">Nothing shall induce me to go.</span></p>
 
 <p><span class="chinese">医生希望做诱产。</span><span class="english">My doctor wants to induce labor.</span></p>

@@ -1,5 +1,7 @@
 # melissa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/melissa.md)
+
 <p><span class="chinese">梅利莎与她本垒打。</span><span class="english">Melissa with her homers.</span></p>
 
 <p><span class="chinese">这是罗宾和梅利莎。?。</span><span class="english">This is Robin and Melissa.</span></p>

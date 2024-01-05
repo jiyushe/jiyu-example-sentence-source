@@ -1,5 +1,7 @@
 # 双簧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuanghuang.md)
+
 <p><span class="chinese">比传统单刀双簧屏蔽门更加持久的屏蔽效能。</span><span class="english">Out performs outlasts traditional single knife-edge doors.</span></p>
 
 <p><span class="chinese">是柏林法比欧双簧四重奏的成员，担任低音双簧管演奏。</span><span class="english">As bass oboe player she is a member of the Faboi Doublereedquartet Berlin.</span></p>

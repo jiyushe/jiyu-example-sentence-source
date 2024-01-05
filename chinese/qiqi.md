@@ -1,5 +1,7 @@
 # 萋萋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiqi.md)
+
 <p><span class="chinese">绿草萋萋，白雾迷离，有位佳人靠水而居。</span><span class="english">A green gown, the fog blurred, a beauty on the water.</span></p>
 
 <p><span class="chinese">长信梨花暗欲栖，应门上籥草萋萋。</span><span class="english">For a long letter pear dark habitat, should the door Yue luxuriant grass.</span></p>

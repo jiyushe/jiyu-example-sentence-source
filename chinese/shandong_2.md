@@ -1,5 +1,7 @@
 # 煽动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shandong_2.md)
+
 <p><span class="chinese">他不断煽动我去打架。</span><span class="english">He kept goading me to fight.</span></p>
 
 <p><span class="chinese">他们称他为政治煽动家。</span><span class="english">They labeled him a demagogue.</span></p>

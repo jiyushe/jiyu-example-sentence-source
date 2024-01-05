@@ -1,5 +1,7 @@
 # accidence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accidence.md)
+
 <p><span class="chinese">中国古人已有相当丰富的词法观念。</span><span class="english">Ancient China had rich accidence concepts.</span></p>
 
 <p><span class="chinese">你如何解释这次事故的原因？</span><span class="english">How do you explain the reason of this accidence?</span></p>

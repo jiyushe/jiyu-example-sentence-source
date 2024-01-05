@@ -1,5 +1,7 @@
 # 互相
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huxiang.md)
+
 <p><span class="chinese">他们是互相垂直的。</span><span class="english">They are orthogonal.</span></p>
 
 <p><span class="chinese">他们互相拥抱。</span><span class="english">They hug each other.</span></p>

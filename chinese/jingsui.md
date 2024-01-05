@@ -1,5 +1,7 @@
 # 精髓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingsui.md)
+
 <p><span class="chinese">不规矩是打趣话的精髓。</span><span class="english">Impropriety is the soul of wit.</span></p>
 
 <p><span class="chinese">要我说“吸取一些精髓”，那才是话中有话。</span><span class="english">Suck out some marrow. That one was.</span></p>

@@ -1,5 +1,7 @@
 # pilaf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pilaf.md)
+
 <p><span class="chinese">意大利肉酱面和肉饭。</span><span class="english">Spaghetti meat sauce and pilaf.</span></p>
 
 <p><span class="chinese">我中午想吃个牛肉烩饭。</span><span class="english">May I have the beef pilaf for lunch?</span></p>

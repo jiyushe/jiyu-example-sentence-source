@@ -1,5 +1,7 @@
 # 赤铁矿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chitiekuang.md)
+
 <p><span class="chinese">赤铁矿是一种具有深红颜色的氧化铁。</span><span class="english">Hematite is an iron oxide that is deep red in color.</span></p>
 
 <p><span class="chinese">南系岩画大都以红色涂绘，颜料是以赤铁矿粉调合牛血等而成的。</span><span class="english">Most of them are painted red with bloodstone powder and ox blood.</span></p>

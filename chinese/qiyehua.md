@@ -1,5 +1,7 @@
 # 企业化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiyehua.md)
+
 <p><span class="chinese">企业化经营的家庭。</span><span class="english">Entrepreneurialism runs in the family.</span></p>
 
 <p><span class="chinese">在18世纪，商业变得企业化。</span><span class="english">In the 1700s business became entrepreneurial.</span></p>

@@ -1,5 +1,7 @@
 # 铺展
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/puzhan.md)
+
 <p><span class="chinese">蔚蓝的天空铺展着一片片的白云。</span><span class="english">Fleecy clouds spread over the blue sky.</span></p>
 
 <p><span class="chinese">就把我的梦铺展在你的脚下。</span><span class="english">I have spread my dreams under your feet.</span></p>

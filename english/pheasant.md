@@ -1,5 +1,7 @@
 # pheasant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pheasant.md)
+
 <p><span class="chinese">成为一只活脱脱的大山鸡！</span><span class="english">To be a real big pheasant !</span></p>
 
 <p><span class="chinese">野鸡肉晾好方可食用。</span><span class="english">Pheasant needs to be well hung.</span></p>

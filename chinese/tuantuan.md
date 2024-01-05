@@ -1,5 +1,7 @@
 # 团团
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuantuan.md)
+
 <p><span class="chinese">他被记者团团围住。</span><span class="english">He was besieged by reporters.</span></p>
 
 <p><span class="chinese">火车呼哧呼哧的喷出一团团蒸汽。</span><span class="english">The train wheezed wreaths of steam.</span></p>

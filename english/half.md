@@ -1,5 +1,7 @@
 # half
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/half.md)
+
 <p><span class="chinese">半对半错。</span><span class="english">Half wrong.</span></p>
 
 <p><span class="chinese">他微笑道。</span><span class="english">He half smiled.</span></p>

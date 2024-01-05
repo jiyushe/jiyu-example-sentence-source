@@ -1,5 +1,7 @@
 # tungstate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tungstate.md)
+
 <p><span class="chinese">钨酸盐系列晶体具有优良的物理及激光性能。</span><span class="english">Tungstate crystals have good physical and laser properties.</span></p>
 
 <p><span class="chinese">电沉积过程中，钨酸根被还原成中间价态的氧化物。</span><span class="english">Tungstate ions were reduced to oxide with intermediate valence.</span></p>

@@ -1,5 +1,7 @@
 # 挨个
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aige_1.md)
+
 <p><span class="chinese">把工具挨个放在桌子上。</span><span class="english">Lay the tools together on the table.</span></p>
 
 <p><span class="chinese">不要挨个去问所有人你该怎么做</span><span class="english">Don't ask everyone about what you should do.</span></p>

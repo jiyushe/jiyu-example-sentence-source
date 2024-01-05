@@ -1,5 +1,7 @@
 # balboa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/balboa.md)
+
 <p><span class="chinese">巴尔博亚不分什么的乱打！</span><span class="english">Balboa is trying to hit anything and anywhere !</span></p>
 
 <p><span class="chinese">包尔波亚没有想到他已发现了一个大海洋。</span><span class="english">Balboa had no idea that he had discovered an ocean.</span></p>

@@ -1,5 +1,7 @@
 # 窟窿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kulong.md)
+
 <p><span class="chinese">他的旧毛巾满是窟窿。</span><span class="english">His old towels are in holes.</span></p>
 
 <p><span class="chinese">因此，有人必须再一次填补这个窟窿。</span><span class="english">So, again, someone must fill the hole.</span></p>

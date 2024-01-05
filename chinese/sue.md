@@ -1,5 +1,7 @@
 # 苏俄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sue.md)
+
 <p><span class="chinese">我们已经坐了好几个礼拜的船了，我真希望我们现在是在苏俄的家里。</span><span class="english">We've been on this ship for weeks.</span></p>
 
 <p><span class="chinese">直到二战为止，苏俄是唯一存在的共产政权的实例。</span><span class="english">Until World War II, Soviet Russia was the only example of a Communist regime.</span></p>

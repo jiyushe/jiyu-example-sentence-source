@@ -1,5 +1,7 @@
 # Yugoslav
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yugoslav.md)
+
 <p><span class="chinese">南斯拉夫前锋米赫洛域头球破网为帕尔马领先。</span><span class="english">Yugoslav striker Savo Milosevic had headed Parma ahead.</span></p>
 
 <p><span class="chinese">在上一次1991年南斯拉夫人口普查中，波斯尼亚有430万人口。</span><span class="english">In the last Yugoslav census in 1991, Bosnia had a population of 4.3m.</span></p>

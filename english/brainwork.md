@@ -1,5 +1,7 @@
 # brainwork
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brainwork.md)
+
 <p><span class="chinese">以脑力劳动或知识为基础的产业被称为第四产业。</span><span class="english">Industries based on brainwork or knowledge are called the quaternary industry.</span></p>
 
 <p><span class="chinese">中国女性，不管是从事体力工作还是脑力工作，都比美国女性辛劳。</span><span class="english">Chinese women are more hardworking than American women whether in manual work or brainwork.</span></p>

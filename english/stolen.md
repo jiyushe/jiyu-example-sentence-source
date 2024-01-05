@@ -1,5 +1,7 @@
 # stolen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stolen.md)
+
 <p><span class="chinese">我白勺包被偷了。</span><span class="english">I had my bag stolen.</span></p>
 
 <p><span class="chinese">他的大衣被偷了。</span><span class="english">His coat had been stolen.</span></p>

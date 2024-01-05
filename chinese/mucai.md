@@ -1,5 +1,7 @@
 # 木材
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mucai.md)
+
 <p><span class="chinese">太阳会晒裂木材。</span><span class="english">The sun checks timber.</span></p>
 
 <p><span class="chinese">我们从树木获取木材。</span><span class="english">We get wood from trees.</span></p>

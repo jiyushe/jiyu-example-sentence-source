@@ -1,5 +1,7 @@
 # 这些
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zheixie.md)
+
 <p><span class="chinese">这些肉。</span><span class="english">The meat.</span></p>
 
 <p><span class="chinese">这些标签!</span><span class="english">The tags!</span></p>

@@ -1,5 +1,7 @@
 # candid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/candid.md)
+
 <p><span class="chinese">我的目的是尽可能的诚实和坦率。</span><span class="english">My goal is to be honest and candid.</span></p>
 
 <p><span class="chinese">小样儿，你又偷拍我！</span><span class="english">You small, Candid Camera of me again !</span></p>

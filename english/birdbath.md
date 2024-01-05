@@ -1,5 +1,7 @@
 # birdbath
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/birdbath.md)
+
 <p><span class="chinese">在我后院的“饮鸟水盆”里拍了这张照片。</span><span class="english">I composed this photo in my backyard birdbath.</span></p>
 
 <p><span class="chinese">他们都非常好，而且水盆是看得见的，我觉得这样和母亲非常亲近。</span><span class="english">They were wonderful. And the birdbath is very visible.</span></p>

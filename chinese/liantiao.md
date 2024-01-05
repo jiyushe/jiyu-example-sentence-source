@@ -1,5 +1,7 @@
 # 链条
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liantiao.md)
+
 <p><span class="chinese">什么样的链条？</span><span class="english">What the chain?</span></p>
 
 <p><span class="chinese">皮革、鞭子和链条。</span><span class="english">Leather, whips and chains.</span></p>

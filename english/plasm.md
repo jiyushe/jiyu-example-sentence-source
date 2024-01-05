@@ -1,5 +1,7 @@
 # plasm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plasm.md)
+
 <p><span class="chinese">针灸可以改善血浆粘度值。</span><span class="english">Acupuncture treatment can also improve plasm viscosity.</span></p>
 
 <p><span class="chinese">女子血浆是从不同的孤蛋？</span><span class="english">Of woman plasm is different from the parthenogenetic egg?</span></p>

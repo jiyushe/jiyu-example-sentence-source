@@ -1,5 +1,7 @@
 # 形式
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingshi_9.md)
+
 <p><span class="chinese">任何形式的货币.</span><span class="english">Any type of currency.</span></p>
 
 <p><span class="chinese">但是笛卡尔形式发生了什么呢？</span><span class="english">Ah yes, didn't change.</span></p>

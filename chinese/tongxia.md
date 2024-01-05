@@ -1,5 +1,7 @@
 # 统辖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongxia.md)
+
 <p><span class="chinese">制约和统辖人们交际行为的是关联。</span><span class="english">What governs and controls the human verbal communication is relevance.</span></p>
 
 <p><span class="chinese">在严酷的丛林法则的统辖下，生存是很不容易的。——沈石溪。</span><span class="english">In harsh under the rule of the law of the jungle, survival is not easy.</span></p>

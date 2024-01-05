@@ -1,5 +1,7 @@
 # 大本营
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dabenying.md)
+
 <p><span class="chinese">他们用无线电向大本营报告他们所处的位置。</span><span class="english">They radioed their position to headquarters.</span></p>
 
 <p><span class="chinese">所有登山队员现在都安全回到了大本营。</span><span class="english">All climbers are now safely back at base camp.</span></p>

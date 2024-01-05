@@ -1,5 +1,7 @@
 # 勤俭节约
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinjianjieyue.md)
+
 <p><span class="chinese">艰苦奋斗和勤俭节约均是美德。</span><span class="english">Working hard and frugal are both virtues.</span></p>
 
 <p><span class="chinese">“勤俭节约，吃穿不缺”这句谚语如今被发展到了新的高度。</span><span class="english">It takes the saying waste not, want not, to a whole new level.</span></p>

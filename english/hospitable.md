@@ -1,5 +1,7 @@
 # hospitable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hospitable.md)
+
 <p><span class="chinese">这个城市实在是太好客了。</span><span class="english">The city is just too hospitable.</span></p>
 
 <p><span class="chinese">这个家庭非常好客。</span><span class="english">This family is extremely hospitable.</span></p>

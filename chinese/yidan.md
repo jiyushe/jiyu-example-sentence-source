@@ -1,5 +1,7 @@
 # 一旦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yidan.md)
+
 <p><span class="chinese">一旦梦儿死亡。</span><span class="english">For if dreams die.</span></p>
 
 <p><span class="chinese">一旦银行抵债。</span><span class="english">Once the bank debt.</span></p>

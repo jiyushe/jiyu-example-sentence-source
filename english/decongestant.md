@@ -1,5 +1,7 @@
 # decongestant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decongestant.md)
+
 <p><span class="chinese">你也可以用鼻血管收缩剂。</span><span class="english">You may also take decongestant.</span></p>
 
 <p><span class="chinese">这种药物很容易就可以从解充血产品中合成。</span><span class="english">It can be readily synthesized from over-the-counter decongestant products.</span></p>

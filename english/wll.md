@@ -1,5 +1,7 @@
 # wll
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wll.md)
+
 <p><span class="chinese">我愿你将永远不犯错误。</span><span class="english">I hope you wll never do wrong.</span></p>
 
 <p><span class="chinese">有一天我会对芒果街说再见。</span><span class="english">One day I wll say goodbye to Mango.</span></p>

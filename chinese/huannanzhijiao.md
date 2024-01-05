@@ -1,5 +1,7 @@
 # 患难之交
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huannanzhijiao.md)
+
 <p><span class="chinese">患难见真情和患难之交才是真正的朋友。</span><span class="english">A friend indeed is a friend in need.</span></p>
 
 <p><span class="chinese">我们都知道，患难之交才是真朋友。</span><span class="english">We all knew that a friend in need is a friend indeed.</span></p>

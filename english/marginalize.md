@@ -1,5 +1,7 @@
 # marginalize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marginalize.md)
+
 <p><span class="chinese">但在我看来，学生们很排斥这样的课程。</span><span class="english">My view is students marginalize classes like that.</span></p>
 
 <p><span class="chinese">不要忽视可利用的网络工具。</span><span class="english">Don't marginalize the online tools that are available.</span></p>

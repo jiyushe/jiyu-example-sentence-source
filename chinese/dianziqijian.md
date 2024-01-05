@@ -1,5 +1,7 @@
 # 电子器件
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianziqijian.md)
+
 <p><span class="chinese">这些电子器件都是从东洋进口的。</span><span class="english">Those electronic devices are imported from Japan.</span></p>
 
 <p><span class="chinese">这些电子器件以前全未用过。</span><span class="english">None of these electronic devices have ever been used.</span></p>

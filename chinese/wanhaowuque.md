@@ -1,5 +1,7 @@
 # 完好无缺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanhaowuque.md)
+
 <p><span class="chinese">图他卡门的陵墓，完好无缺地出土。</span><span class="english">The discovery of Tutankhamen's intact tomb.</span></p>
 
 <p><span class="chinese">她八十岁了，一副牙齿仍然完好无缺。</span><span class="english">She still has a perfect set of teeth at eighty.</span></p>

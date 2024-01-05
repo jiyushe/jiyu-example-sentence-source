@@ -1,5 +1,7 @@
 # 飘零
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaoling_1.md)
+
 <p><span class="chinese">花自飘零水自流。</span><span class="english">Flowers fall and water flows.</span></p>
 
 <p><span class="chinese">我们的爱情，她若雪飘零。</span><span class="english">Our love, she if snow falling.</span></p>

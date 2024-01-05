@@ -1,5 +1,7 @@
 # jimmy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jimmy.md)
+
 <p><span class="chinese">吉米一声不吭。</span><span class="english">Jimmy said nothing.</span></p>
 
 <p><span class="chinese">吉米朝我们微笑。</span><span class="english">Jimmy smiled at us.</span></p>

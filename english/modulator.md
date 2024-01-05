@@ -1,5 +1,7 @@
 # modulator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/modulator.md)
+
 <p><span class="chinese">调制器使用真空四极管为核心部件。</span><span class="english">Tetrode is the core component of the modulator.</span></p>
 
 <p><span class="chinese">间接的增益控制正交调制器。</span><span class="english">Indirect quadrature modulator with gain control.</span></p>

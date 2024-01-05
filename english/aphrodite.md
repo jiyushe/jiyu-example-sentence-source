@@ -1,5 +1,7 @@
 # aphrodite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aphrodite.md)
+
 <p><span class="chinese">佛洛狄特是爱与美之女神。</span><span class="english">Aphrodite was the goddess of love and beauty.</span></p>
 
 <p><span class="chinese">宙斯和阿佛洛狄是古希腊的神。</span><span class="english">Zeus and Aphrodite were ancient Greek deities.</span></p>

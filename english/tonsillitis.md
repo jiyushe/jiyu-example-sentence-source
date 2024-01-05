@@ -1,5 +1,7 @@
 # tonsillitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tonsillitis.md)
+
 <p><span class="chinese">您扁桃体发炎了。</span><span class="english">You've got tonsillitis.</span></p>
 
 <p><span class="chinese">什么是扁桃体炎？有哪些危害？</span><span class="english">What is tonsillitis? What harm?</span></p>

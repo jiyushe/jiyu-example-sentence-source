@@ -1,5 +1,7 @@
 # overawe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overawe.md)
+
 <p><span class="chinese">统计数字仍然有力量吓住我们。</span><span class="english">The statistics still have the power to overawe us.</span></p>
 
 <p><span class="chinese">恐怖活动者的直接目的是追求最大的威慑效应。</span><span class="english">The ultimate object of terrorists is to achieve the maximum overawe.</span></p>

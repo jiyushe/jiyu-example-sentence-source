@@ -1,5 +1,7 @@
 # aphakia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aphakia.md)
+
 <p><span class="chinese">结论带黑色虹膜隔人工晶状体植入手术是治疗无虹膜白内障或无晶状体眼安全、有效的方法。</span><span class="english">Conclusion Black diaphragm intraocular lens implantation is effective in the management of cataract or aphakia with aniridia.</span></p>
 
 <p><span class="chinese">目的探讨眼外伤玻璃体切除术后无晶状体眼二期悬吊式人工晶状体植入的临床效果。</span><span class="english">Objective To study the clinical effect of secondary suspensory intraocular lens implantation for aphakia eye after vitrectomy.</span></p>

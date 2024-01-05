@@ -1,5 +1,7 @@
 # 襄助
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangzhu_1.md)
+
 <p><span class="chinese">这样的人对你大有襄助。</span><span class="english">Such people can help you a lot.</span></p>
 
 <p><span class="chinese">能襄助移一下冰箱吗？</span><span class="english">Would you help me remove the refrigerator?</span></p>

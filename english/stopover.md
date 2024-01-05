@@ -1,5 +1,7 @@
 # stopover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stopover.md)
+
 <p><span class="chinese">中途可以下车吗？</span><span class="english">Can I stopover with this ticket?</span></p>
 
 <p><span class="chinese">在新加坡停留，不允许超过24小时。</span><span class="english">Stopover in SIN More than 24hours is not allowed.</span></p>

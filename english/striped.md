@@ -1,5 +1,7 @@
 # striped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/striped.md)
+
 <p><span class="chinese">我要有条纹的那个。</span><span class="english">I 'd like the striped one.</span></p>
 
 <p><span class="chinese">老虎身上有条纹，而豹有花斑。</span><span class="english">A tiger has a striped coat.</span></p>

@@ -1,5 +1,7 @@
 # 前兆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianzhao.md)
+
 <p><span class="chinese">前兆感觉冥界所无所的光！</span><span class="english">Precursor of the underworld feel nothing of light!</span></p>
 
 <p><span class="chinese">这是夏季抑郁症前兆么???。</span><span class="english">Is this the summer is depressed disease augural ? ? ?</span></p>

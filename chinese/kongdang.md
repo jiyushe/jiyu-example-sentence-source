@@ -1,5 +1,7 @@
 # 空当
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongdang.md)
+
 <p><span class="chinese">他能命中空位投篮，但却没有制造空当的能力。</span><span class="english">He'll hit open shots but won't create that many.</span></p>
 
 <p><span class="chinese">后卫可以利用边锋制造空当。</span><span class="english">A fullback can use the space created by a wing forward.</span></p>

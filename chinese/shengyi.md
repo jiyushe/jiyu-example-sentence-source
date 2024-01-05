@@ -1,5 +1,7 @@
 # 生意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengyi.md)
+
 <p><span class="chinese">生意毫无收益。</span><span class="english">Business was zilch.</span></p>
 
 <p><span class="chinese">生意正在好起来。</span><span class="english">Business is taking up.</span></p>

@@ -1,5 +1,7 @@
 # trichrome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trichrome.md)
+
 <p><span class="chinese">留取肝组织进行组织学观察。</span><span class="english">Liver tissues were stained with HE and Masson trichrome staining.</span></p>
 
 <p><span class="chinese">组织标本行原位杂交及三色染色。</span><span class="english">Histological samples were in situ hybridized and trichrome stained.</span></p>

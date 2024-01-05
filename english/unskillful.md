@@ -1,5 +1,7 @@
 # unskillful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unskillful.md)
+
 <p><span class="chinese">一些问题的回答是不熟练的。</span><span class="english">The answer of some problems is unskillful.</span></p>
 
 <p><span class="chinese">它会是一种不善巧的身业，有苦果、苦报么?。</span><span class="english">Is it an unskillful bodily act, with painful consequences, painful results?</span></p>

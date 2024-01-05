@@ -1,5 +1,7 @@
 # 谚语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanyu_3.md)
+
 <p><span class="chinese">一些谚语是珍宝。</span><span class="english">Some adages are gems.</span></p>
 
 <p><span class="chinese">你们知道这个古老的谚语。</span><span class="english">You know the old adage.</span></p>

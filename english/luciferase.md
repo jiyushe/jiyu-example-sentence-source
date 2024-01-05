@@ -1,5 +1,7 @@
 # luciferase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/luciferase.md)
+
 <p><span class="chinese">方法采用荧光素酶报告基因方法。</span><span class="english">Methods The method of luciferase reporter gene was used.</span></p>
 
 <p><span class="chinese">转染72小时后测量荧光素酶的活性。</span><span class="english">Luciferase activities were measured 72 hr post-transfection.</span></p>

@@ -1,5 +1,7 @@
 # 起首
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qishou_2.md)
+
 <p><span class="chinese">起首，我新建一个50G的数据库。</span><span class="english">First, I created a new 50GB database.</span></p>
 
 <p><span class="chinese">起首，请答应我先容一下本身到你的。</span><span class="english">First, let me introduce myself to your.</span></p>

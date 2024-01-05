@@ -1,5 +1,7 @@
 # clathrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clathrate.md)
+
 <p><span class="chinese">气体水合物是一类笼形结构的冰状晶体。</span><span class="english">Gas hydrate is a kind of ice clathrate hydrate.</span></p>
 
 <p><span class="chinese">气体水合物是一类笼形结构的冰状晶体。</span><span class="english">Gas hydrate is a kind of ice -like clathrate hydrate.</span></p>

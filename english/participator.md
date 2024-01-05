@@ -1,5 +1,7 @@
 # participator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/participator.md)
+
 <p><span class="chinese">佛教徒国民服务学员排队浴佛。</span><span class="english">PLKN participator queue up to bath Buddha.</span></p>
 
 <p><span class="chinese">全我是旁观者，也是角色的参与者。</span><span class="english">The whole self is the observer and the participator in the roles.</span></p>

@@ -1,5 +1,7 @@
 # synod
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synod.md)
+
 <p><span class="chinese">英国圣公会宗教大会。</span><span class="english">The general synod of the church of england.</span></p>
 
 <p><span class="chinese">再一个主教拒绝图标，另外，随著资讯科技，保卫他们。</span><span class="english">Again one synod rejects icons, and another, following it, defends them.</span></p>

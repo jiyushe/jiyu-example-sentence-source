@@ -1,5 +1,7 @@
 # formidable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/formidable.md)
+
 <p><span class="chinese">这是一种很利害的手段。</span><span class="english">This is a formidable move.</span></p>
 
 <p><span class="chinese">狼人也许并不够难以对付。</span><span class="english">Werewolves maybe not formidable enough.</span></p>

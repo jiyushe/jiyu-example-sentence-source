@@ -1,5 +1,7 @@
 # nonexistent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonexistent.md)
+
 <p><span class="chinese">法国经济增长疲弱，接近零增长。</span><span class="english">France's growth is weak to nonexistent.</span></p>
 
 <p><span class="chinese">在俄罗斯中产阶级基本不存在</span><span class="english">You've got a practically nonexistent middle class.</span></p>

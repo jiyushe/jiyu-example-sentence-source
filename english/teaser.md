@@ -1,5 +1,7 @@
 # teaser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teaser.md)
+
 <p><span class="chinese">一个玩笑话将在周二就MTV的处子秀。</span><span class="english">A teaser will debut on Tuesday on MTV.</span></p>
 
 <p><span class="chinese">今天我们就讨论这个话题。</span><span class="english">But for now, today's teaser will be this.</span></p>

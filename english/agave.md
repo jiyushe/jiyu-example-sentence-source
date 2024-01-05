@@ -1,5 +1,7 @@
 # agave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agave.md)
+
 <p><span class="chinese">Soicta龙舌兰、短叶芦荟</span><span class="english">Agave soicta or aloe brevifolia</span></p>
 
 <p><span class="chinese">龙舌兰花蜜和龙舌兰酒都是来源于同一种植物。</span><span class="english">Agave nectar comes from the same plant that tequila is made from.</span></p>

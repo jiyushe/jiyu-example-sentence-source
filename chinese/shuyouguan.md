@@ -1,5 +1,7 @@
 # 输油管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuyouguan.md)
+
 <p><span class="chinese">石油通过输油管输送到炼油厂。</span><span class="english">The oil is carried to the oil refinery by pipelines.</span></p>
 
 <p><span class="chinese">输油管管壁的任何部位疲劳变薄都有可能断裂漏油。</span><span class="english">Fatigue any part of the pipeline wall thinning oil spills are likely to break.</span></p>

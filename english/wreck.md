@@ -1,5 +1,7 @@
 # wreck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wreck.md)
+
 <p><span class="chinese">一个残酷的词句可能折损一条生命。</span><span class="english">A cruel word may wreck a life.</span></p>
 
 <p><span class="chinese">从身体上说，我完全是一个废人。</span><span class="english">Physically, I was a total wreck.</span></p>

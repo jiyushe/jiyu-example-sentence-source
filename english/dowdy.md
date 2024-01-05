@@ -1,5 +1,7 @@
 # dowdy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dowdy.md)
+
 <p><span class="chinese">她长得非常普通，衣也过时。</span><span class="english">She looked very plain and dowdy.</span></p>
 
 <p><span class="chinese">这一理念也被应用到了一些小事情上，比如改善我们寒酸土气的制服。</span><span class="english">It was about the small things too, like our dowdy polyester uniforms.</span></p>

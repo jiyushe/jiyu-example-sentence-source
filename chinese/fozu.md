@@ -1,5 +1,7 @@
 # 佛祖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fozu.md)
+
 <p><span class="chinese">佛祖得到4星？</span><span class="english">The Buddha got 4 stars?</span></p>
 
 <p><span class="chinese">在那也会见到佛祖么？</span><span class="english">Will Buddha be there too?</span></p>

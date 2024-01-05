@@ -1,5 +1,7 @@
 # aristotle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aristotle.md)
+
 <p><span class="chinese">亚里士多德或莫伊乐思？</span><span class="english">Aristotle or Moyles?</span></p>
 
 <p><span class="chinese">这是亚里士多德的原话</span><span class="english">That's Aristotle talking.</span></p>

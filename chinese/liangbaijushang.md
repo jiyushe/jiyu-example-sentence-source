@@ -1,5 +1,7 @@
 # 两败俱伤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangbaijushang.md)
+
 <p><span class="chinese">战争导致两败俱伤。</span><span class="english">War kills both.</span></p>
 
 <p><span class="chinese">唯美的开始，两败俱伤的结局。</span><span class="english">The beginning of aestheticism, internecine ending.</span></p>

@@ -1,5 +1,7 @@
 # fm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fm.md)
+
 <p><span class="chinese">我们嘲笑着FM收音机。</span><span class="english">We laughed at FM radio.</span></p>
 
 <p><span class="chinese">所以我把收音机的音量调下。</span><span class="english">So I turn down the music on my FM dial.</span></p>

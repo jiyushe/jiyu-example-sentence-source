@@ -1,5 +1,7 @@
 # fancied
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fancied.md)
+
 <p><span class="chinese">她自命为著名舞蹈家。</span><span class="english">She fancied herself as an prestigious dancer.</span></p>
 
 <p><span class="chinese">不过她讲的时候，还以为我睡着了呢。</span><span class="english">But she fancied me asleep while she was talking of it.</span></p>

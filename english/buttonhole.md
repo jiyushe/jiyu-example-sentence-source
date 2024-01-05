@@ -1,5 +1,7 @@
 # buttonhole
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buttonhole.md)
+
 <p><span class="chinese">你可以看见缝针扎出的小洞。</span><span class="english">To sew with a buttonhole stitch.</span></p>
 
 <p><span class="chinese">他的钮孔中插着一簇花。</span><span class="english">He had a spray in his buttonhole.</span></p>

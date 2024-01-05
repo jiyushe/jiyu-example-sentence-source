@@ -1,5 +1,7 @@
 # arhat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arhat.md)
+
 <p><span class="chinese">我们能否真的将阿罗汉翻译成“摧灭仇敌者”？</span><span class="english">Can we really translate arhat as the 'destroyer of enemies'?</span></p>
 
 <p><span class="chinese">佛殿与罗汉殿设穿廊，成工字殿的形式。</span><span class="english">There is corridor in the Buddha hall and Arhat hall, in the form of "I".</span></p>

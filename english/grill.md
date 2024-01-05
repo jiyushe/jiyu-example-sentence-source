@@ -1,5 +1,7 @@
 # grill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grill.md)
+
 <p><span class="chinese">配音网烧烤问题。</span><span class="english">"Issues" to grill voice network.</span></p>
 
 <p><span class="chinese">我们必须自带烤肉架吗？</span><span class="english">Do we have to take a grill with us?</span></p>

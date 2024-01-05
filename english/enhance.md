@@ -1,5 +1,7 @@
 # enhance 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enhance.md)
+
 <p><span class="chinese">而是帮助总统。</span><span class="english">But to enhance the president.</span></p>
 
 <p><span class="chinese">振动器增加物料运转率。</span><span class="english">Vibrators enhance material flow.</span></p>

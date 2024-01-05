@@ -1,5 +1,7 @@
 # 机关枪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiguanqiang.md)
+
 <p><span class="chinese">机关枪吐著火舌。</span><span class="english">The machine-guns spat fire.</span></p>
 
 <p><span class="chinese">机关枪，为他工作。</span><span class="english">Remington , to work for him.</span></p>

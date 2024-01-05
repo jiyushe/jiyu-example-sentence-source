@@ -1,5 +1,7 @@
 # changeful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/changeful.md)
+
 <p><span class="chinese">使你倾向我多变的愿望。</span><span class="english">Incline thee to my changeful will.</span></p>
 
 <p><span class="chinese">具有质轻，绿色环保，抗辐射，不下陷，不易变形等特点。</span><span class="english">With light green, resist radiation, not sinking, changeful form, etc.</span></p>

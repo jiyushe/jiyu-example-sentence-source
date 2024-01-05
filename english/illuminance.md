@@ -1,5 +1,7 @@
 # illuminance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illuminance.md)
+
 <p><span class="chinese">光照度和光功率是基本的光度指标。</span><span class="english">Illuminance and light power are basic luminosity indexes.</span></p>
 
 <p><span class="chinese">水平面上一点所接受的照度值。</span><span class="english">It refers to the illuminance value received by one point on the level.</span></p>

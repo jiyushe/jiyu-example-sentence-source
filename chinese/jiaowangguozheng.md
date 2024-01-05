@@ -1,5 +1,7 @@
 # 矫枉过正
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaowangguozheng.md)
+
 <p><span class="chinese">受矫枉过正的影响，机身陷入俯仰震荡。</span><span class="english">It is caught in oscillations of overcompensation.</span></p>
 
 <p><span class="chinese">然而，矫枉过正的问题还是存在的。</span><span class="english">There is a danger of moving too quickly, however.</span></p>

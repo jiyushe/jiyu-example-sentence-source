@@ -1,5 +1,7 @@
 # beaked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beaked.md)
+
 <p><span class="chinese">在每个大洋几乎都能见到突吻鲸的身影。</span><span class="english">Existing beaked whale populations are found in nearly every ocean.</span></p>
 
 <p><span class="chinese">贝克指出，在鲸豚类中，只有突吻鲸和独角鲸具有獠牙。</span><span class="english">Beaked whales and the narwhal are the only cetacean species with tusks, according to Baker.</span></p>

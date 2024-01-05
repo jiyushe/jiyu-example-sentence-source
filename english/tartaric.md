@@ -1,5 +1,7 @@
 # tartaric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tartaric.md)
+
 <p><span class="chinese">这些其实是酒石酸晶体。</span><span class="english">Those are tartaric acid crystals.</span></p>
 
 <p><span class="chinese">酒石酸的含量略有下降。</span><span class="english">The content of tartaric acid also decreased.</span></p>

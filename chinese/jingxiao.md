@@ -1,5 +1,7 @@
 # 经销
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingxiao.md)
+
 <p><span class="chinese">你们经销明信片吗?</span><span class="english">Do you keep postcards?</span></p>
 
 <p><span class="chinese">那家商店获许经销烟草。</span><span class="english">The shop was d to sell tobacco.</span></p>

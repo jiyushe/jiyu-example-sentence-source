@@ -1,5 +1,7 @@
 # irrevocably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irrevocably.md)
+
 <p><span class="chinese">老五下定了决心买房。</span><span class="english">Old Five irrevocably committed to purchase.</span></p>
 
 <p><span class="chinese">和崔雅在一起的经历对我的改变浓烈，深刻，不可磨灭。</span><span class="english">The events with Treya changed me deeply, profoundly, irrevocably.</span></p>

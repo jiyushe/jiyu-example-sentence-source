@@ -1,5 +1,7 @@
 # 冷库
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengku.md)
+
 <p><span class="chinese">你不会是想说茱丽叶把他锁在冷库里了吧？</span><span class="english">Are you suggesting that Juliette locked him in a freezer?</span></p>
 
 <p><span class="chinese">冷库出现故障，保证作到随叫随到。</span><span class="english">Guarantee arrival at site called in case refrigeratory is failure.</span></p>

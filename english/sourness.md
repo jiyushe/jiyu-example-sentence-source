@@ -1,5 +1,7 @@
 # sourness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sourness.md)
+
 <p><span class="chinese">她没有一点坏心眼。</span><span class="english">She is a woman with no sourness.</span></p>
 
 <p><span class="chinese">此外还存在另一种使坏的根源。</span><span class="english">And there lies another source of sourness.</span></p>

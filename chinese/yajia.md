@@ -1,5 +1,7 @@
 # 压价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yajia.md)
+
 <p><span class="chinese">她用不着利用萨米·泰勒这样的无赖来压价。</span><span class="english">She doesn't need to use a scoundrel like Sammy Tyler to get lower price.</span></p>
 
 <p><span class="chinese">运营商压价太低，厂商根本无利可图，只能去压低成本。</span><span class="english">Operators demand is too low, the manufacturer no profit, can only go to hold down costs.</span></p>

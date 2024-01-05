@@ -1,5 +1,7 @@
 # loyalty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loyalty.md)
+
 <p><span class="chinese">承顺者未必是忠诚。</span><span class="english">Subservience is not loyalty.</span></p>
 
 <p><span class="chinese">他要求完全的忠诚。</span><span class="english">He demands exclusive loyalty.</span></p>

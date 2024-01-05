@@ -1,5 +1,7 @@
 # 架式
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiashi_7.md)
+
 <p><span class="chinese">那我也得来点儿军人的架式。</span><span class="english">So I am dressed like a soldier, too.</span></p>
 
 <p><span class="chinese">采用方钢支架式设计，给人以简单轻巧的感觉。</span><span class="english">Square steel support design gives people simple and handy feeling.</span></p>

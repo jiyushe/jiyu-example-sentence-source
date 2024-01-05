@@ -1,5 +1,7 @@
 # reverie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reverie.md)
+
 <p><span class="chinese">我问玛丽，似乎如梦初醒。</span><span class="english">I asked Mary, coming out of my reverie.</span></p>
 
 <p><span class="chinese">他微微一笑，顿生遐想。</span><span class="english">He was in reverie immediately with smile.</span></p>

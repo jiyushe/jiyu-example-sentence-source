@@ -1,5 +1,7 @@
 # phonetics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phonetics.md)
+
 <p><span class="chinese">什么是语音学？</span><span class="english">What is phonetics?</span></p>
 
 <p><span class="chinese">她是语音学权威。</span><span class="english">She's an authority on phonetics.</span></p>

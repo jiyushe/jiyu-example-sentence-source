@@ -1,5 +1,7 @@
 # bimorph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bimorph.md)
+
 <p><span class="chinese">进而用该方法研究了双压电材料界面力电耦合场奇异场。</span><span class="english">The proposed procedure is used to study the singular electromechanical fields at the interfaces of bimorph.</span></p>
 
 <p><span class="chinese">以双晶片压电振子为驱动元件，研制了两主动阀式压电泵。</span><span class="english">Based on the bimorph piezoelectric vibrator, a piezoelectric pump with two active valves was designed and manufactured.</span></p>

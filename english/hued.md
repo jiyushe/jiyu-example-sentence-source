@@ -1,5 +1,7 @@
 # hued
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hued.md)
+
 <p><span class="chinese">为了逗我笑，父亲从一根长长的吸管里，把肥皂泡吹进那带虹彩色泽的天地之间。</span><span class="english">To amuse me, Father blew soap bubbles into the rainbow- hued space from a long straw.</span></p>
 
 <p><span class="chinese">特别强力的防具可能完全由明亮色调的或透明的水晶组成。</span><span class="english">Particularly powerful armor and shields may be entirely composed of brightly hued or transparent crystal.</span></p>

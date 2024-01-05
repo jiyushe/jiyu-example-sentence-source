@@ -1,5 +1,7 @@
 # 差使
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaishi_1.md)
+
 <p><span class="chinese">你想找份更好的差使吗？</span><span class="english">Do you want a better job?</span></p>
 
 <p><span class="chinese">这个讨厌的差使交给了我。</span><span class="english">I was deputed for the unpleasant task.</span></p>

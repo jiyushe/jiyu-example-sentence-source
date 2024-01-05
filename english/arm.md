@@ -1,5 +1,7 @@
 # arm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arm.md)
+
 <p><span class="chinese">指向他的胳膊。</span><span class="english">Ponit to his arm.</span></p>
 
 <p><span class="chinese">我手臂疼痛。</span><span class="english">My arm is paining.</span></p>

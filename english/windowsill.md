@@ -1,5 +1,7 @@
 # windowsill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/windowsill.md)
+
 <p><span class="chinese">我紧抓着窗沿，整个人僵在那里。</span><span class="english">My grip froze me to the windowsill.</span></p>
 
 <p><span class="chinese">各种各样的昆虫尸体装点着窗台。</span><span class="english">Lots of dead insects lie on the windowsill.</span></p>

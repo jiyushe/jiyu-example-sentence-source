@@ -1,5 +1,7 @@
 # redeployment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redeployment.md)
+
 <p><span class="chinese">对于开发团队来说，重新部署的时间意义重大。</span><span class="english">Redeployment time is very important for a development team.</span></p>
 
 <p><span class="chinese">不需要重新部署.net程序集或者重新编译。</span><span class="english">No redeployment of .NET assemblies or recompilation is required.</span></p>

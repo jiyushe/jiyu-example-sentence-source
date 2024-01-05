@@ -1,5 +1,7 @@
 # isobaric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isobaric.md)
+
 <p><span class="chinese">等压线分析可以很快地完成。</span><span class="english">Isobaric analyses can be quickly performed.</span></p>
 
 <p><span class="chinese">等压“指压强不变。</span><span class="english">Whereas, like isobaric means constant pressure.</span></p>

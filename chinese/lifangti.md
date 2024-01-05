@@ -1,5 +1,7 @@
 # 立方体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lifangti.md)
+
 <p><span class="chinese">立方体有六面。</span><span class="english">A cube has six sides.</span></p>
 
 <p><span class="chinese">立方体是正多面体。</span><span class="english">A cube is a regular solid.</span></p>

@@ -1,5 +1,7 @@
 # 蒙面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mengmian.md)
+
 <p><span class="chinese">一个蒙面男子抓住基斯的手。</span><span class="english">A hooded man grabbed Keith's hand.</span></p>
 
 <p><span class="chinese">他是一次蒙面抢劫的受害者。</span><span class="english">He is the victim of a masked holdup.</span></p>

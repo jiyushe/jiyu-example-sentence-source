@@ -1,5 +1,7 @@
 # baskerville
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baskerville.md)
+
 <p><span class="chinese">于是我们便回巴斯克维尔庄园去了。</span><span class="english">So we went back to Baskerville Hall.</span></p>
 
 <p><span class="chinese">我们终于到了巴斯克维尔庄园的门口。</span><span class="english">At last we reached the gates of Baskerville Hall.</span></p>

@@ -1,5 +1,7 @@
 # embryogenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embryogenic.md)
+
 <p><span class="chinese">对甘薯胚性细胞悬浮培养系的建立进行了研究。</span><span class="english">Establishment of embryogenic cell suspension cultures in sweet potato was studied.</span></p>
 
 <p><span class="chinese">长期的饥饿和衰老可以导致胚胎发生能力的复壮。</span><span class="english">Prolonged starvation and aging might lead to rejuvenation of embryogenic potential.</span></p>

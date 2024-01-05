@@ -1,5 +1,7 @@
 # presumably 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/presumably.md)
+
 <p><span class="chinese">好了，想必。</span><span class="english">Well, presumably.</span></p>
 
 <p><span class="chinese">想来可能是人越大脸皮越薄了吧？</span><span class="english">Presumably the older skin is thin?</span></p>

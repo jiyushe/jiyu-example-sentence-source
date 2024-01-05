@@ -1,5 +1,7 @@
 # 稳步前进
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenbuqianjin.md)
+
 <p><span class="chinese">工作稳步前进。</span><span class="english">The work is progressing steadily.</span></p>
 
 <p><span class="chinese">产品在激烈的竞争中稳步前进。</span><span class="english">Products in the fierce competition in steady progress.</span></p>

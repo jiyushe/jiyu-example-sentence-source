@@ -1,5 +1,7 @@
 # 无华
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuhua.md)
+
 <p><span class="chinese">它是一扇简朴无华的门，内里藏着信、望、爱。</span><span class="english">Raw and undecorated, hidden within are faith, hope and love.</span></p>
 
 <p><span class="chinese">用于面色无华，未老先衰，肌肤干燥，形容憔悴。</span><span class="english">Uses in the facial color being plain, presenility, the flesh is dry, looks wan.</span></p>

@@ -1,5 +1,7 @@
 # 岳父
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuefu_1.md)
+
 <p><span class="chinese">还有我的岳父岳母。</span><span class="english">And my mother-in-law and father-in-law.</span></p>
 
 <p><span class="chinese">那老头是他未来的岳父。</span><span class="english">That old man is his father-in-law to-be.</span></p>

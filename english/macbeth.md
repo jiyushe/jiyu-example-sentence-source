@@ -1,5 +1,7 @@
 # macbeth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/macbeth.md)
+
 <p><span class="chinese">共同去见麦克白。</span><span class="english">There to meet with Macbeth.</span></p>
 
 <p><span class="chinese">这剧团在上演“马克白”。</span><span class="english">The group is doing "Macbeth".</span></p>

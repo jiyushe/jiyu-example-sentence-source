@@ -1,5 +1,7 @@
 # clotted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clotted.md)
+
 <p><span class="chinese">血把她的头发粘在一起。</span><span class="english">Blood clotted her hair.</span></p>
 
 <p><span class="chinese">我有凝结了同类一个骑兵。</span><span class="english">I'd clotted like a trooper.</span></p>

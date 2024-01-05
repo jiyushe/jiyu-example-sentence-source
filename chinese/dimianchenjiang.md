@@ -1,5 +1,7 @@
 # 地面沉降
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dimianchenjiang.md)
+
 <p><span class="chinese">地下水的开采是引起地面沉降的重要因素之一。</span><span class="english">Groundwater exploitation is one of the main reasons for ground subsidence.</span></p>
 
 <p><span class="chinese">地面沉降是普遍的城市灾害和典型的缓慢积累型地质灾害。</span><span class="english">Land subsidence is an ordinary urban hazard and the typical geological disaster.</span></p>

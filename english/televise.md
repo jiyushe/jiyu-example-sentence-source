@@ -1,5 +1,7 @@
 # televise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/televise.md)
+
 <p><span class="chinese">英国广播公司对全世界进行广播。</span><span class="english">BBC plans to televise all Shakespeare's plays.</span></p>
 
 <p><span class="chinese">哪个频道要转播这场球赛？</span><span class="english">Which channel is going to televise this match?</span></p>

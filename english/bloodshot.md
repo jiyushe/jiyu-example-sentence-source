@@ -1,5 +1,7 @@
 # bloodshot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bloodshot.md)
+
 <p><span class="chinese">他们的眼睛肿胀充血。</span><span class="english">Their eyes bulging and bloodshot.</span></p>
 
 <p><span class="chinese">她的眼睛布满血丝，都哭肿了。</span><span class="english">Her eyes were bloodshot and swollen.</span></p>

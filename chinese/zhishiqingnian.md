@@ -1,5 +1,7 @@
 # 知识青年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhishiqingnian.md)
+
 <p><span class="chinese">延安的知识青年、学生青年、工人青年、农民青年，大家都是团结的。</span><span class="english">The young intellectuals and students, the young workers and peasants in Yenan are all united.</span></p>
 
 <p><span class="chinese">中国反帝反封建的人民队伍中，有由中国知识青年们和学生青年们组成的一支军队。</span><span class="english">In the anti-imperialist and anti-feudal ranks of the Chinese people, there is a contingent composed.</span></p>

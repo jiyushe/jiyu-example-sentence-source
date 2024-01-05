@@ -1,5 +1,7 @@
 # sulfate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sulfate.md)
+
 <p><span class="chinese">盐是一种辐射光不能穿透的状之。</span><span class="english">Barium sulfate is a radiopaque substance.</span></p>
 
 <p><span class="chinese">硫酸钡必须是无块的粉末。</span><span class="english">The barium sulfate must be a lump-free powder.</span></p>

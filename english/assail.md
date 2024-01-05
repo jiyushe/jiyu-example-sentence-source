@@ -1,5 +1,7 @@
 # assail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assail.md)
+
 <p><span class="chinese">这个想法使我困扰。</span><span class="english">The thought came to assail me.</span></p>
 
 <p><span class="chinese">但如果敌人侵犯我们的海岸。</span><span class="english">But, should foes assail our coast.</span></p>

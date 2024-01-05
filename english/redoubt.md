@@ -1,5 +1,7 @@
 # redoubt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redoubt.md)
+
 <p><span class="chinese">在棱堡中人心焦虑。</span><span class="english">The anxiety in the redoubt was profound.</span></p>
 
 <p><span class="chinese">这两处街垒连在一道便构成一座真正的犄角堡。</span><span class="english">The two barricades united formed a veritable redoubt.</span></p>

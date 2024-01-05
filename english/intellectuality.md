@@ -1,5 +1,7 @@
 # intellectuality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intellectuality.md)
+
 <p><span class="chinese">原来他喜欢知性而有品味的我。</span><span class="english">It turns out that he likes intellectuality and taste.</span></p>
 
 <p><span class="chinese">智力与具体能力之间有着必然联系。</span><span class="english">There is a certain relation between the intellectuality and capability.</span></p>

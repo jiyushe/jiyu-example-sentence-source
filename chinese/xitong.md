@@ -1,5 +1,7 @@
 # 系统
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xitong.md)
+
 <p><span class="chinese">供暖系统。</span><span class="english">A heating system.</span></p>
 
 <p><span class="chinese">系统管理。</span><span class="english">System management.</span></p>

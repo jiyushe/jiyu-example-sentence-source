@@ -1,5 +1,7 @@
 # disagreement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disagreement.md)
+
 <p><span class="chinese">我要求把我的不同意见记录下来。</span><span class="english">I want my disagreement to be minuted,</span></p>
 
 <p><span class="chinese">我希望把我的看法记入议事录。</span><span class="english">I want my disagreement to be minuted.</span></p>

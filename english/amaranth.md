@@ -1,5 +1,7 @@
 # amaranth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amaranth.md)
+
 <p><span class="chinese">花小芳香，紫色。紫红色或蓝色。</span><span class="english">Spend small scent, purple, amaranth or blue.</span></p>
 
 <p><span class="chinese">苋菜红指示剂具有安全性和实用价值。</span><span class="english">Amaranth red pigment has security and practical value.</span></p>

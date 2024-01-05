@@ -1,5 +1,7 @@
 # 天造地设
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianzaodishe.md)
+
 <p><span class="chinese">天造地设的一对。</span><span class="english">A match make in heaven.</span></p>
 
 <p><span class="chinese">我们俩是天造地设的一对。</span><span class="english">We are a well-matched couple.</span></p>

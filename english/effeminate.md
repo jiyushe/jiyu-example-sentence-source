@@ -1,5 +1,7 @@
 # effeminate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/effeminate.md)
+
 <p><span class="chinese">你是说他是娘娘腔？</span><span class="english">You mean he is effeminate?</span></p>
 
 <p><span class="chinese">它不会使这男孩的心灵柔弱。</span><span class="english">It will not effeminate the boy's mind.</span></p>

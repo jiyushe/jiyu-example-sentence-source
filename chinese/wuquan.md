@@ -1,5 +1,7 @@
 # 无权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuquan.md)
+
 <p><span class="chinese">而无权一组给出的分值为7.2。</span><span class="english">Low-power participants rated it 7.2.</span></p>
 
 <p><span class="chinese">可即使他现在也无权过问。</span><span class="english">But he doesn't even have a right to say.</span></p>

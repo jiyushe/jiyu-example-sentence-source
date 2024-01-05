@@ -1,5 +1,7 @@
 # 瑜伽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yujia_1.md)
+
 <p><span class="chinese">你在练瑜伽啊！</span><span class="english">You are doing yoga.</span></p>
 
 <p><span class="chinese">练瑜伽，跑步，或者走路。</span><span class="english">Do yoga, run, or walk.</span></p>

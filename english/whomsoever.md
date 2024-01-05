@@ -1,5 +1,7 @@
 # whomsoever
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whomsoever.md)
+
 <p><span class="chinese">谁想强迫老百姓谁倒霉！</span><span class="english">Woe to whomsoever tries to force its hand!</span></p>
 
 <p><span class="chinese">每逢这节期，巡抚照众人所求的，释放一个囚犯给他们。</span><span class="english">Now at that feast he released unto them one prisoner, whomsoever they desired.</span></p>

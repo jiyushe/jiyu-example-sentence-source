@@ -1,5 +1,7 @@
 # 老化
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laohua.md)
+
 <p><span class="chinese">什么是老化？</span><span class="english">What is aging?</span></p>
 
 <p><span class="chinese">我们处于一个抗老化的社会里。</span><span class="english">We're an anti-ageing society.</span></p>

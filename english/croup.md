@@ -1,5 +1,7 @@
 # croup
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/croup.md)
+
 <p><span class="chinese">水平从枯萎到哮吼。</span><span class="english">Level from withers to croup.</span></p>
 
 <p><span class="chinese">臀部长，且逐渐倾斜。</span><span class="english">Croup long and gradually sloping.</span></p>

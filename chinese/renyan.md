@@ -1,5 +1,7 @@
 # 人烟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renyan.md)
+
 <p><span class="chinese">暴行常发生在人烟稠密的地区。</span><span class="english">Violence breeds in densely populated areas.</span></p>
 
 <p><span class="chinese">冲进呛人烟雾的是那位绝望的妇女。</span><span class="english">Into the stifling smoke plunged the desperate woman.</span></p>

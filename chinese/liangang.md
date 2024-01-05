@@ -1,5 +1,7 @@
 # 炼钢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangang.md)
+
 <p><span class="chinese">这家炼钢厂正在建设中。</span><span class="english">Two new steelworks are being planned.</span></p>
 
 <p><span class="chinese">在改革中发展的首钢第三炼钢厂No。</span><span class="english">Steelmaking Plant at the Shougang Corp.</span></p>

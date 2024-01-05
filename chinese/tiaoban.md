@@ -1,5 +1,7 @@
 # 跳板
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaoban.md)
+
 <p><span class="chinese">跳板的高度是多少？</span><span class="english">How high are the springboards?</span></p>
 
 <p><span class="chinese">在跳板上安鼠夹。</span><span class="english">Fix rat traps on the gangplank.</span></p>

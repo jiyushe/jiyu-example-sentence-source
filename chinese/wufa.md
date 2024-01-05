@@ -1,5 +1,7 @@
 # 无法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wufa.md)
+
 <p><span class="chinese">无法忍耐。</span><span class="english">Just can't stop.</span></p>
 
 <p><span class="chinese">而这样，他无法透气。</span><span class="english">He can’t breathe.</span></p>

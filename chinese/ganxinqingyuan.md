@@ -1,5 +1,7 @@
 # 甘心情愿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganxinqingyuan.md)
+
 <p><span class="chinese">现在我们甘心情愿地愿意为上帝而活，为上帝受苦。</span><span class="english">Now are we willing to be, to do, or to suffer as the LORD wills.</span></p>
 
 <p><span class="chinese">耶稣，神自己的儿子，甘心情愿地为人类付上了这样的代价。</span><span class="english">God's own son, Jesus, volunteered to pay this price for humanity.</span></p>

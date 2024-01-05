@@ -1,5 +1,7 @@
 # 任其自然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renqiziran.md)
+
 <p><span class="chinese">我们不能任其自然。</span><span class="english">We can't let things go hang.</span></p>
 
 <p><span class="chinese">这或许突破预算，影响海军和空军，任其自然。</span><span class="english">This would wreck budgets and upset the navy and air force. So be it.</span></p>

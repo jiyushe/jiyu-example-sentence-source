@@ -1,5 +1,7 @@
 # 感冒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganmao.md)
+
 <p><span class="chinese">感冒搓手。</span><span class="english">Cold rubs hands.</span></p>
 
 <p><span class="chinese">我好像感冒了。</span><span class="english">I feil I got cold.</span></p>

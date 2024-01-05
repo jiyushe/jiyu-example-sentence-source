@@ -1,5 +1,7 @@
 # eloquently
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eloquently.md)
+
 <p><span class="chinese">聂，你说什么我要说的，但更雄辩。</span><span class="english">Nik, You said what I wanted to say, but more eloquently.</span></p>
 
 <p><span class="chinese">正如西塞罗所描绘的，“他把哲学从天上拉了下来。”</span><span class="english">As Cicero eloquently put it, "He brought philosophy down from the skies.</span></p>

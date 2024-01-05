@@ -1,5 +1,7 @@
 # inspiration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inspiration.md)
+
 <p><span class="chinese">我需要的昵嚅感。</span><span class="english">I need inspiration.</span></p>
 
 <p><span class="chinese">谁是你的灵感？</span><span class="english">Who is your inspiration?</span></p>

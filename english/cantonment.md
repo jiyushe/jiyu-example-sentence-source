@@ -1,5 +1,7 @@
 # cantonment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cantonment.md)
+
 <p><span class="chinese">我们的人民解决军现在正在宿营地。</span><span class="english">Our people's liberation army is now in the cantonment.</span></p>
 
 <p><span class="chinese">士兵们坐在兵营的电影院里看一部电影。</span><span class="english">Those paratroopers are sitting in the cantonment film theater to see a movie.</span></p>

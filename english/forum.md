@@ -1,5 +1,7 @@
 # forum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forum.md)
+
 <p><span class="chinese">东京国际论坛。</span><span class="english">Tokyo International Forum.</span></p>
 
 <p><span class="chinese">我为用户开放了一个论坛。</span><span class="english">For users, I opened a forum.</span></p>

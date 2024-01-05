@@ -1,5 +1,7 @@
 # hem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hem.md)
+
 <p><span class="chinese">落下她紫色的褶边。</span><span class="english">drops her purple hem.</span></p>
 
 <p><span class="chinese">把你的衬衣镶上花边。</span><span class="english">Hem your shirt with lace.</span></p>

@@ -1,5 +1,7 @@
 # endometritis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endometritis.md)
+
 <p><span class="chinese">疑惑！子宫内膜炎是怎么引起的？</span><span class="english">Doubt! Endometritis is what caused it?</span></p>
 
 <p><span class="chinese">子宫内膜炎是不育的原子。</span><span class="english">Endometritis is a cause of infertility.</span></p>

@@ -1,5 +1,7 @@
 # bandage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bandage.md)
+
 <p><span class="chinese">你需要一个创口贴。</span><span class="english">You need a bandage.</span></p>
 
 <p><span class="chinese">你有绷带吗？</span><span class="english">Do you have a bandage?</span></p>

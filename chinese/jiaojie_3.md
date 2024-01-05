@@ -1,5 +1,7 @@
 # 皎洁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaojie_3.md)
+
 <p><span class="chinese">云彩的势力之下也一样皎洁。</span><span class="english">Might as well be in a cloud.</span></p>
 
 <p><span class="chinese">她的光明面，就像一轮皎洁满月。</span><span class="english">Her bright face was like a full moon.</span></p>

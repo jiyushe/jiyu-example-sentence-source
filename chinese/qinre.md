@@ -1,5 +1,7 @@
 # 亲热
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinre.md)
+
 <p><span class="chinese">她的姑母又在与那个婴儿亲热起来了。</span><span class="english">Her aunt is making over the baby again.</span></p>
 
 <p><span class="chinese">但是James也很少有身体亲热接触。</span><span class="english">But James, too, isn't very affectionate.</span></p>

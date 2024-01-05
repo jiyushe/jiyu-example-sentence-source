@@ -1,5 +1,7 @@
 # 轮辋
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lunwang_1.md)
+
 <p><span class="chinese">好吧，让我们谈谈轮辋。</span><span class="english">Ok, let's talk about rims.</span></p>
 
 <p><span class="chinese">可能性是无穷无尽的轮辋的选择。</span><span class="english">Possibilities are endless with the choice of rims.</span></p>

@@ -1,5 +1,7 @@
 # incorrectly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incorrectly.md)
+
 <p><span class="chinese">我们做的是错的</span><span class="english">We're doing it incorrectly.</span></p>
 
 <p><span class="chinese">该合同措词不正确。</span><span class="english">The contract is incorrectly worded.</span></p>

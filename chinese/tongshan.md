@@ -1,5 +1,7 @@
 # 童山
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongshan.md)
+
 <p><span class="chinese">他脑海中浮现出童山的幽静生活和安逸的家庭幸福。</span><span class="english">The quiet home life and peaceful happiness of Bleak Hills passed before his imagination.</span></p>
 
 <p><span class="chinese">当他驶进林荫道，经过童山宅第的石门时，犹如进入一座因着魔而陷入沉睡状态的古旧城堡似的。</span><span class="english">He rode up the avenue to the stone gates of the house, feeling as though it were the enchanted, sleeping castle.</span></p>

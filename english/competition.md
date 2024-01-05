@@ -1,5 +1,7 @@
 # competition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/competition.md)
+
 <p><span class="chinese">但芬尼有竞争对手。</span><span class="english">But Feeny has competition.</span></p>
 
 <p><span class="chinese">和其他网页客户端竞争？</span><span class="english">Competition for the Web App?</span></p>

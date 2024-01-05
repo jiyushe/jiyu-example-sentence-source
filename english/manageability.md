@@ -1,5 +1,7 @@
 # manageability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manageability.md)
+
 <p><span class="chinese">易管理性。</span><span class="english">Manageability.</span></p>
 
 <p><span class="chinese">在设计时就考虑到硬件的可管理性</span><span class="english">Design for hardware manageability</span></p>

@@ -1,5 +1,7 @@
 # pseudomyopia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pseudomyopia.md)
+
 <p><span class="chinese">结果显示他是假性近视。</span><span class="english">It appears that he has pseudomyopia.</span></p>
 
 <p><span class="chinese">假性近视可以用眼药水治吗？</span><span class="english">Can be pseudomyopia treated with eyedrop ?</span></p>

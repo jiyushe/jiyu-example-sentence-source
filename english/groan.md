@@ -1,5 +1,7 @@
 # groan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/groan.md)
+
 <p><span class="chinese">那人发出痛苦的呻吟声。</span><span class="english">The man gave a groan of pain.</span></p>
 
 <p><span class="chinese">伤员发出呻吟声。</span><span class="english">The injured man let outa groan.</span></p>

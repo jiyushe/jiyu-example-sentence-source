@@ -1,5 +1,7 @@
 # kellogg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kellogg.md)
+
 <p><span class="chinese">密歇根大学W.K。凯洛格眼科中心。</span><span class="english">W. K. Kellogg Eye Center, University of Michigan.</span></p>
 
 <p><span class="chinese">伊利诺斯州西北大学J.L。凯洛格管理学院。</span><span class="english">J. L. Kellogg School of Management of Northwestern University.</span></p>

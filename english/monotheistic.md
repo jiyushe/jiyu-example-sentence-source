@@ -1,5 +1,7 @@
 # monotheistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monotheistic.md)
+
 <p><span class="chinese">他的一神论解决方案解答了古老的严格二元论。</span><span class="english">His monotheistic solution resolves the old strict dualism.</span></p>
 
 <p><span class="chinese">一神教会为了适应数据而改变他们对于灵魂的看法吗？</span><span class="english">Will monotheistic religions change their idea of the soul to accommodate data?</span></p>

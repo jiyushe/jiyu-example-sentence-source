@@ -1,5 +1,7 @@
 # uninspired
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uninspired.md)
+
 <p><span class="chinese">难怪我会觉得泄气了。</span><span class="english">No wonder I was feeling uninspired.</span></p>
 
 <p><span class="chinese">我们觉得毫无灵感，没有动力。</span><span class="english">We feel uninspired and unmotivated.</span></p>

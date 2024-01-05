@@ -1,5 +1,7 @@
 # lateral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lateral.md)
+
 <p><span class="chinese">股骨内侧弧的曲线是抛物线。</span><span class="english">Femoral lateral arcs are parabolas.</span></p>
 
 <p><span class="chinese">翻译这幅画是她的侧面图。</span><span class="english">The picture is a lateral view of her.</span></p>

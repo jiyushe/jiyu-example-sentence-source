@@ -1,5 +1,7 @@
 # bronchi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bronchi.md)
+
 <p><span class="chinese">大量的结节包绕肺门旁的支气管和血管。</span><span class="english">Numerous nodules surround the central bronchi and vessels.</span></p>
 
 <p><span class="chinese">分支管状肺囊肿以沿支气管走行分布区一致为特征。</span><span class="english">The feature of duct shadow was consistent with bronchi distribution.</span></p>

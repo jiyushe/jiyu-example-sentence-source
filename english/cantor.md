@@ -1,5 +1,7 @@
 # cantor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cantor.md)
+
 <p><span class="chinese">康特公司提出的是时间范围在24-26分钟之间。</span><span class="english">Cantor was offering a spread of 24-26 minutes.</span></p>
 
 <p><span class="chinese">康托尔于1874年创立了普通集合概念。</span><span class="english">Cantor developed the concepts of cantor set in 1874.</span></p>

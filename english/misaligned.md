@@ -1,5 +1,7 @@
 # misaligned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misaligned.md)
+
 <p><span class="chinese">落领不齐。</span><span class="english">Misaligned collar setting.</span></p>
 
 <p><span class="chinese">裤头扣钮后前面不对称。</span><span class="english">Waistband misaligned at front when buttoned.</span></p>

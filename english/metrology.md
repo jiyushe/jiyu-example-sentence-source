@@ -1,5 +1,7 @@
 # metrology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metrology.md)
+
 <p><span class="chinese">现在，它已成为计量学的一个新的独立分支。</span><span class="english">Vacuum metrology has become a new independent branch of metrology.</span></p>
 
 <p><span class="chinese">主要内容包括理论计量经济学和应用经济计量学。</span><span class="english">The main contents include theory econometrics and applied economic metrology.</span></p>

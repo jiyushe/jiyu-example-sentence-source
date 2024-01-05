@@ -1,5 +1,7 @@
 # 增强
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zengqiang.md)
+
 <p><span class="chinese">风力增强了。</span><span class="english">The wind is freshening up.</span></p>
 
 <p><span class="chinese">这支海军的实力已大大增强。</span><span class="english">The navy has got up greatly.</span></p>

@@ -1,5 +1,7 @@
 # narita
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/narita.md)
+
 <p><span class="chinese">下趟到成田机场的车是几点?</span><span class="english">When is the next bus to Narita?</span></p>
 
 <p><span class="chinese">成田塔台，ANA9963，34右跑道外等，听你指挥。</span><span class="english">Narita Tower, ANA9963, hold short of runway 34R, with you.</span></p>

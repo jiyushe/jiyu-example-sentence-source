@@ -1,5 +1,7 @@
 # fifteenth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fifteenth.md)
+
 <p><span class="chinese">八月十五是中秋节。</span><span class="english">August the fifteenth is Mid-autumn day.</span></p>
 
 <p><span class="chinese">为期五天的节日贯穿三月十五号。</span><span class="english">The five-day festival runs through March fifteenth.</span></p>

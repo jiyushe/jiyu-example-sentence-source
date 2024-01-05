@@ -1,5 +1,7 @@
 # 世面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shimian.md)
+
 <p><span class="chinese">她显然见过不少世面。</span><span class="english">She's obviously been around a lot.</span></p>
 
 <p><span class="chinese">我见过的世面没有他那么多。</span><span class="english">I haven't seen so much of the world as he.</span></p>

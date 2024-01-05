@@ -1,5 +1,7 @@
 # tolerant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tolerant.md)
+
 <p><span class="chinese">人们为什么会容忍某些罪行呢？</span><span class="english">Why are we tolerant of some crimes?</span></p>
 
 <p><span class="chinese">是世界上最有容人之量的行业。</span><span class="english">It's the most tolerant in the world.</span></p>

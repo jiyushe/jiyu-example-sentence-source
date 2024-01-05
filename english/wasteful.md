@@ -1,5 +1,7 @@
 # wasteful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wasteful.md)
+
 <p><span class="chinese">你咋浪费呢？</span><span class="english">Why are you wasteful?</span></p>
 
 <p><span class="chinese">多浪费和可耻啊。</span><span class="english">So wasteful and contemptible.</span></p>

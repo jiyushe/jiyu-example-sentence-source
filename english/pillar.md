@@ -1,5 +1,7 @@
 # pillar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pillar.md)
+
 <p><span class="chinese">年青人是国家的栋梁。</span><span class="english">You are our familys pillar.</span></p>
 
 <p><span class="chinese">柱子有点斜。</span><span class="english">The pillar is a little tilted.</span></p>

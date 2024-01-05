@@ -1,5 +1,7 @@
 # imide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imide.md)
+
 <p><span class="chinese">本文用偏苯三酸酐和二异氰酸酯合成了一种新型聚酰胺酰亚胺。</span><span class="english">A polyamide imide was synthesized from trimellitic anhydride and di isocyanate.</span></p>
 
 <p><span class="chinese">藉由取代基效应观察化合物光物理性质及电化学特性的改变。</span><span class="english">We observe photophysical and electrochemistry property of biphenyl imide by substituent group effect.</span></p>

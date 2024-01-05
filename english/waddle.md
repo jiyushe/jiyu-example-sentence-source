@@ -1,5 +1,7 @@
 # waddle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waddle.md)
+
 <p><span class="chinese">这可能意味着一大笔钱将离开你。</span><span class="english">This may mean having to part with a waddle of cash.</span></p>
 
 <p><span class="chinese">我每天都会出去散散步，做做伸展运动。</span><span class="english">I go for a waddle and do stretches and exercises every day.</span></p>

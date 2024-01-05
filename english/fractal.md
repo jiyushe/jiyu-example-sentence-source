@@ -1,5 +1,7 @@
 # fractal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fractal.md)
+
 <p><span class="chinese">质量是分形的。</span><span class="english">Quality is fractal.</span></p>
 
 <p><span class="chinese">“这是一个分形问题，”马库斯说。</span><span class="english">“It’s a fractal problem, ” said Marcus.</span></p>

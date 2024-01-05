@@ -1,5 +1,7 @@
 # girlish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/girlish.md)
+
 <p><span class="chinese">让我为自己对爱情的见解下个定义。</span><span class="english">redefine my girlish notions of romance.</span></p>
 
 <p><span class="chinese">她充满了少女的喜悦。</span><span class="english">She was filled to the brim with girlish glee.</span></p>

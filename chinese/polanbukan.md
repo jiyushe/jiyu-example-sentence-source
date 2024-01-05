@@ -1,5 +1,7 @@
 # 破烂不堪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/polanbukan.md)
+
 <p><span class="chinese">她的衣服破烂不堪。</span><span class="english">Her clothes were in tatters.</span></p>
 
 <p><span class="chinese">他的衣服破烂不堪了。</span><span class="english">His clothes were torn to rags.</span></p>

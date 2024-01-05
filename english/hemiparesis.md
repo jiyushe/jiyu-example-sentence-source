@@ -1,5 +1,7 @@
 # hemiparesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hemiparesis.md)
+
 <p><span class="chinese">三星期以后右侧偏瘫恶化并发生运动性失语症。</span><span class="english">Three weeks later, his right hemiparesis worsened and motor aphasia developed.</span></p>
 
 <p><span class="chinese">我们报告一个巨大的肾上腺骨髓性脂肪瘤的病例。</span><span class="english">We presented a case of huge adrenal myelolipoma in a patient admitted for a cerebrovascular accident with right hemiparesis.</span></p>

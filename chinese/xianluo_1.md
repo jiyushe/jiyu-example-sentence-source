@@ -1,5 +1,7 @@
 # 陷落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianluo_1.md)
+
 <p><span class="chinese">艾尔不能陷落！</span><span class="english">Aiur shall not fall!</span></p>
 
 <p><span class="chinese">它后来陷落衰败。</span><span class="english">It had fallen into decay.</span></p>

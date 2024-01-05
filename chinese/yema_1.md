@@ -1,5 +1,7 @@
 # 页码
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yema_1.md)
+
 <p><span class="chinese">把你的练习本编上页码。</span><span class="english">Number the pages of your exercise book.</span></p>
 
 <p><span class="chinese">抱歉,名录页码实在太多了</span><span class="english">I'm sorry there's so many pages of people.</span></p>

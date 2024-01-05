@@ -1,5 +1,7 @@
 # vertices
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vertices.md)
+
 <p><span class="chinese">具有七个顶点的多面体是稀少的。</span><span class="english">Polyhedra with seven vertices are rare.</span></p>
 
 <p><span class="chinese">顶点的零数列表都是一个堆栈。</span><span class="english">The list of vertices with zero count is maintained as a stack.</span></p>

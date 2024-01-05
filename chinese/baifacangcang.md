@@ -1,5 +1,7 @@
 # 白发苍苍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baifacangcang.md)
+
 <p><span class="chinese">他已是一位白发苍苍的老头。</span><span class="english">He was a grey-haired old man.</span></p>
 
 <p><span class="chinese">我可不希望到了白发苍苍和他复婚。</span><span class="english">I do not want to remarry him.</span></p>

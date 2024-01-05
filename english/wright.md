@@ -1,5 +1,7 @@
 # wright
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wright.md)
+
 <p><span class="chinese">为何怀特选择这一场景？</span><span class="english">Why does Wright choose this scene?</span></p>
 
 <p><span class="chinese">莱特兄弟是航空学先驱。</span><span class="english">Wright brothers were pioneers in aviation.</span></p>

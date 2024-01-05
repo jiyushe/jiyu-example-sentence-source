@@ -1,5 +1,7 @@
 # inevitability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inevitability.md)
+
 <p><span class="chinese">那是命运的轰隆声。</span><span class="english">That is the sound of inevitability.</span></p>
 
 <p><span class="chinese">核恐怖袭击的必然性。</span><span class="english">A nuclear terrorist attack is a near inevitability.</span></p>

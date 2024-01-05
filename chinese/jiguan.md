@@ -1,5 +1,7 @@
 # 籍贯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiguan.md)
+
 <p><span class="chinese">你的籍贯是？</span><span class="english">What is your native place?</span></p>
 
 <p><span class="chinese">你的籍贯是什么地方？</span><span class="english">Where is your native place?</span></p>

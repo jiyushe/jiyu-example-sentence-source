@@ -1,5 +1,7 @@
 # discount 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discount.md)
+
 <p><span class="chinese">市场折现率？</span><span class="english">Market Discount Rates?</span></p>
 
 <p><span class="chinese">部分观光船程可享折扣优惠。</span><span class="english">Discount on some boat trips.</span></p>

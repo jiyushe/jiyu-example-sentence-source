@@ -1,5 +1,7 @@
 # hawker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hawker.md)
+
 <p><span class="chinese">他一个饲鹰者的吗?是的。</span><span class="english">Ten. Ishe a hawker ?Yes.</span></p>
 
 <p><span class="chinese">一条小吃街的入口。</span><span class="english">The entrance to a street full of hawker stalls.</span></p>

@@ -1,5 +1,7 @@
 # vibrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vibrate.md)
+
 <p><span class="chinese">迪克在楼上沉重的步子搞患上那旧房子直轰动。</span><span class="english">Dicks heavy footsteps upstairs make the old house vibrate.</span></p>
 
 <p><span class="chinese">振动，它们总能更强烈地振动，更快地平移。</span><span class="english">Vibrating, they can always vibrate harder, translate faster.</span></p>

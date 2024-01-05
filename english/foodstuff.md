@@ -1,5 +1,7 @@
 # foodstuff
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foodstuff.md)
+
 <p><span class="chinese">山东龙大肉类食品有限公司。</span><span class="english">Shandong Longda Meat Foodstuff Co. , Ltd.</span></p>
 
 <p><span class="chinese">日用品、食品、工业用品等。</span><span class="english">Commodity , Foodstuff , Industry Supplies Etc.</span></p>

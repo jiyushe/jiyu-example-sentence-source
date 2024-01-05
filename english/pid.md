@@ -1,5 +1,7 @@
 # pid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pid.md)
+
 <p><span class="chinese">采用温度控制器，使封合质量更高。</span><span class="english">PID temperature controller, more accurate temp. control.</span></p>
 
 <p><span class="chinese">副控制器采用二自由度PID控制器。</span><span class="english">A double-degree PID controller is applied to the inner loop.</span></p>

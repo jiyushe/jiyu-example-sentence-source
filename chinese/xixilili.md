@@ -1,5 +1,7 @@
 # 淅淅沥沥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xixilili.md)
+
 <p><span class="chinese">哦，听那淅淅沥沥的雨。</span><span class="english">Oh, listen to the falling rain.</span></p>
 
 <p><span class="chinese">我喜欢听淅淅沥沥的雨声。</span><span class="english">I enjoy the rhythm of the falling rain.</span></p>

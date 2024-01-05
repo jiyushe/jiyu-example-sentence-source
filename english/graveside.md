@@ -1,5 +1,7 @@
 # graveside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/graveside.md)
+
 <p><span class="chinese">女王参加了葬礼。</span><span class="english">The Queen stood at the graveside.</span></p>
 
 <p><span class="chinese">不论是丧礼，或是落土仪式，都没有多少观礼的人。</span><span class="english">There are only a few at the funeral home and at the graveside.</span></p>

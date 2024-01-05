@@ -1,5 +1,7 @@
 # 不知所措
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buzhisuocuo.md)
+
 <p><span class="chinese">我完全不知所措。</span><span class="english">I was perplexed.</span></p>
 
 <p><span class="chinese">大城市的交通使我不知所措。</span><span class="english">Big city's traffic bewilders me.</span></p>

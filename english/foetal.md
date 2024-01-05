@@ -1,5 +1,7 @@
 # foetal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foetal.md)
+
 <p><span class="chinese">胎儿DNA潜藏于母亲的血浆中。</span><span class="english">Foetal DNA floats in mother's plasma</span></p>
 
 <p><span class="chinese">她闭着眼睛，蜷缩着倒下去。</span><span class="english">Her eyes were closed and she was falling almost into a foetal position.</span></p>

@@ -1,5 +1,7 @@
 # clyde
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clyde.md)
+
 <p><span class="chinese">“格西，我爱你，”克莱德说。</span><span class="english">" Gussie, I love you, " Clyde said.</span></p>
 
 <p><span class="chinese">从索伦托到克莱德港我朝“上”开。</span><span class="english">From Sorrento to Port Clyde I drive "up".</span></p>

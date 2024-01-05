@@ -1,5 +1,7 @@
 # 模子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muzi.md)
+
 <p><span class="chinese">将饼馅舀到馅饼模子里。</span><span class="english">Spoon the filling into the flan case.</span></p>
 
 <p><span class="chinese">将面团球放进月饼模子。</span><span class="english">Press dough ball into the mooncake mould.</span></p>

@@ -1,5 +1,7 @@
 # 月黑风高
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yueheifenggao.md)
+
 <p><span class="chinese">月黑风高杀人夜。</span><span class="english">Moon dark wind high kill man night.</span></p>
 
 <p><span class="chinese">贝拉，遇到你之前，我的生活就好似月黑风高的夜晚，漆黑一片。</span><span class="english">Before you, Bella, my life was like a moonless night.</span></p>

@@ -1,5 +1,7 @@
 # shanghai
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shanghai.md)
+
 <p><span class="chinese">现在时他住在上海。</span><span class="english">Er wohnt in Shanghai.</span></p>
 
 <p><span class="chinese">我在上海出生。</span><span class="english">I was bron in shanghai.</span></p>

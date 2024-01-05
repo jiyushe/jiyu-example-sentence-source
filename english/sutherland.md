@@ -1,5 +1,7 @@
 # sutherland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sutherland.md)
+
 <p><span class="chinese">法官要求萨瑟兰在明年3月30日前完成服刑。</span><span class="english">The judge gave Sutherland until March 30 to complete his jail term.</span></p>
 
 <p><span class="chinese">基弗·萨瑟兰将重新演绎让他获得艾美奖的角色CTU探员杰克·鲍尔。</span><span class="english">Kiefer Sutherland will reprise his Emmy Award winning role as CTU Agent Jack Bauer.</span></p>

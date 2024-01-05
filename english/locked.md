@@ -1,5 +1,7 @@
 # locked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/locked.md)
+
 <p><span class="chinese">她把我锁在门外。</span><span class="english">She locked me out.</span></p>
 
 <p><span class="chinese">她把自己锁在屋里了。</span><span class="english">She locked herself in.</span></p>

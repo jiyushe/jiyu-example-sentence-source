@@ -1,5 +1,7 @@
 # imitation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imitation.md)
+
 <p><span class="chinese">一切艺术都是模仿。</span><span class="english">All art is imitation.</span></p>
 
 <p><span class="chinese">你戴这顶皮帽子真漂亮。</span><span class="english">A hat made of beaver fur or an imitation.</span></p>

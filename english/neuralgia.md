@@ -1,5 +1,7 @@
 # neuralgia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neuralgia.md)
+
 <p><span class="chinese">医生诊断我的病是神经痛。</span><span class="english">The doctor diagnosed my illness as neuralgia.</span></p>
 
 <p><span class="chinese">所有患者均无后遗神经痛发生。</span><span class="english">All patients had no post-therapeutic neuralgia.</span></p>

@@ -1,5 +1,7 @@
 # longhorn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/longhorn.md)
+
 <p><span class="chinese">出席盛会的还有一头长着长角的肉牛和一只叫作斯库特的犰狳。</span><span class="english">A longhorn steer attended, as did an armadillo named Scooter.</span></p>
 
 <p><span class="chinese">长角牛是德州大学的吉祥物，全家人都很热爱。</span><span class="english">The longhorn is the Texas mascot and a passion of the family.</span></p>

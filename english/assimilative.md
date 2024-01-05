@@ -1,5 +1,7 @@
 # assimilative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assimilative.md)
+
 <p><span class="chinese">同化过程是由于生理机制而发生地语音变化。</span><span class="english">Assimilative processes are phonological changes due to physiological mechanisms.</span></p>
 
 <p><span class="chinese">带有此特征的犯罪行为通常将视为同等犯罪。</span><span class="english">Offenses with this characteristic usually will be encountered as assimilative crimes.</span></p>

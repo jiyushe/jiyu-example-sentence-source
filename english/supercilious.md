@@ -1,5 +1,7 @@
 # supercilious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supercilious.md)
+
 <p><span class="chinese">她倨傲地微微一笑。</span><span class="english">She gave a supercilious smile.</span></p>
 
 <p><span class="chinese">她的傲慢态度使我极为愤怒。</span><span class="english">Her supercilious attitude enraged me.</span></p>

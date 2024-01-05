@@ -1,5 +1,7 @@
 # packager
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/packager.md)
+
 <p><span class="chinese">图标包装机是一个伟大的软件更改图标。</span><span class="english">Icon Packager is a great software to change icons.</span></p>
 
 <p><span class="chinese">介绍了一种新型全自动包装机的设计。</span><span class="english">The paper introduces a new design for full-automatic packager.</span></p>

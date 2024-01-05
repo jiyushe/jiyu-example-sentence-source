@@ -1,5 +1,7 @@
 # lynchpin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lynchpin.md)
+
 <p><span class="chinese">在这层意义上，白酒是交流联络的关键。</span><span class="english">In this sense, baijiu is the lynchpin of networking.</span></p>
 
 <p><span class="chinese">中场是他的巴西人和勒万多斯基最为他的关键人物。</span><span class="english">In midfield his Brazilians and Lewandowski as his lynchpin.</span></p>

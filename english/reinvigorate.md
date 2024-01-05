@@ -1,5 +1,7 @@
 # reinvigorate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reinvigorate.md)
+
 <p><span class="chinese">新鲜空气和阳光会给你带来活力。</span><span class="english">The fresh air and sunlight will reinvigorate you.</span></p>
 
 <p><span class="chinese">这是否足以标志着这个公司将会以不可思议的方式重新振作起来？</span><span class="english">Is that going to be enough to reinvigorate the company with a sense of magic?</span></p>

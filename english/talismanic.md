@@ -1,5 +1,7 @@
 # talismanic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/talismanic.md)
+
 <p><span class="chinese">疤痕也蕴含着某种护身符的意味。</span><span class="english">There’s also something talismanic about them.</span></p>
 
 <p><span class="chinese">例如，一个护身符祖母绿是深绿色，重78克拉。</span><span class="english">For example, one talismanic emerald is deep green and weighs 78 carats.</span></p>

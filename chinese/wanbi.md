@@ -1,5 +1,7 @@
 # 完毕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanbi.md)
+
 <p><span class="chinese">操练完毕。</span><span class="english">The drill is over.</span></p>
 
 <p><span class="chinese">讨论完毕。</span><span class="english">End of the discussion.</span></p>

@@ -1,5 +1,7 @@
 # chlorobenzene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chlorobenzene.md)
+
 <p><span class="chinese">以氯苯为原料，合成了对氯苯磺酰氯。</span><span class="english">Chlorobenzene sulfonyl chloride was synthesized with chlorobenzene as raw material.</span></p>
 
 <p><span class="chinese">研究了氯苯气体在活性炭固定床上的吸附过程。</span><span class="english">Adsorption of chlorobenzene from mixed gas by activated carbon was studied on fixed bed.</span></p>

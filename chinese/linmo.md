@@ -1,5 +1,7 @@
 # 临摹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linmo.md)
+
 <p><span class="chinese">这是照一幅古画临摹的。</span><span class="english">This was painted after an ancient picture.</span></p>
 
 <p><span class="chinese">模特儿摆好了姿势让美术专业的学生临摹。</span><span class="english">The model posed herself for the art students.</span></p>

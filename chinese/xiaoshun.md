@@ -1,5 +1,7 @@
 # 孝顺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoshun.md)
+
 <p><span class="chinese">这个孝顺的女儿。</span><span class="english">The dutiful daughter.</span></p>
 
 <p><span class="chinese">她对父母十分孝顺。</span><span class="english">She is extremely filial towards her parents.</span></p>

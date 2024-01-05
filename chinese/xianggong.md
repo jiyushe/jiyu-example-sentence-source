@@ -1,5 +1,7 @@
 # 相公
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianggong.md)
+
 <p><span class="chinese">速唤众家姑姐到大殿为潘相公送行！</span><span class="english">Ask all the sisters come to the hall and see Mr. PAN off!</span></p>
 
 <p><span class="chinese">“经略相公”确是保留宋人的称谓习惯。</span><span class="english">"After a little Messire", is used to retain the title of Song.</span></p>

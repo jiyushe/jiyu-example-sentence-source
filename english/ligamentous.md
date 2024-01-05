@@ -1,5 +1,7 @@
 # ligamentous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ligamentous.md)
+
 <p><span class="chinese">这是造成其总韧带断裂系统和大型胶囊眼泪。</span><span class="english">This is caused by a total rupture of its ligamentous system and large capsule tears.</span></p>
 
 <p><span class="chinese">另外这类损伤还可伴发肘关节脱位和韧带损伤。</span><span class="english">In addition, they can be associated with concomitant elbow dislocation and ligamentous injuries.</span></p>

@@ -1,5 +1,7 @@
 # 年幼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nianyou.md)
+
 <p><span class="chinese">年幼的孩子是个牵累。</span><span class="english">Young children are a tie.</span></p>
 
 <p><span class="chinese">他们有两个年幼的女儿。</span><span class="english">They have two young daughters.</span></p>

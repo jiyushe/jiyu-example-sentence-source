@@ -1,5 +1,7 @@
 # dispatch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dispatch.md)
+
 <p><span class="chinese">您是否使用发料单？</span><span class="english">Do you have and use a dispatch list?</span></p>
 
 <p><span class="chinese">将选择器用于简单的分派</span><span class="english">Using a selector for simple dispatch</span></p>

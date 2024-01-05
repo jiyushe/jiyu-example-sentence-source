@@ -1,5 +1,7 @@
 # parkway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parkway.md)
+
 <p><span class="chinese">我们住在城外，在迈瑞特公园路附近。</span><span class="english">We live outside of town, near the Merritt Parkway.</span></p>
 
 <p><span class="chinese">前往新港和加的夫的旅客请在布里斯托大道换车。</span><span class="english">Passengers for Newport and Cardiff change at Bristol Parkway.</span></p>

@@ -1,5 +1,7 @@
 # 爱斯基摩人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aisijimoren.md)
+
 <p><span class="chinese">他们是爱斯基摩人。</span><span class="english">They are Eskimos.</span></p>
 
 <p><span class="chinese">爱斯基摩人住在冰屋里。</span><span class="english">Eskimos live in igloos.</span></p>

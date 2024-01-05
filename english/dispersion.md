@@ -1,5 +1,7 @@
 # dispersion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dispersion.md)
+
 <p><span class="chinese">离差和群速的概念。</span><span class="english">Notions of dispersion and group speed.</span></p>
 
 <p><span class="chinese">度量数据集的分散性。</span><span class="english">Measuring the dispersion of the dataset.</span></p>

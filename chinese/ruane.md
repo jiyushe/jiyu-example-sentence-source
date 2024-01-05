@@ -1,5 +1,7 @@
 # 软腭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruane.md)
+
 <p><span class="chinese">现在你碰到了软腭！</span><span class="english">Now you’re getting the soft palate!</span></p>
 
 <p><span class="chinese">他还用了些诸如“软腭”这样的难懂的词儿。</span><span class="english">He used fancy terms like 'soft palate'.</span></p>

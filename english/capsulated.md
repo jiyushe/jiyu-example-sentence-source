@@ -1,5 +1,7 @@
 # capsulated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capsulated.md)
+
 <p><span class="chinese">所有其他组件都封装在根元素中，均已本地化。</span><span class="english">All other components are capsulated in the root element and localized.</span></p>
 
 <p><span class="chinese">这三种草药任意搭配、研磨成粉、制成胶囊，被作为“天然伟哥”销售。</span><span class="english">Any combination of these might be pulverized, capsulated and sold as "natural Viagra."</span></p>

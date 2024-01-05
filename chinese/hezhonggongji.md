@@ -1,5 +1,7 @@
 # 和衷共济
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hezhonggongji.md)
+
 <p><span class="chinese">朋友要知心的，和衷共济！</span><span class="english">Intimate friends to work together with one heart!</span></p>
 
 <p><span class="chinese">累累硕果，凝聚了矿区广大干部职工和衷共济、自强不息、顽强拼搏的心血。</span><span class="english">Fruitful results, rallied the cadres and workers mining rapport, self-reliance, hard work and struggle.</span></p>

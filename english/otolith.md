@@ -1,5 +1,7 @@
 # otolith
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/otolith.md)
+
 <p><span class="chinese">耳石的形态发育。</span><span class="english">The morphological development of otolith.</span></p>
 
 <p><span class="chinese">听石由许多小结晶的耳石形成。</span><span class="english">Otolith are found from many small crystalline otoconia.</span></p>

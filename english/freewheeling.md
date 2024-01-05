@@ -1,5 +1,7 @@
 # freewheeling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/freewheeling.md)
+
 <p><span class="chinese">奥特切克为这种随心所欲的办公室文化感到自豪。</span><span class="english">Mr. Altchek is proud of the freewheeling office culture.</span></p>
 
 <p><span class="chinese">但网络的无拘无束让慕容感到震惊。</span><span class="english">But the freewheeling nature of the Internet could surprise even Mr. Murong.</span></p>

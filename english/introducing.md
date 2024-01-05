@@ -1,5 +1,7 @@
 # introducing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/introducing.md)
+
 <p><span class="chinese">其中重点介绍哈里、赫敏和罗恩</span><span class="english">Introducing Harry, Hermione, and Ron</span></p>
 
 <p><span class="chinese">李红正把她介绍给莉齐。</span><span class="english">Li Hong is introducing her to lizzy.</span></p>

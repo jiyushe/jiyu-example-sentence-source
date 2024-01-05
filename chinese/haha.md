@@ -1,5 +1,7 @@
 # 哈哈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haha.md)
+
 <p><span class="chinese">哈哈，夏天来了。</span><span class="english">Ahh, summer time.</span></p>
 
 <p><span class="chinese">哈哈，过奖了。</span><span class="english">Ha, I am flattered.</span></p>

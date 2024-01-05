@@ -1,5 +1,7 @@
 # 欢颜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanyan_1.md)
+
 <p><span class="chinese">乐在人生尽欢颜。</span><span class="english">Joy in life all smiles.</span></p>
 
 <p><span class="chinese">只会因正确而欢颜。</span><span class="english">But rejoice in the right.</span></p>

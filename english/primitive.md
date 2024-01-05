@@ -1,5 +1,7 @@
 # primitive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/primitive.md)
+
 <p><span class="chinese">但是一步之内。</span><span class="english">That's a primitive operation.</span></p>
 
 <p><span class="chinese">原始部落将太阳奉为神。</span><span class="english">Primitive peoples deified the sun.</span></p>

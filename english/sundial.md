@@ -1,5 +1,7 @@
 # sundial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sundial.md)
+
 <p><span class="chinese">把你的影子投放在日规上。</span><span class="english">Lay your shadows over the sundial.</span></p>
 
 <p><span class="chinese">日晷上显示的时间非常精确。</span><span class="english">A sundial showed very precise time.</span></p>

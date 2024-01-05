@@ -1,5 +1,7 @@
 # 折子戏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhezixi.md)
+
 <p><span class="chinese">她在绍兴折子戏中扮演红楼梦的林黛玉。</span><span class="english">She played the role of lin daiyu in a shaoxing adaptation of dream of the red chamber.</span></p>
 
 <p><span class="chinese">今天，昆剧振兴的标志不应该是折子戏的反复会演，而应该是本戏演出的繁荣。</span><span class="english">Today to re energize Kunqu operas depends on the performance of the whole operas rather than.</span></p>

@@ -1,5 +1,7 @@
 # symbiotic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/symbiotic.md)
+
 <p><span class="chinese">这种关系可以并且应当是相辅相存的。</span><span class="english">This relation can and should be symbiotic.</span></p>
 
 <p><span class="chinese">事实上，斯诺是把这种关系描述为“共生”。</span><span class="english">In fact, Snow describes it as a "symbiotic" relationship.</span></p>

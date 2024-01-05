@@ -1,5 +1,7 @@
 # pliers
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pliers.md)
+
 <p><span class="chinese">我的父亲拿来个老虎钳。</span><span class="english">who then got his pliers.</span></p>
 
 <p><span class="chinese">我可以借你的老虎钳吗?。</span><span class="english">Could I borrow your pliers ?</span></p>

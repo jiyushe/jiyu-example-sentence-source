@@ -1,5 +1,7 @@
 # ruth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ruth.md)
+
 <p><span class="chinese">因为你不认识露丝</span><span class="english">Well, you don't know Ruth.</span></p>
 
 <p><span class="chinese">“唔，嗯，”露丝口吃了。</span><span class="english">“Well, eh,” Ruth stuttered.</span></p>

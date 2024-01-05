@@ -1,5 +1,7 @@
 # 大出血
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dachuxue.md)
+
 <p><span class="chinese">大出血后她的身体十分虚弱。</span><span class="english">She was very weak after haemorrhaging.</span></p>
 
 <p><span class="chinese">很可能是脾脏或肝受到损伤，导致大出血。</span><span class="english">A ruptured spleen or liver was the most likely source.</span></p>

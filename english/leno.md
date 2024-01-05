@@ -1,5 +1,7 @@
 # leno
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leno.md)
+
 <p><span class="chinese">杰？雷诺的加入使这份明星卡司声势更为浩大。</span><span class="english">Queen Latifah and Jay Leno round out this all-star cast.</span></p>
 
 <p><span class="chinese">所以，这又一是一项与布什的政策完全相反的奥巴马政策。</span><span class="english">So, yet another reversal of the Bush policies." --Jay Leno</span></p>

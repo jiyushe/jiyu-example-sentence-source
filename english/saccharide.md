@@ -1,5 +1,7 @@
 # saccharide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saccharide.md)
+
 <p><span class="chinese">微生物发酵糖可以生产酒精。</span><span class="english">Ethanol can be produced from saccharide by microbial fermentation.</span></p>
 
 <p><span class="chinese">近年来，低糖类食品越来越受到人们的青睐。</span><span class="english">In recent years, low saccharide food more and more get the favour of people.</span></p>

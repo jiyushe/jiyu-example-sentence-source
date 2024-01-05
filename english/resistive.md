@@ -1,5 +1,7 @@
 # resistive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resistive.md)
+
 <p><span class="chinese">纳米钛酸钡感湿芯片是一种电阻式湿度传感器。</span><span class="english">Nanometer barium titanate humidity sensor is a resistive sensor.</span></p>
 
 <p><span class="chinese">基本共射放大器是典型的电阻性甲类放大器。</span><span class="english">Common-emitter amplifier is a typical resistive class A amplifier.</span></p>

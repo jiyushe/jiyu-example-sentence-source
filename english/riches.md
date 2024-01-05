@@ -1,5 +1,7 @@
 # riches
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/riches.md)
+
 <p><span class="chinese">他富甲天下。</span><span class="english">He swims in riches.</span></p>
 
 <p><span class="chinese">她炫耀她的财富。</span><span class="english">She flaunts her riches.</span></p>

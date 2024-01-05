@@ -1,5 +1,7 @@
 # 音域
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinyu_5.md)
+
 <p><span class="chinese">他的音域不断变化，而且十分宽广。</span><span class="english">His range is very dynamic and wide.</span></p>
 
 <p><span class="chinese">在高的音域更容易被听到</span><span class="english">It's easier to hear in a high range.</span></p>

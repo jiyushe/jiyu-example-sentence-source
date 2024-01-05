@@ -1,5 +1,7 @@
 # organophosphorous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/organophosphorous.md)
+
 <p><span class="chinese">农药中毒以有机磷杀虫剂居首位。</span><span class="english">The pesticide poisoning was mainly caused by organophosphorous insecticide.</span></p>
 
 <p><span class="chinese">研究了不同的铈配合物对有机磷农药降解的可行性。</span><span class="english">The feasibility of organophosphorous pesticide degradation by cerium complexes was studied.</span></p>

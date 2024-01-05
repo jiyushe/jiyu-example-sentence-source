@@ -1,5 +1,7 @@
 # repossession
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repossession.md)
+
 <p><span class="chinese">以及一场为了夺回那艘船的战争是如何爆发的。</span><span class="english">And how a war for the repossession of that ship had commenced.</span></p>
 
 <p><span class="chinese">美国各银行在2009年向共计280万个住房发出收回通知。</span><span class="english">Banks filed repossession notices on 2.8m American homes during 2009.</span></p>

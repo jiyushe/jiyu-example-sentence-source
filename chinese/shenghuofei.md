@@ -1,5 +1,7 @@
 # 生活费
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenghuofei.md)
+
 <p><span class="chinese">每个下岗工人可领取基本生活费。</span><span class="english">Each laid-off worker can receive a living wage.</span></p>
 
 <p><span class="chinese">你能说说伦敦的生活费吗？</span><span class="english">Can you tell us about the living cost in London?</span></p>

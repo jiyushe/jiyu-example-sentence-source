@@ -1,5 +1,7 @@
 # norman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/norman.md)
+
 <p><span class="chinese">诺曼人在1086年征服英国。</span><span class="english">The Norman conquered England in 1086.</span></p>
 
 <p><span class="chinese">一次，一个人给诺曼·文森特·皮尔打电话。</span><span class="english">A man once telephoned Norman Vincent Peale.</span></p>

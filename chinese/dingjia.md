@@ -1,5 +1,7 @@
 # 定价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingjia.md)
+
 <p><span class="chinese">定价高于边际成本</span><span class="english">Price above that.</span></p>
 
 <p><span class="chinese">也许是因为你的定价。</span><span class="english">Maybe it was your pricing.</span></p>

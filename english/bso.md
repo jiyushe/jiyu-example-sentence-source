@@ -1,5 +1,7 @@
 # bso
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bso.md)
+
 <p><span class="chinese">这样你就可以证明你是个男人。</span><span class="english">BSo you can prove you are a man.</span></p>
 
 <p><span class="chinese">实在抱歉，下次一定参加，不管怎样还是要谢谢你。</span><span class="english">BSo sorry. Next time we'll go, thanks anyway.</span></p>

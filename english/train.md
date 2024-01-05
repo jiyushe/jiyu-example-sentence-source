@@ -1,5 +1,7 @@
 # train
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/train.md)
+
 <p><span class="chinese">训练者获胜。</span><span class="english">Winners train.</span></p>
 
 <p><span class="chinese">训练你的狗。</span><span class="english">Train your dog.</span></p>

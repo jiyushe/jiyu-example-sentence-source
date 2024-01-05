@@ -1,5 +1,7 @@
 # elegantly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elegantly.md)
+
 <p><span class="chinese">她骑在马上，潇洒地随着马步的节奏上下起伏。</span><span class="english">She rode horseback posting elegantly.</span></p>
 
 <p><span class="chinese">圈点着我心中的淡雅。</span><span class="english">Punctuate my heart in of elegantly simple.</span></p>

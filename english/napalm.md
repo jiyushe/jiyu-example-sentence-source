@@ -1,5 +1,7 @@
 # napalm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/napalm.md)
+
 <p><span class="chinese">凝汽油剂是一种铝皂。</span><span class="english">Napalm is an aluminum soap.</span></p>
 
 <p><span class="chinese">黑色汽油弹升级完毕。</span><span class="english">Black napalm upgrade is complete.</span></p>

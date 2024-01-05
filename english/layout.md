@@ -1,5 +1,7 @@
 # layout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/layout.md)
+
 <p><span class="chinese">布局来不得慢动作。</span><span class="english">Layout so slow motion.</span></p>
 
 <p><span class="chinese">版面柔软印压小。</span><span class="english">The small print layout soft.</span></p>

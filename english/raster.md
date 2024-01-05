@@ -1,5 +1,7 @@
 # raster
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/raster.md)
+
 <p><span class="chinese">矢量光栅转换器?。</span><span class="english">VRC? Vector Raster Converter?</span></p>
 
 <p><span class="chinese">相对于光栅图片来说，SVG具有很多优势。</span><span class="english">SVG has many advantages over raster images.</span></p>

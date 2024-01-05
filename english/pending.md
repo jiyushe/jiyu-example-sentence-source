@@ -1,5 +1,7 @@
 # pending
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pending.md)
+
 <p><span class="chinese">这个案子一直悬而未决。</span><span class="english">The case is still pending.</span></p>
 
 <p><span class="chinese">他们的案子依然悬而未决。</span><span class="english">Their case is still pending.</span></p>

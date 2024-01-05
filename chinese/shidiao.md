@@ -1,5 +1,7 @@
 # 失掉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shidiao.md)
+
 <p><span class="chinese">唔，你已经失掉了勇气吗？</span><span class="english">Well, have you lost your courage?</span></p>
 
 <p><span class="chinese">贫穷的生活使他们失掉了人性。</span><span class="english">Life in poverty has dehumanized them.</span></p>

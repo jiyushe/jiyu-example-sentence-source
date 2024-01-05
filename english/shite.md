@@ -1,5 +1,7 @@
 # shite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shite.md)
+
 <p><span class="chinese">这他妈的是怎么回事？</span><span class="english">What is this shite?</span></p>
 
 <p><span class="chinese">因为我们前锋是陀屎。</span><span class="english">Because our strikers are shite.</span></p>

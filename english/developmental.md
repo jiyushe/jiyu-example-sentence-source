@@ -1,5 +1,7 @@
 # developmental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/developmental.md)
+
 <p><span class="chinese">分析了MFS的发展趋势。</span><span class="english">Developmental tendency of MFS is analyzed.</span></p>
 
 <p><span class="chinese">中国是“发展中国家”的一个新形态。</span><span class="english">China is a new form of Developmental State.</span></p>

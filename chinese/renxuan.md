@@ -1,5 +1,7 @@
 # 人选
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renxuan.md)
+
 <p><span class="chinese">他是该工作最隹的人选。</span><span class="english">He is a natural for the job.</span></p>
 
 <p><span class="chinese">男主角还没有确定的人选。</span><span class="english">The male lead, still warble.</span></p>

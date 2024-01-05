@@ -1,5 +1,7 @@
 # expend
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expend.md)
+
 <p><span class="chinese">即使是一些人所花费的努力</span><span class="english">Even the effort that some people expend</span></p>
 
 <p><span class="chinese">但许多人不会去付出这种额外的努力。</span><span class="english">But many do not expend the extra effort.</span></p>

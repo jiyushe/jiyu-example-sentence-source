@@ -1,5 +1,7 @@
 # 中程
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongcheng_1.md)
+
 <p><span class="chinese">中程，长脖子，皮肤是棕黄色与紫色条纹，果肉黄色。</span><span class="english">Medium, long neck, skin is brownish yellow with violet stripes, flesh amber.</span></p>
 
 <p><span class="chinese">伊留申IL-86四引擎宽体中程客机。</span><span class="english">The Ilyushin IL-86 is a four-engine wide-body medium range passenger aircraft.</span></p>

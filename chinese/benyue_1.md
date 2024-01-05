@@ -1,5 +1,7 @@
 # 本月
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benyue_1.md)
+
 <p><span class="chinese">我已将本月报表做完，请查收。</span><span class="english">Enclosed please find this month's PNL.</span></p>
 
 <p><span class="chinese">天王星在本月将会正行。</span><span class="english">Uranus will also go direct this month.</span></p>

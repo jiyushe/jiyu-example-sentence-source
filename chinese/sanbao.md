@@ -1,5 +1,7 @@
 # 三包
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanbao.md)
+
 <p><span class="chinese">请给我三包碎猪肉。</span><span class="english">Three pork chops, please.</span></p>
 
 <p><span class="chinese">茱莉买了牛奶和三包调理汤包。</span><span class="english">Julie bought milk and three packets of soup mix.</span></p>

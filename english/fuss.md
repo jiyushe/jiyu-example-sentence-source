@@ -1,5 +1,7 @@
 # fuss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fuss.md)
+
 <p><span class="chinese">何必嘞?</span><span class="english">Why so much fuss?</span></p>
 
 <p><span class="chinese">这有什么好大惊小怪的？</span><span class="english">What's the big fuss?</span></p>

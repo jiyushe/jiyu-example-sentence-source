@@ -1,5 +1,7 @@
 # valiantly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/valiantly.md)
+
 <p><span class="chinese">金姆勇敢地保卫自己，伊菜也继续向她动手动脚。</span><span class="english">Kim valiantly defends herself as Eli keeps coming.</span></p>
 
 <p><span class="chinese">白丽莱茜鼓起勇气保持一种冷静的兴趣。</span><span class="english">Berenice strove valiantly to retain a serene interest.</span></p>

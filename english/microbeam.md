@@ -1,5 +1,7 @@
 # microbeam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microbeam.md)
+
 <p><span class="chinese">如何将微束分析技术应用到大气尘埃颗粒研究之中？</span><span class="english">How does Microbeam Techniques Apply to the Studies of Aerosol Particles?</span></p>
 
 <p><span class="chinese">进行了基于微束等离子弧的焊缝跟踪传感可行性研究。</span><span class="english">In this paper, weld seam tracking method based on microbeam plasma arc is developed.</span></p>

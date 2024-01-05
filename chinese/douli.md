@@ -1,5 +1,7 @@
 # 斗笠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/douli.md)
+
 <p><span class="chinese">川江斗笠子滩为枯水急流滩险。</span><span class="english">Doulizi beach is the dry rapids in Chuanjiang River.</span></p>
 
 <p><span class="chinese">说是早已等在那里，是因为她头上的斗笠落了雪。</span><span class="english">Already out there, that the rain hat because her head drop off the snow.</span></p>

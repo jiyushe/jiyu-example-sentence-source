@@ -1,5 +1,7 @@
 # subcontract
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subcontract.md)
+
 <p><span class="chinese">那两个公司刚签订了一个转包合同。</span><span class="english">The two companies made a subcontract just now.</span></p>
 
 <p><span class="chinese">这两个公司刚签订了一个转包合同。</span><span class="english">the two companies made a subcontract just now.</span></p>

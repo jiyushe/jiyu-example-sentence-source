@@ -1,5 +1,7 @@
 # defenseless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/defenseless.md)
+
 <p><span class="chinese">为什么有些人要把自己受到的挫折发泄到毫无防备的孩子身上？</span><span class="english">Why take their frustrations on defenseless children?</span></p>
 
 <p><span class="chinese">在水井旁，他再一次保护无助者。</span><span class="english">There at the well, again he acts to defend the defenseless.</span></p>

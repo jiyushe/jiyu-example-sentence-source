@@ -1,5 +1,7 @@
 # exist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exist.md)
+
 <p><span class="chinese">我们为什么要存在？</span><span class="english">Why do we exist?</span></p>
 
 <p><span class="chinese">我们存在于空间中。</span><span class="english">We exist in space.</span></p>

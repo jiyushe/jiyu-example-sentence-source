@@ -1,5 +1,7 @@
 # necromancer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/necromancer.md)
+
 <p><span class="chinese">杜丁曾是名年轻的死灵法师学徒。</span><span class="english">Dutin was once a necromancer apprentice.</span></p>
 
 <p><span class="chinese">受害者将成为食尸鬼，并为创造自己的主人效忠。</span><span class="english">The victims will become ghouls that serve the necromancer.</span></p>

@@ -1,5 +1,7 @@
 # 阳气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangqi_4.md)
+
 <p><span class="chinese">一个人的阳气足不足。</span><span class="english">Of a person's lack of yang foot.</span></p>
 
 <p><span class="chinese">压力太大易生气的人可能是阳气过盛。</span><span class="english">People who are too stressed out and angry may have too much yang.</span></p>

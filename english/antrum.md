@@ -1,5 +1,7 @@
 # antrum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antrum.md)
+
 <p><span class="chinese">什么是窦性心律不齐？</span><span class="english">What is antrum sex arrhythmia?</span></p>
 
 <p><span class="chinese">胃可分为底部，体部和窦部。</span><span class="english">The stomach can be divided into fundus, body, and antrum.</span></p>

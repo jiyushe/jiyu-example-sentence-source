@@ -1,5 +1,7 @@
 # eudora
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eudora.md)
+
 <p><span class="chinese">无法找到任何Eudora设置。</span><span class="english">Unable to find any Eudora settings.</span></p>
 
 <p><span class="chinese">我比较喜欢欧多拉·威尔第的描述</span><span class="english">I do love Eudora Welty's description of this.</span></p>

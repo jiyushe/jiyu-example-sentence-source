@@ -1,5 +1,7 @@
 # urinate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urinate.md)
+
 <p><span class="chinese">我要去排尿。</span><span class="english">I have to urinate.</span></p>
 
 <p><span class="chinese">我常常会有尿意。</span><span class="english">I feel like to urinate often.</span></p>

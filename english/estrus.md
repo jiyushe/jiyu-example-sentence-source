@@ -1,5 +1,7 @@
 # estrus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/estrus.md)
+
 <p><span class="chinese">下一次发情推迟了。</span><span class="english">The next estrus was delayed.</span></p>
 
 <p><span class="chinese">母牛的发情周期平均为21天。</span><span class="english">A cow's estrus cycle averages 21 days.</span></p>

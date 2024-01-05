@@ -1,5 +1,7 @@
 # 饮恨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinhen_1.md)
+
 <p><span class="chinese">麦凯恩在2000年曾在此饮恨与乔治-布什结下一剑之仇。</span><span class="english">McCain was defeated here in 2000 by George W. Bush.</span></p>
 
 <p><span class="chinese">那个叫夜饮恨的是什么人？</span><span class="english">The make the night nurse a grievance of is what person?</span></p>

@@ -1,5 +1,7 @@
 # burnt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burnt.md)
+
 <p><span class="chinese">米饭尝起来有焦味。</span><span class="english">The rice tastes burnt.</span></p>
 
 <p><span class="chinese">她的头发烧掉了。</span><span class="english">Her hair was burnt off.</span></p>

@@ -1,5 +1,7 @@
 # 中篇小说
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongpianxiaoshuo.md)
+
 <p><span class="chinese">在底部是“弗朗西斯哈米德阿尔一个中篇小说”。</span><span class="english">At the bottom is "A Novella by Francis Hamit".</span></p>
 
 <p><span class="chinese">这是我长期以来读过的最优秀的中篇小说之一。</span><span class="english">This is one of the best novellas I've read in a long time.</span></p>

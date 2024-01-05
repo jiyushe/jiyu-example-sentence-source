@@ -1,5 +1,7 @@
 # tangerine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tangerine.md)
+
 <p><span class="chinese">这里有我最喜欢的橘子。</span><span class="english">Here's my favourite tangerine.</span></p>
 
 <p><span class="chinese">从一棵桔树上切下一截好树枝。</span><span class="english">Cut a branch from a good Tangerine.</span></p>

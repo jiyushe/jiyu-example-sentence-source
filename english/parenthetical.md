@@ -1,5 +1,7 @@
 # parenthetical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parenthetical.md)
+
 <p><span class="chinese">这是插入语。</span><span class="english">This is parenthetical.</span></p>
 
 <p><span class="chinese">你也可以使用附加组。</span><span class="english">You can also use parenthetical grouping.</span></p>

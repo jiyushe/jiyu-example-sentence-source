@@ -1,5 +1,7 @@
 # 严严实实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanyanshishi.md)
+
 <p><span class="chinese">上床的时候千万不要从头到脚捂的严严实实。</span><span class="english">Don't come to bed covered up from head to toe.</span></p>
 
 <p><span class="chinese">然后再买来包装纸，严严实实地包起来。</span><span class="english">Then we buy wrapping paper and wrap it all up.</span></p>

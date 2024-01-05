@@ -1,5 +1,7 @@
 # doth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doth.md)
+
 <p><span class="chinese">阳光不升起，也不消翳。</span><span class="english">That doth not rise nor set.</span></p>
 
 <p><span class="chinese">难道神所挂念的是牛么？</span><span class="english">Doth God take care for oxen?</span></p>

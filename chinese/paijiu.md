@@ -1,5 +1,7 @@
 # 牌九
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paijiu.md)
+
 <p><span class="chinese">不过，也有些小窍门能够让您的牌九之旅充满精彩。</span><span class="english">However, also some tips to make your Pai trip full of wonderful.</span></p>
 
 <p><span class="chinese">牌九一般是4个人一起玩，而且玩法多种，变化多样。</span><span class="english">Pai Gow is usually played with 4 people, and play multiple, diverse.</span></p>

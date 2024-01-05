@@ -1,5 +1,7 @@
 # 邪魔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiemo.md)
+
 <p><span class="chinese">佛教说“邪魔外道”。</span><span class="english">" Buddhism says, "Evil is alien to Truth.</span></p>
 
 <p><span class="chinese">一个是正道，一个是邪魔。</span><span class="english">One is a appropriate direction, one is a demon.</span></p>

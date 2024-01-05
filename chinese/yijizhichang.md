@@ -1,5 +1,7 @@
 # 一技之长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yijizhichang.md)
+
 <p><span class="chinese">学得好了，也算是有一技之长。</span><span class="english">CCNA, learn well, also be have proficiency in a particular line.</span></p>
 
 <p><span class="chinese">以使学生通过学习能够真正学到一技之长。</span><span class="english">Enables the student to learn the professional skill truly through the study.</span></p>

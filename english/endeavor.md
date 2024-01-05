@@ -1,5 +1,7 @@
 # endeavor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endeavor.md)
+
 <p><span class="chinese">让我们为恺威尽一份微薄之力。</span><span class="english">Let us do our endeavor for Hawick.</span></p>
 
 <p><span class="chinese">我把它看作我的第二次创业。</span><span class="english">I see this endeavor as my second start-up.</span></p>

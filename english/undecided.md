@@ -1,5 +1,7 @@
 # undecided
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undecided.md)
+
 <p><span class="chinese">行期未卜。</span><span class="english">The date of departure remains undecided.</span></p>
 
 <p><span class="chinese">过了几分钟杰里似乎犹豫是走还是等下去。</span><span class="english">For several minutes Jerry seemed undecided whether to go or wait.</span></p>

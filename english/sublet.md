@@ -1,5 +1,7 @@
 # sublet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sublet.md)
+
 <p><span class="chinese">你不能把这套公寓转租给他人。</span><span class="english">You can't sublet the apartment.</span></p>
 
 <p><span class="chinese">你可以选择分租或自住。</span><span class="english">You can sublet or live by your own.</span></p>

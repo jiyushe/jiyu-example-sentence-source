@@ -1,5 +1,7 @@
 # earwax
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earwax.md)
+
 <p><span class="chinese">你的耳朵里全是耳屎。</span><span class="english">Your ears are full of earwax.</span></p>
 
 <p><span class="chinese">东亚人通常是干燥的耳垢。</span><span class="english">East Asians commonly have dry earwax.</span></p>

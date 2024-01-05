@@ -1,5 +1,7 @@
 # inaccessible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inaccessible.md)
+
 <p><span class="chinese">大脑是一个难以接近的器官。</span><span class="english">The brain is an inaccessible organ.</span></p>
 
 <p><span class="chinese">深居在光明中，肉眼不能见。</span><span class="english">In light inaccessible hid from our eyes.</span></p>

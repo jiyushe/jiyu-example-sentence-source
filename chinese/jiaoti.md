@@ -1,5 +1,7 @@
 # 交替
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoti.md)
+
 <p><span class="chinese">比分交替上升。</span><span class="english">The score seesawed.</span></p>
 
 <p><span class="chinese">走好运与倒霉交替发生。</span><span class="english">Good times alternate with bad.</span></p>

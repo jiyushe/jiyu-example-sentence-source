@@ -1,5 +1,7 @@
 # squareness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/squareness.md)
+
 <p><span class="chinese">退磁曲线具有理想的方形度。</span><span class="english">The Demagnetization curve has a perfect squareness.</span></p>
 
 <p><span class="chinese">经常检查墙角的水平、高度、对角。</span><span class="english">Check frequently for course height, squareness and level.</span></p>

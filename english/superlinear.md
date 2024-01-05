@@ -1,5 +1,7 @@
 # superlinear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superlinear.md)
+
 <p><span class="chinese">证明了方法的局部收敛性和局部超线性收敛性。</span><span class="english">Local convergence and local superlinear convergence rate are proved.</span></p>
 
 <p><span class="chinese">本文还讨论了特殊情况下算法的超线性收敛性。</span><span class="english">The superlinear convergence for some special cases is also discussed.</span></p>

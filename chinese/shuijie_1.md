@@ -1,5 +1,7 @@
 # 水解
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuijie_1.md)
+
 <p><span class="chinese">游离和水解的甲醛。</span><span class="english">Free and hydrolyzed formaldehyde.</span></p>
 
 <p><span class="chinese">研究了产自于一株节杆菌的肌酐水解酶。</span><span class="english">A creatininase produced from a Arthrobacter sp.</span></p>

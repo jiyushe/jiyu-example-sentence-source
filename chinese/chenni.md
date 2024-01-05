@@ -1,5 +1,7 @@
 # 沉溺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenni.md)
+
 <p><span class="chinese">我身处阳光，却沉溺黑暗。</span><span class="english">The dark in the sunshine.</span></p>
 
 <p><span class="chinese">沉溺在你的世界，义无反顾。</span><span class="english">Incurably addicted to your world.</span></p>

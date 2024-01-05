@@ -1,5 +1,7 @@
 # splenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/splenic.md)
+
 <p><span class="chinese">非寄生虫性脾脏囊肿是一罕见的疾病。</span><span class="english">Nonparasitic splenic cyst is a rare clinical disease.</span></p>
 
 <p><span class="chinese">与胸腔镜脊柱外科相关的脾破裂。</span><span class="english">Splenic rupture related to thoracoscopic spine surgery.</span></p>

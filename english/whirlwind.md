@@ -1,5 +1,7 @@
 # whirlwind
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whirlwind.md)
+
 <p><span class="chinese">他们是旋风。</span><span class="english">They were a whirlwind.</span></p>
 
 <p><span class="chinese">伽弗洛什是一股旋风。</span><span class="english">Gavroche was a whirlwind.</span></p>

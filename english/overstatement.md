@@ -1,5 +1,7 @@
 # overstatement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overstatement.md)
+
 <p><span class="chinese">说是分裂大概也不过分。</span><span class="english">Schism is probably not an overstatement.</span></p>
 
 <p><span class="chinese">巴菲特先生善于精心挑选夸张之词。</span><span class="english">Mr Buffett is a master of the carefully chosen overstatement.</span></p>

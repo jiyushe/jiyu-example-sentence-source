@@ -1,5 +1,7 @@
 # paraffin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paraffin.md)
+
 <p><span class="chinese">正丁烷是正链烷烃的一个例子。</span><span class="english">An example of a normal paraffin is normal butane.</span></p>
 
 <p><span class="chinese">石蜡是糯碳氢化合物、无异味。</span><span class="english">Paraffin is a waxy hydrocarbon, without any smell.</span></p>

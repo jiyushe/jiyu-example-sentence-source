@@ -1,5 +1,7 @@
 # foss
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foss.md)
+
 <p><span class="chinese">从表面上看，学校里使用开源软件真的很棒。</span><span class="english">On the surface, FOSS in schools is awesome.</span></p>
 
 <p><span class="chinese">这是数模中电梯概率模型源码，与大家分享！</span><span class="english">This is a few Die lift probability model FOSS share with you!</span></p>

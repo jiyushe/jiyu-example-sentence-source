@@ -1,5 +1,7 @@
 # convince
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/convince.md)
+
 <p><span class="chinese">我们可以说服你们吗？</span><span class="english">Can we convince you?</span></p>
 
 <p><span class="chinese">说服织曲者加入你。</span><span class="english">Convince the Songweaver to join you.</span></p>

@@ -1,5 +1,7 @@
 # extradition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extradition.md)
+
 <p><span class="chinese">吉临时政府欲引渡流亡总统巴基耶夫。</span><span class="english">Kyrgyz interim gov't orders extradition of Bakiyev.</span></p>
 
 <p><span class="chinese">他开始费尽心思地去想关于引渡法的问题。</span><span class="english">He began to trouble concerning the extradition laws.</span></p>

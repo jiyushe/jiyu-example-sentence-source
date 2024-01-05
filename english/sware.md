@@ -1,5 +1,7 @@
 # sware
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sware.md)
+
 <p><span class="chinese">王就向他起誓。</span><span class="english">And the king sware unto him.</span></p>
 
 <p><span class="chinese">我就在怒中起誓说，他们断不可进入我的安息。</span><span class="english">So I sware in my wrath, They shall not enter into my rest.</span></p>

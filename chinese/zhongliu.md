@@ -1,5 +1,7 @@
 # 中流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongliu.md)
+
 <p><span class="chinese">新鲜的水是从泉中流出的。</span><span class="english">Fresh water runs from the spring.</span></p>
 
 <p><span class="chinese">油污也会从缝隙中流走。</span><span class="english">Mid-stream oil will go from the slot.</span></p>

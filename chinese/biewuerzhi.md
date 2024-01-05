@@ -1,5 +1,7 @@
 # 别无二致
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biewuerzhi.md)
+
 <p><span class="chinese">非洲裔美国人晚上看的新闻节目跟普通美国人看的别无二致。</span><span class="english">African-Americans watch the same news at night that ordinary Americans do.</span></p>
 
 <p><span class="chinese">这些场景和美国的其它任何地方别无二致，只有闷热无比的天气显示这里弗吉尼亚，美国的南部地区。</span><span class="english">Only the sultry heat betrays that you are in Virginia and thus in the American South.</span></p>

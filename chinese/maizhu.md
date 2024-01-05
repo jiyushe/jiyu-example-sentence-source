@@ -1,5 +1,7 @@
 # 卖主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maizhu.md)
+
 <p><span class="chinese">卖主标识符?。</span><span class="english">VID? Vender IDentifier?</span></p>
 
 <p><span class="chinese">乔为价格和卖主吵了起来。</span><span class="english">Joe rowed the seller about the price.</span></p>

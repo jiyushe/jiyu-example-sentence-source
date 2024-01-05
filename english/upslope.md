@@ -1,5 +1,7 @@
 # upslope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/upslope.md)
+
 <p><span class="chinese">长右狗腿上斜四杆洞，果岭升起左。</span><span class="english">Upslope long Par 4, dogleg right, elevated green.</span></p>
 
 <p><span class="chinese">上坡雾通常是密集，并延伸到高海拔地区。</span><span class="english">Upslope fog is usually dense, and extends to high altitudes.</span></p>

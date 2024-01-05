@@ -1,5 +1,7 @@
 # 出洋相
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuyangxiang.md)
+
 <p><span class="chinese">上课不能做鬼脸，出洋相。</span><span class="english">You have ton't do expressions in class.</span></p>
 
 <p><span class="chinese">当他们出洋相的时候。</span><span class="english">When they make spectacles of themselves.</span></p>

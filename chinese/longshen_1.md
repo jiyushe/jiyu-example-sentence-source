@@ -1,5 +1,7 @@
 # 龙身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/longshen_1.md)
+
 <p><span class="chinese">龙头与分段的龙身，都用布连接。</span><span class="english">The cloth dragon has a separate dragon head and body, which is connected with cloth.</span></p>
 
 <p><span class="chinese">现在，快点。离我施展在龙身上的法术消散没多少时间了。</span><span class="english">Now, hurry. We do not have much time before the spell under which I placed the dragon expires.</span></p>

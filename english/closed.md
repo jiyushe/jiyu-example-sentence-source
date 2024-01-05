@@ -1,5 +1,7 @@
 # closed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/closed.md)
+
 <p><span class="chinese">他闭上眼睛。</span><span class="english">He closed his eyes.</span></p>
 
 <p><span class="chinese">他思想闭塞僵化。</span><span class="english">He has a closed mind.</span></p>

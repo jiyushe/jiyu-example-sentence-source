@@ -1,5 +1,7 @@
 # cai
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cai.md)
+
 <p><span class="chinese">蔡琴是一位女低音歌手。</span><span class="english">Cai Qin is a contralto.</span></p>
 
 <p><span class="chinese">蔡先生住在什么地方？</span><span class="english">Where does Mr. Cai live?</span></p>

@@ -1,5 +1,7 @@
 # homework
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homework.md)
+
 <p><span class="chinese">这是我的暑假作业。</span><span class="english">It is my homework.</span></p>
 
 <p><span class="chinese">我会对作业进行总结。</span><span class="english">Homework will be posed.</span></p>

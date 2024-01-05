@@ -1,5 +1,7 @@
 # fluorescein
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluorescein.md)
+
 <p><span class="chinese">目的研究眼底荧光造影术的安全性。</span><span class="english">Objective To investigate the safety of fluorescein angiography.</span></p>
 
 <p><span class="chinese">羟苯乙酯在荧光素钠滴眼剂中的防腐良好。</span><span class="english">Ethylparaben is a good antiseptic in fluorescein sodium eyedrop.</span></p>

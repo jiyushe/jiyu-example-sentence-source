@@ -1,5 +1,7 @@
 # 自个儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zigeer.md)
+
 <p><span class="chinese">一个人自个儿瞎琢磨的，叫犯贱。</span><span class="english">A person was thinking, called.</span></p>
 
 <p><span class="chinese">让我们自个儿朗读课文吧。</span><span class="english">Allow us to read the text alone.</span></p>

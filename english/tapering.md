@@ -1,5 +1,7 @@
 # tapering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tapering.md)
+
 <p><span class="chinese">藋藋竹竿、以钓于淇。</span><span class="english">With your long and tapering bamboo rods.</span></p>
 
 <p><span class="chinese">狂暴的飓风逐渐停息下来了。</span><span class="english">The severity of the hurricane is tapering off at last.</span></p>

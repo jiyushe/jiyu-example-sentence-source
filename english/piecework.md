@@ -1,5 +1,7 @@
 # piecework
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piecework.md)
+
 <p><span class="chinese">我拿的是记件工资。</span><span class="english">I'm paid on a piecework basis.</span></p>
 
 <p><span class="chinese">模具型芯的加工一般都是单件生产。</span><span class="english">The mold core processing all is generally the piecework.</span></p>

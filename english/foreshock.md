@@ -1,5 +1,7 @@
 # foreshock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foreshock.md)
+
 <p><span class="chinese">前震活动的增加引发了疏散警报。</span><span class="english">An increase in foreshock activity triggered the evacuation warning.</span></p>
 
 <p><span class="chinese">一场地震是一场更大地震前震的概率有多大？</span><span class="english">What is the probability that an earthquake is a foreshock to a larger earthquake?</span></p>

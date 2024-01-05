@@ -1,5 +1,7 @@
 # 评级
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingji.md)
+
 <p><span class="chinese">大公国际对这笔债券给出了AAA评级。</span><span class="english">Dagong rated the debt AAA.</span></p>
 
 <p><span class="chinese">他的评级便显得不再那么困难了“</span><span class="english">His grading was not hard."</span></p>

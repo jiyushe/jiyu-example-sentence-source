@@ -1,5 +1,7 @@
 # 透视图
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toushitu.md)
+
 <p><span class="chinese">什么是两点透视图？。</span><span class="english">What is Two-Point Perspective Drawing?</span></p>
 
 <p><span class="chinese">一个或多个视图可组成一个透视图。</span><span class="english">One or more views make up a perspective.</span></p>

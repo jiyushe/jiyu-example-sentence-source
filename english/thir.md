@@ -1,5 +1,7 @@
 # thir
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thir.md)
+
 <p><span class="chinese">人们已由嫉妒转变到钦佩他们的杰出才干。</span><span class="english">Jealousy gave way to admiration of thir prowess.</span></p>
 
 <p><span class="chinese">欢迎大家来欣赏他们的演唱，并同他们一起高歌吧。</span><span class="english">They welcome everyone to enjoy thir songs and to sing loudly with them together.</span></p>

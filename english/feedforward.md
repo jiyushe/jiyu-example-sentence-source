@@ -1,5 +1,7 @@
 # feedforward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feedforward.md)
+
 <p><span class="chinese">在前馈中，没有“失败”一说。</span><span class="english">There is no such thing as failure just Feedforward.</span></p>
 
 <p><span class="chinese">本文提出了有限规模多层前向网络的概念。</span><span class="english">The concept of scale-limited feedforward networks is put forward in the paper.</span></p>

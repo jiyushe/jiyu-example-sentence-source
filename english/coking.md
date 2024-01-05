@@ -1,5 +1,7 @@
 # coking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coking.md)
+
 <p><span class="chinese">水对体系的结焦有促进作用。</span><span class="english">The water can resist the coking.</span></p>
 
 <p><span class="chinese">每年，这个煤矿都会产出5百万公吨的焦煤。</span><span class="english">It produces 5m tonnes of coking coal a year.</span></p>

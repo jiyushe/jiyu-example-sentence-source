@@ -1,5 +1,7 @@
 # 作茧自缚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuojianzifu.md)
+
 <p><span class="chinese">她却说，“我们都只不过是作茧自缚哦。”</span><span class="english">And she said , We are all just prisoners here, of our own device.</span></p>
 
 <p><span class="chinese">艾哈迈迪内贾德总统称决议为“一纸空文”，这其实是作茧自缚之举。</span><span class="english">Its president has called the UN resolution a "piece of torn paper".</span></p>

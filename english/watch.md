@@ -1,5 +1,7 @@
 # watch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/watch.md)
+
 <p><span class="chinese">看电影。</span><span class="english">Watch films.</span></p>
 
 <p><span class="chinese">少看电视。</span><span class="english">Watch less TV.</span></p>

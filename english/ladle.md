@@ -1,5 +1,7 @@
 # ladle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ladle.md)
+
 <p><span class="chinese">我用了一柄长柄汤杓。</span><span class="english">I use a soup ladle.</span></p>
 
 <p><span class="chinese">锅子和杓子是一起的。</span><span class="english">Pot and ladle go together.</span></p>

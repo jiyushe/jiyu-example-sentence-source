@@ -1,5 +1,7 @@
 # area
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/area.md)
+
 <p><span class="chinese">服务区?。</span><span class="english">Service Area?</span></p>
 
 <p><span class="chinese">观鱼区？</span><span class="english">Fish Watching Area?</span></p>

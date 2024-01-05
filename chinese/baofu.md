@@ -1,5 +1,7 @@
 # 暴富
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baofu.md)
+
 <p><span class="chinese">那些贫儿暴富的故事我听腻了。</span><span class="english">I am fed up with those rag-to-riches story.</span></p>
 
 <p><span class="chinese">可是谁能想到这样一笔暴富之源让以色列无可避免的深感头疼。</span><span class="english">But such bonanzas inevitably bring headaches.</span></p>

@@ -1,5 +1,7 @@
 # 冤家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanjia.md)
+
 <p><span class="chinese">我的冤家约请我看电视。</span><span class="english">My friend invited me to watch TV.</span></p>
 
 <p><span class="chinese">李和林成了欢喜冤家。</span><span class="english">Li and Lin became quarrelsome lovers.</span></p>

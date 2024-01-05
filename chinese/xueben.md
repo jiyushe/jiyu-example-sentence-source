@@ -1,5 +1,7 @@
 # 血本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xueben.md)
+
 <p><span class="chinese">供热公司如此下血本，实在是无奈啊。</span><span class="english">Heating bill, so the company is helpless now.</span></p>
 
 <p><span class="chinese">所谓初生牛犊不怕虎，相信力帆在520上是下了“血本”的。</span><span class="english">Not afraid of the so-called tiger, trust Lifan 520 is under the "original capital" of the.</span></p>

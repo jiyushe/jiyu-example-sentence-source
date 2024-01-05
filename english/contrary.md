@@ -1,5 +1,7 @@
 # contrary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contrary.md)
+
 <p><span class="chinese">恰恰相反。</span><span class="english">Quite the contrary.</span></p>
 
 <p><span class="chinese">从某个相反的方向看来。</span><span class="english">In some ways, to the contrary.</span></p>

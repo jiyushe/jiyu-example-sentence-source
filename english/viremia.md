@@ -1,5 +1,7 @@
 # viremia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/viremia.md)
+
 <p><span class="chinese">少数鸭的病毒血症可持续50天以上。</span><span class="english">Whereas, there were a few ducks whose viremia persisted for more than 50 days.</span></p>
 
 <p><span class="chinese">PRRS毒血清转换和毒血症通常发生在生产育苗阶段。</span><span class="english">PRRSV seroconversion and viremia typically occur during the nursery phase of production.</span></p>

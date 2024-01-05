@@ -1,5 +1,7 @@
 # 杂活
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zahuo.md)
+
 <p><span class="chinese">杂活落到了他的头上。</span><span class="english">The chore fell to him.</span></p>
 
 <p><span class="chinese">我今天有太多的杂活要做。</span><span class="english">I have so many chores to do today.</span></p>

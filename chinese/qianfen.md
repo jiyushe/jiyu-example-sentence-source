@@ -1,5 +1,7 @@
 # 铅粉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianfen.md)
+
 <p><span class="chinese">有时将铅丹加到铅粉中。</span><span class="english">Occasionally red lead is added to the leady oxide.</span></p>
 
 <p><span class="chinese">铅粉可以放在单独的金属筒内储存。</span><span class="english">The storage of lead oxide can be done in individual metal drums.</span></p>

@@ -1,5 +1,7 @@
 # 增幅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zengfu.md)
+
 <p><span class="chinese">若你已支付其3蓝的增幅费用，则你抽X张牌。</span><span class="english">If you paid the 3U kicker cost, you draw X cards.</span></p>
 
 <p><span class="chinese">略微提高魔法增幅力上限值。</span><span class="english">Slightly increased the upper limit for the Magic Boost stat.</span></p>

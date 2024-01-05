@@ -1,5 +1,7 @@
 # 山道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shandao_1.md)
+
 <p><span class="chinese">午饭过后，我们立即前往山道的起点。</span><span class="english">Immediately after lunch we made for the trailhead.</span></p>
 
 <p><span class="chinese">可由青山道及元龍街前往。</span><span class="english">It is accessible from Castle Peak Road and Yuen Lung Street.</span></p>

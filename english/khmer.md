@@ -1,5 +1,7 @@
 # khmer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/khmer.md)
+
 <p><span class="chinese">红色高棉领导人波尔布特1998年去世。</span><span class="english">Khmer Rouge leader Pol Pot died in 1998.</span></p>
 
 <p><span class="chinese">旧时重现的现场，高棉妇女在做饭。</span><span class="english">In a reenactment scene, Khmer women cooking.</span></p>

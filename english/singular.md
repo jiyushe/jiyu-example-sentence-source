@@ -1,5 +1,7 @@
 # singular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/singular.md)
+
 <p><span class="chinese">这个词没有单数形式。</span><span class="english">"Trousers" has no singular.</span></p>
 
 <p><span class="chinese">那是一种光怪陆离的杂拌儿。</span><span class="english">It was a singular pell-mell.</span></p>

@@ -1,5 +1,7 @@
 # 奇才
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qicai_2.md)
+
 <p><span class="chinese">另外我的丈夫是一个数学奇才。</span><span class="english">My hubby is a math wiz.</span></p>
 
 <p><span class="chinese">是华盛顿奇才队吗？</span><span class="english">Is it Washington Wizards?</span></p>

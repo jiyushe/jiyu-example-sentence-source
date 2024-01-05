@@ -1,5 +1,7 @@
 # 不相上下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buxiangshangxia.md)
+
 <p><span class="chinese">此外，现在价格也不相上下了。</span><span class="english">And the prices are the same now.</span></p>
 
 <p><span class="chinese">在智力方面海伦和杰克完全不相上下。</span><span class="english">Helen is quite equal to Jack in brains.</span></p>

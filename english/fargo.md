@@ -1,5 +1,7 @@
 # fargo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fargo.md)
+
 <p><span class="chinese">来自法戈的预报或许是个好消息。</span><span class="english">The forecast from Fargo may have good news.</span></p>
 
 <p><span class="chinese">法戈的居民起来的时候看到了你每天看不到的东西。</span><span class="english">And residents in Fargo woke up to something you don't see every day.</span></p>

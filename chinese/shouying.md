@@ -1,5 +1,7 @@
 # 首映
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouying.md)
+
 <p><span class="chinese">该电影将于7月7日在中国首映。</span><span class="english">It will open in China on July 7.</span></p>
 
 <p><span class="chinese">整个首映会在特拉法加广场举行的。</span><span class="english">And it was all in Trafalgar Square</span></p>

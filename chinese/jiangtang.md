@@ -1,5 +1,7 @@
 # 讲堂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangtang.md)
+
 <p><span class="chinese">人性讲堂</span><span class="english">Inner Core</span></p>
 
 <p><span class="chinese">欢迎收看人性讲堂。</span><span class="english">And welcome to the Inner Core.</span></p>

@@ -1,5 +1,7 @@
 # application
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/application.md)
+
 <p><span class="chinese">线夹适用范围广。</span><span class="english">Wide application range.</span></p>
 
 <p><span class="chinese">此应用程序是非模态的。</span><span class="english">The application is amodal.</span></p>

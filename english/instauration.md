@@ -1,5 +1,7 @@
 # instauration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/instauration.md)
+
 <p><span class="chinese">庞很惧怕杰姬恢复记忆。</span><span class="english">Ponti very afraid Jackie instauration memory.</span></p>
 
 <p><span class="chinese">你走后，我又恢复了独自一人的状态。</span><span class="english">After you left, I again instauration alone state.</span></p>

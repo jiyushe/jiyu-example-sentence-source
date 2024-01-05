@@ -1,5 +1,7 @@
 # overvoltage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overvoltage.md)
+
 <p><span class="chinese">对机械触点的过流或过压的保护。</span><span class="english">Protection of a mechanical contact against overcurrent or overvoltage.</span></p>
 
 <p><span class="chinese">为明确起见，图中省略了过压二极管和保护电路。</span><span class="english">For clarity, the figure omits overvoltage diodes and protection circuits.</span></p>

@@ -1,5 +1,7 @@
 # 老糊涂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laohutu.md)
+
 <p><span class="chinese">你是一个老糊涂。</span><span class="english">You are a dotard.</span></p>
 
 <p><span class="chinese">他有点儿老糊涂了。</span><span class="english">He has gone quite gaga.</span></p>

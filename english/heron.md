@@ -1,5 +1,7 @@
 # heron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heron.md)
+
 <p><span class="chinese">煮鸡蛋做的鹭。</span><span class="english">Heron made of boiled egg.</span></p>
 
 <p><span class="chinese">我练步，像只苍鹭那样。</span><span class="english">I am practicing to walk like a heron.</span></p>

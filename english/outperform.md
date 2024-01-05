@@ -1,5 +1,7 @@
 # outperform
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outperform.md)
+
 <p><span class="chinese">我们需要帮助青年人在追求和平中，超越他们的前辈。</span><span class="english">And we need to help them outperform us in the pursuit of peace.</span></p>
 
 <p><span class="chinese">正如我们之前所了解到的那样，人心齐，泰山移，伟大的团队胜过伟大的个体。</span><span class="english">As we learned before, great groups outperform great individuals.</span></p>

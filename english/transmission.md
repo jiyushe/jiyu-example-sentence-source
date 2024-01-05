@@ -1,5 +1,7 @@
 # transmission
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transmission.md)
+
 <p><span class="chinese">这是传送的回条。</span><span class="english">Here's the transmission slip.</span></p>
 
 <p><span class="chinese">什么是文化传递性？</span><span class="english">What is cultural transmission?</span></p>

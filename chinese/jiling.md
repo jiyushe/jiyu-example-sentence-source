@@ -1,5 +1,7 @@
 # 即令
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiling.md)
+
 <p><span class="chinese">他即令有钱，也是很少的。</span><span class="english">He has little, if any, money.</span></p>
 
 <p><span class="chinese">但是即令狮子和羔羊也能找到共同的基础。</span><span class="english">But even lions and lambs find common ground.</span></p>

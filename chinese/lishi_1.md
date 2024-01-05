@@ -1,5 +1,7 @@
 # 力士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lishi_1.md)
+
 <p><span class="chinese">如何采购壳牌新一代得力士液压油?。</span><span class="english">Where can I purchase Shell Tellus?</span></p>
 
 <p><span class="chinese">我的住址是力士门区，怀特街16号。</span><span class="english">I live at 16 White Street, Richmond.</span></p>

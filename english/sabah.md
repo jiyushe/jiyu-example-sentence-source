@@ -1,5 +1,7 @@
 # sabah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sabah.md)
+
 <p><span class="chinese">沙巴或西菲律宾海？</span><span class="english">Sabah or West Phl Sea?</span></p>
 
 <p><span class="chinese">沙巴和沙捞越的自主权在哪里？</span><span class="english">Where is the Sabah and Sarawak autonomy?</span></p>

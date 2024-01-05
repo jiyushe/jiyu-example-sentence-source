@@ -1,5 +1,7 @@
 # asphaltum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asphaltum.md)
+
 <p><span class="chinese">可采用沥青混凝土或水泥混凝土，并具有一定的强度和稳定性。</span><span class="english">Asphaltum concrete or cement concrete can be applied to ensure certain strength and stability.</span></p>
 
 <p><span class="chinese">阿尔巴尼亚的主要矿藏有石油、沥青、铬、铜、镍、铁、煤等。</span><span class="english">Main mines in Albania include petroleum, asphaltum , chrome, copper, nickel, iron, coal and so on.</span></p>

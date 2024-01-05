@@ -1,5 +1,7 @@
 # stood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stood.md)
+
 <p><span class="chinese">凯站起身。</span><span class="english">Kiah stood up.</span></p>
 
 <p><span class="chinese">他却让我空等一场。</span><span class="english">He stood me up.</span></p>

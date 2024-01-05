@@ -1,5 +1,7 @@
 # practicable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/practicable.md)
+
 <p><span class="chinese">海藻净化的新系统现在已经在技术上可行了。</span><span class="english">The system is practicable now.</span></p>
 
 <p><span class="chinese">生产计划要订得落实。</span><span class="english">Production plans must be practicable.</span></p>

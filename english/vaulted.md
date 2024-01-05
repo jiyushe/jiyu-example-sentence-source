@@ -1,5 +1,7 @@
 # vaulted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vaulted.md)
+
 <p><span class="chinese">骑士一跃而跨坐鞍上。</span><span class="english">The jockey vaulted into the saddle.</span></p>
 
 <p><span class="chinese">他来到大门前，一跃而过。</span><span class="english">He came to the gate and vaulted over.</span></p>

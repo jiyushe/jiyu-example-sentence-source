@@ -1,5 +1,7 @@
 # elucidation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elucidation.md)
+
 <p><span class="chinese">玩之前请看游戏说明。</span><span class="english">Please see game elucidation before play.</span></p>
 
 <p><span class="chinese">“天方夜谭！”男人给儿子的“谬论”下了定义。</span><span class="english">"Arabian Nights! "The man gives the elucidation in the son's"Miu theory".</span></p>

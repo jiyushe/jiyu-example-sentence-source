@@ -1,5 +1,7 @@
 # mecca
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mecca.md)
+
 <p><span class="chinese">朝圣者们乘专机去麦加。</span><span class="english">He went to Mecca as a pilgrim.</span></p>
 
 <p><span class="chinese">禅林和文化圣地。</span><span class="english">Buddhist temple and cultural Mecca.</span></p>

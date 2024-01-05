@@ -1,5 +1,7 @@
 # declarative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/declarative.md)
+
 <p><span class="chinese">嗯，这是个陈述性的说法。</span><span class="english">Right. Here's a declarative statement.</span></p>
 
 <p><span class="chinese">好，陈述性知识是什么？</span><span class="english">Right. What in the world is declarative knowledge?</span></p>

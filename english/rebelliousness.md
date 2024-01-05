@@ -1,5 +1,7 @@
 # rebelliousness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rebelliousness.md)
+
 <p><span class="chinese">我想我有一点反叛连胜了。</span><span class="english">I think I had a little streak of rebelliousness too.</span></p>
 
 <p><span class="chinese">然而，最后正是由于他的反叛导致了他被开除出了学校。</span><span class="english">However, it was his rebelliousness in the end that caused him to be expelled.</span></p>

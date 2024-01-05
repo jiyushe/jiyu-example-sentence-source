@@ -1,5 +1,7 @@
 # 效验
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaoyan_1.md)
+
 <p><span class="chinese">为什么这个〈楞严咒〉一念，那个先梵天咒就没有效验了呢？</span><span class="english">Why was the mantra from the Brahma Heavens rendered useless?</span></p>
 
 <p><span class="chinese">我们进行了重大改革，也几多有些效验。</span><span class="english">We are making big reforms and are achieving somewhat better results now.</span></p>

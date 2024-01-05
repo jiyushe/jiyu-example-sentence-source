@@ -1,5 +1,7 @@
 # 野马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yema.md)
+
 <p><span class="chinese">他正在用套索套一匹野马。</span><span class="english">He was roping a wild horse.</span></p>
 
 <p><span class="chinese">野马很快就被驯服了。</span><span class="english">The wild horse tamed quickly.</span></p>

@@ -1,5 +1,7 @@
 # indolent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indolent.md)
+
 <p><span class="chinese">他们都和猫儿一样，懒惰驯良。</span><span class="english">They are as heedless and as indolent as cats.</span></p>
 
 <p><span class="chinese">它和美丽的地上居民表现出的懒惰和安详有何关系？</span><span class="english">How was it related to the indolent serenity of the beautiful Upper-worlders?</span></p>

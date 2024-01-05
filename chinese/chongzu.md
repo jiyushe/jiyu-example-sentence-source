@@ -1,5 +1,7 @@
 # 充足
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongzu.md)
+
 <p><span class="chinese">货源充足，价格低廉。</span><span class="english">Ample supply, low prices.</span></p>
 
 <p><span class="chinese">但是皒并没囿充足魡时间。</span><span class="english">But I have not enough time.</span></p>

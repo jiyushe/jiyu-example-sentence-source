@@ -1,5 +1,7 @@
 # astrocyte
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astrocyte.md)
+
 <p><span class="chinese">容应与星形胶质细胞及神经功能修复研究相关。</span><span class="english">Inclusive criterion was those papers of astrocyte and nerve functional recovery.</span></p>
 
 <p><span class="chinese">细胞周期事件与星形胶质细胞的增殖活化密切相关。</span><span class="english">The cell cycle events are related with proliferation and activation of astrocyte closely.</span></p>

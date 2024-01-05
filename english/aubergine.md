@@ -1,5 +1,7 @@
 # aubergine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aubergine.md)
+
 <p><span class="chinese">紫红色是代替沉闷黑色的最佳选择。</span><span class="english">Aubergine is an interesting alternative to boring black.</span></p>
 
 <p><span class="chinese">辣香肠，茄子，黑橄榄，西红柿，罗素叶酱。</span><span class="english">Homemade stracci pasta with spicy Italian sausage, aubergine.</span></p>

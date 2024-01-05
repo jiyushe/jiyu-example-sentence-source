@@ -1,5 +1,7 @@
 # 载流子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zailiuzi.md)
+
 <p><span class="chinese">其中，热载流子效应是最主要的失效机理之一。</span><span class="english">And HCE is one of the most common failure mechanisms.</span></p>
 
 <p><span class="chinese">在这个区内的载流子浓度被消耗殆尽。</span><span class="english">The density of carriers in the region has been depleted.</span></p>

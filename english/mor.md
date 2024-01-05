@@ -1,5 +1,7 @@
 # mor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mor.md)
+
 <p><span class="chinese">他无法吃到烤面包。</span><span class="english">He couldn't eat toasts any mor.</span></p>
 
 <p><span class="chinese">因此我毫不知晓莫里得病的情况。</span><span class="english">So I did not know of Mor rie's illness.</span></p>

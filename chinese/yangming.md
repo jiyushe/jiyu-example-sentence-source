@@ -1,5 +1,7 @@
 # 扬名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangming.md)
+
 <p><span class="chinese">她想要扬名世界。</span><span class="english">She wants to get about the world.</span></p>
 
 <p><span class="chinese">我认为雷克斯将会扬名四海。</span><span class="english">I think that Rex will go far and become famous.</span></p>

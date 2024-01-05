@@ -1,5 +1,7 @@
 # 帐幕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangmu.md)
+
 <p><span class="chinese">童子军们在田野里张起帐幕。</span><span class="english">The boy scouts pitched a tent in a field.</span></p>
 
 <p><span class="chinese">神在其间为太阳安设帐幕。</span><span class="english">In them hath he set a tabernacle for the sun</span></p>

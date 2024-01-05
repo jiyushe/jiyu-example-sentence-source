@@ -1,5 +1,7 @@
 # aflutter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aflutter.md)
+
 <p><span class="chinese">旗子迎风飘扬。</span><span class="english">With flags aflutter.</span></p>
 
 <p><span class="chinese">旗帜在空中飘扬。</span><span class="english">The flag was aflutter in the air.</span></p>

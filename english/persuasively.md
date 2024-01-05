@@ -1,5 +1,7 @@
 # persuasively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/persuasively.md)
+
 <p><span class="chinese">发言时采取有理有据的沟通方式</span><span class="english">Communicate persuasively when speaking</span></p>
 
 <p><span class="chinese">他说得头头是道，但我觉得有些可疑，于是拒绝了他的建议。</span><span class="english">He spoke a very persuasively but I smelled a rat and refused his offer.</span></p>

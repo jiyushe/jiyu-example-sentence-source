@@ -1,5 +1,7 @@
 # 强加于人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangjiayuren.md)
+
 <p><span class="chinese">不要把你的想法强加于人。</span><span class="english">Don't force your views on others.</span></p>
 
 <p><span class="chinese">不要将你的观点强加于人。</span><span class="english">Don't obtrude your ideas upon others.</span></p>

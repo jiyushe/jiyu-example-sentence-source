@@ -1,5 +1,7 @@
 # quicklime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quicklime.md)
+
 <p><span class="chinese">生石灰与水化合成为消石灰。</span><span class="english">Quicklime combines with water to form slaked lime.</span></p>
 
 <p><span class="chinese">硫酸铜和生石灰的溶液，用作杀真菌剂。</span><span class="english">A solution of copper sulfate and quicklime used as a fungicide.</span></p>

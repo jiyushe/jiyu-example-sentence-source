@@ -1,5 +1,7 @@
 # ber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ber.md)
+
 <p><span class="chinese">给我看，我可能也记不住。</span><span class="english">Show me, and I may not reme ber.</span></p>
 
 <p><span class="chinese">他们经常在十二月份去滑雪。</span><span class="english">They often go skiing in Decem ber.</span></p>

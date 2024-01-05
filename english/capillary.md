@@ -1,5 +1,7 @@
 # capillary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capillary.md)
+
 <p><span class="chinese">毛细管长度不应超过10米。</span><span class="english">Capillary length shall not exceed 10 metres.</span></p>
 
 <p><span class="chinese">采用螺纹或法兰毛细管联接。</span><span class="english">Using thread or flange capillary connection.</span></p>

@@ -1,5 +1,7 @@
 # strategically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strategically.md)
+
 <p><span class="chinese">该公司本季度战略上取得进展。</span><span class="english">The company advanced strategically in the quarter.</span></p>
 
 <p><span class="chinese">在战略上，八路军正以山西为中心进行战争。</span><span class="english">Strategically , the Eighth Route Army is centring them on Shansi.</span></p>

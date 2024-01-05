@@ -1,5 +1,7 @@
 # 千人一面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianrenyimian.md)
+
 <p><span class="chinese">大人物经常是千人一面。</span><span class="english">The great man is too often all of a piece.</span></p>
 
 <p><span class="chinese">千人一面，千篇一律，不可能出一流大学”。</span><span class="english">Thousand side, fits, can not be a first-class university.</span></p>

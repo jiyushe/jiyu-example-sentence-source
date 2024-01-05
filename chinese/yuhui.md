@@ -1,5 +1,7 @@
 # 与会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuhui.md)
+
 <p><span class="chinese">与会人员还观摩了方国胜工作室。</span><span class="english">Participants also watched the Fang Guosheng studio.</span></p>
 
 <p><span class="chinese">这里发表的是15位与会学者的笔谈。</span><span class="english">Collected here are papers of 15 of the participants.</span></p>

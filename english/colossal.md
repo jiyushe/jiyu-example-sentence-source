@@ -1,5 +1,7 @@
 # colossal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colossal.md)
+
 <p><span class="chinese">它是一种巨大的鳄鱼。</span><span class="english">It was a colossal crocodilian.</span></p>
 
 <p><span class="chinese">这是一个巨大的判断错误。</span><span class="english">This was a colossal misjudgment.</span></p>

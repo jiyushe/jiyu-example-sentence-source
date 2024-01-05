@@ -1,5 +1,7 @@
 # 攀折
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/panzhe.md)
+
 <p><span class="chinese">本园花木不得攀折。</span><span class="english">Flowers beautify a garden.</span></p>
 
 <p><span class="chinese">请勿攀折花木。</span><span class="english">Please don't pick the flowers.</span></p>

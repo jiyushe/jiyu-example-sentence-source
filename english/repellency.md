@@ -1,5 +1,7 @@
 # repellency
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/repellency.md)
+
 <p><span class="chinese">防护性不只限于嗅觉感官。</span><span class="english">Repellency is not confined to the olfactory senses.</span></p>
 
 <p><span class="chinese">用于保护新的防水性有很理想。</span><span class="english">Ideal for protecting the water- repellency on new garments.</span></p>

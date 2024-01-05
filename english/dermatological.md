@@ -1,5 +1,7 @@
 # dermatological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dermatological.md)
+
 <p><span class="chinese">和她的同事在皮肤科医学同意。</span><span class="english">And her colleagues in the field of dermatological medicine agree.</span></p>
 
 <p><span class="chinese">它们可以用于许多化妆和皮肤病学应用。</span><span class="english">They can be used in many cosmetic and dermatological applications.</span></p>

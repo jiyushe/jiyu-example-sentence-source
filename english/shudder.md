@@ -1,5 +1,7 @@
 # shudder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shudder.md)
+
 <p><span class="chinese">她颤抖着退缩了。</span><span class="english">She recoiled with a shudder.</span></p>
 
 <p><span class="chinese">她竭力遏制自己，不打哆嗦。</span><span class="english">She forced herself not to shudder.</span></p>

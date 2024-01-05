@@ -1,5 +1,7 @@
 # solarization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solarization.md)
+
 <p><span class="chinese">特别适合日晒后的皮肤。</span><span class="english">After especially qualify solarization skin.</span></p>
 
 <p><span class="chinese">本发明用于制造耐老化性优异且铂节瘤的产生受到抑制的光学玻璃。</span><span class="english">An optical glass which has excellent unsusceptibility to solarization and is prevented from generating platinum knots.</span></p>

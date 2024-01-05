@@ -1,5 +1,7 @@
 # subscribe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subscribe.md)
+
 <p><span class="chinese">请订阅本频道。</span><span class="english">Please subscribe this channel.</span></p>
 
 <p><span class="chinese">订阅我们的免费邮件。</span><span class="english">Subscribe to our free e-mails.</span></p>

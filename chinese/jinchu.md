@@ -1,5 +1,7 @@
 # 近处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinchu.md)
+
 <p><span class="chinese">我到您窗子下面的近处来望望。</span><span class="english">I come to gaze upon your windows near at hand.</span></p>
 
 <p><span class="chinese">这些声响仍然在近处咿咿呀呀。</span><span class="english">And still those voices are calling from far away.</span></p>

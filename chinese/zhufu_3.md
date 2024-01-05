@@ -1,5 +1,7 @@
 # 祝福
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhufu_3.md)
+
 <p><span class="chinese">他们都祝福我。</span><span class="english">They blessed me.</span></p>
 
 <p><span class="chinese">祝福你，我的孩子！</span><span class="english">Bless you, my boy!</span></p>

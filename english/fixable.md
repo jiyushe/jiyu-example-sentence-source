@@ -1,5 +1,7 @@
 # fixable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fixable.md)
+
 <p><span class="chinese">常见的，这是可以通过密码重置一页。</span><span class="english">Commonly this is fixable via the password reset page.</span></p>
 
 <p><span class="chinese">第二个是简单的深度图层的显示，因此它容易地是可修理的。</span><span class="english">The second one was just simple depth clipping, so it was easily fixable.</span></p>

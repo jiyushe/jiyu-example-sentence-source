@@ -1,5 +1,7 @@
 # manufacturing 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manufacturing.md)
+
 <p><span class="chinese">生产设备。</span><span class="english">The manufacturing facility.</span></p>
 
 <p><span class="chinese">什么是制造费用呢？</span><span class="english">What is manufacturing overhead?</span></p>

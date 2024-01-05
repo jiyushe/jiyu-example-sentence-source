@@ -1,5 +1,7 @@
 # carnitine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carnitine.md)
+
 <p><span class="chinese">肉毒碱，减缓肉疼痛。</span><span class="english">Carnitine appears to decrease muscle soreness.</span></p>
 
 <p><span class="chinese">这也可能是肉碱可以帮助神经再生。</span><span class="english">It is also possible that carnitine can help nerves regenerate.</span></p>

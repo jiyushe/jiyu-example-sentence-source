@@ -1,5 +1,7 @@
 # dulcet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dulcet.md)
+
 <p><span class="chinese">溪水发出的优美声音让我陶醉。</span><span class="english">The dulcet sound of the stream ravishes me.</span></p>
 
 <p><span class="chinese">幸好，我把这些欢笑都用手机拍下来了。</span><span class="english">Luckily, I shoot the dulcet time by my cell.</span></p>

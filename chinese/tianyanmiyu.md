@@ -1,5 +1,7 @@
 # 甜言蜜语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianyanmiyu.md)
+
 <p><span class="chinese">不要给我说些甜言蜜语了。</span><span class="english">Don't give me sweet talk.</span></p>
 
 <p><span class="chinese">不只是甜言蜜语。</span><span class="english">Not only for honeyed words.</span></p>

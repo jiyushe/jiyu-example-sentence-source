@@ -1,5 +1,7 @@
 # 跳动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiaodong_1.md)
+
 <p><span class="chinese">他的心脏停止了跳动。</span><span class="english">His heart stopped beating.</span></p>
 
 <p><span class="chinese">平波上跳动的晶莹。</span><span class="english">The leaping of level wave!</span></p>

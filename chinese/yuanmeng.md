@@ -1,5 +1,7 @@
 # 圆梦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanmeng.md)
+
 <p><span class="chinese">何以能寻梦、追梦、圆梦？</span><span class="english">How can you seek, pursue and fulfill your dreams?</span></p>
 
 <p><span class="chinese">几时业成归来，畅怀饮，再圆梦?。</span><span class="english">How long will the industry return, make drink, then dream?</span></p>

@@ -1,5 +1,7 @@
 # swear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swear.md)
+
 <p><span class="chinese">我向上帝发誓。</span><span class="english">I swear to God.</span></p>
 
 <p><span class="chinese">想骂谁就骂谁。</span><span class="english">Swear if I want.</span></p>

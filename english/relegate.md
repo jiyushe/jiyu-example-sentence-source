@@ -1,5 +1,7 @@
 # relegate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relegate.md)
+
 <p><span class="chinese">这类器材甚至可能贬低摩尔定律的地位。</span><span class="english">Such devices may relegate Moore's Law to secondary status.</span></p>
 
 <p><span class="chinese">我们将把这个问题委托组织委员会处理。</span><span class="english">We shall relegate this problem to the organizing committee.</span></p>

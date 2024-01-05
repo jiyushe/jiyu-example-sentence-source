@@ -1,5 +1,7 @@
 # psc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psc.md)
+
 <p><span class="chinese">目前认为肝移植仍是治愈PSC的惟一选择。</span><span class="english">Liver transplantation is still the only choice to cure PSC so far.</span></p>
 
 <p><span class="chinese">PSC中错误和缺陷的判定是一项很复杂的工作。</span><span class="english">It is very complicated to judge errors and defects by means of PSC.</span></p>

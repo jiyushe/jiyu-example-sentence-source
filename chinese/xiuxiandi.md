@@ -1,5 +1,7 @@
 # 休闲地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiuxiandi.md)
+
 <p><span class="chinese">也许是在街区休闲地散步…</span><span class="english">Maybe a casual walk around the block might do it.</span></p>
 
 <p><span class="chinese">那周晚些时候，我们开车回家，我注意到三只肥胖的浣熊在路上休闲地逛着。</span><span class="english">Later that week we were driving home and I noticed three fat raccoons ambling down the road.</span></p>

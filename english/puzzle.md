@@ -1,5 +1,7 @@
 # puzzle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puzzle.md)
+
 <p><span class="chinese">这是一个大谜题。</span><span class="english">It's a huge puzzle.</span></p>
 
 <p><span class="chinese">我喜欢你的字谜。</span><span class="english">I loved your puzzle.</span></p>

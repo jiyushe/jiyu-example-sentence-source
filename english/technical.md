@@ -1,5 +1,7 @@
 # technical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/technical.md)
+
 <p><span class="chinese">技术犯规。</span><span class="english">Technical foul.</span></p>
 
 <p><span class="chinese">这是一个技术活。</span><span class="english">This is a technical job.</span></p>

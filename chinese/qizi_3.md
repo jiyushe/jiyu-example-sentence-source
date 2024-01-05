@@ -1,5 +1,7 @@
 # 棋子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qizi_3.md)
+
 <p><span class="chinese">于是他们有了棋子可下了。</span><span class="english">So they have a pawn can be made.</span></p>
 
 <p><span class="chinese">而你们则是这场游戏中的一个棋子。</span><span class="english">And you are a chessman in this game.</span></p>

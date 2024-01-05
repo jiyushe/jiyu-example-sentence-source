@@ -1,5 +1,7 @@
 # albania
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/albania.md)
+
 <p><span class="chinese">你现在在阿尔巴尼亚呆许多时间吗？</span><span class="english">Do you spend much time in Albania now?</span></p>
 
 <p><span class="chinese">我现在一多半的时候都是在阿尔巴尼亚度过的。</span><span class="english">I now spend more than half of my time in Albania.</span></p>

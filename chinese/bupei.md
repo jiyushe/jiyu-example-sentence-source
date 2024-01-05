@@ -1,5 +1,7 @@
 # 不配
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bupei.md)
+
 <p><span class="chinese">我不配获得这样的荣誉。</span><span class="english">I am unworthy of such an honor.</span></p>
 
 <p><span class="chinese">他不配获得诺贝尔奖。</span><span class="english">He doesn't deserve a Nobel Prize.</span></p>

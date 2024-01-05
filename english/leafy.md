@@ -1,5 +1,7 @@
 # leafy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leafy.md)
+
 <p><span class="chinese">多叶的树下有树荫。</span><span class="english">Leafy trees cast shade.</span></p>
 
 <p><span class="chinese">我可能是你的多叶的岛。</span><span class="english">I could be your leafy island.</span></p>

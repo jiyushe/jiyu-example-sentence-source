@@ -1,5 +1,7 @@
 # resolvent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resolvent.md)
+
 <p><span class="chinese">冲突识别与解决方法。</span><span class="english">The recognition and resolvent of conflicts.</span></p>
 
 <p><span class="chinese">希望这次听证会能产生个好的解决方案。</span><span class="english">Expect the agency hearing can give us a good resolvent.</span></p>

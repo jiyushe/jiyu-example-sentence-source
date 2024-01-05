@@ -1,5 +1,7 @@
 # 董事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dongshi_2.md)
+
 <p><span class="chinese">董事不应加进来。</span><span class="english">Directors don't come into it.</span></p>
 
 <p><span class="chinese">独立非执行董事的角色改变。</span><span class="english">The changing roles of an INED.</span></p>

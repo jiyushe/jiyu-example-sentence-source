@@ -1,5 +1,7 @@
 # editorship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/editorship.md)
+
 <p><span class="chinese">他辞去了校报编辑的职务。</span><span class="english">He resigned the editorship of the school paper.</span></p>
 
 <p><span class="chinese">这本书是由他担任主编出版的。</span><span class="english">The book was issued under his general editorship.</span></p>

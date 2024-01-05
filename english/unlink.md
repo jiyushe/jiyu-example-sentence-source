@@ -1,5 +1,7 @@
 # unlink
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unlink.md)
+
 <p><span class="chinese">选区里没有克隆来解除链接。</span><span class="english">No clones to unlink in the selection.</span></p>
 
 <p><span class="chinese">在层面板下取消蒙版和地图的链接。</span><span class="english">In layer window unlink the mask and map.</span></p>

@@ -1,5 +1,7 @@
 # permeability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/permeability.md)
+
 <p><span class="chinese">其通透性的变化为一个可逆的过程。</span><span class="english">The permeability change is a reversible course.</span></p>
 
 <p><span class="chinese">磁导率是软磁铁氧体材料的基本参数之一。</span><span class="english">Permeability is an important parameter of soft magnetic.</span></p>

@@ -1,5 +1,7 @@
 # 张扬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangyang.md)
+
 <p><span class="chinese">这是一个个性张扬的年代。</span><span class="english">This is a personalism age.</span></p>
 
 <p><span class="chinese">没有，先不要把这件事张扬出去。</span><span class="english">No, don't let it out first.</span></p>

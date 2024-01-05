@@ -1,5 +1,7 @@
 # 尾骨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weigu.md)
+
 <p><span class="chinese">属于、有关或靠近尾骨。</span><span class="english">of or relating to or near the coccyx.</span></p>
 
 <p><span class="chinese">尾骨很酸痛为什么有办法？</span><span class="english">Coccygeal very why does ache have idea?</span></p>

@@ -1,5 +1,7 @@
 # 走神
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zoushen.md)
+
 <p><span class="chinese">人们很容易走神。</span><span class="english">People are easily distracted.</span></p>
 
 <p><span class="chinese">走神实际上是纸老虎。</span><span class="english">Distractions are really paper tigers.</span></p>

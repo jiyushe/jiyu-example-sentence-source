@@ -1,5 +1,7 @@
 # 向前
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangqian.md)
+
 <p><span class="chinese">向前直走。</span><span class="english">Go straight.</span></p>
 
 <p><span class="chinese">我继续扬帆向前驶去。</span><span class="english">And I sailed on.</span></p>

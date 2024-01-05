@@ -1,5 +1,7 @@
 # kelp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kelp.md)
+
 <p><span class="chinese">这是一个巨型海藻的森林。</span><span class="english">This is a forest of giant kelp.</span></p>
 
 <p><span class="chinese">塑料海藻小鱼群。</span><span class="english">Through plastic kelp and Bream.</span></p>

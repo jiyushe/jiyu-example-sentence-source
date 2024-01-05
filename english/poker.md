@@ -1,5 +1,7 @@
 # poker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/poker.md)
+
 <p><span class="chinese">真高赌注的扑克。</span><span class="english">Really high stakes poker.</span></p>
 
 <p><span class="chinese">他一直都是喜怒不形于色。</span><span class="english">He always has this poker face.</span></p>

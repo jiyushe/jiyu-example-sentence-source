@@ -1,5 +1,7 @@
 # 新生界
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinshengjie.md)
+
 <p><span class="chinese">双台子油田为新生界古近系砂岩油气藏。</span><span class="english">Shuangtaizi oil for Cenozoic Paleogene sandstone reservoirs.</span></p>
 
 <p><span class="chinese">近年来，贵州省的新生界研究取得了显著的进展。</span><span class="english">In recent years, the obvious progress have been held in neozoic study of Guizhou.</span></p>

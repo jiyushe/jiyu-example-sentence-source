@@ -1,5 +1,7 @@
 # gcc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gcc.md)
+
 <p><span class="chinese">回车。，GCC，，hi2。c，，enter。,好像工作了。</span><span class="english">GCC hi2 c It seems to work.</span></p>
 
 <p><span class="chinese">这样的话，你们将如何GCC它们呢？</span><span class="english">Well, how do you do this with GCC?</span></p>

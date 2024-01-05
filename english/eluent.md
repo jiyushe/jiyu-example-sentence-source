@@ -1,5 +1,7 @@
 # eluent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eluent.md)
+
 <p><span class="chinese">乙醇水溶液是适宜的洗脱剂。</span><span class="english">Ethanol solution is a kind of efficient eluent.</span></p>
 
 <p><span class="chinese">脱脂奶粉是廉价的蛋白质洗脱剂。</span><span class="english">Nonfat dry milk is an inexpensive proteinaceous eluent.</span></p>

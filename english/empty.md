@@ -1,5 +1,7 @@
 # empty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/empty.md)
+
 <p><span class="chinese">两手空空。</span><span class="english">Hands empty.</span></p>
 
 <p><span class="chinese">这是空的吗？</span><span class="english">Is this empty?</span></p>

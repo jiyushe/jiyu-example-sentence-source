@@ -1,5 +1,7 @@
 # 贪财
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tancai.md)
+
 <p><span class="chinese">他最大的嗜好是贪财。</span><span class="english">Avarice was his prevailing passion.</span></p>
 
 <p><span class="chinese">剥削阶级都贪财。</span><span class="english">The exploiting class lusts for riches.</span></p>

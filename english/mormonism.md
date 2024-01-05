@@ -1,5 +1,7 @@
 # mormonism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mormonism.md)
+
 <p><span class="chinese">然而许多美国人对摩门教有所怀疑。</span><span class="english">Yet many Americans have doubts about Mormonism.</span></p>
 
 <p><span class="chinese">一些投票人因为罗姆尼是摩门教而放弃投票。</span><span class="english">Some voters are put off by Mr Romney’s Mormonism.</span></p>

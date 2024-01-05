@@ -1,5 +1,7 @@
 # 恍若
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huangruo.md)
+
 <p><span class="chinese">念想中的美好，有时候恍若失却了真实。</span><span class="english">The goodness in memory, sometimes seems to lost its truth.</span></p>
 
 <p><span class="chinese">巡游于此恍若漫步于大自然的艺术画廊，美不胜收。</span><span class="english">To cruise here is like wandering in a natural art gallery.</span></p>

@@ -1,5 +1,7 @@
 # nei
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nei.md)
+
 <p><span class="chinese">内蒙古马先蒿属一新变种。</span><span class="english">A new variety of Pedicularis from Nei Mongol.</span></p>
 
 <p><span class="chinese">见NEI关于新建核电厂状况的列表。</span><span class="english">See an NEI table on new nuclear plant status.</span></p>

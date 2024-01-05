@@ -1,5 +1,7 @@
 # fun 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fun.md)
+
 <p><span class="chinese">享受乐趣。</span><span class="english">Have fun.</span></p>
 
 <p><span class="chinese">那不好玩。</span><span class="english">That's no fun.</span></p>

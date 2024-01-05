@@ -1,5 +1,7 @@
 # bistable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bistable.md)
+
 <p><span class="chinese">本文报道了一种光栅光学双稳态装置。</span><span class="english">In this paper, a grating optical bistable device is described.</span></p>
 
 <p><span class="chinese">双稳态触发器电路一种触发器电路，有两种固定状态。</span><span class="english">Bistable Trigger Circuit A trigger circuit that has two stable states.</span></p>

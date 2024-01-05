@@ -1,5 +1,7 @@
 # redid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redid.md)
+
 <p><span class="chinese">我们重建房子了。</span><span class="english">Oh. We redid the house.</span></p>
 
 <p><span class="chinese">地图的边缘进行了圆滑处理，重做了所有的高山和河流。</span><span class="english">Smoothed the edges of the map, redid the Alps and all rivers.</span></p>

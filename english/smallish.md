@@ -1,5 +1,7 @@
 # smallish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smallish.md)
+
 <p><span class="chinese">另一种是短小超薄型。</span><span class="english">Another kind is smallish and ultrathin model.</span></p>
 
 <p><span class="chinese">镀金铜质加一颗小钻。</span><span class="english">Bronze plated with gold and a smallish diamond.</span></p>

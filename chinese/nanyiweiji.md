@@ -1,5 +1,7 @@
 # 难以为继
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanyiweiji.md)
+
 <p><span class="chinese">这也是难以为继的。</span><span class="english">This, too, is unsustainable.</span></p>
 
 <p><span class="chinese">卡姆穷得丁当响，生活难以为继。</span><span class="english">Life was hard, and Cam was broke.</span></p>

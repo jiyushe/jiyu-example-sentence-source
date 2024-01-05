@@ -1,5 +1,7 @@
 # energetics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/energetics.md)
+
 <p><span class="chinese">现在我们来看看热力学。</span><span class="english">Now let's go and do the energetics.</span></p>
 
 <p><span class="chinese">现在我们要从热力学来研究。</span><span class="english">Now I want to look at the energetics.</span></p>

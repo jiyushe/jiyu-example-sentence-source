@@ -1,5 +1,7 @@
 # 恶梦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/emeng_1.md)
+
 <p><span class="chinese">不，我做了个恶梦。</span><span class="english">No.I had a nightmare.</span></p>
 
 <p><span class="chinese">我仍然生活在恶梦中。</span><span class="english">I still have nightmares.</span></p>

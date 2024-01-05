@@ -1,5 +1,7 @@
 # ply
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ply.md)
+
 <p><span class="chinese">这是几股毛线?两股。</span><span class="english">What ply is this wool?two- ply.</span></p>
 
 <p><span class="chinese">船只在靠近海岸的水域往返航行。</span><span class="english">Ships ply the waters near the coast.</span></p>

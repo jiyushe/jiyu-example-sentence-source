@@ -1,5 +1,7 @@
 # 既往不咎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiwangbujiu.md)
+
 <p><span class="chinese">让我们既往不咎。</span><span class="english">Let's forgive and forget.</span></p>
 
 <p><span class="chinese">我们必须既往不咎。</span><span class="english">We must let bygones be bygones.</span></p>

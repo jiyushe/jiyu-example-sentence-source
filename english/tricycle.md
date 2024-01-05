@@ -1,5 +1,7 @@
 # tricycle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tricycle.md)
+
 <p><span class="chinese">我和我的小三轮车。</span><span class="english">Me and my little tricycle.</span></p>
 
 <p><span class="chinese">那男孩骑着三轮车走了。</span><span class="english">The boy pedalled away on his tricycle.</span></p>

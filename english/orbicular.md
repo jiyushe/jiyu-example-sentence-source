@@ -1,5 +1,7 @@
 # orbicular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orbicular.md)
+
 <p><span class="chinese">这家就这样地完全没落了。</span><span class="english">The household ruin was thus full and orbicular.</span></p>
 
 <p><span class="chinese">宇宙具有严整的秩序，圆满的和谐。</span><span class="english">The cosmos has solemn order and orbicular harmony.</span></p>

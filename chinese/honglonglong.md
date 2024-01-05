@@ -1,5 +1,7 @@
 # 轰隆隆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/honglonglong.md)
+
 <p><span class="chinese">这种轰隆隆的声音震天动地，我们觉得房子的地基都在颤抖。</span><span class="english">We feel the foundations shaking.</span></p>
 
 <p><span class="chinese">激浪轰隆隆地拍打着荒凉的海岸。</span><span class="english">Surf booms upon a desolate shore.</span></p>

@@ -1,5 +1,7 @@
 # 品脱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pintuo.md)
+
 <p><span class="chinese">请来两份半品脱苦啤酒。</span><span class="english">Two halves of bitter, please.</span></p>
 
 <p><span class="chinese">他一口气喝掉了六品脱啤酒。</span><span class="english">He knocked back six pints of beer.</span></p>

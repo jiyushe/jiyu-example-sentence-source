@@ -1,5 +1,7 @@
 # 自我陶醉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziwotaozui.md)
+
 <p><span class="chinese">这是典型的自我陶醉。</span><span class="english">It's classic narcissism.</span></p>
 
 <p><span class="chinese">这真是有些自我陶醉天真烂漫。</span><span class="english">Its a mixture of narcissism and naivety.</span></p>

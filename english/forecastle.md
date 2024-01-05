@@ -1,5 +1,7 @@
 # forecastle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forecastle.md)
+
 <p><span class="chinese">防雨篷在船艏楼左边房间。</span><span class="english">The rain tents are in the forecastle port cabin.</span></p>
 
 <p><span class="chinese">在首部甲板上安装首楼甲板。</span><span class="english">Forecastle deck shall be provided on forward deck.</span></p>

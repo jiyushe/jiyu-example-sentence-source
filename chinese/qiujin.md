@@ -1,5 +1,7 @@
 # 囚禁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiujin.md)
+
 <p><span class="chinese">你从现在开始要被囚禁了。</span><span class="english">You are prisoned from now on.</span></p>
 
 <p><span class="chinese">他被囚禁了两年。</span><span class="english">He was prisoned for two years.</span></p>

@@ -1,5 +1,7 @@
 # culminating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/culminating.md)
+
 <p><span class="chinese">临结束时的霹雳舞将表演推向了高潮。</span><span class="english">The culminating point of the performance was the break dance in the end.</span></p>
 
 <p><span class="chinese">最后一分进行了22拍，随着费德勒的一个大角度反手回球而告终。</span><span class="english">The last point went 22 strokes, culminating with Federer sending a backhand wide.</span></p>

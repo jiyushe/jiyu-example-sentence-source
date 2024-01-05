@@ -1,5 +1,7 @@
 # icu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/icu.md)
+
 <p><span class="chinese">这样边说边走，就把他带进加护病房去了。</span><span class="english">As she talked she led him into the ICU.</span></p>
 
 <p><span class="chinese">他谢过施奈德，来到特别护理病房。</span><span class="english">He thanked Schneider, then walked to the ICU.</span></p>

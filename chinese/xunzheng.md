@@ -1,5 +1,7 @@
 # 熏蒸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xunzheng.md)
+
 <p><span class="chinese">他们熏蒸房子以杀死毒虫。</span><span class="english">They fumigated the house to kill the vermin.</span></p>
 
 <p><span class="chinese">我们的姜黄是从来没有的熏蒸或照射。</span><span class="english">Our Turmeric is never fumigated or irradiated.</span></p>

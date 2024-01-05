@@ -1,5 +1,7 @@
 # 党羽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangyu.md)
+
 <p><span class="chinese">我会搜出“狐狸”和她的党羽。</span><span class="english">I'll ferret out Fox and her gang.</span></p>
 
 <p><span class="chinese">这个单位在克罗地亚参与反党羽操作。</span><span class="english">This unit took part in anti-partisan operations in Croatia.</span></p>

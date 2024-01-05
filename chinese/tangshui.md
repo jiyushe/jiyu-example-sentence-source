@@ -1,5 +1,7 @@
 # 汤水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tangshui.md)
+
 <p><span class="chinese">在汤水中加味精调味吧！</span><span class="english">Season soup with Accent!</span></p>
 
 <p><span class="chinese">竟把汤水溅到我衣服上了。</span><span class="english">The soup is spilt on my suit.</span></p>

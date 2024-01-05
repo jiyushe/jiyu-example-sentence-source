@@ -1,5 +1,7 @@
 # suburban
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suburban.md)
+
 <p><span class="chinese">实际上郊区贫困化问题正在日趋严重。</span><span class="english">It's increasingly a suburban issue.</span></p>
 
 <p><span class="chinese">每个农村妇女都单独地和它作斗争。</span><span class="english">Each suburban wife struggled with it alone.</span></p>

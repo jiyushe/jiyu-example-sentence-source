@@ -1,5 +1,7 @@
 # interlayer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interlayer.md)
+
 <p><span class="chinese">层间滑动带在泗顶矿区非常发育。</span><span class="english">There are many interlayer sliding belts in Siding Pb-Zn mine.</span></p>
 
 <p><span class="chinese">顶层端部开间层间位移最大。</span><span class="english">The interlayer displacement of end bay of the top story is maximal.</span></p>

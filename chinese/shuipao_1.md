@@ -1,5 +1,7 @@
 # 水疱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuipao_1.md)
+
 <p><span class="chinese">她的脚磨出了水疱。</span><span class="english">Blisters were raised on her feet.</span></p>
 
 <p><span class="chinese">他用针扎破水疱。</span><span class="english">He broke the blister with a needle.</span></p>

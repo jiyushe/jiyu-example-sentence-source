@@ -1,5 +1,7 @@
 # parliamentarian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parliamentarian.md)
+
 <p><span class="chinese">巴勒斯坦议员巴尔古提当时也在冲突现场。</span><span class="english">Palestinian parliamentarian Moustafa Barghouti was there.</span></p>
 
 <p><span class="chinese">“我看到某种类似利比亚的情形正在显现”，一位前国会议员如此说道。</span><span class="english">"I see a Libya-style situation unfolding," says a former parliamentarian.</span></p>

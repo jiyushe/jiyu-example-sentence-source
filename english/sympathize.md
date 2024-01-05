@@ -1,5 +1,7 @@
 # sympathize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sympathize.md)
+
 <p><span class="chinese">我对您深表同情!</span><span class="english">I sympathize with you.</span></p>
 
 <p><span class="chinese">我同情治疗团队。</span><span class="english">I sympathize with the staff.</span></p>

@@ -1,5 +1,7 @@
 # 降落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangluo.md)
+
 <p><span class="chinese">降落受电弓！</span><span class="english">Lower the pantograph!</span></p>
 
 <p><span class="chinese">起飞，降落。</span><span class="english">Takeoffs and landings.</span></p>

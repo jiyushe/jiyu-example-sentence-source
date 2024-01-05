@@ -1,5 +1,7 @@
 # 水墨画
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuimohua.md)
+
 <p><span class="chinese">水墨画教学游戏化。</span><span class="english">First, teaching the game of ink.</span></p>
 
 <p><span class="chinese">美丽的西塘就像中国的水墨画一样迷人。</span><span class="english">Beautiful Xitang just like Chinese ink painting.</span></p>

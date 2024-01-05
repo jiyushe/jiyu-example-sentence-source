@@ -1,5 +1,7 @@
 # 挨家挨户
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aijiaaihu.md)
+
 <p><span class="chinese">那时他常常挨家挨户地推销苏打汽水。</span><span class="english">He used to go door-to-door and sell soda pop.</span></p>
 
 <p><span class="chinese">挨家挨户敲门的推销员刻骨铭心地学到了这点。</span><span class="english">The door-to-door guys learned that the hard way.</span></p>

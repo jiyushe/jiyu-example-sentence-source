@@ -1,5 +1,7 @@
 # recognizance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recognizance.md)
+
 <p><span class="chinese">一个杀人案仅仅有个人保证书……</span><span class="english">Personal recognizance for a homicide case.</span></p>
 
 <p><span class="chinese">在交了保证金后被释放。</span><span class="english">Blagojevich is freed on his own recognizance.</span></p>

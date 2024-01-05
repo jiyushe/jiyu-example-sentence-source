@@ -1,5 +1,7 @@
 # 作响
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuoxiang.md)
+
 <p><span class="chinese">耳朵轰隆作响。</span><span class="english">My ears ring.</span></p>
 
 <p><span class="chinese">他使钟丁当作响。</span><span class="english">He dinged the bell.</span></p>

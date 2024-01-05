@@ -1,5 +1,7 @@
 # 现场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianchang.md)
+
 <p><span class="chinese">我看过她的现场表演。</span><span class="english">I saw her live.</span></p>
 
 <p><span class="chinese">现场规划图。</span><span class="english">Site location plan.</span></p>

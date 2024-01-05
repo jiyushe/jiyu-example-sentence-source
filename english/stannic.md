@@ -1,5 +1,7 @@
 # stannic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stannic.md)
+
 <p><span class="chinese">二氧化锡薄膜应用广泛。</span><span class="english">The stannic oxide thin films have numerous applications.</span></p>
 
 <p><span class="chinese">四氯化锡能代替硫酸作为酯化催化剂。</span><span class="english">Stannic Chloride can be used as catalyst for esterification instead of sulphuric acid.</span></p>

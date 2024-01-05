@@ -1,5 +1,7 @@
 # leukemia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leukemia.md)
+
 <p><span class="chinese">有淋巴癌，骨癌，和白血病。</span><span class="english">These are thyroid cancer, bone cancer and leukemia.</span></p>
 
 <p><span class="chinese">怎样为白血病病人进行会阴护理?。</span><span class="english">How to Conduct Perineum Nursing for Leukemia Patients?</span></p>

@@ -1,5 +1,7 @@
 # narrowness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/narrowness.md)
+
 <p><span class="chinese">心胸观点或思想狭窄缺乏宽度。</span><span class="english">Marked by narrowness of mind, ideas, or views.</span></p>
 
 <p><span class="chinese">钻石型中场的狭窄是个缺陷，但是不存在完美无缺的战术体系。</span><span class="english">The narrowness of the diamond is a flaw, but no system is without them.</span></p>

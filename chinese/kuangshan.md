@@ -1,5 +1,7 @@
 # 矿山
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuangshan.md)
+
 <p><span class="chinese">这个矿山有待开发。</span><span class="english">The mine is waiting for opening out.</span></p>
 
 <p><span class="chinese">那座老矿山已经被开采尽了。</span><span class="english">The old mine is completely worked out.</span></p>

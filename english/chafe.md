@@ -1,5 +1,7 @@
 # chafe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chafe.md)
+
 <p><span class="chinese">而当你离去，谁还能擦热我的心？</span><span class="english">But who will chafe my heart when you are gone?</span></p>
 
 <p><span class="chinese">他很少穿吊裤带，因为会擦得身上痛。</span><span class="english">He rarely uses suspenders , since they may chafe him.</span></p>

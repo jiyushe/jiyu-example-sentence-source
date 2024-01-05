@@ -1,5 +1,7 @@
 # 公国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongguo.md)
+
 <p><span class="chinese">这个用户喜欢西兰公国。</span><span class="english">For the Principality of Sealand!</span></p>
 
 <p><span class="chinese">以下是我在互联网上找到仅有的有关西兰公国的影片。</span><span class="english">Below are all videos about Sealand that I can found on the web.</span></p>

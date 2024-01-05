@@ -1,5 +1,7 @@
 # 祸福
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huofu.md)
+
 <p><span class="chinese">认为人生祸福早有定数。</span><span class="english">He believes that everybody's life is predestined.</span></p>
 
 <p><span class="chinese">我将生死祸福陈明在你面前，所以你要拣选生命，使你和你的后裔都得存活。</span><span class="english">Now choose life, so that you and your children may live</span></p>

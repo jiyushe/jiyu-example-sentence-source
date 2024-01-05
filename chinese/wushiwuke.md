@@ -1,5 +1,7 @@
 # 无时无刻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wushiwuke.md)
+
 <p><span class="chinese">无时无刻记住你的动机。</span><span class="english">Remember your motivation at all times.</span></p>
 
 <p><span class="chinese">风将无时无刻地怒号。</span><span class="english">The winds that will be howling at all hours.</span></p>

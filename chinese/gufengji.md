@@ -1,5 +1,7 @@
 # 鼓风机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gufengji.md)
+
 <p><span class="chinese">一个小型的离心式鼓风机。</span><span class="english">A small centrifugal blower.</span></p>
 
 <p><span class="chinese">风扇电机、风扇总成、鼓风机电机。</span><span class="english">Fan motor, fan assy, blower motor.</span></p>

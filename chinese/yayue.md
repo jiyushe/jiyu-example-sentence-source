@@ -1,5 +1,7 @@
 # 雅乐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yayue.md)
+
 <p><span class="chinese">雅乐轩品牌新的网络体验如下</span><span class="english">The Aloft brand’s new online experience includes</span></p>
 
 <p><span class="chinese">雅乐走投无路，于是把心一横，容许留下。</span><span class="english">Advocate cornered, so heart a horizontal, allow to stay.</span></p>

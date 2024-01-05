@@ -1,5 +1,7 @@
 # herniation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/herniation.md)
+
 <p><span class="chinese">减少手术伤口愈合不良和疝形成的机会。</span><span class="english">Reduced risk of herniation or wound separation</span></p>
 
 <p><span class="chinese">目的评价MRI快速场回波技术对椎间盘突出症的诊断价值。</span><span class="english">Objective To evaluate the disc herniation by the technique of MRI FFE.</span></p>

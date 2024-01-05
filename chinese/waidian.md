@@ -1,5 +1,7 @@
 # 外电
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waidian.md)
+
 <p><span class="chinese">但是，在较低的外电压下实验测定的光电流结果却很相似。</span><span class="english">However, the measured photocurrent results are similar at low applied voltages.</span></p>
 
 <p><span class="chinese">对于锐钛矿薄膜，当施加较高的外电压时，越高的光功率会产生越大的光电流。</span><span class="english">In the case of anatase, higher light powers generated higher photocurrent values at high applied voltages.</span></p>

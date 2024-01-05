@@ -1,5 +1,7 @@
 # 简洁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianjie.md)
+
 <p><span class="chinese">所以它是一个简洁的标记。</span><span class="english">So it is compact notation.</span></p>
 
 <p><span class="chinese">看看这段代码有多么简洁？</span><span class="english">See how terse that code is?</span></p>

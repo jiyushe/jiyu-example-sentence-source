@@ -1,5 +1,7 @@
 # 宗法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongfa.md)
+
 <p><span class="chinese">匈奴社会实质上是游牧宗法奴隶制社会。</span><span class="english">The Huns society is a nomadic patriarchal slave society in essence.</span></p>
 
 <p><span class="chinese">其中，中国古代社会的政治法律制度与宗法制度是相共生的。</span><span class="english">The political, legal and agnate system in our ancient society are symbiotic.</span></p>

@@ -1,5 +1,7 @@
 # 桥牌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaopai.md)
+
 <p><span class="chinese">他桥牌打的不错。</span><span class="english">He plays bridge well.</span></p>
 
 <p><span class="chinese">我们在一起玩桥牌。</span><span class="english">We played bridge together.</span></p>

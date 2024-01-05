@@ -1,5 +1,7 @@
 # conceivable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conceivable.md)
+
 <p><span class="chinese">对希腊人而言只有生存在社会中的人才真实</span><span class="english">He is conceivable to the Greeks only in a society.</span></p>
 
 <p><span class="chinese">唯一可能的反应是，同样也是华约的全部。</span><span class="english">The only conceivable response would likewise be total.</span></p>

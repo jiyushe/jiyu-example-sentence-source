@@ -1,5 +1,7 @@
 # egregious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/egregious.md)
+
 <p><span class="chinese">很难去设想一个更恶名昭彰的背叛。</span><span class="english">It's hard to conceive of a more egregious betrayal.</span></p>
 
 <p><span class="chinese">接下来的任务是应对那些最乐于把事件推向极端的人。</span><span class="english">The second task is to deal with the most egregious envelope- pushers.</span></p>

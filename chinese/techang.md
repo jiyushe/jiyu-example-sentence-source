@@ -1,5 +1,7 @@
 # 特长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/techang.md)
+
 <p><span class="chinese">你有什么特长或才能？</span><span class="english">What special talents do you have?</span></p>
 
 <p><span class="chinese">,但是体育方面的特长始终是核心。</span><span class="english">But one of them was really my athletics.</span></p>

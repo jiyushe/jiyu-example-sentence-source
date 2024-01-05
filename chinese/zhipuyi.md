@@ -1,5 +1,7 @@
 # 质谱仪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhipuyi.md)
+
 <p><span class="chinese">在质谱仪中，离子聚焦在感光板上。</span><span class="english">In the mass spectrograph the ions are focused onto a photographic plate.</span></p>
 
 <p><span class="chinese">实时在线分析是质谱仪器得以广泛应用的一个重要领域。</span><span class="english">Real time analysis by mass spectrometer is an important region to find wide use.</span></p>

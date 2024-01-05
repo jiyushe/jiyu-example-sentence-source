@@ -1,5 +1,7 @@
 # kumquat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kumquat.md)
+
 <p><span class="chinese">我老婆更像个金桔子。</span><span class="english">My wife's more like a kumquat.</span></p>
 
 <p><span class="chinese">要求颜色不含杂色，以金橘色为最佳。</span><span class="english">Request color without noise, with kumquat color is the best.</span></p>

@@ -1,5 +1,7 @@
 # rhizosphere
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhizosphere.md)
+
 <p><span class="chinese">蚕豆有很强的根际酸化能力。</span><span class="english">Faba bean had strong ability of rhizosphere acidification.</span></p>
 
 <p><span class="chinese">缺铁处理下鸭跖草会产生根际酸化效应。</span><span class="english">Fe deficiency could lead to acidification of the rhizosphere of C.</span></p>

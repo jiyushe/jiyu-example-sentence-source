@@ -1,5 +1,7 @@
 # warbler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/warbler.md)
+
 <p><span class="chinese">一只苇莺正在喂养小杜鹃。</span><span class="english">A reed warbler feeds a baby cuckoo.</span></p>
 
 <p><span class="chinese">黄莺问它织这么大干什么？</span><span class="english">Warbler weave such a big ask, what?</span></p>

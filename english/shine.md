@@ -1,5 +1,7 @@
 # shine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shine.md)
+
 <p><span class="chinese">宝贝，让我们大放光芒吧！</span><span class="english">Baby let us shine.</span></p>
 
 <p><span class="chinese">你钔兜是苊德阳光。</span><span class="english">You are mY SuN shinE.</span></p>

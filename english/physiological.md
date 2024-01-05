@@ -1,5 +1,7 @@
 # physiological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/physiological.md)
+
 <p><span class="chinese">这是一种生理疾病。</span><span class="english">This is a physiological condition.</span></p>
 
 <p><span class="chinese">尿床可能有多种生理原因。</span><span class="english">Enuresis can have a number of physiological causes.</span></p>

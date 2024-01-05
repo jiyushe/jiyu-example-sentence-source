@@ -1,5 +1,7 @@
 # komodo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/komodo.md)
+
 <p><span class="chinese">科莫多国家公园，印度尼西亚</span><span class="english">Komodo National Park, Indonesia</span></p>
 
 <p><span class="chinese">动物园的科莫多巨蜥墨菲则躲了起来。</span><span class="english">Murphy, the Zoo’s Komodo dragon, sought shelter inside.</span></p>

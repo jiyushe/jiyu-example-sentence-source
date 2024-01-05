@@ -1,5 +1,7 @@
 # tectogenesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tectogenesis.md)
+
 <p><span class="chinese">新近纪以来主要是已形成的油气藏重新调整和破坏时期。</span><span class="english">Since Neogene period, oil-gas reservoirs was readjusted and destroyed due to tectogenesis.</span></p>
 
 <p><span class="chinese">粗粒破碎的黄铁矿含金较高，说明构造运动使金在黄铁矿中进一步富集。</span><span class="english">Coarse-crystallized crushing pyrites with high gold content suggest that gold is enriched by tectogenesis.</span></p>

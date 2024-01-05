@@ -1,5 +1,7 @@
 # keynesianism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/keynesianism.md)
+
 <p><span class="chinese">然而，在武装凯恩斯主义的背后也存在更加黑暗的动机。</span><span class="english">But there are also darker motives behind weaponized Keynesianism.</span></p>
 
 <p><span class="chinese">国际上的证据也表明了凯恩斯主义思想的失策。</span><span class="english">International evidence also undermines the case for Keynesianism.</span></p>

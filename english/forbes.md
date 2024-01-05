@@ -1,5 +1,7 @@
 # forbes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forbes.md)
+
 <p><span class="chinese">福布斯，你真丢脸。</span><span class="english">Shame on you, Forbes.</span></p>
 
 <p><span class="chinese">他为Forbes.com撰写每周专栏。</span><span class="english">He writes a weekly column for Forbes.com.</span></p>

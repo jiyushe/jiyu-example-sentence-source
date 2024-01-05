@@ -1,5 +1,7 @@
 # 吃得开
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chidekai.md)
+
 <p><span class="chinese">希望你吃得开心。</span><span class="english">Hope you have fun.</span></p>
 
 <p><span class="chinese">我们野餐吃得开心极了。</span><span class="english">We had a lot of fun at the picnic.</span></p>

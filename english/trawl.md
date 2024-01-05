@@ -1,5 +1,7 @@
 # trawl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trawl.md)
+
 <p><span class="chinese">石油公司可以在钻井之前先拖网分析地震数据。</span><span class="english">The oil industry uses supercomputers to trawl seismic data before drilling wells.</span></p>
 
 <p><span class="chinese">论述了所研制的拖网绞机信息系统的基本原理和关键技术等。</span><span class="english">And discusses the basic theory and key techniques of the information system of trawl winches.</span></p>

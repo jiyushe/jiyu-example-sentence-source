@@ -1,5 +1,7 @@
 # 援外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanwai_1.md)
+
 <p><span class="chinese">英国在援外方面作出了多少贡献?。</span><span class="english">How much foreign aid does Britain give?</span></p>
 
 <p><span class="chinese">根据新的援外法案的条文，你可以这样做。</span><span class="english">You can do so under the provisions of a new foreign aid bill.</span></p>

@@ -1,5 +1,7 @@
 # 翻印
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanyin.md)
+
 <p><span class="chinese">在这个国家，非法翻印曾经是司空见惯的。</span><span class="english">Pirating used to be commonplace in this country.</span></p>
 
 <p><span class="chinese">本刊得到特别许可翻印这本书。</span><span class="english">We obtained special permission to reproduce the book in our magazine.</span></p>

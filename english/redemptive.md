@@ -1,5 +1,7 @@
 # redemptive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/redemptive.md)
+
 <p><span class="chinese">我们也可以说，神就是为了救赎的目的，才允许它这么做。</span><span class="english">And we can say that God allows it only for redemptive purposes.</span></p>
 
 <p><span class="chinese">救赎通过对基督代赎的信念得以实现。</span><span class="english">Salvation comes through faith in Christ's redemptive sacrifice.</span></p>

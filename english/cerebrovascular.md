@@ -1,5 +1,7 @@
 # cerebrovascular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cerebrovascular.md)
+
 <p><span class="chinese">最近他的家人说他患有脑血管疾病。</span><span class="english">He had been suffering from cerebrovascular disease, his family said recently.</span></p>
 
 <p><span class="chinese">方法对1023例急性脑血管病人进行回顾性分析。</span><span class="english">Methods To analyze retrospectively 1023 cases of acute cerebrovascular patients.</span></p>

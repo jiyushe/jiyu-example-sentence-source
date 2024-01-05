@@ -1,5 +1,7 @@
 # goodman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goodman.md)
+
 <p><span class="chinese">啊，早晨好，古德曼先生。</span><span class="english">Ah, good morning, Mr goodman.</span></p>
 
 <p><span class="chinese">这两条路在古德曼以北相交。</span><span class="english">The two roads meet north of Goodman.</span></p>

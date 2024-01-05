@@ -1,5 +1,7 @@
 # testamentary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/testamentary.md)
+
 <p><span class="chinese">监护人的义务只在父母亲皆不在世的情况下有效。</span><span class="english">Testamentary guardians function only when both parents are not around.</span></p>
 
 <p><span class="chinese">富翁死后，仆人便欢欢喜喜地拿着遗嘱去寻找主人的儿子。</span><span class="english">Millionaire died, servant he rejoiced ground to take testamentary to search for master's son.</span></p>

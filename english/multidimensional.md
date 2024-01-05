@@ -1,5 +1,7 @@
 # multidimensional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multidimensional.md)
+
 <p><span class="chinese">鹰维系着一个人多维度空间觉知的链路。</span><span class="english">Eagle holds links to one's multidimensional awareness.</span></p>
 
 <p><span class="chinese">高等教育质量具有多维性。</span><span class="english">Higher education has multidimensional nature to measure.</span></p>

@@ -1,5 +1,7 @@
 # centenary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/centenary.md)
+
 <p><span class="chinese">目前是香港大学百年校史项目的负责人。</span><span class="english">He is currently director of the HKU Centenary History Project.</span></p>
 
 <p><span class="chinese">切尔西成立一百周年纪念馆开始对外开放。</span><span class="english">The Centenary Museum that Sue Mears visited is open to the public.</span></p>

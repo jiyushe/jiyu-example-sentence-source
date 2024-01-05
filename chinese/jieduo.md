@@ -1,5 +1,7 @@
 # 劫夺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jieduo.md)
+
 <p><span class="chinese">塔昆已经劫夺了我的忠贞的标志。</span><span class="english">Of that true type hath Tarquin rifled me.</span></p>
 
 <p><span class="chinese">劫夺也会减损行星的能量。</span><span class="english">Interceptions also detract from planetary power.</span></p>

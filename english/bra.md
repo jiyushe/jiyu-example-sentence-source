@@ -1,5 +1,7 @@
 # bra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bra.md)
+
 <p><span class="chinese">她的胸罩尺寸是48V。</span><span class="english">Her bra size was 48V.</span></p>
 
 <p><span class="chinese">她的文胸型号是48v。</span><span class="english">Her bra size was 48V.</span></p>

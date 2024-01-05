@@ -1,5 +1,7 @@
 # blackish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blackish.md)
+
 <p><span class="chinese">凯蒂有一头乌黑的长发。</span><span class="english">Katy has long blackish hair.</span></p>
 
 <p><span class="chinese">鲟鱼因其黑色的鱼卵而受到珍视。</span><span class="english">Sturgeons are prized for their blackish roe.</span></p>

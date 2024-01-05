@@ -1,5 +1,7 @@
 # 天日
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianri.md)
+
 <p><span class="chinese">我已经好几天不见天日了。</span><span class="english">I haven't been in the sun for days.</span></p>
 
 <p><span class="chinese">不见天日的一天会有多长呢?比一周长吗?。</span><span class="english">How long is a day in the dark? Or a week?</span></p>

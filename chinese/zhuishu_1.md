@@ -1,5 +1,7 @@
 # 追述
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuishu_1.md)
+
 <p><span class="chinese">福克纳追述了康普生家史。</span><span class="english">Faulkner traces the history of the Compson family.</span></p>
 
 <p><span class="chinese">我们可以追述他们的宗教信仰的发展。</span><span class="english">We can trace the development of their religious belief.</span></p>

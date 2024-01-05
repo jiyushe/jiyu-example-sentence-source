@@ -1,5 +1,7 @@
 # 起家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qijia_1.md)
+
 <p><span class="chinese">我的风格就是这样起家的。</span><span class="english">That was how my style got started.</span></p>
 
 <p><span class="chinese">早在1938年，三星干面粉行业起家。</span><span class="english">Samsung began as a small noodle business in 1938.</span></p>

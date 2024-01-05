@@ -1,5 +1,7 @@
 # 神怪
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenguai.md)
+
 <p><span class="chinese">一只神怪站到了她面前。</span><span class="english">Genie stood in front of her.</span></p>
 
 <p><span class="chinese">一只神怪站到了她面前。</span><span class="english">A Genie stood in front of her.</span></p>

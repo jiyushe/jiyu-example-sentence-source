@@ -1,5 +1,7 @@
 # flavoring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flavoring.md)
+
 <p><span class="chinese">它也是药酒的调味品。</span><span class="english">It is also flavoring Cointreau liqueur.</span></p>
 
 <p><span class="chinese">但你不要全把责任推到“焦糖”上。</span><span class="english">But don’t blame the caramel flavoring entirely.</span></p>

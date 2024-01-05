@@ -1,5 +1,7 @@
 # dugout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dugout.md)
+
 <p><span class="chinese">从德国战壕中发现的吊裤带。</span><span class="english">A suspender found in a German dugout.</span></p>
 
 <p><span class="chinese">陆达顺着战壕向下走去。</span><span class="english">Six reach to follow dugout to go beneath.</span></p>

@@ -1,5 +1,7 @@
 # stave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stave.md)
+
 <p><span class="chinese">我会尽力阻止他的参与。</span><span class="english">I will do my best to stave off his participation.</span></p>
 
 <p><span class="chinese">看，人家的赞美诗都是五线谱，民众的音乐素养高呀！</span><span class="english">Look, it's all in stave. The people are educated in music!</span></p>

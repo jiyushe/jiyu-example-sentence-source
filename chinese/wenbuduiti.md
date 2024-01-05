@@ -1,5 +1,7 @@
 # 文不对题
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wenbuduiti.md)
+
 <p><span class="chinese">他的回答文不对题。?。</span><span class="english">His answer is beside the mark. ?</span></p>
 
 <p><span class="chinese">他对园艺的一席话简直是文不对题。</span><span class="english">His remarks about gardening were hardly to the purpose.</span></p>

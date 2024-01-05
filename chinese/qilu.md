@@ -1,5 +1,7 @@
 # 歧路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qilu.md)
+
 <p><span class="chinese">七色的歧路总有十字路口。</span><span class="english">The seven colors hill always have crossing.</span></p>
 
 <p><span class="chinese">克林顿夫人走上一条歧路---也是应该如此。</span><span class="english">Mrs Clinton is in a bad way—and deservedly so.</span></p>

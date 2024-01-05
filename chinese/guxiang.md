@@ -1,5 +1,7 @@
 # 故乡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guxiang.md)
+
 <p><span class="chinese">嘉鱼是我的故乡。</span><span class="english">Jiayu is my hometown.</span></p>
 
 <p><span class="chinese">意大利是他的故乡。</span><span class="english">Italy was his hometown.</span></p>

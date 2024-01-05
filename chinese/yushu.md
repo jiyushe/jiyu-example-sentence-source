@@ -1,5 +1,7 @@
 # 余数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yushu.md)
+
 <p><span class="chinese">9减4，余数为5。</span><span class="english">Take 4 from 9 and the remainder is 5.</span></p>
 
 <p><span class="chinese">将两个数相除并返回余数。</span><span class="english">Divides two numbers and returns the remainder.</span></p>

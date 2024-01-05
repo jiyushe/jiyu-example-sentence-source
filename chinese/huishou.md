@@ -1,5 +1,7 @@
 # 挥手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huishou.md)
+
 <p><span class="chinese">他挥手叫我们前进。</span><span class="english">He waved us on.</span></p>
 
 <p><span class="chinese">她挥手告别。</span><span class="english">She waved a farewell.</span></p>

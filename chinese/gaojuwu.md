@@ -1,5 +1,7 @@
 # 高聚物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaojuwu.md)
+
 <p><span class="chinese">银纹是高聚物损伤的重要表现形式。</span><span class="english">Craze is an important form of polymer damage.</span></p>
 
 <p><span class="chinese">一个高聚物是许多单元的非常大的组合。</span><span class="english">A high polymer is a very large aggregation of units.</span></p>

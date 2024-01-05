@@ -1,5 +1,7 @@
 # passivation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/passivation.md)
+
 <p><span class="chinese">故镀锌钝化处理是必不可少的步骤。</span><span class="english">So galvanization passivation treatment is necessary steps.</span></p>
 
 <p><span class="chinese">还对钝化结构进行氧退火。</span><span class="english">Oxygen anneals of passivation structures are also provided.</span></p>

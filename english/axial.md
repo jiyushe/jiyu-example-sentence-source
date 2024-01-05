@@ -1,5 +1,7 @@
 # axial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/axial.md)
+
 <p><span class="chinese">轴向色码电感器。</span><span class="english">Axial color code inductor.</span></p>
 
 <p><span class="chinese">轴向安装和定位孔的标准。</span><span class="english">Axial mounting and locating holes standard.</span></p>

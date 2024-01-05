@@ -1,5 +1,7 @@
 # madonna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/madonna.md)
+
 <p><span class="chinese">嘿，她这样做了！</span><span class="english">Hey, Madonna did it!</span></p>
 
 <p><span class="chinese">你有好多玛丹娜的CD喔。</span><span class="english">You have a lot of Madonna CDs.</span></p>

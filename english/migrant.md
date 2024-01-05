@@ -1,5 +1,7 @@
 # migrant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/migrant.md)
+
 <p><span class="chinese">小范是来自四川的民工。</span><span class="english">Fan is a migrant originally from Sichuan Province.</span></p>
 
 <p><span class="chinese">一个跨境童工，左边的，在采摘烟叶。</span><span class="english">A child migrant worker, left, picks tobacco leaves.</span></p>

@@ -1,5 +1,7 @@
 # 洗礼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xili_1.md)
+
 <p><span class="chinese">阿卡维尔，血与火之洗礼！</span><span class="english">Akaviri, Fire and Blood!</span></p>
 
 <p><span class="chinese">他拒绝给她洗礼。</span><span class="english">He refuses to baptize her.</span></p>

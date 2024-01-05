@@ -1,5 +1,7 @@
 # beaded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beaded.md)
+
 <p><span class="chinese">他脸上挂着汗珠子。</span><span class="english">His face was beaded with sweat.</span></p>
 
 <p><span class="chinese">她双颊挂著成串的泪珠。</span><span class="english">Tears were beaded on her cheeks.</span></p>

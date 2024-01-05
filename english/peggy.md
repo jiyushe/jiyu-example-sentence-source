@@ -1,5 +1,7 @@
 # peggy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peggy.md)
+
 <p><span class="chinese">堂和帕吉是舞蹈演员吗？</span><span class="english">Are Don and Peggy dancers?</span></p>
 
 <p><span class="chinese">佩吉·奥伦斯坦认为确实如此。</span><span class="english">Peggy Orenstein thinks so.</span></p>

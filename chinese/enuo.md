@@ -1,5 +1,7 @@
 # 婀娜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/enuo.md)
+
 <p><span class="chinese">婀娜的月亮河，宽过了一英里。</span><span class="english">Moon river, wider than a mile.</span></p>
 
 <p><span class="chinese">在那天之前，我一点儿也不知道女人婀娜的步伐里还有这么多讲究。</span><span class="english">Before that day, I had no idea of the complexity of the female walk.</span></p>

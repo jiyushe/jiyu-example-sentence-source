@@ -1,5 +1,7 @@
 # 奇兵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qibing.md)
+
 <p><span class="chinese">我玩过“生化奇兵”、“生死四人组”和“生死四人组2”，</span><span class="english">I play through BioShock, and Left 4 Dead and Left 4 Dead 2,</span></p>
 
 <p><span class="chinese">当然，在联赛的最后一场比赛中，奥萨苏纳需要一名奇兵。</span><span class="english">Osasuna certainly need a poacher for their final game of the season.</span></p>

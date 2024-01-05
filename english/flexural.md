@@ -1,5 +1,7 @@
 # flexural
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flexural.md)
+
 <p><span class="chinese">该梁具有常数弯曲刚度。</span><span class="english">The beam has a constant flexural rigidity.</span></p>
 
 <p><span class="chinese">弯曲弹性模量—弯曲模量的另一个术语。</span><span class="english">Flexural Modulus of Elasticity —Alternate term for Modulus in Bending.</span></p>

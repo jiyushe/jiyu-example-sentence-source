@@ -1,5 +1,7 @@
 # 旅程
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lvcheng.md)
+
 <p><span class="chinese">这次旅程很短暂。</span><span class="english">This journey is brief.</span></p>
 
 <p><span class="chinese">生命是你最曼妙的旅程。</span><span class="english">Life is life , fight for it!</span></p>

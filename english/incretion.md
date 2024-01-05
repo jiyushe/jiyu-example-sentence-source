@@ -1,5 +1,7 @@
 # incretion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incretion.md)
+
 <p><span class="chinese">一种类神经内分泌特异性蛋白，其编码序列，制法和应用。</span><span class="english">Nerval incretion specific protein analog, its coding sequence, making method and uses.</span></p>
 
 <p><span class="chinese">滋补肾阴法是通过调节内分泌，降低胰岛素水平及改善IR来达到治疗目的的。</span><span class="english">It may treat patients with PCOS and IR through reducing serum insulin level and regulating the balance of incretion.</span></p>

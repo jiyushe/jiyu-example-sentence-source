@@ -1,5 +1,7 @@
 # 铜绿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tonglv.md)
+
 <p><span class="chinese">铜绿是一个美丽的词语，也是一个美好的概念。</span><span class="english">Patina is a pretty word, and a beautiful concept.</span></p>
 
 <p><span class="chinese">统计分析1997～2000年铜绿假单脑菌的耐药性变化。</span><span class="english">The change in drug resistance of PA was analyzed during 1997-2000.</span></p>

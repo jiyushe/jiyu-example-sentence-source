@@ -1,5 +1,7 @@
 # 外壳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waiqiao_1.md)
+
 <p><span class="chinese">在坚硬的电视外壳下面的其实是腐烂的内芯。</span><span class="english">In a nutshell TV is lame!</span></p>
 
 <p><span class="chinese">倒入土制派的外壳。</span><span class="english">Pour into unbaked pie shell.</span></p>

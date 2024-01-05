@@ -1,5 +1,7 @@
 # cambodian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cambodian.md)
+
 <p><span class="chinese">柬埔寨重建和发展管理局。</span><span class="english">The Cambodian Rehabilitation and Development Board.</span></p>
 
 <p><span class="chinese">柬埔寨问题肯定只是一个枝节问题。</span><span class="english">The Cambodian issue is very definitely a side issue.</span></p>

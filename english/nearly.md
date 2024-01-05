@@ -1,5 +1,7 @@
 # nearly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nearly.md)
+
 <p><span class="chinese">为这事儿，我差点宰了他。</span><span class="english">I nearly killed him.</span></p>
 
 <p><span class="chinese">鼬几乎笑了起来。</span><span class="english">Itachi nearly laughed.</span></p>

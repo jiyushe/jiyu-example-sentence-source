@@ -1,5 +1,7 @@
 # baseless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baseless.md)
+
 <p><span class="chinese">没有事实根据，是不正确的。</span><span class="english">It is baseless and not correct.</span></p>
 
 <p><span class="chinese">永生会变作无稽的梦想。</span><span class="english">The Life Eternal but a baseless dream?</span></p>

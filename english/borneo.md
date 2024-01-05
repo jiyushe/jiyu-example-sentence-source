@@ -1,5 +1,7 @@
 # borneo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/borneo.md)
+
 <p><span class="chinese">世界上最小的一种青蛙之一在婆罗洲被发现。</span><span class="english">One of the world's tiniest frogs has been discovered in Borneo.</span></p>
 
 <p><span class="chinese">婆罗洲的姆鲁岩洞是一些地球上最广阔的洞穴。</span><span class="english">The Mulu Caves in Borneo are some of the most expansive on Earth.</span></p>

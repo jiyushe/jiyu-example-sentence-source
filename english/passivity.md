@@ -1,5 +1,7 @@
 # passivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/passivity.md)
+
 <p><span class="chinese">但这种说法暗示出了一个其实并不存在的“被动性”。</span><span class="english">But this implies a passivity that does not exist.</span></p>
 
 <p><span class="chinese">被动的代价哀叹着毫无进展。</span><span class="english">The price of passivity bemoans the silence of progress.</span></p>

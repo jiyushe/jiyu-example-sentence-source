@@ -1,5 +1,7 @@
 # camshaft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/camshaft.md)
+
 <p><span class="chinese">安装凸轮轴室盖。</span><span class="english">Install cover for camshaft housing.</span></p>
 
 <p><span class="chinese">凸轮轴上有一个凸轮，凸轮上有一个凸角。</span><span class="english">The camshaft has a cam, on which there is a lob, or bump.</span></p>

@@ -1,5 +1,7 @@
 # 伪装
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weizhuang.md)
+
 <p><span class="chinese">宝石是可以伪装的。</span><span class="english">Stones can be disguised.</span></p>
 
 <p><span class="chinese">混乱是最好的伪装。</span><span class="english">Chaos is great camouflage.</span></p>

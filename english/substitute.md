@@ -1,5 +1,7 @@
 # substitute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/substitute.md)
+
 <p><span class="chinese">代入du的表达式。</span><span class="english">Substitute this for du.</span></p>
 
 <p><span class="chinese">这样我们就可以替换。</span><span class="english">So we can substitute that.</span></p>

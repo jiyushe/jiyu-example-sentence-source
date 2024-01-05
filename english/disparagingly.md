@@ -1,5 +1,7 @@
 # disparagingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disparagingly.md)
+
 <p><span class="chinese">在旁人的朋友面前说一些瞧不起他的话。</span><span class="english">Speaking disparagingly of people in front of their friends.</span></p>
 
 <p><span class="chinese">因此我们或许会对自己的容貌自惭形秽，可是依旧不愿以自己的容貌跟别人交换。</span><span class="english">Hence we may speak disparagingly of our looks and still not want to change our face for another.</span></p>

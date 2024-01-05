@@ -1,5 +1,7 @@
 # resourcefulness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resourcefulness.md)
+
 <p><span class="chinese">小赢于智，大赢于德。</span><span class="english">Win more in virtue than resourcefulness.</span></p>
 
 <p><span class="chinese">他有时对于这个人的足智多谋感到吃惊。</span><span class="english">He marveled sometimes at the man's resourcefulness.</span></p>

@@ -1,5 +1,7 @@
 # handmaiden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handmaiden.md)
+
 <p><span class="chinese">我是写作的最热心的侍仆。</span><span class="english">I was writing’s most devotional handmaiden.</span></p>
 
 <p><span class="chinese">女神赫拉是出席由她的婢女虹膜。</span><span class="english">The goddess Hera is attended by her handmaiden Iris.</span></p>

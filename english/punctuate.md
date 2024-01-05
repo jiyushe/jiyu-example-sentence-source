@@ -1,5 +1,7 @@
 # punctuate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/punctuate.md)
+
 <p><span class="chinese">圈点着我心中的淡雅。</span><span class="english">Punctuate my heart in of elegantly simple.</span></p>
 
 <p><span class="chinese">小学生尚未学会正确使用标点符号。</span><span class="english">The pupils have not yet learned to punctuate correctly.</span></p>

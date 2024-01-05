@@ -1,5 +1,7 @@
 # butch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/butch.md)
+
 <p><span class="chinese">裁缝把这套衣服做坏了。</span><span class="english">The tailor has butch ered this suit.</span></p>
 
 <p><span class="chinese">可食用的屠宰过的动物内脏。</span><span class="english">Edible viscera of a butch ered animal.</span></p>

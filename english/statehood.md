@@ -1,5 +1,7 @@
 # statehood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/statehood.md)
+
 <p><span class="chinese">但北部各州反对为得克萨斯州建州。</span><span class="english">But northern states opposed statehood for Texas.</span></p>
 
 <p><span class="chinese">无论是克莱还是范布伦都反对给予德克萨斯州地位。</span><span class="english">Both Clay and Van Buren opposed statehood for Texas.</span></p>

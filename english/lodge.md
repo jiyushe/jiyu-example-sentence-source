@@ -1,5 +1,7 @@
 # lodge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lodge.md)
+
 <p><span class="chinese">我想要穿上滑雪服了。</span><span class="english">I wish the ski lodge served this!</span></p>
 
 <p><span class="chinese">他把钥匙放在了传达室。</span><span class="english">He put the keys in the porter's lodge.</span></p>

@@ -1,5 +1,7 @@
 # doohickey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doohickey.md)
+
 <p><span class="chinese">有什么窍门可以去眼袋？</span><span class="english">What doohickey can go pouch?</span></p>
 
 <p><span class="chinese">这是个集去苹果心、削皮和切片为一体的小装置。</span><span class="english">A doohickey is an apple corer, peeler and slicer.</span></p>

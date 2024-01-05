@@ -1,5 +1,7 @@
 # 科学家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kexuejia.md)
+
 <p><span class="chinese">她说，“我是科学家。</span><span class="english">I’m a scientist.</span></p>
 
 <p><span class="chinese">你相信科学家吗？</span><span class="english">Do you trust scientists?</span></p>

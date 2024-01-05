@@ -1,5 +1,7 @@
 # laughably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laughably.md)
+
 <p><span class="chinese">有人在博客上留言说它“悖谬可笑”，但也有人评价它是一项“神奇的厘革”。</span><span class="english">It's "laughably absurd" on one blog and a "magical revolution" on another.</span></p>
 
 <p><span class="chinese">英语真是有趣，竟然把狗和摆阔气联系上了，呵呵！</span><span class="english">The ENGLISH is very laughably , make the dog with extravagant contact unexpectedly! he he!</span></p>

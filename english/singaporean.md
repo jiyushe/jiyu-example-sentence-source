@@ -1,5 +1,7 @@
 # singaporean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/singaporean.md)
+
 <p><span class="chinese">他和我们一样都是新加坡人。</span><span class="english">Nathan Hartono is as much a Singaporean as any of us.</span></p>
 
 <p><span class="chinese">但事实上新加坡的艺术家没几个是大富大贵的。</span><span class="english">The truth is that there are few well-off Singaporean artists.</span></p>

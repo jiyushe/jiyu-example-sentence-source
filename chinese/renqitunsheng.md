@@ -1,5 +1,7 @@
 # 忍气吞声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renqitunsheng.md)
+
 <p><span class="chinese">我要逆来顺受，忍气吞声强作欢笑。</span><span class="english">I'll grin and bear it.</span></p>
 
 <p><span class="chinese">他经常忍气吞声地生活。</span><span class="english">He often gulps down a sob.</span></p>

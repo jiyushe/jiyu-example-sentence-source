@@ -1,5 +1,7 @@
 # 繁忙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanmang.md)
+
 <p><span class="chinese">它们整日繁忙。</span><span class="english">And they’re busy.</span></p>
 
 <p><span class="chinese">这几条路的交通很繁忙。</span><span class="english">The roads are busy.</span></p>

@@ -1,5 +1,7 @@
 # enema
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enema.md)
+
 <p><span class="chinese">我今天晚上要给你灌一次肠。</span><span class="english">I11 give you an enema tonight.</span></p>
 
 <p><span class="chinese">我今天晚上要给你灌一次肠。</span><span class="english">I'11 give you an enema tonight.</span></p>

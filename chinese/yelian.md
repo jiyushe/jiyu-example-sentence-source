@@ -1,5 +1,7 @@
 # 冶炼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yelian.md)
+
 <p><span class="chinese">小坂冶炼的相关人士说。</span><span class="english">Kosaka Smelting stakeholders said.</span></p>
 
 <p><span class="chinese">乡镇企业以冶炼业为主。</span><span class="english">Township enterprises mainly in smelting industry.</span></p>

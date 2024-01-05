@@ -1,5 +1,7 @@
 # spatula
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spatula.md)
+
 <p><span class="chinese">用橡皮刮刀把它们刮进豆子中。</span><span class="english">Scrape into the beans with a rubber spatula.</span></p>
 
 <p><span class="chinese">需要硅胶炒菜铲长度25.6厘米紫色铲，柄为白色。</span><span class="english">Durable Silicone Spatula with Length of 25.6cm.</span></p>

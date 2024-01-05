@@ -1,5 +1,7 @@
 # 掌声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangsheng.md)
+
 <p><span class="chinese">会议以掌声结束。</span><span class="english">It now ends with applauses.</span></p>
 
 <p><span class="chinese">我有一个真心的掌声。</span><span class="english">And I got a weclome applause.</span></p>

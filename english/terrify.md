@@ -1,5 +1,7 @@
 # terrify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terrify.md)
+
 <p><span class="chinese">好吓吓你妈妈！</span><span class="english">Terrify your mother!</span></p>
 
 <p><span class="chinese">低飞的飞行器令野生动物惊恐。</span><span class="english">Low- flying aircraft terrify wild animals.</span></p>

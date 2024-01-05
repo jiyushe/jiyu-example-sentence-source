@@ -1,5 +1,7 @@
 # aerogel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aerogel.md)
+
 <p><span class="chinese">气凝胶也正在日常生活中得到应用。</span><span class="english">Aerogel is also being used for everyday applications.</span></p>
 
 <p><span class="chinese">采用分形概念对RF气凝胶的生长过程进行了计算机模拟。</span><span class="english">The growth of RF aerogel fractals was simulated by computer.</span></p>

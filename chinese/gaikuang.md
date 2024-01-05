@@ -1,5 +1,7 @@
 # 概况
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaikuang.md)
+
 <p><span class="chinese">世界概况。</span><span class="english">The World Factbook.</span></p>
 
 <p><span class="chinese">中印贸易概况。</span><span class="english">Sino-Indian trade Profiles.</span></p>

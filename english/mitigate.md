@@ -1,5 +1,7 @@
 # mitigate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mitigate.md)
+
 <p><span class="chinese">怎样缓和这种倾向呢？</span><span class="english">How to mitigate this trend?</span></p>
 
 <p><span class="chinese">识别和减轻风险。</span><span class="english">Identify and mitigate risks.</span></p>

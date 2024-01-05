@@ -1,5 +1,7 @@
 # 守门员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoumenyuan.md)
+
 <p><span class="chinese">我是守门员。</span><span class="english">I play goalie, myself.</span></p>
 
 <p><span class="chinese">那个守门员棒极了。</span><span class="english">The goal-keeper was great!</span></p>

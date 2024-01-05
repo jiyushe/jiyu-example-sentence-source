@@ -1,5 +1,7 @@
 # discernment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discernment.md)
+
 <p><span class="chinese">对于我而言，这有关洞察力。</span><span class="english">For me, it's about discernment.</span></p>
 
 <p><span class="chinese">这就是察验的重要性。</span><span class="english">This is when discernment is so important.</span></p>

@@ -1,5 +1,7 @@
 # 成千上万
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengqianshangwan.md)
+
 <p><span class="chinese">还有成千上万的军人负伤归来。</span><span class="english">Thousands more have been wounded.</span></p>
 
 <p><span class="chinese">接时将会有成千上万的人观看。</span><span class="english">There will be thousands watching it.</span></p>

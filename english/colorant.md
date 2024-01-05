@@ -1,5 +1,7 @@
 # colorant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colorant.md)
+
 <p><span class="chinese">把染发剂和显影剂混合，充沛摇动使之平均。</span><span class="english">Mix the colorant with the developer and shake.</span></p>
 
 <p><span class="chinese">材料和著色剂的价格都是公开的盟友。</span><span class="english">Material and colorant prices are public ally available.</span></p>

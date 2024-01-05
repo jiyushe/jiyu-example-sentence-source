@@ -1,5 +1,7 @@
 # courtesy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/courtesy.md)
+
 <p><span class="chinese">我这室友还真是客气啊。</span><span class="english">Courtesy of my room-mate.</span></p>
 
 <p><span class="chinese">他缺乏礼貌。</span><span class="english">He is wanting in courtesy.</span></p>

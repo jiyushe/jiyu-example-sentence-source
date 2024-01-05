@@ -1,5 +1,7 @@
 # decayed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decayed.md)
+
 <p><span class="chinese">我有一颗虫牙。</span><span class="english">I have a decayed tooth.</span></p>
 
 <p><span class="chinese">他们的智慧尽归无有吗？</span><span class="english">Has their wisdom decayed?</span></p>

@@ -1,5 +1,7 @@
 # 过河拆桥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guohechaiqiao.md)
+
 <p><span class="chinese">不要过河拆桥。</span><span class="english">Don’t burn your bridges.</span></p>
 
 <p><span class="chinese">不要过河拆桥。为自己留后路。</span><span class="english">Don't burn your bridges behind you.</span></p>

@@ -1,5 +1,7 @@
 # 失策
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shice.md)
+
 <p><span class="chinese">那是一次严重的失策。</span><span class="english">This was a big mistake.</span></p>
 
 <p><span class="chinese">这样做非常失策。</span><span class="english">It was a very unwise move.</span></p>

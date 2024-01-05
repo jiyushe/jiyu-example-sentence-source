@@ -1,5 +1,7 @@
 # seasoned
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seasoned.md)
+
 <p><span class="chinese">他适应了户外工作。</span><span class="english">He was seasoned to outdoor work.</span></p>
 
 <p><span class="chinese">甚至一些有临场经验的演员也失常了。</span><span class="english">Even the seasoned troupers fall apart.</span></p>

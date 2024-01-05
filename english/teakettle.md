@@ -1,5 +1,7 @@
 # teakettle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teakettle.md)
+
 <p><span class="chinese">他新买了一把茶炊。</span><span class="english">He bought a new teakettle.</span></p>
 
 <p><span class="chinese">奶奶，壶里装的是什么呀？</span><span class="english">Grandma, what is in the teakettle?</span></p>

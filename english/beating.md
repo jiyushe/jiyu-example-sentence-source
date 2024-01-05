@@ -1,5 +1,7 @@
 # beating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beating.md)
+
 <p><span class="chinese">可能是一顿打。</span><span class="english">Maybe a beating.</span></p>
 
 <p><span class="chinese">受到过摔打或者撞击。</span><span class="english">By beating or impact.</span></p>

@@ -1,5 +1,7 @@
 # 首尾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouwei_3.md)
+
 <p><span class="chinese">汽车拥塞，首尾相接长达数英里。</span><span class="english">The cars backed up for miles.</span></p>
 
 <p><span class="chinese">从学校过来的路上都是一辆辆首尾相接的车。</span><span class="english">It was bumper-to-bumper all the way from school.</span></p>

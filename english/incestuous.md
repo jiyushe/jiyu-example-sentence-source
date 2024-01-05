@@ -1,5 +1,7 @@
 # incestuous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incestuous.md)
+
 <p><span class="chinese">哦，请你们别胡思乱想了。</span><span class="english">Oh, please do not suggest anything incestuous.</span></p>
 
 <p><span class="chinese">Lindsay则认为，雅虎管理人员过于“近亲繁殖”，需要注入新的理念。</span><span class="english">"Yahoo is too incestuous. It needs an infusion of new ideas," Lindsay says.</span></p>

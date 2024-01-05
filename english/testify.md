@@ -1,5 +1,7 @@
 # testify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/testify.md)
+
 <p><span class="chinese">秀水为你们作证！</span><span class="english">Xiushui testify to you!</span></p>
 
 <p><span class="chinese">他的朋友们将为他作证。</span><span class="english">His friends will testify for him.</span></p>

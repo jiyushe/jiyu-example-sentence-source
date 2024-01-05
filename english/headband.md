@@ -1,5 +1,7 @@
 # headband
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headband.md)
+
 <p><span class="chinese">咳，你总能找到一条头巾的。</span><span class="english">Well, there's always a headband.</span></p>
 
 <p><span class="chinese">你在哪里找到我的滑雪束发带？</span><span class="english">Where did you find my ski headband?</span></p>

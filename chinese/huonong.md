@@ -1,5 +1,7 @@
 # 和弄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huonong.md)
+
 <p><span class="chinese">她唱歌和弄合成器。</span><span class="english">She sings and plays synth.</span></p>
 
 <p><span class="chinese">好吧，你仅仅要观察它和弄清楚。</span><span class="english">Well, ya'll just watch it and figure it out.</span></p>

@@ -1,5 +1,7 @@
 # allergenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allergenic.md)
+
 <p><span class="chinese">为什么转基因食物可能会引起过敏？</span><span class="english">Why are GM foods potentially allergenic?</span></p>
 
 <p><span class="chinese">如果转基因蛋白质来自已知的敏感源食物，它就应该接受免疫学试验。</span><span class="english">If the transgenic protein comes from a known allergenic food, it is subjected to immunological tests.</span></p>

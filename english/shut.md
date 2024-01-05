@@ -1,5 +1,7 @@
 # shut
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shut.md)
+
 <p><span class="chinese">彼得，住嘴！</span><span class="english">Shut up, Peter!</span></p>
 
 <p><span class="chinese">就堵住了他的嘴。</span><span class="english">That shut him up.</span></p>

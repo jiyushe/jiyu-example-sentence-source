@@ -1,5 +1,7 @@
 # amused
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amused.md)
+
 <p><span class="chinese">她耍把戏逗我笑。</span><span class="english">She amused me by tricks.</span></p>
 
 <p><span class="chinese">一切都令我开心。</span><span class="english">I am amused by everything.</span></p>

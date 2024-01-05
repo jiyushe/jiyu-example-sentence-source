@@ -1,5 +1,7 @@
 # 贪嘴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanzui.md)
+
 <p><span class="chinese">赫佐格想起来了，他是个贪嘴的人。</span><span class="english">Herzog remembered him as a greedy eater.</span></p>
 
 <p><span class="chinese">昨天下午我妈妈给我带来一盒巧克力。我贪嘴。就把它全吃了。</span><span class="english">Let me see. Oh, yes, I ate a box of chocolates.</span></p>

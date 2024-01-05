@@ -1,5 +1,7 @@
 # theft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theft.md)
+
 <p><span class="chinese">但它依然是盗窃。</span><span class="english">But it's theft.</span></p>
 
 <p><span class="chinese">我指控他犯了偷窃罪。</span><span class="english">I charge him with theft.</span></p>

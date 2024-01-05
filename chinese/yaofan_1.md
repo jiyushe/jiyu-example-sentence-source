@@ -1,5 +1,7 @@
 # 要饭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaofan_1.md)
+
 <p><span class="chinese">在旧社会很多人要饭。</span><span class="english">Many people went begging in the old society.</span></p>
 
 <p><span class="chinese">他讨吃要饭离家，腰缠万贯回归。</span><span class="english">He went away a beggar, returned a millionaire.</span></p>

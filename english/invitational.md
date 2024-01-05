@@ -1,5 +1,7 @@
 # invitational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/invitational.md)
+
 <p><span class="chinese">那场足球邀请赛因下大雪被取消了。</span><span class="english">The invitational football match was snowed off.</span></p>
 
 <p><span class="chinese">2008年参加威扬盛世中国名家邀请展。</span><span class="english">In 2008 Chinese famous states-soviet accurate invitational exhibition.</span></p>

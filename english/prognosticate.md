@@ -1,5 +1,7 @@
 # prognosticate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prognosticate.md)
+
 <p><span class="chinese">术后角膜愈合反应是影响手术稳定性及预测性的重要原因之一。</span><span class="english">It is the most important matter to influence the stability and prognosticate of surgery.</span></p>
 
 <p><span class="chinese">结果强调家庭的重要性历史当试图预言在个别案件。</span><span class="english">Results emphasize the importance of the family history when trying to prognosticate in an individual case.</span></p>

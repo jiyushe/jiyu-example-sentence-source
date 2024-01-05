@@ -1,5 +1,7 @@
 # 图版
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuban_1.md)
+
 <p><span class="chinese">蒙片是一张覆盖在图版上的透明塑料片。</span><span class="english">A mask is a transparent sheet of plastic.</span></p>
 
 <p><span class="chinese">系统具有主视图、属性表、统计图表、和图版等功能。</span><span class="english">The XZDGIS system comprises Views, Tables, Chart and Layout.</span></p>

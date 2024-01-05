@@ -1,5 +1,7 @@
 # 肺腑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feifu.md)
+
 <p><span class="chinese">我发自肺腑的谢谢你们。</span><span class="english">I just wanna thank you.</span></p>
 
 <p><span class="chinese">目标应该是发自肺腑的！</span><span class="english">Goals need to be from the heart!</span></p>

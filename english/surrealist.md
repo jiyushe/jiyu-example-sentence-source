@@ -1,5 +1,7 @@
 # surrealist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surrealist.md)
+
 <p><span class="chinese">奥罗斯科说道，“我来自乡村，那里有许多看起来是超现实主义的艺术品。</span><span class="english">I come from a country where a lot of art is labelled surrealist.</span></p>
 
 <p><span class="chinese">他只是给出了一个介乎现实与记忆之间的超现实主义的世界。</span><span class="english">He offers simply a surrealist world located between reality and memory.</span></p>

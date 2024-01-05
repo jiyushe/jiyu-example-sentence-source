@@ -1,5 +1,7 @@
 # succedent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/succedent.md)
+
 <p><span class="chinese">该方法可以根据接收到的伪码计算其后验概率，并以此来预测随后的伪码序列。</span><span class="english">It firstly calculates the probability of the received PN codes and then forecasts succedent PN sequences.</span></p>
 
 <p><span class="chinese">处在第8宫，一个玄密宫和接续宫位中，这样的出生前日月食，带有显著的前世伤痕的痕迹。</span><span class="english">Posited in the eighth house, an Esoteric and Succedent house, a prenatal eclipse carries a most significant karmic message.</span></p>

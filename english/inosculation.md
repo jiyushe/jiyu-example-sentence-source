@@ -1,5 +1,7 @@
 # inosculation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inosculation.md)
+
 <p><span class="chinese">强化层与基体的结合为冶金结合。</span><span class="english">The inosculation between strengthened layer and matrix is metallurgic combination.</span></p>
 
 <p><span class="chinese">实例计算表明该方法与现在流行的计算方法有较好的吻合。</span><span class="english">And the calculation method has a good inosculation with the popular calculation method in practice.</span></p>

@@ -1,5 +1,7 @@
 # wuxi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wuxi.md)
+
 <p><span class="chinese">无锡所属地区是哪里？</span><span class="english">What area does Wuxi belong to?</span></p>
 
 <p><span class="chinese">来徐霞客青年旅舍吧！</span><span class="english">Come to wuxi Hiker Youth Hostel!</span></p>

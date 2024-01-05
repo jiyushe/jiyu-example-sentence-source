@@ -1,5 +1,7 @@
 # explicate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/explicate.md)
+
 <p><span class="chinese">确实，我去拜访了哈格顿教授，请他解释这个理论。</span><span class="english">Indeed, I went to visit Professor Hargadon to ask him to explicate it.</span></p>
 
 <p><span class="chinese">关于此点，本文将在结论中作适当的说明。</span><span class="english">This paper will try to explicate the theoretical implications in the conclusion.</span></p>

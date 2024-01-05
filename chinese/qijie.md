@@ -1,5 +1,7 @@
 # 气节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qijie.md)
+
 <p><span class="chinese">也不卖画宁可挨饿也不丧失气节。</span><span class="english">He would rather go hungry than lose his national integrity.</span></p>
 
 <p><span class="chinese">东林学派的人文教育特别讲究气节。</span><span class="english">The humanistic education of Dong Lin School specially valued integrity.</span></p>

@@ -1,5 +1,7 @@
 # untold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/untold.md)
+
 <p><span class="chinese">说起它呀，真是一言难尽。</span><span class="english">Talking about it is you really untold.</span></p>
 
 <p><span class="chinese">它带给我们无穷尽的痛苦和损失。</span><span class="english">It brings us untold miseries and damage.</span></p>

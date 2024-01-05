@@ -1,5 +1,7 @@
 # oar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oar.md)
+
 <p><span class="chinese">桨常可起舵的作用。</span><span class="english">An oar often acts as rudder.</span></p>
 
 <p><span class="chinese">船桨常作舵来使用。</span><span class="english">An oar often acts as a rudder.</span></p>

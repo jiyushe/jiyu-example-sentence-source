@@ -1,5 +1,7 @@
 # statue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/statue.md)
+
 <p><span class="chinese">一个超大型的雕像。</span><span class="english">A "yuge" statue.</span></p>
 
 <p><span class="chinese">我希望雕像是穿一身礼服的。</span><span class="english">I want a tuxedo on the statue.</span></p>

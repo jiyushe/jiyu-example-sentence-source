@@ -1,5 +1,7 @@
 # discolor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discolor.md)
+
 <p><span class="chinese">放心吧，这个不容易褪色。</span><span class="english">Don"t worry , this is not easy to discolor."</span></p>
 
 <p><span class="chinese">你的校服有脱色的现象吗？</span><span class="english">Had you ever discover your school uniform discolor?</span></p>

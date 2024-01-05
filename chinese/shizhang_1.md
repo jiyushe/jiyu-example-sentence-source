@@ -1,5 +1,7 @@
 # 诗章
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shizhang_1.md)
+
 <p><span class="chinese">美如玉树的诗章。</span><span class="english">A poem lovely as a tree.</span></p>
 
 <p><span class="chinese">我的诗章像快步舞或快跑一样旅行。</span><span class="english">My verses shall trip ye a jig of a fling.</span></p>

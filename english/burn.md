@@ -1,5 +1,7 @@
 # burn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burn.md)
+
 <p><span class="chinese">我的两颊很烫。</span><span class="english">My cheeks burn.</span></p>
 
 <p><span class="chinese">烧毁它，退订了它。</span><span class="english">Fire it. Burn it.</span></p>

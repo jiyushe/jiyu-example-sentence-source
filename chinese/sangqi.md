@@ -1,5 +1,7 @@
 # 丧气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sangqi.md)
+
 <p><span class="chinese">干了这一杯，不说这些丧气话了。</span><span class="english">Drink up and quit all this remorse talk.</span></p>
 
 <p><span class="chinese">真是叫人丧气,很挫败啊</span><span class="english">This is really depressing. It's discouraging.</span></p>

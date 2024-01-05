@@ -1,5 +1,7 @@
 # apportionment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apportionment.md)
+
 <p><span class="chinese">因此须对保费作出分摊。</span><span class="english">An apportionment of the premiums is necessary.</span></p>
 
 <p><span class="chinese">严格执行食品分摊政策以控制成本。</span><span class="english">Strictly adheres to the food apportionment policy to control costs.</span></p>

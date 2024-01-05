@@ -1,5 +1,7 @@
 # encasement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/encasement.md)
+
 <p><span class="chinese">板材排样可映射为一个装箱问题。</span><span class="english">The problem of plates layout can be mapped into an encasement problem.</span></p>
 
 <p><span class="chinese">在钢结构外围的混凝土常用于防火。</span><span class="english">Concrete encasement of steel structures used to be a common method of fire protection.</span></p>

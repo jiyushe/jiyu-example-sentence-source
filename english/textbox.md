@@ -1,5 +1,7 @@
 # textbox
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/textbox.md)
+
 <p><span class="chinese">该扩展程序会自动将选定日期写入对应的文本框。</span><span class="english">The extender automatically writes the selected date to the companion TextBox.</span></p>
 
 <p><span class="chinese">插入一个字符数组的子串到文本框的内容中。</span><span class="english">Inserts a subrange of an array of characters into the contents of the TextBox.</span></p>

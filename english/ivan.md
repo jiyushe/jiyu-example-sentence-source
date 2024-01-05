@@ -1,5 +1,7 @@
 # ivan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ivan.md)
+
 <p><span class="chinese">伊凡问。</span><span class="english">Ivan asks.</span></p>
 
 <p><span class="chinese">曾经是张壮业，现在是苏约翰。</span><span class="english">Once Ivan Chong, now John Soo.</span></p>

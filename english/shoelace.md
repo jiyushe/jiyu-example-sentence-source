@@ -1,5 +1,7 @@
 # shoelace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shoelace.md)
+
 <p><span class="chinese">你系好鞋带子没系好。</span><span class="english">You didn't tie your shoelace.</span></p>
 
 <p><span class="chinese">你的鞋带松了。</span><span class="english">Your shoelace has come loose.</span></p>

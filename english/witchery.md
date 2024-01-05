@@ -1,5 +1,7 @@
 # witchery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/witchery.md)
+
 <p><span class="chinese">女人的眼睛为什么如此富于魅力？</span><span class="english">Why have women such eyes of witchery ?</span></p>
 
 <p><span class="chinese">艺术不同于巫术、巫术艺术及娱乐艺术。</span><span class="english">Art can't be regarded as witchery, witchery art or entertainment art.</span></p>

@@ -1,5 +1,7 @@
 # droll
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/droll.md)
+
 <p><span class="chinese">他用一种古怪的如梦方醒的神情看着她。</span><span class="english">He looked at her with a droll sort of awakening.</span></p>
 
 <p><span class="chinese">我不知道，也许有人欣赏他滑稽的逗乐方式，我可欣赏不了。</span><span class="english">I don't know. Some people may find his droll style amusing. Not me though.</span></p>

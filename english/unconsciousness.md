@@ -1,5 +1,7 @@
 # unconsciousness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unconsciousness.md)
+
 <p><span class="chinese">眼花并可能失去知觉。</span><span class="english">Giddiness and possible unconsciousness.</span></p>
 
 <p><span class="chinese">当你的大脑渐渐丧失意识时，它到底发生了什么？</span><span class="english">What happens to your brain as it slips into unconsciousness?</span></p>

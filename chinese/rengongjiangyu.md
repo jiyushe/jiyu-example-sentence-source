@@ -1,5 +1,7 @@
 # 人工降雨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rengongjiangyu.md)
+
 <p><span class="chinese">这无疑是人工降雨的后果。</span><span class="english">It can definitely be a consequence of cloud seeding.</span></p>
 
 <p><span class="chinese">为争取更多降雨，中国人甚至用到了人工降雨技术。</span><span class="english">In an effort to bring more rain, the Chinese have even used rain-making techniques.</span></p>

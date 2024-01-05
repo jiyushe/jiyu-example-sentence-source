@@ -1,5 +1,7 @@
 # crossbred
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crossbred.md)
+
 <p><span class="chinese">杂交过的水果一般都很好吃。</span><span class="english">Generally speaking, crossbred fruits are always very tasty.</span></p>
 
 <p><span class="chinese">本试验测定值可作为考湖杂交绵羊的血液生理生化常值应用。</span><span class="english">The values determined in the experiment can be used as conventionals forKaohu crossbred sheep.</span></p>

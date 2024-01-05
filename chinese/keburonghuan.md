@@ -1,5 +1,7 @@
 # 刻不容缓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keburonghuan.md)
+
 <p><span class="chinese">因此，改革刻不容缓。</span><span class="english">So reform is urgently needed.</span></p>
 
 <p><span class="chinese">此事刻不容缓。</span><span class="english">The matter admits of no delay.</span></p>

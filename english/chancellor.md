@@ -1,5 +1,7 @@
 # chancellor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chancellor.md)
+
 <p><span class="chinese">谁被称为“铁血宰相”？</span><span class="english">Who was known as Iron chancellor?</span></p>
 
 <p><span class="chinese">西德总理赫尔穆特·施密特。</span><span class="english">Chancellor helmut schmidt of west germany.</span></p>

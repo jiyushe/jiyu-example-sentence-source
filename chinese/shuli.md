@@ -1,5 +1,7 @@
 # 梳理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuli.md)
+
 <p><span class="chinese">我在学习梳理羊毛。</span><span class="english">I'm learning to tease wool.</span></p>
 
 <p><span class="chinese">工人们正在梳理亚麻。</span><span class="english">The workers weer teasing flax.</span></p>

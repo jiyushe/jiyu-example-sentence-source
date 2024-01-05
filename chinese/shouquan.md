@@ -1,5 +1,7 @@
 # 受权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouquan.md)
+
 <p><span class="chinese">假若有，是谁受权他们这样做？</span><span class="english">And if so, by whom is it so empowered?</span></p>
 
 <p><span class="chinese">代理人受权出售该财产。</span><span class="english">The agent is empowered to sell the property.</span></p>

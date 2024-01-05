@@ -1,5 +1,7 @@
 # 请教
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingjiao.md)
+
 <p><span class="chinese">请教您的大名。</span><span class="english">Your name, please.</span></p>
 
 <p><span class="chinese">请教调试问题？</span><span class="english">Please try kdevelop.</span></p>

@@ -1,5 +1,7 @@
 # sarcoidosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sarcoidosis.md)
+
 <p><span class="chinese">肉状瘤病的病因尚不清楚。</span><span class="english">The etiology of sarcoidosis is unknown.</span></p>
 
 <p><span class="chinese">肉样瘤病的肉芽肿无干酪化病灶。</span><span class="english">In sarcoidosis there are noncaseating granulomas.</span></p>

@@ -1,5 +1,7 @@
 # 金黄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinhuang.md)
+
 <p><span class="chinese">典雅的金黄色泽。</span><span class="english">Nice Yellow-golden color.</span></p>
 
 <p><span class="chinese">他脸色红润，头发金黄。</span><span class="english">He was all rosy and blond.</span></p>

@@ -1,5 +1,7 @@
 # demonstrative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demonstrative.md)
+
 <p><span class="chinese">说明向日葵在中国广为种植。</span><span class="english">Demonstrative helianthus is in China wide to cultivate.</span></p>
 
 <p><span class="chinese">演示证据是逻辑争论的说明。</span><span class="english">Demonstrative evidence, well that's demonstration logical argument.</span></p>

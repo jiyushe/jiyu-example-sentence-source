@@ -1,5 +1,7 @@
 # 悠闲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youxian_1.md)
+
 <p><span class="chinese">在这秋雨的悠闲。</span><span class="english">In the autumn of leisure.</span></p>
 
 <p><span class="chinese">鲁迅以一种悠闲的笔调进行写作。</span><span class="english">Lu Xun writes with a leisurely pace.</span></p>

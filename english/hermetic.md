@@ -1,5 +1,7 @@
 # hermetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hermetic.md)
+
 <p><span class="chinese">电路的封装形式为10脚双列直插金属气密封装。</span><span class="english">The 10-pin hermetic power package is adopted.</span></p>
 
 <p><span class="chinese">气冷式，单段式，全密闭式压缩机。</span><span class="english">Air-cooled, one stage, totally hermetic compressor.</span></p>

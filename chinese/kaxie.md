@@ -1,5 +1,7 @@
 # 咯血
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaxie.md)
+
 <p><span class="chinese">肺结核病有咯血症状。他感染了肺结核病。</span><span class="english">In cases of tuberculosis blood is expectorated.</span></p>
 
 <p><span class="chinese">肺结核病有咯血症状。</span><span class="english">In cases of tuberculosis blood is expectorated.</span></p>

@@ -1,5 +1,7 @@
 # truman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/truman.md)
+
 <p><span class="chinese">杜鲁门喝醉了酒，跌倒在一棵树下。</span><span class="english">Truman was drunk and dropped under the tree.</span></p>
 
 <p><span class="chinese">蒙代尔先生在讲话中引用了杜鲁门的话。</span><span class="english">Mr. Mondale quoted from Truman in his speech.</span></p>

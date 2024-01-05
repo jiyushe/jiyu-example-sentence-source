@@ -1,5 +1,7 @@
 # stingray
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stingray.md)
+
 <p><span class="chinese">又有一次，他差一点被一条黄貂鱼刺伤。</span><span class="english">And once he was nearly stung by a stingray.</span></p>
 
 <p><span class="chinese">小心那些黄貂鱼和带刺的海胆！</span><span class="english">Watch out for the stingray and prickly sea urchins!</span></p>

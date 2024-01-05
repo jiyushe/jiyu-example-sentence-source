@@ -1,5 +1,7 @@
 # xxx
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xxx.md)
+
 <p><span class="chinese">我的名字是某某某。</span><span class="english">My name is xxx.</span></p>
 
 <p><span class="chinese">我想打电话给某某某。</span><span class="english">I would like to cmost XXX.</span></p>

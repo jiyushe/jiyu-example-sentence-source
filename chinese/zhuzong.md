@@ -1,5 +1,7 @@
 # 猪鬃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuzong.md)
+
 <p><span class="chinese">在某些用途，几乎东西可以代替猪鬃。</span><span class="english">There's practically no substitute for bristles for certain uses.</span></p>
 
 <p><span class="chinese">其它的蚂蚁则在其脚部粘上猪鬃，做成高跷。</span><span class="english">Others were fitted with stilts in the form of pig-bristles glued to their feet.</span></p>

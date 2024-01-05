@@ -1,5 +1,7 @@
 # 地球
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diqiu.md)
+
 <p><span class="chinese">这是我们的地球。</span><span class="english">This is our planet.</span></p>
 
 <p><span class="chinese">今天是地球日。</span><span class="english">Today is Earth Day.</span></p>

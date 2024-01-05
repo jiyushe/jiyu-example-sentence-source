@@ -1,5 +1,7 @@
 # kappa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kappa.md)
+
 <p><span class="chinese">有一天你也可能成为斐陶斐的一员。</span><span class="english">Someday you may be a Phi Beta Kappa !</span></p>
 
 <p><span class="chinese">在美国优秀大学生荣誉学会的就职会上，男生和女生的毕业典礼是分开的。</span><span class="english">At her Phi Beta Kappa induction, there were separate ceremonies for men and women.</span></p>

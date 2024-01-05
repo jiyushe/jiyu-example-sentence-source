@@ -1,5 +1,7 @@
 # 麻石
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mashi.md)
+
 <p><span class="chinese">材质多为麻石贴面、木质、塑料三种。</span><span class="english">The container material are stone, wooden, plastic.</span></p>
 
 <p><span class="chinese">阐述了麻石水膜除尘器的除尘机理、特点。</span><span class="english">Dust removal mechanism in wet cyclone and its features are discussed.</span></p>

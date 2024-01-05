@@ -1,5 +1,7 @@
 # khz
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/khz.md)
+
 <p><span class="chinese">用4125千赫兹以便通信。</span><span class="english">Use 4,125 kHz for communication.</span></p>
 
 <p><span class="chinese">用5680千赫兹以便通信。</span><span class="english">Use 5,680 kHz for communication.</span></p>

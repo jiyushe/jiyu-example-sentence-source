@@ -1,5 +1,7 @@
 # infighting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infighting.md)
+
 <p><span class="chinese">政府则陷入了没完没了的暗斗之中。</span><span class="english">The government is bogged down in endless infighting.</span></p>
 
 <p><span class="chinese">此次疫情是政府监管不力和内讧的结果。</span><span class="english">It was the result of regulatory inaction and infighting.</span></p>

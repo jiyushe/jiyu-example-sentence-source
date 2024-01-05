@@ -1,5 +1,7 @@
 # malocclusion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malocclusion.md)
+
 <p><span class="chinese">方法应用活动翼矫治器对588例错畸形病例进行矫治。</span><span class="english">Methods 588 cases of malocclusion were treated with Active-wing Appliance.</span></p>
 
 <p><span class="chinese">大鼠错可能需要访问兽医的牙齿时，他们的牙齿修整成为太长。</span><span class="english">Rats with malocclusion may need to visit a vet for tooth trimming when their teeth become too long.</span></p>

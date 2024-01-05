@@ -1,5 +1,7 @@
 # toefl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toefl.md)
+
 <p><span class="chinese">他的托福考试勉强通过了。</span><span class="english">His TOEFL has squeezed in.</span></p>
 
 <p><span class="chinese">我托福考试成绩很高。</span><span class="english">I got a high score on TOEFL.</span></p>

@@ -1,5 +1,7 @@
 # 地线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dixian.md)
+
 <p><span class="chinese">你的烘干机接好地线了吗?。</span><span class="english">Is your dryer properly earthed?</span></p>
 
 <p><span class="chinese">连接至汽车底盘地线。</span><span class="english">Connect to vehicle chassis ground.</span></p>

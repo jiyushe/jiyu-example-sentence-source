@@ -1,5 +1,7 @@
 # 深情厚谊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenqinghouyi.md)
+
 <p><span class="chinese">因此，今天就紧紧拥抱你所爱的人，在他耳边细诉你的深情厚谊。</span><span class="english">So, hold your loved ones close today, and whisper in their ear.</span></p>
 
 <p><span class="chinese">冰情雪韵中同享冰城瑰丽之冬色，和谐世界里共抒深情厚谊之情怀。</span><span class="english">Enjoy beauty of winter of ice city, enjoy friendship of harmonious world.</span></p>

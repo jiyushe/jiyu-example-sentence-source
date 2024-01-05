@@ -1,5 +1,7 @@
 # clash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clash.md)
+
 <p><span class="chinese">琴瑟不调。</span><span class="english">The stringed instruments clash.</span></p>
 
 <p><span class="chinese">他们听到刀的碰撞声。</span><span class="english">They heard the clash of swords.</span></p>

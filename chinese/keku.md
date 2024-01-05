@@ -1,5 +1,7 @@
 # 刻苦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keku.md)
+
 <p><span class="chinese">我比任何人都要刻苦。</span><span class="english">I trained harder than anyone.</span></p>
 
 <p><span class="chinese">而且她也很刻苦用功。</span><span class="english">and she's a very hard worker.</span></p>

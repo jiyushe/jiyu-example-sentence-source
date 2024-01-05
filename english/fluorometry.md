@@ -1,5 +1,7 @@
 # fluorometry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fluorometry.md)
+
 <p><span class="chinese">利用荧光光度分析法研究了黑色素对羟基自由基的清除活性。</span><span class="english">The scavenging of melanin to hydroxyl free radicals was studied by fluorometry.</span></p>
 
 <p><span class="chinese">肉制品中维生素C的测定常用比色法和荧光法。</span><span class="english">Colorimetry and fluorometry are used in analysis of Vc in beef and meat products.</span></p>

@@ -1,5 +1,7 @@
 # 惠及
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huiji_2.md)
+
 <p><span class="chinese">他们需要看到它是如何惠及他们。</span><span class="english">They need to see how it's benefiting them.</span></p>
 
 <p><span class="chinese">善思想、善言、善行、惠及众人。</span><span class="english">Good thought, good words, good deeds to benefit everyone.</span></p>

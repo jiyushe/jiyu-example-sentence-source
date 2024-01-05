@@ -1,5 +1,7 @@
 # inviolate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inviolate.md)
+
 <p><span class="chinese">遥远的、最隐秘的、不可侵犯的玫瑰。</span><span class="english">Far-off, most secret, and inviolate Rose?</span></p>
 
 <p><span class="chinese">至于教义和道德规范，没有一个主教拥有完整无缺不受侵犯的自主权。</span><span class="english">In matters of doctrine and ethics, no bishop was in possession of inviolate autonomy.</span></p>

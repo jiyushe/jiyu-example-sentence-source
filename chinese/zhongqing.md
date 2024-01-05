@@ -1,5 +1,7 @@
 # 衷情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongqing.md)
+
 <p><span class="chinese">他终于向自己人倾诉衷情。</span><span class="english">At last, among friends, he was free to speak his mind.</span></p>
 
 <p><span class="chinese">你向我倾诉衷情，听上去如此的神秘。</span><span class="english">It's such a mystery, just to hear you say you're mine.</span></p>

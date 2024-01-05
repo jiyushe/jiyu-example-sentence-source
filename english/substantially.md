@@ -1,5 +1,7 @@
 # substantially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/substantially.md)
+
 <p><span class="chinese">我的薪水在这些年里涨了很多。</span><span class="english">My salary rose substantially over the years.</span></p>
 
 <p><span class="chinese">这导致了大量的固定成本。</span><span class="english">This led to substantially higher fixed costs.</span></p>

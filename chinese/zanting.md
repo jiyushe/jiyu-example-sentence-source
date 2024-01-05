@@ -1,5 +1,7 @@
 # 暂停
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zanting.md)
+
 <p><span class="chinese">睡眠呼吸暂停是可以治疗的。</span><span class="english">It is treatable.</span></p>
 
 <p><span class="chinese">好,暂停</span><span class="english">Ok.Let's stop here.</span></p>

@@ -1,5 +1,7 @@
 # dumping
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dumping.md)
+
 <p><span class="chinese">禁止在森林中倾倒垃圾。</span><span class="english">No dumping in these woods!</span></p>
 
 <p><span class="chinese">你现在准备放油吗？</span><span class="english">Are ready for fuel dumping now?</span></p>

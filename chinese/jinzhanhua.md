@@ -1,5 +1,7 @@
 # 金盏花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinzhanhua.md)
+
 <p><span class="chinese">不过像太阳眷顾下的金盏花。</span><span class="english">But as the marigold at the sun's eye.</span></p>
 
 <p><span class="chinese">金盏花能够给你银币和金币。</span><span class="english">Marigolds give you silver and gold coins.</span></p>

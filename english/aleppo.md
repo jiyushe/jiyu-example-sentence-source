@@ -1,5 +1,7 @@
 # aleppo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aleppo.md)
+
 <p><span class="chinese">阿勒颇大清真寺里做礼拜的穆斯林祈祷者。</span><span class="english">Salah Muslim prayer, Aleppo Great Mosque.</span></p>
 
 <p><span class="chinese">视线正在向大马士革和阿勒波转移。</span><span class="english">Eyes are now turning on Damascus and Aleppo.</span></p>

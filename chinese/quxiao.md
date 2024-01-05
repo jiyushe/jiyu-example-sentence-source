@@ -1,5 +1,7 @@
 # 取消
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quxiao.md)
+
 <p><span class="chinese">取消租赁。</span><span class="english">Lease cancellation.</span></p>
 
 <p><span class="chinese">他被取消比赛资格了!</span><span class="english">He was disqualified.</span></p>

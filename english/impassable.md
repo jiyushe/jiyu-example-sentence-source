@@ -1,5 +1,7 @@
 # impassable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impassable.md)
+
 <p><span class="chinese">一个不可逾越的泥沼区。</span><span class="english">A piece of impassable bog with yield of liquid peat.</span></p>
 
 <p><span class="chinese">城墙后面是一片沼泽和难以逾越的区域。</span><span class="english">A marshy and impassable area stretched behind the walls.</span></p>

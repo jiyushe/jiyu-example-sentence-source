@@ -1,5 +1,7 @@
 # 换洗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanxi.md)
+
 <p><span class="chinese">我们应该带一套换洗的衣服。</span><span class="english">We should take a change of clothes.</span></p>
 
 <p><span class="chinese">橡皮奶嘴、尿布、换洗的衣物。</span><span class="english">Pacifiers, diapers, a change of clothes.</span></p>

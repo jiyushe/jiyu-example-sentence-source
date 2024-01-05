@@ -1,5 +1,7 @@
 # vineyard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vineyard.md)
+
 <p><span class="chinese">彻雷切克是座一家族葡萄园。</span><span class="english">Train Trak is a family owned vineyard.</span></p>
 
 <p><span class="chinese">葡萄酒在葡萄园附近被装瓶封藏。</span><span class="english">The wine was bottled near the vineyard.</span></p>

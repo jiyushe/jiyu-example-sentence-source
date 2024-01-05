@@ -1,5 +1,7 @@
 # libran
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/libran.md)
+
 <p><span class="chinese">天秤善于倾听，有很好的理解力。</span><span class="english">Libran is a great listener and has good perception skills.</span></p>
 
 <p><span class="chinese">天秤座母亲浪漫温情、充满同情心。</span><span class="english">Libran moms are sentimental, romantic and sympathetic at heart.</span></p>

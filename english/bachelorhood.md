@@ -1,5 +1,7 @@
 # bachelorhood
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bachelorhood.md)
+
 <p><span class="chinese">找一份薪水好的轻松活不容易。2。她突然透露她仍是单身。</span><span class="english">She said all of a sudden that she was still live by bachelorhood.</span></p>
 
 <p><span class="chinese">几年来，我都过着一种隐退的波西米亚式的独身生活。</span><span class="english">For a couple of years, I retreated into a life of bohemian bachelorhood.</span></p>

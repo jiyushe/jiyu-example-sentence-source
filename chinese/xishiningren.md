@@ -1,5 +1,7 @@
 # 息事宁人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xishiningren.md)
+
 <p><span class="chinese">耀明息事宁人，将电话放在群组，才停止她们吵闹。</span><span class="english">Yao Ming killed off the phone, in groups, to stop their noisy.</span></p>
 
 <p><span class="chinese">现在即使他想息事宁人，也为时太晚了。</span><span class="english">Now it was too late to smooth things over, even if he wanted to.</span></p>

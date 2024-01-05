@@ -1,5 +1,7 @@
 # feudalist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feudalist.md)
+
 <p><span class="chinese">无爱的婚姻，是中国封建社会最普遍的婚姻状况。</span><span class="english">Marriage without love is a common situation in Feudalist Society.</span></p>
 
 <p><span class="chinese">市场经济，在封建社会时期就有了萌芽。</span><span class="english">Market economy was in its embryonic stages as early as feudalist society.</span></p>

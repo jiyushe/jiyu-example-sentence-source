@@ -1,5 +1,7 @@
 # thorny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thorny.md)
+
 <p><span class="chinese">这条新路上荆棘丛生。</span><span class="english">The new path was a thorny one.</span></p>
 
 <p><span class="chinese">杂草丛中还潜伏着其它棘手的问题。</span><span class="english">Other thorny issues lurk in the weeds.</span></p>

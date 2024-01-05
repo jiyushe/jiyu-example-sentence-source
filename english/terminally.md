@@ -1,5 +1,7 @@
 # terminally
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terminally.md)
+
 <p><span class="chinese">今天，我采访了一个病重的老妇人。</span><span class="english">Today, I interviewed a woman who is terminally ill.</span></p>
 
 <p><span class="chinese">血红细胞是一种终末分化细胞</span><span class="english">Red blood cells are terminally differentiated cells.</span></p>

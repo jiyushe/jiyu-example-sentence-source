@@ -1,5 +1,7 @@
 # 领海
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/linghai.md)
+
 <p><span class="chinese">这里是中国的领海！</span><span class="english">These are Chinas mare clausum!</span></p>
 
 <p><span class="chinese">英国领海是“军事区”。</span><span class="english">British waters were a "military area".</span></p>

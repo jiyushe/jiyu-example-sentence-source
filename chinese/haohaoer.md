@@ -1,5 +1,7 @@
 # 好好儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haohaoer.md)
+
 <p><span class="chinese">咱俩好好儿聊一聊。</span><span class="english">Let's have a good talk.</span></p>
 
 <p><span class="chinese">好好儿想一想。</span><span class="english">Think it over carefully.</span></p>

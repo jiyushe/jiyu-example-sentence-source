@@ -1,5 +1,7 @@
 # haversian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/haversian.md)
+
 <p><span class="chinese">很多恐龙确实有哈弗森管，这是事实不能否认。</span><span class="english">Many dinosaur bones do have Haversian canals, and that is true.</span></p>
 
 <p><span class="chinese">良多恐龙确实有哈弗森管，这是事实不能否认。</span><span class="english">Many dinosaur bones do have Haversian canals, and that is true.</span></p>

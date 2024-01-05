@@ -1,5 +1,7 @@
 # typing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/typing.md)
+
 <p><span class="chinese">什么是类型化？</span><span class="english">What is typing?</span></p>
 
 <p><span class="chinese">所以，我挽起袖子开始打键盘了。</span><span class="english">So I started typing.</span></p>

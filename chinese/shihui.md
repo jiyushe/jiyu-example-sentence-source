@@ -1,5 +1,7 @@
 # 实惠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shihui.md)
+
 <p><span class="chinese">我的车在经济实惠方面比得上你的车。</span><span class="english">My car equals yours in economy.</span></p>
 
 <p><span class="chinese">抢不到的实惠，打对折销售哦！</span><span class="english">Do not grab benefits, half price sale!</span></p>

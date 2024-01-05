@@ -1,5 +1,7 @@
 # probative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/probative.md)
+
 <p><span class="chinese">刑事证明责任的关键问题在于责任分配问题。</span><span class="english">The key of criminal probative obligation lies in the distribution of the litigation.</span></p>
 
 <p><span class="chinese">案件的细节证实，某些血迹比其他更能提供证据。</span><span class="english">Details of the case may demonstrate that certain bloodstains are more probative than others.</span></p>

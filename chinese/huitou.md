@@ -1,5 +1,7 @@
 # 回头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huitou.md)
+
 <p><span class="chinese">我赶快回头。</span><span class="english">I hastened back.</span></p>
 
 <p><span class="chinese">我回头望着她。</span><span class="english">I looked back at her.</span></p>

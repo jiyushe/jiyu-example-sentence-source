@@ -1,5 +1,7 @@
 # theodore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theodore.md)
+
 <p><span class="chinese">艾文、赛门与喜多是三只花栗鼠。</span><span class="english">Alvin, Simon, and Theodore are chipmunks.</span></p>
 
 <p><span class="chinese">例如弗雷德里克·西奥多·普莱德。</span><span class="english">Take Frederick Theodore Prady, for example.</span></p>

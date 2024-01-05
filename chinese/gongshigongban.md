@@ -1,5 +1,7 @@
 # 公事公办
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongshigongban.md)
+
 <p><span class="chinese">这只是公事公办。</span><span class="english">It's just business.</span></p>
 
 <p><span class="chinese">她以一种简洁和公事公办的方式通知他。</span><span class="english">She told him in a curt and businesslike manner.</span></p>

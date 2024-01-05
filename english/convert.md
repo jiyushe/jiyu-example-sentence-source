@@ -1,5 +1,7 @@
 # convert 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/convert.md)
+
 <p><span class="chinese">为什么它要转换？</span><span class="english">Why does it convert?</span></p>
 
 <p><span class="chinese">转换677英里以公里。</span><span class="english">Convert 677 miles to km.</span></p>

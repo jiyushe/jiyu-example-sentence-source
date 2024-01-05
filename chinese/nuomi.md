@@ -1,5 +1,7 @@
 # 糯米
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nuomi.md)
+
 <p><span class="chinese">Jizo给老人带来了糯米糕。</span><span class="english">The jizo brought the rice cakes.</span></p>
 
 <p><span class="chinese">他们没有钱买糯米糕。</span><span class="english">They didn't have any money for rice.</span></p>

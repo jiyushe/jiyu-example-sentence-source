@@ -1,5 +1,7 @@
 # crud
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crud.md)
+
 <p><span class="chinese">这里的要更象是”匍匐前进的肮脏东西“。</span><span class="english">This is more like the Creeping Crud.</span></p>
 
 <p><span class="chinese">你不需要写DAO，如果你只是需要一般性CRUD的功能。</span><span class="english">You don't need to write DAOs if you just need generic CRUD functionality.</span></p>

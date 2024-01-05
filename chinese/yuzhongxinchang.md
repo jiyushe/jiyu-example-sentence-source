@@ -1,5 +1,7 @@
 # 语重心长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuzhongxinchang.md)
+
 <p><span class="chinese">语重心长的命令，蕴藏巨大的力量。</span><span class="english">There is great force hidden in a sweet command.</span></p>
 
 <p><span class="chinese">他语重心长，但年轻的听众却没有领会。</span><span class="english">His profundities were lost on the young audience.</span></p>

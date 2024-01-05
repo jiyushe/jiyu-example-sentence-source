@@ -1,5 +1,7 @@
 # mouthpiece
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mouthpiece.md)
+
 <p><span class="chinese">纽扣、残余的皮带和接口管。</span><span class="english">Buttons, remnants of a belt and a mouthpiece.</span></p>
 
 <p><span class="chinese">在革命者中，他是毫无争议的不二喉舌。</span><span class="english">He was the revolution’s unrivalled mouthpiece.</span></p>

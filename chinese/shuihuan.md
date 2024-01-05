@@ -1,5 +1,7 @@
 # 水患
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuihuan.md)
+
 <p><span class="chinese">连续五天的雨势酿成了水患。</span><span class="english">Five straight days of rain caused flooding.</span></p>
 
 <p><span class="chinese">乾旱、地震和水患全都是天然灾害。</span><span class="english">Droughts, earthquakes, and floods are all natural disasters.</span></p>

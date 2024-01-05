@@ -1,5 +1,7 @@
 # distance 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/distance.md)
+
 <p><span class="chinese">距离是你的敌人。</span><span class="english">Distance is your enemy.</span></p>
 
 <p><span class="chinese">爱情能缩短距离。</span><span class="english">Love shortens distance.</span></p>

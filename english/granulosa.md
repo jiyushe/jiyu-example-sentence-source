@@ -1,5 +1,7 @@
 # granulosa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/granulosa.md)
+
 <p><span class="chinese">如果是原发的，我认为是粒层细胞瘤。</span><span class="english">If it is ovarian primary, I favor granulosa tumor.</span></p>
 
 <p><span class="chinese">用琼脂糖凝胶电泳检测两类卵的颗粒细胞凋亡。</span><span class="english">Granulosa cell apoptosis was detected by agarose gel electrophoresis.</span></p>

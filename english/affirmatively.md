@@ -1,5 +1,7 @@
 # affirmatively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/affirmatively.md)
+
 <p><span class="chinese">那妇人点点头。</span><span class="english">The woman nodded affirmatively.</span></p>
 
 <p><span class="chinese">巴拉瑟夫肯定地点了点头。</span><span class="english">Balashov bent his head affirmatively.</span></p>

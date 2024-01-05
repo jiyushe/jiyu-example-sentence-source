@@ -1,5 +1,7 @@
 # 比划
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bihua_1.md)
+
 <p><span class="chinese">他无助的比划着。</span><span class="english">He gestured helplessly.</span></p>
 
 <p><span class="chinese">一定会有人对你比划,嘘,对吧</span><span class="english">Somebody will go, "Shh." Right?</span></p>

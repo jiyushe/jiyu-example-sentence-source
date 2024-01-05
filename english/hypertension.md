@@ -1,5 +1,7 @@
 # hypertension
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypertension.md)
+
 <p><span class="chinese">橄榄叶可治疗高血压？</span><span class="english">Olive Leaf to Treat Hypertension?</span></p>
 
 <p><span class="chinese">高血压防治上亦不例外。</span><span class="english">Hypertension prevention, is no exception.</span></p>

@@ -1,5 +1,7 @@
 # chameleon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chameleon.md)
+
 <p><span class="chinese">你是社交变色龙吗？</span><span class="english">Are You a Social Chameleon?</span></p>
 
 <p><span class="chinese">变色龙觉得饿极了。</span><span class="english">But the chameleon was very mixed-up.</span></p>

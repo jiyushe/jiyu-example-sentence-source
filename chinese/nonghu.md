@@ -1,5 +1,7 @@
 # 农户
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nonghu.md)
+
 <p><span class="chinese">主要监测对象为重点村的农户。</span><span class="english">Targets are households in key villages.</span></p>
 
 <p><span class="chinese">一天农户的一头驴子不小心掉到井里了。</span><span class="english">One day a farmer’s donkey fell down into a well.</span></p>

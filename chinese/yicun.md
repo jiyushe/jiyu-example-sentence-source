@@ -1,5 +1,7 @@
 # 遗存
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yicun.md)
+
 <p><span class="chinese">有巢氏阶段的文化遗存为凌家滩遗址。</span><span class="english">The cultural bequeath of Youchao is Ling-jia-tan site.</span></p>
 
 <p><span class="chinese">刀郎木卡姆是人类狩猎社会的文化遗存。</span><span class="english">Dulan Muqam is the cultural legacy of human hunting society.</span></p>

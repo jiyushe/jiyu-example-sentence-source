@@ -1,5 +1,7 @@
 # uniquely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/uniquely.md)
+
 <p><span class="chinese">适合正常发质电发使用。</span><span class="english">Uniquely for normal hair.</span></p>
 
 <p><span class="chinese">什么使我们人类不同于其他生物的呢？</span><span class="english">What is it that makes us uniquely human?</span></p>

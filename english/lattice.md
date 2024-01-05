@@ -1,5 +1,7 @@
 # lattice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lattice.md)
+
 <p><span class="chinese">这就是所谓的“晶格”。</span><span class="english">This is the lattice.</span></p>
 
 <p><span class="chinese">继之，构建粗糙概念格。</span><span class="english">Fourth, build rough concept lattice.</span></p>

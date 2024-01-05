@@ -1,5 +1,7 @@
 # 雪崩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuebeng.md)
+
 <p><span class="chinese">就在这雪崩后不久。</span><span class="english">Just after the avalanche.</span></p>
 
 <p><span class="chinese">他死于雪崩。</span><span class="english">He was killed by the snowslide.</span></p>

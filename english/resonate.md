@@ -1,5 +1,7 @@
 # resonate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resonate.md)
+
 <p><span class="chinese">根本没有共鸣。</span><span class="english">Not resonate at all.</span></p>
 
 <p><span class="chinese">你对以上那些有共鸣吗？</span><span class="english">So, do any of these resonate with you?</span></p>

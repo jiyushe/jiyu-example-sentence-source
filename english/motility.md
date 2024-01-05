@@ -1,5 +1,7 @@
 # motility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/motility.md)
+
 <p><span class="chinese">受试这中，大部分男性都患有少精症或者弱精症。</span><span class="english">Most men in the trials had low sperm counts or low sperm motility.</span></p>
 
 <p><span class="chinese">润滑剂、洗涤剂和唾液都导致精子活性的降低。</span><span class="english">Lubricants, lotions and saliva all result in decreased sperm motility.</span></p>

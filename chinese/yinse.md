@@ -1,5 +1,7 @@
 # 银色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinse.md)
+
 <p><span class="chinese">银色月光洒下的道路。</span><span class="english">A path of silver moonbeam.</span></p>
 
 <p><span class="chinese">银色黎明完蛋了！</span><span class="english">The Argent Dawn is finished!</span></p>

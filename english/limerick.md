@@ -1,5 +1,7 @@
 # limerick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/limerick.md)
+
 <p><span class="chinese">如果你知道就到利默里克来。</span><span class="english">If you know please come up to Limerick.</span></p>
 
 <p><span class="chinese">或者上帝为了使你高兴而抛出一首五行打油诗。</span><span class="english">Or God will toss off a limerick for your pleasure.</span></p>

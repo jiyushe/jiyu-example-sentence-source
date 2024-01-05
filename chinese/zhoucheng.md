@@ -1,5 +1,7 @@
 # 轴承
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhoucheng.md)
+
 <p><span class="chinese">轴承歪斜。</span><span class="english">Bearings askew.</span></p>
 
 <p><span class="chinese">主轴承盖松动。</span><span class="english">Loose main bearing cap.</span></p>

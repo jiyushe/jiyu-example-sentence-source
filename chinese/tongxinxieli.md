@@ -1,5 +1,7 @@
 # 同心协力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongxinxieli.md)
+
 <p><span class="chinese">他们同心协力，可以在几天内完成这件工作。</span><span class="english">Between them they can finish the job in a few days.</span></p>
 
 <p><span class="chinese">现在，同心协力，我们把这些荒唐事永远的转变！</span><span class="english">Now, together, we are reversing this folly forever!</span></p>

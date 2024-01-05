@@ -1,5 +1,7 @@
 # phantasy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phantasy.md)
+
 <p><span class="chinese">一个时间梦里的幻想。</span><span class="english">A phantasy in time's dream.</span></p>
 
 <p><span class="chinese">你有这种怪想法多久了？</span><span class="english">How long have you been having this phantasy?</span></p>

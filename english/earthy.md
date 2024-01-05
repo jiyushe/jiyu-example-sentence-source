@@ -1,5 +1,7 @@
 # earthy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earthy.md)
+
 <p><span class="chinese">土状一个感觉。</span><span class="english">An earthy feeling.</span></p>
 
 <p><span class="chinese">摩羯座是土相星座。</span><span class="english">Capricorn is an earthy sign.</span></p>

@@ -1,5 +1,7 @@
 # 游离
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youli_3.md)
+
 <p><span class="chinese">金属呈游离态的很少。</span><span class="english">Few metals occur free.</span></p>
 
 <p><span class="chinese">游离和水解的甲醛。</span><span class="english">Free and hydrolyzed formaldehyde.</span></p>

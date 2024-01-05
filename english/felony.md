@@ -1,5 +1,7 @@
 # felony
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/felony.md)
+
 <p><span class="chinese">你会到重罪弗兰克斯餐馆去用餐吗？</span><span class="english">Would you eat at Felony Franks?</span></p>
 
 <p><span class="chinese">如果罪名成立，每一项都将判处她一年的罪刑。</span><span class="english">She faces a year for each felony count if convicted.</span></p>

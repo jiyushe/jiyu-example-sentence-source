@@ -1,5 +1,7 @@
 # 咫尺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhichi.md)
+
 <p><span class="chinese">咫尺关山。</span><span class="english">Right close off mountain.</span></p>
 
 <p><span class="chinese">教堂咫尺地，可理任何人。</span><span class="english">A piece of the church- yard fit everybody.</span></p>

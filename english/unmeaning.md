@@ -1,5 +1,7 @@
 # unmeaning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unmeaning.md)
+
 <p><span class="chinese">讲的话再多，也只会被事实的真相给揭穿而无意义。</span><span class="english">Talk too much, also will expose by the fact and become unmeaning.</span></p>
 
 <p><span class="chinese">而现在的很多时间却在一些无意义的事情中流过，真是可惜！</span><span class="english">It is a pity that time is passing during the unmeaning things everyday.</span></p>

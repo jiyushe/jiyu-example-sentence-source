@@ -1,5 +1,7 @@
 # 应验
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingyan.md)
+
 <p><span class="chinese">我的预感应验了。</span><span class="english">My premonition was right.</span></p>
 
 <p><span class="chinese">我所猜测的都应验了。</span><span class="english">I was right in my conjectures.</span></p>

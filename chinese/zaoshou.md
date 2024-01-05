@@ -1,5 +1,7 @@
 # 遭受
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaoshou.md)
+
 <p><span class="chinese">我们的经济仍在遭受创痛……需要采取进一步措施。</span><span class="english">Further action is needed.</span></p>
 
 <p><span class="chinese">我们遭受敌人围攻。</span><span class="english">We were beset by enemies.</span></p>

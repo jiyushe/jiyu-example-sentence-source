@@ -1,5 +1,7 @@
 # recharge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recharge.md)
+
 <p><span class="chinese">那里可以买储值卡？</span><span class="english">Where can I buy recharge cards?</span></p>
 
 <p><span class="chinese">我需要充电我的大哥大。</span><span class="english">I need to recharge my cell phone.</span></p>

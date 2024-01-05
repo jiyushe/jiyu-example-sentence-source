@@ -1,5 +1,7 @@
 # towards 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/towards.md)
+
 <p><span class="chinese">他对她俯下身去。</span><span class="english">He bent over towards her.</span></p>
 
 <p><span class="chinese">我朝车门口走去。</span><span class="english">I moved towards the door.</span></p>

@@ -1,5 +1,7 @@
 # 跟头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gentou.md)
+
 <p><span class="chinese">孩子们在草地上翻起了跟头。</span><span class="english">Children tumbled in the grass.</span></p>
 
 <p><span class="chinese">我在草地上翻了个跟头。</span><span class="english">I turned a somersault on the lawn.</span></p>

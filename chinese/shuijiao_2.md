@@ -1,5 +1,7 @@
 # 睡觉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuijiao_2.md)
+
 <p><span class="chinese">我们十点半睡觉。</span><span class="english">We go to bed at.</span></p>
 
 <p><span class="chinese">在飞机上睡觉。</span><span class="english">Sleep on the plane.</span></p>

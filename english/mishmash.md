@@ -1,5 +1,7 @@
 # mishmash
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mishmash.md)
+
 <p><span class="chinese">日语正变成一个混乱的大杂烩。</span><span class="english">Japanese is turning into a confused mishmash of languages.</span></p>
 
 <p><span class="chinese">我们的一些梦是杂乱无章的。</span><span class="english">Some of our dreams may be a haphazard mishmash of thoughts.</span></p>

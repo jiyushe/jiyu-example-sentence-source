@@ -1,5 +1,7 @@
 # 家小
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaxiao.md)
+
 <p><span class="chinese">我家小狗狗喜欢冲我摇尾巴。</span><span class="english">My puppy likes to wag his tail at me.</span></p>
 
 <p><span class="chinese">建立一个志同道合的企业家小群体</span><span class="english">Form a small group of like-minded business owners</span></p>

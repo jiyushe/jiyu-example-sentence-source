@@ -1,5 +1,7 @@
 # 再度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaidu.md)
+
 <p><span class="chinese">阿曼尼将会再度统治世界！</span><span class="english">Da Amani gonna rule again!</span></p>
 
 <p><span class="chinese">也许它还会再度矗立于大地之上。</span><span class="english">And maybe it will be again.</span></p>

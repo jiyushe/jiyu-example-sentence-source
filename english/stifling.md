@@ -1,5 +1,7 @@
 # stifling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stifling.md)
+
 <p><span class="chinese">阴暗的天空令人感到沉闷。</span><span class="english">The overcast sky is stifling.</span></p>
 
 <p><span class="chinese">在这个窄狭的房间里面我感到憋闷。</span><span class="english">I am stifling in this close room.</span></p>

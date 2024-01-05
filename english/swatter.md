@@ -1,5 +1,7 @@
 # swatter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swatter.md)
+
 <p><span class="chinese">他举起了苍蝇拍。</span><span class="english">He got the fly swatter.</span></p>
 
 <p><span class="chinese">你的耳朵可以拿来当苍蝇拍吗？</span><span class="english">Can you use them for a swatter?</span></p>

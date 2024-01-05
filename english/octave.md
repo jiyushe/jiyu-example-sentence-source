@@ -1,5 +1,7 @@
 # octave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/octave.md)
+
 <p><span class="chinese">这叫做八度音阶</span><span class="english">This is called an octave.</span></p>
 
 <p><span class="chinese">钾与钠隔着一个八度。</span><span class="english">Potassium lies one octave from sodium.</span></p>

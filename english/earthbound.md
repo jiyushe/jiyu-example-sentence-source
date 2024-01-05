@@ -1,5 +1,7 @@
 # earthbound
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/earthbound.md)
+
 <p><span class="chinese">他实践生根于土壤的现实主义艺术。</span><span class="english">He practiced the art of earthbound realism.</span></p>
 
 <p><span class="chinese">靠土地吃饭的生活不需要杂货店。</span><span class="english">The earthbound life required no grocery stores.</span></p>

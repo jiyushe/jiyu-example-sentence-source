@@ -1,5 +1,7 @@
 # 干流
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganliu.md)
+
 <p><span class="chinese">辅助音频信号的干流通道。</span><span class="english">Discreet stream path for auxiliary audio signals.</span></p>
 
 <p><span class="chinese">乌江流域土壤含汞值高，在乌江干流将进行九级开发。</span><span class="english">There is higher mercury in the soil near Wu Jiang River.</span></p>

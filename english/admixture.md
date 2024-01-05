@@ -1,5 +1,7 @@
 # admixture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/admixture.md)
+
 <p><span class="chinese">采用冷混合法制备宠物用复方酮康唑香波。</span><span class="english">Compound ketoconazole pet shampoo was preparationed by cold admixture.</span></p>
 
 <p><span class="chinese">改进P.O32.5R水泥早期强度提高混合材掺加量。</span><span class="english">Early Strength Improvement of P. O32.5R Cement By Adding More Admixture.</span></p>

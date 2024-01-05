@@ -1,5 +1,7 @@
 # igg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/igg.md)
+
 <p><span class="chinese">结果疫苗接种后人群总抗体阳性率有显著的提高。</span><span class="english">Results Anti HAV IgG positive rate of whole population increased significantly.</span></p>
 
 <p><span class="chinese">不同性别抗体阳性率和抗体保护率差异无显著性。</span><span class="english">There was no significant difference between different age groups in positive rate of IgG.</span></p>

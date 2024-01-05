@@ -1,5 +1,7 @@
 # 示例
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shili_7.md)
+
 <p><span class="chinese">新的TFS示例。</span><span class="english">New TFS Samples.</span></p>
 
 <p><span class="chinese">从一个示例开始。</span><span class="english">Start with an example.</span></p>

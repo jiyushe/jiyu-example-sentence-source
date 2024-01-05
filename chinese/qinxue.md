@@ -1,5 +1,7 @@
 # 勤学
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinxue.md)
+
 <p><span class="chinese">少年不知勤学早，白首方悔读书迟。</span><span class="english">Boy no time, white square regret later reading.</span></p>
 
 <p><span class="chinese">业务由勤学为径，工作有安全做舟。</span><span class="english">Business logistics for size, safety work to do.</span></p>

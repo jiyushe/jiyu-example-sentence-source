@@ -1,5 +1,7 @@
 # genetical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/genetical.md)
+
 <p><span class="chinese">其发光突变株具有稳定的遗传学性质。</span><span class="english">These luminous revertants have stable genetical characters.</span></p>
 
 <p><span class="chinese">但是也有许多的食物包含有基因工程改良的大豆卵磷脂，玉米糖浆和其他的产品。</span><span class="english">But many foods contain genetical ly modified soy lecithin corn syrup and other products.</span></p>

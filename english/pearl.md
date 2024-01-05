@@ -1,5 +1,7 @@
 # pearl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pearl.md)
+
 <p><span class="chinese">珠儿回答道。</span><span class="english">answered Pearl.</span></p>
 
 <p><span class="chinese">也是珠儿叫我受着惩罚！</span><span class="english">Pearl punishes me too!</span></p>

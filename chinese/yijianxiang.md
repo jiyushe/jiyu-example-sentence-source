@@ -1,5 +1,7 @@
 # 意见箱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yijianxiang.md)
+
 <p><span class="chinese">员工意见箱。</span><span class="english">Staff suggestion box.</span></p>
 
 <p><span class="chinese">摈弃意见箱。</span><span class="english">Ditch the suggestion box.</span></p>

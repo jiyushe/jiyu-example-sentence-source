@@ -1,5 +1,7 @@
 # 海参
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haishen.md)
+
 <p><span class="chinese">海参中含有大且精氨酸。</span><span class="english">In the trepang includes and greatly arginine.</span></p>
 
 <p><span class="chinese">松藻是一些海参的美食。</span><span class="english">Codium is the favourite food of some sea slugs.</span></p>

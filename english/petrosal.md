@@ -1,5 +1,7 @@
 # petrosal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/petrosal.md)
+
 <p><span class="chinese">被标记的嗉囊感觉神经元出现于远神经节、岩神经节和颈静脉神经节内。</span><span class="english">The labeled sensory neurons were found in the distal, petrosal and jugulargonglia.</span></p>
 
 <p><span class="chinese">岩上窦与乙状窦的夹角大小，亦有助于决定去除颞骨的范围。</span><span class="english">The angle between superior petrosal sinus and sigmoid also shows the range we can resect.</span></p>

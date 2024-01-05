@@ -1,5 +1,7 @@
 # 违反
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weifan.md)
+
 <p><span class="chinese">他们违反了上帝。</span><span class="english">They had violated God.</span></p>
 
 <p><span class="chinese">不要违反道德的准则。</span><span class="english">Don't violate moral codes.</span></p>

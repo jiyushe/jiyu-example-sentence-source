@@ -1,5 +1,7 @@
 # 谕旨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuzhi_3.md)
+
 <p><span class="chinese">上帝谕旨就是这样。</span><span class="english">A. God has so decreed it.</span></p>
 
 <p><span class="chinese">他们密谋反对皇帝的谕旨。</span><span class="english">They caballed against the emperor's edict.</span></p>

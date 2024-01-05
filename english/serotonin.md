@@ -1,5 +1,7 @@
 # serotonin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serotonin.md)
+
 <p><span class="chinese">你需要给自己补充点血清素了。</span><span class="english">Your serotonin levels need toping up.</span></p>
 
 <p><span class="chinese">百忧解作用于血清素</span><span class="english">There are-- Prozac works on serotonin.</span></p>

@@ -1,5 +1,7 @@
 # 长舌妇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changshefu.md)
+
 <p><span class="chinese">她是一个喜欢东家长西家短的长舌妇。</span><span class="english">She is a woman who likes to tittle-tattle.</span></p>
 
 <p><span class="chinese">她把这事告诉给了一个密友，一个长舌妇。</span><span class="english">She told her story to Closer, a scandal rag.</span></p>

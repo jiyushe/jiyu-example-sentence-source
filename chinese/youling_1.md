@@ -1,5 +1,7 @@
 # 幽灵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youling_1.md)
+
 <p><span class="chinese">我不知道，一个幽灵？</span><span class="english">I don’t know. A spirit?</span></p>
 
 <p><span class="chinese">那个幽灵唱诗班就是最好的。</span><span class="english">The ghost choir is the best.</span></p>

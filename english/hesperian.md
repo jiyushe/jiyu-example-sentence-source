@@ -1,5 +1,7 @@
 # hesperian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hesperian.md)
+
 <p><span class="chinese">白色是西方人喜爱的颜色。</span><span class="english">White is the color that Hesperian likes.</span></p>
 
 <p><span class="chinese">在西方人眼里他是中国的拿破仑。</span><span class="english">In the Napoleon that he is China in Hesperian eye.</span></p>

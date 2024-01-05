@@ -1,5 +1,7 @@
 # 死神
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sishen.md)
+
 <p><span class="chinese">但是死神很狡猾。</span><span class="english">But Death was cunning.</span></p>
 
 <p><span class="chinese">死神在敲门，接近死亡。</span><span class="english">He banged at the door.</span></p>

@@ -1,5 +1,7 @@
 # predominance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/predominance.md)
+
 <p><span class="chinese">为什么欧洲会崛起并主宰世界？</span><span class="english">Why did Europe rise to predominance?</span></p>
 
 <p><span class="chinese">铁路线如何加强巴黎主导地位的,一个显著原因便是</span><span class="english">An obvious reason how trains reinforce the predominance of Paris.</span></p>

@@ -1,5 +1,7 @@
 # gorgeous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gorgeous.md)
+
 <p><span class="chinese">在我看来你非常美艳动人！</span><span class="english">You look gorgeous to me.</span></p>
 
 <p><span class="chinese">华丽的腕表系列！</span><span class="english">Gorgeous watch collection!</span></p>

@@ -1,5 +1,7 @@
 # 可比价格
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kebijiage.md)
+
 <p><span class="chinese">国内生产总值增长速度按可比价格计算。</span><span class="english">GDP growth rate is calculated at comparable prices.</span></p>
 
 <p><span class="chinese">本表按可比价格计算。</span><span class="english">Data in this table are calculated at constant pieces.</span></p>

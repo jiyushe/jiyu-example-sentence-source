@@ -1,5 +1,7 @@
 # ranch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ranch.md)
+
 <p><span class="chinese">他拥有自己的农场。</span><span class="english">He owned his own ranch.</span></p>
 
 <p><span class="chinese">他拥有一个足以自豪的农场。</span><span class="english">He boasted a fine ranch.</span></p>

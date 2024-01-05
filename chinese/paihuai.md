@@ -1,5 +1,7 @@
 # 徘徊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paihuai.md)
+
 <p><span class="chinese">避免在失败者周围徘徊。</span><span class="english">Avoid hanging around losers.</span></p>
 
 <p><span class="chinese">你可以把他们乘坐徘徊者。</span><span class="english">You could call them twixters.</span></p>

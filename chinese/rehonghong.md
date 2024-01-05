@@ -1,5 +1,7 @@
 # 热烘烘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rehonghong.md)
+
 <p><span class="chinese">屋里热烘烘的。</span><span class="english">It's very warm in the room.</span></p>
 
 <p><span class="chinese">许多狗在热烘烘的汽车里给闷死了.</span><span class="english">Many dogs have suffocated in hot cars.</span></p>

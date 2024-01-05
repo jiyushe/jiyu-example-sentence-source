@@ -1,5 +1,7 @@
 # 忍痛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rentong.md)
+
 <p><span class="chinese">我忍痛和妻子分手。</span><span class="english">I tore myself away from my wife.</span></p>
 
 <p><span class="chinese">忍痛买下诸多精品。</span><span class="english">Have withstood pain to buy many accessories.</span></p>

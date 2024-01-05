@@ -1,5 +1,7 @@
 # 轴心国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhouxinguo.md)
+
 <p><span class="chinese">希特勒在东部与日本结成轴心国联盟。</span><span class="english">The Axis alliance with Japan in the East.</span></p>
 
 <p><span class="chinese">苏联红军摧毁了轴心国的507个师。</span><span class="english">The Red Army destroyed 507 Axis divisions.</span></p>

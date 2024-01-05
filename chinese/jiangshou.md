@@ -1,5 +1,7 @@
 # 讲授
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangshou.md)
+
 <p><span class="chinese">讲授语音课与口语课。</span><span class="english">To teach Oral English Lesson.</span></p>
 
 <p><span class="chinese">讲授如何编写干净代码。</span><span class="english">Teach how to write clean code.</span></p>

@@ -1,5 +1,7 @@
 # 罢课
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bake.md)
+
 <p><span class="chinese">学生举行罢课。</span><span class="english">The students are out on strike.</span></p>
 
 <p><span class="chinese">他们已经呼吁学生罢课。</span><span class="english">They've also called for student walkouts.</span></p>

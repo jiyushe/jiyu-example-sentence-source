@@ -1,5 +1,7 @@
 # 票价
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piaojia.md)
+
 <p><span class="chinese">票价是多少？</span><span class="english">How much is the fare?</span></p>
 
 <p><span class="chinese">所以，这就推动了票价上涨。</span><span class="english">so this pushes the price up.</span></p>

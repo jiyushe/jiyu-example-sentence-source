@@ -1,5 +1,7 @@
 # 不冷不热
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bulengbure.md)
+
 <p><span class="chinese">不冷不热的时刻己经过去。</span><span class="english">The time for lukewarmness is past.</span></p>
 
 <p><span class="chinese">他作出这样一种不冷不热的回应对以色列没有帮助。</span><span class="english">He is doing Israel no favors with such a tepid response.</span></p>

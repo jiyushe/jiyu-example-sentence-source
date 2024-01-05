@@ -1,5 +1,7 @@
 # 模型
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moxing.md)
+
 <p><span class="chinese">评审这个模型。</span><span class="english">Review the model.</span></p>
 
 <p><span class="chinese">他用粘土做模型。</span><span class="english">He models in clay.</span></p>

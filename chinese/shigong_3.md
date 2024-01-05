@@ -1,5 +1,7 @@
 # 石宫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shigong_3.md)
+
 <p><span class="chinese">这里是第三宫，称之为“湖石宫”。</span><span class="english">Here is the third palace, the "Palace of Lake Stones".</span></p>
 
 <p><span class="chinese">这样就可以毫不费力地把砖头运到“花岗石宫”上去了。</span><span class="english">In this way bricks could easily be raised into Granite House.</span></p>

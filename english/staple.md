@@ -1,5 +1,7 @@
 # staple
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/staple.md)
+
 <p><span class="chinese">我需要钉书机。</span><span class="english">I need a staple gun.</span></p>
 
 <p><span class="chinese">米是我们的主食。</span><span class="english">Rice is our staple food.</span></p>

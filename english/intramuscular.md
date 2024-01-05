@@ -1,5 +1,7 @@
 # intramuscular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intramuscular.md)
+
 <p><span class="chinese">肌内注射一剂苄星青霉素即有疗效。</span><span class="english">A single intramuscular injection of Benzathine Penicillin is curative.</span></p>
 
 <p><span class="chinese">外洗组以外洗通络方外洗，西药组采用腺苷钴胺肌注。</span><span class="english">The control group was treated with intramuscular injection of Cobamamide.</span></p>

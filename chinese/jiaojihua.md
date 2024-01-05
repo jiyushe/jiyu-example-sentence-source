@@ -1,5 +1,7 @@
 # 交际花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaojihua.md)
+
 <p><span class="chinese">她是交际花胡蝶。</span><span class="english">She is a social butterfly.</span></p>
 
 <p><span class="chinese">那个女孩是个出了名的交际花。</span><span class="english">That girl is a well-known social butterfly.</span></p>

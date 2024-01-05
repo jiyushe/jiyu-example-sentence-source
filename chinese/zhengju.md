@@ -1,5 +1,7 @@
 # 政局
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengju.md)
+
 <p><span class="chinese">波兰政局再次发生动荡。</span><span class="english">Poland's government wobbled again.</span></p>
 
 <p><span class="chinese">政局不稳。</span><span class="english">The political situation was unstable.</span></p>

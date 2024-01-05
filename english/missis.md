@@ -1,5 +1,7 @@
 # missis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/missis.md)
+
 <p><span class="chinese">嗨。你还没看到我们最后的情况，太太。</span><span class="english">Hey. You haven't seen the last of us, missis.</span></p>
 
 <p><span class="chinese">奥巴马太太说有两个蜂房提供蜂蜜。</span><span class="english">Missis Obama said 2 beehives will provide honey.</span></p>

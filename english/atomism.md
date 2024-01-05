@@ -1,5 +1,7 @@
 # atomism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/atomism.md)
+
 <p><span class="chinese">逻辑原子主义关于确定性知识的主要内容。</span><span class="english">Second, the main contents of certain knowledge discussed in logical atomism.</span></p>
 
 <p><span class="chinese">西方近代农学则以还原论为基础，以实验、分析方法为特征。</span><span class="english">Western Agronomy is based on atomism and observes things by the way of experiment.</span></p>

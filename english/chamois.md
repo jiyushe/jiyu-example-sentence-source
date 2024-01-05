@@ -1,5 +1,7 @@
 # chamois
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chamois.md)
+
 <p><span class="chinese">清洁和磨光用的麂皮。为工作精心着装。</span><span class="english">Piece of chamois used for cleaning and polishing.</span></p>
 
 <p><span class="chinese">也可作为合成皮革羚羊或空调。</span><span class="english">Can also be used as a conditioner for synthetic or leather chamois.</span></p>

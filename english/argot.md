@@ -1,5 +1,7 @@
 # argot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/argot.md)
+
 <p><span class="chinese">黑话终究是太丑了！</span><span class="english">Why, argot is horrible!</span></p>
 
 <p><span class="chinese">会谈话的舌头是一件优良的兵器。</span><span class="english">A good argot is a good weapon.</span></p>

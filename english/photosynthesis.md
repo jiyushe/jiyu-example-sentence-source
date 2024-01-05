@@ -1,5 +1,7 @@
 # photosynthesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photosynthesis.md)
+
 <p><span class="chinese">光合作用是吸收能量的过程。</span><span class="english">Photosynthesis is an endergonic process.</span></p>
 
 <p><span class="chinese">非洲堇进行光合作用需要光照。</span><span class="english">African violets need light for photosynthesis.</span></p>

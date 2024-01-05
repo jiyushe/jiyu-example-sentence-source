@@ -1,5 +1,7 @@
 # penetration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/penetration.md)
+
 <p><span class="chinese">跳弹和“无渗透”。</span><span class="english">Ricochet and "no penetration".</span></p>
 
 <p><span class="chinese">改变焊缝的熔深距离。</span><span class="english">Change penetration distance of the weld.</span></p>

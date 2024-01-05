@@ -1,5 +1,7 @@
 # entertainment 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entertainment.md)
+
 <p><span class="chinese">蔡的小书是娱乐性的。</span><span class="english">Chua’s essay is an entertainment.</span></p>
 
 <p><span class="chinese">找到别的娱乐方法。</span><span class="english">Find other forms of entertainment.</span></p>

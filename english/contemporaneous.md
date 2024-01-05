@@ -1,5 +1,7 @@
 # contemporaneous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contemporaneous.md)
+
 <p><span class="chinese">它们的时代是同时期的。</span><span class="english">Thier age seems to be contemporaneous.</span></p>
 
 <p><span class="chinese">发现美洲和格拉那达王国的衰落是在。</span><span class="english">The discovery of America was contemporaneous with the fall of Granada.</span></p>

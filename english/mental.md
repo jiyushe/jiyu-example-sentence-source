@@ -1,5 +1,7 @@
 # mental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mental.md)
+
 <p><span class="chinese">这是一种心理障碍，一种恐惧症。</span><span class="english">It’s a mental block.</span></p>
 
 <p><span class="chinese">我是个脑力劳动者。</span><span class="english">I am a mental worker.</span></p>

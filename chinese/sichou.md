@@ -1,5 +1,7 @@
 # 丝绸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sichou.md)
+
 <p><span class="chinese">穿上开士米和丝绸。</span><span class="english">Wear cashmere and silk.</span></p>
 
 <p><span class="chinese">丝绸摸起来很滑。</span><span class="english">The silk feels very soft.</span></p>

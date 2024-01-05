@@ -1,5 +1,7 @@
 # marketer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marketer.md)
+
 <p><span class="chinese">赫兹是全职互联网有一手。</span><span class="english">Farid Aziz is a full-time Internet Marketer.</span></p>
 
 <p><span class="chinese">如何成为“一流的”电子邮件营销者？</span><span class="english">How you can become a "best-in-class" email marketer</span></p>

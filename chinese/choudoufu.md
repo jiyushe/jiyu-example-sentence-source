@@ -1,5 +1,7 @@
 # 臭豆腐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/choudoufu.md)
+
 <p><span class="chinese">好耶，是臭豆腐！</span><span class="english">All right, stinky tofu!</span></p>
 
 <p><span class="chinese">是的，我现在要点菜了。来一盘臭豆腐。</span><span class="english">I'll have a plate of stinky tofu.</span></p>

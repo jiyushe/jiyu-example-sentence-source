@@ -1,5 +1,7 @@
 # advent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/advent.md)
+
 <p><span class="chinese">这种感覚我真的很喜欢。</span><span class="english">The advent of the feeling of love quietly.</span></p>
 
 <p><span class="chinese">但是这一次，出现的宏观调控。</span><span class="english">But this time, the advent of macro-control.</span></p>

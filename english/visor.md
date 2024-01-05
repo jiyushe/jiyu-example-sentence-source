@@ -1,5 +1,7 @@
 # visor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/visor.md)
+
 <p><span class="chinese">有一个圆形平顶和帽舌的帽子。</span><span class="english">A cap with a flat circular top and a visor.</span></p>
 
 <p><span class="chinese">好的，我喝，把它倒进我的面罩里。</span><span class="english">All right, I'll drink it. Pour it into my visor.</span></p>

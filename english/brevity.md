@@ -1,5 +1,7 @@
 # brevity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brevity.md)
+
 <p><span class="chinese">智慧的灵魂在于勇力。</span><span class="english">Brevity is the soul of wit.</span></p>
 
 <p><span class="chinese">简练是智慧的真髓。</span><span class="english">brevity is the soul of wit.</span></p>

@@ -1,5 +1,7 @@
 # 消亡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaowang_1.md)
+
 <p><span class="chinese">让生物圈消亡去吧。</span><span class="english">Let the Biosphere die.</span></p>
 
 <p><span class="chinese">这种旧宗教正在消亡。</span><span class="english">The old religion is perishing.</span></p>

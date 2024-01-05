@@ -1,5 +1,7 @@
 # 惊险片
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingxianpian.md)
+
 <p><span class="chinese">难道你不喜欢惊险片？</span><span class="english">Don't you like thrills?</span></p>
 
 <p><span class="chinese">我喜欢动作惊险片。</span><span class="english">I love action thrillers.</span></p>

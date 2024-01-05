@@ -1,5 +1,7 @@
 # theory 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theory.md)
+
 <p><span class="chinese">凯西的理论。</span><span class="english">Cayce Theory.</span></p>
 
 <p><span class="chinese">荣格的理论。</span><span class="english">Jung's Theory.</span></p>

@@ -1,5 +1,7 @@
 # sensorimotor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sensorimotor.md)
+
 <p><span class="chinese">不安腿综合征是种感觉运动性疾患。</span><span class="english">Restless legs syndrome is a sensorimotor disorder.</span></p>
 
 <p><span class="chinese">而且，自我相关的脑区在感觉运动加工期间是被抑制的。</span><span class="english">Furthermore, self-related regions were inhibited during sensorimotor processing.</span></p>

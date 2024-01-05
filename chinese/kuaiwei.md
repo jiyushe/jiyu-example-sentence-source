@@ -1,5 +1,7 @@
 # 快慰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuaiwei.md)
+
 <p><span class="chinese">听到他的话她感到快慰。</span><span class="english">She felt pleased at what he had said.</span></p>
 
 <p><span class="chinese">这是一种令人安心、快慰的均匀。</span><span class="english">This is a kind of comfortable, happy smoothness.</span></p>

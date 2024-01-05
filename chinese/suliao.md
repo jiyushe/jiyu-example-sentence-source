@@ -1,5 +1,7 @@
 # 塑料
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suliao.md)
+
 <p><span class="chinese">油菜好比使塑料。</span><span class="english">Canola is so plastic.</span></p>
 
 <p><span class="chinese">热使塑料变形。</span><span class="english">Heat deforms plastics.</span></p>

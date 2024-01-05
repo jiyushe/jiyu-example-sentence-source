@@ -1,5 +1,7 @@
 # revolute
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revolute.md)
+
 <p><span class="chinese">继续学习，持续练习及改掉恶习…</span><span class="english">So that oxygen could tend us in continue to learn, practice, and revolute.</span></p>
 
 <p><span class="chinese">在球面连杆机构中，所有的转动副的轴必在一点上相交。</span><span class="english">In spheric linkages, the axes of all revolute pairs must intersect at point.</span></p>

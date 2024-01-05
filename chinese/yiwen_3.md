@@ -1,5 +1,7 @@
 # 译文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiwen_3.md)
+
 <p><span class="chinese">他们出版了莱奥帕尔迪诗歌的译文。</span><span class="english">The poem reads like a translation.</span></p>
 
 <p><span class="chinese">鲜花散发芬芳。译文?。</span><span class="english">The flowers gaves sff a sweet fragrance.</span></p>

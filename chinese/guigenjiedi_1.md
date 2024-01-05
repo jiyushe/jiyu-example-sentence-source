@@ -1,5 +1,7 @@
 # 归根结蒂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guigenjiedi_1.md)
+
 <p><span class="chinese">所以，归根结蒂，他可能是在恋爱了。</span><span class="english">So he can be in love, after all.</span></p>
 
 <p><span class="chinese">然而财政刺激归根结蒂只是暂时性的。</span><span class="english">But fiscal stimulus by definition is temporary.</span></p>

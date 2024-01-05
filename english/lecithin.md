@@ -1,5 +1,7 @@
 # lecithin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lecithin.md)
+
 <p><span class="chinese">完整的小麦胚芽含有卵磷脂。</span><span class="english">The whole wheat germs contain lecithin.</span></p>
 
 <p><span class="chinese">鹅肥肝中营养物质丰富，且富含卵磷脂。</span><span class="english">Langde goose fat liver have plenty of lecithin.</span></p>

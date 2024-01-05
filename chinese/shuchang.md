@@ -1,5 +1,7 @@
 # 舒畅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuchang.md)
+
 <p><span class="chinese">我们做能让我们现在就感觉心情舒畅的？</span><span class="english">Do we do what makes us feel good now?</span></p>
 
 <p><span class="chinese">在大自然或接近大自然时我感觉最舒畅。</span><span class="english">I feel best in nature or near nature.</span></p>

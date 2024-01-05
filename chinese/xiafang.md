@@ -1,5 +1,7 @@
 # 下放
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiafang.md)
+
 <p><span class="chinese">下放悬重是多少?。</span><span class="english">What's the lowering weight?</span></p>
 
 <p><span class="chinese">周一，其中一只小奶被下放到了我家。</span><span class="english">Monday, one kitten came to my home.</span></p>

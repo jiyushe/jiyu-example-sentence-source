@@ -1,5 +1,7 @@
 # organic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/organic.md)
+
 <p><span class="chinese">有机猕猴桃。</span><span class="english">This organic kiwi.</span></p>
 
 <p><span class="chinese">它是有机茶花油。</span><span class="english">It is organic camellia oil.</span></p>

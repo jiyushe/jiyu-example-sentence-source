@@ -1,5 +1,7 @@
 # 汤匙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tangchi.md)
+
 <p><span class="chinese">平底锅里加入2汤匙油。</span><span class="english">Add 2 tablespoon oil to pan.</span></p>
 
 <p><span class="chinese">别试著折弯汤匙。</span><span class="english">Do not try and bend the spoon.</span></p>

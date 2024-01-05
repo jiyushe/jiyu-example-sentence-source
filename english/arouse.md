@@ -1,5 +1,7 @@
 # arouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arouse.md)
+
 <p><span class="chinese">想办法不要让他起疑心。</span><span class="english">Try not to arouse his suspicion.</span></p>
 
 <p><span class="chinese">爱，能唤起所有的眷念。</span><span class="english">Love, can arouse all of the fondly.</span></p>

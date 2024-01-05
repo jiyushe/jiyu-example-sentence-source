@@ -1,5 +1,7 @@
 # apathy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apathy.md)
+
 <p><span class="chinese">是无知还是冷漠？</span><span class="english">Is it ignorance or apathy?</span></p>
 
 <p><span class="chinese">有必要刺激一下他的冷漠。</span><span class="english">His apathy necessitates stimulation.</span></p>

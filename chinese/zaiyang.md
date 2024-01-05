@@ -1,5 +1,7 @@
 # 灾殃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaiyang.md)
+
 <p><span class="chinese">许是灾殃，也许是喜事。</span><span class="english">A plague, perhaps is happy event.</span></p>
 
 <p><span class="chinese">饭前喝口汤，永远没灾殃。</span><span class="english">Some soup before dinner, healthy body forever.</span></p>

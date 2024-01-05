@@ -1,5 +1,7 @@
 # 榛子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenzi.md)
+
 <p><span class="chinese">松鼠喜欢吃榛子。</span><span class="english">Squirrels like to eat hazels.</span></p>
 
 <p><span class="chinese">清新的坚果，榛子，皮香，青气。</span><span class="english">Fresh nut, hazelnut, skinny, green.</span></p>

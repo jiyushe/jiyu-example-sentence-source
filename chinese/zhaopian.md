@@ -1,5 +1,7 @@
 # 照片
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaopian.md)
+
 <p><span class="chinese">我喜欢这张照片。</span><span class="english">But I love it.</span></p>
 
 <p><span class="chinese">这里有张照片。</span><span class="english">Here is a pic.</span></p>

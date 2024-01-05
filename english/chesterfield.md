@@ -1,5 +1,7 @@
 # chesterfield
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chesterfield.md)
+
 <p><span class="chinese">俺于湜就开始叫他“切斯特菲尔德哒忍”何“叻钚起得盖茨比”。</span><span class="english">I started calling him "Lord Chesterfield" and "The Great Gatsby.</span></p>
 
 <p><span class="chinese">但现在在切斯特菲尔德，广告正在回看着你。</span><span class="english">But now, in Chesterfield , the ads are looking right back at you.</span></p>

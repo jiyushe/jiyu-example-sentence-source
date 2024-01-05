@@ -1,5 +1,7 @@
 # patter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patter.md)
+
 <p><span class="chinese">可以打出他们匆忙的祷告。</span><span class="english">Can patter out their hasty orisons.</span></p>
 
 <p><span class="chinese">屋顶上响起了劈里啪啦的雨点声。</span><span class="english">Rain started to patter on the roof.</span></p>

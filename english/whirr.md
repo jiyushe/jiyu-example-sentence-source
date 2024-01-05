@@ -1,5 +1,7 @@
 # whirr
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/whirr.md)
+
 <p><span class="chinese">风扇的呼呼声，浑浊空气的味道。</span><span class="english">The whirr of fans, the taste of old air.</span></p>
 
 <p><span class="chinese">我们听到了纺车的嗡嗡声。</span><span class="english">We heard the whirr of the spinning wheel.</span></p>

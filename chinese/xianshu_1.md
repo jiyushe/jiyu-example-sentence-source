@@ -1,5 +1,7 @@
 # 贤淑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianshu_1.md)
+
 <p><span class="chinese">男人最可贵的是有一个贤淑的妻子。</span><span class="english">Man's best possession is a loving wife.</span></p>
 
 <p><span class="chinese">玛丽是一位贤淑慈祥、守极佳的。</span><span class="english">Mary was a virtuous high-principled lady.</span></p>

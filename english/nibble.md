@@ -1,5 +1,7 @@
 # nibble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nibble.md)
+
 <p><span class="chinese">如果你不喜欢这饭，你就别勉强吃啦。</span><span class="english">Don't nibble at your food if you dislike it.</span></p>
 
 <p><span class="chinese">然后他们才会坐下来咀嚼奶酪。</span><span class="english">Then they would sit down to nibble on the cheese.</span></p>

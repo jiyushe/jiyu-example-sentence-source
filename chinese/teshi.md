@@ -1,5 +1,7 @@
 # 特使
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/teshi.md)
+
 <p><span class="chinese">北韩特使玄学锋不赞同美国的立场。</span><span class="english">Hyun, the North's envoy, disagrees.</span></p>
 
 <p><span class="chinese">他是联合国海地特使。</span><span class="english">He is the United Nations special envoy to Haiti.</span></p>

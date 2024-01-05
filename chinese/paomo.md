@@ -1,5 +1,7 @@
 # 泡沫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paomo.md)
+
 <p><span class="chinese">甜菜泡沫?</span><span class="english">Beetroot froth?</span></p>
 
 <p><span class="chinese">那是泡沫红茶。</span><span class="english">It's bubble tea.</span></p>

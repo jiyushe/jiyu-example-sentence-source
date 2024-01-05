@@ -1,5 +1,7 @@
 # embassy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embassy.md)
+
 <p><span class="chinese">他们在美国大使馆安装窃听器。</span><span class="english">They bugged the US Embassy.</span></p>
 
 <p><span class="chinese">文莱达鲁萨兰国大使馆?。</span><span class="english">Embassy of Brunei Darussalam?</span></p>

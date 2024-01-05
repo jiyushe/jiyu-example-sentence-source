@@ -1,5 +1,7 @@
 # 晤谈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wutan.md)
+
 <p><span class="chinese">他预约在星期一同他的律师晤谈。</span><span class="english">He had an appointment with his lawyer set for Monday.</span></p>
 
 <p><span class="chinese">我猜他们正设法给我安排晤谈。</span><span class="english">I guess they're trying to set up an appointment for me.</span></p>

@@ -1,5 +1,7 @@
 # circa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/circa.md)
+
 <p><span class="chinese">他于1208年左右继承王室。</span><span class="english">He was crowned king circa 1208.</span></p>
 
 <p><span class="chinese">纽皮特人，阿拉斯加，约1907年。</span><span class="english">Inupiat woman, Alaska, circa 1907</span></p>

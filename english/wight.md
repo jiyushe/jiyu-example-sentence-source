@@ -1,5 +1,7 @@
 # wight
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wight.md)
+
 <p><span class="chinese">骑士啊，是什么苦恼你。</span><span class="english">Ah, what Can ail thee, wretched wight.</span></p>
 
 <p><span class="chinese">感谢「毒软件」的庄·韦特提供这一信息。</span><span class="english">Thanks to Jon Wight of Toxic Software.</span></p>

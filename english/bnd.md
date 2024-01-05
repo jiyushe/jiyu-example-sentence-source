@@ -1,5 +1,7 @@
 # bnd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bnd.md)
+
 <p><span class="chinese">永永恒远，永无尽头。</span><span class="english">Bnd forever has no end.</span></p>
 
 <p><span class="chinese">敬辞您的地址?。</span><span class="english">Bnd your address, please?</span></p>

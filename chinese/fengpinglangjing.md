@@ -1,5 +1,7 @@
 # 风平浪静
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengpinglangjing.md)
+
 <p><span class="chinese">海上风平浪静。</span><span class="english">The sea was calm.</span></p>
 
 <p><span class="chinese">今天是个风平浪静的日子。</span><span class="english">It's a windless day today.</span></p>

@@ -1,5 +1,7 @@
 # 种畜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongchu.md)
+
 <p><span class="chinese">这个优先的顺序，可能致使种畜不能满足维持能量需要。</span><span class="english">This order of priority may result in breeding animals failing to maintain themselves.</span></p>
 
 <p><span class="chinese">种畜、种禽应当达到国家规定的健康合格标准。</span><span class="english">Stud stock and breeding poultry shall be kept healthy up to the standards set by the state.</span></p>

@@ -1,5 +1,7 @@
 # 练笔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianbi.md)
+
 <p><span class="chinese">孩子们，这里就是你的练笔场所。</span><span class="english">Girls and boys, just come here to be sure.</span></p>
 
 <p><span class="chinese">在繁忙的工作之余，朱东锷仍不辍练笔，实属不易。</span><span class="english">In the busy work, Zhu Dong E Lianbi still stopped working, it is not easy.</span></p>

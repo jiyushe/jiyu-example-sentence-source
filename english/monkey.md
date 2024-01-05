@@ -1,5 +1,7 @@
 # monkey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monkey.md)
+
 <p><span class="chinese">猴死囝仔！</span><span class="english">Monkey die boy!</span></p>
 
 <p><span class="chinese">或猴拳。</span><span class="english">Or Monkey style.</span></p>

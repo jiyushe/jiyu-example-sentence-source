@@ -1,5 +1,7 @@
 # tarry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tarry.md)
+
 <p><span class="chinese">耶稣就进去，要同他们住下。</span><span class="english">And he went in to tarry with them.</span></p>
 
 <p><span class="chinese">旅游者们将在一个旅店里逗留。</span><span class="english">The tourists will tarry at an inn.</span></p>

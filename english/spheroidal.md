@@ -1,5 +1,7 @@
 # spheroidal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spheroidal.md)
+
 <p><span class="chinese">文中研究的是球状石墨铸钢新材料。</span><span class="english">A new cast steel materials with spheroidal graphite has been studied.</span></p>
 
 <p><span class="chinese">介绍一种球罐盘梯的设计方法。</span><span class="english">One design method for winder of spheroidal tank was presented in this article.</span></p>

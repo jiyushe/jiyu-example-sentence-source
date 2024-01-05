@@ -1,5 +1,7 @@
 # 不知好歹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buzhihaodai.md)
+
 <p><span class="chinese">小孩子是不知好歹的。</span><span class="english">Young children are amoral.</span></p>
 
 <p><span class="chinese">你怎麽不知好歹呢？</span><span class="english">Why didn't you know good from bad?</span></p>

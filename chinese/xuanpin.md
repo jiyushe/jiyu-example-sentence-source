@@ -1,5 +1,7 @@
 # 选聘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanpin.md)
+
 <p><span class="chinese">实现教练员选聘制度，公开选拔优秀教练员。</span><span class="english">Coaches realize hiring system, open selection of outstanding coaches.</span></p>
 
 <p><span class="chinese">这促使很多雇主评价其人才选聘政策。</span><span class="english">This prompted many employers to appraise their selection and recruitment policies.</span></p>

@@ -1,5 +1,7 @@
 # desirable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/desirable.md)
+
 <p><span class="chinese">或是会被接受？</span><span class="english">Or are they desirable?</span></p>
 
 <p><span class="chinese">也许那是值得永久期许的。</span><span class="english">Maybe that would be desirable forever.</span></p>

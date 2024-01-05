@@ -1,5 +1,7 @@
 # revolutionize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revolutionize.md)
+
 <p><span class="chinese">现在他们想变革电子邮件。</span><span class="english">And now they want to revolutionize email.</span></p>
 
 <p><span class="chinese">他们要在全世界发动革命。</span><span class="english">They wanted to revolutionize the whole world.</span></p>

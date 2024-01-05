@@ -1,5 +1,7 @@
 # 河鱼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heyu.md)
+
 <p><span class="chinese">漂流之后还可以品尝到美味的河鱼。</span><span class="english">I can't wait to raft along the river.</span></p>
 
 <p><span class="chinese">在中国，草鱼是常见的河鱼。</span><span class="english">Grass carp is a common kind of freshwater fish in China.</span></p>

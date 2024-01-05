@@ -1,5 +1,7 @@
 # cosine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cosine.md)
+
 <p><span class="chinese">但是他们花了很长的时间来尝试着。</span><span class="english">Then they started the cosine tape.</span></p>
 
 <p><span class="chinese">正弦和余弦都是有限大小的数</span><span class="english">sine and cosine are definite numbers.</span></p>

@@ -1,5 +1,7 @@
 # zach
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zach.md)
+
 <p><span class="chinese">扎克是一名比艾尔更好的棒球运动员。</span><span class="english">Zach is a better baseball player than Al.</span></p>
 
 <p><span class="chinese">扎克邦纳知道自己在多大程度上能得到你想。</span><span class="english">Zach Bonner knows just how far trying can get you.</span></p>

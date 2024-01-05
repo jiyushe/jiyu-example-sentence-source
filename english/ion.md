@@ -1,5 +1,7 @@
 # ion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ion.md)
+
 <p><span class="chinese">它丢失了一个原子。</span><span class="english">It loses an ion.</span></p>
 
 <p><span class="chinese">这是一种离子气体。</span><span class="english">Here is an ion gas.</span></p>

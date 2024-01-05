@@ -1,5 +1,7 @@
 # constable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/constable.md)
+
 <p><span class="chinese">也许那个警员是对的。</span><span class="english">Perhaps the constable was right.</span></p>
 
 <p><span class="chinese">康斯太布尔是伟大的英国画家。</span><span class="english">Constable was a great English artist.</span></p>

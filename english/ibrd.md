@@ -1,5 +1,7 @@
 # ibrd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ibrd.md)
+
 <p><span class="chinese">其中，IDA提供了167项，IBRD提供了其余的112项。</span><span class="english">Of those 167 were from IDA while the remaining 112 were from the IBRD.</span></p>
 
 <p><span class="chinese">国际复兴开发银行也帮助提高电力行业绩效、效率和可及性。</span><span class="english">IBRD also helps improve electricity sector performance, efficiency and access.</span></p>

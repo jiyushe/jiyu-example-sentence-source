@@ -1,5 +1,7 @@
 # 重现
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongxian.md)
+
 <p><span class="chinese">牛市将重现，切记！</span><span class="english">Bull market will re-apear.</span></p>
 
 <p><span class="chinese">胜景重现,何人筑建</span><span class="english">Who built the city up each time?</span></p>

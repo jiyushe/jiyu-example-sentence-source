@@ -1,5 +1,7 @@
 # spirit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spirit.md)
+
 <p><span class="chinese">风魂引擎。</span><span class="english">Wind Spirit engine.</span></p>
 
 <p><span class="chinese">他治愈了她的精神。</span><span class="english">He healed her spirit.</span></p>

@@ -1,5 +1,7 @@
 # moorings
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moorings.md)
+
 <p><span class="chinese">那船漂离了系船处。</span><span class="english">The ship slipped its moorings.</span></p>
 
 <p><span class="chinese">船在系留处打转。</span><span class="english">The vessel swings by her moorings.</span></p>

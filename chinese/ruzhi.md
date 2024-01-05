@@ -1,5 +1,7 @@
 # 乳汁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruzhi.md)
+
 <p><span class="chinese">好像乳汁滋润着我的心窝！</span><span class="english">Nourishing my heart like milk!</span></p>
 
 <p><span class="chinese">gA在乳汁中含量较多</span><span class="english">They're also enriched in milk.</span></p>

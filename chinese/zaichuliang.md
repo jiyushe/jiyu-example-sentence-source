@@ -1,5 +1,7 @@
 # 载畜量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaichuliang.md)
+
 <p><span class="chinese">目前，我国北方草地资源面临着草地生产力严重下降，草地载畜量普遍降低的危机。</span><span class="english">At present, northern grassland resources of China are facing a serious decline in grassland productivity and grazing capacity.</span></p>
 
 <p><span class="chinese">各具体放牧季的载畜率可以在载畜量的宏观控制下，根据气候条件和草地状况加以调整。</span><span class="english">The stocking rates of different grazing seasons can be regulated according to the climate and grassland condition under the control of CC.</span></p>

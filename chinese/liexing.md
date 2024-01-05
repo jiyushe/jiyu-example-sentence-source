@@ -1,5 +1,7 @@
 # 烈性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liexing.md)
+
 <p><span class="chinese">基米是从来不碰烈性饮料的。</span><span class="english">Jimmy never touched “hard” drinks.</span></p>
 
 <p><span class="chinese">我的朋友坐下来，然后点了一杯烈性饮品。</span><span class="english">MY friend sat down and ordered a stiff drink.</span></p>

@@ -1,5 +1,7 @@
 # staring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/staring.md)
+
 <p><span class="chinese">他正盯着露西看。</span><span class="english">He is staring at Lucy.</span></p>
 
 <p><span class="chinese">爱迪忍不住盯着他看。</span><span class="english">Eddie couldn’t help staring.</span></p>

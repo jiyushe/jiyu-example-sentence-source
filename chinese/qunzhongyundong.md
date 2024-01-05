@@ -1,5 +1,7 @@
 # 群众运动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qunzhongyundong.md)
+
 <p><span class="chinese">风化，岩溶景观和群众运动。</span><span class="english">Weathering, Karst Landscapes, and Mass Movement.</span></p>
 
 <p><span class="chinese">当然了，既然是基层群众运动，那么它的结构一定是比较松散。</span><span class="english">And in a grassroots campaign the structure of the heirarchy is very loose.</span></p>

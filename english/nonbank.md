@@ -1,5 +1,7 @@
 # nonbank
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonbank.md)
+
 <p><span class="chinese">各种各样的非银行机构都已经承担起风险。</span><span class="english">A wide variety of nonbank institutions have taken on the risk.</span></p>
 
 <p><span class="chinese">上述那位温州鞋厂老板说，她并不害怕高利贷，也不担心政府对非银行信贷的打击。</span><span class="english">The Wenzhou shoemaker says she isn＊t fearful of loan sharks or a crackdown on the nonbank sector.</span></p>

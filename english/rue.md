@@ -1,5 +1,7 @@
 # rue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rue.md)
+
 <p><span class="chinese">布利昂街，你看见没有？</span><span class="english">Rue Brion. Do you see it?</span></p>
 
 <p><span class="chinese">他回到了卜吕梅街。</span><span class="english">He returned to the Rue Plumet.</span></p>

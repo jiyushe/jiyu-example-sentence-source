@@ -1,5 +1,7 @@
 # 闪烁其词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanshuoqici.md)
+
 <p><span class="chinese">他对那个问题闪烁其词。</span><span class="english">He stumbled over that question.</span></p>
 
 <p><span class="chinese">他们确实对那个问题闪烁其词。</span><span class="english">They really waffled on that question.</span></p>

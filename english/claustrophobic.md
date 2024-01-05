@@ -1,5 +1,7 @@
 # claustrophobic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/claustrophobic.md)
+
 <p><span class="chinese">你知道吉娜有幽闭恐惧症吗？</span><span class="english">Did you know that Jena was claustrophobic?</span></p>
 
 <p><span class="chinese">给人某种幽闭恐怖的感觉。</span><span class="english">The audience reaction is a sort of claustrophobic impression.</span></p>

@@ -1,5 +1,7 @@
 # 枯槁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kugao.md)
+
 <p><span class="chinese">草木枯槁。</span><span class="english">Trees and grass withered up.</span></p>
 
 <p><span class="chinese">他肥强枯槁，望下去一正不幸相。</span><span class="english">He was thin and haggard and he looked miserable.</span></p>

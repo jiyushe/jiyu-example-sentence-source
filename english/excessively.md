@@ -1,5 +1,7 @@
 # excessively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/excessively.md)
+
 <p><span class="chinese">过度地跑动或者爬。</span><span class="english">Runs around or climbs excessively.</span></p>
 
 <p><span class="chinese">不要发牢骚或过度抱怨。</span><span class="english">Do not whine or complain excessively.</span></p>

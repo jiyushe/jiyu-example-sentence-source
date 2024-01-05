@@ -1,5 +1,7 @@
 # polynesia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polynesia.md)
+
 <p><span class="chinese">法属波利尼西亚的心形途湃岛。</span><span class="english">Heart-shaped Tupai Island in French Polynesia.</span></p>
 
 <p><span class="chinese">马克萨斯群岛是法属玻利尼西亚中最大的一组岛屿。</span><span class="english">The Marquesas are among the largest groups of islands in French Polynesia.</span></p>

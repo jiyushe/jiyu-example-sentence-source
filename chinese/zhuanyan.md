@@ -1,5 +1,7 @@
 # 转眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanyan.md)
+
 <p><span class="chinese">转眼望向加略山。</span><span class="english">Turn your eyes to Calvary.</span></p>
 
 <p><span class="chinese">转眼之间，大街上就空无一人。</span><span class="english">In a trice, the street was empty.</span></p>

@@ -1,5 +1,7 @@
 # inhibitor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inhibitor.md)
+
 <p><span class="chinese">帕拉米韦属神经氨酸酶抑制剂。</span><span class="english">Peramivir is a neuraminidase inhibitor.</span></p>
 
 <p><span class="chinese">金属蛋白酶可逆的抑制剂，无毒。</span><span class="english">Non-toxic reversible metallo -protease inhibitor.</span></p>

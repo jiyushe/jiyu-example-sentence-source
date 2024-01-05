@@ -1,5 +1,7 @@
 # salient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salient.md)
+
 <p><span class="chinese">喀纳斯湖最明显的一个神秘特征。</span><span class="english">Kanas Lake's most salient features.</span></p>
 
 <p><span class="chinese">再举几个明显的例子。</span><span class="english">I'll offer a few of salient examples.</span></p>

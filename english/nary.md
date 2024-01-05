@@ -1,5 +1,7 @@
 # nary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nary.md)
+
 <p><span class="chinese">如果你分析皮克斯电影，你会发现连一个缺陷也没有。</span><span class="english">If you analyze a Pixar film, you’ll find nary a flaw.</span></p>
 
 <p><span class="chinese">事实上大家一直守口如瓶，直至肿瘤被切除。</span><span class="english">In fact, nary a word got out until Jobs' tumor had been removed.</span></p>

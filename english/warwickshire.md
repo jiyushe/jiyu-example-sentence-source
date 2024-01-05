@@ -1,5 +1,7 @@
 # warwickshire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/warwickshire.md)
+
 <p><span class="chinese">瓦立阿和芭丽一起到了，姨妈看到很高兴。</span><span class="english">O warwickshire with barriss, aunt see very happy.</span></p>
 
 <p><span class="chinese">此时姨妈和奶奶来了，瓦立阿才知道芭丽为什么来这里。</span><span class="english">When aunt and grandma came, warwickshire ACai know why barriss here.</span></p>

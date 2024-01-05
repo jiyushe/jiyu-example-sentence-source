@@ -1,5 +1,7 @@
 # 公里
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongli_3.md)
+
 <p><span class="chinese">这条电缆线长14公里。</span><span class="english">The line is 14 km long.</span></p>
 
 <p><span class="chinese">转换677英里以公里。</span><span class="english">Convert 677 miles to km.</span></p>

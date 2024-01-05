@@ -1,5 +1,7 @@
 # pellucid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pellucid.md)
+
 <p><span class="chinese">本文通过运用大量的案例分析，希望能使行文表达通俗易懂。</span><span class="english">The paper uses substantive cases to make it demotic and pellucid.</span></p>
 
 <p><span class="chinese">清澈的河水是当地居民的饮水、灌溉及生活卫生等问题的依靠。</span><span class="english">Locals depend on the pellucid waters for food, irrigation and hygiene.</span></p>

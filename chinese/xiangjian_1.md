@@ -1,5 +1,7 @@
 # 想见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangjian_1.md)
+
 <p><span class="chinese">是程先生想见你吗?。</span><span class="english">Is Mr Chan expecting you?</span></p>
 
 <p><span class="chinese">有人想见你。</span><span class="english">Someone wants to see you.</span></p>

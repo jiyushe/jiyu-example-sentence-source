@@ -1,5 +1,7 @@
 # woollen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/woollen.md)
+
 <p><span class="chinese">他们把那些粗纺毛线绕成团。</span><span class="english">They balled off the woollen yarn.</span></p>
 
 <p><span class="chinese">毛织物一洗要缩水。</span><span class="english">Woollen fabrics shrink in the wash.</span></p>

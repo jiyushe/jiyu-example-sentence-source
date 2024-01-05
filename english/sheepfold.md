@@ -1,5 +1,7 @@
 # sheepfold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sheepfold.md)
+
 <p><span class="chinese">羊在羊栏里很安全。</span><span class="english">The sheep are safe in the sheepfold.</span></p>
 
 <p><span class="chinese">傍晚之前我们要回到羊圈。</span><span class="english">By evening we return to the sheepfold.</span></p>

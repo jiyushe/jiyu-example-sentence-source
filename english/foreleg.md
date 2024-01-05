@@ -1,5 +1,7 @@
 # foreleg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foreleg.md)
+
 <p><span class="chinese">后退的步数是按照前脚往后移的次数计算。</span><span class="english">The steps are counted as foreleg moves back.</span></p>
 
 <p><span class="chinese">后退的步数是按照前脚往后移的次数计算。</span><span class="english">The steps are counted as each foreleg moves back.</span></p>

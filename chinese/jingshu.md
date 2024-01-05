@@ -1,5 +1,7 @@
 # 经书
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingshu.md)
+
 <p><span class="chinese">只剩页页经书扰起一股悲风。</span><span class="english">The leaves of the sutra Merely stir a sad wind.</span></p>
 
 <p><span class="chinese">经书结束时以色列人定居埃及。</span><span class="english">The book closes with the Israelites residing in Egypt.</span></p>

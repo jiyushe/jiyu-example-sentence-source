@@ -1,5 +1,7 @@
 # 香水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangshui.md)
+
 <p><span class="chinese">给他们买一种新香水。</span><span class="english">Buy them a new perfume.</span></p>
 
 <p><span class="chinese">回避送衣服、香水。</span><span class="english">Avoid clothes or perfume.</span></p>

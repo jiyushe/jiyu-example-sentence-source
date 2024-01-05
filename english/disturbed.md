@@ -1,5 +1,7 @@
 # disturbed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disturbed.md)
+
 <p><span class="chinese">坦率地说，我简直要翻胃。</span><span class="english">I confess to a disturbed stomach.</span></p>
 
 <p><span class="chinese">他似乎是又气愤又不安。</span><span class="english">He seemed both angry and disturbed.</span></p>

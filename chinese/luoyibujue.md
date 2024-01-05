@@ -1,5 +1,7 @@
 # 络绎不绝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luoyibujue.md)
+
 <p><span class="chinese">讲话结束后，掌声络绎不绝。</span><span class="english">After his speech, applause went on endlessly.</span></p>
 
 <p><span class="chinese">参观展览会的人络绎不绝。</span><span class="english">A continuous stream of visitors came to the exhibition.</span></p>

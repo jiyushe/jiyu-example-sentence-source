@@ -1,5 +1,7 @@
 # 自然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziran.md)
+
 <p><span class="chinese">我相信自然神论。</span><span class="english">I believe in Deism.</span></p>
 
 <p><span class="chinese">好运自然来。</span><span class="english">Good luck to nature.</span></p>

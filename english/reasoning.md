@@ -1,5 +1,7 @@
 # reasoning
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reasoning.md)
+
 <p><span class="chinese">没有推理。</span><span class="english">You weren't reasoning.</span></p>
 
 <p><span class="chinese">某种程度上这是一个循环推理</span><span class="english">It's sort of circular reasoning.</span></p>

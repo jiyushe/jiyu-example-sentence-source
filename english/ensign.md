@@ -1,5 +1,7 @@
 # ensign
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ensign.md)
+
 <p><span class="chinese">唉，扯下她褴褛的舰旗吧！</span><span class="english">Ay, tear her tattered ensign down!</span></p>
 
 <p><span class="chinese">那是我爸爸在海军当上尉时的照片。</span><span class="english">That's my dad when he was an ensign in the Navy.</span></p>

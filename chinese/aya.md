@@ -1,5 +1,7 @@
 # 啊呀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aya.md)
+
 <p><span class="chinese">“啊呀”理论。</span><span class="english">The "oops" theory.</span></p>
 
 <p><span class="chinese">啊呀，我的儿子长大了！</span><span class="english">Oh, my son grow up!</span></p>

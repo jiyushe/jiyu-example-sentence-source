@@ -1,5 +1,7 @@
 # 躯壳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quqiao.md)
+
 <p><span class="chinese">你的屋宇乃是你较大的躯壳。</span><span class="english">You house is your larger body.</span></p>
 
 <p><span class="chinese">她就剩下一个躯壳了。</span><span class="english">She's just a shell of who she once was.'</span></p>

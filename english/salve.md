@@ -1,5 +1,7 @@
 # salve
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salve.md)
+
 <p><span class="chinese">这种药膏是用在伤口处。</span><span class="english">This kind of salve is used on wounds.</span></p>
 
 <p><span class="chinese">这样的话，你就成了那个因素的奴隶！</span><span class="english">And then you’re a salve to the factor!</span></p>

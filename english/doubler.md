@@ -1,5 +1,7 @@
 # doubler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doubler.md)
+
 <p><span class="chinese">还有一个额外的功能，在没有成本加倍。</span><span class="english">There is also a doubler feature at no additional cost.</span></p>
 
 <p><span class="chinese">该倍频器具有结构新颖、简单，腔体加工容易等特点。</span><span class="english">The doubler structure is distinctive, simple and easy to realize.</span></p>

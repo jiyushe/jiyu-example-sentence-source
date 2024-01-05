@@ -1,5 +1,7 @@
 # 林草
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lincao.md)
+
 <p><span class="chinese">上林草尽没，曲江冰复结。</span><span class="english">On the grass do not, Qujiang ice complex knot.</span></p>
 
 <p><span class="chinese">对祁连山排露沟林草复合流域土壤水分状况进行了系统研究。</span><span class="english">The paper studied the soil water status in Pailugou forest and grass complex watershed in Qilian Mountains.</span></p>

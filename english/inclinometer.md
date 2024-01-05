@@ -1,5 +1,7 @@
 # inclinometer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inclinometer.md)
+
 <p><span class="chinese">设计了一种机械式无线随钻测斜仪。</span><span class="english">A mechanical wireless inclinometer to measure holes deviation was designed.</span></p>
 
 <p><span class="chinese">图尔克的单轴测斜仪传感器测量与重力有关的角度倾斜。</span><span class="english">TURCK's single axis inclinometer sensor measures angular tilt in reference to gravity.</span></p>

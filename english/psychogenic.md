@@ -1,5 +1,7 @@
 # psychogenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psychogenic.md)
+
 <p><span class="chinese">结果两起发热事件均属心因性发热。</span><span class="english">Results Two accidents were psychogenic colony fever.</span></p>
 
 <p><span class="chinese">我想你考虑到他可能会经历心理紊乱?。</span><span class="english">I assume you've considered he could have a psychogenic experience.</span></p>

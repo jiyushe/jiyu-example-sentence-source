@@ -1,5 +1,7 @@
 # 暮春
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muchun.md)
+
 <p><span class="chinese">暮春四月，木棉发芽，北返的赤腹鹰偶尔落脚稍作休息。</span><span class="english">Horsefield's sparrow hawk on its way back north in April pauses for a rest.</span></p>
 
 <p><span class="chinese">龙卷风在闷热潮湿的雷暴天气发作，通常在暮春和夏天。</span><span class="english">Tornadoes start in muggy thunderstorm weather, usually in late spring and summer.</span></p>

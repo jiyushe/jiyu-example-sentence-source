@@ -1,5 +1,7 @@
 # lawsuit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lawsuit.md)
+
 <p><span class="chinese">那件讼案因而尚未解决。</span><span class="english">The lawsuit was then pending.</span></p>
 
 <p><span class="chinese">一个漫长的诉讼仍悬而未决。</span><span class="english">A long-running lawsuit is pending.</span></p>

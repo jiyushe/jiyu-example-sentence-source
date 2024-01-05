@@ -1,5 +1,7 @@
 # graphic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/graphic.md)
+
 <p><span class="chinese">支持图片表情。</span><span class="english">Support for graphic emoticons.</span></p>
 
 <p><span class="chinese">西里尔图形字符集。</span><span class="english">The Cyrillic graphic character set.</span></p>

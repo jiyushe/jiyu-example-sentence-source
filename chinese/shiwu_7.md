@@ -1,5 +1,7 @@
 # 饰物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiwu_7.md)
+
 <p><span class="chinese">买得到饰物，但买不到美丽。</span><span class="english">Finery but not beauty.</span></p>
 
 <p><span class="chinese">那是有叶形饰物之拱门。</span><span class="english">That is a foiled arch.</span></p>

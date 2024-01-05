@@ -1,5 +1,7 @@
 # signature
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/signature.md)
+
 <p><span class="chinese">我需要他的签名。</span><span class="english">I need his signature.</span></p>
 
 <p><span class="chinese">您认得这签字吧？</span><span class="english">You know that signature?</span></p>

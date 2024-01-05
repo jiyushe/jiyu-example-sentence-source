@@ -1,5 +1,7 @@
 # nat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nat.md)
+
 <p><span class="chinese">蝙蝠纳特用力拍小昆虫马特。</span><span class="english">The bat Nat swat at the gnat Matt.</span></p>
 
 <p><span class="chinese">我想看到的月球火山口纳特。</span><span class="english">I wanted to see Craters of the Moon Nat.</span></p>

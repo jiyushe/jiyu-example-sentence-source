@@ -1,5 +1,7 @@
 # constraint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/constraint.md)
+
 <p><span class="chinese">约束条件是什么呢？</span><span class="english">And the constraint is what?</span></p>
 
 <p><span class="chinese">受到了几何限制。</span><span class="english">There is a geometric constraint.</span></p>

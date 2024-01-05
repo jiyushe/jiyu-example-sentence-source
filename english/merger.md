@@ -1,5 +1,7 @@
 # merger
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/merger.md)
+
 <p><span class="chinese">并购狂潮紧追绿色趋势。</span><span class="english">Merger mania grips green.</span></p>
 
 <p><span class="chinese">这可是人家俄罗斯自己家的合并案。</span><span class="english">This was a Russian merger.</span></p>

@@ -1,5 +1,7 @@
 # 涉外
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shewai.md)
+
 <p><span class="chinese">联系涉外单位。</span><span class="english">Contact foreign units.</span></p>
 
 <p><span class="chinese">欲求涉外家政工作。</span><span class="english">I want to work on foreigners family.</span></p>

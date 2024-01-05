@@ -1,5 +1,7 @@
 # euphemistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/euphemistic.md)
+
 <p><span class="chinese">动作委婉，扇花多变。</span><span class="english">Euphemistic motion, ever-changing flower fan.</span></p>
 
 <p><span class="chinese">怎么委婉的向人们宣传你的网站或你的产品。</span><span class="english">The how euphemistic website that publicizes you to people or your product.</span></p>

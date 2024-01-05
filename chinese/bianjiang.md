@@ -1,5 +1,7 @@
 # 边疆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianjiang.md)
+
 <p><span class="chinese">边疆啊，你应该骄矜！</span><span class="english">Frontier, you should be proud!</span></p>
 
 <p><span class="chinese">做边境贸易的边疆宾馆。</span><span class="english">Hotels do border trade frontier.</span></p>

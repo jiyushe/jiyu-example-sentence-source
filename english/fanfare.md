@@ -1,5 +1,7 @@
 # fanfare
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fanfare.md)
+
 <p><span class="chinese">这个产品在世界各地隆重推出。</span><span class="english">The product was launched amid much fanfare worldwide.</span></p>
 
 <p><span class="chinese">在响亮的号角声中花圈被献在纪念碑前。</span><span class="english">A wreath was laid on the monument to a fanfare of trumpets.</span></p>

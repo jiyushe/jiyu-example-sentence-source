@@ -1,5 +1,7 @@
 # posttreatment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/posttreatment.md)
+
 <p><span class="chinese">对病人的观察持续到治疗后20天。</span><span class="english">Observation continued over a 20-day posttreatment period.</span></p>
 
 <p><span class="chinese">治疗后期则包括了治疗后一直到现在。</span><span class="english">The posttreatment period included the time from treatment onward.</span></p>

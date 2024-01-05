@@ -1,5 +1,7 @@
 # anticipatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anticipatory.md)
+
 <p><span class="chinese">这幅图就是一个移情的好例子。</span><span class="english">Here is a good illustration of somebody in anticipatory pain.</span></p>
 
 <p><span class="chinese">就在那个时候，我被诊断出患有预想性焦虑失调症。</span><span class="english">During that time I was diagnosed with anticipatory anxiety disorder.</span></p>

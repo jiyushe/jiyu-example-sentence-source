@@ -1,5 +1,7 @@
 # 民主人士
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minzhurenshi.md)
+
 <p><span class="chinese">邵力子是中国现代史上一位著名的民主人士。</span><span class="english">Lizi-shao is a famous democrat in Chinese Contemporary History.</span></p>
 
 <p><span class="chinese">中国当局最近对持有异议的民主人士发起了一轮较大规模的镇压。</span><span class="english">Chinese authorities have launched a major crackdown on dissent recently.</span></p>

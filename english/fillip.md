@@ -1,5 +1,7 @@
 # fillip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fillip.md)
+
 <p><span class="chinese">它也会刺激财政收入。</span><span class="english">It could also give a fillip to revenues.</span></p>
 
 <p><span class="chinese">我弹指一笑，藏尽前尘所有的缘，只为一次无望的落泪。</span><span class="english">I fillip smile, every possession, Cheng pulls all the edge, only a hopeless tears.</span></p>

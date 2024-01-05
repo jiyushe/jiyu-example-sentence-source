@@ -1,5 +1,7 @@
 # 藤黄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tenghuang.md)
+
 <p><span class="chinese">生藤黄只能作外用。</span><span class="english">Health Garcinia for external use only.</span></p>
 
 <p><span class="chinese">中国藤黄科植物花粉形态的研究。</span><span class="english">Pollen morphology of Guttiferae in China.</span></p>

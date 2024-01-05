@@ -1,5 +1,7 @@
 # carcinogenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carcinogenic.md)
+
 <p><span class="chinese">探讨DEHP的毒作用机制和致癌机制。</span><span class="english">To study DEHP toxic action and carcinogenic mechanism.</span></p>
 
 <p><span class="chinese">霉菌与亚硝胺有协同致癌作用。</span><span class="english">Mold and carcinogenic nitrosamines a synergistic effect.</span></p>

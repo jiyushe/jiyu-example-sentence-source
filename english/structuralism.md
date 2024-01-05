@@ -1,5 +1,7 @@
 # structuralism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/structuralism.md)
+
 <p><span class="chinese">它不仅是结构主义的评判。</span><span class="english">It's not just a critique of structuralism.</span></p>
 
 <p><span class="chinese">换言之，虽然不只是结构主义。</span><span class="english">It's not just structuralism in other words.</span></p>

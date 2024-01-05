@@ -1,5 +1,7 @@
 # monologue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monologue.md)
+
 <p><span class="chinese">试镜与独白？</span><span class="english">Auditioning with a monologue?</span></p>
 
 <p><span class="chinese">这是一个割草者的独白。</span><span class="english">This is a monologue by a worker, a mower.</span></p>

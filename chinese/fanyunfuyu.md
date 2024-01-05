@@ -1,5 +1,7 @@
 # 翻云覆雨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanyunfuyu.md)
+
 <p><span class="chinese">一对年轻情侣拿著一盒保险套准备疯狂的翻云覆雨。</span><span class="english">A young couple with a box of condoms proceeded to do the wild thing.</span></p>
 
 <p><span class="chinese">在美国，我们男人都打性信息电话，我喜欢和我爱的人在床第间翻云覆雨。</span><span class="english">In america we call sex talk, "pillow talk" I love to have pillow talk with the woman I love.</span></p>

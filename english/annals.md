@@ -1,5 +1,7 @@
 # annals
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/annals.md)
+
 <p><span class="chinese">H村虽在历史上默默无闻，却在昆虫学的编年史上享有盛名。</span><span class="english">In the annals of entomology it is well known.</span></p>
 
 <p><span class="chinese">非农业人口为公安年报数。</span><span class="english">None-Agricultural Population is from the Police Annals.</span></p>

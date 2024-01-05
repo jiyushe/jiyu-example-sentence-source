@@ -1,5 +1,7 @@
 # 下山
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiashan.md)
+
 <p><span class="chinese">当炽燃的太阳下山后。</span><span class="english">When the blazing sun is gone.</span></p>
 
 <p><span class="chinese">那车子奔驰下山。</span><span class="english">The car careered down the hill.</span></p>

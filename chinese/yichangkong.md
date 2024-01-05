@@ -1,5 +1,7 @@
 # 一场空
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yichangkong.md)
+
 <p><span class="chinese">人生如梦一场空吗?。</span><span class="english">Is life an empty dream?</span></p>
 
 <p><span class="chinese">竹蓝打水一场空。</span><span class="english">Draw water with a sieve.</span></p>

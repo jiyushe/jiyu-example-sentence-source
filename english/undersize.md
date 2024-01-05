@@ -1,5 +1,7 @@
 # undersize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undersize.md)
+
 <p><span class="chinese">被钻孔或头部尺寸太小的螺栓不能使用。</span><span class="english">Bolts with drilled or undersize heads shall not be used.</span></p>
 
 <p><span class="chinese">小个子的锋位，不能抢篮板也不能完成防守。</span><span class="english">Undersize forwards who can't rebound or defend their position?</span></p>

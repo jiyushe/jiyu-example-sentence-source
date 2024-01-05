@@ -1,5 +1,7 @@
 # cardiogenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cardiogenic.md)
+
 <p><span class="chinese">方法回顾分析26例心源性晕厥的临床资料。</span><span class="english">Methods Recall and analysis Clinical data of 26 cases of cardiogenic syncope.</span></p>
 
 <p><span class="chinese">目的探讨急性心肌梗死合并心源性休克的抢救方法。</span><span class="english">Objective To treat acute myocardial infarction with cardiogenic shock by emegency PCI.</span></p>

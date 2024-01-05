@@ -1,5 +1,7 @@
 # accessibly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accessibly.md)
+
 <p><span class="chinese">船尾是通俗易懂仅通船长沙龙的画廊。</span><span class="english">The stern gallery is accessibly only through the Captain's salon.</span></p>
 
 <p><span class="chinese">通俗易懂的几个不同版本，面向不同圈子的任务。</span><span class="english">Accessibly several different versions, oriented to different circle of tasks.</span></p>

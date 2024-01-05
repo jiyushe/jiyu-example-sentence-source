@@ -1,5 +1,7 @@
 # monstrosity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monstrosity.md)
+
 <p><span class="chinese">当这个可怕的东西下潜，我担心它不会再浮出水面。</span><span class="english">When that monstrosity submerges , I fear it will never rise again.</span></p>
 
 <p><span class="chinese">当兰波回来时，他驾驶著一架叮当作响的机械怪物。</span><span class="english">When he returned, he was at the helm of a clanking, mechanized monstrosity.</span></p>

@@ -1,5 +1,7 @@
 # remarry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remarry.md)
+
 <p><span class="chinese">那你会再婚吗？</span><span class="english">Would You Remarry?</span></p>
 
 <p><span class="chinese">我可不希望到了白发苍苍和他复婚。</span><span class="english">I do not want to remarry him.</span></p>

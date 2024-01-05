@@ -1,5 +1,7 @@
 # research 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/research.md)
+
 <p><span class="chinese">做一些调查。</span><span class="english">Do some research.</span></p>
 
 <p><span class="chinese">所以我做研究。</span><span class="english">So we did research.</span></p>

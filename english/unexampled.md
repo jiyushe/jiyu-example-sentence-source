@@ -1,5 +1,7 @@
 # unexampled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unexampled.md)
+
 <p><span class="chinese">一个史无前例的富裕时代。</span><span class="english">A time of unexampled prosperity.</span></p>
 
 <p><span class="chinese">我们在战争年代同舟共济的兄弟情谊是史无前例的。</span><span class="english">Our comradeship and our brotherhood in war were unexampled.</span></p>

@@ -1,5 +1,7 @@
 # 冷饮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengyin.md)
+
 <p><span class="chinese">我想我们需要喝杯冷饮。</span><span class="english">I think we need a cool drink.</span></p>
 
 <p><span class="chinese">好的。我好想喝杯冷饮。</span><span class="english">Yes. I'm dring for a cold drink.</span></p>

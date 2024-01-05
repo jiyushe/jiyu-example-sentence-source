@@ -1,5 +1,7 @@
 # blissfully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blissfully.md)
+
 <p><span class="chinese">应用程序很高兴对所有这些活动一无所知。</span><span class="english">An application is blissfully unaware of all this activity.</span></p>
 
 <p><span class="chinese">他们似乎看到未来的幸福之路在眼前展开，直至相携到老。</span><span class="english">They had seen the years blissfully stretching ahead of them, together forever.</span></p>

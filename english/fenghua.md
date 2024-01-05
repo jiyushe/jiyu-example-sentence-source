@@ -1,5 +1,7 @@
 # fenghua
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fenghua.md)
+
 <p><span class="chinese">您能告诉我去奉化大酒店的路吗？</span><span class="english">Can you tell me the way to Fenghua Hotel, please?</span></p>
 
 <p><span class="chinese">其中被告方奉化市山河水暖器材厂就是其中之一。</span><span class="english">The defendant Fenghua Shanhe is one of the infringers.</span></p>

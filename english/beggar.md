@@ -1,5 +1,7 @@
 # beggar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beggar.md)
+
 <p><span class="chinese">那个女孩是个乞丐吗？</span><span class="english">Is that girl a beggar?</span></p>
 
 <p><span class="chinese">叫化鸡是什么？</span><span class="english">What is Beggar Chicken?</span></p>

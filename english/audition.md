@@ -1,5 +1,7 @@
 # audition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/audition.md)
+
 <p><span class="chinese">我走进了一家“试镜”。</span><span class="english">I went to one "audition".</span></p>
 
 <p><span class="chinese">噢，我得到了试音的机会。</span><span class="english">Oh, I've got to audition?</span></p>

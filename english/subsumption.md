@@ -1,5 +1,7 @@
 # subsumption
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subsumption.md)
+
 <p><span class="chinese">并给出了一个RDF语义查询包含算法和查询重写算法。</span><span class="english">The algorithms for RDF-based query subsumption inference and query rewriting are also introduced.</span></p>
 
 <p><span class="chinese">在方法上，根本违约的研究应坚持类型涵摄的方法。</span><span class="english">In the method, the fundamental breach of contract research should adhere to type subsumption approach.</span></p>

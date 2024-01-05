@@ -1,5 +1,7 @@
 # quibbling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quibbling.md)
+
 <p><span class="chinese">你实际上是在诡辩。</span><span class="english">What you are really doing is quibbling.</span></p>
 
 <p><span class="chinese">因此留有许多讨价还价的余地和延误。</span><span class="english">That leaves plenty of scope for quibbling and delay.</span></p>

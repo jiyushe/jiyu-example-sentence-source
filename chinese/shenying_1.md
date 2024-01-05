@@ -1,5 +1,7 @@
 # 身影
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenying_1.md)
+
 <p><span class="chinese">是那只鸟的身影。</span><span class="english">There was the shadow of that bird.</span></p>
 
 <p><span class="chinese">他的身影消失在暮色之中。</span><span class="english">His shape overpassed into the dark.</span></p>

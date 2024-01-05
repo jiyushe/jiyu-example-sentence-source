@@ -1,5 +1,7 @@
 # 特赦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/teshe.md)
+
 <p><span class="chinese">我们恳求恳求陛下给予他特赦。</span><span class="english">We supplicate your majesty to grant him amnesty.</span></p>
 
 <p><span class="chinese">而今，她们已被“特赦”，并跟随克林顿回国。</span><span class="english">Now pardoned, they left the country with Mr Clinton.</span></p>

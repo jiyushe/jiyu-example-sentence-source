@@ -1,5 +1,7 @@
 # 起来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qilai.md)
+
 <p><span class="chinese">我坐起来。</span><span class="english">I sat up.</span></p>
 
 <p><span class="chinese">强壮起来！</span><span class="english">Be strong!</span></p>

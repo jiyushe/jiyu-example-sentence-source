@@ -1,5 +1,7 @@
 # 坚固
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangu_1.md)
+
 <p><span class="chinese">那部车的坚固外观只是虚有其表。</span><span class="english">The car's sturdy appearance lied.</span></p>
 
 <p><span class="chinese">它能将一只坚固的玻璃杯撑破。</span><span class="english">It can broken a hard glass bottle.</span></p>

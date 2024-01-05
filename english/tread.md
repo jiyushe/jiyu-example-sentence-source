@@ -1,5 +1,7 @@
 # tread
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tread.md)
+
 <p><span class="chinese">不要踩踏庄稼。</span><span class="english">Don't tread on crops.</span></p>
 
 <p><span class="chinese">勿踏草地。</span><span class="english">Don't tread on grass.</span></p>

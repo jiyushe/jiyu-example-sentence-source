@@ -1,5 +1,7 @@
 # abcd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abcd.md)
+
 <p><span class="chinese">他们这周刚从ABCD夏令营回来。</span><span class="english">They just came this week from the ABCD Camp.</span></p>
 
 <p><span class="chinese">又注意到经典力学中的粒子运动也存在类似的ABCD定理。</span><span class="english">We noticed that the same ABCD relation exists in the classical mechanics also.</span></p>

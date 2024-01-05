@@ -1,5 +1,7 @@
 # 僧人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sengren.md)
+
 <p><span class="chinese">他扮作一个僧人。</span><span class="english">He disguised himself as a monk.</span></p>
 
 <p><span class="chinese">“首先他们是僧人，”王说。</span><span class="english">"First they are monks, " says Wang.</span></p>

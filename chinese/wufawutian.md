@@ -1,5 +1,7 @@
 # 无法无天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wufawutian.md)
+
 <p><span class="chinese">现在这是个无法无天的领域。</span><span class="english">Right now it's a domain of lawlessness.</span></p>
 
 <p><span class="chinese">现在的西部简直无法无天。</span><span class="english">It is lawless right now in the Wild West.</span></p>

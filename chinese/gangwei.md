@@ -1,5 +1,7 @@
 # 岗位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gangwei.md)
+
 <p><span class="chinese">她坚守岗位。</span><span class="english">She sticks to her post.</span></p>
 
 <p><span class="chinese">祝你在新的岗位一上切顺利。</span><span class="english">Allthe best in your new job.</span></p>

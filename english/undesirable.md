@@ -1,5 +1,7 @@
 # undesirable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undesirable.md)
+
 <p><span class="chinese">那些建议是否不受欢迎？</span><span class="english">Are they undesirable?</span></p>
 
 <p><span class="chinese">我会如此不良的吗?</span><span class="english">Was I so undesirable?</span></p>

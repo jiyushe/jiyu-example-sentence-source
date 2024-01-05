@@ -1,5 +1,7 @@
 # elasticity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elasticity.md)
+
 <p><span class="chinese">胡克弹性定律?。</span><span class="english">Hooke's law of elasticity?</span></p>
 
 <p><span class="chinese">这就是所谓的需求弹性。</span><span class="english">It is called the elasticity of demand.</span></p>

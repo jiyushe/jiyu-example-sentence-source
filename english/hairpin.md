@@ -1,5 +1,7 @@
 # hairpin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hairpin.md)
+
 <p><span class="chinese">他可以用发夹打开任何门上的锁。</span><span class="english">He can hairpin any door open.</span></p>
 
 <p><span class="chinese">等等一支玉簪值九百万?。</span><span class="english">Hang on. A hairpin worth nine million?</span></p>

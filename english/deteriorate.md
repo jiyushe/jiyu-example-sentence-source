@@ -1,5 +1,7 @@
 # deteriorate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deteriorate.md)
+
 <p><span class="chinese">食物在炎天轻易蜕变。</span><span class="english">Food is apt to deteriorate in summer.</span></p>
 
 <p><span class="chinese">皮革受潮可变质。</span><span class="english">Leather can deteriorate in damp conditions.</span></p>

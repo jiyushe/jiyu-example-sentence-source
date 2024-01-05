@@ -1,5 +1,7 @@
 # neuron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neuron.md)
+
 <p><span class="chinese">一个神经元只有一个轴突。</span><span class="english">A neuron has only one axon.</span></p>
 
 <p><span class="chinese">门区神经元脱失仅在海马硬化组可见。</span><span class="english">Hilus neuron lost in HS groups only.</span></p>

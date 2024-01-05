@@ -1,5 +1,7 @@
 # mallet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mallet.md)
+
 <p><span class="chinese">可以给我一些奶油和一把木槌吗？</span><span class="english">Could I get some cream and a mallet ?</span></p>
 
 <p><span class="chinese">此外，也可以导致槌状脚指。</span><span class="english">In addition, can also lead to mallet toes.</span></p>

@@ -1,5 +1,7 @@
 # allegedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allegedly.md)
+
 <p><span class="chinese">据说他忌妒她。</span><span class="english">Allegedly he envies her.</span></p>
 
 <p><span class="chinese">他们的首次飞行是1934年。</span><span class="english">Their first flight was allegedly in 1934.</span></p>

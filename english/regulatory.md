@@ -1,5 +1,7 @@
 # regulatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regulatory.md)
+
 <p><span class="chinese">法规遵从性和自动下线</span><span class="english">Regulatory compliance and automatic logoff</span></p>
 
 <p><span class="chinese">关于管理的结构，或者NRC的角色？</span><span class="english">About the regulatory structure, or NRC's role?</span></p>

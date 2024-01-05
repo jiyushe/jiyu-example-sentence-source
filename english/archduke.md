@@ -1,5 +1,7 @@
 # archduke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/archduke.md)
+
 <p><span class="chinese">大公爵遇刺触发了战争。</span><span class="english">The assassination of the archduke triggered the war.</span></p>
 
 <p><span class="chinese">你和大公现在是卡斯蒂利亚的君主了。</span><span class="english">You and the archduke are now the monarchs ofcastile.</span></p>

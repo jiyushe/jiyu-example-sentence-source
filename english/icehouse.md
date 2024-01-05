@@ -1,5 +1,7 @@
 # icehouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/icehouse.md)
+
 <p><span class="chinese">你的房间象冰库那么冷。</span><span class="english">Oh, your room is as cold as an icehouse.</span></p>
 
 <p><span class="chinese">难道里面有冰窖不成！</span><span class="english">Inside has the icehouse to be inadequate!</span></p>

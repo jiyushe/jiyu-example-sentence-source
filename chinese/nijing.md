@@ -1,5 +1,7 @@
 # 逆境
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nijing.md)
+
 <p><span class="chinese">逆境通向成功路。</span><span class="english">Adversity leads to prosperity.</span></p>
 
 <p><span class="chinese">她在逆境中勇气可嘉。</span><span class="english">She showed courage in adversity.</span></p>

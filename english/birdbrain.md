@@ -1,5 +1,7 @@
 # birdbrain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/birdbrain.md)
+
 <p><span class="chinese">婴儿天才还是婴儿蠢才?。</span><span class="english">Baby Einstein or Baby Birdbrain?</span></p>
 
 <p><span class="chinese">乔伊在某些方面是不折不扣的白痴。</span><span class="english">Joy is a real birdbrain in some ways.</span></p>

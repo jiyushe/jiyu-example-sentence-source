@@ -1,5 +1,7 @@
 # 语气词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuqici.md)
+
 <p><span class="chinese">语气词的范畴选择包含焦点标记词的CP。</span><span class="english">The mood particle de C-selects a CP containing a Foc.</span></p>
 
 <p><span class="chinese">“了2”用于句末，表示语气，是语气词。</span><span class="english">But le2 appearing at the end of a sentence is a modal word.</span></p>

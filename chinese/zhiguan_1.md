@@ -1,5 +1,7 @@
 # 直观
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiguan_1.md)
+
 <p><span class="chinese">那是非常直观的</span><span class="english">That's intuitively clear.</span></p>
 
 <p><span class="chinese">直观显示装置?。</span><span class="english">VDU? Visual Display Unit?</span></p>

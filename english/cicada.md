@@ -1,5 +1,7 @@
 # cicada
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cicada.md)
+
 <p><span class="chinese">我找到了一个蝉壳！</span><span class="english">I found a cicada shell!</span></p>
 
 <p><span class="chinese">蝉在脱壳。</span><span class="english">The cicada is shelling.</span></p>

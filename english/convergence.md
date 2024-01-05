@@ -1,5 +1,7 @@
 # convergence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/convergence.md)
+
 <p><span class="chinese">可净化及收敛毛细孔。</span><span class="english">Clean the pores and convergence.</span></p>
 
 <p><span class="chinese">但是，为什么需要收敛呢？</span><span class="english">But why is convergence necessary?</span></p>

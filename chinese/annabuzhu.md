@@ -1,5 +1,7 @@
 # 按捺不住
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/annabuzhu.md)
+
 <p><span class="chinese">我按捺不住我的愤怒。</span><span class="english">I could not curb my anger.</span></p>
 
 <p><span class="chinese">“你难道就不想知道是谁租了吗？”班尼特太太按捺不住的嚷了一句。</span><span class="english">"Do not you want to know who has taken it?"cried his wife impatiently.</span></p>

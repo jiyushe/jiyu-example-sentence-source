@@ -1,5 +1,7 @@
 # 单色光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danseguang.md)
+
 <p><span class="chinese">光被色散成各种波长的单色光。</span><span class="english">The light is dispersed into its component wave lengths.</span></p>
 
 <p><span class="chinese">着重分析了单色光束的光栅扫描理论。</span><span class="english">The paper studies the principle of homochromous beam grating scanning.</span></p>

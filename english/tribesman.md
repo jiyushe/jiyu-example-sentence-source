@@ -1,5 +1,7 @@
 # tribesman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tribesman.md)
+
 <p><span class="chinese">像一些贫穷的阿拉伯部落和他的帐篷里。</span><span class="english">Like some poor Arab tribesman and his tent.</span></p>
 
 <p><span class="chinese">过去我用筷子吃东西就像巴布亚新几内亚的部落人用矛刺鱼一样。</span><span class="english">I once used chopsticks like Papua New Guinea tribesman spear fish.</span></p>

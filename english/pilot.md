@@ -1,5 +1,7 @@
 # pilot 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pilot.md)
+
 <p><span class="chinese">引航员正在去你船。</span><span class="english">Pilot coming to you.</span></p>
 
 <p><span class="chinese">你船要引航员吗？</span><span class="english">Do you require pilot?</span></p>

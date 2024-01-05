@@ -1,5 +1,7 @@
 # 饶恕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/raoshu.md)
+
 <p><span class="chinese">他不能被饶恕。</span><span class="english">He cannot be forgiven.</span></p>
 
 <p><span class="chinese">愿上帝饶恕我们俩吧！</span><span class="english">May God forgive us both!</span></p>

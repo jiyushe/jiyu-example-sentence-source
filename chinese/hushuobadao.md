@@ -1,5 +1,7 @@
 # 胡说八道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hushuobadao.md)
+
 <p><span class="chinese">不要胡说八道！</span><span class="english">Don't talk boloney !</span></p>
 
 <p><span class="chinese">你胡说八道得使我发疯了。</span><span class="english">You gabble me crazy.</span></p>

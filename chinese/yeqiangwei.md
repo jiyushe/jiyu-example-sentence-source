@@ -1,5 +1,7 @@
 # 野蔷薇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yeqiangwei.md)
+
 <p><span class="chinese">山上有许多野蔷薇丛。</span><span class="english">There are brier bushes on the hill.</span></p>
 
 <p><span class="chinese">我就是存在的野蔷薇和红樱桃。</span><span class="english">I'm the wild eglantine and cherry that exist.</span></p>

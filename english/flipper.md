@@ -1,5 +1,7 @@
 # flipper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flipper.md)
+
 <p><span class="chinese">你在下面干嘛，小小鸟？</span><span class="english">What you doing down there, flipper bird?</span></p>
 
 <p><span class="chinese">某些动物身上的鳍状肢或扁平附肢。</span><span class="english">A flipper or flattened appendage of certain animals.</span></p>

@@ -1,5 +1,7 @@
 # hither
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hither.md)
+
 <p><span class="chinese">将你的儿子带到这里来吧。</span><span class="english">Bring thy son hither.</span></p>
 
 <p><span class="chinese">你怎么到这儿来啦？</span><span class="english">What sent you hither?</span></p>

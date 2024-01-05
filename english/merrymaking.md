@@ -1,5 +1,7 @@
 # merrymaking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/merrymaking.md)
+
 <p><span class="chinese">来参加我们的狂欢。</span><span class="english">Come and join in the merrymaking.</span></p>
 
 <p><span class="chinese">参加喧哗的畅饮的寻欢作乐。</span><span class="english">To engage in boisterous, drunken merrymaking.</span></p>

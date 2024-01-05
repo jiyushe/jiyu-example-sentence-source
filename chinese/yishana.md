@@ -1,5 +1,7 @@
 # 一霎那
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishana.md)
+
 <p><span class="chinese">请等那一霎那，简正在接另一条电话线。</span><span class="english">Please wait a moment, Jane is on another line.</span></p>
 
 <p><span class="chinese">在一霎那间，约伯失去了他所有的孩子。</span><span class="english">In a split second, Job lost all of his children.</span></p>

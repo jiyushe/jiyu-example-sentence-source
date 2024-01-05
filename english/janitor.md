@@ -1,5 +1,7 @@
 # janitor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/janitor.md)
+
 <p><span class="chinese">在你家附近找一家清洁工用品店。</span><span class="english">Find a janitor supply store in your area.</span></p>
 
 <p><span class="chinese">几年前，我的业余工作是做一个门卫。</span><span class="english">Several years ago I did part-time work as a janitor.</span></p>

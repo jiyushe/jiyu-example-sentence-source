@@ -1,5 +1,7 @@
 # noir
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noir.md)
+
 <p><span class="chinese">常常与黑品诺联系在一起。</span><span class="english">Frequently associated with Pinot Noir.</span></p>
 
 <p><span class="chinese">经典的黑色电影蛇蝎美人形象。</span><span class="english">The classic film noir femme fatale image.</span></p>

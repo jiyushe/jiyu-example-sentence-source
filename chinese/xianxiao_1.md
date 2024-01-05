@@ -1,5 +1,7 @@
 # 纤小
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianxiao_1.md)
+
 <p><span class="chinese">她真是个非常纤小的人儿。</span><span class="english">She is quite a little creature.</span></p>
 
 <p><span class="chinese">野草正开满着纤小的紫花。</span><span class="english">The weeds were abloom with tiny purple blossoms.</span></p>

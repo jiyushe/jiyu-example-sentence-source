@@ -1,5 +1,7 @@
 # racemization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/racemization.md)
+
 <p><span class="chinese">同时也论述了氨基酸消旋的反应机理。</span><span class="english">The mechanism of the racemization was discussed.</span></p>
 
 <p><span class="chinese">发现旋光基质有外消旋作用。</span><span class="english">Racemization is found with optically active substrates.</span></p>

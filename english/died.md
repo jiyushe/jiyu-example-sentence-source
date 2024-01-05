@@ -1,5 +1,7 @@
 # died
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/died.md)
+
 <p><span class="chinese">我们看着他死去了。</span><span class="english">He died on us.</span></p>
 
 <p><span class="chinese">1910年，他离开了人世。</span><span class="english">He died in 1910.</span></p>

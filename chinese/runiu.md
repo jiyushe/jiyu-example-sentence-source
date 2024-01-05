@@ -1,5 +1,7 @@
 # 乳牛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/runiu.md)
+
 <p><span class="chinese">我看见一头黑白花乳牛。</span><span class="english">I saw a black and white cow.</span></p>
 
 <p><span class="chinese">乳牛在草地上徘徊。</span><span class="english">Cows were roaming the grassland.</span></p>

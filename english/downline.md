@@ -1,5 +1,7 @@
 # downline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downline.md)
+
 <p><span class="chinese">这是一家强迫巨阵公司吗？</span><span class="english">Is this a company-forced downline?</span></p>
 
 <p><span class="chinese">二月步骤下行变为行动带动你！</span><span class="english">Steps to Spur Your Downline Into Action!</span></p>

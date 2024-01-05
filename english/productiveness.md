@@ -1,5 +1,7 @@
 # productiveness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/productiveness.md)
+
 <p><span class="chinese">其中，赢利性指标是一项核心指标。</span><span class="english">Among them, productiveness index is index of a core.</span></p>
 
 <p><span class="chinese">它直接影响到矿山开采的速度、生产效率和经济效益。</span><span class="english">It directly influences speed, productiveness and benefit of mining.</span></p>

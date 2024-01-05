@@ -1,5 +1,7 @@
 # malodor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malodor.md)
+
 <p><span class="chinese">人们只要在锤子看到梅尔多几个字，就会毫不犹豫地买下它。</span><span class="english">As long as people saw "Malodor" on a hammer, they will all purchase the hammer.</span></p>
 
 <p><span class="chinese">舌刮器能降低挥发性硫化物的浓度，从而治疗口腔性口臭。</span><span class="english">Tongue scraping can lower VSC concentration, subsequently reducing oral malodor.</span></p>

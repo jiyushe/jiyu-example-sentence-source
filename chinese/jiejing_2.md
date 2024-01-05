@@ -1,5 +1,7 @@
 # 洁净
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiejing_2.md)
+
 <p><span class="chinese">这些是与你们不洁净的。</span><span class="english">They are unclean for you.</span></p>
 
 <p><span class="chinese">是的，我需要一些洗洁净。</span><span class="english">Yes, I need some detergent.</span></p>

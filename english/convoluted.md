@@ -1,5 +1,7 @@
 # convoluted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/convoluted.md)
+
 <p><span class="chinese">有些公羊有回旋状的角。</span><span class="english">Some rams have convoluted horns.</span></p>
 
 <p><span class="chinese">这条蛇紧紧地盘绕着。</span><span class="english">The snake's coils were tightly convoluted.</span></p>

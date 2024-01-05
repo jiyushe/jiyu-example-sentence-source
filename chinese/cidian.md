@@ -1,5 +1,7 @@
 # 疵点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cidian.md)
+
 <p><span class="chinese">其中一天是昨天，它包含了所有的误会与牵挂，所有的疵点与盲目，所有的怜悯与痛苦。</span><span class="english">One of these days is Yesterday with all its mistakes and cares</span></p>
 
 <p><span class="chinese">这布我买得便宜，因为上面有个小疵点。</span><span class="english">I bought the cloth cheap because there is a small defect in it.</span></p>

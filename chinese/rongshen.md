@@ -1,5 +1,7 @@
 # 容身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rongshen.md)
+
 <p><span class="chinese">主赐予我容身之处，为我的生命注入意义。</span><span class="english">The Lord has provided me shelter and purpose in my life.</span></p>
 
 <p><span class="chinese">把你的容身之处的屋顶看作是一间房子的叠瓦状。</span><span class="english">Think of your shelter roof as being shingled like a house.</span></p>

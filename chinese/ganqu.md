@@ -1,5 +1,7 @@
 # 干渠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganqu.md)
+
 <p><span class="chinese">坐在高高的干渠上，望着舞动的稻穗直到我迷惘的眼神再也看不清来世的路。</span><span class="english">Sitting high in the trunk, watching the dancing rice until I lost eyes no longer see afterlife road.</span></p>
 
 <p><span class="chinese">文章介绍水泥土键在干渠滑坡治理中的设计和施工技术。</span><span class="english">The article introduces the design and construction of soil-cement key governing in main canal landslide.</span></p>

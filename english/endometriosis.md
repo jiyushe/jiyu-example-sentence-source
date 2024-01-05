@@ -1,5 +1,7 @@
 # endometriosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endometriosis.md)
+
 <p><span class="chinese">诱导无月经灵长类动物发生内膜异位症。</span><span class="english">Induction of endometriosis in a non-menstruating primate.</span></p>
 
 <p><span class="chinese">未发现子宫内膜异位症复发。</span><span class="english">Has not discovered the endometriosis sickness recrudescence.</span></p>

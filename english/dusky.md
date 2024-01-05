@@ -1,5 +1,7 @@
 # dusky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dusky.md)
+
 <p><span class="chinese">古老的，忧郁的河流。</span><span class="english">Ancient, dusky rivers.</span></p>
 
 <p><span class="chinese">暮色中的一畦畦西红柿。</span><span class="english">The dusky rows of tomatoes.</span></p>

@@ -1,5 +1,7 @@
 # culinary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/culinary.md)
+
 <p><span class="chinese">而且我视伦敦为饪界的麦嘉圣地！</span><span class="english">Also I see London as a kind of culinary Mecca!</span></p>
 
 <p><span class="chinese">这是节假日烹调创意的主色调。</span><span class="english">It's the palette of holiday culinary creativity.</span></p>

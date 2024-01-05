@@ -1,5 +1,7 @@
 # 熟视无睹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shushiwudu.md)
+
 <p><span class="chinese">我熟视无睹地拿余光一扫而过。</span><span class="english">I turned out to get a scan.</span></p>
 
 <p><span class="chinese">他们对使用暴力熟视无睹。</span><span class="english">They turned a blind eye to the use of violence.</span></p>

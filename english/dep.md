@@ -1,5 +1,7 @@
 # dep
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dep.md)
+
 <p><span class="chinese">我先带你去见见你们部门经理。</span><span class="english">I would like to take you to meet your dep.</span></p>
 
 <p><span class="chinese">协助生产部门控制好产品的品质。</span><span class="english">Assist Manufacturing Dep . to control product quality.</span></p>

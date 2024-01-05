@@ -1,5 +1,7 @@
 # laboring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laboring.md)
+
 <p><span class="chinese">住在寺院里，每日上殿、读书、劳动。</span><span class="english">In the temple, praying, reading and laboring fill each day.</span></p>
 
 <p><span class="chinese">劳动阶级自农村移往城市。</span><span class="english">The laboring classes migrated to town from rural districts.</span></p>

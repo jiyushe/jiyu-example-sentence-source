@@ -1,5 +1,7 @@
 # 放飞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangfei.md)
+
 <p><span class="chinese">放飞想象。</span><span class="english">Just imagine.</span></p>
 
 <p><span class="chinese">放飞一个个梦幻。</span><span class="english">Let's make dreams fly.</span></p>

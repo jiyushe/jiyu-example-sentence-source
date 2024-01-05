@@ -1,5 +1,7 @@
 # 工长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongchang_1.md)
+
 <p><span class="chinese">哈罗，工长。你好吗？</span><span class="english">Hello, Foreman. How are you?</span></p>
 
 <p><span class="chinese">这是工长要求我这么干的。</span><span class="english">It is the foreman who asked me to do so.</span></p>

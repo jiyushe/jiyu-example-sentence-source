@@ -1,5 +1,7 @@
 # tirelessly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tirelessly.md)
+
 <p><span class="chinese">天空在缝啊，缝啊，不知疲倦地缝着</span><span class="english">and the sky which sews and sews, tirelessly sewing</span></p>
 
 <p><span class="chinese">退休工人不倦地修理整个轮胎。</span><span class="english">The retired worker repairs the entire tire tirelessly.</span></p>

@@ -1,5 +1,7 @@
 # puncher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puncher.md)
+
 <p><span class="chinese">他是你指导的出拳最狠的拳手吗？</span><span class="english">Is he the hardest puncher you've dealt with?</span></p>
 
 <p><span class="chinese">收票员用打洞器检查车票。</span><span class="english">The ticket collector used a puncher to check the tickets.</span></p>

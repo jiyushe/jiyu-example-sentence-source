@@ -1,5 +1,7 @@
 # 公婆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongpo.md)
+
 <p><span class="chinese">丈夫是公婆家的取款机。永无宁日。</span><span class="english">Husband is in-laws' ATM. No peace.</span></p>
 
 <p><span class="chinese">是的，我丈夫和我只剩下我公婆留下的一点马鞭草。</span><span class="english">Yes, my husband and I only have left what his parents left him.</span></p>

@@ -1,5 +1,7 @@
 # watery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/watery.md)
+
 <p><span class="chinese">双鱼座是水相星座。</span><span class="english">Pisces is a watery sign.</span></p>
 
 <p><span class="chinese">天蝎座是水相星座。</span><span class="english">Scorpio is a watery sign.</span></p>

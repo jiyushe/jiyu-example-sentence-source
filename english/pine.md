@@ -1,5 +1,7 @@
 # pine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pine.md)
+
 <p><span class="chinese">取自洋槐等树木的硬木。</span><span class="english">Fir or pine wood.</span></p>
 
 <p><span class="chinese">增加了新的柱状松树！</span><span class="english">Added new Columnar Pine tree!</span></p>

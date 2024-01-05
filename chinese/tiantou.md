@@ -1,5 +1,7 @@
 # 甜头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiantou.md)
+
 <p><span class="chinese">他们已经尝到了甜头。</span><span class="english">They’ve already tasted blood.</span></p>
 
 <p><span class="chinese">每天做眼保键操对眼睛有甜头。</span><span class="english">Itnos good to do eye exercises every day.</span></p>

@@ -1,5 +1,7 @@
 # 删改
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangai.md)
+
 <p><span class="chinese">编辑把我的文章删改得面目全非。</span><span class="english">The editor hacked my article to bits.</span></p>
 
 <p><span class="chinese">拙劣的译本将原作删改得支离破碎。</span><span class="english">Bad translation mutilates the original work.</span></p>

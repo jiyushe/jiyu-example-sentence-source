@@ -1,5 +1,7 @@
 # 钻牛角尖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuanniujiaojian.md)
+
 <p><span class="chinese">建议就是不要为了知识而知识，钻牛角尖。</span><span class="english">Advice is not for the knowledge of knowledge, into a dead end.</span></p>
 
 <p><span class="chinese">别太钻牛角尖，这只会成为你日后的羁绊。</span><span class="english">Don't be too single-minded. It will only serve to bind you later on.</span></p>

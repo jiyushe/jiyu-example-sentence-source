@@ -1,5 +1,7 @@
 # seed 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seed.md)
+
 <p><span class="chinese">埋藏一粒种子。</span><span class="english">Imbed a seed in it.</span></p>
 
 <p><span class="chinese">不要吃掉你的种子。</span><span class="english">Do not eat your seed.</span></p>

@@ -1,5 +1,7 @@
 # practicer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/practicer.md)
+
 <p><span class="chinese">另一个跆跟练习者用拳头打入泥墙中。</span><span class="english">Another Taekkyon practicer had his fist pierce through the clay-wall.</span></p>
 
 <p><span class="chinese">其次，教育理论帮助教育实践者进行反思。</span><span class="english">Sencondly, educational theory is able to help educational practicer reflect.</span></p>

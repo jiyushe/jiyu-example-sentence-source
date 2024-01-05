@@ -1,5 +1,7 @@
 # superbike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superbike.md)
+
 <p><span class="chinese">世界超级摩托车锦标赛的财务信息管理是全球领先的赛车世界锦标赛利用生产的摩托车。</span><span class="english">The FIM Superbike World Championship is the leading road racing World Championship using production-based motorcycles.</span></p>
 
 <p><span class="chinese">哈雷戴维森在超级摩托车比赛推出了配备双顶置凸轮水冷发动机的VR1000摩托车。</span><span class="english">Harley-Davidson enters Superbike racing with the introduction of the VR1000, a dual overhead cam, liquid-cooled motorcycle.</span></p>

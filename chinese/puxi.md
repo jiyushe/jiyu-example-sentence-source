@@ -1,5 +1,7 @@
 # 谱系
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/puxi.md)
+
 <p><span class="chinese">在孤独症谱系中，你处于哪个位置？</span><span class="english">Where do you fall on the autism spectrum?</span></p>
 
 <p><span class="chinese">孤独症是一个谱系障碍，变数很多。</span><span class="english">This is a spectrum disorder with plenty of variables.</span></p>

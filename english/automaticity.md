@@ -1,5 +1,7 @@
 # automaticity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/automaticity.md)
+
 <p><span class="chinese">焊接电源为美国林肯电源。</span><span class="english">Achived high automaticity. Apply USA Lincoln welding supply.</span></p>
 
 <p><span class="chinese">自动性的一个高峰在66天后到达。</span><span class="english">On average a plateau in automaticity was reached after 66 days.</span></p>

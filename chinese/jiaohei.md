@@ -1,5 +1,7 @@
 # 焦黑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaohei.md)
+
 <p><span class="chinese">只在焦黑的田野争奇斗艳！</span><span class="english">Bloom in these darkened fields alone.</span></p>
 
 <p><span class="chinese">两个人为一根焦黑的骨头大打出手。</span><span class="english">Two women fought over a charred bone.</span></p>

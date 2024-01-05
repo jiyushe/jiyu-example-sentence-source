@@ -1,5 +1,7 @@
 # 招兵买马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaobingmaima.md)
+
 <p><span class="chinese">很多雇主似乎都认为现在还没到招兵买马的时候。</span><span class="english">And many employers apparently don't think it is time yet.</span></p>
 
 <p><span class="chinese">严兆强还在中国不断开设新厂，招兵买马。</span><span class="english">Mr. Yan is constantly adding factories and employees in China.</span></p>

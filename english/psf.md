@@ -1,5 +1,7 @@
 # psf
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/psf.md)
+
 <p><span class="chinese">对于匀速直线运动模糊图像，模糊长度和运动方向决定了点扩展函数。</span><span class="english">For uniform linear motion blurred images, the blurring length and direction determine PSF.</span></p>
 
 <p><span class="chinese">意思是，对于不同的模拟点扩展函数究竟什么的目标才能被判断为真实目标，本值提供了一个限制值。</span><span class="english">In other words, this value sets a limit on how much a real detection may differ from the assumed PSF.</span></p>

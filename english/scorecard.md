@@ -1,5 +1,7 @@
 # scorecard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scorecard.md)
+
 <p><span class="chinese">图中显示战略过程计分卡</span><span class="english">Figure shows strategic process scorecard</span></p>
 
 <p><span class="chinese">我把这个程序称为“windows版高尔夫文摘记分卡”。</span><span class="english">I called the program “Golf Digest’s ScoreCard for Windows.”</span></p>

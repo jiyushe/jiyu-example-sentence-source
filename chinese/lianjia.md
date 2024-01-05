@@ -1,5 +1,7 @@
 # 恋家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianjia.md)
+
 <p><span class="chinese">她是个恋家的人，我也是。</span><span class="english">She's a family person, so am I.</span></p>
 
 <p><span class="chinese">在枫园，我的恋家是尽人皆知的。</span><span class="english">I was quite a proverb for it at Maple Grove.</span></p>

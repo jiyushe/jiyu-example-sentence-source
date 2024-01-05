@@ -1,5 +1,7 @@
 # Scot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scot.md)
+
 <p><span class="chinese">“我们都松了一口气，”斯科特承认。</span><span class="english">"We are relieved, " admitted the Scot.</span></p>
 
 <p><span class="chinese">到苏格兰去要花多少钱？</span><span class="english">What does it cost to get to Scot -land?</span></p>

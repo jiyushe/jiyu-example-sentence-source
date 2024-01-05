@@ -1,5 +1,7 @@
 # illicit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illicit.md)
+
 <p><span class="chinese">他和简曾有过不正当关系。</span><span class="english">He had an illicit association with Jane.</span></p>
 
 <p><span class="chinese">我得把你当非法物品走私进去。</span><span class="english">I'd have to smuggle you in as illicit goods.</span></p>

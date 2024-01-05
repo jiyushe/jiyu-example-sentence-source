@@ -1,5 +1,7 @@
 # plausible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plausible.md)
+
 <p><span class="chinese">她是个巧言令色的说谎高手。</span><span class="english">She was a plausible liar.</span></p>
 
 <p><span class="chinese">她有一张巧嘴。</span><span class="english">She has a plausible tongue.</span></p>

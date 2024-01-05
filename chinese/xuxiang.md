@@ -1,5 +1,7 @@
 # 虚像
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuxiang.md)
+
 <p><span class="chinese">所谓的选择只是个未曾存在的虚像。</span><span class="english">So-called choices are just illusions which have never existed.</span></p>
 
 <p><span class="chinese">几乎所有的人都认为海市蜃楼是一个虚像，但我却持不同意见。</span><span class="english">Almost all people think a mirage is an illusion, but I disagree.</span></p>

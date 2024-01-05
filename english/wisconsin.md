@@ -1,5 +1,7 @@
 # wisconsin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wisconsin.md)
+
 <p><span class="chinese">不过他找到的是威斯康辛。</span><span class="english">He found Wisconsin.</span></p>
 
 <p><span class="chinese">我的小农场在威斯康辛洲。</span><span class="english">My little farm in Wisconsin.</span></p>

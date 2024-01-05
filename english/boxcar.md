@@ -1,5 +1,7 @@
 # boxcar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/boxcar.md)
+
 <p><span class="chinese">午夜列车的三号车厢。</span><span class="english">Third boxcar. midnight train.</span></p>
 
 <p><span class="chinese">在封闭车厢内他们都感到闷热得难受。</span><span class="english">They all stewed in the boxcar.</span></p>

@@ -1,5 +1,7 @@
 # hubble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hubble.md)
+
 <p><span class="chinese">哈勃是一个好学生，也是一个好的运动员。</span><span class="english">Hubble was a good student. He was a good athlete, too.</span></p>
 
 <p><span class="chinese">埃德温·鲍威尔·哈勃于1889年生于密苏里州马什菲尔德。</span><span class="english">Edwin Powell Hubble was born in 1889 in Marshfield, Missouri.</span></p>

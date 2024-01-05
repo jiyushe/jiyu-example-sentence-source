@@ -1,5 +1,7 @@
 # portia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/portia.md)
+
 <p><span class="chinese">但波西亚却不容许这样。</span><span class="english">But Portia would not allow this.</span></p>
 
 <p><span class="chinese">鲍西娅以她的智力而闻名。</span><span class="english">Portia stands out for her intelligence.</span></p>

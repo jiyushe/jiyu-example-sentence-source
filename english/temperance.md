@@ -1,5 +1,7 @@
 # temperance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/temperance.md)
+
 <p><span class="chinese">节制是仙丹妙药。</span><span class="english">Temperance is the Best physic.</span></p>
 
 <p><span class="chinese">节欲是最好的药方。</span><span class="english">Temperance is the best physic.</span></p>

@@ -1,5 +1,7 @@
 # 吃喝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chihe.md)
+
 <p><span class="chinese">哪一块标牌表示“不得在此吃喝”?。</span><span class="english">Which sign means "Don't eat or drink"?</span></p>
 
 <p><span class="chinese">不要适度沉沦于吃喝或是工作。</span><span class="english">Refrain from overindulging food, drink, and work.</span></p>

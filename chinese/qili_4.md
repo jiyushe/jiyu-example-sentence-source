@@ -1,5 +1,7 @@
 # 起立
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qili_4.md)
+
 <p><span class="chinese">他在她进来时起立身来。</span><span class="english">he rose as she entered.</span></p>
 
 <p><span class="chinese">大家起立好吗</span><span class="english">Everybody stand up. Sorry.</span></p>

@@ -1,5 +1,7 @@
 # moth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moth.md)
+
 <p><span class="chinese">“负鼠，”莫丝说。</span><span class="english">"Possum, " Moth said.</span></p>
 
 <p><span class="chinese">莫丝有了一只新负鼠。</span><span class="english">Moth had a new possum.</span></p>

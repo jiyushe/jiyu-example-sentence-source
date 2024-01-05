@@ -1,5 +1,7 @@
 # 特异功能
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/teyigongneng.md)
+
 <p><span class="chinese">你是说有特异功能的老鼠？</span><span class="english">You mean mice with special powers?</span></p>
 
 <p><span class="chinese">以下介绍的十种动物的特异功能只是我们所了解的一小部分。</span><span class="english">This is a list of ten little known facts about animals.</span></p>

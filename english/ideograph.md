@@ -1,5 +1,7 @@
 # ideograph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ideograph.md)
+
 <p><span class="chinese">汉字部件结构。</span><span class="english">Ideograph Component Structure.</span></p>
 
 <p><span class="chinese">我们对汉字部件的结构进行了考查。</span><span class="english">The component structure of each ideograph is examined.</span></p>

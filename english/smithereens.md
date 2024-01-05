@@ -1,5 +1,7 @@
 # smithereens
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smithereens.md)
+
 <p><span class="chinese">杰克被炸成碎片了。</span><span class="english">Jack has been blown to smithereens.</span></p>
 
 <p><span class="chinese">爆炸中桥被炸得粉碎。</span><span class="english">The explosion blew the bridge to smithereens.</span></p>

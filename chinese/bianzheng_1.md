@@ -1,5 +1,7 @@
 # 辨证
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianzheng_1.md)
+
 <p><span class="chinese">输得起，输不起，这个是个很辨证得问题。</span><span class="english">A good loser or a bad loser is dialectical topic.</span></p>
 
 <p><span class="chinese">舌象对中医辨证分型有重要意义。</span><span class="english">Tongue of TCM syndrome has important significance.</span></p>

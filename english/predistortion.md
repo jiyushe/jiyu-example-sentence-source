@@ -1,5 +1,7 @@
 # predistortion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/predistortion.md)
+
 <p><span class="chinese">研究了应用于WCDMA直放站中的基于模拟预失真技术的功率放大器。</span><span class="english">An analog predistortion power amplifier used in WCDMA repeater is developed.</span></p>
 
 <p><span class="chinese">因此，无记忆预失真器不能校正放大器的记忆非线性失真。</span><span class="english">So tranditional memoryless predistortion can not compensate memory nonlinear distortion of PA.</span></p>

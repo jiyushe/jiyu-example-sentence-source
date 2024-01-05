@@ -1,5 +1,7 @@
 # 火罐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huoguan.md)
+
 <p><span class="chinese">本文提出了一种新型的“数字火罐”设想。</span><span class="english">This paper introduces a new-style idea of "Digital Cupping".</span></p>
 
 <p><span class="chinese">我给您取针后，还给您拔几个火罐。</span><span class="english">Id like to give you a cupping treatment when the needles are removed.</span></p>

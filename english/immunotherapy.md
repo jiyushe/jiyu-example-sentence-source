@@ -1,5 +1,7 @@
 # immunotherapy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immunotherapy.md)
+
 <p><span class="chinese">免疫疗法广泛应用于临床实践。</span><span class="english">Immunotherapy is widely used in clinical practice.</span></p>
 
 <p><span class="chinese">肿瘤免疫治疗的核心是肿瘤抗原问题。</span><span class="english">And the focus of tumor immunotherapy is tumor antigen.</span></p>

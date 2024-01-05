@@ -1,5 +1,7 @@
 # millstone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/millstone.md)
+
 <p><span class="chinese">沉重的磨石将他砸扁。</span><span class="english">The heavy millstone leaves him flat.</span></p>
 
 <p><span class="chinese">他正在凿磨石面。</span><span class="english">He is picking the surface of a millstone.</span></p>

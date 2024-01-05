@@ -1,5 +1,7 @@
 # 乳剂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ruji.md)
+
 <p><span class="chinese">将这张校样重新涂以重铬酸盐乳剂。</span><span class="english">The proof is recoated with dichromate emulsion.</span></p>
 
 <p><span class="chinese">这样做很有必要，作用是去除乳剂中多余的银盐。</span><span class="english">This is necessary in order to remove excess silver salts.</span></p>

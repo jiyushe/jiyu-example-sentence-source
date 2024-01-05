@@ -1,5 +1,7 @@
 # catalase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catalase.md)
+
 <p><span class="chinese">触酶阳性，无动力，硝酸盐还原。</span><span class="english">Catalase positive, no motility, nitrate reduced.</span></p>
 
 <p><span class="chinese">这种物质似乎与一种名叫过氧化氢酶的酶有关。</span><span class="english">That something seems to be related to an enzyme called catalase.</span></p>

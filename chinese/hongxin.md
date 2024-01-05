@@ -1,5 +1,7 @@
 # 红心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hongxin.md)
+
 <p><span class="chinese">“红心”是主牌。</span><span class="english">All his cards are trumps.</span></p>
 
 <p><span class="chinese">你眼镜上有红心。</span><span class="english">You got hearts on your glasses.</span></p>

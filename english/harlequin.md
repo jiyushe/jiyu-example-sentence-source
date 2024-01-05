@@ -1,5 +1,7 @@
 # harlequin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harlequin.md)
+
 <p><span class="chinese">阿尔贝得意扬扬地穿着他那件小丑服装。</span><span class="english">Albert was triumphant in his harlequin costume.</span></p>
 
 <p><span class="chinese">演喜剧里的配角或丑角，以顺从的、下级的方式行事。</span><span class="english">A comedy or pantomime in which Harlequin is the main attraction.</span></p>

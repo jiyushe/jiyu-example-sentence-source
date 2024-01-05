@@ -1,5 +1,7 @@
 # sandman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sandman.md)
+
 <p><span class="chinese">睡魔带给我一个梦想。</span><span class="english">Mr. Sandman bring me a dream.</span></p>
 
 <p><span class="chinese">有没有什么好办法立即驱逐桑曼呢？</span><span class="english">That there is no good way to immediately expel Sandman then?</span></p>

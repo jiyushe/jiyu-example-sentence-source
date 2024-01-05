@@ -1,5 +1,7 @@
 # export 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/export.md)
+
 <p><span class="chinese">文出口磨损。</span><span class="english">Coven export wear.</span></p>
 
 <p><span class="chinese">任何的输出品列出在一。</span><span class="english">Any export listed in a.</span></p>

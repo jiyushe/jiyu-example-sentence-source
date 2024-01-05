@@ -1,5 +1,7 @@
 # thorough
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thorough.md)
+
 <p><span class="chinese">他是一个彻头彻尾的恶棍。</span><span class="english">He is a thorough scoundrel.</span></p>
 
 <p><span class="chinese">十分全面周到。</span><span class="english">Extremely thorough and thoughtful.</span></p>

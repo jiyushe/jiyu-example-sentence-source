@@ -1,5 +1,7 @@
 # unarguable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unarguable.md)
+
 <p><span class="chinese">全球化已成为不可逆转的趋势和不可抗拒的客观事实。</span><span class="english">Globalization has become an unalterable tendency and an unarguable fact.</span></p>
 
 <p><span class="chinese">远程开放教育的学生保持率较低是一个不争的事实。</span><span class="english">The low rate of student retention is an unarguable fact in distance education.</span></p>

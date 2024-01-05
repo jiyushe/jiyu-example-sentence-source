@@ -1,5 +1,7 @@
 # windows
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/windows.md)
+
 <p><span class="chinese">关好窗子。</span><span class="english">Close the windows.</span></p>
 
 <p><span class="chinese">我们朝窗子里面望。</span><span class="english">We looked in windows.</span></p>

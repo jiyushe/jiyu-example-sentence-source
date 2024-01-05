@@ -1,5 +1,7 @@
 # barbican
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barbican.md)
+
 <p><span class="chinese">紧挨着东门，有一个小小的方城，叫做瓮城。</span><span class="english">Next to East Gate, a small town square, called the Barbican.</span></p>
 
 <p><span class="chinese">据传闻，在伦敦巴比肯附近有一个巨大的地下堡垒。</span><span class="english">Rumour has it that there is a giant bunker somewhere near the Barbican in London.</span></p>

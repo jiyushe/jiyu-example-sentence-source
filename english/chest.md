@@ -1,5 +1,7 @@
 # chest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chest.md)
+
 <p><span class="chinese">现在做扩胸动作。</span><span class="english">Now the chest.</span></p>
 
 <p><span class="chinese">胸部手术。</span><span class="english">A chest operation.</span></p>

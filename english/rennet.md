@@ -1,5 +1,7 @@
 # rennet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rennet.md)
+
 <p><span class="chinese">凝乳酵素的来源是什么？</span><span class="english">What Is The Source Of Rennet?</span></p>
 
 <p><span class="chinese">胃蛋白酶酶从猪的肚子，想用凝乳酶。</span><span class="english">Enzyme from a pig's stomach, used like rennet.</span></p>

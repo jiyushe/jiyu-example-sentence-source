@@ -1,5 +1,7 @@
 # undoing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undoing.md)
+
 <p><span class="chinese">但酒精注定是他的祸根。</span><span class="english">But alcohol was to be his undoing.</span></p>
 
 <p><span class="chinese">缺乏力反馈是它的弱点。</span><span class="english">The lack of tactile feedback is its undoing.</span></p>

@@ -1,5 +1,7 @@
 # 触景生情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chujingshengqing.md)
+
 <p><span class="chinese">触景生情，我也很想家吖。</span><span class="english">I missing U so much, my dearest.</span></p>
 
 <p><span class="chinese">触景生情，这不就是我们曾经爱过、梦想的地方吗？</span><span class="english">Is this the place that I've been dreaming of?</span></p>

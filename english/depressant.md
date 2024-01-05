@@ -1,5 +1,7 @@
 # depressant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/depressant.md)
+
 <p><span class="chinese">酒精是抑郁的原因。</span><span class="english">Alcohol is of course a depressant.</span></p>
 
 <p><span class="chinese">尼古丁既是一种兴奋剂也是一种镇定剂。</span><span class="english">Nicotine is both a stimulant and a depressant.</span></p>

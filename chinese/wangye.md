@@ -1,5 +1,7 @@
 # 王爷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangye.md)
+
 <p><span class="chinese">蓝王爷，南宫王爷，你们看上了哪家的姑娘啊？</span><span class="english">Blue King, Nangong Wang, you are a girl?</span></p>
 
 <p><span class="chinese">沈王爷回到他的父母那里期待能够得到赞赏。</span><span class="english">Shen returned to his parents for a pride.</span></p>

@@ -1,5 +1,7 @@
 # 充分条件
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongfentiaojian.md)
+
 <p><span class="chinese">你是说经历伙伴之爱是必要但不充分条件。</span><span class="english">You mean a necessary condition but not sufficient.</span></p>
 
 <p><span class="chinese">这是说实际上P是Q的充分条件。</span><span class="english">So this is saying in effect that if P is sufficient for Q.</span></p>

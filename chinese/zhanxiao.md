@@ -1,5 +1,7 @@
 # 展销
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanxiao.md)
+
 <p><span class="chinese">旺路膜型展销尖将于星期五举行。</span><span class="english">A model railway mart will held on Friday.</span></p>
 
 <p><span class="chinese">之后，我在一次植物展销中认出了它的孪生姊妹。</span><span class="english">I later spotted its twin at a plant sale.</span></p>

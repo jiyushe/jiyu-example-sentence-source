@@ -1,5 +1,7 @@
 # 抗毒素
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kangdusu.md)
+
 <p><span class="chinese">白喉抗毒素是异性蛋白。</span><span class="english">Diphtheria antitoxin is a foreign protein.</span></p>
 
 <p><span class="chinese">而使血清中的抗毒素水平升高。</span><span class="english">But causes in blood serum's antitoxin level to elevate.</span></p>

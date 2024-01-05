@@ -1,5 +1,7 @@
 # 操心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/caoxin.md)
+
 <p><span class="chinese">我太忙了，为这操心，为那操心的乐趣。</span><span class="english">I'm too busy worrying to be fun.</span></p>
 
 <p><span class="chinese">他能做好，这用不着我操心。</span><span class="english">He could do it, nor need I worry.</span></p>

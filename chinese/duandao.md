@@ -1,5 +1,7 @@
 # 短刀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duandao.md)
+
 <p><span class="chinese">这种短刀是插在腰带上面的。</span><span class="english">This short Dao is girded on waistband.</span></p>
 
 <p><span class="chinese">我眼前看见的是一把短刀吗？</span><span class="english">Is this a dagger which I see before me.</span></p>

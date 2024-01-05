@@ -1,5 +1,7 @@
 # 单产
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danchan.md)
+
 <p><span class="chinese">有效的系统可以导致单产的增加。</span><span class="english">System efficiency results in high yields per cultivated area.</span></p>
 
 <p><span class="chinese">提高作物单产的途径与对策。</span><span class="english">Ways of improving crop yield per unit area and the countermeasures.</span></p>

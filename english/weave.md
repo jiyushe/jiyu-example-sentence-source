@@ -1,5 +1,7 @@
 # weave
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weave.md)
+
 <p><span class="chinese">哦，我们编织的网络是多么混乱啊！</span><span class="english">Oh what a tangled web we weave.</span></p>
 
 <p><span class="chinese">他们用凋萎的枯叶编制它们的船只</span><span class="english">With withered leaves they weave</span></p>

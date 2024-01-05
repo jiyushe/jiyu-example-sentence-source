@@ -1,5 +1,7 @@
 # impregnable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impregnable.md)
+
 <p><span class="chinese">今天，谷歌似乎坚不可摧。</span><span class="english">Today, Google appears impregnable.</span></p>
 
 <p><span class="chinese">它不像苏联的那个那么坚固宽广。</span><span class="english">It's not so impregnable or wide as the Soviet one.</span></p>

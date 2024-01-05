@@ -1,5 +1,7 @@
 # 家教
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiajiao_1.md)
+
 <p><span class="chinese">你的学龄前孩子需要家教吗？</span><span class="english">Will your preschooler need a tutor?</span></p>
 
 <p><span class="chinese">除了等候我们没有什么主张。上海未名园英语家教。</span><span class="english">There's little we can do except wait.</span></p>

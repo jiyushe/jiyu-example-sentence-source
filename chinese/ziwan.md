@@ -1,5 +1,7 @@
 # 紫菀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziwan.md)
+
 <p><span class="chinese">大多数的紫菀在秋天开花。</span><span class="english">Most asters bloom in the fall.</span></p>
 
 <p><span class="chinese">白边紫菀的一种变体。</span><span class="english">A variety of white-topped aster.</span></p>

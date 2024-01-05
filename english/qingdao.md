@@ -1,5 +1,7 @@
 # qingdao
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/qingdao.md)
+
 <p><span class="chinese">管艺来自青岛。</span><span class="english">Guan Yi is from Qingdao.</span></p>
 
 <p><span class="chinese">绿色奥运，绿色青岛。</span><span class="english">Green Olympics Green Qingdao.</span></p>

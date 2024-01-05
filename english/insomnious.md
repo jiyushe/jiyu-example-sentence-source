@@ -1,5 +1,7 @@
 # insomnious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insomnious.md)
+
 <p><span class="chinese">治疗失眠的方法，不用药物的！</span><span class="english">Treat insomnious method, need not of medicaments !</span></p>
 
 <p><span class="chinese">有的特殊药物如避孕药等，也有可能引起失眠的副作用。</span><span class="english">Some special medicaments are like prophylactic to wait, cause insomnious side effect likely also.</span></p>

@@ -1,5 +1,7 @@
 # performative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/performative.md)
+
 <p><span class="chinese">什么是行事功能？</span><span class="english">What is the performative function?</span></p>
 
 <p><span class="chinese">这是性行为的完美阐释。</span><span class="english">What a perfect representation of performative sex.</span></p>

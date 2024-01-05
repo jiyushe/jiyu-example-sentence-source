@@ -1,5 +1,7 @@
 # superoxide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superoxide.md)
+
 <p><span class="chinese">睾丸组织中超氧化物歧化酶的活性。</span><span class="english">Superoxide dismutase activity in testicular tissue.</span></p>
 
 <p><span class="chinese">其一，超氧化物只是人体中众多自由基中的一种。</span><span class="english">For one, superoxide is only one of several free radical species in the body.</span></p>

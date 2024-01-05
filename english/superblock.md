@@ -1,5 +1,7 @@
 # superblock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/superblock.md)
+
 <p><span class="chinese">超级块结构表示一个文件系统。</span><span class="english">The superblock is a structure that represents a file system.</span></p>
 
 <p><span class="chinese">它链接下面讨论的超级块结构。</span><span class="english">This links to the superblock structure, which I'll explore next.</span></p>

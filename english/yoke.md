@@ -1,5 +1,7 @@
 # yoke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yoke.md)
+
 <p><span class="chinese">双点背的枷锁。</span><span class="english">Two-point back yoke.</span></p>
 
 <p><span class="chinese">害羞的玉梅不再害羞了。</span><span class="english">No more shy for Yoke Mei.</span></p>

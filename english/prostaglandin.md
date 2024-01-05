@@ -1,5 +1,7 @@
 # prostaglandin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prostaglandin.md)
+
 <p><span class="chinese">这种前列腺素的不平衡会导致疾病。</span><span class="english">This prostaglandin imbalance can lead to disease.</span></p>
 
 <p><span class="chinese">它通过抑制前列腺素的分泌来起作用。</span><span class="english">It does this by inhibiting prostaglandin production.</span></p>

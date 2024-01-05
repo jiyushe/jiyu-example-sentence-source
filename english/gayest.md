@@ -1,5 +1,7 @@
 # gayest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gayest.md)
+
 <p><span class="chinese">你是同性恋，如假包换！</span><span class="english">You are a gay. The gayest.</span></p>
 
 <p><span class="chinese">这世界上最放荡风流的人。</span><span class="english">The gayest person in the world.</span></p>

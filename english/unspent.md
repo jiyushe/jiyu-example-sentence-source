@@ -1,5 +1,7 @@
 # unspent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unspent.md)
+
 <p><span class="chinese">现在，比以前更多的是把钱存在银行里不花。</span><span class="english">Now, more than ever, their money is sitting in banks, unspent.</span></p>
 
 <p><span class="chinese">人生最痛苦的事情是人死了钱还没用完。</span><span class="english">The worst thing in life is you're dead with your money unspent.</span></p>

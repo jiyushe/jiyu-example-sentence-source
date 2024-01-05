@@ -1,5 +1,7 @@
 # paunch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/paunch.md)
+
 <p><span class="chinese">他总拿他的大肚子开玩笑。</span><span class="english">He always kids him about his paunch.</span></p>
 
 <p><span class="chinese">他吃完甜点，拍了拍他的大肚子。</span><span class="english">He finished his dessert and patted his paunch.</span></p>

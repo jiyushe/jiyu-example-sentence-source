@@ -1,5 +1,7 @@
 # ophir
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ophir.md)
+
 <p><span class="chinese">斐贝人正在朝这个目标一步步去努力。</span><span class="english">People are in this ophir the target to work on.</span></p>
 
 <p><span class="chinese">我必使人比精金还少、使人比俄斐纯金更少。</span><span class="english">I will make man scarcer than pure gold, more rare than the gold of Ophir.</span></p>

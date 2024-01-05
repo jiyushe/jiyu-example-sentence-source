@@ -1,5 +1,7 @@
 # longitude
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/longitude.md)
+
 <p><span class="chinese">这个镇位于东经二十四度。</span><span class="english">The town is at longitude 24 degrees east.</span></p>
 
 <p><span class="chinese">我们的位置是东经116度。</span><span class="english">Our position is longitude 116 degrees east.</span></p>

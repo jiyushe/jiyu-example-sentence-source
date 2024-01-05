@@ -1,5 +1,7 @@
 # clause
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clause.md)
+
 <p><span class="chinese">冒牌圣诞老人撒了谎。</span><span class="english">The fake Santa Clause lied.</span></p>
 
 <p><span class="chinese">是名词子句当受词，也是补语。</span><span class="english">What is a complement clause?</span></p>

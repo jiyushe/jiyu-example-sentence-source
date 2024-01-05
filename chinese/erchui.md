@@ -1,5 +1,7 @@
 # 耳垂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erchui.md)
+
 <p><span class="chinese">迈克想在耳垂上穿个孔。</span><span class="english">Mike wants to get his lobe lanced.</span></p>
 
 <p><span class="chinese">用大拇指和食指捏住耳垂温柔的向下拉，轻轻的向外呼气，重复6次。</span><span class="english">Breathe out gently. Repeat six times.</span></p>

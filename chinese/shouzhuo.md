@@ -1,5 +1,7 @@
 # 手镯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouzhuo.md)
+
 <p><span class="chinese">那是爱丽丝的手镯。</span><span class="english">It was Alice's bracelet.</span></p>
 
 <p><span class="chinese">那是爱丽丝的手镯。</span><span class="english">It was Alice’s bracelet.</span></p>

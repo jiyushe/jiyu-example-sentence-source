@@ -1,5 +1,7 @@
 # 总集
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongji_1.md)
+
 <p><span class="chinese">他在教室上课时思想总集中不起来。</span><span class="english">He couldn't re-collect his mind in the classroom.</span></p>
 
 <p><span class="chinese">别集、总集均属于古代文集。</span><span class="english">Both collected works and complete works belong to ancient corpus.</span></p>

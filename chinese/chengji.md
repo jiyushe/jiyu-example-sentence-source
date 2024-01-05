@@ -1,5 +1,7 @@
 # 成绩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengji.md)
+
 <p><span class="chinese">成绩弥补？</span><span class="english">To recover the grade?</span></p>
 
 <p><span class="chinese">希望可以考出优异的成绩啦！</span><span class="english">I hope it can be true!</span></p>

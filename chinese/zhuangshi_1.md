@@ -1,5 +1,7 @@
 # 妆饰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangshi_1.md)
+
 <p><span class="chinese">我们要为你作金的妆饰物，用银星来点缀。</span><span class="english">We will make thee borders of gold with studs of silver.</span></p>
 
 <p><span class="chinese">以色列人从住何烈山以后、就把身上的妆饰摘得乾净。</span><span class="english">So the Israelites stripped off their ornaments at Mount Horeb.</span></p>

@@ -1,5 +1,7 @@
 # 三性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanxing.md)
+
 <p><span class="chinese">主人公罗宾是一个性别模糊的女性，在书中被称为“第三性”。</span><span class="english">Robin Vote is a being of non-sex or the "third sex", so called in the book.</span></p>
 
 <p><span class="chinese">“在人类学中，你不能将同性恋和第三性别混同，”他说。</span><span class="english">"In anthropology, you can't equate third gender with homosexuality," he said.</span></p>

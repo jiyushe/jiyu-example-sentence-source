@@ -1,5 +1,7 @@
 # squalene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/squalene.md)
+
 <p><span class="chinese">什么是角鲨烯？</span><span class="english">What is squalene?</span></p>
 
 <p><span class="chinese">疫苗中有角鲨烯吗？</span><span class="english">Is there squalene in vaccines?</span></p>

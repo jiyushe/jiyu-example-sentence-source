@@ -1,5 +1,7 @@
 # 宋词
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songci.md)
+
 <p><span class="chinese">慢词是宋词的主要体式之一。</span><span class="english">"Manci" is the main form of Songci.</span></p>
 
 <p><span class="chinese">这一理论对宋词的创作和词学思想产生了深远影响。</span><span class="english">The theory brought a great influence to Song-Ci.</span></p>

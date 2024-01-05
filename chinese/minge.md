@@ -1,5 +1,7 @@
 # 名额
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minge.md)
+
 <p><span class="chinese">名额有限，快“赞好”啦！</span><span class="english">"Like" quick, offer is limited.</span></p>
 
 <p><span class="chinese">我们得到的许可是再多的14个名额。</span><span class="english">We have permission to study 14 more.</span></p>

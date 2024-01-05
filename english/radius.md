@@ -1,5 +1,7 @@
 # radius
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radius.md)
+
 <p><span class="chinese">无以规矩，不成方圆。</span><span class="english">No set rules, not a radius.</span></p>
 
 <p><span class="chinese">里脊面小半径。</span><span class="english">Filet surfaces with small radius.</span></p>

@@ -1,5 +1,7 @@
 # 羊角
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangjiao_1.md)
+
 <p><span class="chinese">我差点被羊角面包噎住了。</span><span class="english">I almost choked on my croissant.</span></p>
 
 <p><span class="chinese">美羊羊是个美女羊，围着粉色的围巾，有一双粉色的羊角。</span><span class="english">A female goat with a pink scarf and pink horns.</span></p>

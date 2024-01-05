@@ -1,5 +1,7 @@
 # 痛心疾首
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongxinjishou.md)
+
 <p><span class="chinese">范海勒痛心疾首地说。</span><span class="english">Fan Hai Lei deplores greatly ground to say.</span></p>
 
 <p><span class="chinese">我似乎痛心疾首，甚至还伤心落泪。</span><span class="english">He seemed quite brokenhearted, and even cried a little.</span></p>

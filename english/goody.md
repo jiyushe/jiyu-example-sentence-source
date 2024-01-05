@@ -1,5 +1,7 @@
 # goody
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goody.md)
+
 <p><span class="chinese">哦，太好了。</span><span class="english">Oh, goody.</span></p>
 
 <p><span class="chinese">我在一家电脑公司作事。</span><span class="english">I work for a pc compa new goody.</span></p>

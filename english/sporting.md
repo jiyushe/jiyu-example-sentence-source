@@ -1,5 +1,7 @@
 # sporting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sporting.md)
+
 <p><span class="chinese">他在跟你开玩笑呢。</span><span class="english">He's sporting with you.</span></p>
 
 <p><span class="chinese">就像体育比赛，</span><span class="english">Like a sporting contest,</span></p>

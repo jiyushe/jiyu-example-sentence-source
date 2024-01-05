@@ -1,5 +1,7 @@
 # camber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/camber.md)
+
 <p><span class="chinese">确定曲面的因素。</span><span class="english">Determine the camber factor.</span></p>
 
 <p><span class="chinese">中心线成直角的弧齿锥齿轮。</span><span class="english">Camber line becomes orthogonal arc tooth wimble gear.</span></p>

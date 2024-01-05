@@ -1,5 +1,7 @@
 # 过关斩将
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guoguanzhanjiang.md)
+
 <p><span class="chinese">该队一路过关斩将，在胜了澳大利亚队后第四次蝉联奥运会冠军。</span><span class="english">The squad cruised to victory over Australia to nab its fourth consecutive Olympic gold.</span></p>
 
 <p><span class="chinese">在工作面试中的好的表现可以使你过关斩将。</span><span class="english">A good performance at a job interview can get you through the gate and past the gatekeeper.</span></p>

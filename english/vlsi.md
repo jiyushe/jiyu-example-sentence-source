@@ -1,5 +1,7 @@
 # vlsi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vlsi.md)
+
 <p><span class="chinese">她的研究兴趣是VLSI设计。</span><span class="english">Her research interest is VLSI design.</span></p>
 
 <p><span class="chinese">精密的设备与技术，是超大型积体电路工业所必备的条件。</span><span class="english">Minute equipment and technology are key features of the VLSI industry.</span></p>

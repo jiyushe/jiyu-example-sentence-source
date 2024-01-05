@@ -1,5 +1,7 @@
 # 举国上下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juguoshangxia.md)
+
 <p><span class="chinese">举国上下团结一致。</span><span class="english">There is solid unity throughout the nation.</span></p>
 
 <p><span class="chinese">对这一问题举国上下看法普遍一致。</span><span class="english">There is broad consensus in the country on this issue.</span></p>

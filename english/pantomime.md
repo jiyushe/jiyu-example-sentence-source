@@ -1,5 +1,7 @@
 # pantomime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pantomime.md)
+
 <p><span class="chinese">她演过很多童话剧。</span><span class="english">She' s acted in a lot of pantomime.</span></p>
 
 <p><span class="chinese">她用动作示范正确的技术。</span><span class="english">She would pantomime the proper technique.</span></p>

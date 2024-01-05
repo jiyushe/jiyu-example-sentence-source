@@ -1,5 +1,7 @@
 # spectrogram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spectrogram.md)
+
 <p><span class="chinese">介绍了一种基于PC的语图仪。</span><span class="english">A spectrogram based on PC is presented.</span></p>
 
 <p><span class="chinese">“声谱图”一词是从光学借来的。</span><span class="english">The term "spectrogram" is borrowed from optics.</span></p>

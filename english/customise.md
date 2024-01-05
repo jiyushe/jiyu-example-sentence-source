@@ -1,5 +1,7 @@
 # customise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/customise.md)
+
 <p><span class="chinese">他们喜欢定制化和个性化。</span><span class="english">They love to customise and personalise.</span></p>
 
 <p><span class="chinese">泰特尔能用各种方式改装打字机。</span><span class="english">Mr Tytell could customise typewriters in all kinds of ways.</span></p>

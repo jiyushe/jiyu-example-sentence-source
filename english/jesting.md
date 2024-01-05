@@ -1,5 +1,7 @@
 # jesting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jesting.md)
+
 <p><span class="chinese">他好开玩笑。</span><span class="english">He is fond of jesting.</span></p>
 
 <p><span class="chinese">他们总是开玩笑。</span><span class="english">They are always jesting.</span></p>

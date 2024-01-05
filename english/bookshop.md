@@ -1,5 +1,7 @@
 # bookshop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bookshop.md)
+
 <p><span class="chinese">那是我最爱的书店。</span><span class="english">That was my favorite bookshop.</span></p>
 
 <p><span class="chinese">我先去西单书店。</span><span class="english">We went to Xidan Bookshop first.</span></p>

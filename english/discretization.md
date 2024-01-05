@@ -1,5 +1,7 @@
 # discretization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/discretization.md)
+
 <p><span class="chinese">改进了连续属性离散化的贪心算法。</span><span class="english">Improve a greedy algorithm for discretization of continuous attribute.</span></p>
 
 <p><span class="chinese">提出一种基于断点重要性的离散化算法。</span><span class="english">In this paper a discretization algorithm based on importance of cut point.</span></p>

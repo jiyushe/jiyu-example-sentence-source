@@ -1,5 +1,7 @@
 # friday
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/friday.md)
+
 <p><span class="chinese">星期五怎么样?</span><span class="english">How about Friday?</span></p>
 
 <p><span class="chinese">这周五见。</span><span class="english">See you on Friday.</span></p>

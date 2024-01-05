@@ -1,5 +1,7 @@
 # cystine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cystine.md)
+
 <p><span class="chinese">它的第一限制性氨基酸为蛋氨酸+胱氨酸。</span><span class="english">Its first limiting amino acid was methionine plus cystine.</span></p>
 
 <p><span class="chinese">报道L-胱氨酸生产设备的改进。</span><span class="english">The improvement of the facilities for L cystine production is describes.</span></p>

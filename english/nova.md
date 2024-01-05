@@ -1,5 +1,7 @@
 # nova
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nova.md)
+
 <p><span class="chinese">我是来自新斯科舍的假小子。</span><span class="english">I'm a tomboy from Nova Scotia.</span></p>
 
 <p><span class="chinese">心灵的钱，现在就一颗新星。</span><span class="english">Mind Over Money, right now on NOVA.</span></p>

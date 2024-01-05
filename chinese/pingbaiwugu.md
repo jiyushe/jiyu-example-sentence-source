@@ -1,5 +1,7 @@
 # 平白无故
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingbaiwugu.md)
+
 <p><span class="chinese">她们平白无故地争吵。</span><span class="english">They quarreled for nothing.</span></p>
 
 <p><span class="chinese">我平白无故挨了批评。</span><span class="english">I was criticized without any reason.</span></p>

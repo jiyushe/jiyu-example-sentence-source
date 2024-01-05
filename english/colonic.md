@@ -1,5 +1,7 @@
 # colonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colonic.md)
+
 <p><span class="chinese">结肠癌会引发肺积水吗？</span><span class="english">Can colonic cancer cause lobar seeper?</span></p>
 
 <p><span class="chinese">你有没有试过我推荐的芒果结肠？</span><span class="english">DID YOU TRY THAT MANGO COLONIC I RECOMMENDED?</span></p>

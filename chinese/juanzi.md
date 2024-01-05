@@ -1,5 +1,7 @@
 # 卷子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/juanzi.md)
+
 <p><span class="chinese">请把卷子传上来。</span><span class="english">Please pass these papers back.</span></p>
 
 <p><span class="chinese">老师们正在给卷子打分数。</span><span class="english">The teachers are grading the papers.</span></p>

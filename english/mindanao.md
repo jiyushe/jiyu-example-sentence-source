@@ -1,5 +1,7 @@
 # mindanao
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mindanao.md)
+
 <p><span class="chinese">菲律宾棉兰老岛南岸港口。</span><span class="english">The south bank of the Philippines Mindanao ports.</span></p>
 
 <p><span class="chinese">埃尔哈辛托是棉兰老岛出版社和政治分析专家。</span><span class="english">Al Jacinto is a Mindanao publisher and political analyst.</span></p>

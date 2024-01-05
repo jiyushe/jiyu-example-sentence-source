@@ -1,5 +1,7 @@
 # ostium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ostium.md)
+
 <p><span class="chinese">她长了一个两个…还有第三个心门。</span><span class="english">She has one, two, a third ostium.</span></p>
 
 <p><span class="chinese">然而无情和库斯科插入子宫口暴露。</span><span class="english">However Cuzco inserted mercilessly and the uterine ostium is exposed.</span></p>

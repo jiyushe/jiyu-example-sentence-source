@@ -1,5 +1,7 @@
 # tumescent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tumescent.md)
+
 <p><span class="chinese">鳃组织中细胞核肿胀。</span><span class="english">In the cells of gill tumescent nuclei are found.</span></p>
 
 <p><span class="chinese">结论麻醉满意，操作得当，肿胀法吸脂术对局部肥胖者的减肥是安全有效的。</span><span class="english">Conclusion Tumescent technique is effective and safe, and can be applied in the treatment of obesity.</span></p>

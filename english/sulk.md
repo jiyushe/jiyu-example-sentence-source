@@ -1,5 +1,7 @@
 # sulk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sulk.md)
+
 <p><span class="chinese">他会生气吗？</span><span class="english">Does he sulk?</span></p>
 
 <p><span class="chinese">他们怒而不语，感觉自己被低估了</span><span class="english">They sulk and feel undervalued</span></p>

@@ -1,5 +1,7 @@
 # soundscape
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soundscape.md)
+
 <p><span class="chinese">查看一下此时此刻你身边的声音，你都听到了什么？</span><span class="english">Check out your soundscape at the moment. What do you hear?</span></p>
 
 <p><span class="chinese">声景对于城市空间的塑造起着不可或缺的重要作用。</span><span class="english">Soundscape plays an important role in shaping urban space.</span></p>

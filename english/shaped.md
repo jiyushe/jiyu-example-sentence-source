@@ -1,5 +1,7 @@
 # shaped
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shaped.md)
+
 <p><span class="chinese">它是时间计量器的形状。</span><span class="english">It is hour glass shaped.</span></p>
 
 <p><span class="chinese">他们是训练有素。</span><span class="english">They are much more shaped.</span></p>

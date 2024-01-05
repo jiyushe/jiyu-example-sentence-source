@@ -1,5 +1,7 @@
 # aedes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aedes.md)
+
 <p><span class="chinese">在该地区观察到高密度的埃及伊蚊。</span><span class="english">High density of Aedes aegypti was observed in the area.</span></p>
 
 <p><span class="chinese">三带喙库蚊是农村畜圈的优势蚊种。</span><span class="english">Aedes pseudalbopictus was the main species of mosquitoes.</span></p>

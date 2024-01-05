@@ -1,5 +1,7 @@
 # 水城
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuicheng.md)
+
 <p><span class="chinese">许多居住在水城。</span><span class="english">Many live in Watertown.</span></p>
 
 <p><span class="chinese">我变老了，水城也是。</span><span class="english">I was older, so was Venice.</span></p>

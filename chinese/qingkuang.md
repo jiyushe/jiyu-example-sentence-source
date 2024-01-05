@@ -1,5 +1,7 @@
 # 情况
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingkuang.md)
+
 <p><span class="chinese">第一种情况是，我破产了。</span><span class="english">One, I'm broke.</span></p>
 
 <p><span class="chinese">非洲的情况呢？</span><span class="english">What of Africa?</span></p>

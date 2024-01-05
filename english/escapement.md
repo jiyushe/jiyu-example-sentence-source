@@ -1,5 +1,7 @@
 # escapement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/escapement.md)
+
 <p><span class="chinese">星状擒纵轮是该机构中重要零件。</span><span class="english">The star escapement wheel is an important part in this organ.</span></p>
 
 <p><span class="chinese">例句交强险规定的免责范围不包括逃逸。</span><span class="english">The impunity what compulsory insurance sets does not include escapement.</span></p>

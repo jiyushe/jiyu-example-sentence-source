@@ -1,5 +1,7 @@
 # shanty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shanty.md)
+
 <p><span class="chinese">棚屋在大风中摇摇晃晃，最后倒塌了。</span><span class="english">The shanty tottered in the strong wind and fell.</span></p>
 
 <p><span class="chinese">找有关在一个简陋房屋上的简陋房屋和焦点的外面更多。</span><span class="english">Find out more about shanties and focus on one shanty.</span></p>

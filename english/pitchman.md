@@ -1,5 +1,7 @@
 # pitchman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pitchman.md)
+
 <p><span class="chinese">他是通用汽车公司首席发言人。</span><span class="english">He is the chief pitchman for GM.</span></p>
 
 <p><span class="chinese">姚明是加州在中国市场的最佳推销员，无人能出其右。</span><span class="english">California couldn't have a better pitchman in China than Mr. Yao.</span></p>

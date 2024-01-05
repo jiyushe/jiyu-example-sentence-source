@@ -1,5 +1,7 @@
 # 产儿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chaner.md)
+
 <p><span class="chinese">这个系统是莱奥。赫塞尔大脑的产儿。</span><span class="english">The system is the brainchild of Lior Hessel.</span></p>
 
 <p><span class="chinese">他既是时代的产儿，也是时代的先锋。</span><span class="english">He is at once the product and preceptor of his time.</span></p>

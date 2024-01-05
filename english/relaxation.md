@@ -1,5 +1,7 @@
 # relaxation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/relaxation.md)
+
 <p><span class="chinese">放松疗法。</span><span class="english">Relaxation therapy.</span></p>
 
 <p><span class="chinese">我打高尔夫球散散心。</span><span class="english">I play golf for relaxation.</span></p>

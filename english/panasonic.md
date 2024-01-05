@@ -1,5 +1,7 @@
 # panasonic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/panasonic.md)
+
 <p><span class="chinese">我有一个美版的松下随身听。</span><span class="english">I have one USA version PCDP from Panasonic.</span></p>
 
 <p><span class="chinese">松下需要固定在任何未来GF2系列这一点。</span><span class="english">Panasonic needs to fix this in any future GF2.</span></p>

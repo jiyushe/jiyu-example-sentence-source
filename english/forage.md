@@ -1,5 +1,7 @@
 # forage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forage.md)
+
 <p><span class="chinese">那儿有很多喂牛的饲料。</span><span class="english">There is much forage for the cattle.</span></p>
 
 <p><span class="chinese">牛和羊依靠草料喂养。</span><span class="english">Cows and sheep depends forage to feed.</span></p>

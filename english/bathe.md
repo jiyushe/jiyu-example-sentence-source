@@ -1,5 +1,7 @@
 # bathe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bathe.md)
+
 <p><span class="chinese">我给你洗澡吧，小伙子。</span><span class="english">Let me bathe you, kid.</span></p>
 
 <p><span class="chinese">我只是希望她洗洗澡。</span><span class="english">I just want her to bathe.</span></p>

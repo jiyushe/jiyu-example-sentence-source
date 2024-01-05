@@ -1,5 +1,7 @@
 # dumbness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dumbness.md)
+
 <p><span class="chinese">别让爱消失在沉没中。</span><span class="english">Don't let love disappear in dumbness.</span></p>
 
 <p><span class="chinese">罗伯特被惊得哑口无言。</span><span class="english">Robert was shocked almost to dumbness.</span></p>

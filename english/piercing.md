@@ -1,5 +1,7 @@
 # piercing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/piercing.md)
+
 <p><span class="chinese">身体刺穿？</span><span class="english">Body piercing?</span></p>
 
 <p><span class="chinese">她穿了个鼻环。</span><span class="english">She has a nose piercing.</span></p>

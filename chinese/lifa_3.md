@@ -1,5 +1,7 @@
 # 立法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lifa_3.md)
+
 <p><span class="chinese">为节俭立法。</span><span class="english">Legislated Frugality.</span></p>
 
 <p><span class="chinese">立法是一种选择。</span><span class="english">Legislation is one option.</span></p>

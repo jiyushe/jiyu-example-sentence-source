@@ -1,5 +1,7 @@
 # dehumidification
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dehumidification.md)
+
 <p><span class="chinese">高品质的除湿、空调及游…</span><span class="english">High quality dehumidification with air & pool heating.</span></p>
 
 <p><span class="chinese">利用双重干燥塔可以实现制作所有型号。</span><span class="english">All the models are realized with double dehumidification tower.</span></p>

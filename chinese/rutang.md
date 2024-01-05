@@ -1,5 +1,7 @@
 # 乳糖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rutang.md)
+
 <p><span class="chinese">适用于无乳糖饮食。</span><span class="english">Suitable for lactose-free diets.</span></p>
 
 <p><span class="chinese">含有乳糖和无麸质食品。</span><span class="english">A lactose and gluten-free product.</span></p>

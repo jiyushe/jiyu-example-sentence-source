@@ -1,5 +1,7 @@
 # 摊贩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanfan.md)
+
 <p><span class="chinese">摊贩展示他们的水果。</span><span class="english">The vendors displayed their fruit.</span></p>
 
 <p><span class="chinese">在路边的摊贩吃东西很便宜。</span><span class="english">Road-side stands are a cheap way to eat.</span></p>

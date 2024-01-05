@@ -1,5 +1,7 @@
 # toughness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toughness.md)
+
 <p><span class="chinese">魔术缺少韧性。</span><span class="english">The Magic lack toughness.</span></p>
 
 <p><span class="chinese">断裂韧性要求。</span><span class="english">Fracture toughness requirements.</span></p>

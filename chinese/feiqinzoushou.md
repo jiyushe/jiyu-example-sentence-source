@@ -1,5 +1,7 @@
 # 飞禽走兽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feiqinzoushou.md)
+
 <p><span class="chinese">试想飞禽走兽如何降生。</span><span class="english">Imagining how the beasts began.</span></p>
 
 <p><span class="chinese">一切飞禽走兽都是生物。</span><span class="english">All birds and animals are living beings.</span></p>

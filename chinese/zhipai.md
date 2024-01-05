@@ -1,5 +1,7 @@
 # 指派
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhipai.md)
+
 <p><span class="chinese">他被指派为发言人。</span><span class="english">He was made spokesman.</span></p>
 
 <p><span class="chinese">结构是在指派时复制的。</span><span class="english">Structs are copied on assignment.</span></p>

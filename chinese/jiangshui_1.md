@@ -1,5 +1,7 @@
 # 降水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangshui_1.md)
+
 <p><span class="chinese">气流造成的由冰粒构成的降水。</span><span class="english">Of or relating to rising wind currents.</span></p>
 
 <p><span class="chinese">大气降水淋滤-渗滤模式。</span><span class="english">Meteoric water leaching-percolation REE model.</span></p>

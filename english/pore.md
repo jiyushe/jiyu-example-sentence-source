@@ -1,5 +1,7 @@
 # pore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pore.md)
+
 <p><span class="chinese">全神贯注着那潺潺流淌的小溪。</span><span class="english">And pore upon the brook that babbles by.</span></p>
 
 <p><span class="chinese">亚玛逊白泥毛孔深层清洁面膜。</span><span class="english">Kiehl's . Rare Earth Deep Pore Cleansing Masque.</span></p>

@@ -1,5 +1,7 @@
 # balsa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/balsa.md)
+
 <p><span class="chinese">支撑架。那是用很厚很厚的纸所造的，比飞机木还要硬。</span><span class="english">It is made of very thick paper, which is ever harder than balsa.</span></p>
 
 <p><span class="chinese">这船体真的要做到在一个板条，但你知道，我是。</span><span class="english">Balsa . This hull should really be done on a lath but you know me.</span></p>

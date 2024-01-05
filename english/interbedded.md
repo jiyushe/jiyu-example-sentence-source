@@ -1,5 +1,7 @@
 # interbedded
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interbedded.md)
+
 <p><span class="chinese">砂岩通常都与页岩互层。</span><span class="english">Sandstones are, as a rule, interbedded with shales.</span></p>
 
 <p><span class="chinese">对于储库水溶建腔速度、成腔形状与运营期的腔体蠕变具有重要影响。</span><span class="english">The character of interbedded mudstone affect the safety and running of Jintan gas storage.</span></p>

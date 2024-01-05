@@ -1,5 +1,7 @@
 # 飞人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feiren_1.md)
+
 <p><span class="chinese">篮球“飞人”乔丹诞辰。</span><span class="english">The flying Michael Jordan was born.</span></p>
 
 <p><span class="chinese">他的篮球粉丝们都叫他“中国飞人”。</span><span class="english">The basketball fans call him flying man in China.</span></p>

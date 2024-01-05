@@ -1,5 +1,7 @@
 # concavity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/concavity.md)
+
 <p><span class="chinese">凹度因物种而异，大小也各不相同。</span><span class="english">The degree of concavity varies between species, as does the size.</span></p>
 
 <p><span class="chinese">多数存在长形下凹者为单根管。</span><span class="english">Most mandibular incisors with long concavity had single root canal.</span></p>

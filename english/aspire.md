@@ -1,5 +1,7 @@
 # aspire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aspire.md)
+
 <p><span class="chinese">至少这是我所追求的境界。</span><span class="english">At least I aspire to that.</span></p>
 
 <p><span class="chinese">⊙、人须立志，志立则功就。</span><span class="english">People should aspire to, he is work.</span></p>

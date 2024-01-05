@@ -1,5 +1,7 @@
 # 斩杀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhansha.md)
+
 <p><span class="chinese">刺穿现在影响压制而非斩杀。</span><span class="english">Impale now affects Overpower instead of Execute.</span></p>
 
 <p><span class="chinese">哇他竟然给斩杀基督徒的敌人运送武器。</span><span class="english">Wow he send weapons to the enemy who beheads Christians.</span></p>

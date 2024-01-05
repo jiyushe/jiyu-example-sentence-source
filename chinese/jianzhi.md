@@ -1,5 +1,7 @@
 # 兼之
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianzhi.md)
+
 <p><span class="chinese">或者，某些学者会这样说，我是第三个阵营的，也许保罗说的两者兼之。</span><span class="english">Or,as some scholars would say, and I'm in this last camp,maybe he's talking about both.</span></p>
 
 <p><span class="chinese">不过他对市面上每天都在发行的设计刊物，都保持著高度的兴趣，而兼之是位满腔热血的摄影师。</span><span class="english">He remains very interested in issues of design in the everyday world, and is an avid photographer.</span></p>

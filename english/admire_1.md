@@ -1,5 +1,7 @@
 # admire 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/admire_1.md)
+
 <p><span class="chinese">这个人，我敬佩他。</span><span class="english">I admire that man.</span></p>
 
 <p><span class="chinese">我敬佩我的父亲。</span><span class="english">I admire my father.</span></p>

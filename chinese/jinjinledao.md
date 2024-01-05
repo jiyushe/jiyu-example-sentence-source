@@ -1,5 +1,7 @@
 # 津津乐道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinjinledao.md)
+
 <p><span class="chinese">不仅我而且她都在津津乐道地看电影。</span><span class="english">Not only I but also she is enjoying the film.</span></p>
 
 <p><span class="chinese">人们对此还是津津乐道</span><span class="english">He ordered 200 good bottles of Hermitage wine.</span></p>

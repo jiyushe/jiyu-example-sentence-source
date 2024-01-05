@@ -1,5 +1,7 @@
 # sorely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sorely.md)
+
 <p><span class="chinese">我们将非常怀念你。</span><span class="english">You will be sorely missed.</span></p>
 
 <p><span class="chinese">他疼得扭歪了脸。</span><span class="english">He squinches his features sorely.</span></p>

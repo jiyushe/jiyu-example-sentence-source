@@ -1,5 +1,7 @@
 # cortes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cortes.md)
+
 <p><span class="chinese">议会把巧克力带到了欧洲。</span><span class="english">Cortes introduced chocolate to Europe.</span></p>
 
 <p><span class="chinese">赫尔南科尔特斯所征服墨西哥。</span><span class="english">The Conquest of Mexico by Hernando Cortes.</span></p>

@@ -1,5 +1,7 @@
 # interfirm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interfirm.md)
+
 <p><span class="chinese">所以，企业创新网络可以形成技术路径创造。</span><span class="english">Interfirm innovation networks can shape technological path creation.</span></p>
 
 <p><span class="chinese">本文研究了公司间人才流动的竞争结果。</span><span class="english">This paper examines the competitive consequences of interfirm mobility.</span></p>

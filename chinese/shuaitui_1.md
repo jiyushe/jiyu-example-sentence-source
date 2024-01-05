@@ -1,5 +1,7 @@
 # 衰颓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuaitui_1.md)
+
 <p><span class="chinese">他的精力渐渐衰颓。</span><span class="english">His strength is waning.</span></p>
 
 <p><span class="chinese">年岁使他衰颓。</span><span class="english">His years weigh him down.</span></p>

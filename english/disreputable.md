@@ -1,5 +1,7 @@
 # disreputable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disreputable.md)
+
 <p><span class="chinese">一种比较下贱的名声不好的夜总会或舞厅。</span><span class="english">A disreputable or run-down bar or nightclub.</span></p>
 
 <p><span class="chinese">被认为是不名誉的或泼辣的女人。</span><span class="english">A woman regarded as disreputable or shrewish.</span></p>

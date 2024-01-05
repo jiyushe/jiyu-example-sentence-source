@@ -1,5 +1,7 @@
 # 巧克力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaokeli.md)
+
 <p><span class="chinese">&M's巧克力豆</span><span class="english">M&M's.</span></p>
 
 <p><span class="chinese">巧克力方饼</span><span class="english">Brownie.</span></p>

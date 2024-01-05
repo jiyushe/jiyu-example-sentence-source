@@ -1,5 +1,7 @@
 # wastage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wastage.md)
+
 <p><span class="chinese">损耗不大。</span><span class="english">The wastage is not very great.</span></p>
 
 <p><span class="chinese">汽油与油消耗量都达到标准。</span><span class="english">Benzine and oily wastage up to mark.</span></p>

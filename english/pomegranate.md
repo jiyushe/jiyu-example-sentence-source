@@ -1,5 +1,7 @@
 # pomegranate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pomegranate.md)
+
 <p><span class="chinese">如何容易的取下红石榴的籽？</span><span class="english">How to open and seed a Pomegranate?</span></p>
 
 <p><span class="chinese">右边的树是石榴树。</span><span class="english">The right tree is pomegranate tree.</span></p>

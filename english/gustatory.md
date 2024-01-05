@@ -1,5 +1,7 @@
 # gustatory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gustatory.md)
+
 <p><span class="chinese">这个医学术语，是味觉性鼻炎。</span><span class="english">The medical term for this is gustatory rhinitis.</span></p>
 
 <p><span class="chinese">象非洲蜜蜂的蜂蜜和鲜樟脑草酱这样给人带来新奇味觉的事物。</span><span class="english">Such gustatory exotica as killer bee honey and fresh catnip sauce.</span></p>

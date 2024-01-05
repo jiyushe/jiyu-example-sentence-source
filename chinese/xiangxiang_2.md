@@ -1,5 +1,7 @@
 # 相像
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangxiang_2.md)
+
 <p><span class="chinese">黄金和黄铜的颜色很相像。</span><span class="english">Gold is similar in colour to brass.</span></p>
 
 <p><span class="chinese">这兄弟俩看上去很相像。</span><span class="english">The two brothers look very much alike.</span></p>

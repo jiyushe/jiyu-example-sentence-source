@@ -1,5 +1,7 @@
 # 胆囊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dannang.md)
+
 <p><span class="chinese">听觉以及他们的胆囊。</span><span class="english">their hearing, their gallbladder.</span></p>
 
 <p><span class="chinese">很明显，他们并不在胆囊里。</span><span class="english">Typically, they are not in the gallbladder.</span></p>

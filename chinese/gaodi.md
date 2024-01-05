@@ -1,5 +1,7 @@
 # 高低
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaodi.md)
+
 <p><span class="chinese">工资的高低意味着什么？</span><span class="english">What do high and low wages mean?</span></p>
 
 <p><span class="chinese">这种一较高低的念头就使你原形毕露了。</span><span class="english">The very idea of keeping up betrays you.</span></p>

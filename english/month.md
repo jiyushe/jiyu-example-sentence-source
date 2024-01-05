@@ -1,5 +1,7 @@
 # month
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/month.md)
+
 <p><span class="chinese">一个月过去了。</span><span class="english">A month passes.</span></p>
 
 <p><span class="chinese">我一个月前见过她。</span><span class="english">I met her a month ago.</span></p>

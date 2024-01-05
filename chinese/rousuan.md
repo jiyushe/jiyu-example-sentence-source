@@ -1,5 +1,7 @@
 # 鞣酸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rousuan.md)
+
 <p><span class="chinese">其中的墨迹被认为来自一种古老的配方，一种将鞣酸铁与煤烟混合而成的墨水。</span><span class="english">The ink appears to be an ancient recipe—a mix of iron gall and soot inks.</span></p>
 
 <p><span class="chinese">生香蕉的涩味来自于香蕉中含有的大量的鞣酸。</span><span class="english">Born of bananas from banana contains astringency of a large number of tannins.</span></p>

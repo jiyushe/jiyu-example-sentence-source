@@ -1,5 +1,7 @@
 # semen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semen.md)
+
 <p><span class="chinese">射精量是多少？</span><span class="english">How much semen is ejaculated?</span></p>
 
 <p><span class="chinese">检查尿液里的精子就好了。</span><span class="english">Checking a urine sample for semen.</span></p>

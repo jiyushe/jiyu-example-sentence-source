@@ -1,5 +1,7 @@
 # thebes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thebes.md)
+
 <p><span class="chinese">◎底比斯，卡纳克大神庙。</span><span class="english">Great temple at Karnak, Thebes.</span></p>
 
 <p><span class="chinese">七门底比斯之城何人所造</span><span class="english">Who built the seven gates of Thebes?</span></p>

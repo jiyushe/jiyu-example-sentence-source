@@ -1,5 +1,7 @@
 # precancerous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/precancerous.md)
+
 <p><span class="chinese">你的乳腺癌癌前病变个人史</span><span class="english">Your personal history of precancerous breast lesions</span></p>
 
 <p><span class="chinese">他表示这些颗粒能够吸引癌前细胞和癌症细胞。</span><span class="english">He says the particles attract precancerous and cancer cells.</span></p>

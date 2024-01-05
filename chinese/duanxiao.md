@@ -1,5 +1,7 @@
 # 短小
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duanxiao.md)
+
 <p><span class="chinese">句子要短，短小的词比长词好，单音节的词是最佳选择。</span><span class="english">Monosyllabic words are best.</span></p>
 
 <p><span class="chinese">我爱写短小的故事。</span><span class="english">I love to write short stories.</span></p>

@@ -1,5 +1,7 @@
 # 萌芽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mengya.md)
+
 <p><span class="chinese">把它消灭在萌芽状态。</span><span class="english">Nip it in the bud.</span></p>
 
 <p><span class="chinese">培育变革的萌芽。</span><span class="english">Plant the seeds of change.</span></p>

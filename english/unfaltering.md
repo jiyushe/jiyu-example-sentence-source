@@ -1,5 +1,7 @@
 # unfaltering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unfaltering.md)
+
 <p><span class="chinese">华生见他这种坚韧不拔的勇气，不由得展出笑容。</span><span class="english">Watson smiled at the man's unfaltering courage.</span></p>
 
 <p><span class="chinese">如果你有坚定的决心，你就一定会成功！</span><span class="english">You will make it if you have unfaltering determination.</span></p>

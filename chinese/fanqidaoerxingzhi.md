@@ -1,5 +1,7 @@
 # 反其道而行之
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanqidaoerxingzhi.md)
+
 <p><span class="chinese">乘着飞机进入塞拉利昂，我们感到自己是反其道而行之的难民。</span><span class="english">Flying in, we felt like reverse-refugees.</span></p>
 
 <p><span class="chinese">以一个奇怪的，反其道而行之的角度来看，这也未尝没有道理。</span><span class="english">In a strange, backhanded sort of way, that seems to make sense.</span></p>

@@ -1,5 +1,7 @@
 # minutely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minutely.md)
+
 <p><span class="chinese">这份报告详细描述了贸易形势。</span><span class="english">The report minutely limned the trade situation.</span></p>
 
 <p><span class="chinese">叶基生，具叶柄，通常细微棕色。</span><span class="english">Leaves basal, petiolate, usually minutely brown punctate.</span></p>

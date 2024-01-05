@@ -1,5 +1,7 @@
 # someplace
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/someplace.md)
+
 <p><span class="chinese">你有什么地方我能掐灭它？</span><span class="english">You got someplace I could put it out?</span></p>
 
 <p><span class="chinese">某些东西是什么，某些地方是哪里？</span><span class="english">What is the something? What is the someplace?</span></p>

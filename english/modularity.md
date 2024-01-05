@@ -1,5 +1,7 @@
 # modularity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/modularity.md)
+
 <p><span class="chinese">什么是模块化？</span><span class="english">What is modularity?</span></p>
 
 <p><span class="chinese">首先，注意模块化。</span><span class="english">First of all, notice the modularity.</span></p>

@@ -1,5 +1,7 @@
 # perlocutionary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perlocutionary.md)
+
 <p><span class="chinese">反讽与言后之果。</span><span class="english">Irony and Perlocutionary Effect.</span></p>
 
 <p><span class="chinese">行为带来的影响被称为成事行为。</span><span class="english">The act of bringing about an effect is known as perlocutionary act.</span></p>

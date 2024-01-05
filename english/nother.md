@@ -1,5 +1,7 @@
 # nother
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nother.md)
+
 <p><span class="chinese">明天会是新的一天的！</span><span class="english">Torrow is a nother day!</span></p>
 
 <p><span class="chinese">你还想再要一杯吗?。</span><span class="english">Would you like a nother one?</span></p>

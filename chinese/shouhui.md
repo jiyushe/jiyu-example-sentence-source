@@ -1,5 +1,7 @@
 # 受惠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouhui.md)
+
 <p><span class="chinese">施恩比受惠更有福气。</span><span class="english">To give is more blessed than to receive.</span></p>
 
 <p><span class="chinese">玉米的引进使我们受惠不少。</span><span class="english">The introduction of corn benefits us a lot.</span></p>

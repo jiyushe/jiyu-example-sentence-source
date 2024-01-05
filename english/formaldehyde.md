@@ -1,5 +1,7 @@
 # formaldehyde
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/formaldehyde.md)
+
 <p><span class="chinese">游离和水解的甲醛。</span><span class="english">Free and hydrolyzed formaldehyde.</span></p>
 
 <p><span class="chinese">硅藻泥能吸收甲醛？</span><span class="english">Diatom mud can absorb formaldehyde?</span></p>

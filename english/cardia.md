@@ -1,5 +1,7 @@
 # cardia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cardia.md)
+
 <p><span class="chinese">贲门癌能治愈吗?几率有多大?。</span><span class="english">Can be cardia cancer cured? Does odds have how old?</span></p>
 
 <p><span class="chinese">方法分析46例高龄食管癌贲门癌患者住院临床资料。</span><span class="english">Methods 46case of elderly patients with esophageal and cardia cancer were analysed.</span></p>

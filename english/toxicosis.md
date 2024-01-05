@@ -1,5 +1,7 @@
 # toxicosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toxicosis.md)
+
 <p><span class="chinese">使用后均未出现中毒现象。</span><span class="english">No toxicosis happened among the animals.</span></p>
 
 <p><span class="chinese">因此，血清CHE是有机磷中毒的标志性酶类。</span><span class="english">It came to a conclution that serum CHE was a sign of organophosphorus toxicosis.</span></p>

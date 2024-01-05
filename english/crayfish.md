@@ -1,5 +1,7 @@
 # crayfish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crayfish.md)
+
 <p><span class="chinese">浣熊吃小龙虾。</span><span class="english">Raccoons eat crayfish.</span></p>
 
 <p><span class="chinese">蚯蚓、小龙虾和蝌蚪都是实例。</span><span class="english">Earthworms, crayfish and tadpoles are examples.</span></p>

@@ -1,5 +1,7 @@
 # 集锦
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jijin_2.md)
+
 <p><span class="chinese">这周末咱们会在电视上看到一集锦肥皂剧。</span><span class="english">We'll get a soap opera series on TV that week.</span></p>
 
 <p><span class="chinese">这是一年中一集锦疯事之后的又一件疯事。</span><span class="english">This is the beside madness in a age of a lot insanities.</span></p>

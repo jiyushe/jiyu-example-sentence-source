@@ -1,5 +1,7 @@
 # intellection
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intellection.md)
+
 <p><span class="chinese">我从未想过自己会落得如此地步。</span><span class="english">I never intellection I'd be here.</span></p>
 
 <p><span class="chinese">我想，这表示我们无形的思想导引着真实的人生。</span><span class="english">The real life is guided by our incorporeal intellection.</span></p>

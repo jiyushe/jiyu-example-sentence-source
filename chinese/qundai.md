@@ -1,5 +1,7 @@
 # 裙带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qundai.md)
+
 <p><span class="chinese">这些活力四射的鞋子会给小黑裙带来点睛之效。</span><span class="english">These sassy shoes will enliven little black dresses.</span></p>
 
 <p><span class="chinese">他总是批评印度的裙带资本主义，这使得他的选择有限。</span><span class="english">He is a critic of crony capitalism in India, which limits his options.</span></p>

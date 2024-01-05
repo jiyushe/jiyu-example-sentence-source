@@ -1,5 +1,7 @@
 # 避风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bifeng_1.md)
+
 <p><span class="chinese">暴风雨使这个避风雨的木棚倒塌了。</span><span class="english">The storm caused the collapse of the wooden shelter.</span></p>
 
 <p><span class="chinese">刮痧时要避风、保暖。</span><span class="english">Avoid Wind and Keep Warm During Therapeutic Scraping.</span></p>

@@ -1,5 +1,7 @@
 # 书市
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shushi.md)
+
 <p><span class="chinese">从这次书市我找到了我最需要的书。</span><span class="english">I picked out the very book I needed best from this book fair.</span></p>
 
 <p><span class="chinese">德国法兰克福书市的一位女士正在整理巨型书架上的书籍。</span><span class="english">A woman adjusts books on a huge shelf at the Book Fair in Frankfurt, Germany.</span></p>

@@ -1,5 +1,7 @@
 # 糯稻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nuodao.md)
+
 <p><span class="chinese">目的研究糯稻根的化学成分。</span><span class="english">ObjectiveTo study the chemical compositions in Oryza Sativa L. root.</span></p>
 
 <p><span class="chinese">今后，应加强骨干亲本的筛选和利用，以为糯稻品种的选育和改良提供帮助。</span><span class="english">The authors suggested that future breeding program, emphysives on the selection and utilization of mainstay parents.</span></p>

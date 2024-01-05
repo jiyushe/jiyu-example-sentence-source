@@ -1,5 +1,7 @@
 # dignity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dignity.md)
+
 <p><span class="chinese">他们需要尊严。</span><span class="english">They want dignity.</span></p>
 
 <p><span class="chinese">他们要求尊严。</span><span class="english">They demand dignity.</span></p>

@@ -1,5 +1,7 @@
 # 毫不犹豫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haobuyouyu.md)
+
 <p><span class="chinese">我毫不犹豫地就驶下去了。</span><span class="english">I downshifted without thinking.</span></p>
 
 <p><span class="chinese">这位寡妇母亲毫不犹豫的应承了。</span><span class="english">The widowed mother readily agreed.</span></p>

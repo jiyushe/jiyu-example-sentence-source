@@ -1,5 +1,7 @@
 # deferral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deferral.md)
+
 <p><span class="chinese">这一延期将消除卢布汇率面临的压力。</span><span class="english">This deferral would obviate pressure on the rouble exchange rate.</span></p>
 
 <p><span class="chinese">或许你想用你雇主的401k计划，亦或许你想利用计划中提供的匹配资金和税收定存。</span><span class="english">And you're taking advantage of the matching and the tax deferral that those all provide.</span></p>

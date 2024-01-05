@@ -1,5 +1,7 @@
 # 拥有
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongyou.md)
+
 <p><span class="chinese">他们也想拥有这样的能力。</span><span class="english">So would they.</span></p>
 
 <p><span class="chinese">你值得拥有！</span><span class="english">You deserve it!</span></p>

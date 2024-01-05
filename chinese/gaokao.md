@@ -1,5 +1,7 @@
 # 高考
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaokao.md)
+
 <p><span class="chinese">是高考状元每天辅导我们学习英语。</span><span class="english">How do you like the learn English?</span></p>
 
 <p><span class="chinese">南极不长树木。高考作文。</span><span class="english">Trees don't grow in the Antarctic.</span></p>

@@ -1,5 +1,7 @@
 # sputter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sputter.md)
+
 <p><span class="chinese">说话的时候，别把唾沫星子喷出来。</span><span class="english">Don't sputter when you speak.</span></p>
 
 <p><span class="chinese">他开始结结巴巴地回答。</span><span class="english">He began to sputter his reply.</span></p>

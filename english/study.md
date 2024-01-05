@@ -1,5 +1,7 @@
 # study
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/study.md)
+
 <p><span class="chinese">努力学习。</span><span class="english">Study hard.</span></p>
 
 <p><span class="chinese">学习词根。</span><span class="english">Study word roots.</span></p>

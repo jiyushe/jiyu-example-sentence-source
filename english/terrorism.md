@@ -1,5 +1,7 @@
 # terrorism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/terrorism.md)
+
 <p><span class="chinese">苏丹西部达尔富尔地区是恐怖主义么？</span><span class="english">Is Darfur terrorism?</span></p>
 
 <p><span class="chinese">她的行为是恐怖行动吗？</span><span class="english">Was this an act of terrorism?</span></p>

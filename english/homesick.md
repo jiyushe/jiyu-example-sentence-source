@@ -1,5 +1,7 @@
 # homesick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homesick.md)
+
 <p><span class="chinese">你会想家吗？</span><span class="english">Do you ever get homesick?</span></p>
 
 <p><span class="chinese">我总是会想家，</span><span class="english">I get homesick all the time,</span></p>

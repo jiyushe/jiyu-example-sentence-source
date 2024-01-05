@@ -1,5 +1,7 @@
 # theses
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theses.md)
+
 <p><span class="chinese">好，总之，有三个关于语言的命题。</span><span class="english">Well  anyway  three theses about language.</span></p>
 
 <p><span class="chinese">走向任何通衢，都有歌声悦耳。</span><span class="english">In every street theses tunes our ears do greet.</span></p>

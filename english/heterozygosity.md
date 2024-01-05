@@ -1,5 +1,7 @@
 # heterozygosity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heterozygosity.md)
+
 <p><span class="chinese">两组的对偶基因为异型合子的发生频率则相似。</span><span class="english">Frequency of compound heterozygosity was similar in both groups.</span></p>
 
 <p><span class="chinese">是否依靠一个无性系的杂合性就足够了?。</span><span class="english">Will it be sufficient to rely on the heterozygosity of one clone?</span></p>

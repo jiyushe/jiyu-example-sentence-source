@@ -1,5 +1,7 @@
 # landed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/landed.md)
+
 <p><span class="chinese">我们在孟买登陆。</span><span class="english">We landed at Bombay.</span></p>
 
 <p><span class="chinese">它重重地跌到地上。</span><span class="english">It landed with a thump.</span></p>

@@ -1,5 +1,7 @@
 # 天赐良机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianciliangji.md)
+
 <p><span class="chinese">这将是他证明自己的天赐良机。</span><span class="english">It will be a heaven-sent opportunity to prove himself.</span></p>
 
 <p><span class="chinese">对于这位72岁的演员，卡林的书不啻是个天赐良机。</span><span class="english">Carlin's book came as a godsend to the 72-year-old actor.</span></p>

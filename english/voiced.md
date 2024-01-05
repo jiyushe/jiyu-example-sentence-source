@@ -1,5 +1,7 @@
 # voiced
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/voiced.md)
+
 <p><span class="chinese">一位记者在电台对那件事做了报告。</span><span class="english">A reporter voiced the story.</span></p>
 
 <p><span class="chinese">朱哈妮由考特尼·泰勒配音。</span><span class="english">Juhani was voiced by Courtenay Taylor.</span></p>

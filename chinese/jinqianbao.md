@@ -1,5 +1,7 @@
 # 金钱豹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinqianbao.md)
+
 <p><span class="chinese">金钱豹改变不了斑点。</span><span class="english">A leopard cannot change its spots.</span></p>
 
 <p><span class="chinese">金钱豹永远改变不了身上的斑点。</span><span class="english">A leopard never changes its spots.</span></p>

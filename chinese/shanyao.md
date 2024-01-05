@@ -1,5 +1,7 @@
 # 山腰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanyao.md)
+
 <p><span class="chinese">向上的路直抵山腰。</span><span class="english">Upward to the middle of the hill.</span></p>
 
 <p><span class="chinese">我当时正在在山腰上玩耍。</span><span class="english">I was playing in the mountainside.</span></p>

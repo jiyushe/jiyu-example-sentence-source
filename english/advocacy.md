@@ -1,5 +1,7 @@
 # advocacy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/advocacy.md)
+
 <p><span class="chinese">“史界革命”的倡导。</span><span class="english">The advocacy of "history revolution".</span></p>
 
 <p><span class="chinese">我们必须加强宣传，提高可见度。</span><span class="english">We must raise visibility for stronger advocacy.</span></p>

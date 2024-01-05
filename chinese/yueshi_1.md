@@ -1,5 +1,7 @@
 # 月食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yueshi_1.md)
+
 <p><span class="chinese">让我们看看每一个月食的情况。</span><span class="english">Let's lookat each eclipse individually.</span></p>
 
 <p><span class="chinese">我们获分配的白米够一个月食用。</span><span class="english">The rice they gave us lasted for a month.</span></p>

@@ -1,5 +1,7 @@
 # twiddle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/twiddle.md)
+
 <p><span class="chinese">每天这些官老爷们什么也不干穷极无聊。</span><span class="english">Every day these officials do nothing and twiddle their thumbs.</span></p>
 
 <p><span class="chinese">有时，是的，但你许多时候也是无所事事的。</span><span class="english">Sometimes, yeah, but you also sit around twiddle your thumbs a lot, too.</span></p>

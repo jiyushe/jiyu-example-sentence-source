@@ -1,5 +1,7 @@
 # 退步
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuibu.md)
+
 <p><span class="chinese">我们有退步的可能吗？</span><span class="english">Could we do worse? Yes.</span></p>
 
 <p><span class="chinese">没有退步的进步！</span><span class="english">No retrogressive progress!</span></p>

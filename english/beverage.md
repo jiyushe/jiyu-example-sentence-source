@@ -1,5 +1,7 @@
 # beverage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beverage.md)
+
 <p><span class="chinese">这是个饮料容器。</span><span class="english">This is a beverage container.</span></p>
 
 <p><span class="chinese">大麦茶是一种新型饮品。</span><span class="english">The barley tea is a new beverage.</span></p>

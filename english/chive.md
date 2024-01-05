@@ -1,5 +1,7 @@
 # chive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chive.md)
+
 <p><span class="chinese">在杂货店可以买到干燥的细香葱。</span><span class="english">Dried chive is available in all grocery stores.</span></p>
 
 <p><span class="chinese">细香葱是洋葱家庭的一小成员。</span><span class="english">The chive is the smallest member of the onion family.</span></p>

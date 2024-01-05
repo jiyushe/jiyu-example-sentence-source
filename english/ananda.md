@@ -1,5 +1,7 @@
 # ananda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ananda.md)
+
 <p><span class="chinese">阿难，心或者有实体，或者没有。</span><span class="english">Ananda , either the mind has a substance or none.</span></p>
 
 <p><span class="chinese">阿难。从是天中，有二歧路。</span><span class="english">Ananda , from that heaven there are two ways to go.</span></p>

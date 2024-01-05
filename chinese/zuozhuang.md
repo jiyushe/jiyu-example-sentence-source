@@ -1,5 +1,7 @@
 # 坐庄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuozhuang.md)
+
 <p><span class="chinese">或者搞一个值日表，轮流坐庄，把办公室弄得整洁有序。</span><span class="english">Otherwise, according to the duty table, clean the office in turn.</span></p>
 
 <p><span class="chinese">另外，年底不少融资坐庄的资金还得流出。</span><span class="english">In addition, a number of financing by the end of Zuozhuang funds had outflows.</span></p>

@@ -1,5 +1,7 @@
 # 悬念
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuannian.md)
+
 <p><span class="chinese">这个悬念真让人激动！</span><span class="english">The suspense is so exciting!</span></p>
 
 <p><span class="chinese">设置矛盾，引起悬念。</span><span class="english">Set the conflict, causing suspense.</span></p>

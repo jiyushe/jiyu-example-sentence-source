@@ -1,5 +1,7 @@
 # slapstick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slapstick.md)
+
 <p><span class="chinese">那部电影中有许多瞎闹的场面。</span><span class="english">There's a lot of slapstick in that movie.</span></p>
 
 <p><span class="chinese">即将举行的选举是演滑稽戏似的民主。</span><span class="english">The coming elections are a slapstick version of democracy.</span></p>

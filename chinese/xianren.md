@@ -1,5 +1,7 @@
 # 仙人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianren.md)
+
 <p><span class="chinese">仙人生活在太虚之中。</span><span class="english">Celestials live in the great void.</span></p>
 
 <p><span class="chinese">我的也是，希望能有仙人指路。</span><span class="english">I also hope to have a fairy guide.</span></p>

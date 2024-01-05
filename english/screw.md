@@ -1,5 +1,7 @@
 # screw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/screw.md)
+
 <p><span class="chinese">大木镟。</span><span class="english">Large wood screw.</span></p>
 
 <p><span class="chinese">旋回木盖。</span><span class="english">Screw back wood cap.</span></p>

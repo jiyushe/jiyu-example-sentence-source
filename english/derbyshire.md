@@ -1,5 +1,7 @@
 # derbyshire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/derbyshire.md)
+
 <p><span class="chinese">背景被设置在德比郡的煤矿中。</span><span class="english">The scene is laid among the collieries of Derbyshire.</span></p>
 
 <p><span class="chinese">现在只讲一讲德比郡的一小部分。</span><span class="english">A small part of Derbyshire is all the present concern.</span></p>

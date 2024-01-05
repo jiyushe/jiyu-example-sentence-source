@@ -1,5 +1,7 @@
 # 衰竭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuaijie.md)
+
 <p><span class="chinese">非酒精性脂肪肝会导致肝功能衰竭。</span><span class="english">NAFLD can lead to liver failure.</span></p>
 
 <p><span class="chinese">毛地黄会引起心脏衰竭。</span><span class="english">Foxglove can cause heart failure.</span></p>

@@ -1,5 +1,7 @@
 # wearability
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wearability.md)
+
 <p><span class="chinese">涂层具有良好的韧性和耐磨性能。</span><span class="english">The coating has good tenacity and wearability.</span></p>
 
 <p><span class="chinese">根据介质的磨损性选择泵转速。</span><span class="english">The speed of Pump is selected according to the wearability.</span></p>

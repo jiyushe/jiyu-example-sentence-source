@@ -1,5 +1,7 @@
 # oiler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oiler.md)
+
 <p><span class="chinese">加油工是一个狡猾的飙网者。</span><span class="english">The oiler was a wily surfman.</span></p>
 
 <p><span class="chinese">“是，偏北一点，”加油工答道。</span><span class="english">"A little more north, ' sir, " said the oiler.</span></p>

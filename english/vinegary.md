@@ -1,5 +1,7 @@
 # vinegary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vinegary.md)
+
 <p><span class="chinese">第一口的滋味酸而尖锐。</span><span class="english">On first taste it is vinegary and sharp.</span></p>
 
 <p><span class="chinese">而当酒贮放年限太久也会衰退而有醋酸味。</span><span class="english">A wine that is too old may also be vinegary.</span></p>

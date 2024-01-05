@@ -1,5 +1,7 @@
 # unflagging
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unflagging.md)
+
 <p><span class="chinese">不可动摇的信念曾支撑过他。</span><span class="english">Unflagging faith had persevered him.</span></p>
 
 <p><span class="chinese">对于投资有持续的兴趣。</span><span class="english">He has an unflagging interest in investing.</span></p>

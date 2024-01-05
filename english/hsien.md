@@ -1,5 +1,7 @@
 # hsien
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hsien.md)
+
 <p><span class="chinese">王信贤，「镶嵌或自主性？</span><span class="english">Hsin Hsien Wang, "Embeddedness or Autonomy?"</span></p>
 
 <p><span class="chinese">我们的大儿子李显龙在1952年2月出生。</span><span class="english">In February 1952, our first son Hsien Loong was born.</span></p>

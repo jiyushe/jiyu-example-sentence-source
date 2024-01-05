@@ -1,5 +1,7 @@
 # infusion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/infusion.md)
+
 <p><span class="chinese">谁批准碳酸钠滴注的?。</span><span class="english">Who approved a sodium bicarb infusion?</span></p>
 
 <p><span class="chinese">发明持续止痛药物泵。</span><span class="english">Continuous pain medication infusion pum developed.</span></p>

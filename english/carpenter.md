@@ -1,5 +1,7 @@
 # carpenter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carpenter.md)
+
 <p><span class="chinese">他以木工为业。</span><span class="english">He is a carpenter by profession.</span></p>
 
 <p><span class="chinese">木匠把夹板修平。</span><span class="english">The carpenter dubbed the splint.</span></p>

@@ -1,5 +1,7 @@
 # regulate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regulate.md)
+
 <p><span class="chinese">它帮助规律你的血液循环。</span><span class="english">It helps regulate your circulation.</span></p>
 
 <p><span class="chinese">我们应当使日常生活规律化。</span><span class="english">We ought to regulate our daily life.</span></p>

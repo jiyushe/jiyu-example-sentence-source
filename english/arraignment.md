@@ -1,5 +1,7 @@
 # arraignment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arraignment.md)
+
 <p><span class="chinese">周三晚间他在等待传讯。</span><span class="english">He was awaiting arraignment last night.</span></p>
 
 <p><span class="chinese">他将于今天晚些时候被提审。</span><span class="english">His arraignment is scheduled for later today.</span></p>

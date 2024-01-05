@@ -1,5 +1,7 @@
 # 仪态万方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yitaiwanfang.md)
+
 <p><span class="chinese">她仪态万方地走进屋子。</span><span class="english">She sailed into the room.</span></p>
 
 <p><span class="chinese">这位女士仪态万方地走进了饭店。</span><span class="english">The lady sailed into the restaurant.</span></p>

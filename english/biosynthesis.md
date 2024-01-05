@@ -1,5 +1,7 @@
 # biosynthesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biosynthesis.md)
+
 <p><span class="chinese">酪氨酸酶是黑色素合成的关键酶。</span><span class="english">Tyrosinase is the key enzyme in melanin biosynthesis.</span></p>
 
 <p><span class="chinese">脂肪酸代谢是有机体的基本代谢之一。</span><span class="english">Biosynthesis for fatty acids is one of the basic metabolisms.</span></p>

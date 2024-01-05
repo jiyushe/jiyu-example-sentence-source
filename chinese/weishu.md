@@ -1,5 +1,7 @@
 # 尾数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weishu.md)
+
 <p><span class="chinese">为什么会有尾数效应？</span><span class="english">Why can you have mantissa effect?</span></p>
 
 <p><span class="chinese">这比因特网行业所带动的还要多一个尾数零。</span><span class="english">It's the Internet, and add another zero.</span></p>

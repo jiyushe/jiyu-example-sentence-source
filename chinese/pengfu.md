@@ -1,5 +1,7 @@
 # 捧腹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pengfu.md)
+
 <p><span class="chinese">你给他一个小道具他就能让人捧腹。</span><span class="english">You could give him a s– line and he would make it hilarious.</span></p>
 
 <p><span class="chinese">没有什么比谈论足球在美国迅速成功更能让他们捧腹的了。</span><span class="english">Nothing gets them going more than talk of soccer's imminent success.</span></p>

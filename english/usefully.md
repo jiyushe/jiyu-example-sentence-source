@@ -1,5 +1,7 @@
 # usefully
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/usefully.md)
+
 <p><span class="chinese">我决心有效地索引数据。</span><span class="english">I resolve to index data usefully.</span></p>
 
 <p><span class="chinese">但是它有用地提炼出了一个概念。</span><span class="english">But it usefully distils one concept.</span></p>

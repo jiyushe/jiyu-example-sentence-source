@@ -1,5 +1,7 @@
 # sideline
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sideline.md)
+
 <p><span class="chinese">我们以养鸭为副业。</span><span class="english">We raise ducks as a sideline.</span></p>
 
 <p><span class="chinese">你不能成为副业中的领导者。</span><span class="english">You can’t be a leader from the sideline.</span></p>

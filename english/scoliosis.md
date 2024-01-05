@@ -1,5 +1,7 @@
 # scoliosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scoliosis.md)
+
 <p><span class="chinese">什么是脊柱侧弯？。</span><span class="english">What Is Scoliosis?</span></p>
 
 <p><span class="chinese">如何脊柱侧弯的脊柱曲线？。</span><span class="english">How Does Scoliosis Curve the Spine?</span></p>

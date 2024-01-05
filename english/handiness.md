@@ -1,5 +1,7 @@
 # handiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/handiness.md)
+
 <p><span class="chinese">他能够胜任任何需要心灵手巧的工作。</span><span class="english">He can do any sort of work requiring handiness and dexterity.</span></p>
 
 <p><span class="chinese">她弹奏钢琴如此娴熟，给我留下了深刻印象。</span><span class="english">I was greatly impressed by the handiness with which she played the piano.</span></p>

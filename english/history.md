@@ -1,5 +1,7 @@
 # history 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/history.md)
+
 <p><span class="chinese">家庭史。</span><span class="english">D. Family history.</span></p>
 
 <p><span class="chinese">第一，历史悠久。</span><span class="english">First, long history.</span></p>

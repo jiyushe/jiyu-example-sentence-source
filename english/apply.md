@@ -1,5 +1,7 @@
 # apply 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apply.md)
+
 <p><span class="chinese">应用它。</span><span class="english">Apply it.</span></p>
 
 <p><span class="chinese">申请就行。</span><span class="english">Just apply.</span></p>

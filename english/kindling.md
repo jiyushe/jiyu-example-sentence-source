@@ -1,5 +1,7 @@
 # kindling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kindling.md)
+
 <p><span class="chinese">②必须达到着火点。</span><span class="english">Must achieve the kindling point.</span></p>
 
 <p><span class="chinese">那块木头已劈成了木柴。</span><span class="english">The log has slivered into kindling.</span></p>

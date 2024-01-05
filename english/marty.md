@@ -1,5 +1,7 @@
 # marty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marty.md)
+
 <p><span class="chinese">不过马蒂和弗兰西斯·福特·弗兰克·昆丁又是另一回事了。</span><span class="english">Marty and Francis Ford. Frank.</span></p>
 
 <p><span class="chinese">雷雨欲来的天气让我忧郁。</span><span class="english">Often, when it rains, Marty feels blue.</span></p>

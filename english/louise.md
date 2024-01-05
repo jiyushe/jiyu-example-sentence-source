@@ -1,5 +1,7 @@
 # louise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/louise.md)
+
 <p><span class="chinese">路易斯，你在干什么？</span><span class="english">What are you doing Louise?</span></p>
 
 <p><span class="chinese">路易斯店等等，都是这种东西。</span><span class="english">Shop Louise", things like that.</span></p>

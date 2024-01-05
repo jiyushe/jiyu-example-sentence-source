@@ -1,5 +1,7 @@
 # magnetism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/magnetism.md)
+
 <p><span class="chinese">它与磁性也没有关系。</span><span class="english">It also has nothing to do with magnetism.</span></p>
 
 <p><span class="chinese">当我们见面时，我感觉被她磁性般地吸住。</span><span class="english">I felt an instant magnetism when our eyes met.</span></p>

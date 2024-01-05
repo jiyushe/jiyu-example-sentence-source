@@ -1,5 +1,7 @@
 # 体味
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiwei.md)
+
 <p><span class="chinese">老年人的体味是真的么？</span><span class="english">Is "old-person smell" real?</span></p>
 
 <p><span class="chinese">体味幕天席地水边露营的浪漫！</span><span class="english">Let's go camping next to water!</span></p>

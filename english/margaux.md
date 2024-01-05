@@ -1,5 +1,7 @@
 # margaux
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/margaux.md)
+
 <p><span class="chinese">马尔格·布朗，主持这小岛上的表演活动。</span><span class="english">Margaux LeBlanc runs the show on the island.</span></p>
 
 <p><span class="chinese">马尔格·布朗嫁给了“蓝爪”的首领。</span><span class="english">Margaux LeBlanc has married the leader of the Blueclaws.</span></p>

@@ -1,5 +1,7 @@
 # 速效
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suxiao.md)
+
 <p><span class="chinese">速效致富的“商业计划”。</span><span class="english">Get-rich-quick “business plans.</span></p>
 
 <p><span class="chinese">在这个追求速效的急惊风时代，我们还有甚麽好等的呢？</span><span class="english">Why should we wait at all, in our impatient age?</span></p>

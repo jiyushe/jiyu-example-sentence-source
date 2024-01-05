@@ -1,5 +1,7 @@
 # has
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/has.md)
+
 <p><span class="chinese">谁有祸患？</span><span class="english">Who has woe?</span></p>
 
 <p><span class="chinese">而小左有。</span><span class="english">Lefty has it.</span></p>

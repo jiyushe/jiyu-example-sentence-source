@@ -1,5 +1,7 @@
 # scv
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scv.md)
+
 <p><span class="chinese">极端与否，工程兵是不会放弃战斗。</span><span class="english">Extreme or not, the SCV isn't giving up the fight.</span></p>
 
 <p><span class="chinese">总是让一个SCV在地堡后面随时进行维修。</span><span class="english">Always keep an SCV behind each Bunker for swift repair.</span></p>

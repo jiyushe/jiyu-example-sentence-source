@@ -1,5 +1,7 @@
 # bitmap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bitmap.md)
+
 <p><span class="chinese">把位图图象加到菜单里。</span><span class="english">Add bitmap images to a menu.</span></p>
 
 <p><span class="chinese">这个用什么？我怎么知道一个资源的id?。</span><span class="english">ResID is the resource ID for the bitmap.</span></p>

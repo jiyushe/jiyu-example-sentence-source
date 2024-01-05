@@ -1,5 +1,7 @@
 # 就座
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuzuo.md)
+
 <p><span class="chinese">我以手势示意他就座。</span><span class="english">I motioned him to a seat.</span></p>
 
 <p><span class="chinese">大家现在可以就座。</span><span class="english">You guys can sit down now.</span></p>

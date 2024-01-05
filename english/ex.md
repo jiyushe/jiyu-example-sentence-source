@@ -1,5 +1,7 @@
 # ex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ex.md)
+
 <p><span class="chinese">我想吃皓宁小受。</span><span class="english">Ex. I would like to eat Stanley.</span></p>
 
 <p><span class="chinese">虽然吵杂点，但比特还算是有趣的孩子。</span><span class="english">Ex. Peter is a pleasant if noisy child.</span></p>

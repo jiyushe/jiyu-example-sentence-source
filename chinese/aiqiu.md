@@ -1,5 +1,7 @@
 # 哀求
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aiqiu.md)
+
 <p><span class="chinese">她以哀求的眼神看着他。</span><span class="english">She gave him an imploring look.</span></p>
 
 <p><span class="chinese">她哀求国王发慈悲。</span><span class="english">She implored the king to have mercy.</span></p>

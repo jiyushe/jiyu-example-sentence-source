@@ -1,5 +1,7 @@
 # alveolitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alveolitis.md)
+
 <p><span class="chinese">基本病变为增殖性细支气管炎和肺泡炎。</span><span class="english">Essential for the proliferation of disease bronchiolitis and alveolitis.</span></p>
 
 <p><span class="chinese">肺泡炎引起成纤维细胞增生和胶原沉积。</span><span class="english">The alveolitis that produces fibroblast proliferation and collagen deposition is progreive over time.</span></p>

@@ -1,5 +1,7 @@
 # schoolteacher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schoolteacher.md)
+
 <p><span class="chinese">这是一个关于老师的故事，老师的名字叫伊卡博德？克雷恩。</span><span class="english">It is about a schoolteacher whose name is Ichabod Crane.</span></p>
 
 <p><span class="chinese">有些人说她是个成功的长期教师，其他人说</span><span class="english">Some say she was a sort of long-term successful schoolteacher.</span></p>

@@ -1,5 +1,7 @@
 # megacity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/megacity.md)
+
 <p><span class="chinese">它也是世界第七大城市。</span><span class="english">It is also the seventh largest city proper in the world, a megacity.</span></p>
 
 <p><span class="chinese">这个提议中的“巨型城市”面积将达到82000平方英里，相当于犹他州的面积。</span><span class="english">The proposed "megacity" will be 82,000 square miles --roughly the size of Utah.</span></p>

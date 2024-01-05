@@ -1,5 +1,7 @@
 # 高踞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaoju_2.md)
+
 <p><span class="chinese">越过墙外高踞天空。</span><span class="english">Up in the air and over the wall.</span></p>
 
 <p><span class="chinese">这个国王自以为高踞于法律之上。</span><span class="english">The king thought himself above the law.</span></p>

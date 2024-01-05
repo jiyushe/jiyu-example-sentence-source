@@ -1,5 +1,7 @@
 # aggressive 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aggressive_1.md)
+
 <p><span class="chinese">他有时还咄咄逼人。</span><span class="english">He can also be aggressive.</span></p>
 
 <p><span class="chinese">他是个勇于进取的经理。</span><span class="english">He was an aggressive manager.</span></p>

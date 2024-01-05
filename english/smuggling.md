@@ -1,5 +1,7 @@
 # smuggling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/smuggling.md)
+
 <p><span class="chinese">他被判犯有走私罪。</span><span class="english">He was convicted of smuggling.</span></p>
 
 <p><span class="chinese">他们判他犯有走私罪。</span><span class="english">They convicted him of smuggling.</span></p>

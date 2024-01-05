@@ -1,5 +1,7 @@
 # 蓖麻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bima.md)
+
 <p><span class="chinese">所以我们只是给他们提供原料蓖麻子。</span><span class="english">And we just gave them the bean, the raw material.</span></p>
 
 <p><span class="chinese">还有蓖麻，它的毒素很厉害。</span><span class="english">And the castor-oil plant, its toxin is very strong.</span></p>

@@ -1,5 +1,7 @@
 # cosiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cosiness.md)
+
 <p><span class="chinese">人在这儿也觉得很舒服。</span><span class="english">People feel a cosiness about it.</span></p>
 
 <p><span class="chinese">晚上点起篝火会让人感到温暖舒适。</span><span class="english">In the evening a log fire would provide cosiness.</span></p>

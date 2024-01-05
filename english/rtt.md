@@ -1,5 +1,7 @@
 # rtt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rtt.md)
+
 <p><span class="chinese">同时，它与现有的RTT测量有很好的互操作性。</span><span class="english">Meanwhile, it has a good interoperability with the current RTT measurement.</span></p>
 
 <p><span class="chinese">由于算法不需要实时计算RTT值，因而有着较广的应用范围。</span><span class="english">Since no real time RTT calculation is needed, this method has wide applications.</span></p>

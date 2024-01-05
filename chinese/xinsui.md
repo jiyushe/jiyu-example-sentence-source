@@ -1,5 +1,7 @@
 # 心碎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinsui.md)
+
 <p><span class="chinese">这些孩子们令他心碎。</span><span class="english">The kids broke his heart.</span></p>
 
 <p><span class="chinese">明天我可能会心碎。</span><span class="english">Tomorrow I might be hungover.</span></p>

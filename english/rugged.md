@@ -1,5 +1,7 @@
 # rugged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rugged.md)
+
 <p><span class="chinese">但这些山脉崎岖不平，光秃秃的。</span><span class="english">But these were rugged and bare.</span></p>
 
 <p><span class="chinese">老水手满是皱纹的脸。</span><span class="english">The rugged face of the old sailor.</span></p>

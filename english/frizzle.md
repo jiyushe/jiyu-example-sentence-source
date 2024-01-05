@@ -1,5 +1,7 @@
 # frizzle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frizzle.md)
+
 <p><span class="chinese">菲苏老师决心帮忙，她于是把自己变成一株真正的植物！</span><span class="english">To help out, Ms. Frizzle turns her into a real vine.</span></p>
 
 <p><span class="chinese">玫绝望地看着额前那参差不齐的刘海儿，痛苦失声。</span><span class="english">wailed Meg, looking with despair at the uneven frizzle on her forehead.</span></p>

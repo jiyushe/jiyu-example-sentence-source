@@ -1,5 +1,7 @@
 # intravascular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intravascular.md)
+
 <p><span class="chinese">钠是血管内影响血浆渗透压的主要离子。</span><span class="english">Sodium is the major intravascular ion that influences serum osmolality.</span></p>
 
 <p><span class="chinese">抗凝剂对于某些弥漫性血管内凝血的病例还是有效的。</span><span class="english">Anticoagulants are effective in selected cases of disseminated intravascular coagulation.</span></p>

@@ -1,5 +1,7 @@
 # 冲劲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongjing.md)
+
 <p><span class="chinese">有些池波冲劲也可能很猛。</span><span class="english">Some wave pools can get rough.</span></p>
 
 <p><span class="chinese">我们需要那种有冲劲的创新。</span><span class="english">We need that kind of spirited innovation.</span></p>

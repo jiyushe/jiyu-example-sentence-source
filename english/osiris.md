@@ -1,5 +1,7 @@
 # osiris
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/osiris.md)
+
 <p><span class="chinese">当然，奥西里斯是一个典型的“耶稣”。</span><span class="english">Certainly, Osiris was a prototypical Jesus.</span></p>
 
 <p><span class="chinese">在古埃及，伊西斯和奥西里斯统治的土地。</span><span class="english">In ancient Egypt, Isis and Osiris ruled the land.</span></p>

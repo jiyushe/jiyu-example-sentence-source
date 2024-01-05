@@ -1,5 +1,7 @@
 # entice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entice.md)
+
 <p><span class="chinese">在这种情况下，奖励可以吸引公众提供回馈。</span><span class="english">In this case, incentives could entice people to provide feedback.</span></p>
 
 <p><span class="chinese">我们不能允许投手引诱我们打出一、游间的必死地滚球。</span><span class="english">We can't allow this guy to entice us to hit 6-3 ground-ball outs.</span></p>

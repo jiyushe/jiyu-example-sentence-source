@@ -1,5 +1,7 @@
 # immobility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immobility.md)
+
 <p><span class="chinese">还是棕色比拟搭，黑色显万马齐喑。</span><span class="english">Or take the analogy brown, black was immobility.</span></p>
 
 <p><span class="chinese">只有凝固在那里任由风吹过那些金属</span><span class="english">only immobility and wind blowing through the metal</span></p>

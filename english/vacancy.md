@@ -1,5 +1,7 @@
 # vacancy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vacancy.md)
+
 <p><span class="chinese">我们确实要招一名裁剪工。</span><span class="english">We do have a vacancy for a cutter.</span></p>
 
 <p><span class="chinese">我想咨询一下你们的职位空缺。</span><span class="english">I'm calling about your job vacancy.</span></p>

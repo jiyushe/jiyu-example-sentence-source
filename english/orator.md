@@ -1,5 +1,7 @@
 # orator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orator.md)
+
 <p><span class="chinese">他是个慷慨激昂的演说者。</span><span class="english">He is a fervid orator.</span></p>
 
 <p><span class="chinese">我不善言语，而他却是位雄辩家。</span><span class="english">I'm no orator , as he is.</span></p>

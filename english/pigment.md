@@ -1,5 +1,7 @@
 # pigment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pigment.md)
+
 <p><span class="chinese">颜料黄1和经甲苯处理的C。</span><span class="english">Pigment Yellow 1 and C.</span></p>
 
 <p><span class="chinese">第三组用紫色颜料。</span><span class="english">A third set used a purple pigment.</span></p>

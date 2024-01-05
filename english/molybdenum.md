@@ -1,5 +1,7 @@
 # molybdenum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/molybdenum.md)
+
 <p><span class="chinese">钼矿砂及其精矿。</span><span class="english">Molybdenum ores and concentrates.</span></p>
 
 <p><span class="chinese">伊春鹿鸣钼矿为大型斑岩型矿床。</span><span class="english">The Yichun Luming molybdenum ore is a big porphyry deposits.</span></p>

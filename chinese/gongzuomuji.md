@@ -1,5 +1,7 @@
 # 工作母机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongzuomuji.md)
+
 <p><span class="chinese">教师教育是造就人才的“工作母机”。</span><span class="english">Teacher education will produce a lot of talented people.</span></p>
 
 <p><span class="chinese">机床是装备制造业的“工作母机”。</span><span class="english">Machine tool is the foundation of equipment manufacturing.</span></p>

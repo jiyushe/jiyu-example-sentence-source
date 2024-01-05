@@ -1,5 +1,7 @@
 # dramatics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dramatics.md)
+
 <p><span class="chinese">我们不需要你在这里演戏。</span><span class="english">We don't need your dramatics here.</span></p>
 
 <p><span class="chinese">戏剧性的动作使我们大家都笑了。</span><span class="english">His dramatics made all of us laugh.</span></p>

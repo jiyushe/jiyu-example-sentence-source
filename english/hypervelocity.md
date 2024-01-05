@@ -1,5 +1,7 @@
 # hypervelocity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypervelocity.md)
+
 <p><span class="chinese">研究波阻抗梯度飞片的超高速发射特性。</span><span class="english">Studies the hypervelocity launch feature of graded-impedance flier-plates.</span></p>
 
 <p><span class="chinese">2010年，布朗和其他天文学家又发现了15颗这样极高速运行的恒星。</span><span class="english">By 2010 Brown and other astronomers had discovered 15 more of these hypervelocity stars.</span></p>

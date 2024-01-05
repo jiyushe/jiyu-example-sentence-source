@@ -1,5 +1,7 @@
 # fairway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fairway.md)
+
 <p><span class="chinese">你船正进入航道。</span><span class="english">You are entering fairway.</span></p>
 
 <p><span class="chinese">你船必须远离航道停泊。</span><span class="english">You must stay clear of fairway.</span></p>

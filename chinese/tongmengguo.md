@@ -1,5 +1,7 @@
 # 同盟国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongmengguo.md)
+
 <p><span class="chinese">中国和巴基斯坦系外交关系密切的同盟国。</span><span class="english">China and Pakistan are close diplomatic allies.</span></p>
 
 <p><span class="chinese">同盟国远征军最高司令部</span><span class="english">Supreme headquarters allied expeditionary force</span></p>

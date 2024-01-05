@@ -1,5 +1,7 @@
 # 老天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laotian.md)
+
 <p><span class="chinese">老天，那真是马可斯？</span><span class="english">Oh, my! Is that Marcus?</span></p>
 
 <p><span class="chinese">老天啊，到这里来，孩子。</span><span class="english">By Jove, come up here, old boy.</span></p>

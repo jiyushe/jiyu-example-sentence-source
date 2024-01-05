@@ -1,5 +1,7 @@
 # avulsion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avulsion.md)
+
 <p><span class="chinese">目的介绍一种修复手部撕脱伤的方法。</span><span class="english">Objective Introduce a method to repair hand avulsion.</span></p>
 
 <p><span class="chinese">在全头皮撕脱中有3例为多块头皮撕裂。</span><span class="english">Among them there were 20 total and one partial scalp avulsion.</span></p>

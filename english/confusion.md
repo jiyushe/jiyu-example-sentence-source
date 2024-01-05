@@ -1,5 +1,7 @@
 # confusion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/confusion.md)
+
 <p><span class="chinese">我迷惑地眯着眼睛望去。</span><span class="english">I squinted in confusion.</span></p>
 
 <p><span class="chinese">那么为何会有混淆呢？</span><span class="english">So why all the confusion?</span></p>

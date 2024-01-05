@@ -1,5 +1,7 @@
 # durban
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/durban.md)
+
 <p><span class="chinese">这两人是拉布拉斯加的哈格尔和伊利诺的迪克都班。</span><span class="english">The two are Chuck Hagel of Nebraska and Dick Durban of Illinois.</span></p>
 
 <p><span class="chinese">上一次是2000年的德班宣言，它再次强调H.</span><span class="english">The last was the 2000 Durban Declaration, which reaffirmed that H.</span></p>

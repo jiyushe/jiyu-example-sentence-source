@@ -1,5 +1,7 @@
 # usufructuary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/usufructuary.md)
+
 <p><span class="chinese">地役权是传统用益物权之一。</span><span class="english">Easement is one of the traditional usufructuary right of re al right.</span></p>
 
 <p><span class="chinese">农村宅基地使用权是关系中国亿万农民切身利益的一项基础性权利。</span><span class="english">Rural Usufructuary of land for building is a basic right for Millions of Chinese farmers.</span></p>

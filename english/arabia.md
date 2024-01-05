@@ -1,5 +1,7 @@
 # arabia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arabia.md)
+
 <p><span class="chinese">它们都栖居在非洲或者阿拉伯。</span><span class="english">All live in Africa or Arabia.</span></p>
 
 <p><span class="chinese">很快，阿拉伯人就在烤咖啡豆了。</span><span class="english">Soon Arabia was roasting coffee beans.</span></p>

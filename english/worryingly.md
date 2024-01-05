@@ -1,5 +1,7 @@
 # worryingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/worryingly.md)
+
 <p><span class="chinese">这种情况可能是令人担忧的接近真理。</span><span class="english">Such a scenario could be worryingly close to the truth.</span></p>
 
 <p><span class="chinese">然而当地人说，开张的第二周生意却不尽人意。</span><span class="english">The second week of business, locals say, has been worryingly slow.</span></p>

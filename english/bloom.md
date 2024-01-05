@@ -1,5 +1,7 @@
 # bloom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bloom.md)
+
 <p><span class="chinese">小花是否盛开？</span><span class="english">Did the floret bloom?</span></p>
 
 <p><span class="chinese">花开花落缘份几何？</span><span class="english">The flowers bloom fate?</span></p>

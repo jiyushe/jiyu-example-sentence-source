@@ -1,5 +1,7 @@
 # 血泊
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuepo.md)
+
 <p><span class="chinese">他躺在血泊中。</span><span class="english">He lay weltering in blood.</span></p>
 
 <p><span class="chinese">他看到巴利斯的尸体躺在血泊中。</span><span class="english">He saw Paris' body drenched in blood.</span></p>

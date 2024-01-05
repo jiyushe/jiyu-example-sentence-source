@@ -1,5 +1,7 @@
 # periodontal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/periodontal.md)
+
 <p><span class="chinese">他的拔牙器穿开了牙龈没有啊？</span><span class="english">Has he loosened the periodontal ligament yet?</span></p>
 
 <p><span class="chinese">牙周洁治与前列腺素的关系。</span><span class="english">The relationship between periodontal scaling and prostaglandins.</span></p>

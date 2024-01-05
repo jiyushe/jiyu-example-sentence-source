@@ -1,5 +1,7 @@
 # cerebellar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cerebellar.md)
+
 <p><span class="chinese">大部分小脑梗死患者预后尚好。</span><span class="english">The most of patients in cerebellar infarcts was great outcome.</span></p>
 
 <p><span class="chinese">后群动脉供应小脑上脚和前髓帆。</span><span class="english">The posterior group arteries supply the superior cerebellar peduncle.</span></p>

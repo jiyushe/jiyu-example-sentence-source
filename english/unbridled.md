@@ -1,5 +1,7 @@
 # unbridled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unbridled.md)
+
 <p><span class="chinese">他的烦恼使他喋喋不休。</span><span class="english">His annoyance had unbridled his tongue.</span></p>
 
 <p><span class="chinese">但这一次，他和韩丹无拘无束快乐地叫了起来。</span><span class="english">But now he and Han Dan cried with unbridled joy.</span></p>

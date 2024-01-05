@@ -1,5 +1,7 @@
 # aftereffect
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aftereffect.md)
+
 <p><span class="chinese">其后果是成本昂贵且细胞毒性作用大。</span><span class="english">The aftereffect was high cost and high cytotoxicity.</span></p>
 
 <p><span class="chinese">我们有一个不错的闪光灯和后效模拟了设计。</span><span class="english">We have a nice mock up design in flash and aftereffect.</span></p>

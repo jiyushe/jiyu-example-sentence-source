@@ -1,5 +1,7 @@
 # 先帝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiandi.md)
+
 <p><span class="chinese">先帝可是英明的君主。</span><span class="english">The late Emperor was a wise and valiant man.</span></p>
 
 <p><span class="chinese">你也是这样辅佐先帝的吗？</span><span class="english">Did you help the late Emperor in this same way?</span></p>

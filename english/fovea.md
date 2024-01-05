@@ -1,5 +1,7 @@
 # fovea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fovea.md)
+
 <p><span class="chinese">这是听觉中央窝的例子。</span><span class="english">This is an example of an acoustic fovea.</span></p>
 
 <p><span class="chinese">按工藤分类法判断浅表型大肠肿瘤小凹形状。</span><span class="english">The shape of fovea of superficial tumor was determined by the taxonomy.</span></p>

@@ -1,5 +1,7 @@
 # dejected
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dejected.md)
+
 <p><span class="chinese">我也曾黯然神伤。</span><span class="english">I also feel dejected.</span></p>
 
 <p><span class="chinese">我们都只剩下了沮丧。</span><span class="english">We all left dejected.</span></p>

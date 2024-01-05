@@ -1,5 +1,7 @@
 # struck
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/struck.md)
+
 <p><span class="chinese">谁先动的手？</span><span class="english">Who struck first?</span></p>
 
 <p><span class="chinese">他划了一根火柴。</span><span class="english">He struck a match.</span></p>

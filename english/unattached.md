@@ -1,5 +1,7 @@
 # unattached
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unattached.md)
+
 <p><span class="chinese">谁您是是独立和坚定的。</span><span class="english">Who you are is unattached and unshaken.</span></p>
 
 <p><span class="chinese">感情生活，未婚者一般。</span><span class="english">Love life, for the unattached would be average.</span></p>

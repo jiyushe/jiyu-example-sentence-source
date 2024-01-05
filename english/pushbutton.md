@@ -1,5 +1,7 @@
 # pushbutton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pushbutton.md)
+
 <p><span class="chinese">电启动按钮轻松可靠。</span><span class="english">Easy, reliable, pushbutton electric starting.</span></p>
 
 <p><span class="chinese">那要看是拨号电话还是按钮电话了。</span><span class="english">It depends on if it's a dial phone or a pushbutton phone.</span></p>

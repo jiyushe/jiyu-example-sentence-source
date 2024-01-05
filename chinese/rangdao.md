@@ -1,5 +1,7 @@
 # 让道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rangdao.md)
+
 <p><span class="chinese">让道给人行横道的行人。</span><span class="english">Yield to pedestrians in crosswalks.</span></p>
 
 <p><span class="chinese">让压力和胆怯为幸福与可爱的人共度良宵让道。</span><span class="english">Stress and fear making way for happiness and time with your loved ones.</span></p>

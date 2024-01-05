@@ -1,5 +1,7 @@
 # systolic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/systolic.md)
+
 <p><span class="chinese">这就是所谓的收缩压。</span><span class="english">This is known as the systolic pressure.</span></p>
 
 <p><span class="chinese">像分数那样收缩的在上舒张的在下给出血压值。</span><span class="english">They're given as systolic over diastolic, like a fraction.</span></p>

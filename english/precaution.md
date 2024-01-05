@@ -1,5 +1,7 @@
 # precaution
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/precaution.md)
+
 <p><span class="chinese">这里必须安装安全阀。</span><span class="english">The safety precaution must be re-inspected.</span></p>
 
 <p><span class="chinese">我把所有的钱都锁在保险箱里以防万一。</span><span class="english">I took the precaution of locking money in the safe.</span></p>

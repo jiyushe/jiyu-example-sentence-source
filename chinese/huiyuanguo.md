@@ -1,5 +1,7 @@
 # 会员国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huiyuanguo.md)
+
 <p><span class="chinese">会员国可提出候选人。</span><span class="english">Member States may propose candidates.</span></p>
 
 <p><span class="chinese">南苏丹成为联合国第193个会员国。</span><span class="english">UN welcomes South Sudan as its 193rd member.</span></p>

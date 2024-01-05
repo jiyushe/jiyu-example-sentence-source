@@ -1,5 +1,7 @@
 # 醉醺醺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuixunxun.md)
+
 <p><span class="chinese">罗马人的浪漫是“醉醺醺，赤裸裸”，历史学家诺尔.棱斯基说。</span><span class="english">The Roman romantics "were drunk.</span></p>
 
 <p><span class="chinese">那些醉醺醺的漫漫长夜！</span><span class="english">Long boozy nights around the fire!</span></p>

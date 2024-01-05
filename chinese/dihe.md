@@ -1,5 +1,7 @@
 # 地核
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dihe.md)
+
 <p><span class="chinese">月球也可能如同地球一样有一个地核。</span><span class="english">It may also have a core, as the earth does.</span></p>
 
 <p><span class="chinese">地核可以储存60个，或者100个大洋的水。</span><span class="english">There's enough capacity to house 60 oceans. Or maybe 100.</span></p>

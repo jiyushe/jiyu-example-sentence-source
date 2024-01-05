@@ -1,5 +1,7 @@
 # bedell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bedell.md)
+
 <p><span class="chinese">“我不能继续陷入危险境地，你，”比德尔说，贝蒂。</span><span class="english">"I can't go on putting you in danger, " Bedell told Bettie.</span></p>
 
 <p><span class="chinese">当贝蒂讲起她的兄弟和詹姆斯时，比得尔也仔细倾听着。</span><span class="english">And Bedell listened as she told him about her brothers and James.</span></p>

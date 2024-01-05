@@ -1,5 +1,7 @@
 # 断断续续
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duanduanxuxu.md)
+
 <p><span class="chinese">她断断续续地道出了她的委屈。</span><span class="english">She hiccupped out her grievances.</span></p>
 
 <p><span class="chinese">昨晚在泥地里断断续续地睡了一夜。</span><span class="english">I spent a fitful night in the mud.</span></p>

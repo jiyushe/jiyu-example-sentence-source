@@ -1,5 +1,7 @@
 # inbred
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inbred.md)
+
 <p><span class="chinese">新的幼崽必须进一步近亲繁殖。</span><span class="english">New cubs must be inbred further.</span></p>
 
 <p><span class="chinese">他来自一个古老的近亲通婚的家族。</span><span class="english">He came from an old inbred family.</span></p>

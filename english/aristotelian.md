@@ -1,5 +1,7 @@
 # aristotelian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aristotelian.md)
+
 <p><span class="chinese">然后回顾亚里士多德的理论。</span><span class="english">And it takes you through to the Aristotelian theory.</span></p>
 
 <p><span class="chinese">你们可以好好思考这是他的理论。</span><span class="english">And, you can ponder. So, this is the Aristotelian view.</span></p>

@@ -1,5 +1,7 @@
 # tenderloin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tenderloin.md)
+
 <p><span class="chinese">我看看。我要一客腓力牛排。</span><span class="english">Let me see. Let me have a tenderloin steak.</span></p>
 
 <p><span class="chinese">对于猪肉而言，最精简的部分是腰部的嫩肉。</span><span class="english">For pork, the leanest cut is the tenderloin.</span></p>

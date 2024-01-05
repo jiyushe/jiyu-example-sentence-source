@@ -1,5 +1,7 @@
 # 无所不为
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wusuobuwei.md)
+
 <p><span class="chinese">贪心不足的老板为获取利润而无所不为。</span><span class="english">The greedy boss stopped at nothing to gain profit.</span></p>
 
 <p><span class="chinese">我不可能无所不为，但我仍然可以有所作为。</span><span class="english">I cannot do everything, but still I can do something.</span></p>

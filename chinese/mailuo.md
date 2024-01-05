@@ -1,5 +1,7 @@
 # 脉络
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mailuo.md)
+
 <p><span class="chinese">脉络膜的或与脉络膜有关的。</span><span class="english">Of or relating to the choroid.</span></p>
 
 <p><span class="chinese">生命的脉络才历历可见。</span><span class="english">In the context of life takes visible.</span></p>

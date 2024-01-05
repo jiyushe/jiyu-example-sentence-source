@@ -1,5 +1,7 @@
 # 暗处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anchu.md)
+
 <p><span class="chinese">他在暗处轻车熟路。</span><span class="english">He knows his way in the dark.</span></p>
 
 <p><span class="chinese">只留得面具，在暗处张牙舞爪。</span><span class="english">Just stay too mask, in the dark claws.</span></p>

@@ -1,5 +1,7 @@
 # cauldron
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cauldron.md)
+
 <p><span class="chinese">口号被刻在一个火炬塔上。</span><span class="english">The motto is engraved on a cauldron.</span></p>
 
 <p><span class="chinese">同时，我们在另一个铁锅里注入水。</span><span class="english">Meanwhile, we fill another cauldron with water.</span></p>

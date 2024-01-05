@@ -1,5 +1,7 @@
 # soar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soar.md)
+
 <p><span class="chinese">爱吧，飞翔吧！</span><span class="english">Love, soar.</span></p>
 
 <p><span class="chinese">我以我翔向胜利。</span><span class="english">I soar to victory.</span></p>

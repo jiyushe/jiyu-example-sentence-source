@@ -1,5 +1,7 @@
 # barents
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barents.md)
+
 <p><span class="chinese">“雷诺”号航行时极为安静，很顺利的便潜入了巴伦支海。</span><span class="english">In near-perfect silence " Reno " slipped into the Barents Sea.</span></p>
 
 <p><span class="chinese">在巴伦支海搜寻了几个星期之后，正在返航途中。</span><span class="english">Which had been searching the Barents Sea for weeks, was on its way home.</span></p>

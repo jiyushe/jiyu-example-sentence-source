@@ -1,5 +1,7 @@
 # goldfish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goldfish.md)
+
 <p><span class="chinese">一条金鱼怎么样？</span><span class="english">How about a goldfish?</span></p>
 
 <p><span class="chinese">我有九条小金鱼。</span><span class="english">I have nine little goldfish.</span></p>

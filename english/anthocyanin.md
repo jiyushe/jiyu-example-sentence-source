@@ -1,5 +1,7 @@
 # anthocyanin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anthocyanin.md)
+
 <p><span class="chinese">这种胡萝卜含花青素。</span><span class="english">The carrots contain anthocyanin.</span></p>
 
 <p><span class="chinese">紫玉米色素是花色素的一种。</span><span class="english">Purple corn anthocyanin is one of anthocyanidins.</span></p>

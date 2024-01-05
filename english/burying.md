@@ -1,5 +1,7 @@
 # burying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/burying.md)
+
 <p><span class="chinese">那狗把骨头埋藏了。</span><span class="english">The dog is burying a bone.</span></p>
 
 <p><span class="chinese">我爸爸在埋葬死狗。</span><span class="english">My father is burying a dead dog.</span></p>

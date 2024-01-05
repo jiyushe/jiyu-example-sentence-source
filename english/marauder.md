@@ -1,5 +1,7 @@
 # marauder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marauder.md)
+
 <p><span class="chinese">我会谈下掠夺者的结构。</span><span class="english">I'll go into some of the Marauder mechanics.</span></p>
 
 <p><span class="chinese">维金以及掠夺者是我最喜欢的人族单位。</span><span class="english">This and the Marauder are my new favorite Terran units.</span></p>

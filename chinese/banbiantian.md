@@ -1,5 +1,7 @@
 # 半边天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/banbiantian.md)
+
 <p><span class="chinese">女人能顶半边天。</span><span class="english">Women can hold up half the sky.</span></p>
 
 <p><span class="chinese">德田重男是一位红透半边天的日本名人。</span><span class="english">Shigeo Tokuda is a very famous celebrity in Japan.</span></p>

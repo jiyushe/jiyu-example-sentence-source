@@ -1,5 +1,7 @@
 # 引种
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinzhong.md)
+
 <p><span class="chinese">南京引种的银鹊树生长发育良好。</span><span class="english">The growth and development of T.</span></p>
 
 <p><span class="chinese">2006年在本地进行引种试验，大棚种植初获成功。</span><span class="english">Introduction test was succeed in greenhouse Ge-er-mu 2006.</span></p>

@@ -1,5 +1,7 @@
 # creation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/creation.md)
+
 <p><span class="chinese">这个项目是一种创新。</span><span class="english">This is a new creation.</span></p>
 
 <p><span class="chinese">似在欢呼一个新的时代。</span><span class="english">That hails a new creation.</span></p>

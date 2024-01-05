@@ -1,5 +1,7 @@
 # phoebe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phoebe.md)
+
 <p><span class="chinese">我真希望老菲比此刻在我身边。</span><span class="english">I wished old Phoebe was around.</span></p>
 
 <p><span class="chinese">菲比帮助莫妮卡排遣痛苦。</span><span class="english">Phoebe helps Monica try to relax.</span></p>

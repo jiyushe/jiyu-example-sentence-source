@@ -1,5 +1,7 @@
 # plummy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plummy.md)
+
 <p><span class="chinese">我个人会选择巴罗萨地区的色拉子，其李子类的水果口味与肉搭配非常适合。</span><span class="english">I prefer a Barossa Shiraz with its plummy fruit which matches well with the meat.</span></p>
 
 <p><span class="chinese">口感新鲜，水果味出众，单宁优良。</span><span class="english">Youthful palate with plummy -like fruit, balanced by firm but accessible tannins.</span></p>

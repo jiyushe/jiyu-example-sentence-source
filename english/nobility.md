@@ -1,5 +1,7 @@
 # nobility
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nobility.md)
+
 <p><span class="chinese">有钱人&高贵。</span><span class="english">Nob & Nobility.</span></p>
 
 <p><span class="chinese">被称为为国家服务的贵族阶层</span><span class="english">They're called service nobility.</span></p>

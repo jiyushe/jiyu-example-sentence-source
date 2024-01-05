@@ -1,5 +1,7 @@
 # immortalization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immortalization.md)
+
 <p><span class="chinese">从而建立了永生化的人骨髓间充质干细胞。</span><span class="english">Thereby establishing the immortalization of human mesenchymal stem cells.</span></p>
 
 <p><span class="chinese">实验二，探讨了水牛乳腺上皮细胞永生化的方法。</span><span class="english">The method of swamp buffalo mammary epithelial cells immortalization was also studied.</span></p>

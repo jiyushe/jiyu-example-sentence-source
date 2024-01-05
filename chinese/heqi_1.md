@@ -1,5 +1,7 @@
 # 和气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/heqi_1.md)
+
 <p><span class="chinese">我们可以让固相的化学势和气相化学势相等。</span><span class="english">We can have those be equal.</span></p>
 
 <p><span class="chinese">男人是能量和气息的储存体和表达体。</span><span class="english">Man is the out-breath of source energy.</span></p>

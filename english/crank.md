@@ -1,5 +1,7 @@
 # crank
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crank.md)
+
 <p><span class="chinese">他开始用曲柄启动动发机。</span><span class="english">He started to crank the engine.</span></p>
 
 <p><span class="chinese">当时我认为他是个怪老头。</span><span class="english">Back then, I thought he was a crank.</span></p>

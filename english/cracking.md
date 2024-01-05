@@ -1,5 +1,7 @@
 # cracking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cracking.md)
+
 <p><span class="chinese">声音颤抖或出现破音。</span><span class="english">Wavering or cracking voice.</span></p>
 
 <p><span class="chinese">这就是所谓的催化裂化。</span><span class="english">It is known as catalytic cracking.</span></p>

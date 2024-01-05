@@ -1,5 +1,7 @@
 # 台灯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taideng.md)
+
 <p><span class="chinese">台灯砰的一声倒在桌上了。</span><span class="english">The lamp fell plonk on the table.</span></p>
 
 <p><span class="chinese">哈哈，这闪闪发亮的铜台灯是怎么回事?</span><span class="english">Ah ha! What is this shiny brass lamp?</span></p>

@@ -1,5 +1,7 @@
 # 黯然失色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/anranshise.md)
+
 <p><span class="chinese">但是这却使柏加的品牌形象黯然失色了。</span><span class="english">But the brand was getting tarnished.</span></p>
 
 <p><span class="chinese">现在，娱乐看起来使得工作黯然失色。</span><span class="english">The play now seems to eclipse the work.</span></p>

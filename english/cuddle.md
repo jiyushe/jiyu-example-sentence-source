@@ -1,5 +1,7 @@
 # cuddle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cuddle.md)
+
 <p><span class="chinese">创造“相拥时刻”。</span><span class="english">Create cuddle time.</span></p>
 
 <p><span class="chinese">拥抱你的孩子。</span><span class="english">Cuddle with your kids.</span></p>

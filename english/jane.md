@@ -1,5 +1,7 @@
 # jane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jane.md)
+
 <p><span class="chinese">哈罗，珍。</span><span class="english">Hello, Jane.</span></p>
 
 <p><span class="chinese">你见过简了吗？</span><span class="english">Did you meet Jane?</span></p>

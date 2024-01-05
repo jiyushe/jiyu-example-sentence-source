@@ -1,5 +1,7 @@
 # antennal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antennal.md)
+
 <p><span class="chinese">雌雄蜂的触角感器差异不明显。</span><span class="english">There was no significant difference between female and male antennal sensilla.</span></p>
 
 <p><span class="chinese">本文利用石蜡切片技术对克氏原螯虾触角腺进行了组织学研究。</span><span class="english">Histological method has been used to study tha antennal gland of crayfish Procambarus clarRii.</span></p>

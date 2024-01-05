@@ -1,5 +1,7 @@
 # downer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downer.md)
+
 <p><span class="chinese">唐纳也对美中关系发表评论。</span><span class="english">Downer also commented on China-U.</span></p>
 
 <p><span class="chinese">糖尿病的确令人非常沮丧，它是一种终身疾病。</span><span class="english">It's a real downer. Diabetes is a lifelong illness.</span></p>

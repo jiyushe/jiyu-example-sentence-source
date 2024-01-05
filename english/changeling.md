@@ -1,5 +1,7 @@
 # changeling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/changeling.md)
+
 <p><span class="chinese">带你跟她一起去，可怜的三心二意的人！</span><span class="english">Take you with her, pitiful changeling?</span></p>
 
 <p><span class="chinese">这是无论在对低能儿的故事。</span><span class="english">This is true in the tales about the Changeling.</span></p>

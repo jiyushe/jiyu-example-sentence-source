@@ -1,5 +1,7 @@
 # patriarchal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patriarchal.md)
+
 <p><span class="chinese">史前时期是父系氏族。</span><span class="english">Prehistory was strongly patriarchal.</span></p>
 
 <p><span class="chinese">但这是父权制的遗留。</span><span class="english">But that's a patriarchal hang-up, says Quilliam.</span></p>

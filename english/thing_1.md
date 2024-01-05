@@ -1,5 +1,7 @@
 # thing 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thing_1.md)
+
 <p><span class="chinese">这是我的地盘。</span><span class="english">This is my thing.</span></p>
 
 <p><span class="chinese">做好一件事情。</span><span class="english">Do one thing well.</span></p>

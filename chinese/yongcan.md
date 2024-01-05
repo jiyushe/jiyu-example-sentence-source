@@ -1,5 +1,7 @@
 # 用餐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongcan.md)
+
 <p><span class="chinese">在这儿用餐还是带走。</span><span class="english">B、Here, or to go?</span></p>
 
 <p><span class="chinese">一个正在用餐的痲疯病人。</span><span class="english">A leper who was eating a meal.</span></p>

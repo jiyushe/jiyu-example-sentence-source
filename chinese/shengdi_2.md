@@ -1,5 +1,7 @@
 # 胜地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengdi_2.md)
+
 <p><span class="chinese">三亚是个旅游胜地。</span><span class="english">Sanya is a tourist resort.</span></p>
 
 <p><span class="chinese">这是个美丽的避暑胜地。</span><span class="english">It's a beauteous summer resort.</span></p>

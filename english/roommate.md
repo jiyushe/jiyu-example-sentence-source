@@ -1,5 +1,7 @@
 # roommate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roommate.md)
+
 <p><span class="chinese">你好，我是你的舍友。</span><span class="english">Hi, I'm your roommate.</span></p>
 
 <p><span class="chinese">我的室友很了解我。</span><span class="english">My roommate knows me well.</span></p>

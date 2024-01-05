@@ -1,5 +1,7 @@
 # facet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/facet.md)
+
 <p><span class="chinese">对于我来说，一个方面一项任务就足够了。</span><span class="english">In my case, I have just one task for each facet.</span></p>
 
 <p><span class="chinese">第三个方面是迭代选择的项。</span><span class="english">The third facet is iterating through selected items.</span></p>

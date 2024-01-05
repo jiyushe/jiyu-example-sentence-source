@@ -1,5 +1,7 @@
 # dealt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dealt.md)
+
 <p><span class="chinese">简发给我四张牌。</span><span class="english">Jane dealt me four cards.</span></p>
 
 <p><span class="chinese">在这里对头进行处理。</span><span class="english">Headers are dealt with here.</span></p>

@@ -1,5 +1,7 @@
 # glycan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glycan.md)
+
 <p><span class="chinese">许多疾病的发生与蛋白质糖链结构异常有关。</span><span class="english">Numerous diseases were known to relate with glycan structural abnormality.</span></p>
 
 <p><span class="chinese">对糖进行研究已成为生命科学领域研究的热点。</span><span class="english">The research of the glycan had already become a focus of the life science.</span></p>

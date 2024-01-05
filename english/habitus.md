@@ -1,5 +1,7 @@
 # habitus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/habitus.md)
+
 <p><span class="chinese">人类体质怎会有差异?。</span><span class="english">Why have difference among human habitus?</span></p>
 
 <p><span class="chinese">惯习是与场域对应的一个基本概念，惯习与场域紧密结合。</span><span class="english">Habitus is another fundamental notion corresponding to field.</span></p>

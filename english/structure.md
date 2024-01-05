@@ -1,5 +1,7 @@
 # structure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/structure.md)
+
 <p><span class="chinese">轴距结构。</span><span class="english">Wheelbase structure.</span></p>
 
 <p><span class="chinese">简单一点的子问题的最优方案来解决问题。</span><span class="english">Optimal sub structure.</span></p>

@@ -1,5 +1,7 @@
 # 上身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangshen.md)
+
 <p><span class="chinese">买下来，享受上身的喜悦吧。</span><span class="english">Buy them and enjoy them.</span></p>
 
 <p><span class="chinese">我想用枕头把上身垫高些。</span><span class="english">I want to be propped up with pillows.</span></p>

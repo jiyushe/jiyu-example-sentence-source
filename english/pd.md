@@ -1,5 +1,7 @@
 # pd
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pd.md)
+
 <p><span class="chinese">塔科马的警方怎么说那个爆炸？</span><span class="english">What did tacoma pd say about the explosion?.</span></p>
 
 <p><span class="chinese">这将最有可能在进展病灶情况下发生。</span><span class="english">This would be most likely to happen in the case of PD.</span></p>

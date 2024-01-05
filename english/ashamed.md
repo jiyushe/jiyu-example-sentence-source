@@ -1,5 +1,7 @@
 # ashamed 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ashamed.md)
+
 <p><span class="chinese">阿修会害臊的。</span><span class="english">Ash would be ashamed.</span></p>
 
 <p><span class="chinese">琴的羞耻感流贯全身。</span><span class="english">I feel so ashamed of you.</span></p>

@@ -1,5 +1,7 @@
 # 当仁不让
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangrenburang.md)
+
 <p><span class="chinese">当仁不让吧，诗神，我要教你怎样。</span><span class="english">Then do thy office Muse, I teach thee how.</span></p>
 
 <p><span class="chinese">现在，她已成了他一切仁慈行为当仁不让的助手。</span><span class="english">She had now the right to be his helpmate in his all kind deeds.</span></p>

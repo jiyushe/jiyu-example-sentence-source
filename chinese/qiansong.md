@@ -1,5 +1,7 @@
 # 遣送
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiansong.md)
+
 <p><span class="chinese">遣送至关塔那摩湾。</span><span class="english">Sent to Guantanamo Bay.</span></p>
 
 <p><span class="chinese">遣送是间歇性的。</span><span class="english">The transport is spasmodic.</span></p>

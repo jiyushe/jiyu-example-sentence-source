@@ -1,5 +1,7 @@
 # 信任
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinren.md)
+
 <p><span class="chinese">其一是信任。</span><span class="english">One is trust.</span></p>
 
 <p><span class="chinese">他们信任我们。</span><span class="english">They trust us.</span></p>

@@ -1,5 +1,7 @@
 # 纸条
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhitiao_1.md)
+
 <p><span class="chinese">你有在上课时传纸条吗?。</span><span class="english">You ever pass notes in class?</span></p>
 
 <p><span class="chinese">她把一张纸条塞进了我的手里。</span><span class="english">She slipped a note into my hand.</span></p>

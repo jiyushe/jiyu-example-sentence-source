@@ -1,5 +1,7 @@
 # 优柔寡断
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yourouguaduan.md)
+
 <p><span class="chinese">是谁优柔寡断且不断变化。</span><span class="english">Who vacillates and changes ever?</span></p>
 
 <p><span class="chinese">优柔寡断是行动的天敌。</span><span class="english">Indecision is the enemy of action.</span></p>

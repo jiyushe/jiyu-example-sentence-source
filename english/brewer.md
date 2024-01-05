@@ -1,5 +1,7 @@
 # brewer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brewer.md)
+
 <p><span class="chinese">科里-布鲁尔有着光明的未来。</span><span class="english">Corey Brewer has a bright future.</span></p>
 
 <p><span class="chinese">酿酒师开始用这种菌株试验。</span><span class="english">The brewer began experimenting with the ancient strain.</span></p>

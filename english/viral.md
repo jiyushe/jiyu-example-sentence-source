@@ -1,5 +1,7 @@
 # viral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/viral.md)
+
 <p><span class="chinese">有些病毒也会做好事。</span><span class="english">Some viral proteins do good.</span></p>
 
 <p><span class="chinese">如何治疗病毒性肝炎？</span><span class="english">How is viral hepatitis treated?</span></p>

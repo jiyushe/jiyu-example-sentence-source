@@ -1,5 +1,7 @@
 # firstborn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/firstborn.md)
+
 <p><span class="chinese">我是您的长子，以扫。</span><span class="english">I am Esau, your firstborn.</span></p>
 
 <p><span class="chinese">凡头生的儿子都要赎出来。</span><span class="english">Redeem all your firstborn sons.</span></p>

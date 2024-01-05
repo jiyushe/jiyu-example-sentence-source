@@ -1,5 +1,7 @@
 # 情真意切
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingzhenyiqie.md)
+
 <p><span class="chinese">您的情人发出了情真意切的恳求！</span><span class="english">Your lover makes a passionate plea!</span></p>
 
 <p><span class="chinese">能酣畅淋漓哭的人，才会情真意切地笑。</span><span class="english">Dripping tears to those who earned only smile.</span></p>

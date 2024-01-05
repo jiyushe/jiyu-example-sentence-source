@@ -1,5 +1,7 @@
 # cleric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cleric.md)
+
 <p><span class="chinese">我是米莎凯的牧师。</span><span class="english">I'm a cleric of Mishakal.</span></p>
 
 <p><span class="chinese">他是塔克西斯的牧师。</span><span class="english">He's a cleric of Takhisis.</span></p>

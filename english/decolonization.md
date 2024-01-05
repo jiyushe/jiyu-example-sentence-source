@@ -1,5 +1,7 @@
 # decolonization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decolonization.md)
+
 <p><span class="chinese">过去我们为非殖民化而战。</span><span class="english">We fought for decolonization.</span></p>
 
 <p><span class="chinese">英国的非殖民化经历了四个阶段。</span><span class="english">The decolonization of the British Empire experienced four stages.</span></p>

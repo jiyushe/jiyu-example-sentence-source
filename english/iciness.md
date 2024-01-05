@@ -1,5 +1,7 @@
 # iciness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iciness.md)
+
 <p><span class="chinese">夏雪冰冷的打断龙粼的话，愤恨的瞪着他。</span><span class="english">If the summer snow iciness intervene Long Lin, the inflame hates of stare him.</span></p>
 
 <p><span class="chinese">就像我刚才写我的要迟到的短信，iphone的冰冷加深了我的反感。</span><span class="english">As I composed my running-late text, the iPhone’s iciness deepened my revulsion.</span></p>

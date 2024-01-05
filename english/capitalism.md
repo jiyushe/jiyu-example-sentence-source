@@ -1,5 +1,7 @@
 # capitalism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capitalism.md)
+
 <p><span class="chinese">但是资本主义呢？</span><span class="english">But what about capitalism?</span></p>
 
 <p><span class="chinese">这就是资本的循环。</span><span class="english">It is the cycle of capitalism.</span></p>

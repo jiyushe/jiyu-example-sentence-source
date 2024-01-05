@@ -1,5 +1,7 @@
 # synonym
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synonym.md)
+
 <p><span class="chinese">和荣誉同义的词</span><span class="english">A good synonym for honor.</span></p>
 
 <p><span class="chinese">西塘可以说是水的同义词。</span><span class="english">The town is the synonym of water.</span></p>

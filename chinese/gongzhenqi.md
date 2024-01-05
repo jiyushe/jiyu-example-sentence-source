@@ -1,5 +1,7 @@
 # 共振器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongzhenqi.md)
+
 <p><span class="chinese">所通过微波频带的中心频率与介电共振器的共振频率相同。</span><span class="english">The center frequency of the passing band is the same as the resonance frequency of the dielectric resonators.</span></p>
 
 <p><span class="chinese">论文首先针对环形共振器的基本设计原理与架构作一讨论。</span><span class="english">The essentials of the ring resonators, which include the design principles and structures, are first discussed.</span></p>

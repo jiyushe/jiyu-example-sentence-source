@@ -1,5 +1,7 @@
 # 形而上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingershang.md)
+
 <p><span class="chinese">形而上的粘质是什么？</span><span class="english">What's the metaphysical glue?</span></p>
 
 <p><span class="chinese">把这阶段连接起来的,形而上粘质是什么呢？</span><span class="english">What's the metaphysical glue ? that glues these stages together?</span></p>

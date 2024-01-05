@@ -1,5 +1,7 @@
 # 请示
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingshi_3.md)
+
 <p><span class="chinese">我得请示我的主管。</span><span class="english">I’ll check my supervisor.</span></p>
 
 <p><span class="chinese">我们用无线电向北京请示。</span><span class="english">We radioed Beijing for instructions.</span></p>

@@ -1,5 +1,7 @@
 # 搜寻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/souxun.md)
+
 <p><span class="chinese">搜寻快度如今5节。</span><span class="english">Search speed now 5knots.</span></p>
 
 <p><span class="chinese">你搜寻着他的思想。</span><span class="english">You search his thoughts.</span></p>

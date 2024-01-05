@@ -1,5 +1,7 @@
 # 结构式
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiegoushi.md)
+
 <p><span class="chinese">就这些，顺便说下，这些都是Lewis结构式。</span><span class="english">And these, by the way, are called Lewis structures.</span></p>
 
 <p><span class="chinese">这种方式给出了分子的结构式。</span><span class="english">This gives us the structural formula of the molecule.</span></p>

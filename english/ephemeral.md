@@ -1,5 +1,7 @@
 # ephemeral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ephemeral.md)
+
 <p><span class="chinese">但作用暂短。</span><span class="english">But the role of ephemeral.</span></p>
 
 <p><span class="chinese">但是，各种名望都是短暂的。</span><span class="english">But all kinds of fame are ephemeral.</span></p>

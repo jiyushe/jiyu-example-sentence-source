@@ -1,5 +1,7 @@
 # 黏度
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/niandu_1.md)
+
 <p><span class="chinese">黏度指数高，润滑性佳。</span><span class="english">High viscosity index and good lubricity.</span></p>
 
 <p><span class="chinese">糌粑的黏度和绿豆沙差不多，味道也有点像。</span><span class="english">It has the consistency of green bean paste.</span></p>

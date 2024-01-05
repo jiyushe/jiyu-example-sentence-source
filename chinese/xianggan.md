@@ -1,5 +1,7 @@
 # 相干
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianggan.md)
+
 <p><span class="chinese">这件事与你有何相干?</span><span class="english">What has this to do with you?</span></p>
 
 <p><span class="chinese">它与国家毫相干！</span><span class="english">It with national baekho coherent!</span></p>

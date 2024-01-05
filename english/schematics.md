@@ -1,5 +1,7 @@
 # schematics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/schematics.md)
+
 <p><span class="chinese">原来的电路图的放大器的阶段。</span><span class="english">The original schematics for the amplifier stage.</span></p>
 
 <p><span class="chinese">我通过了电路图和代码清单是免费的。</span><span class="english">I passed out schematics and code listings for free.</span></p>

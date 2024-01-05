@@ -1,5 +1,7 @@
 # besetting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/besetting.md)
+
 <p><span class="chinese">他所易犯的毛病就是懒惰。</span><span class="english">His besetting sin is laziness.</span></p>
 
 <p><span class="chinese">诚信成为困扰房地产业的难题之一。</span><span class="english">Integrity has become one of the problems besetting the industry.</span></p>

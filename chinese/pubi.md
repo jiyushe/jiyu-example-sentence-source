@@ -1,5 +1,7 @@
 # 扑鼻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pubi.md)
+
 <p><span class="chinese">香味扑鼻。</span><span class="english">A fragrance greeted us.</span></p>
 
 <p><span class="chinese">其色泽嫩黄，清香扑鼻。</span><span class="english">The color yellow, fragrant aroma.</span></p>

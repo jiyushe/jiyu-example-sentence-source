@@ -1,5 +1,7 @@
 # opposite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opposite.md)
+
 <p><span class="chinese">"cheap"的反义词。</span><span class="english">The opposite of cheap.</span></p>
 
 <p><span class="chinese">但它的反面也是正确的。</span><span class="english">But so is its opposite.</span></p>

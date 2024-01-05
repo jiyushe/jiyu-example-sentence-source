@@ -1,5 +1,7 @@
 # palmar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palmar.md)
+
 <p><span class="chinese">均手术切除局部的掌腱膜条索。</span><span class="english">The local strip of palmar aponeurosis was excised.</span></p>
 
 <p><span class="chinese">手掌脱皮是怎么回事？</span><span class="english">Is palmar desquamate how to return a responsibility?</span></p>

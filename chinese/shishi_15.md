@@ -1,5 +1,7 @@
 # 诗史
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishi_15.md)
+
 <p><span class="chinese">我最不喜欢的电影是诗史片。</span><span class="english">Epics are my least favorite kind of movie.</span></p>
 
 <p><span class="chinese">一个为自由而战的英雄，一段凄美悲壮的诗史。</span><span class="english">A hero fights for freedom , a beautiful , solemn and stirring epic.</span></p>

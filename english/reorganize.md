@@ -1,5 +1,7 @@
 # reorganize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reorganize.md)
+
 <p><span class="chinese">我们来重新整理一下。</span><span class="english">Well, let's reorganize this a little bit.</span></p>
 
 <p><span class="chinese">如何治理和整顿虚假广告是当前亟待解决的一个重大问题。</span><span class="english">It′s a big problem to administer and reorganize such ads.</span></p>

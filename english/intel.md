@@ -1,5 +1,7 @@
 # intel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intel.md)
+
 <p><span class="chinese">英特尔何去何从?</span><span class="english">WHITHER INTEL?</span></p>
 
 <p><span class="chinese">异议书已送达英特尔。</span><span class="english">Demur book already service Intel.</span></p>

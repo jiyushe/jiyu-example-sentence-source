@@ -1,5 +1,7 @@
 # queerly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/queerly.md)
+
 <p><span class="chinese">速记员的举动很奇怪。</span><span class="english">The stenographer acted very queerly.</span></p>
 
 <p><span class="chinese">但奇怪的是，普杰雅这个术语也是神圣的意思。</span><span class="english">But queerly the term Pujyam also means holy.</span></p>

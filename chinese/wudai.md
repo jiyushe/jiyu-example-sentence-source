@@ -1,5 +1,7 @@
 # 五代
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wudai.md)
+
 <p><span class="chinese">晚唐五代时期。</span><span class="english">Late Tang & Five Dynasties.</span></p>
 
 <p><span class="chinese">五代人同照，从耄耋老人到吃奶的婴儿。</span><span class="english">It includes five generations from the aged to babies.</span></p>

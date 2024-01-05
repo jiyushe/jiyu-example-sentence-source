@@ -1,5 +1,7 @@
 # winkle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/winkle.md)
+
 <p><span class="chinese">温克先生什么时候出来？</span><span class="english">When is Mr. Winkle coming out?</span></p>
 
 <p><span class="chinese">我设法从他那里探到那消息。</span><span class="english">I managed to winkle the news out.</span></p>

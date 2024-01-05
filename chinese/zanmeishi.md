@@ -1,5 +1,7 @@
 # 赞美诗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zanmeishi.md)
+
 <p><span class="chinese">她带头唱赞美诗。</span><span class="english">She deaconed off a hymn.</span></p>
 
 <p><span class="chinese">牧师喃喃地念赞美诗。</span><span class="english">The minister droned out the psalm.</span></p>

@@ -1,5 +1,7 @@
 # graveyard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/graveyard.md)
+
 <p><span class="chinese">我正在上大夜班。</span><span class="english">I am on my graveyard shift.</span></p>
 
 <p><span class="chinese">主线剧情﹐逃出荒岛的墓场。</span><span class="english">Escape from the graveyard of terror.</span></p>

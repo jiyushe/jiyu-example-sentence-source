@@ -1,5 +1,7 @@
 # salle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salle.md)
+
 <p><span class="chinese">陈舒励是菲律宾马尼拉拉刹大学文学教授。</span><span class="english">Shirley O. Lua teaches literature at De La Salle University in Manila, Philippines.</span></p>
 
 <p><span class="chinese">在巴黎一座音乐会剧场——夏沃音乐厅上演的选举之夜，气氛一触即发。</span><span class="english">On election night at the Salle Gaveau, a Paris concert theatre, the atmosphere was electric.</span></p>

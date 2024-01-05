@@ -1,5 +1,7 @@
 # cowhide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cowhide.md)
+
 <p><span class="chinese">一件是牛皮制成的。</span><span class="english">One is made of cowhide.</span></p>
 
 <p><span class="chinese">这鞋子是用一整块母牛皮做的。</span><span class="english">The shoe was made from a single piece of cowhide.</span></p>

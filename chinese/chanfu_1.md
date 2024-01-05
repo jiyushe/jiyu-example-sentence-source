@@ -1,5 +1,7 @@
 # 搀扶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanfu_1.md)
+
 <p><span class="chinese">他搀扶着祖母进屋。</span><span class="english">He helped his grandmother in.</span></p>
 
 <p><span class="chinese">他搀扶着那位老太太上了楼。</span><span class="english">He oxtered the old woman upstairs.</span></p>

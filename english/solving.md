@@ -1,5 +1,7 @@
 # solving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solving.md)
+
 <p><span class="chinese">我喜欢解决问题。</span><span class="english">I love solving problems.</span></p>
 
 <p><span class="chinese">猜谜语啊，我可是高手。</span><span class="english">I'm an expert at solving riddles.</span></p>

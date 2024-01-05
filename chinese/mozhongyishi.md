@@ -1,5 +1,7 @@
 # 莫衷一是
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mozhongyishi.md)
+
 <p><span class="chinese">历来对它的解释可谓是莫衷一是。</span><span class="english">There are all kinds of explanations on it.</span></p>
 
 <p><span class="chinese">我被互相矛盾的陈述搞得莫衷一是。</span><span class="english">I was bewildered by the contradictory statements.</span></p>

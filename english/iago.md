@@ -1,5 +1,7 @@
 # iago
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iago.md)
+
 <p><span class="chinese">伊阿古你现在话说完了吧？</span><span class="english">Iago . You have said now.</span></p>
 
 <p><span class="chinese">伊阿古你听见吗，凯西奥？</span><span class="english">Iago. Do you hear, Cassio?</span></p>

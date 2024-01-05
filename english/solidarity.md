@@ -1,5 +1,7 @@
 # solidarity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/solidarity.md)
+
 <p><span class="chinese">社青盟100周年，国际团结互助。</span><span class="english">Inter Solidarity at IUSY 100.</span></p>
 
 <p><span class="chinese">为此需要全球团结互助。</span><span class="english">Global solidarity is required.</span></p>

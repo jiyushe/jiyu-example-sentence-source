@@ -1,5 +1,7 @@
 # 宪章
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianzhang_1.md)
+
 <p><span class="chinese">我干脆拒绝你们的那个宪章。</span><span class="english">I refuse your charter point-blank.</span></p>
 
 <p><span class="chinese">财阀家族宪章。</span><span class="english">Family constitution of the zaibatsu.</span></p>

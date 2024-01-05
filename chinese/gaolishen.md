@@ -1,5 +1,7 @@
 # 高丽参
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaolishen.md)
+
 <p><span class="chinese">高丽参可以用种子或根部种植。</span><span class="english">Ginseng can be grown fromseeds or roots.</span></p>
 
 <p><span class="chinese">俺们那嘎特产高丽参。</span><span class="english">Round here, our specialty is Korean ginseng.</span></p>

@@ -1,5 +1,7 @@
 # 将就
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiangjiu_1.md)
+
 <p><span class="chinese">国会议员目前将就最终法案进行协商。</span><span class="english">Conferees will now negotiate a final version.</span></p>
 
 <p><span class="chinese">我们晚上只的在这小房间里将就一下。</span><span class="english">We have to make do with the small room for the night.</span></p>

@@ -1,5 +1,7 @@
 # noxious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noxious.md)
+
 <p><span class="chinese">我仍旧在寻找最毒的药草。</span><span class="english">Still I seek the most noxious herbs.</span></p>
 
 <p><span class="chinese">从有毒玩具到有害睡衣。</span><span class="english">From toxic toys to noxious nightwear.</span></p>

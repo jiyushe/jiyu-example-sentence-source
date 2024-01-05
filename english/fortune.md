@@ -1,5 +1,7 @@
 # fortune
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fortune.md)
+
 <p><span class="chinese">我羡慕你的好运气。</span><span class="english">I admire at your fortune.</span></p>
 
 <p><span class="chinese">他们的财富外流了。</span><span class="english">Their fortune drained away.</span></p>

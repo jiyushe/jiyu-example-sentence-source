@@ -1,5 +1,7 @@
 # 暮霭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muai.md)
+
 <p><span class="chinese">我在晨曦或暮霭中梦想</span><span class="english">And dreaming through the twilight</span></p>
 
 <p><span class="chinese">在我身上你或许会看见暮霭。</span><span class="english">In me thou seest the twilight of such day.</span></p>

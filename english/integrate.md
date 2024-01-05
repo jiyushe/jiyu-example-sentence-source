@@ -1,5 +1,7 @@
 # integrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/integrate.md)
+
 <p><span class="chinese">现在集成系统更容易。</span><span class="english">It’s now much easier to integrate systems.</span></p>
 
 <p><span class="chinese">如何将安全功能集成到MHS?。</span><span class="english">How to Integrate Security Functions into MHS?</span></p>

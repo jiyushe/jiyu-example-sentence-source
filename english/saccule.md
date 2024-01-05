@@ -1,5 +1,7 @@
 # saccule
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/saccule.md)
+
 <p><span class="chinese">本实用新型涉及神经外科手术器材。</span><span class="english">The utility model relates to a neurosurgery device, comprising a latex saccule and a working pipe.</span></p>
 
 <p><span class="chinese">目的观察套管式球囊导尿管置管的成功率。</span><span class="english">Objective To observe the success rate of urethral catheterization by telescopic saccule urinary catheter.</span></p>

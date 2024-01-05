@@ -1,5 +1,7 @@
 # sleek
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sleek.md)
+
 <p><span class="chinese">你既皮肤有白又滑好靓。</span><span class="english">Your skin is so white and sleek.</span></p>
 
 <p><span class="chinese">这匹马全身润泽有光。</span><span class="english">The horse's coat was sleek and glossy.</span></p>

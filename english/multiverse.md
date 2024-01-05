@@ -1,5 +1,7 @@
 # multiverse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multiverse.md)
+
 <p><span class="chinese">这样一整个平行宇宙体系被称为多重宇宙。</span><span class="english">An entire set of parallel universes is called a multiverse.</span></p>
 
 <p><span class="chinese">在这个多元宇宙理论里，你假设在中间有一个静止的宇宙。</span><span class="english">In this multiverse theory, you have a static universe in the middle.</span></p>

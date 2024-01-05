@@ -1,5 +1,7 @@
 # outsell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outsell.md)
+
 <p><span class="chinese">而容易使用的电话销量也会比难用的电话多。</span><span class="english">The easy-to-use phone will outsell the hard-to-use phone. All else being equal.</span></p>
 
 <p><span class="chinese">早期，汽油车的销售开始超过所有其他类型的汽车。</span><span class="english">By the early 1900s, gasoline cars started to outsell all other types of motor vehicles.</span></p>

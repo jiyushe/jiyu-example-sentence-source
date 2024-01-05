@@ -1,5 +1,7 @@
 # 扫帚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/saozhou.md)
+
 <p><span class="chinese">扫帚和簸箕。</span><span class="english">A broom and dustpan.</span></p>
 
 <p><span class="chinese">请骑上你们的扫帚。</span><span class="english">Mount your brooms, please.</span></p>

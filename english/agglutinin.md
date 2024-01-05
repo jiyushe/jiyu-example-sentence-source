@@ -1,5 +1,7 @@
 # agglutinin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agglutinin.md)
+
 <p><span class="chinese">其凝集活性能被半乳糖和乳糖抑制。</span><span class="english">Lactose and galactose could inhibit the haemagglutination activity of snail agglutinin.</span></p>
 
 <p><span class="chinese">实验中所观察到的肾小球花生凝集素染色增强标志着神经氨酸被清除。</span><span class="english">An increased glomerular staining with Peanut agglutinin lectin, indicate of removal of neuraminic acid, was noted.</span></p>

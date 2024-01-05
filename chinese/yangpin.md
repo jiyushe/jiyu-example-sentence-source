@@ -1,5 +1,7 @@
 # 样品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangpin.md)
+
 <p><span class="chinese">免费样品。</span><span class="english">Free samples.</span></p>
 
 <p><span class="chinese">这和样品相符。</span><span class="english">It comes up to sample.</span></p>

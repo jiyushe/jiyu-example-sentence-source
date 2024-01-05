@@ -1,5 +1,7 @@
 # 嚼舌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoshe.md)
+
 <p><span class="chinese">你喜欢嚼舌根。</span><span class="english">You love to gossip.</span></p>
 
 <p><span class="chinese">嚼舌的鹦鹉被关在笼子里。</span><span class="english">The talkative parrot is shut up in a cage.</span></p>

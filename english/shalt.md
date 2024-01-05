@@ -1,5 +1,7 @@
 # shalt
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shalt.md)
+
 <p><span class="chinese">不可杀人。</span><span class="english">Thou shalt not kill.</span></p>
 
 <p><span class="chinese">行邪术的女人，不可容她存活。</span><span class="english">Thou shalt not suffer a witch to live.</span></p>

@@ -1,5 +1,7 @@
 # caught
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/caught.md)
+
 <p><span class="chinese">我已经被套牢了！</span><span class="english">I’m caught.</span></p>
 
 <p><span class="chinese">我们要被抓住了。</span><span class="english">We’ll get caught.</span></p>

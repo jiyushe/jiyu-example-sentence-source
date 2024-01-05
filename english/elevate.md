@@ -1,5 +1,7 @@
 # elevate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elevate.md)
+
 <p><span class="chinese">哭能提升情绪。</span><span class="english">Crying can elevate mood.</span></p>
 
 <p><span class="chinese">好书可以提高思想修养。</span><span class="english">Good books may elevate the mind.</span></p>

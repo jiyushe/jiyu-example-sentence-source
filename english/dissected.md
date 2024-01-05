@@ -1,5 +1,7 @@
 # dissected
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dissected.md)
+
 <p><span class="chinese">然后从三个方面仔细研究了收益情况。</span><span class="english">They then dissected earnings in three ways.</span></p>
 
 <p><span class="chinese">律师们仔细分析了他提出的赔偿要求。</span><span class="english">The lawyers dissected his claim for damages.</span></p>

@@ -1,5 +1,7 @@
 # equipment 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equipment.md)
+
 <p><span class="chinese">拒绝为“健康土豆”运动器材。</span><span class="english">No ‘health-potato’ equipment.</span></p>
 
 <p><span class="chinese">把装备放在第三号仓房。</span><span class="english">Put the equipment in No3 bay.</span></p>

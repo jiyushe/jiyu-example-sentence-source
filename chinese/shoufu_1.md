@@ -1,5 +1,7 @@
 # 收复
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoufu_1.md)
+
 <p><span class="chinese">医生使她收复了说话的才具。</span><span class="english">The doctor restored her power of speech.</span></p>
 
 <p><span class="chinese">他们打胜了这一仗并收复了失地。</span><span class="english">They won the battle and resumed lost territory.</span></p>

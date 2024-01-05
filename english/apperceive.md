@@ -1,5 +1,7 @@
 # apperceive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apperceive.md)
+
 <p><span class="chinese">并将平面路径规划下无人战斗机战场态势感知模型推广到三维空间。</span><span class="english">At the same time, we spread UCAV apperceive models of plane to space too.</span></p>
 
 <p><span class="chinese">我对制鞋是了解一些的，从鞋样和针脚上我能看出质量的高下。</span><span class="english">I apperceive a bit about shoes and I can see the quality in the abstraction and bond.</span></p>

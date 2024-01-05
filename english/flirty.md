@@ -1,5 +1,7 @@
 # flirty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flirty.md)
+
 <p><span class="chinese">是我太肮脏了？还是我太过轻浮？</span><span class="english">Am I too dirty?Am I too flirty ?</span></p>
 
 <p><span class="chinese">另外，腰部有荷叶边的连衣裙看上去既有女人味又性感。</span><span class="english">Besides, peplum dresses look flirty and sexy as well.</span></p>

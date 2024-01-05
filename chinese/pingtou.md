@@ -1,5 +1,7 @@
 # 平头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingtou.md)
+
 <p><span class="chinese">我想剪个小平头。</span><span class="english">I want a crew cut.</span></p>
 
 <p><span class="chinese">我只是个平头百姓。</span><span class="english">I'm just an ordinary citizen.</span></p>

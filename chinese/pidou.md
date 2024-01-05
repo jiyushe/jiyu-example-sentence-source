@@ -1,5 +1,7 @@
 # 批斗
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pidou.md)
+
 <p><span class="chinese">似乎，一场狠狠的批斗就要开始了。</span><span class="english">Seem to be, a bitter fight begins.</span></p>
 
 <p><span class="chinese">因为祖父曾是地主，他受到了批斗。</span><span class="english">Because his grandfather was a landlord, he had been denounced.</span></p>

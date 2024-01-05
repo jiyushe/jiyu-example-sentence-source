@@ -1,5 +1,7 @@
 # 即位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiwei_1.md)
+
 <p><span class="chinese">维多利亚女王于1837年即位。</span><span class="english">Queen Victoria acceded to the throne in 1837.</span></p>
 
 <p><span class="chinese">公元前361年，秦国的新国君秦孝公即位。</span><span class="english">In 361 BC, Duke Xiao came to the throne of the State of Qin.</span></p>

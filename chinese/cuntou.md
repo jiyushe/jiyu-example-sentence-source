@@ -1,5 +1,7 @@
 # 寸头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuntou.md)
+
 <p><span class="chinese">我想或许可以剪个比较运动的发型或者短寸头。</span><span class="english">I think maybe a sport or a buzz cut would work.</span></p>
 
 <p><span class="chinese">最普遍的寸头被称之为古典发型。</span><span class="english">The most common form of taper cut is known as an old fashioned haircut.</span></p>

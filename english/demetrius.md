@@ -1,5 +1,7 @@
 # demetrius
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demetrius.md)
+
 <p><span class="chinese">为此，德默特琉王也委任他为大司祭。</span><span class="english">And king Demetrius confirmed him in the high priesthood.</span></p>
 
 <p><span class="chinese">德默特琉遂登上王位，时在一百六十七年。</span><span class="english">And Demetrius reigned in the hundred and sixty-seventh year.</span></p>

@@ -1,5 +1,7 @@
 # siding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/siding.md)
+
 <p><span class="chinese">这列火车已转至旁轨。</span><span class="english">The train has shunted to a siding.</span></p>
 
 <p><span class="chinese">这列火车已转辙至傍轨。</span><span class="english">The train was switched into a siding.</span></p>

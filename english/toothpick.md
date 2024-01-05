@@ -1,5 +1,7 @@
 # toothpick
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toothpick.md)
+
 <p><span class="chinese">这只老虎需要一根牙签来剔他的牙齿。</span><span class="english">The tiger needs a toothpick to pick his teeth.</span></p>
 
 <p><span class="chinese">每个微雕的原料仅仅是一根牙签。</span><span class="english">Each sculpture was made from only one toothpick.</span></p>

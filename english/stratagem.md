@@ -1,5 +1,7 @@
 # stratagem
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stratagem.md)
+
 <p><span class="chinese">提出一种新的控制策略。</span><span class="english">A new control stratagem is presented.</span></p>
 
 <p><span class="chinese">眉头一皱，计上心来。</span><span class="english">Knit the brows and a stratagem comes to mind.</span></p>

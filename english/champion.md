@@ -1,5 +1,7 @@
 # champion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/champion.md)
+
 <p><span class="chinese">冠军舍我其谁！</span><span class="english">We are the champion.</span></p>
 
 <p><span class="chinese">这位是得过很多次冠军的骑师。</span><span class="english">He is a many-time champion.</span></p>

@@ -1,5 +1,7 @@
 # 品种
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pinzhong.md)
+
 <p><span class="chinese">可爱啵！！！是什么品种的狗狗呀？</span><span class="english">Love me love my dog!</span></p>
 
 <p><span class="chinese">一个优良品种形成了。</span><span class="english">A strong breed emerged.</span></p>

@@ -1,5 +1,7 @@
 # messy 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/messy.md)
+
 <p><span class="chinese">然后，事情变得麻烦起来。</span><span class="english">Then things get messy.</span></p>
 
 <p><span class="chinese">所以，对，埃及非常混乱。</span><span class="english">So, yes, Egypt is messy.</span></p>

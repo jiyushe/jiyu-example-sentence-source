@@ -1,5 +1,7 @@
 # 诞生
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dansheng.md)
+
 <p><span class="chinese">谁给我的诞生呢？</span><span class="english">Whw gives me birth?</span></p>
 
 <p><span class="chinese">每一天都有新事物诞生。</span><span class="english">Every day is a birth.</span></p>

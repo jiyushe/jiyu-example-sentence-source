@@ -1,5 +1,7 @@
 # illuminating
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/illuminating.md)
+
 <p><span class="chinese">那真是让人茅塞顿开。</span><span class="english">That really was illuminating.</span></p>
 
 <p><span class="chinese">结果是具有启发性的。</span><span class="english">The results were illuminating.</span></p>

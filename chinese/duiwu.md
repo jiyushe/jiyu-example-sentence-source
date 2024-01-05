@@ -1,5 +1,7 @@
 # 队伍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duiwu.md)
+
 <p><span class="chinese">队伍再次开拔。</span><span class="english">They marched again.</span></p>
 
 <p><span class="chinese">我们的队伍壮大了。</span><span class="english">Our ranks have swelled.</span></p>

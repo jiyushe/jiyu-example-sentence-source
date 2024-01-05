@@ -1,5 +1,7 @@
 # appealing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/appealing.md)
+
 <p><span class="chinese">拉马克学说是很有吸引力的。</span><span class="english">Lamarck ism is very appealing.</span></p>
 
 <p><span class="chinese">这样叫座的场面我见多了。</span><span class="english">I am used to such appealing situations.</span></p>

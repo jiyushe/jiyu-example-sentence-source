@@ -1,5 +1,7 @@
 # alm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alm.md)
+
 <p><span class="chinese">布拉山的一些像片。</span><span class="english">A few more pics of the Blaa Alm.</span></p>
 
 <p><span class="chinese">政府向灾民发放了救济品。</span><span class="english">The government is handing out the alm to victims.</span></p>

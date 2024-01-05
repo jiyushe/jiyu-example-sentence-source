@@ -1,5 +1,7 @@
 # 全会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanhui.md)
+
 <p><span class="chinese">以色列全会众都要守这礼。</span><span class="english">All the congregation of Israel shall keep it.</span></p>
 
 <p><span class="chinese">王与全会众都以这事为善。</span><span class="english">And the thing pleased the king and all the congregation.</span></p>

@@ -1,5 +1,7 @@
 # conservatism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conservatism.md)
+
 <p><span class="chinese">这里还有个保守主义的问题</span><span class="english">Then there's this issue of conservatism.</span></p>
 
 <p><span class="chinese">在雷根当政期间，新保守主义盛行。</span><span class="english">Neo- conservatism prevailed in the Reagan era.</span></p>

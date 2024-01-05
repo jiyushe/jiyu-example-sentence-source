@@ -1,5 +1,7 @@
 # 满眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manyan.md)
+
 <p><span class="chinese">儿子满眼不惑。</span><span class="english">Son eyeful perplexed.</span></p>
 
 <p><span class="chinese">现在，右翼满眼所见都是这个恶魔幻影。</span><span class="english">Now it is all they can see.</span></p>

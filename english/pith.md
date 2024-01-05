@@ -1,5 +1,7 @@
 # pith
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pith.md)
+
 <p><span class="chinese">长枝髓心不发达。</span><span class="english">Long sticks pith underdevelopment.</span></p>
 
 <p><span class="chinese">外观上看应该是通草。</span><span class="english">Judging from its appearance, it must be the pith.</span></p>

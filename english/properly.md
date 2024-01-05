@@ -1,5 +1,7 @@
 # properly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/properly.md)
+
 <p><span class="chinese">适当地保持润湿。</span><span class="english">To moisturize properly.</span></p>
 
 <p><span class="chinese">恰当的处理煤炭。</span><span class="english">Dispose of coals properly.</span></p>

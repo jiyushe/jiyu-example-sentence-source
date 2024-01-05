@@ -1,5 +1,7 @@
 # unbearably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unbearably.md)
+
 <p><span class="chinese">他是一个俗不可耐的人。</span><span class="english">He's an unbearably vulgar person.</span></p>
 
 <p><span class="chinese">我发觉她总爱管闲事真让人受不了。</span><span class="english">I've always found her unbearably nosey.</span></p>

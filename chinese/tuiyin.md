@@ -1,5 +1,7 @@
 # 退隐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuiyin.md)
+
 <p><span class="chinese">那男子退隐到乡下去了。</span><span class="english">The man retired to the country.</span></p>
 
 <p><span class="chinese">那位老妇想退隐林泉。</span><span class="english">The old woman wanted to den up.</span></p>

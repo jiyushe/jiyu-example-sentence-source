@@ -1,5 +1,7 @@
 # 峭壁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaobi.md)
+
 <p><span class="chinese">这个峭壁非常危险。</span><span class="english">The crag is very dangerous.</span></p>
 
 <p><span class="chinese">海潮冲着峭壁。</span><span class="english">The waves dashed against the cliff.</span></p>

@@ -1,5 +1,7 @@
 # 混血
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunxue.md)
+
 <p><span class="chinese">我希望有一个混血宝宝。</span><span class="english">I hope we will have a mixed-blood.</span></p>
 
 <p><span class="chinese">混血王子的背叛。</span><span class="english">Harry Poter and the Half-Blood Prince.</span></p>

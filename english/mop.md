@@ -1,5 +1,7 @@
 # mop
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mop.md)
+
 <p><span class="chinese">我来拖地板。</span><span class="english">I'll mop the floor.</span></p>
 
 <p><span class="chinese">谁在拖地板?。</span><span class="english">Who is mop the floor?</span></p>

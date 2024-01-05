@@ -1,5 +1,7 @@
 # newfangled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/newfangled.md)
+
 <p><span class="chinese">奥德利庄院的府邸里从来不出现时髦的新灯。</span><span class="english">No newfangled lamps had ever made their appearance at Audley Court.</span></p>
 
 <p><span class="chinese">孙福龄酒后就没控制住这个新奇玩意儿，当场撞死了一个倒霉的宫廷太监。</span><span class="english">Mr Sun promptly lost control of the newfangled thing, running over and killing an unfortunate palace eunuch.</span></p>

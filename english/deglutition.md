@@ -1,5 +1,7 @@
 # deglutition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deglutition.md)
+
 <p><span class="chinese">除3例外馀者均恢复正常吞咽功能。</span><span class="english">Normal deglutition restored in all cases except 3.</span></p>
 
 <p><span class="chinese">术后吞咽、呼吸功能恢复好，但有声音嘶哑。</span><span class="english">Functions of respiration and deglutition are good but existent hoarseness.</span></p>

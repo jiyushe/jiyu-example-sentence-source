@@ -1,5 +1,7 @@
 # listed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/listed.md)
+
 <p><span class="chinese">这在下面列出。</span><span class="english">This are listed below.</span></p>
 
 <p><span class="chinese">任何的输出品列出在一。</span><span class="english">Any export listed in a.</span></p>

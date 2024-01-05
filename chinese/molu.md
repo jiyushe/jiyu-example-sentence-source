@@ -1,5 +1,7 @@
 # 末路
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/molu.md)
+
 <p><span class="chinese">他接受哪一条末路？</span><span class="english">What extremity did he accept?</span></p>
 
 <p><span class="chinese">铁拳迈克的末路也由此开始。</span><span class="english">It was the beginning of the end for Iron Mike.</span></p>

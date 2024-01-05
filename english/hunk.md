@@ -1,5 +1,7 @@
 # hunk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hunk.md)
+
 <p><span class="chinese">你提的那么一大块破铜烂铁是什么玩意？</span><span class="english">What's that hunk of steel you're carrying?</span></p>
 
 <p><span class="chinese">它们看起来确实像一大块塑料。</span><span class="english">They do look like a hunk of plastic, or glass.</span></p>

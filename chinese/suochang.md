@@ -1,5 +1,7 @@
 # 所长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suochang.md)
+
 <p><span class="chinese">充分发挥两者所长。</span><span class="english">In a way the best of both worlds.</span></p>
 
 <p><span class="chinese">寻求中长期的发展和发挥所长的平台，不仅仅是一份工作。</span><span class="english">I'm looking for a career, not just a job.</span></p>

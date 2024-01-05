@@ -1,5 +1,7 @@
 # cygnus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cygnus.md)
+
 <p><span class="chinese">因此，天鹅座x-1肯定比地球小！</span><span class="english">Cygnus X-1 must be smaller than Earth!</span></p>
 
 <p><span class="chinese">天鹅座x-1最有可能是一个黑洞候选体。</span><span class="english">Cygnus X-1 is one of the most likely black hole candidates.</span></p>

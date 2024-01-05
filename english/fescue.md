@@ -1,5 +1,7 @@
 # fescue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fescue.md)
+
 <p><span class="chinese">说明紫花苜蓿比高羊茅的耐受性更强。</span><span class="english">Description Medicago sativa L. tolerance than high fescue more.</span></p>
 
 <p><span class="chinese">探索苇状羊茅在安康地区适应性。</span><span class="english">The research aimed to discuss the adaptability of fescue in Ankang area.</span></p>

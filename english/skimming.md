@@ -1,5 +1,7 @@
 # skimming
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/skimming.md)
+
 <p><span class="chinese">什么是略读？</span><span class="english">What is skimming?</span></p>
 
 <p><span class="chinese">她正撇去牛乳之乳皮。</span><span class="english">She is skimming the milk.</span></p>

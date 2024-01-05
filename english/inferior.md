@@ -1,5 +1,7 @@
 # inferior
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inferior.md)
+
 <p><span class="chinese">他是一个下等军官。</span><span class="english">He is an inferior officer.</span></p>
 
 <p><span class="chinese">我感到远远不如别人。</span><span class="english">I feel far inferior to others.</span></p>

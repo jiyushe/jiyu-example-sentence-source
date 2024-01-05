@@ -1,5 +1,7 @@
 # spectrograph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spectrograph.md)
+
 <p><span class="chinese">所用光谱仪如247型掠入射真空紫外摄谱仪。</span><span class="english">The spectrograph used is model 247 grating incidence spectrograph.</span></p>
 
 <p><span class="chinese">本文报导了一个新型的带电粒子谱仪。</span><span class="english">A new-type charged particle spectrograph has been proposed and built up.</span></p>

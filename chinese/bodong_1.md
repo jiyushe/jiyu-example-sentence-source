@@ -1,5 +1,7 @@
 # 波动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bodong_1.md)
+
 <p><span class="chinese">波动方程式。</span><span class="english">It is a wave equation.</span></p>
 
 <p><span class="chinese">也就是波动很大的饮食习惯</span><span class="english">That is, yo-yo dieting.</span></p>

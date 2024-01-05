@@ -1,5 +1,7 @@
 # bennet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bennet.md)
+
 <p><span class="chinese">班纳特太太听到这消息，简直坐立不安。</span><span class="english">Mrs. Bennet was quite in the fidgets.</span></p>
 
 <p><span class="chinese">班纳特先生这个话题选得再好也没有了。</span><span class="english">Mr. Bennet could not have chosen better.</span></p>

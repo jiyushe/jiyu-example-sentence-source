@@ -1,5 +1,7 @@
 # 雷电
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leidian_1.md)
+
 <p><span class="chinese">雷电再次闪击。</span><span class="english">The lightning struck again.</span></p>
 
 <p><span class="chinese">雷电，关掉你的游戏机。</span><span class="english">Raiden, switch off your console.</span></p>

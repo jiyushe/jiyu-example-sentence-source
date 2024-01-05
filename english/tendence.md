@@ -1,5 +1,7 @@
 # tendence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tendence.md)
+
 <p><span class="chinese">大一学生的心理健康状况有下降的趋势。</span><span class="english">And their level of mental health take on degressive tendence.</span></p>
 
 <p><span class="chinese">但是安乐死的潮流不太可能逆转了。</span><span class="english">However, the tendence of euthanasia is unlikely to turn back.</span></p>

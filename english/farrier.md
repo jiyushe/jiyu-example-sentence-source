@@ -1,5 +1,7 @@
 # farrier
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/farrier.md)
+
 <p><span class="chinese">可是蹄铁匠问我什么来着？</span><span class="english">But what was it the farrier asked me?</span></p>
 
 <p><span class="chinese">为马钉蹄铁的人叫做蹄铁匠。</span><span class="english">A man who shoes horses is called a farrier.</span></p>

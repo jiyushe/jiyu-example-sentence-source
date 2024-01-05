@@ -1,5 +1,7 @@
 # 免不了
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianbuliao.md)
+
 <p><span class="chinese">凡为主工作的人，都总免不了遭人反对。</span><span class="english">This is often true in the Lord's work.</span></p>
 
 <p><span class="chinese">只图吃好穿好，学坏常常免不了。</span><span class="english">Those who eat best and drink best often do worst.</span></p>

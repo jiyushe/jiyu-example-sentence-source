@@ -1,5 +1,7 @@
 # feta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/feta.md)
+
 <p><span class="chinese">对啊，我好想赶快吃到新鲜的羊乳酪。</span><span class="english">Yeah. I can't wait to get some fresh feta cheese.</span></p>
 
 <p><span class="chinese">橄榄果，飞达芝士，西红柿，洋葱，黄瓜。</span><span class="english">With olives, feta cheese, tomato, onion &cucumber.</span></p>

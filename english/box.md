@@ -1,5 +1,7 @@
 # box 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/box.md)
+
 <p><span class="chinese">齿轮箱。</span><span class="english">Gear box.</span></p>
 
 <p><span class="chinese">糖果盒？</span><span class="english">Candy box?</span></p>

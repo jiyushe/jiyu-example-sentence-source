@@ -1,5 +1,7 @@
 # tomography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tomography.md)
+
 <p><span class="chinese">开放式磁感应成像逆问题研究。</span><span class="english">Inverse problem of the open magnetic induction tomography.</span></p>
 
 <p><span class="chinese">最后给出对实验信号的层析成像处理结果。</span><span class="english">Finally, we give tomography processing results of experiment signals.</span></p>

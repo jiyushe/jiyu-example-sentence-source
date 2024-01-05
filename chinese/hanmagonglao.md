@@ -1,5 +1,7 @@
 # 汗马功劳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hanmagonglao.md)
+
 <p><span class="chinese">让老板不断留意你的汗马功劳。</span><span class="english">Keep you boss aware of your accomplishments.</span></p>
 
 <p><span class="chinese">我特意列举了一大串事实，说明我为福特汽车公司立下了汗马功劳。</span><span class="english">I recited a list of my accomplishments on behalf of the Ford Motor Company.</span></p>

@@ -1,5 +1,7 @@
 # 伪造
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weizao.md)
+
 <p><span class="chinese">我的名字是伪造。</span><span class="english">My name is WangLe han.</span></p>
 
 <p><span class="chinese">Tupac伪造了自己的死亡！</span><span class="english">Tupac faked his own death!</span></p>

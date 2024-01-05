@@ -1,5 +1,7 @@
 # 赃款
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zangkuan.md)
+
 <p><span class="chinese">警察在一个树洞里找到了藏匿的小刀，还有赃款。</span><span class="english">The police found a knife together with the stolen money, hidden in a hollow tree.</span></p>
 
 <p><span class="chinese">所骗取的赃款后被全部扣押并发还被害人。</span><span class="english">Swindles after the ill-gotten money, is detained and returns the victim completely.</span></p>

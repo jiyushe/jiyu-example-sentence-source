@@ -1,5 +1,7 @@
 # 汽化热
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qihuare.md)
+
 <p><span class="chinese">实际上，汽化热与温度有关。</span><span class="english">The heat of vaporization is actually temperature dependent.</span></p>
 
 <p><span class="chinese">由于汽化热的存在，使气温下降，通过所说的热交换器把室外空气降温后送进室内。</span><span class="english">The outdoor air which has been cooled by said heat exchanger is passed into room.</span></p>

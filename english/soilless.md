@@ -1,5 +1,7 @@
 # soilless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/soilless.md)
+
 <p><span class="chinese">人们采用无土栽培的方法来种植蔬菜。</span><span class="english">The people here use soilless cultivation methods to grow vegetables.</span></p>
 
 <p><span class="chinese">锯末软化栽培法是一种简单实用的无土软化栽培方法。</span><span class="english">It is a simple but practical way of soilless and blanching culture of chicory.</span></p>

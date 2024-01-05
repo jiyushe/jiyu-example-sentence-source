@@ -1,5 +1,7 @@
 # jg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jg.md)
+
 <p><span class="chinese">勇气号曾探索过一个和JG的科幻小说中类似的世界。</span><span class="english">Spirit has explored a world as fantastic as any imagined by JG Ballard.</span></p>
 
 <p><span class="chinese">在铂电极上，健那绿发生四步单电子传递过程。</span><span class="english">JG undergoes four successive one-electron transfer reactions at the platinum electrode.</span></p>

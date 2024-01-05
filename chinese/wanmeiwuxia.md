@@ -1,5 +1,7 @@
 # 完美无瑕
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanmeiwuxia.md)
+
 <p><span class="chinese">上帝是一个完美无瑕的父亲。</span><span class="english">God is a perfect father.</span></p>
 
 <p><span class="chinese">我阴沉着脸，瞪着他完美无瑕的面庞。</span><span class="english">I scowled at his perfect face.</span></p>

@@ -1,5 +1,7 @@
 # pakchoi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pakchoi.md)
+
 <p><span class="chinese">供试蔬菜为冬季小白菜和夏季小白菜。</span><span class="english">The experimental vegetables were winter pakchoi and summer pakchoi.</span></p>
 
 <p><span class="chinese">对9个小白菜品种夏季育苗移栽后的生长情况和馅用特性进行了研究。</span><span class="english">The experiment on comparison of 9 pakchoi varieties was carried out in summer.</span></p>

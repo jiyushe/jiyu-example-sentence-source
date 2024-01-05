@@ -1,5 +1,7 @@
 # cassava
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cassava.md)
+
 <p><span class="chinese">这会儿我们正在吃木薯和玉米粉。</span><span class="english">We're eating cassava and ugali.</span></p>
 
 <p><span class="chinese">木薯烤蛋糕，直到颜色变成浅棕色。</span><span class="english">Broil the Cassava cake until color turns light brown.</span></p>

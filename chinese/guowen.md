@@ -1,5 +1,7 @@
 # 过问
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guowen.md)
+
 <p><span class="chinese">这事你不必过问了。</span><span class="english">You needn't bother about this.</span></p>
 
 <p><span class="chinese">可即使他现在也无权过问。</span><span class="english">But he doesn't even have a right to say.</span></p>

@@ -1,5 +1,7 @@
 # bonnet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bonnet.md)
+
 <p><span class="chinese">蓝鹣鸟拿到了一顶童帽。</span><span class="english">Blue Jay gets a bonnet.</span></p>
 
 <p><span class="chinese">这种东西罩在帽子上，显得太扎眼了。</span><span class="english">It looks so odd over a bonnet.</span></p>

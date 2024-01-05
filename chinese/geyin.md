@@ -1,5 +1,7 @@
 # 隔音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/geyin.md)
+
 <p><span class="chinese">这个摄影棚并不隔音。</span><span class="english">The studio isn't soundproof.</span></p>
 
 <p><span class="chinese">房间的隔音设备太差了。</span><span class="english">The room's insulation is too bad.</span></p>

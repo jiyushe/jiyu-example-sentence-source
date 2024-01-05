@@ -1,5 +1,7 @@
 # temerity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/temerity.md)
+
 <p><span class="chinese">中国又有谁能够如此胆大妄为地安排这种会见呢？</span><span class="english">And who in China would have the temerity to arrange such an encounter?</span></p>
 
 <p><span class="chinese">谁也没有胆量把杰拉尔德当作可笑的矮个儿看待。</span><span class="english">No one would ever have the temerity to think of Gerald O’Hara as a ridiculous little figure.</span></p>

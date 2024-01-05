@@ -1,5 +1,7 @@
 # 四平八稳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sipingbawen.md)
+
 <p><span class="chinese">他办事四平八稳。</span><span class="english">He is dependable in work.</span></p>
 
 <p><span class="chinese">这一次，他那四平八稳的气质遭到了破坏。</span><span class="english">For once his even temper was disturbed.</span></p>

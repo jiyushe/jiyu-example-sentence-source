@@ -1,5 +1,7 @@
 # remitter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/remitter.md)
+
 <p><span class="chinese">在银行转账中产生的任何费用，由付款人承担。</span><span class="english">Any bank charges must be borne by the remitter.</span></p>
 
 <p><span class="chinese">汇款手续费由汇款人承担。</span><span class="english">The remitter is responsible for the remittance charge.</span></p>

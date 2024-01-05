@@ -1,5 +1,7 @@
 # nairobi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nairobi.md)
+
 <p><span class="chinese">奈生死茫茫无极。</span><span class="english">Nairobi death boundless non-polar.</span></p>
 
 <p><span class="chinese">以内罗毕的一个社区基贝拉为例。</span><span class="english">Take Kibera a poor neighborhood in Nairobi.</span></p>

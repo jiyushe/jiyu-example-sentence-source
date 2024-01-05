@@ -1,5 +1,7 @@
 # 肢体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiti.md)
+
 <p><span class="chinese">保护肢体末端。</span><span class="english">Protect the extremities.</span></p>
 
 <p><span class="chinese">肢体重复性劳损症不会威胁生命。</span><span class="english">RSI is not life threatening.</span></p>

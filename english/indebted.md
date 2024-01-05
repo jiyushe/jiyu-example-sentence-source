@@ -1,5 +1,7 @@
 # indebted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indebted.md)
+
 <p><span class="chinese">我对所有到会者表示感谢。</span><span class="english">I'm indebted to all the people present.</span></p>
 
 <p><span class="chinese">打扰了你我感到非常过意不去。</span><span class="english">I'm very much indebted for having troubled you.</span></p>

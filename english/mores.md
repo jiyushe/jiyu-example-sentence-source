@@ -1,5 +1,7 @@
 # mores
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mores.md)
+
 <p><span class="chinese">他们想得到的姿势比印度爱经都多。</span><span class="english">They know mores than the Kamasutra.</span></p>
 
 <p><span class="chinese">我是说，虽说社会观念已经变了…</span><span class="english">I mean the sociosexual mores have really shifted.</span></p>

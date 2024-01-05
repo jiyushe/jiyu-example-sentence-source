@@ -1,5 +1,7 @@
 # deceased
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deceased.md)
+
 <p><span class="chinese">对于所有死者的不信神的？</span><span class="english">For all the deceased godless?</span></p>
 
 <p><span class="chinese">已故者死于年迈。</span><span class="english">The deceased died of old age.</span></p>

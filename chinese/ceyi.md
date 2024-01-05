@@ -1,5 +1,7 @@
 # 侧翼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ceyi.md)
+
 <p><span class="chinese">但梅森正在捍卫自己的侧翼。</span><span class="english">But Mason is protecting his flanks.</span></p>
 
 <p><span class="chinese">一个大的战略上的侧翼包围…</span><span class="english">A vast, strategic maneuver to outflank.</span></p>

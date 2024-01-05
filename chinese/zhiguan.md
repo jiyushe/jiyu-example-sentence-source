@@ -1,5 +1,7 @@
 # 只管
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiguan.md)
+
 <p><span class="chinese">你只管干下去。</span><span class="english">Go ahead by all means.</span></p>
 
 <p><span class="chinese">只管写，不需要去读。</span><span class="english">No need to read it over.</span></p>

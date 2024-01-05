@@ -1,5 +1,7 @@
 # derry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/derry.md)
+
 <p><span class="chinese">但是，和我住在一起的人坚持要去德里度过一年仅一次的万圣节狂欢夜。</span><span class="english">However, my housemate insisted that for Halloween in Derry we had to.</span></p>
 
 <p><span class="chinese">进一步地说，在德里，在北爱尔兰，欢庆仪式早就到来了。</span><span class="english">Further up in Derry , in Northern Ireland, the celebration arrived early.</span></p>

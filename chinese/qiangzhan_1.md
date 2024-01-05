@@ -1,5 +1,7 @@
 # 抢占
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangzhan_1.md)
+
 <p><span class="chinese">他抢占了最好的座位。</span><span class="english">He grabbed off the best seat.</span></p>
 
 <p><span class="chinese">企业要抢占市场份额。</span><span class="english">Enterprises have to seize market share.</span></p>

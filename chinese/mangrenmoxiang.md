@@ -1,5 +1,7 @@
 # 盲人摸象
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mangrenmoxiang.md)
+
 <p><span class="chinese">估计每个人都听说过盲人摸象的故事。</span><span class="english">Anybody ever hear of the story of the blind men and the elephant?</span></p>
 
 <p><span class="chinese">佛陀曾经讲过一个盲人摸象的故事。</span><span class="english">The Buddha once told the story of the blind men and the elephant.</span></p>

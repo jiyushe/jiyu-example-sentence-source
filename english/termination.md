@@ -1,5 +1,7 @@
 # termination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/termination.md)
+
 <p><span class="chinese">所以，终端费仍然要付。</span><span class="english">So the termination fees remain.</span></p>
 
 <p><span class="chinese">因雇佣关系终止而没收。</span><span class="english">Forfeitures upon Termination of Employment.</span></p>

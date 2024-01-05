@@ -1,5 +1,7 @@
 # 掂量
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dianliang.md)
+
 <p><span class="chinese">掂量了一下邮件的重量。</span><span class="english">He weighed the mail in his hand.</span></p>
 
 <p><span class="chinese">他在心中掂量着这个想法。</span><span class="english">He weighed the ideas in his mind.</span></p>

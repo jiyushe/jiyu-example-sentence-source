@@ -1,5 +1,7 @@
 # macronutrient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/macronutrient.md)
+
 <p><span class="chinese">膳食的能量含量取决于其常量营养素组成。</span><span class="english">The energy content of a diet depends upon its macronutrient composition.</span></p>
 
 <p><span class="chinese">磷是植物生长发育所必需的大量营养元素。</span><span class="english">Phosphorus is an essential macronutrient for plant growth and development.</span></p>

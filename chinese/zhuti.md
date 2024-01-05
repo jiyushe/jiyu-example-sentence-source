@@ -1,5 +1,7 @@
 # 主体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuti.md)
+
 <p><span class="chinese">挪用公款罪的主体。</span><span class="english">Main body of defalcation.</span></p>
 
 <p><span class="chinese">其主体是一个表达式。</span><span class="english">Its body is an expression.</span></p>

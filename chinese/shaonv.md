@@ -1,5 +1,7 @@
 # 少女
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaonv.md)
+
 <p><span class="chinese">即使是那些青春少女？</span><span class="english">Even teenage girls?</span></p>
 
 <p><span class="chinese">海羽是个迟钝的少女。</span><span class="english">Miu is a slow girl.</span></p>

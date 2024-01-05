@@ -1,5 +1,7 @@
 # 悠闲自在
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youxianzizai.md)
+
 <p><span class="chinese">悠闲自在的生活，是一个难以追求的东西。</span><span class="english">A life of ease is a difficult pursuit.</span></p>
 
 <p><span class="chinese">这对退休夫妇过着悠闲自在的生活。</span><span class="english">The retired couple lived a life of ease.</span></p>

@@ -1,5 +1,7 @@
 # 大家风范
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dajiafengfan.md)
+
 <p><span class="chinese">潘懋元先生的大家风范内涵丰富，给我们以深刻的启示。</span><span class="english">His model as a great master and his rich virtue of patience give us deep enlightenment.</span></p>
 
 <p><span class="chinese">在一阵阵热烈的掌声中，她唱完鞠躬下台，一招一式很有大家风范。</span><span class="english">In the waves of warm applause, she bowed to step down over and over, a one-trick is all style.</span></p>

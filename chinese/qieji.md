@@ -1,5 +1,7 @@
 # 切忌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qieji.md)
+
 <p><span class="chinese">切忌冲动购物。</span><span class="english">Avoid impulse buys.</span></p>
 
 <p><span class="chinese">亦切忌干烧过长。</span><span class="english">Also must not dry too long.</span></p>

@@ -1,5 +1,7 @@
 # laughingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/laughingly.md)
+
 <p><span class="chinese">李孝利笑著说。</span><span class="english">Lee Hyo Ri said laughingly.</span></p>
 
 <p><span class="chinese">笑谈渴饮匈奴血。</span><span class="english">Laughingly drink the Tartars' blood.</span></p>

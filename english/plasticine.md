@@ -1,5 +1,7 @@
 # plasticine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plasticine.md)
+
 <p><span class="chinese">本发明公布了一种橡皮泥笔。</span><span class="english">The invention discloses a plasticine pen.</span></p>
 
 <p><span class="chinese">他用手指把代用粘土弄软了。</span><span class="english">He softened up the plasticine with his fingers.</span></p>

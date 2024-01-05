@@ -1,5 +1,7 @@
 # dislodge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dislodge.md)
+
 <p><span class="chinese">他们需要一台推土机来挖出岩石。</span><span class="english">They needed a bulldozer to dislodge the rock.</span></p>
 
 <p><span class="chinese">把模子往桌上敲，来移动月饼。</span><span class="english">Knock the mould against the table to dislodge the mooncake.</span></p>

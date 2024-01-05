@@ -1,5 +1,7 @@
 # 适口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shikou.md)
+
 <p><span class="chinese">茶有千味，适口者珍。</span><span class="english">There are, including tea flavor, the Jane.</span></p>
 
 <p><span class="chinese">红果3号糖酸含量合理，清淡适口。</span><span class="english">Hongguo 3showed well sugar and acid content.</span></p>

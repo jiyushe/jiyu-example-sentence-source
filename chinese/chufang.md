@@ -1,5 +1,7 @@
 # 出访
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chufang.md)
+
 <p><span class="chinese">杰克劝阻我出访以色列。</span><span class="english">Jack dehorts me from visiting Israel.</span></p>
 
 <p><span class="chinese">我是在一次远途出访的结尾对你们发表演讲。</span><span class="english">I'm speaking to you at the end of a long trip.</span></p>

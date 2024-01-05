@@ -1,5 +1,7 @@
 # 殖民地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhimindi.md)
+
 <p><span class="chinese">朝鲜于1910年沦为日本的殖民地。</span><span class="english">Korea colonized by Japan in 1910</span></p>
 
 <p><span class="chinese">希腊语Apoikia不同于殖民地一词</span><span class="english">No, this is not what an apoikia is.</span></p>

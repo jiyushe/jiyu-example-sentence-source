@@ -1,5 +1,7 @@
 # Finn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/finn_1.md)
+
 <p><span class="chinese">但是哈克贝里?费恩是1884年的小说形象了。</span><span class="english">But Huckleberry Finn was published in 1884.</span></p>
 
 <p><span class="chinese">一天晚上在坟场他和费恩、贝琪撒切尔看到了三个男人。</span><span class="english">One night in the graveyard he and Huck Finn see three men.</span></p>

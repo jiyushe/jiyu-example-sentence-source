@@ -1,5 +1,7 @@
 # comb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/comb.md)
+
 <p><span class="chinese">梳梳我的头。</span><span class="english">Comb my hair.</span></p>
 
 <p><span class="chinese">梳子是用来梳头发的。</span><span class="english">What's comb for?</span></p>

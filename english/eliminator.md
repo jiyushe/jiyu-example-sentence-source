@@ -1,5 +1,7 @@
 # eliminator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eliminator.md)
+
 <p><span class="chinese">静电消除器“，”</span><span class="english">Static Electricity Eliminator.</span></p>
 
 <p><span class="chinese">消除器利用了鱼游泳的方式。</span><span class="english">The Eliminator takes advantage of how fish swim.</span></p>

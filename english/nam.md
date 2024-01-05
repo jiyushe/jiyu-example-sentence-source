@@ -1,5 +1,7 @@
 # nam
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nam.md)
+
 <p><span class="chinese">越南与中国毗邻。</span><span class="english">Viet Nam is contiguous to China.</span></p>
 
 <p><span class="chinese">褔南足球会的情报和消息…</span><span class="english">Everything about Fok Nam Soccer Club.</span></p>

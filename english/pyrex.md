@@ -1,5 +1,7 @@
 # pyrex
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pyrex.md)
+
 <p><span class="chinese">玻璃器皿包括高硼硅耐热玻璃保鲜盒。</span><span class="english">Our Glassware include pyrex glass food container.</span></p>
 
 <p><span class="chinese">耐热玻璃和耐热瓷器好虽好但又容易损坏。</span><span class="english">Pyrex and heat-proof porcelain are fine but fragile.</span></p>

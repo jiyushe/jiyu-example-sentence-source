@@ -1,5 +1,7 @@
 # kraft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kraft.md)
+
 <p><span class="chinese">有多少人认为是卡夫</span><span class="english">How many would say Kraft?</span></p>
 
 <p><span class="chinese">多层牛皮纸袋。</span><span class="english">Multi-layer kraft paper bag.</span></p>

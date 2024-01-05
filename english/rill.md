@@ -1,5 +1,7 @@
 # rill
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rill.md)
+
 <p><span class="chinese">一座桥横跨小河。</span><span class="english">A bridge spanned the rill.</span></p>
 
 <p><span class="chinese">像晨光中的溪流一样流淌</span><span class="english">Flowed like a rill in the morning beam</span></p>

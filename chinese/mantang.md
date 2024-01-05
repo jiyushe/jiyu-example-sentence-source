@@ -1,5 +1,7 @@
 # 满堂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mantang.md)
+
 <p><span class="chinese">满堂客家大围。</span><span class="english">"Mantang Hakka Manor House".</span></p>
 
 <p><span class="chinese">珍以一曲肚皮舞搏得满堂喝采。</span><span class="english">Jane brought down the house with a belly dance.</span></p>

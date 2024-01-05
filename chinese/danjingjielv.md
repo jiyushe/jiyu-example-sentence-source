@@ -1,5 +1,7 @@
 # 殚精竭虑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danjingjielv.md)
+
 <p><span class="chinese">这种冒险极富挑战性，而且需要殚精竭虑，但非常值得为之一搏。</span><span class="english">Such adventures are challenging and demanding but well worth the effort.</span></p>
 
 <p><span class="chinese">我们将殚精竭虑、竭诚服务，必会使您爱上BH。</span><span class="english">We are willing to devote our life to making you fall in love with BH fitness.</span></p>

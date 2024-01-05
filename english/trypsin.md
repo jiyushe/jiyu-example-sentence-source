@@ -1,5 +1,7 @@
 # trypsin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trypsin.md)
+
 <p><span class="chinese">此外，还观察了胰蛋白酶对猪血纤维蛋白溶酶原的激活。</span><span class="english">The activation of porcine Pg by trypsin was also noticed.</span></p>
 
 <p><span class="chinese">吐温对牛胰蛋白酶活性的影响较少。</span><span class="english">The activity of bovine trypsin is less influenced by tween.</span></p>

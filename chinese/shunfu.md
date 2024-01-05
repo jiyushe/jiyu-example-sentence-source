@@ -1,5 +1,7 @@
 # 顺服
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shunfu.md)
+
 <p><span class="chinese">只会选择不顺服神。</span><span class="english">It only chooses to disobey God.</span></p>
 
 <p><span class="chinese">顺服上帝才得真自由。</span><span class="english">Obedience to God is the key to freedom.</span></p>

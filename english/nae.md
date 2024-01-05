@@ -1,5 +1,7 @@
 # nae
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nae.md)
+
 <p><span class="chinese">我的男朋友名字?。</span><span class="english">My boy friend 's nae?</span></p>
 
 <p><span class="chinese">你会用英文签名吗?。</span><span class="english">Can you sign your nae in English?</span></p>

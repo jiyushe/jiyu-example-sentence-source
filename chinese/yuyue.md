@@ -1,5 +1,7 @@
 # 预约
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuyue.md)
+
 <p><span class="chinese">敬辞你有预约吗?。</span><span class="english">Do you have an appointment?</span></p>
 
 <p><span class="chinese">这本书已被预约了.</span><span class="english">This book has been reserved.</span></p>

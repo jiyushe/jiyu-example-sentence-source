@@ -1,5 +1,7 @@
 # motorcade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/motorcade.md)
+
 <p><span class="chinese">一列车队呼啸而过。</span><span class="english">A motorcade whirred by.</span></p>
 
 <p><span class="chinese">车队沿山路盘旋而上。</span><span class="english">The motorcade spiralled up the mountain.</span></p>

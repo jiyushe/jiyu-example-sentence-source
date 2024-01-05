@@ -1,5 +1,7 @@
 # apoplectic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/apoplectic.md)
+
 <p><span class="chinese">还有，孩子他爸可能会被女儿的这个主意引发中风的。</span><span class="english">More to the point, her father would be apoplectic at the idea.</span></p>
 
 <p><span class="chinese">但在墨西哥湾海岸的舆论正变得越来越激烈和末世论。</span><span class="english">But the consensus around the Gulf Coast is turning more apoplectic and apocalyptic.</span></p>

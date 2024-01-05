@@ -1,5 +1,7 @@
 # cauterization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cauterization.md)
+
 <p><span class="chinese">应用烧灼巩膜静脉的方法制作大鼠慢性EIOP模型。</span><span class="english">Cauterization of episcleral vein was used to set up rat's EIOP model.</span></p>
 
 <p><span class="chinese">适用于高频陶瓷电容器的烧结及封端场合。</span><span class="english">It is applied in cauterization and sealing of high-frequency ceramic capacitor.</span></p>

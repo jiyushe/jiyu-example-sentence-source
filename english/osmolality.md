@@ -1,5 +1,7 @@
 # osmolality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/osmolality.md)
+
 <p><span class="chinese">钠是血管内影响血浆渗透压的主要离子。</span><span class="english">Sodium is the major intravascular ion that influences serum osmolality.</span></p>
 
 <p><span class="chinese">血清中的离子和非离子物质都参与形成血清渗透。</span><span class="english">Both ionic and nonionic substances in the serum contribute to the osmolality.</span></p>

@@ -1,5 +1,7 @@
 # 南国
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanguo.md)
+
 <p><span class="chinese">红南国的皇太后。</span><span class="english">Kounan Country's Empress dowager.</span></p>
 
 <p><span class="chinese">汕头南国商城有什么店？</span><span class="english">Shantou Southland Mall What shop?</span></p>

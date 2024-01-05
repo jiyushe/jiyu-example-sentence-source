@@ -1,5 +1,7 @@
 # 交界
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaojie_1.md)
+
 <p><span class="chinese">福建北面与浙江交界。</span><span class="english">Fujian is bounded on the north by Zhejiang.</span></p>
 
 <p><span class="chinese">在两座城市的交界位置出现了一道彩虹。</span><span class="english">There is a rainbow on the border of the tow citys.</span></p>

@@ -1,5 +1,7 @@
 # ocean
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ocean.md)
+
 <p><span class="chinese">东海公园。</span><span class="english">East Ocean Park.</span></p>
 
 <p><span class="chinese">致命的海洋。</span><span class="english">The deadly ocean.</span></p>

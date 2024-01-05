@@ -1,5 +1,7 @@
 # 烟煤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanmei.md)
+
 <p><span class="chinese">这些烟煤可以用来做什么？</span><span class="english">What can we do with the bituminous coal?</span></p>
 
 <p><span class="chinese">烟煤一般被视作一种质地均匀一致的产品。</span><span class="english">Bituminous coal is often treated as a consistent and homogeneous product.</span></p>

@@ -1,5 +1,7 @@
 # 价码
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiama.md)
+
 <p><span class="chinese">付你们这个价码，我们就没有竞争力了。</span><span class="english">We can't compete if we pay your price.</span></p>
 
 <p><span class="chinese">我感到，在一定程度上我们大家都有一个价码。</span><span class="english">I feel all of us have a price up to a point.</span></p>

@@ -1,5 +1,7 @@
 # inebriate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inebriate.md)
+
 <p><span class="chinese">自然的气息让我迷醉痴狂。</span><span class="english">Inebriate of air am I.</span></p>
 
 <p><span class="chinese">带着我的酒醉的灵魂向那里飞腾！</span><span class="english">To rise thither with my inebriate Soul!</span></p>

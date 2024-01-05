@@ -1,5 +1,7 @@
 # electorate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electorate.md)
+
 <p><span class="chinese">民意测验机关时时对选民进行抽样调查。</span><span class="english">Polling organizations sampled the electorate at intervals.</span></p>
 
 <p><span class="chinese">在国内，广大的选民浮躁不安，徬徨而无所适从。</span><span class="english">In the country the vast electorate was restless and adrift.</span></p>

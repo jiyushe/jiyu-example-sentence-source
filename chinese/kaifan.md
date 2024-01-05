@@ -1,5 +1,7 @@
 # 开饭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaifan.md)
+
 <p><span class="chinese">好的，我们现在开饭吧。</span><span class="english">Ok, let's eat now.</span></p>
 
 <p><span class="chinese">史科特夫人六点开饭。</span><span class="english">Scott serves dinner at six.</span></p>

@@ -1,5 +1,7 @@
 # tryout
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tryout.md)
+
 <p><span class="chinese">哈利觉得他再也不能忍受搞一场全院选拔赛了。</span><span class="english">Harry did not think he could stand another full-House tryout.</span></p>
 
 <p><span class="chinese">他召集了全国知名的画师到宫中来参加甄试。</span><span class="english">He called on all painters to take part in a tryout in his palace.</span></p>

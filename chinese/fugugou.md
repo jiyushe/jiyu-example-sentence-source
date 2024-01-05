@@ -1,5 +1,7 @@
 # 腹股沟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fugugou.md)
+
 <p><span class="chinese">放松腹股沟。</span><span class="english">Release inner groins.</span></p>
 
 <p><span class="chinese">我是乔正在抽筋的腹股沟。</span><span class="english">I am Joe's Shrinking Groin.</span></p>

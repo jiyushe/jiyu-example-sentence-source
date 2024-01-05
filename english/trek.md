@@ -1,5 +1,7 @@
 # trek
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trek.md)
+
 <p><span class="chinese">想要找星际迷航的酒瓶眼镜吗？</span><span class="english">Go for the Star Trek wine glasses.</span></p>
 
 <p><span class="chinese">他想要成为星际争霸战里的寇克舰长。</span><span class="english">He wanted to be Captain Kirk in Star Trek.</span></p>

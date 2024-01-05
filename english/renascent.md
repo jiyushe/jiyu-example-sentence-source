@@ -1,5 +1,7 @@
 # renascent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/renascent.md)
+
 <p><span class="chinese">新生的光梗蒺藜草幼苗其基部叶鞘呈紫红色。</span><span class="english">The basal part of the renascent seedling is mauve.</span></p>
 
 <p><span class="chinese">耶稣于是让他们复活，变成他们想要的样子。</span><span class="english">Jesus makes them renascent then, turn them into wanted look.</span></p>

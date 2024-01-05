@@ -1,5 +1,7 @@
 # 智者
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizhe_1.md)
+
 <p><span class="chinese">世尊啊！这是受智者所赞扬的。</span><span class="english">Praised by the wise, lord.</span></p>
 
 <p><span class="chinese">相比看智者猫也有权晋见国王。</span><span class="english">A cat may look on the king.</span></p>

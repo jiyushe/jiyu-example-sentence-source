@@ -1,5 +1,7 @@
 # 勇于
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongyu.md)
+
 <p><span class="chinese">你是个勇于创新的人吗？</span><span class="english">Are you an innovative person?</span></p>
 
 <p><span class="chinese">他是个勇于进取的经理。</span><span class="english">He was an aggressive manager.</span></p>

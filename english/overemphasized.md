@@ -1,5 +1,7 @@
 # overemphasized
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overemphasized.md)
+
 <p><span class="chinese">其重要性无论怎么强调都不过分。</span><span class="english">Its importance cannot be overemphasized.</span></p>
 
 <p><span class="chinese">我认为ACME过份强调市场份额了。</span><span class="english">I think market share has been overemphasized here at ACME.</span></p>

@@ -1,5 +1,7 @@
 # heraldry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heraldry.md)
+
 <p><span class="chinese">一种新型的标志学正在形成。</span><span class="english">Here a new style of heraldry seems to be developing.</span></p>
 
 <p><span class="chinese">纹章学或盾徽的有关纹章学或盾徽的。</span><span class="english">Heraldry of or relating to heraldry or heraldic arms.</span></p>

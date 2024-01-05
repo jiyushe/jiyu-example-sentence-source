@@ -1,5 +1,7 @@
 # clarissa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clarissa.md)
+
 <p><span class="chinese">这对克莱瑞萨已经足够了。</span><span class="english">That was enough for Clarissa.</span></p>
 
 <p><span class="chinese">我们在店里就座后，克拉丽莎拿起菜单。</span><span class="english">Once we were seated inside, Clarissa picked up her menu.</span></p>

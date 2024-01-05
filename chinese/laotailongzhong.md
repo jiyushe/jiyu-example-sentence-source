@@ -1,5 +1,7 @@
 # 老态龙钟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laotailongzhong.md)
+
 <p><span class="chinese">肯定是老态龙钟了。</span><span class="english">Must be in his dotage.</span></p>
 
 <p><span class="chinese">我是否应该让自己看上去老态龙钟好让你放下呢？</span><span class="english">Should I look older just to be put on your shelf?</span></p>

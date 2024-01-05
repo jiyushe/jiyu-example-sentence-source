@@ -1,5 +1,7 @@
 # resistivity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resistivity.md)
+
 <p><span class="chinese">可以是电阻率。</span><span class="english">It could be resistivity.</span></p>
 
 <p><span class="chinese">因此电阻率也是常数，并遵循欧姆定律。</span><span class="english">The resistivity is then constant and Ohm's law is obeyed.</span></p>

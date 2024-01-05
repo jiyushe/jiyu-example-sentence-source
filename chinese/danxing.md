@@ -1,5 +1,7 @@
 # 单行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danxing.md)
+
 <p><span class="chinese">士兵们排成单行进入阅兵场。</span><span class="english">The men filed onto the parade ground.</span></p>
 
 <p><span class="chinese">创建一个单行的文本输入控件。</span><span class="english">Creates a single-line text entry control.</span></p>

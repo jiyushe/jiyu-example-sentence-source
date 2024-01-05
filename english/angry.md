@@ -1,5 +1,7 @@
 # angry 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/angry.md)
+
 <p><span class="chinese">我很怄气。</span><span class="english">I'm so angry.</span></p>
 
 <p><span class="chinese">你感到愤怒。</span><span class="english">You feel angry.</span></p>

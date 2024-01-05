@@ -1,5 +1,7 @@
 # dormer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dormer.md)
+
 <p><span class="chinese">一圆形或椭圆形的装饰窗。</span><span class="english">A round or oval dormer window.</span></p>
 
 <p><span class="chinese">带天窗的斜屋顶连接着两边的山墙。</span><span class="english">It has a dormer roof joining both gable ends.</span></p>

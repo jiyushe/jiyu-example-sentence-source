@@ -1,5 +1,7 @@
 # arsenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arsenic.md)
+
 <p><span class="chinese">他妻子用砒霜把他毒死了。</span><span class="english">His wife poisoned him with arsenic.</span></p>
 
 <p><span class="chinese">砒霜真会让银发黑吗？</span><span class="english">Is it true the arsenic blackens silver?</span></p>

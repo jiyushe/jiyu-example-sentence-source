@@ -1,5 +1,7 @@
 # regarding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/regarding.md)
+
 <p><span class="chinese">关于这个案子他全无所闻。</span><span class="english">He knew nothing regarding the case.</span></p>
 
 <p><span class="chinese">那是质量方面的问题。</span><span class="english">It is a question regarding quality.</span></p>

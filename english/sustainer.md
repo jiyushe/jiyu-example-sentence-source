@@ -1,5 +1,7 @@
 # sustainer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sustainer.md)
+
 <p><span class="chinese">真主是我们的造物主及支持者。</span><span class="english">God is our Creator and Sustainer.</span></p>
 
 <p><span class="chinese">上帝是宇宙间万能的创造者和支撑者。</span><span class="english">B    God is the all powerful creator and sustainer of the Universe.</span></p>

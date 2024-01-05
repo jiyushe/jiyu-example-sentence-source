@@ -1,5 +1,7 @@
 # 尽人皆知
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinrenjiezhi.md)
+
 <p><span class="chinese">他们是尽人皆知的拥有大量钱财的人。</span><span class="english">They are known to be rolling in money.</span></p>
 
 <p><span class="chinese">在枫园，我的恋家是尽人皆知的。</span><span class="english">I was quite a proverb for it at Maple Grove.</span></p>

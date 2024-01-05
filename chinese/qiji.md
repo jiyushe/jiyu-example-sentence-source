@@ -1,5 +1,7 @@
 # 奇迹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiji.md)
+
 <p><span class="chinese">是的，你是一个奇迹。</span><span class="english">Yes, you are a marvel.</span></p>
 
 <p><span class="chinese">啊，这生命的奇迹。</span><span class="english">Ah, the miracle of life.</span></p>

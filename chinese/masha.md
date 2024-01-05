@@ -1,5 +1,7 @@
 # 麻纱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/masha.md)
+
 <p><span class="chinese">我们希望不久将能告知贵公司麻纱已全部售完。</span><span class="english">We hope soon to announce to you that we shall close the sale of the cambric.</span></p>
 
 <p><span class="chinese">属江苏省规模最大的纯亚麻纱生产企业。</span><span class="english">It is the maximal manufacturing enterprise on linen yarn in Jiangsu province.</span></p>

@@ -1,5 +1,7 @@
 # blamed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/blamed.md)
+
 <p><span class="chinese">有人怨棉花。</span><span class="english">Others blamed cotton.</span></p>
 
 <p><span class="chinese">斯潘塞谴责自己。</span><span class="english">Spencer blamed himself.</span></p>

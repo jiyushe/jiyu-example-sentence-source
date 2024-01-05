@@ -1,5 +1,7 @@
 # diphtheria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diphtheria.md)
+
 <p><span class="chinese">白喉抗毒素是异性蛋白。</span><span class="english">Diphtheria antitoxin is a foreign protein.</span></p>
 
 <p><span class="chinese">有狂犬病疫苗,伤寒疫苗,白喉疫苗</span><span class="english">There are vaccines for rabies, for typhoid, diphtheria.</span></p>

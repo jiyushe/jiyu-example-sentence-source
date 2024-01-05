@@ -1,5 +1,7 @@
 # yamato
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yamato.md)
+
 <p><span class="chinese">我没有试验使用大和炮。</span><span class="english">I did not try using Yamato.</span></p>
 
 <p><span class="chinese">大和号及其护航舰上超过4000名船员阵亡。</span><span class="english">Over 4,000 men who had sailed aboard Yamato and its escorts were dead.</span></p>

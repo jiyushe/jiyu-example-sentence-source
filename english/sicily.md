@@ -1,5 +1,7 @@
 # Sicily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sicily.md)
+
 <p><span class="chinese">我是个美国人，到西西里来避避风头。</span><span class="english">I'm an American, hiding in Sicily.</span></p>
 
 <p><span class="chinese">发现西西里，探索这个世界。</span><span class="english">Discover Sicily and discover the world.</span></p>

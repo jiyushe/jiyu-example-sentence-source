@@ -1,5 +1,7 @@
 # 主旨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuzhi.md)
+
 <p><span class="chinese">本书主旨亦复如是。</span><span class="english">It is the theme of this book.</span></p>
 
 <p><span class="chinese">如果是的话，它的主旨是什么？</span><span class="english">If so what is the main thrust?</span></p>

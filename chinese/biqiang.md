@@ -1,5 +1,7 @@
 # 鼻腔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biqiang.md)
+
 <p><span class="chinese">鼻腔阻塞。</span><span class="english">obstructed nasal passageway.</span></p>
 
 <p><span class="chinese">引起了你鼻腔的疼痛和压感。</span><span class="english">Pain and pressure in your sinus cavity.</span></p>

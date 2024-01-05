@@ -1,5 +1,7 @@
 # 私有制
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/siyouzhi.md)
+
 <p><span class="chinese">私有制应予以废除。</span><span class="english">Private ownership shall be abolished.</span></p>
 
 <p><span class="chinese">民生银行是中国第一家私有制银行，先为全国第七大银行。</span><span class="english">It is now the country’s seventh-largest bank.</span></p>

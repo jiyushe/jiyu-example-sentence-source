@@ -1,5 +1,7 @@
 # cherubic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cherubic.md)
+
 <p><span class="chinese">天使的羽毛降落在我的面前。</span><span class="english">The cherubic feather falls in my front.</span></p>
 
 <p><span class="chinese">期待你，盼望你，幸福的过每一时分。</span><span class="english">I like to look at you simple cherubic smile.</span></p>

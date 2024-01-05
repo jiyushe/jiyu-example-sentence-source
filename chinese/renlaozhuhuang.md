@@ -1,5 +1,7 @@
 # 人老珠黄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renlaozhuhuang.md)
+
 <p><span class="chinese">等到你人老珠黄时，谁还会在你身边。</span><span class="english">Wait until you old, who will be by your side.</span></p>
 
 <p><span class="chinese">人老珠黄，没有什么可以医治的。</span><span class="english">Men grow old, pearls grow yellow, there is no cure for it.</span></p>

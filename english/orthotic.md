@@ -1,5 +1,7 @@
 # orthotic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/orthotic.md)
+
 <p><span class="chinese">可拆卸EVA鞋垫可容纳个人的矫正。</span><span class="english">Removable EVA insole may accommodate a personal orthotic.</span></p>
 
 <p><span class="chinese">需配备全接触性的矫正鞋垫，将足底压力平均分布。</span><span class="english">Wear an orthotic insole to distribute the pressure evenly.</span></p>

@@ -1,5 +1,7 @@
 # 言无不尽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanwubujin.md)
+
 <p><span class="chinese">然而在喜欢得人面前，你言无不尽。</span><span class="english">But in front of the person you like , you can.</span></p>
 
 <p><span class="chinese">我认为我们对这一问题已差不多是言无不尽了。</span><span class="english">I think we've just about exhausted that subject.</span></p>

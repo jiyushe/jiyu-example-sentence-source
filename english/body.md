@@ -1,5 +1,7 @@
 # body
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/body.md)
+
 <p><span class="chinese">我的身体。</span><span class="english">My body.</span></p>
 
 <p><span class="chinese">我就是我的身体。</span><span class="english">I am my body.</span></p>

@@ -1,5 +1,7 @@
 # rolling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rolling.md)
+
 <p><span class="chinese">他过着安逸的生活。</span><span class="english">He is rolling in ease.</span></p>
 
 <p><span class="chinese">她过着奢华的生活。</span><span class="english">She is rolling in luxury.</span></p>

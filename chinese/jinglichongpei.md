@@ -1,5 +1,7 @@
 # 精力充沛
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinglichongpei.md)
+
 <p><span class="chinese">你看起来精力充沛.</span><span class="english">You look high-spirited.</span></p>
 
 <p><span class="chinese">他的老板是个精力充沛的人。</span><span class="english">His boss is a ten-minute man.</span></p>

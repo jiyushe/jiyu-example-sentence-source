@@ -1,5 +1,7 @@
 # ogle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ogle.md)
+
 <p><span class="chinese">与七星公园的马儿“眉目传情”。</span><span class="english">Ogle with little horse in Seven Star Park.</span></p>
 
 <p><span class="chinese">这就是为什么男人都喜欢眄李帕米拉安德森。</span><span class="english">That's why men like to ogle Pamela Lee Anderson.</span></p>

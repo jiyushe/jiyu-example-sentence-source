@@ -1,5 +1,7 @@
 # frigid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/frigid.md)
+
 <p><span class="chinese">冬天用它那寒冷的双臂锁住了我们。</span><span class="english">Winter imprisons us in its frigid arms.</span></p>
 
 <p><span class="chinese">从寒带到热带都有分布。</span><span class="english">From the frigid to tropical have distribution.</span></p>

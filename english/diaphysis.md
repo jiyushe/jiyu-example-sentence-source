@@ -1,5 +1,7 @@
 # diaphysis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diaphysis.md)
+
 <p><span class="chinese">非典型性股骨干骨折。</span><span class="english">Atypical fractures of the femoral diaphysis.</span></p>
 
 <p><span class="chinese">他刚做了肱骨干骨折的切开复位固定手术。</span><span class="english">He's just had an open reduction and fixation to the fracture of humerus diaphysis.</span></p>

@@ -1,5 +1,7 @@
 # 受窘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoujiong.md)
+
 <p><span class="chinese">不要故意教他在别人面前受窘。</span><span class="english">Don't put him on the spot.</span></p>
 
 <p><span class="chinese">他经济受窘。</span><span class="english">He is embarrassed financially.</span></p>

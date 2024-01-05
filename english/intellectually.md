@@ -1,5 +1,7 @@
 # intellectually
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intellectually.md)
+
 <p><span class="chinese">争论者损失的只是智力。</span><span class="english">It is only the intellectually lost who ever argue.</span></p>
 
 <p><span class="chinese">贾里德的生活要比山姆的更富有智慧和多元化。</span><span class="english">Jared lives a much more intellectually diverse life than Sam.</span></p>

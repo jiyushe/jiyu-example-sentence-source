@@ -1,5 +1,7 @@
 # glade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glade.md)
+
 <p><span class="chinese">调节导叶的开度。</span><span class="english">Adjust the guide glade.</span></p>
 
 <p><span class="chinese">遗世独立于那片蜂儿高鸣的林间野地。</span><span class="english">And Live alone in the bee-loud glade.</span></p>

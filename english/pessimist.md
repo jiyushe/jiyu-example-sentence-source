@@ -1,5 +1,7 @@
 # pessimist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pessimist.md)
+
 <p><span class="chinese">他保持着悲观主义。</span><span class="english">He remains a pessimist.</span></p>
 
 <p><span class="chinese">这是悲观的观点。</span><span class="english">That's the pessimist view.</span></p>

@@ -1,5 +1,7 @@
 # 要旨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaozhi_1.md)
+
 <p><span class="chinese">但全部的要旨都在于拍照。</span><span class="english">But the whole point is taking pictures.</span></p>
 
 <p><span class="chinese">这就是交流的要旨所在。</span><span class="english">This is the full "communication package.</span></p>

@@ -1,5 +1,7 @@
 # versatile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/versatile.md)
+
 <p><span class="chinese">我大牛可是全才啊。</span><span class="english">I am a versatile man.</span></p>
 
 <p><span class="chinese">电饭锅是多功能的。</span><span class="english">Rice cookers are versatile.</span></p>

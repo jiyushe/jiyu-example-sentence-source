@@ -1,5 +1,7 @@
 # 失去
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiqu.md)
+
 <p><span class="chinese">我失去了我的兄弟。</span><span class="english">I lost my brother.</span></p>
 
 <p><span class="chinese">我失去了鼻翼！</span><span class="english">I missed the nose!</span></p>

@@ -1,5 +1,7 @@
 # synthetase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/synthetase.md)
+
 <p><span class="chinese">谷氨酰胺合成酶是参与这一同化过程的关键酶。</span><span class="english">Glutarnine synthetase is a key enzyme during this process.</span></p>
 
 <p><span class="chinese">NO合成酶抑制剂可能为高NO水平的不孕妇女提供新的治疗途径。</span><span class="english">NO synthetase inhibitor may provide a new therapy for infertility women with high NO level.</span></p>

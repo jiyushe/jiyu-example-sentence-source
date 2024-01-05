@@ -1,5 +1,7 @@
 # 地方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/difang.md)
+
 <p><span class="chinese">他倒下的地方。</span><span class="english">Where he fell.</span></p>
 
 <p><span class="chinese">在一个地方用膳。</span><span class="english">Eat at a place.</span></p>

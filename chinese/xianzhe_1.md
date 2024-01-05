@@ -1,5 +1,7 @@
 # 贤哲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianzhe_1.md)
+
 <p><span class="chinese">偏安于我们的记忆之侧，偏安于贤哲长袍退色的下摆。</span><span class="english">Next to our memories, and pale hems of the masters' gown.</span></p>
 
 <p><span class="chinese">一切的问题实在不须旁人，不须什么贤哲来帮助我们去争取。</span><span class="english">We don't need other people or sage to help us to gain it.</span></p>

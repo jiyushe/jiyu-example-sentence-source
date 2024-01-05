@@ -1,5 +1,7 @@
 # 热风
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/refeng.md)
+
 <p><span class="chinese">新一代热风枪可应用在汽车维修！</span><span class="english">Hot Air Guns for Auto Repairing.</span></p>
 
 <p><span class="chinese">电扇吹出来的都是热风。</span><span class="english">All that the fan blows is hot air.</span></p>

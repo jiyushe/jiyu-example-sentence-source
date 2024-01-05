@@ -1,5 +1,7 @@
 # porker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/porker.md)
+
 <p><span class="chinese">告诉过你他会是一只小猪来的。</span><span class="english">Anyways, you're not a porker.</span></p>
 
 <p><span class="chinese">告诉过你他会是一只小猪来的。</span><span class="english">Told you it would be a porker.</span></p>

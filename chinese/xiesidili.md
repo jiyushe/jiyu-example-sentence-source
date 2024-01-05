@@ -1,5 +1,7 @@
 # 歇斯底里
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiesidili.md)
+
 <p><span class="chinese">我不能忍受歇斯底里。</span><span class="english">I can't stand hysterics.</span></p>
 
 <p><span class="chinese">杜威太太歇斯底里地大叫起来。</span><span class="english">Mrs. Dewey cried hysterically.</span></p>

@@ -1,5 +1,7 @@
 # trillion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trillion.md)
+
 <p><span class="chinese">品味使议决兆天获胜。</span><span class="english">The day that taste trillion won.</span></p>
 
 <p><span class="chinese">东电目前拥有约2万亿日元的现金流。</span><span class="english">TEPCO has a cash flow of 2 trillion yen.</span></p>

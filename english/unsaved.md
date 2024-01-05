@@ -1,5 +1,7 @@
 # unsaved
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsaved.md)
+
 <p><span class="chinese">您是否确定要复原所有未储存的变更?。</span><span class="english">Do you really want to revert all unsaved changes?</span></p>
 
 <p><span class="chinese">当前球洞有未保存的改变，要保存他们吗？</span><span class="english">There are unsaved changes to current hole. Save them?</span></p>

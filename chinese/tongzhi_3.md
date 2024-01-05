@@ -1,5 +1,7 @@
 # 统治
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongzhi_3.md)
+
 <p><span class="chinese">谁该被统治？</span><span class="english">Who should govern?</span></p>
 
 <p><span class="chinese">这是家长式统治。</span><span class="english">They are paternalist.</span></p>

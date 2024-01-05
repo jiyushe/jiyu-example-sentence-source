@@ -1,5 +1,7 @@
 # banality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/banality.md)
+
 <p><span class="chinese">这是陈腐平庸的大规模制造者。</span><span class="english">It is a mass-producer of banality.</span></p>
 
 <p><span class="chinese">在平凡中演绎着永恒。</span><span class="english">Deduce the abyss of time in the banality.</span></p>

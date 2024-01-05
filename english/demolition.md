@@ -1,5 +1,7 @@
 # demolition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demolition.md)
+
 <p><span class="chinese">我家因城市房屋拆除而搬迁了。</span><span class="english">My family has been displaced by urban demolition.</span></p>
 
 <p><span class="chinese">拆肉剔骨，将肉切成条。</span><span class="english">Eviscerate demolition meat, cut into the meat section.</span></p>

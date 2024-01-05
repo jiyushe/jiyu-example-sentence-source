@@ -1,5 +1,7 @@
 # 中报
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongbao_1.md)
+
 <p><span class="chinese">但大中报至截稿时止，未曾收到唐的答复。</span><span class="english">Chinese News has received no response from Tang as of the time of publication.</span></p>
 
 <p><span class="chinese">大中报在今年5月份对他进行采访时，Chang表示，他在找工作时每周都寄出20到30份简历。</span><span class="english">When Chinese News interviewed him in May 2011, he was sending "between 20 and 30" resumes per week.</span></p>

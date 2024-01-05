@@ -1,5 +1,7 @@
 # reproduction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reproduction.md)
+
 <p><span class="chinese">也可以买到质量很好的仿制品。</span><span class="english">good quality reproduction.</span></p>
 
 <p><span class="chinese">是繁衍后代的问题。</span><span class="english">What matters is reproduction.</span></p>

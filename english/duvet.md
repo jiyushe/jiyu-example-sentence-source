@@ -1,5 +1,7 @@
 # duvet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/duvet.md)
+
 <p><span class="chinese">一个新的羽绒被。</span><span class="english">A new duvet.</span></p>
 
 <p><span class="chinese">这是一个印有“伦敦2012”字样的绒毛铺毯。</span><span class="english">This is a London 2012 branded duvet cover</span></p>

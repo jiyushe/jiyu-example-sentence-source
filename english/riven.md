@@ -1,5 +1,7 @@
 # riven
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/riven.md)
+
 <p><span class="chinese">她的心悲恸欲碎。</span><span class="english">Her heart was riven with deep sorrow.</span></p>
 
 <p><span class="chinese">树皮从树干上被扯了下来。</span><span class="english">The bark was riven off from the trunk.</span></p>

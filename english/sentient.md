@@ -1,5 +1,7 @@
 # sentient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sentient.md)
+
 <p><span class="chinese">心是涅槃，众生皆有佛性。</span><span class="english">Every sentient being has Buddha-nature!</span></p>
 
 <p><span class="chinese">难道你想让我相信肉是有知觉的？</span><span class="english">You're asking me to believe in sentient meat.</span></p>

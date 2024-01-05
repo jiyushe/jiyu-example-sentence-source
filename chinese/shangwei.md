@@ -1,5 +1,7 @@
 # 上位
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangwei.md)
+
 <p><span class="chinese">系统上位机软件采用。</span><span class="english">PC software is made up on.</span></p>
 
 <p><span class="chinese">不要勉强地让她处于上位。</span><span class="english">Don’t just throw her on top.</span></p>

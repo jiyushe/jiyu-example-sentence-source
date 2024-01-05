@@ -1,5 +1,7 @@
 # 旋光性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanguangxing.md)
+
 <p><span class="chinese">物质的性质是由其结构决定的，旋光性也不应例外。</span><span class="english">In material world, properties are determined by structure, so is optical activity.</span></p>
 
 <p><span class="chinese">旋光性高分子在结构上具有一定的空间特异性，因而可以有多种应用。</span><span class="english">Optically active polymers, for its special chiral structure, can be used in asymmetric synthesis.</span></p>

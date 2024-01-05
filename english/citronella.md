@@ -1,5 +1,7 @@
 # citronella
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/citronella.md)
+
 <p><span class="chinese">也是采用香茅油的精华制成，安全有效。</span><span class="english">Consists of citronella its . it s safe effective.</span></p>
 
 <p><span class="chinese">点上香茅油驱蚊。</span><span class="english">Light citronella candles to keep mosquitoes at bay.</span></p>

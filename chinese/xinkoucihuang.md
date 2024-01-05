@@ -1,5 +1,7 @@
 # 信口雌黄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinkoucihuang.md)
+
 <p><span class="chinese">他老是说得信口雌黄。</span><span class="english">He is a fast talker.</span></p>
 
 <p><span class="chinese">他总是这样的信口雌黄。</span><span class="english">He is such a hip-shooter.</span></p>

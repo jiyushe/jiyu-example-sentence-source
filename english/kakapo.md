@@ -1,5 +1,7 @@
 # kakapo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kakapo.md)
+
 <p><span class="chinese">这是2014年孵化的第一只鸮鹦鹉。</span><span class="english">This chick is the first Kakapo hatched in 2014.</span></p>
 
 <p><span class="chinese">我们真的应该为枭鹦依然与人类生活在一起而欢欣鼓舞。</span><span class="english">We really should be inspired by the fact that the Kakapo is still with us.</span></p>

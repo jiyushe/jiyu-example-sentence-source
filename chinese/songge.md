@@ -1,5 +1,7 @@
 # 颂歌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songge.md)
+
 <p><span class="chinese">这是圣诞颂歌吗？</span><span class="english">Christmas carols?</span></p>
 
 <p><span class="chinese">我打算写一首颂歌。</span><span class="english">I intended  an ode.</span></p>

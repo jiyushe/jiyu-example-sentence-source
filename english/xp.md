@@ -1,5 +1,7 @@
 # xp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/xp.md)
+
 <p><span class="chinese">XP是一种方法学么？</span><span class="english">Is XP a methodology?</span></p>
 
 <p><span class="chinese">什么话也无法表达我们的感谢！</span><span class="english">How can words e XP ress our gratitude!</span></p>

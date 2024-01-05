@@ -1,5 +1,7 @@
 # partnership
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/partnership.md)
+
 <p><span class="chinese">暂且就成为合伙人博弈吧</span><span class="english">So Partnership Game.</span></p>
 
 <p><span class="chinese">百度与其有着合作关系。</span><span class="english">We had a partnership with them.</span></p>

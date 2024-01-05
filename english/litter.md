@@ -1,5 +1,7 @@
 # litter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/litter.md)
+
 <p><span class="chinese">请不要乱丢东西。</span><span class="english">Please don’t litter.</span></p>
 
 <p><span class="chinese">他们拾起垃圾。</span><span class="english">They pick up litter.</span></p>

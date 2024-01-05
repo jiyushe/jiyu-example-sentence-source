@@ -1,5 +1,7 @@
 # 木桩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muzhuang.md)
+
 <p><span class="chinese">他们在地上栽了一根木桩。</span><span class="english">They planted a stake in the ground.</span></p>
 
 <p><span class="chinese">就像错置于方孔里的圆木桩。</span><span class="english">the round pegs in the square holes.</span></p>

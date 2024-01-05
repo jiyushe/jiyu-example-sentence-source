@@ -1,5 +1,7 @@
 # lameness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lameness.md)
+
 <p><span class="chinese">通常立即出现跛行。</span><span class="english">Lameness usually is evident at once.</span></p>
 
 <p><span class="chinese">这跛足造成无法纠正。</span><span class="english">That cause of lameness cannot be corrected.</span></p>

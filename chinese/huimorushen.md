@@ -1,5 +1,7 @@
 # 讳莫如深
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huimorushen.md)
+
 <p><span class="chinese">讳莫如深是有原因的。</span><span class="english">It has reason to be diffident.</span></p>
 
 <p><span class="chinese">中国于外汇储备经营之道一向讳莫如深。</span><span class="english">China manages its reserves with considerable secrecy.</span></p>

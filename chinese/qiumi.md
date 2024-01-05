@@ -1,5 +1,7 @@
 # 球迷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiumi.md)
+
 <p><span class="chinese">利物浦队的球迷唱著我的名字</span><span class="english">The Kop sing my name</span></p>
 
 <p><span class="chinese">而我是一名扬基队球迷。</span><span class="english">And I'm a Yankees fan.</span></p>

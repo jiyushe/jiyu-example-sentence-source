@@ -1,5 +1,7 @@
 # rutherford
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rutherford.md)
+
 <p><span class="chinese">卢瑟福用的是阿尔法粒子。</span><span class="english">Rutherford used alpha particles.</span></p>
 
 <p><span class="chinese">卢瑟福尝试了不同的金属。</span><span class="english">And, Rutherford tried various metals.</span></p>

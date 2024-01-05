@@ -1,5 +1,7 @@
 # nicol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nicol.md)
+
 <p><span class="chinese">最有名的是尼科耳棱镜，1828年由苏格兰物理学家尼科耳所发明。</span><span class="english">The best known is the Nicol prism, invented in 1828 by the Scottish physicist William Nicol.</span></p>
 
 <p><span class="chinese">斯蒂夫·尼科尔认定，新英格兰体育将帮助利物浦在不久的将来把曾经的荣誉带回安菲尔德。</span><span class="english">Steve Nicol believes New England Sports Ventures would help bring the glory days back to Anfield.</span></p>

@@ -1,5 +1,7 @@
 # 头面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/toumian.md)
+
 <p><span class="chinese">人中。人，指本穴位在头面天地人三部中的人部。</span><span class="english">This points to accommodate the three prominent in person.</span></p>
 
 <p><span class="chinese">终于，头面政治人物表现出了一些愤怒之情。</span><span class="english">And leading political figures are, at long last, showing some outrage.</span></p>

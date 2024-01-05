@@ -1,5 +1,7 @@
 # interne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interne.md)
+
 <p><span class="chinese">是的，很多，而且我经常上到深夜。</span><span class="english">Yes, many, I often surf the Interne late at night.</span></p>
 
 <p><span class="chinese">增进亚洲博物馆、美术馆网络资源的共享。</span><span class="english">Increase sharing of Interne resources between museums and art museums of Asia.</span></p>

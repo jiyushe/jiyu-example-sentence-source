@@ -1,5 +1,7 @@
 # reinhold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reinhold.md)
+
 <p><span class="chinese">个体性思想是理解尼布尔整个思想体系的一个关键所在。</span><span class="english">The conception of individuality is the key to understand the whole system of Reinhold Niebuhr's thought.</span></p>
 
 <p><span class="chinese">42岁的意大利登山家莱茵霍尔德-梅斯内首次完成该目标。</span><span class="english">The first person to scale all 14 peaks was Italian Reinhold Messner, who completed the task in 1986 at age 42.</span></p>

@@ -1,5 +1,7 @@
 # expressionism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/expressionism.md)
+
 <p><span class="chinese">表现主义是戏剧的主要流派之一。</span><span class="english">Expressionism is one of the branches of drama.</span></p>
 
 <p><span class="chinese">野兽派也可以被看作是一个模式的表现。</span><span class="english">Fauvism can also be seen as a mode of Expressionism.</span></p>

@@ -1,5 +1,7 @@
 # 馄饨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huntun.md)
+
 <p><span class="chinese">就像意式馄饨。</span><span class="english">It's like ravioli.</span></p>
 
 <p><span class="chinese">我想要来一碗馄饨。</span><span class="english">I'd like a bowl of wonton soup.</span></p>

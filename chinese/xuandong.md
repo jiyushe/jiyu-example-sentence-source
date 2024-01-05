@@ -1,5 +1,7 @@
 # 旋动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuandong.md)
+
 <p><span class="chinese">旋动火轮，火焰马上就会燃烧。</span><span class="english">Spun the wheel and have instant flame.</span></p>
 
 <p><span class="chinese">地狱是啊，我们是两个都下面随着旋动。</span><span class="english">Hells yeah, we're both down with the swirl.</span></p>

@@ -1,5 +1,7 @@
 # 坚不可摧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianbukecui.md)
+
 <p><span class="chinese">爱是坚不可摧的。</span><span class="english">Love is indestructible.</span></p>
 
 <p><span class="chinese">我觉得坚不可摧，觉得自由。</span><span class="english">I felt indestructible and free.</span></p>

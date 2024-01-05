@@ -1,5 +1,7 @@
 # 交朋友
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaopengyou.md)
+
 <p><span class="chinese">和有正能量的人交朋友。</span><span class="english">Make friends with positive energy.</span></p>
 
 <p><span class="chinese">没有，一旦我在那儿安家会交朋友的。</span><span class="english">I have settledC. I'll be settled D.</span></p>

@@ -1,5 +1,7 @@
 # buzzard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buzzard.md)
+
 <p><span class="chinese">他们跟着秃鹰走。</span><span class="english">They followed the buzzard.</span></p>
 
 <p><span class="chinese">在你的窗子外边唱歌的鸟…是只乌鸦。</span><span class="english">The bird singing outside your window is a buzzard.</span></p>

@@ -1,5 +1,7 @@
 # debtor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/debtor.md)
+
 <p><span class="chinese">扣押一个负债人的工资…</span><span class="english">Garnishee a debtor 's wages.</span></p>
 
 <p><span class="chinese">负债者是债主的奴隶。</span><span class="english">A debtor is a slave to his creditor.</span></p>

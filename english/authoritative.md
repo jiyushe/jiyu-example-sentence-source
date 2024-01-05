@@ -1,5 +1,7 @@
 # authoritative
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/authoritative.md)
+
 <p><span class="chinese">她的声音干脆利落，具有权威性。</span><span class="english">Her voice was crisp and authoritative.</span></p>
 
 <p><span class="chinese">但是有几页重要的记录是应该阅读的。</span><span class="english">But having a few pages of authoritative note do exist.</span></p>

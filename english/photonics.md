@@ -1,5 +1,7 @@
 # photonics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/photonics.md)
+
 <p><span class="chinese">他们的项研究发表于自然光子学杂志。</span><span class="english">Their work appears in the journal Nature Photonics.</span></p>
 
 <p><span class="chinese">凯特威光电子公司具有一支全方位的高素质人才队伍。</span><span class="english">Kaite Wei photonics company with a full range of high-quality talent.</span></p>

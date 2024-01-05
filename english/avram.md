@@ -1,5 +1,7 @@
 # avram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/avram.md)
+
 <p><span class="chinese">罗曼已经指定阿弗拉姆接替伟大的穆里尼奥。</span><span class="english">Roman has appointed Avram as the replacement for mighty Mourinho.</span></p>
 
 <p><span class="chinese">切尔西已经委任阿夫兰姆-格兰特为他们的新任足球主管。</span><span class="english">Chelsea have appointed Avram Grant as their new director of football.</span></p>

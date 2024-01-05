@@ -1,5 +1,7 @@
 # franco
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/franco.md)
+
 <p><span class="chinese">佛朗哥将军。</span><span class="english">Franco. Right.</span></p>
 
 <p><span class="chinese">佛朗哥复函，表示他始终不渝的忠诚。</span><span class="english">Franco replied, expressing his undying loyalty.</span></p>

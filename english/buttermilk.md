@@ -1,5 +1,7 @@
 # buttermilk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buttermilk.md)
+
 <p><span class="chinese">小猪喝脱脂乳而且很爱喝。</span><span class="english">The piglets had the buttermilk and loved it.</span></p>
 
 <p><span class="chinese">取一只大的浅碗，放入洋葱和酪乳，搅拌。</span><span class="english">In a large shallow bowl, toss onions with buttermilk.</span></p>

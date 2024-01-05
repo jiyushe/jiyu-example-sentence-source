@@ -1,5 +1,7 @@
 # 奸细
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianxi_1.md)
+
 <p><span class="chinese">叛徒！你做奸细告发了我们。</span><span class="english">Traitor! You ratted on us.</span></p>
 
 <p><span class="chinese">奸细混进了会场。</span><span class="english">The spy wormed in the meeting-place.</span></p>

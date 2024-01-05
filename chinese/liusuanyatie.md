@@ -1,5 +1,7 @@
 # 硫酸亚铁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liusuanyatie.md)
+
 <p><span class="chinese">如果腹痛服用硫酸亚铁和布洛芬。</span><span class="english">Ferrous sulfate and ibuprofen are prescribed for pain.</span></p>
 
 <p><span class="chinese">以七水硫酸亚铁为原料，采用改良二步复分解法新工艺制硫酸钾。</span><span class="english">A new producing technology of potassium sulfate from ferrous sulfate is reported.</span></p>

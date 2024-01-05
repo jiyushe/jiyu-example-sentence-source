@@ -1,5 +1,7 @@
 # 要诀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaojue.md)
+
 <p><span class="chinese">实践是取得任何技能的要诀。</span><span class="english">Practice is the key to any skill.</span></p>
 
 <p><span class="chinese">上海家庭加强孩子教育的四大要诀</span><span class="english">Four tips for Shanghai schooling at home</span></p>

@@ -1,5 +1,7 @@
 # hemagglutination
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hemagglutination.md)
+
 <p><span class="chinese">D-甘露糖不能抑制血凝。</span><span class="english">D-mannose did not inhibit hemagglutination.</span></p>
 
 <p><span class="chinese">某些病毒的血凝反应需要一定的PH值。</span><span class="english">Hemagglutination of some viruses has a particular PH requirement.</span></p>

@@ -1,5 +1,7 @@
 # tact
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tact.md)
+
 <p><span class="chinese">我们佩服她的外交手腕。</span><span class="english">We admire her for her diplomatic tact.</span></p>
 
 <p><span class="chinese">总是练习着彬彬有礼且老成练达。</span><span class="english">Exercise courtesy and tact at all times.</span></p>

@@ -1,5 +1,7 @@
 # sociality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sociality.md)
+
 <p><span class="chinese">期刊固有其自然性与社会性。</span><span class="english">The periodical has its naturality and sociality.</span></p>
 
 <p><span class="chinese">高职教育具有社会性和教育性。</span><span class="english">The higher vocational education possesses the sociality and edutainment.</span></p>

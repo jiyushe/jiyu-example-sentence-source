@@ -1,5 +1,7 @@
 # 放牧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fangmu.md)
+
 <p><span class="chinese">这是由于过度放牧造成的。</span><span class="english">It's caused by overgrazing.</span></p>
 
 <p><span class="chinese">如一朵小花放牧艳红！</span><span class="english">Grazing red such as a flower!</span></p>

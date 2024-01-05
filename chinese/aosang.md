@@ -1,5 +1,7 @@
 # 懊丧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aosang.md)
+
 <p><span class="chinese">他因失败而感到懊丧。</span><span class="english">He was chagrined at his failure.</span></p>
 
 <p><span class="chinese">她因错过聚会而面露懊丧之色。</span><span class="english">Her face showed her dejection at missing the party.</span></p>

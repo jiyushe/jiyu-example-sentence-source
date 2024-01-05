@@ -1,5 +1,7 @@
 # intrathoracic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intrathoracic.md)
+
 <p><span class="chinese">而肿瘤起源于胸内膈神经是罕见的。</span><span class="english">However, tumors originating from the intrathoracic phrenic nerve are rare.</span></p>
 
 <p><span class="chinese">目的为临床诊断胸内结节病减少误诊误治提供依据。</span><span class="english">Objective To highlight the diagnosis and treatment of intrathoracic sarcoidosis.</span></p>

@@ -1,5 +1,7 @@
 # spectre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spectre.md)
+
 <p><span class="chinese">想起了可恶的德国幽灵——吸血鬼。</span><span class="english">Of the foul German spectre -- the Vampyre.</span></p>
 
 <p><span class="chinese">瘫痪故障的幽灵也将阻止他的实现。</span><span class="english">So did the spectre of crippling breakdowns.</span></p>

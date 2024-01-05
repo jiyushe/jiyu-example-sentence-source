@@ -1,5 +1,7 @@
 # 牧马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muma_1.md)
+
 <p><span class="chinese">画角声中，牧马频来去。</span><span class="english">Draw the sound of the horn, Wrangler and frequency.</span></p>
 
 <p><span class="chinese">王，朱，和雪松认为，牧马是一种隐喻。</span><span class="english">Wang Wei, Zhu He and Sui Xuesong consider the horse as a metaphor.</span></p>

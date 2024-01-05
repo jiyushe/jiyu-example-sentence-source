@@ -1,5 +1,7 @@
 # 初版
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuban_1.md)
+
 <p><span class="chinese">而这本是最初版，完全照手稿印出来的。</span><span class="english">This is the original scroll version.</span></p>
 
 <p><span class="chinese">初版很快告罄。</span><span class="english">The first edition was soon exhausted.</span></p>

@@ -1,5 +1,7 @@
 # satiny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/satiny.md)
+
 <p><span class="chinese">柔软的娃娃。</span><span class="english">Be a satiny supple doll.</span></p>
 
 <p><span class="chinese">丝质的。而且你知道吗?。</span><span class="english">And satiny. And you know what?</span></p>

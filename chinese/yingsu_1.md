@@ -1,5 +1,7 @@
 # 罂粟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingsu_1.md)
+
 <p><span class="chinese">罂粟经不起移植。</span><span class="english">Poppies do not transplant well.</span></p>
 
 <p><span class="chinese">由多个小孔开裂的蒴果，如罂粟。</span><span class="english">A capsule opening by pores, as in a poppy.</span></p>

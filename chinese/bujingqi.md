@@ -1,5 +1,7 @@
 # 不景气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bujingqi.md)
+
 <p><span class="chinese">玩具业现在不景气。</span><span class="english">The toy industry is in a slump.</span></p>
 
 <p><span class="chinese">美国的书店并不景气。</span><span class="english">Bookstores in the US are not doing well.</span></p>

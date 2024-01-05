@@ -1,5 +1,7 @@
 # severance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/severance.md)
+
 <p><span class="chinese">是一位神祇裁定他们隔绝！</span><span class="english">A god, a god their severance ruled!</span></p>
 
 <p><span class="chinese">你知道公司给的资遣费有几个月吗?。</span><span class="english">Do you know how many months severance pay the company offers?</span></p>

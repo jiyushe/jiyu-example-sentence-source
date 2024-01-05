@@ -1,5 +1,7 @@
 # theravada
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/theravada.md)
+
 <p><span class="chinese">南传上座部传统的僧伽日。</span><span class="english">Sangha Day in Theravada tradition.</span></p>
 
 <p><span class="chinese">参观白塔，它是云南一个非常著名的佛教建筑之一。</span><span class="english">White Pagoda, one of the most famous Theravada Buildings in Yunnan, also known.</span></p>

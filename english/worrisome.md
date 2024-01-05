@@ -1,5 +1,7 @@
 # worrisome
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/worrisome.md)
+
 <p><span class="chinese">这里有一些令人不安的信号。</span><span class="english">There are worrisome signs of that.</span></p>
 
 <p><span class="chinese">但是这里的预知是让人烦恼的。</span><span class="english">But the prognosis here is worrisome.</span></p>

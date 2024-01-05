@@ -1,5 +1,7 @@
 # 无穷大
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuqiongda.md)
+
 <p><span class="chinese">但是两个数字都是无穷大！</span><span class="english">But both are infinity!</span></p>
 
 <p><span class="chinese">开路时电阻为无穷大。</span><span class="english">Has infinite resistance when open.</span></p>

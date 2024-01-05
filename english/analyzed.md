@@ -1,5 +1,7 @@
 # analyzed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/analyzed.md)
+
 <p><span class="chinese">收集分析125例NEC的临床资料。</span><span class="english">We analyzed 125 cases of NEC.</span></p>
 
 <p><span class="chinese">结果采用方差分析。</span><span class="english">The results were analyzed with ANOVA.</span></p>

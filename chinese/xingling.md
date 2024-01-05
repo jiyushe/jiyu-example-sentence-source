@@ -1,5 +1,7 @@
 # 性灵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingling.md)
+
 <p><span class="chinese">一片水浸润的性灵。</span><span class="english">An capital moistened with water.</span></p>
 
 <p><span class="chinese">性情与灵趣是性灵在袁文中的展现。</span><span class="english">Sentiments and inspiration are embodiment of Spirituality.</span></p>

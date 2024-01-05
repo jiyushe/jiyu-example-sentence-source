@@ -1,5 +1,7 @@
 # stove
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stove.md)
+
 <p><span class="chinese">这暖炉烧油。</span><span class="english">This stove burns oil.</span></p>
 
 <p><span class="chinese">没有烧木柴的炉子？</span><span class="english">No wood-burning stove?</span></p>

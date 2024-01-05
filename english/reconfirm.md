@@ -1,5 +1,7 @@
 # reconfirm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reconfirm.md)
+
 <p><span class="chinese">我需要再确认吗？</span><span class="english">Do I have to reconfirm?</span></p>
 
 <p><span class="chinese">我必须再确认一下。</span><span class="english">I have to reconfirm it.</span></p>

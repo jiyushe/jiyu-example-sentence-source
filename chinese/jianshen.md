@@ -1,5 +1,7 @@
 # 艰深
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianshen.md)
+
 <p><span class="chinese">这是一段艰深难学的课程。</span><span class="english">This is hard lesson to learn.</span></p>
 
 <p><span class="chinese">因此，首先我们要为我们的孩子提供最艰深。</span><span class="english">So first we owe to our children the most demanding.</span></p>

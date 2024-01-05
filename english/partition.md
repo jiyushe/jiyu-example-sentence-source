@@ -1,5 +1,7 @@
 # partition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/partition.md)
+
 <p><span class="chinese">分区表。</span><span class="english">Partition tables.</span></p>
 
 <p><span class="chinese">我应当何时划分？</span><span class="english">When should I partition?</span></p>

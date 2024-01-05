@@ -1,5 +1,7 @@
 # lymphoblastic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lymphoblastic.md)
+
 <p><span class="chinese">急性淋巴细胞性白血病在老年人中是一种罕见疾病。</span><span class="english">Acute lymphoblastic leukaemia is a rare disease in the elderly.</span></p>
 
 <p><span class="chinese">别名有，急性淋巴母细胞性白血病和急性淋巴性白血病。</span><span class="english">Other names for ALL are acute lymphoblastic leukemia and acute lymphoid leukemia.</span></p>

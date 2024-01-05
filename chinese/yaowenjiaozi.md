@@ -1,5 +1,7 @@
 # 咬文嚼字
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaowenjiaozi.md)
+
 <p><span class="chinese">她有时还会咬文嚼字地说起她的“目标”。</span><span class="english">And she sometimes talked about her “goals.”</span></p>
 
 <p><span class="chinese">这个看上去可能有点咬文嚼字，但是它很重要。</span><span class="english">This may look like just semantics, but it matters.</span></p>

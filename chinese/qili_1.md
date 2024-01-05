@@ -1,5 +1,7 @@
 # 奇丽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qili_1.md)
+
 <p><span class="chinese">多么平静奇丽的国度呀！</span><span class="english">How pegeniusful and marvelous the country is!</span></p>
 
 <p><span class="chinese">气候温和，四季都有奇丽的景色。</span><span class="english">A mild climate, the seasons have Qili scenery.</span></p>

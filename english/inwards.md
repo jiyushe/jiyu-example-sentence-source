@@ -1,5 +1,7 @@
 # inwards
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inwards.md)
+
 <p><span class="chinese">门是朝里开的。</span><span class="english">The door opened inwards.</span></p>
 
 <p><span class="chinese">那扇沉重的门向内转去。</span><span class="english">The heavy door swung inwards.</span></p>

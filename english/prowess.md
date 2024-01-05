@@ -1,5 +1,7 @@
 # prowess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prowess.md)
+
 <p><span class="chinese">如果练到这地步，就是高手了」。</span><span class="english">One becomes a master with this prowess.</span></p>
 
 <p><span class="chinese">人们已由嫉妒转变到钦佩他们的杰出才干。</span><span class="english">Jealousy gave way to admiration of thir prowess.</span></p>

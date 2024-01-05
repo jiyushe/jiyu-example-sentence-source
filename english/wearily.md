@@ -1,5 +1,7 @@
 # wearily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wearily.md)
+
 <p><span class="chinese">苏带着疲倦，遵命拉起窗帘。</span><span class="english">Wearily Sue obeyed.</span></p>
 
 <p><span class="chinese">他们疲倦的吮吸着小圆石。</span><span class="english">They wearily sucked their pebbles.</span></p>

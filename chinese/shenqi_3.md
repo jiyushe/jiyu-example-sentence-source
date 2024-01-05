@@ -1,5 +1,7 @@
 # 肾气
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenqi_3.md)
+
 <p><span class="chinese">稳定期以肾气不固、痰邪内伏为主要病因，以防哮汤调治。</span><span class="english">The key pathogenesis in alleviate period is phlegm, which Huanxiao Decoction is used.</span></p>
 
 <p><span class="chinese">女性每月失血过多，同时肩负孕育、生产，都会损伤肾气。</span><span class="english">Every month, while women bleed to inoculation, production, will shoulder the kidney damage.</span></p>

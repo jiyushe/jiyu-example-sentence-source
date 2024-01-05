@@ -1,5 +1,7 @@
 # dispersed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dispersed.md)
+
 <p><span class="chinese">队长驱散了他们。</span><span class="english">The captain dispersed them.</span></p>
 
 <p><span class="chinese">风驱散了雾。</span><span class="english">The wind dispersed the fog.</span></p>

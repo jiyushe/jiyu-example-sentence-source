@@ -1,5 +1,7 @@
 # weightlessness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weightlessness.md)
+
 <p><span class="chinese">无重状态是零重力。</span><span class="english">The weightlessness is zero gravity.</span></p>
 
 <p><span class="chinese">两个半的航班将提供5分钟的失重状态。</span><span class="english">The 2.5-hour flights will offer five minutes of weightlessness.</span></p>

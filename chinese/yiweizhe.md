@@ -1,5 +1,7 @@
 # 意味着
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiweizhe.md)
+
 <p><span class="chinese">结束意味着开始？</span><span class="english">Wut do u mean?</span></p>
 
 <p><span class="chinese">那将意味着什么？</span><span class="english">What will it mean?</span></p>

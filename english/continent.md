@@ -1,5 +1,7 @@
 # continent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/continent.md)
+
 <p><span class="chinese">朔雪度炎洲。</span><span class="english">Big snow degree scorching continent.</span></p>
 
 <p><span class="chinese">关关雎鸠，在河之洲。</span><span class="english">Pass osprey, continent in the river.</span></p>

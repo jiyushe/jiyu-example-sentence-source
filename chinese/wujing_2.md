@@ -1,5 +1,7 @@
 # 芜菁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wujing_2.md)
+
 <p><span class="chinese">维廉，芜菁在哪儿？</span><span class="english">Wilhelm, where is the turnip?</span></p>
 
 <p><span class="chinese">当芜菁甘蓝也没有了，你吃稀粥。</span><span class="english">When the turnips are gone, you eat gruel.</span></p>

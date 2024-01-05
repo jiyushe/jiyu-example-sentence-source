@@ -1,5 +1,7 @@
 # hold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hold.md)
+
 <p><span class="chinese">举行家庭辩论赛。</span><span class="english">Hold debates.</span></p>
 
 <p><span class="chinese">抱紧她！</span><span class="english">Hold her firm!</span></p>

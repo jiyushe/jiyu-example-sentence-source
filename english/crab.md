@@ -1,5 +1,7 @@
 # crab
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crab.md)
+
 <p><span class="chinese">你喜欢吃螃蟹吗？</span><span class="english">Do you like crab?</span></p>
 
 <p><span class="chinese">一只螃蟹有十只脚。</span><span class="english">A crab has ten feet.</span></p>

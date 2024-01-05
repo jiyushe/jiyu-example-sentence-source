@@ -1,5 +1,7 @@
 # 营地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingdi.md)
+
 <p><span class="chinese">什么营地？</span><span class="english">What camps?</span></p>
 
 <p><span class="chinese">现在我们回到了营地。</span><span class="english">Now we’re back at camp.</span></p>

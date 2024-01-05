@@ -1,5 +1,7 @@
 # 南纬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanwei.md)
+
 <p><span class="chinese">航船的纬度为南纬二十度。</span><span class="english">The latitude of the ship is twenty degrees south.</span></p>
 
 <p><span class="chinese">靠近北纬度或南纬度的无风的地带或区域。</span><span class="english">Beijing is close to the fortieth parallel of north latitude.</span></p>

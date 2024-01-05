@@ -1,5 +1,7 @@
 # talmud
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/talmud.md)
+
 <p><span class="chinese">上帝在神智学的犹太法典。</span><span class="english">God in the Theosophy of the Talmud.</span></p>
 
 <p><span class="chinese">犹太人研究了塔尔穆德为一个伟大的原因有很多。</span><span class="english">Jews have studied the Talmud for a great variety of reasons.</span></p>

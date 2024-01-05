@@ -1,5 +1,7 @@
 # 攀爬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/panpa.md)
+
 <p><span class="chinese">瑟曦开始攀爬。</span><span class="english">Cersei began to climb.</span></p>
 
 <p><span class="chinese">更加经济性的攀爬。</span><span class="english">Climb with more economy.</span></p>

@@ -1,5 +1,7 @@
 # overexposure
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overexposure.md)
+
 <p><span class="chinese">过度撞伤的女士，安杰罗认为，艾米退席。</span><span class="english">Angelo says. Bruised by overexposure , Ms. Angelo believes, Amy withdrew.</span></p>
 
 <p><span class="chinese">过度接触紫外线C会引起角膜损伤，常常被称为电光性眼炎。</span><span class="english">Overexposure to UV-C can cause corneal burns, commonly termed welders' flash.</span></p>

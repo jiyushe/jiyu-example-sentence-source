@@ -1,5 +1,7 @@
 # 耳熟能详
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ershunengxiang.md)
+
 <p><span class="chinese">这个故事对我许多客户来说都耳熟能详。</span><span class="english">This story jingles bells for many of my clients.</span></p>
 
 <p><span class="chinese">一首耳熟能详的欧洲民歌，旋律优美动听。</span><span class="english">A familiar European folk song with beautiful melody.</span></p>

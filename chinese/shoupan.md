@@ -1,5 +1,7 @@
 # 收盘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoupan.md)
+
 <p><span class="chinese">标准普尔500指数收盘涨4.7点，至1076.18点。</span><span class="english">The S&P added 4.7 points to 1076.19.</span></p>
 
 <p><span class="chinese">上证综合指数周二以2031.68点收盘。</span><span class="english">The index ended Thursday at 2031.68.</span></p>

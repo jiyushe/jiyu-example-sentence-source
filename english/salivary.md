@@ -1,5 +1,7 @@
 # salivary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/salivary.md)
+
 <p><span class="chinese">然后，他们复制并移动到唾液腺。</span><span class="english">Then they replicate and move to the salivary glands.</span></p>
 
 <p><span class="chinese">我的眼睛水大汗现在一样，我的唾液腺。</span><span class="english">My eyes water profusely now, as do my salivary glands.</span></p>

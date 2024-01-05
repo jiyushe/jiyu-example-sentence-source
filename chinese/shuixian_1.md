@@ -1,5 +1,7 @@
 # 水线
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuixian_1.md)
+
 <p><span class="chinese">我船水线以下有漏隙。</span><span class="english">I have leak below water line.</span></p>
 
 <p><span class="chinese">我船水线下正在进水。</span><span class="english">I am flooding below water line.</span></p>

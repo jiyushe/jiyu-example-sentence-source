@@ -1,5 +1,7 @@
 # henhouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/henhouse.md)
+
 <p><span class="chinese">于是“狐狸溜进了皮克斯的鸡舍”</span><span class="english">Then a fox snuck into Pixar’s henhouse.</span></p>
 
 <p><span class="chinese">你是把狐狸放在鸡舍里。</span><span class="english">You're putting the fox into the henhouse.</span></p>

@@ -1,5 +1,7 @@
 # mildness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mildness.md)
+
 <p><span class="chinese">临床证明温和。</span><span class="english">Clinically proven mildness.</span></p>
 
 <p><span class="chinese">千万别错过如此性质温和清洁力又好的产品哦。</span><span class="english">You can't beat this for mildness and cleansing power.</span></p>

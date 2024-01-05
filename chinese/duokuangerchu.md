@@ -1,5 +1,7 @@
 # 夺眶而出
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duokuangerchu.md)
+
 <p><span class="chinese">当母亲看见我时，她的泪水夺眶而出。</span><span class="english">When Mother saw me, she burst into tears.</span></p>
 
 <p><span class="chinese">独自坐在车中，脚倚着刹车，泪水不禁夺眶而出。</span><span class="english">Seated in the car, foot on the break, I free my tear.</span></p>

@@ -1,5 +1,7 @@
 # 刻着
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kezhe.md)
+
 <p><span class="chinese">罗伯特指着冰面上刻着的一条线说，“你就站在这里。</span><span class="english">Just stand here.</span></p>
 
 <p><span class="chinese">石头上刻着一个人名。</span><span class="english">A name was chiselled into the stone.</span></p>

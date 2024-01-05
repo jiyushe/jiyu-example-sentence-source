@@ -1,5 +1,7 @@
 # yamal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yamal.md)
+
 <p><span class="chinese">他位于Yamai半岛。</span><span class="english">It is located on the Yamal Peninsula.</span></p>
 
 <p><span class="chinese">亚马尔的天然气首先是在苏联时期得到确认。</span><span class="english">Gas deposits were first identified in Yamal during Soviet times.</span></p>

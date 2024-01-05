@@ -1,5 +1,7 @@
 # 消退
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaotui_2.md)
+
 <p><span class="chinese">这些恶梦正在消退。</span><span class="english">Those nightmares are fading.</span></p>
 
 <p><span class="chinese">因为我知道激情还没有消退。</span><span class="english">Cause i know this flame isnt dying.</span></p>

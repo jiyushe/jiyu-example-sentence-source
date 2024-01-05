@@ -1,5 +1,7 @@
 # pleura
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pleura.md)
+
 <p><span class="chinese">肺鳞状细胞癌由肺门向胸膜扩散的又一例子。</span><span class="english">This is another squamous cell carcinoma that extends from hilum to pleura.</span></p>
 
 <p><span class="chinese">结论内科胸腔镜检查在临床胸膜疾病诊治中有实用价值。</span><span class="english">It is more practical value for thoracoscope to diagnosis the disease of pleura.</span></p>

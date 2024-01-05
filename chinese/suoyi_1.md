@@ -1,5 +1,7 @@
 # 蓑衣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suoyi_1.md)
+
 <p><span class="chinese">你知道这种蓑衣的制作材料是什么吗？</span><span class="english">What is this coir raincoat made of?</span></p>
 
 <p><span class="chinese">江南的蓑衣飘扬在诗意中。</span><span class="english">Coir raincoat of the south dances in the poetry.</span></p>

@@ -1,5 +1,7 @@
 # 转动
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuandong.md)
+
 <p><span class="chinese">你会转动方向盘吗？</span><span class="english">Would you turn?</span></p>
 
 <p><span class="chinese">和转动能一样。</span><span class="english">Same with rotations.</span></p>

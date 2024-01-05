@@ -1,5 +1,7 @@
 # sadism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sadism.md)
+
 <p><span class="chinese">怀疑主义是受难灵魂的自虐。</span><span class="english">Skepticism is the sadism of embittered souls.</span></p>
 
 <p><span class="chinese">以这个意义来说，虐待狂仅仅是受虐狂的不被承认。</span><span class="english">In this sense, sadism is merely the disavowal of masochism.</span></p>

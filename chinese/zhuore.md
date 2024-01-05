@@ -1,5 +1,7 @@
 # 灼热
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuore.md)
+
 <p><span class="chinese">胃灼热还是哮喘？</span><span class="english">Heartburn or asthma?</span></p>
 
 <p><span class="chinese">它还能造成胃灼热。</span><span class="english">It can also cause heartburn.</span></p>

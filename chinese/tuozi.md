@@ -1,5 +1,7 @@
 # 坨子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuozi.md)
+
 <p><span class="chinese">松辽盆地南部海坨子地区扶余油层与萨尔图油层中有机包裹体有较大差异。</span><span class="english">The organic inclusions of Fuyu and Saertu oil layers in Haituozi region have a great difference.</span></p>
 
 <p><span class="chinese">于是，二马一驴，一行三人，沿着曲曲弯弯的小径向沙坨子深处出发了。</span><span class="english">So the three of them, two on horseback, one on a donkey, set out along a twisting path into the dunes.</span></p>

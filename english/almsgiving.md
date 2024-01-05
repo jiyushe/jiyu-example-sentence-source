@@ -1,5 +1,7 @@
 # almsgiving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/almsgiving.md)
+
 <p><span class="chinese">不要，我不要怜悯的施舍。</span><span class="english">No, I do not need the pitying almsgiving.</span></p>
 
 <p><span class="chinese">火辣的红唇渴望的等待你的施舍。</span><span class="english">The fire hot red lips longing for your almsgiving.</span></p>

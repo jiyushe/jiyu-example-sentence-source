@@ -1,5 +1,7 @@
 # iteration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/iteration.md)
+
 <p><span class="chinese">开始下一次迭代。</span><span class="english">Start the next iteration.</span></p>
 
 <p><span class="chinese">也就是迭代，或者循环。</span><span class="english">Which is iteration. Or loops.</span></p>

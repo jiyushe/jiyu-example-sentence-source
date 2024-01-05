@@ -1,5 +1,7 @@
 # 危房
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weifang.md)
+
 <p><span class="chinese">扩大农村危房改造试点范围。</span><span class="english">We will expand the pilot program for renovating dilapidated houses in rural areas.</span></p>
 
 <p><span class="chinese">从2001年开始，国家实施对全国中小学危房改造工程。</span><span class="english">Since 2001, a school building renovation scheme has been implemented throughout the country.</span></p>

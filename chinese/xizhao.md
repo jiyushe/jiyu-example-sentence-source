@@ -1,5 +1,7 @@
 # 夕照
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xizhao.md)
+
 <p><span class="chinese">就在那时，我的视线一下触到了夕照。</span><span class="english">It was then when I caught sight of the sunset.</span></p>
 
 <p><span class="chinese">最近地铁站是10号线的金台夕照站。</span><span class="english">Take line 10 to Jintai Xizhao Metro station, Exit D.</span></p>

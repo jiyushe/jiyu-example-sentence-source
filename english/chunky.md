@@ -1,5 +1,7 @@
 # chunky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chunky.md)
+
 <p><span class="chinese">她是一个红头发的矮胖的人！</span><span class="english">She's a chunky redhead!</span></p>
 
 <p><span class="chinese">置于食品搅拌机内，搅成浓汤。</span><span class="english">Blitz in a food processor to a chunky puree.</span></p>

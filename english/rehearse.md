@@ -1,5 +1,7 @@
 # rehearse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rehearse.md)
+
 <p><span class="chinese">否则你会没法排练的。</span><span class="english">You'll never be able to rehearse.</span></p>
 
 <p><span class="chinese">告诉我你在我身上有用过心吗?。</span><span class="english">Just tell me did you rehearse on me?</span></p>

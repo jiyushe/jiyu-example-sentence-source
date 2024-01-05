@@ -1,5 +1,7 @@
 # innermost
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/innermost.md)
+
 <p><span class="chinese">他向她倾吐了内心深处的秘密。</span><span class="english">He confided his innermost secrets to her.</span></p>
 
 <p><span class="chinese">同样地，让我们从最里面的表达式开始。</span><span class="english">Again, let's start in the innermost expression.</span></p>

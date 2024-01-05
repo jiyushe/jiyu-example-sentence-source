@@ -1,5 +1,7 @@
 # 左方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zuofang_1.md)
+
 <p><span class="chinese">道路折向左方。</span><span class="english">The road angles to the left.</span></p>
 
 <p><span class="chinese">那球突然转向左方。</span><span class="english">The ball swerved to the left.</span></p>

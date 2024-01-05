@@ -1,5 +1,7 @@
 # chastise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chastise.md)
+
 <p><span class="chinese">永远不要因为恋爱而惩罚自己。</span><span class="english">Never chastise yourself for falling in love.</span></p>
 
 <p><span class="chinese">故此我要责打他，把他释放了。有古卷在此有。</span><span class="english">I will therefore chastise him, and release him.</span></p>

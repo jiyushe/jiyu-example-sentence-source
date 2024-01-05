@@ -1,5 +1,7 @@
 # 同盟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongmeng.md)
+
 <p><span class="chinese">如今他们有了同盟。</span><span class="english">Now they have allies.</span></p>
 
 <p><span class="chinese">水蜘蛛就是我们的同盟。</span><span class="english">Backswimmers are our allies.</span></p>

@@ -1,5 +1,7 @@
 # flaring
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flaring.md)
+
 <p><span class="chinese">留心那门炮，它有炮尾焰。</span><span class="english">Mind that gun,it's flaring back.</span></p>
 
 <p><span class="chinese">介绍了导管弯曲扩口模的结构特点及模具工作过程。</span><span class="english">Introduced the die design of tube necking and flaring die.</span></p>

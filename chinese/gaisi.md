@@ -1,5 +1,7 @@
 # 该死
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gaisi.md)
+
 <p><span class="chinese">谁才是该死的男人？</span><span class="english">Who’s the damn man?</span></p>
 
 <p><span class="chinese">这个该死的达德是谁？</span><span class="english">Who the fuck is Dodd?</span></p>

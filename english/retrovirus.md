@@ -1,5 +1,7 @@
 # retrovirus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retrovirus.md)
+
 <p><span class="chinese">艾滋病毒是一种特殊类型的病毒被称为一反转录病毒。</span><span class="english">HIV is a special type of virus known as a retrovirus.</span></p>
 
 <p><span class="chinese">目的探索逆转录病毒载体在基因治疗乙型肝炎中的应用。</span><span class="english">Objective To investigate the effectivness of recombined retrovirus vector in gene therapy.</span></p>

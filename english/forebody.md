@@ -1,5 +1,7 @@
 # forebody
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forebody.md)
+
 <p><span class="chinese">在房子的前半部分有一个厨房。</span><span class="english">In the forebody there is a kitchen.</span></p>
 
 <p><span class="chinese">发展了一种基于分析法的高超声速乘波构型飞行器前体设计方法。</span><span class="english">A new method of quickly generating hypersonic waverider forebody configurations was developed.</span></p>

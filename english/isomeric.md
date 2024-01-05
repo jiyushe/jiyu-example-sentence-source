@@ -1,5 +1,7 @@
 # isomeric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isomeric.md)
+
 <p><span class="chinese">使…异构化使…变成一种异构的形式。</span><span class="english">To become changed into an isomeric form.</span></p>
 
 <p><span class="chinese">为异构系统的数据交换模式进行了有益的探索。</span><span class="english">The paper explores data exchange mode for isomeric system profitably.</span></p>

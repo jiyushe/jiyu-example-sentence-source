@@ -1,5 +1,7 @@
 # ras
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ras.md)
+
 <p><span class="chinese">无法加载RAS，请重新配置拨号网络。</span><span class="english">Can't load RAS. Please reconfigure Dial-Up Networking.</span></p>
 
 <p><span class="chinese">RAS同样可以通过概要文件来扩展和定制。</span><span class="english">RAS can also be extended and customized via a profile.</span></p>

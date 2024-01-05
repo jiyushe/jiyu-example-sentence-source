@@ -1,5 +1,7 @@
 # 肠套叠
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changtaodie.md)
+
 <p><span class="chinese">小肠肠套叠需做肠切除术。</span><span class="english">Small bowel intussusception may require resection.</span></p>
 
 <p><span class="chinese">于是，研究人员继续探究疫苗接种与肠套叠的关系。</span><span class="english">Researchers continued to study the link between vaccination and intussusception.</span></p>

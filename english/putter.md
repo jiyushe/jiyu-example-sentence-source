@@ -1,5 +1,7 @@
 # putter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/putter.md)
+
 <p><span class="chinese">你挥动推杆的快慢。</span><span class="english">How fast you swing the putter.</span></p>
 
 <p><span class="chinese">来，看看他的家伙事的大小。</span><span class="english">Look at the size of his putter.</span></p>

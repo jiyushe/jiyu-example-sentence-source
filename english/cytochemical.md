@@ -1,5 +1,7 @@
 # cytochemical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cytochemical.md)
+
 <p><span class="chinese">目的探讨低氧时小鼠肝细胞的细胞化学变化。</span><span class="english">Objective To study the cytochemical changes of hepatocytes in mice exposed to hypoxia.</span></p>
 
 <p><span class="chinese">诱导培养细胞碱性磷酸酶染色，骨钙素免疫组化染色阳性。</span><span class="english">The hMSCs in induced culture showed cytochemical staining for ALP and osteocalcin expression.</span></p>

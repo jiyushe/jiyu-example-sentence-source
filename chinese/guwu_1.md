@@ -1,5 +1,7 @@
 # 谷物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guwu_1.md)
+
 <p><span class="chinese">考虑下整粒谷物食品。</span><span class="english">Consider whole grains.</span></p>
 
 <p><span class="chinese">他们给谷物催肥。</span><span class="english">They feed out the corn.</span></p>

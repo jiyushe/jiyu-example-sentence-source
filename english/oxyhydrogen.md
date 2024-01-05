@@ -1,5 +1,7 @@
 # oxyhydrogen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oxyhydrogen.md)
+
 <p><span class="chinese">如果显示0-200A可调，机器正在产生氢氧气，工作正常。</span><span class="english">If indicating 0-200A controlled , Machine is making oxyhydrogen gas, working well.</span></p>
 
 <p><span class="chinese">本文论述了体内循环式氢氧焊割机的设计原理和方案。</span><span class="english">The paper presents all the development substance of oxyhydrogen flame welding and cutting machine.</span></p>

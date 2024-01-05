@@ -1,5 +1,7 @@
 # 花花绿绿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huahualvlv.md)
+
 <p><span class="chinese">我们从中国人手里拿走商品，换给他们一堆花花绿绿的纸头。</span><span class="english">We take their goods and give them paper in return.</span></p>
 
 <p><span class="chinese">店主们把这条街装饰得花花绿绿地过圣诞节。</span><span class="english">The shopkeepers glammed up the street for Christmas.</span></p>

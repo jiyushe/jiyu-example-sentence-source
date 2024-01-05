@@ -1,5 +1,7 @@
 # stockade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stockade.md)
+
 <p><span class="chinese">小羊羔被放在围栏里养着。</span><span class="english">The lambs were kept in the stockade.</span></p>
 
 <p><span class="chinese">羊被栅栏圈着。</span><span class="english">The sheep were surrounded by stockade.</span></p>

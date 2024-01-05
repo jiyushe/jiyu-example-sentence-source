@@ -1,5 +1,7 @@
 # reheater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reheater.md)
+
 <p><span class="chinese">提出了预防屏式再热器爆管的有效措施。</span><span class="english">The measures to prevent reheater tube failure are presented.</span></p>
 
 <p><span class="chinese">过热器，再热器各部位均无超温现象。</span><span class="english">Each part of superheater and reheater shall not be over temperature.</span></p>

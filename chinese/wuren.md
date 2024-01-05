@@ -1,5 +1,7 @@
 # 无人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuren.md)
+
 <p><span class="chinese">无人看守的桌面。</span><span class="english">Unattended desktop.</span></p>
 
 <p><span class="chinese">在无人知晓的时候。</span><span class="english">When none will know.</span></p>

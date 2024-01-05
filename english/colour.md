@@ -1,5 +1,7 @@
 # colour 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/colour.md)
+
 <p><span class="chinese">让我们来填色！</span><span class="english">Let's colour it!</span></p>
 
 <p><span class="chinese">我喜欢它的颜色。</span><span class="english">I like the colour.</span></p>

@@ -1,5 +1,7 @@
 # armchair
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/armchair.md)
+
 <p><span class="chinese">我坐在扶手椅上。</span><span class="english">I sat down in the armchair.</span></p>
 
 <p><span class="chinese">他坐在扶手椅里打盹儿。</span><span class="english">He dozed off in the armchair.</span></p>

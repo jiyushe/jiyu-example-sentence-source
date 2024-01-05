@@ -1,5 +1,7 @@
 # nonreactive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonreactive.md)
+
 <p><span class="chinese">再取一只浅磁容器，放入鱼肉片。</span><span class="english">Place fillets in a shallow, nonreactive container.</span></p>
 
 <p><span class="chinese">两种方法中的流体为气体或任意不发生化学反应的流体。</span><span class="english">The fluid used with either method may be gas or any nonreactive liquid.</span></p>

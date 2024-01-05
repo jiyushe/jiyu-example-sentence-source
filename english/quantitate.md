@@ -1,5 +1,7 @@
 # quantitate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quantitate.md)
+
 <p><span class="chinese">需要定量你的ICAT采样中的蛋白质吗？</span><span class="english">Need to quantitate proteins in your ICAT sample?</span></p>
 
 <p><span class="chinese">EROD可以作为检测环境中NB污染水平的生物标志物。</span><span class="english">EROD could be used as an index to quantitate NB in environment detection.</span></p>

@@ -1,5 +1,7 @@
 # otorhinolaryngology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/otorhinolaryngology.md)
+
 <p><span class="chinese">中华耳鼻咽喉头颈外科杂志编辑委员会。</span><span class="english">Editorial Board of Chinese Journal of Otorhinolaryngology Head and Neck Surgery.</span></p>
 
 <p><span class="chinese">喉源性咳嗽为耳鼻喉科门诊的常见病。</span><span class="english">Laryngeal cough is a common illness in out-patient clinic of otorhinolaryngology.</span></p>

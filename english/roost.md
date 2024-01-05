@@ -1,5 +1,7 @@
 # roost
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/roost.md)
+
 <p><span class="chinese">血雉喜选择灌木夜栖。</span><span class="english">Blood Pheasant preferred to roost in shrub.</span></p>
 
 <p><span class="chinese">那“闹”声把一群栖息着的鸟吓得都飞走了。</span><span class="english">The noise alarmed the whole roost into flight.</span></p>

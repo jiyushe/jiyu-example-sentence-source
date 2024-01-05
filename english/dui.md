@@ -1,5 +1,7 @@
 # dui
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dui.md)
+
 <p><span class="chinese">许多车祸都是因于酒后驾车造成的。</span><span class="english">Many an accident is caused by DUI.</span></p>
 
 <p><span class="chinese">我当我得到了我的第五个酒醉驾驶的时候它中止了吗。</span><span class="english">I had it suspended when I got my fifth DUI.</span></p>

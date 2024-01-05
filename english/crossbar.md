@@ -1,5 +1,7 @@
 # crossbar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/crossbar.md)
+
 <p><span class="chinese">“横披”贴于门媚的横木上。</span><span class="english">"HengPi" stuck on the door the crossbar of mei.</span></p>
 
 <p><span class="chinese">贝尔实验室纵横中央局交换机问世。</span><span class="english">Bell introduces crossbar central office switches.</span></p>

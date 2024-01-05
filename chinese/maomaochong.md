@@ -1,5 +1,7 @@
 # 毛毛虫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/maomaochong.md)
+
 <p><span class="chinese">他说，“毛毛虫被完全分解成汁水，然后再重新组合起来。”</span><span class="english">And then it starts again.</span></p>
 
 <p><span class="chinese">毛毛虫这个角色不好！</span><span class="english">The Caterpillar is a loser part.</span></p>

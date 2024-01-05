@@ -1,5 +1,7 @@
 # 骂街
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/majie.md)
+
 <p><span class="chinese">喝酒，性行为，骂街。</span><span class="english">Drink, have sex, swear.</span></p>
 
 <p><span class="chinese">她总是抱怨和骂街。</span><span class="english">She always complains and scolds.</span></p>

@@ -1,5 +1,7 @@
 # reallocate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reallocate.md)
+
 <p><span class="chinese">所以如果出现抛压,就能将现金重新投资到有关类股中.</span><span class="english">So if there is a sell-off, we can reallocate that cash into the relevant sectors.</span></p>
 
 <p><span class="chinese">这些产品可以对市场信号作出反应，当市场波动增加时，可以重新自动防范风险。</span><span class="english">These can respond to market signals to reallocate exposures automatically as volatility rises.</span></p>

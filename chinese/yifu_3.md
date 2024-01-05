@@ -1,5 +1,7 @@
 # 姨父
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yifu_3.md)
+
 <p><span class="chinese">这时弗农姨父好像突然吃了豹子胆。</span><span class="english">Uncle Vernon suddenly found his voice.</span></p>
 
 <p><span class="chinese">我的表第约翰是我姨父的孩子。</span><span class="english">My cousin John is the child of my uncle.</span></p>

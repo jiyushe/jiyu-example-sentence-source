@@ -1,5 +1,7 @@
 # battle 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/battle.md)
+
 <p><span class="chinese">它叫性别大战</span><span class="english">Battle of the Sexes.</span></p>
 
 <p><span class="chinese">这战役也结束了。</span><span class="english">The battle was over.</span></p>

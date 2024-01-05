@@ -1,5 +1,7 @@
 # huge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/huge.md)
+
 <p><span class="chinese">哦，它真够大个的。</span><span class="english">Oh, it’s huge.</span></p>
 
 <p><span class="chinese">太浪费时间啦。</span><span class="english">HUGE time waster.</span></p>

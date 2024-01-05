@@ -1,5 +1,7 @@
 # mile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mile.md)
+
 <p><span class="chinese">只剩一英里了！</span><span class="english">Only one mile left!</span></p>
 
 <p><span class="chinese">大约有一英里远。</span><span class="english">That was about a mile.</span></p>

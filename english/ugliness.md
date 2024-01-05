@@ -1,5 +1,7 @@
 # ugliness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ugliness.md)
+
 <p><span class="chinese">大家应当如何定义汽车的丑陋呢？</span><span class="english">How should one define automotive ugliness?</span></p>
 
 <p><span class="chinese">美只是一张皮，但丑陋却深入骨。</span><span class="english">Beauty is skin deep, but ugliness is to the bone.</span></p>

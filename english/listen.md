@@ -1,5 +1,7 @@
 # listen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/listen.md)
+
 <p><span class="chinese">不，听我说。</span><span class="english">No, listen.</span></p>
 
 <p><span class="chinese">我们将听取意见。</span><span class="english">We’ll listen.</span></p>

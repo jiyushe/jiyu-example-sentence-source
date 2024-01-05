@@ -1,5 +1,7 @@
 # 参差不齐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cencibuqi.md)
+
 <p><span class="chinese">这男孩把房间弄得参差不齐的。</span><span class="english">The boy made the room at sixes and sevens.</span></p>
 
 <p><span class="chinese">他只是看起来像参差不齐少年向我。</span><span class="english">He just looks like a spotty teenager to me.</span></p>

@@ -1,5 +1,7 @@
 # bushel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bushel.md)
+
 <p><span class="chinese">谷物论蒲式耳出售。</span><span class="english">Grains are sold by the bushel.</span></p>
 
 <p><span class="chinese">三或四加仑/蒲式耳/年。</span><span class="english">Three or four gallons per bushel per year.</span></p>

@@ -1,5 +1,7 @@
 # 鲜嫩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiannen.md)
+
 <p><span class="chinese">那块牛排鲜嫩多汁。</span><span class="english">The steaks were tender and juicy.</span></p>
 
 <p><span class="chinese">多吃鲜嫩的蔬菜和生果。</span><span class="english">Eat more fresh vegetables and fruit.</span></p>

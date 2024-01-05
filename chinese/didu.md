@@ -1,5 +1,7 @@
 # 帝都
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/didu.md)
+
 <p><span class="chinese">在帝都酒店参观时，准备美食佳肴。</span><span class="english">Prepare for a culinary delicacy when visiting The Royal Park Hotel.</span></p>
 
 <p><span class="chinese">尧舜时期，长治是“冀州之域，属帝都畿内”。</span><span class="english">Yao and Shun period, Changzhi are "Jizhou of the domain, is a Royal Park Guinea."</span></p>

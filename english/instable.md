@@ -1,5 +1,7 @@
 # instable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/instable.md)
+
 <p><span class="chinese">两极天生就不稳定而且是危险的。</span><span class="english">Bipolarity is born dangerous and instable.</span></p>
 
 <p><span class="chinese">卵砾石地层是钻探工程中常见的一种典型的不稳定地层。</span><span class="english">Gravel strata is a kind of typical instable layer in drilling engineering.</span></p>

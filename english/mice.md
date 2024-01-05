@@ -1,5 +1,7 @@
 # mice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mice.md)
+
 <p><span class="chinese">我怕老鼠。</span><span class="english">I'm afraid of mice.</span></p>
 
 <p><span class="chinese">那些小老鼠也都爬开了。</span><span class="english">The mice crept away again.</span></p>

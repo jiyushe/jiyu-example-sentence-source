@@ -1,5 +1,7 @@
 # serra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/serra.md)
+
 <p><span class="chinese">这里是塞拉达莱巴，安哥拉的地标。</span><span class="english">This is Serra da Leba, a landmark in Angola.</span></p>
 
 <p><span class="chinese">在你的维持阶段中，你可以在撒拉咏赞上放置一个词句指示物。</span><span class="english">During your upkeep, you may put a verse counter on Serra 's Hymn.</span></p>

@@ -1,5 +1,7 @@
 # 真个
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenge.md)
+
 <p><span class="chinese">搿个真个老难理解否？</span><span class="english">Is it hard understanding?</span></p>
 
 <p><span class="chinese">好像真个列车都屏住了呼吸。</span><span class="english">it is as if the train were holding its breath.</span></p>

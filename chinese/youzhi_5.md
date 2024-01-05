@@ -1,5 +1,7 @@
 # 釉质
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youzhi_5.md)
+
 <p><span class="chinese">去矿化继续，釉质开始崩解，一旦釉质受到破坏，牙齿将不可自行修复。</span><span class="english">Demineralization continues. Enamel starts to break down.</span></p>
 
 <p><span class="chinese">磷灰石是牙齿釉质和骨矿的主要成分。</span><span class="english">One form of apatite is a major element in tooth enamel and bone mineral.</span></p>

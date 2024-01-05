@@ -1,5 +1,7 @@
 # 收音机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouyinji.md)
+
 <p><span class="chinese">什么样的收音机？</span><span class="english">What kind of radio?</span></p>
 
 <p><span class="chinese">我们嘲笑着FM收音机。</span><span class="english">We laughed at FM radio.</span></p>

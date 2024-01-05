@@ -1,5 +1,7 @@
 # bibliographical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bibliographical.md)
+
 <p><span class="chinese">书目引用方式亦有其严格规范。</span><span class="english">Bibliographical citations also are tightly structured.</span></p>
 
 <p><span class="chinese">书目记录的质量至关重要。</span><span class="english">The quality of bibliographical records is very important.</span></p>

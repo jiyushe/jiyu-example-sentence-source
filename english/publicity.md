@@ -1,5 +1,7 @@
 # publicity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/publicity.md)
+
 <p><span class="chinese">公开宣传中是这么讲的。</span><span class="english">Or so the publicity tells us.</span></p>
 
 <p><span class="chinese">噢，你在公关部吗？</span><span class="english">Oh, are you in the Publicity Department?</span></p>

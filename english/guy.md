@@ -1,5 +1,7 @@
 # guy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guy.md)
+
 <p><span class="chinese">就是这个家伙了。</span><span class="english">It's this guy.</span></p>
 
 <p><span class="chinese">穿红衣服的那个男生来回答</span><span class="english">The guy in red.</span></p>

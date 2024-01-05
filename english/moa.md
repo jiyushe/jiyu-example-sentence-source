@@ -1,5 +1,7 @@
 # moa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/moa.md)
+
 <p><span class="chinese">巨大无翼鸟群飞越纽西兰南岛。</span><span class="english">The moa browsed in giant wingless herds across the southern island.</span></p>
 
 <p><span class="chinese">中国气象电台预警显示，若旱情继续，更多的小麦作物将死亡。</span><span class="english">The MOA warned that more wheat crop could perish if drought continues to linger.</span></p>

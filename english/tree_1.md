@@ -1,5 +1,7 @@
 # tree 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tree_1.md)
+
 <p><span class="chinese">离树还过去点。</span><span class="english">Past the tree.</span></p>
 
 <p><span class="chinese">这是一棵木棉树。</span><span class="english">It's a kapok tree.</span></p>

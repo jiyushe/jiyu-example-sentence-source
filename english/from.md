@@ -1,5 +1,7 @@
 # from 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/from.md)
+
 <p><span class="chinese">南京人。</span><span class="english">From Nanjing.</span></p>
 
 <p><span class="chinese">火从天降！</span><span class="english">Fire from sky!</span></p>

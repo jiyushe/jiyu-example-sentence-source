@@ -1,5 +1,7 @@
 # 透明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/touming_1.md)
+
 <p><span class="chinese">链接必须是透明的。</span><span class="english">Links must be transparent.</span></p>
 
 <p><span class="chinese">透明集群POJO。</span><span class="english">Cluster POJOs transparently.</span></p>

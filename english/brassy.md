@@ -1,5 +1,7 @@
 # brassy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brassy.md)
+
 <p><span class="chinese">那么，Brassy医生是怎样嘱咐他的病人的呢？</span><span class="english">So what does Dr. Brassy tell his patients?</span></p>
 
 <p><span class="chinese">那些厚脸皮的男孩儿朝着我们伸舌头。</span><span class="english">The brassy boys put their tongues out at us.</span></p>

@@ -1,5 +1,7 @@
 # culm
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/culm.md)
+
 <p><span class="chinese">这一时期的种种进展在巴赫和亨德尔时达到了顶峰。</span><span class="english">These developments culm in ated in the works of J. Bach and G.</span></p>
 
 <p><span class="chinese">对春小麦叶鞘、叶片和茎水势的变化情况进行了比较。</span><span class="english">Comparison of the water potentials of leaf, sheath and culm has done.</span></p>

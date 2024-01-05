@@ -1,5 +1,7 @@
 # dominoes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dominoes.md)
+
 <p><span class="chinese">然而这份多米诺骨牌并不会倒地如此之快。</span><span class="english">Yet the dominoes may not fall so fast.</span></p>
 
 <p><span class="chinese">他们搭建了三百四十万个多米诺骨牌。</span><span class="english">They set up over 3.40 million dominoes.</span></p>

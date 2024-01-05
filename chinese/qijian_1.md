@@ -1,5 +1,7 @@
 # 旗舰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qijian_1.md)
+
 <p><span class="chinese">此款车型是目前四驱驱动的旗舰。</span><span class="english">It is currently Toyota's flagship 4WD.</span></p>
 
 <p><span class="chinese">他曾管理过该公司的旗舰品牌。</span><span class="english">He had previously managed its flagship brand.</span></p>

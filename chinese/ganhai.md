@@ -1,5 +1,7 @@
 # 干咳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ganhai.md)
+
 <p><span class="chinese">干咳、咳嗽、打喷嚏。</span><span class="english">Hacking. Coughing.</span></p>
 
 <p><span class="chinese">他常连续几星期地干咳。</span><span class="english">He has had a hacking cough for weeks.</span></p>

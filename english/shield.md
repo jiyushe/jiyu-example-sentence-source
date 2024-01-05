@@ -1,5 +1,7 @@
 # shield
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shield.md)
+
 <p><span class="chinese">盾牌猛击。</span><span class="english">Shield Slam ftl.</span></p>
 
 <p><span class="chinese">我有铁窗门做盾。</span><span class="english">I have a screen-door shield.</span></p>

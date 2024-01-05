@@ -1,5 +1,7 @@
 # vigor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vigor.md)
+
 <p><span class="chinese">人能在体力比得过汤姆。</span><span class="english">No one can match up to Tom in vigor.</span></p>
 
 <p><span class="chinese">我自感体力已退化了。</span><span class="english">I definitely felt a deterioration in vigor.</span></p>

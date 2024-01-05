@@ -1,5 +1,7 @@
 # chronicle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chronicle.md)
+
 <p><span class="chinese">他编写了这部战争史。</span><span class="english">He wrote the chronicle of China.</span></p>
 
 <p><span class="chinese">每块崩碎剥落的石头都是一部编年史。</span><span class="english">Every mouldering stone was a chronicle.</span></p>

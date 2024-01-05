@@ -1,5 +1,7 @@
 # 疾走
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jizou.md)
+
 <p><span class="chinese">晚起床的人必须整天都要急步疾走。</span><span class="english">He that rises late, must trot all day.</span></p>
 
 <p><span class="chinese">比方说，你可以尝试着每天疾走，参加瑜伽课，用新鲜水果代替饼干，或和朋友分享大餐。</span><span class="english">Try a yoga class. Trade cookies for fresh fruit.</span></p>

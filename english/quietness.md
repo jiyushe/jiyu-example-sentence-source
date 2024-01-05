@@ -1,5 +1,7 @@
 # quietness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quietness.md)
+
 <p><span class="chinese">安静，吸收。</span><span class="english">Quietness and absorption bring the dew.</span></p>
 
 <p><span class="chinese">圣经提到耶稣很重视安静时刻。</span><span class="english">The Bible talks about Jesus treasuring quietness.</span></p>

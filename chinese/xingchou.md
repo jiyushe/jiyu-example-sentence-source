@@ -1,5 +1,7 @@
 # 腥臭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingchou.md)
+
 <p><span class="chinese">腥臭的海绵船不断的开了进来</span><span class="english">The frowsy sponge boats keep coming in</span></p>
 
 <p><span class="chinese">他闻得见那气味，很强烈，热烘烘腥臭腥臭的。</span><span class="english">He could smell it, strong and hot and rank.</span></p>

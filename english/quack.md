@@ -1,5 +1,7 @@
 # quack
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quack.md)
+
 <p><span class="chinese">是的，它是。它呱呱叫。</span><span class="english">Does it quack? Yes, it does.</span></p>
 
 <p><span class="chinese">江湖骗子受到了猛烈的质问。</span><span class="english">The quack was stormed with questions.</span></p>

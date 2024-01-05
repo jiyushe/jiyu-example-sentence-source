@@ -1,5 +1,7 @@
 # ringgit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ringgit.md)
+
 <p><span class="chinese">雇主连一零吉都没给我。</span><span class="english">The employer never gave even one ringgit.</span></p>
 
 <p><span class="chinese">现在，马币可以与人民币直接兑换。</span><span class="english">The Malaysian ringgit can now trade directly with the yuan.</span></p>

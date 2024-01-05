@@ -1,5 +1,7 @@
 # 一团漆黑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yituanqihei.md)
+
 <p><span class="chinese">刹车发出了刺耳的声音，接着便是一团漆黑。</span><span class="english">There was the grinding of brakes—and then darkness.</span></p>
 
 <p><span class="chinese">周围一团漆黑，她找不到一条道路。</span><span class="english">In the inky blackness she could find no way around it.</span></p>

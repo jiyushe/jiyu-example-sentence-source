@@ -1,5 +1,7 @@
 # felicia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/felicia.md)
+
 <p><span class="chinese">陈靓瑄觉得回到学校当学生的日子很棒很棒！</span><span class="english">Felicia Chin feels great to be back in school!</span></p>
 
 <p><span class="chinese">费丽莎·西姆斯说，她的女儿们是“两个正常的小女孩。”</span><span class="english">Felicia Simms says her daughters are "two normal little girls."</span></p>

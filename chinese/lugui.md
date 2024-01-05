@@ -1,5 +1,7 @@
 # 路轨
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lugui.md)
+
 <p><span class="chinese">对，这意味着这段路轨将近有九英里那么长。</span><span class="english">Yes, that means there’s nearly nine miles of track here.</span></p>
 
 <p><span class="chinese">沿着深河峡谷和高山通行的路轨。</span><span class="english">Ride the rails along deep river canyons and over high mountain passes.</span></p>

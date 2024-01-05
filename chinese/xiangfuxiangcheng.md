@@ -1,5 +1,7 @@
 # 相辅相成
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangfuxiangcheng.md)
+
 <p><span class="chinese">这两个方面是相辅相成的。</span><span class="english">The two go hand-in-hand.</span></p>
 
 <p><span class="chinese">新旧观念可以相辅相成。</span><span class="english">Old and new ideas may exist side by side.</span></p>

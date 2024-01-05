@@ -1,5 +1,7 @@
 # doris
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/doris.md)
+
 <p><span class="chinese">我叫多丽丝，嗨。</span><span class="english">I'm Doris. Hi.</span></p>
 
 <p><span class="chinese">我的朋友都叫我多丽丝。</span><span class="english">My friends call me Doris.</span></p>

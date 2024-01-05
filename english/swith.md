@@ -1,5 +1,7 @@
 # swith
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/swith.md)
+
 <p><span class="chinese">把灯打开。</span><span class="english">Swith on the light.</span></p>
 
 <p><span class="chinese">你最好先检查开关。</span><span class="english">You'd better check the swith first.</span></p>

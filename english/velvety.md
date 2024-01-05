@@ -1,5 +1,7 @@
 # velvety
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/velvety.md)
+
 <p><span class="chinese">它柔软光滑而且颜色鲜艳。</span><span class="english">It's velvety and the colour is brilliant.</span></p>
 
 <p><span class="chinese">它柔软光滑而且颜色鲜…</span><span class="english">It's velvety and the colour is brilliant.</span></p>

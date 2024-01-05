@@ -1,5 +1,7 @@
 # armament
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/armament.md)
+
 <p><span class="chinese">武器包括两门7.62mm加特林机枪。</span><span class="english">The armament are two 7.62mm miniguns.</span></p>
 
 <p><span class="chinese">国家的武装过程需要几年。</span><span class="english">Thecountry 's armament will take years.</span></p>

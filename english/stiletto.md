@@ -1,5 +1,7 @@
 # stiletto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stiletto.md)
+
 <p><span class="chinese">然后用电钻在槽口处打孔。</span><span class="english">Be in stiletto in notch with electric drill next.</span></p>
 
 <p><span class="chinese">雕孔绣花，匹长百米！</span><span class="english">Over 100 meters piece length stiletto embroidery!</span></p>

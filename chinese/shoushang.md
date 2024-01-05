@@ -1,5 +1,7 @@
 # 受伤
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoushang.md)
+
 <p><span class="chinese">受伤是荣誉？</span><span class="english">Honor in bruises?</span></p>
 
 <p><span class="chinese">你的鼻子受伤了吗？</span><span class="english">Does your noes hurt?</span></p>

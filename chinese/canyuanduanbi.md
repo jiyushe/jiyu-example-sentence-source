@@ -1,5 +1,7 @@
 # 残垣断壁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/canyuanduanbi.md)
+
 <p><span class="chinese">只遗留下残垣断壁的地窖</span><span class="english">And left no trace but the cellar walls</span></p>
 
 <p><span class="chinese">那么再向那残垣断壁靠近一点，一旦一根圆木。</span><span class="english">Then came a bit of stubbed ground, once a wood.</span></p>

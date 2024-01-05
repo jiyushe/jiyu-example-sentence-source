@@ -1,5 +1,7 @@
 # 圈圈
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quanquan.md)
+
 <p><span class="chinese">刷刷牙，绕圈圈。</span><span class="english">Brush my teeth, round and round.</span></p>
 
 <p><span class="chinese">终于当第九十九个小石子被放进圈圈的?。</span><span class="english">The ninetieth one came in at last.</span></p>

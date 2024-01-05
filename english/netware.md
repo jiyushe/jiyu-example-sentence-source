@@ -1,5 +1,7 @@
 # netware
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/netware.md)
+
 <p><span class="chinese">介绍一个DOS操作系统的菜单程序。</span><span class="english">DOS menu programmed by using Novell Netware principles is presented.</span></p>
 
 <p><span class="chinese">热爱计算机技术，熟悉计算机软件、硬件及网络。</span><span class="english">Good knowledge and experience of computer hardware, software and netware.</span></p>

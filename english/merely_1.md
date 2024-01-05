@@ -1,5 +1,7 @@
 # merely 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/merely_1.md)
+
 <p><span class="chinese">马萨则仅仅排在第13名。</span><span class="english">Masa merely arranges at 13th.</span></p>
 
 <p><span class="chinese">仅只是眼睑，如此琐细。</span><span class="english">Merely lid. How trivial it is.</span></p>

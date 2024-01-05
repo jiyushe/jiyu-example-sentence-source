@@ -1,5 +1,7 @@
 # 试用
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyong_3.md)
+
 <p><span class="chinese">这是试用版本。</span><span class="english">This is trialware version.</span></p>
 
 <p><span class="chinese">这个新办法正在试用。</span><span class="english">This new method is on trial.</span></p>

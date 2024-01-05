@@ -1,5 +1,7 @@
 # exponent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exponent.md)
+
 <p><span class="chinese">由于这是个指数形式。</span><span class="english">These are in the exponent.</span></p>
 
 <p><span class="chinese">你可以说出几个卡巴迪的代表吗？</span><span class="english">Can you name one kabaddi exponent?</span></p>

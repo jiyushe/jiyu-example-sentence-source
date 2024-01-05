@@ -1,5 +1,7 @@
 # 虚名
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuming.md)
+
 <p><span class="chinese">他们的欢乐不过是虚名。</span><span class="english">Where boist'rous joy is but a name.</span></p>
 
 <p><span class="chinese">宁负虚名渡青春。</span><span class="english">Rather negative in name transition youth.</span></p>

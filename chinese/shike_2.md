@@ -1,5 +1,7 @@
 # 食客
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shike_2.md)
+
 <p><span class="chinese">富人经常被食客所包围。</span><span class="english">Rich people are often surrounded by hangers-on.</span></p>
 
 <p><span class="chinese">两名食客在午餐桌上发言热烈。</span><span class="english">Two diners at the lunch table speak animatedly.</span></p>

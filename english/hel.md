@@ -1,5 +1,7 @@
 # hel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hel.md)
+
 <p><span class="chinese">这偶尔也是你可以提供的最好的帮助。</span><span class="english">It is also occasionally the best hel can give.</span></p>
 
 <p><span class="chinese">当我学数学有困难时，他经常帮助我。</span><span class="english">He often hel me with maths when I have difficulty in it.</span></p>

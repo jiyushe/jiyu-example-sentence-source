@@ -1,5 +1,7 @@
 # spermatozoa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spermatozoa.md)
+
 <p><span class="chinese">又有六支精子管打翻了。</span><span class="english">Six more test-tubes of spermatozoa were upset.</span></p>
 
 <p><span class="chinese">我们发现了血细胞，发现了精子，发现了我们体内环境中的微生物。</span><span class="english">We discovered blood cells. We discovered spermatozoa.</span></p>

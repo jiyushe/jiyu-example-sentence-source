@@ -1,5 +1,7 @@
 # recognized
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recognized.md)
+
 <p><span class="chinese">我从未被认出来过。</span><span class="english">I never ever get recognized.</span></p>
 
 <p><span class="chinese">她已不再认识它了。</span><span class="english">She no longer recognized it.</span></p>

@@ -1,5 +1,7 @@
 # wrestler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wrestler.md)
+
 <p><span class="chinese">摔跤运动员扭住了对手。</span><span class="english">The wrestler tackled his opponent.</span></p>
 
 <p><span class="chinese">那名摔跤手摔翻了对手。</span><span class="english">The wrestler toppled his opponent.</span></p>

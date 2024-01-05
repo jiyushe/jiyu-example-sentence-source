@@ -1,5 +1,7 @@
 # fractionize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fractionize.md)
+
 <p><span class="chinese">从细分产物来看，刚性线路板订单大幅增添，带动了整个PCB行业的订单增添。</span><span class="english">From the point of fractionize product, rigid circuitry board order grows considerably, the order that drove whole PCB industry grows.</span></p>
 
 <p><span class="chinese">现在不可能再做大而全的互联网企业，主要是面向企业和个人用户的细分领域。</span><span class="english">Impossible now redo is big and entire Internet company, basically be the fractionize domain that faces enterprise and individual user.</span></p>

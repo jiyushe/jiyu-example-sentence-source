@@ -1,5 +1,7 @@
 # 百分率
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baifenlv.md)
+
 <p><span class="chinese">观众中纳粹的百分率是多少？</span><span class="english">What percentage of the audiences is Nazi?</span></p>
 
 <p><span class="chinese">添加一个累计百分率的柱形到图中。</span><span class="english">Add a cumulative percentage column to the table.</span></p>

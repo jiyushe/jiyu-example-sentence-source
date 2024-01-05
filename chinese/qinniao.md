@@ -1,5 +1,7 @@
 # 禽鸟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinniao.md)
+
 <p><span class="chinese">鸭子是一种水上禽鸟。</span><span class="english">Ducks are a type of water fowl.</span></p>
 
 <p><span class="chinese">该动物园总共饲养了大约800只禽鸟。</span><span class="english">The zoo has about 800 birds in all.</span></p>

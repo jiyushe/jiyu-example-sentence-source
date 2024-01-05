@@ -1,5 +1,7 @@
 # 寡言少语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guayanshaoyu.md)
+
 <p><span class="chinese">他是个寡言少语、谦虚谨慎的人。</span><span class="english">He is a reticent and modest man.</span></p>
 
 <p><span class="chinese">约翰在办公室里总是寡言少语。</span><span class="english">John is always quiet as a mouse in the office.</span></p>

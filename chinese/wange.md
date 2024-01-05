@@ -1,5 +1,7 @@
 # 挽歌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wange.md)
+
 <p><span class="chinese">这是我的死亡挽歌。</span><span class="english">This is my elegy.</span></p>
 
 <p><span class="chinese">挽歌将会终止。</span><span class="english">The Dirge will stop.</span></p>

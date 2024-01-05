@@ -1,5 +1,7 @@
 # dramatize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dramatize.md)
+
 <p><span class="chinese">戏剧性地表现你的特征。</span><span class="english">Dramatize your features.</span></p>
 
 <p><span class="chinese">那故事可改编成很好的戏。</span><span class="english">The story would dramatize admirably.</span></p>

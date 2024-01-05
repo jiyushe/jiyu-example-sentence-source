@@ -1,5 +1,7 @@
 # likeable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/likeable.md)
+
 <p><span class="chinese">查尔斯?庞兹是个可爱的人。</span><span class="english">CHARLES PONZI was a likeable man.</span></p>
 
 <p><span class="chinese">他是一个难能可贵而又可爱的年轻人。</span><span class="english">He is an estimable and likeable young fellow.</span></p>

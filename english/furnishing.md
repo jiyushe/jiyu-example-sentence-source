@@ -1,5 +1,7 @@
 # furnishing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/furnishing.md)
+
 <p><span class="chinese">褐色的甲板陈设是胡桃木的。</span><span class="english">Deck furnishing in brown are made of walnut.</span></p>
 
 <p><span class="chinese">这家商店有各种各样的服饰品。</span><span class="english">There is all kind of furnishing in the shop.</span></p>

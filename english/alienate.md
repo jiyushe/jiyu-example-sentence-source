@@ -1,5 +1,7 @@
 # alienate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alienate.md)
+
 <p><span class="chinese">为什么要赶走一半的潜在投资者呢？</span><span class="english">Why alienate half of your potential investors?</span></p>
 
 <p><span class="chinese">不要太武断，否则会疏远朋友。</span><span class="english">Avoid being overly opinionated or you will alienate friends.</span></p>

@@ -1,5 +1,7 @@
 # finagle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/finagle.md)
+
 <p><span class="chinese">我打算休一天假。</span><span class="english">Finagle a day off from work.</span></p>
 
 <p><span class="chinese">虚假的因素几乎所有地方都有。</span><span class="english">Finagle factor is at work in nearly all fields.</span></p>

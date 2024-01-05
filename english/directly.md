@@ -1,5 +1,7 @@
 # directly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/directly.md)
+
 <p><span class="chinese">他径直朝我走来。</span><span class="english">He heads toward me directly.</span></p>
 
 <p><span class="chinese">这样我们就可以直接添加它了。</span><span class="english">So we can add it up directly.</span></p>

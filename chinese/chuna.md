@@ -1,5 +1,7 @@
 # 出纳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuna.md)
+
 <p><span class="chinese">如何找出纳什均衡呢</span><span class="english">How do I go about that exercise?</span></p>
 
 <p><span class="chinese">我们付银费给出纳。</span><span class="english">We pay the cashier for the food.</span></p>

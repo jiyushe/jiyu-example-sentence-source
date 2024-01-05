@@ -1,5 +1,7 @@
 # morel
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/morel.md)
+
 <p><span class="chinese">莫瑞尔太太形单影只，但她对此已经习惯了。</span><span class="english">Mrs. Morel was alone, but she was used to it.</span></p>
 
 <p><span class="chinese">生薄小牛肉片，黑松露，腌制羊肚菌。</span><span class="english">Veal carpaccio, truffle, pickled morel mushroom.</span></p>

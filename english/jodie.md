@@ -1,5 +1,7 @@
 # jodie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jodie.md)
+
 <p><span class="chinese">对朱迪·福斯特和西格妮·韦弗心存幻想。</span><span class="english">Fancy Jodie Foster and Sigourney Weaver.</span></p>
 
 <p><span class="chinese">伦敦昨晚出游的不只有约迪。</span><span class="english">Here's more of Jodie out in London last night.</span></p>

@@ -1,5 +1,7 @@
 # 地点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/didian.md)
+
 <p><span class="chinese">案发地点就在她家的地下室里。</span><span class="english">In her basement.</span></p>
 
 <p><span class="chinese">我曾居住过的地点。</span><span class="english">Where I lived before.</span></p>

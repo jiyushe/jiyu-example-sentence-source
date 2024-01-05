@@ -1,5 +1,7 @@
 # 圣子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengzi.md)
+
 <p><span class="chinese">你如何接受圣子？</span><span class="english">How do you accept the son?</span></p>
 
 <p><span class="chinese">离开到祈福圣子之时。</span><span class="english">Gone back in time to bless the child.</span></p>

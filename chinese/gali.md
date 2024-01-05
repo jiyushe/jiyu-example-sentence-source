@@ -1,5 +1,7 @@
 # 咖喱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gali.md)
+
 <p><span class="chinese">试试这种淡味咖喱。</span><span class="english">Try this mild curry.</span></p>
 
 <p><span class="chinese">小老虎咖喱是什么？</span><span class="english">What is Tiggy Curry?</span></p>

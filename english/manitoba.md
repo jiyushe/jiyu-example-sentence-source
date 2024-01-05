@@ -1,5 +1,7 @@
 # manitoba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manitoba.md)
+
 <p><span class="chinese">1870年，马尼托巴湖作为加拿大的一个省加入联邦。</span><span class="english">In 1870, Manitoba entered Confederation as a Canadian province.</span></p>
 
 <p><span class="chinese">我的第一业余火箭飞行的实验，对冷曼尼托巴省冬季早晨！</span><span class="english">My very first amateur experimental rocket flight, on a cold Manitoba winter morning!</span></p>

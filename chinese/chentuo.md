@@ -1,5 +1,7 @@
 # 衬托
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chentuo.md)
+
 <p><span class="chinese">衬托着生动的白与红。</span><span class="english">In living white and red.</span></p>
 
 <p><span class="chinese">在白色的衬托下，黑色很显目。</span><span class="english">The black shows up against the white.</span></p>

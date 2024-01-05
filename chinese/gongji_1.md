@@ -1,5 +1,7 @@
 # 共计
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongji_1.md)
+
 <p><span class="chinese">这个班共计20个学生。</span><span class="english">The class musters 20 pupils.</span></p>
 
 <p><span class="chinese">共计所有的帐上借方余额。</span><span class="english">The total of debit balance of all.</span></p>

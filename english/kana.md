@@ -1,5 +1,7 @@
 # kana
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kana.md)
+
 <p><span class="chinese">卡纳说，这次任务执行得不够专业。</span><span class="english">Kana said the mission was not professional.</span></p>
 
 <p><span class="chinese">日语就是汉字与假名的混合体。</span><span class="english">Thus, Japanese, is a combination f Chinese and kana.</span></p>

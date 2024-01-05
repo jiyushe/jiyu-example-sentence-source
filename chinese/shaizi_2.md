@@ -1,5 +1,7 @@
 # 骰子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaizi_2.md)
+
 <p><span class="chinese">舍利之一是所谓的“骰子”。</span><span class="english">One reliquary is called "Dice".</span></p>
 
 <p><span class="chinese">骰子掷出的点数越高，彩券得的就越多。</span><span class="english">A higher roll led to more tickets.</span></p>

@@ -1,5 +1,7 @@
 # 开恩
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaien.md)
+
 <p><span class="chinese">开恩就是死的痛快点。</span><span class="english">Mercy is to die quickly.</span></p>
 
 <p><span class="chinese">难道神忘记开恩。</span><span class="english">Hath God forgotten to be gracious?</span></p>

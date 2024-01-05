@@ -1,5 +1,7 @@
 # 紧箍咒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinguzhou.md)
+
 <p><span class="chinese">谢天谢地，我已经打破了一个紧箍咒。</span><span class="english">I am thankful to have broken a spell.</span></p>
 
 <p><span class="chinese">真有趣，听起来就像是三藏的紧箍咒。</span><span class="english">It is interesting. It seems that it's Tripitaka's Curse.</span></p>

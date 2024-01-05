@@ -1,5 +1,7 @@
 # 夸克
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuake.md)
+
 <p><span class="chinese">轻粒子，夸克。</span><span class="english">Leptons, quarks.</span></p>
 
 <p><span class="chinese">是夸克和反夸克。</span><span class="english">It's quark and antiquark.</span></p>

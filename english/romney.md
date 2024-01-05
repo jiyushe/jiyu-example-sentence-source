@@ -1,5 +1,7 @@
 # romney
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/romney.md)
+
 <p><span class="chinese">选情专家说，罗姆尼与洪博培都是摩门教徒。</span><span class="english">Election experts say, Romney and Huntsman are Mormon.</span></p>
 
 <p><span class="chinese">选民们断定罗姆内先生最具实力为他们排忧解难。</span><span class="english">Voters judged Mr Romney most capable of easing their pain.</span></p>

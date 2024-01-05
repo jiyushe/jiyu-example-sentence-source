@@ -1,5 +1,7 @@
 # denture
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/denture.md)
+
 <p><span class="chinese">补牙？镶牙？还是洁牙？</span><span class="english">For a filling? A denture? Or a cleaning?</span></p>
 
 <p><span class="chinese">基牙的位移量与负荷力大小有关。</span><span class="english">The displacement of abutment correlates to the load on the denture.</span></p>

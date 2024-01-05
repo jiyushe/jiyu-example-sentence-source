@@ -1,5 +1,7 @@
 # 有形
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youxing_2.md)
+
 <p><span class="chinese">灵魂是有形还是无形？</span><span class="english">Is the soul visible or invisible?</span></p>
 
 <p><span class="chinese">这种体验几乎是有形的。</span><span class="english">The experience is almost tangible.</span></p>

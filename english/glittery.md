@@ -1,5 +1,7 @@
 # glittery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glittery.md)
+
 <p><span class="chinese">我看见一个闪光的吉他。</span><span class="english">I see a glittery guitar.</span></p>
 
 <p><span class="chinese">但首先，我们的目光要超越那些闪闪发光的绿色标签。</span><span class="english">But first, we have to look beyond the glittery green label.</span></p>

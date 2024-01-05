@@ -1,5 +1,7 @@
 # angelica
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/angelica.md)
+
 <p><span class="chinese">我要带安杰利科去看女巫住的地方。</span><span class="english">I want to show Angelica where the witch lives. " I said."</span></p>
 
 <p><span class="chinese">安吉莉卡是职业心理医生和时尚生活教练。</span><span class="english">Angelica is a practicing psychologist and modern life coach.</span></p>

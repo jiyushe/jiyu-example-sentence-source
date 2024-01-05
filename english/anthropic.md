@@ -1,5 +1,7 @@
 # anthropic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anthropic.md)
+
 <p><span class="chinese">我们之所以能够生存，是因为如人择原理所假定，这个宇宙为了适应我们的生存而专门设计的。</span><span class="english">We live because as Anthropic Principle postulates that our Universe seems to be designed to fit our existence.</span></p>
 
 <p><span class="chinese">我不会试图去解释人择原理，因为我不知道怎么说才不会使它听起来像是无谓的重复。</span><span class="english">I won't try to explain the anthropic principle, as I am not sure how to do so without making it sound tautological.</span></p>

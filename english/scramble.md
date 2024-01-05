@@ -1,5 +1,7 @@
 # scramble
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scramble.md)
+
 <p><span class="chinese">他们抢夺着椅子。</span><span class="english">They scramble to their seats.</span></p>
 
 <p><span class="chinese">可能是飞车抢夺。</span><span class="english">May be an aerodyne to scramble.</span></p>

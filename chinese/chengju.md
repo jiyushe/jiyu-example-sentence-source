@@ -1,5 +1,7 @@
 # 成句
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengju.md)
+
 <p><span class="chinese">连词成句，给出三条好的理财建议。</span><span class="english">Connect the words to give three pieces of good financial advice.</span></p>
 
 <p><span class="chinese">你还要学习如何恰当地连词成句。</span><span class="english">You still have to learn how to put a sentence together properly.</span></p>

@@ -1,5 +1,7 @@
 # clench
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clench.md)
+
 <p><span class="chinese">我感觉到他的手牢牢抓住我的胳臂。</span><span class="english">I felt the clench of his hand on my arm.</span></p>
 
 <p><span class="chinese">他的双手反复地攥紧又松开。</span><span class="english">His hands continued to clench and unclench.</span></p>

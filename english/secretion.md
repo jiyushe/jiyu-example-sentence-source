@@ -1,5 +1,7 @@
 # secretion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/secretion.md)
+
 <p><span class="chinese">但分泌高峰延迟。</span><span class="english">But secretion peak detention.</span></p>
 
 <p><span class="chinese">基础泪液分泌测定值。</span><span class="english">Value of basal tear secretion.</span></p>

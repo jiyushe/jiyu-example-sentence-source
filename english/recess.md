@@ -1,5 +1,7 @@
 # recess
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recess.md)
+
 <p><span class="chinese">我们休息一下，一个钟后再继续。</span><span class="english">Let's recess and return in an hour.</span></p>
 
 <p><span class="chinese">就在这时下课休息的铃声突然响了。</span><span class="english">Just then the bell rings for recess.</span></p>

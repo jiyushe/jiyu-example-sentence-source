@@ -1,5 +1,7 @@
 # 地大物博
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/didawubo.md)
+
 <p><span class="chinese">中国地大物博。</span><span class="english">China is a big country.</span></p>
 
 <p><span class="chinese">中国地大物博，旅游资源丰富。</span><span class="english">China is a vast land rich in tourism resources.</span></p>

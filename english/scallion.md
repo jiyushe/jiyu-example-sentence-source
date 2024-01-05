@@ -1,5 +1,7 @@
 # scallion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scallion.md)
+
 <p><span class="chinese">那么葱爆肉怎么样？</span><span class="english">How about fried mution with scallion?</span></p>
 
 <p><span class="chinese">青葱常被用来佐制海鲜食品。</span><span class="english">Scallion is usually used for seasoning seafood dishes.</span></p>

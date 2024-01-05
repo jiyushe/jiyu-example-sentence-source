@@ -1,5 +1,7 @@
 # slaughter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slaughter.md)
+
 <p><span class="chinese">那个残杀无辜的暴君。</span><span class="english">The slaughter of the innocents.</span></p>
 
 <p><span class="chinese">让屠杀开始吧。</span><span class="english">Let the dodgeball slaughter begin.</span></p>

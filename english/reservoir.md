@@ -1,5 +1,7 @@
 # reservoir
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reservoir.md)
+
 <p><span class="chinese">这是低温热源。</span><span class="english">Here is our colder reservoir.</span></p>
 
 <p><span class="chinese">三峡水库蓄水后。</span><span class="english">After the Three Gorges Reservoir.</span></p>

@@ -1,5 +1,7 @@
 # irritably
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irritably.md)
+
 <p><span class="chinese">“又怎么了？”我不耐烦的问道。</span><span class="english">"What now?" I asked irritably.</span></p>
 
 <p><span class="chinese">那个家伙不耐烦地摇了摇头。</span><span class="english">The fellow shook his head irritably.</span></p>

@@ -1,5 +1,7 @@
 # obeisance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obeisance.md)
+
 <p><span class="chinese">之后，要举行拜堂仪式。</span><span class="english">Hold to do obeisance a rites after.</span></p>
 
 <p><span class="chinese">怎么现在还拜他们？</span><span class="english">How to still do obeisance them now?</span></p>

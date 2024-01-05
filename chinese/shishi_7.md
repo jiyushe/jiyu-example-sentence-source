@@ -1,5 +1,7 @@
 # 失实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shishi_7.md)
+
 <p><span class="chinese">传闻失实。</span><span class="english">The rumour was unfounded.</span></p>
 
 <p><span class="chinese">确保它是一个合法的报道失实。</span><span class="english">Make sure it is a legitimate inaccuracy.</span></p>

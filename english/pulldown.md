@@ -1,5 +1,7 @@
 # pulldown
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pulldown.md)
+
 <p><span class="chinese">首先创建一个可以选择作者的下拉菜单。</span><span class="english">You can start with a pulldown menu of authors.</span></p>
 
 <p><span class="chinese">作者下拉列表稍微复杂一些。</span><span class="english">The author pulldown is a little bit more complicated.</span></p>

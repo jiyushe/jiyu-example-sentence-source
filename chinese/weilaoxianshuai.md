@@ -1,5 +1,7 @@
 # 未老先衰
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/weilaoxianshuai.md)
+
 <p><span class="chinese">阳光能导致未老先衰。</span><span class="english">The sun can cause premature ageing.</span></p>
 
 <p><span class="chinese">他懒极了，因此未老先衰。</span><span class="english">He was so lazy that he rusted out when he was still young.</span></p>

@@ -1,5 +1,7 @@
 # 刻意
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keyi.md)
+
 <p><span class="chinese">刻意模仿著名的演讲家</span><span class="english">Imitating other famous speakers</span></p>
 
 <p><span class="chinese">他也没有刻意去记住它</span><span class="english">He wasn't trying to memorize it.</span></p>

@@ -1,5 +1,7 @@
 # 声响
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengxiang_1.md)
+
 <p><span class="chinese">他在钢琴上乱弹，发出刺耳的声响。</span><span class="english">He scraped on the piano.</span></p>
 
 <p><span class="chinese">这是凝固一切的声响。</span><span class="english">It's a petrifying sound.</span></p>

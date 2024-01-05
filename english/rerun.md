@@ -1,5 +1,7 @@
 # rerun
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rerun.md)
+
 <p><span class="chinese">重新运行此测试。</span><span class="english">Rerun this test.</span></p>
 
 <p><span class="chinese">编译成功，我们接着回车。</span><span class="english">It works. Let me go ahead and rerun.</span></p>

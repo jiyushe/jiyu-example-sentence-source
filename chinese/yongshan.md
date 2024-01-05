@@ -1,5 +1,7 @@
 # 用膳
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yongshan.md)
+
 <p><span class="chinese">在一个地方用膳。</span><span class="english">Eat at a place.</span></p>
 
 <p><span class="chinese">您想房内用膳服务吗？</span><span class="english">Do you need room service?</span></p>

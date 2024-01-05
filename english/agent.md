@@ -1,5 +1,7 @@
 # agent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/agent.md)
+
 <p><span class="chinese">我是混乱的代言人。</span><span class="english">I am an agent of chaos.</span></p>
 
 <p><span class="chinese">那笔生意将由谁来代理?</span><span class="english">Who will agent the deal?</span></p>

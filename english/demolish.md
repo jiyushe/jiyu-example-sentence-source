@@ -1,5 +1,7 @@
 # demolish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demolish.md)
+
 <p><span class="chinese">我们准备爆破这座旧大楼。</span><span class="english">We are going to demolish the old building.</span></p>
 
 <p><span class="chinese">它的踢蹬攻击足以摧毁大石头。</span><span class="english">Its kicking attacks demolish concrete blocks.</span></p>

@@ -1,5 +1,7 @@
 # debrecen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/debrecen.md)
+
 <p><span class="chinese">周中我们赢了德布勒森，我们知道我们需要继续赢下去。</span><span class="english">We won in Debrecen in midweek and we knew that we needed to keep winning.</span></p>
 
 <p><span class="chinese">在德布雷岑赛后，我们非常失望，因为我们被淘汰出冠军杯。</span><span class="english">After the Debrecen game we were very down because we were knocked out of the Champions League.</span></p>

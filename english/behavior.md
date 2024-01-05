@@ -1,5 +1,7 @@
 # behavior
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/behavior.md)
+
 <p><span class="chinese">它是习得的行为。</span><span class="english">It is learned behavior.</span></p>
 
 <p><span class="chinese">第五,赌博行为</span><span class="english">Five is gambling behavior.</span></p>

@@ -1,5 +1,7 @@
 # 闷棍
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mengun.md)
+
 <p><span class="chinese">“闷棍”不再在使用后将你移出的潜行状态。</span><span class="english">"Sap" no longer removes you from stealth when used.</span></p>
 
 <p><span class="chinese">被动模式的宠物不会再自动攻击那些被变形术或是闷棍所影响的目标了。</span><span class="english">Player pets will no longer attack CC'ed targets while in Passive mode.</span></p>

@@ -1,5 +1,7 @@
 # exfoliate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exfoliate.md)
+
 <p><span class="chinese">你要给我的皮肤去角质吗？</span><span class="english">Would you exfoliate my skin?</span></p>
 
 <p><span class="chinese">您可以去角质保养，以帮助那些脱落。</span><span class="english">You can exfoliate to help those out as well.</span></p>

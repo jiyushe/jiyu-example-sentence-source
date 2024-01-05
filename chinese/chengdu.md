@@ -1,5 +1,7 @@
 # 诚笃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengdu.md)
+
 <p><span class="chinese">我以为他是诚笃的。</span><span class="english">I thellonk he is honest.</span></p>
 
 <p><span class="chinese">诚笃，但要保持正面姿势。</span><span class="english">Be honest but remain positive.</span></p>

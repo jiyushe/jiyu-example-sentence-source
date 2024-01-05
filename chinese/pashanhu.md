@@ -1,5 +1,7 @@
 # 爬山虎
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pashanhu.md)
+
 <p><span class="chinese">爬山虎巴在墙上。</span><span class="english">The ivy clings to the wall.</span></p>
 
 <p><span class="chinese">爬山虎在墙上蔓延。</span><span class="english">Boston ivies crawl along the wall.</span></p>

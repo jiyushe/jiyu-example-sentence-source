@@ -1,5 +1,7 @@
 # 大行星
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daxingxing_1.md)
+
 <p><span class="chinese">你知道九大行星吗？</span><span class="english">Do you know the nine major planets?</span></p>
 
 <p><span class="chinese">太阳系从此有了九大行星。</span><span class="english">The Solar System now had 9 planets.</span></p>

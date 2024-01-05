@@ -1,5 +1,7 @@
 # 平平淡淡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingpingdandan.md)
+
 <p><span class="chinese">平平淡淡才是真，快快乐乐正是本。</span><span class="english">Go in light is really happy, it is this.</span></p>
 
 <p><span class="chinese">爱你一生一世生活平平淡淡！</span><span class="english">Nothing exciting life love you for life!</span></p>

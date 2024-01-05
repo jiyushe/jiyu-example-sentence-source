@@ -1,5 +1,7 @@
 # 山雀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanque.md)
+
 <p><span class="chinese">今天，我们有一个伟大的大山雀奶油馅饼。</span><span class="english">Today we have a great Big Tit Cream Pie.</span></p>
 
 <p><span class="chinese">一只长尾山雀飞落在树枝上。</span><span class="english">A long-tailed tit alighted on the branch.</span></p>

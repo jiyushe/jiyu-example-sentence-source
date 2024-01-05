@@ -1,5 +1,7 @@
 # 珍重
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhenzhong.md)
+
 <p><span class="chinese">他说了再见，永别，珍重…</span><span class="english">He says Adios, says Adios, Goodbye.</span></p>
 
 <p><span class="chinese">永远别说再见了，再见了，要珍重。</span><span class="english">Don't say Adios, say Adios, Goodbye.</span></p>

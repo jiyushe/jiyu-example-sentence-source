@@ -1,5 +1,7 @@
 # 不务正业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/buwuzhengye.md)
+
 <p><span class="chinese">他游手好闲，不务正业。</span><span class="english">He idled about and did no decent work.</span></p>
 
 <p><span class="chinese">他经常游手好闲，不务正业。</span><span class="english">He is always loafing around and doing nothing.</span></p>

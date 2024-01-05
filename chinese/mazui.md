@@ -1,5 +1,7 @@
 # 麻醉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mazui.md)
+
 <p><span class="chinese">看看这种“麻醉枪”吧！</span><span class="english">Enter the Tranquilizer Gun!</span></p>
 
 <p><span class="chinese">他的左手现已局部麻醉。</span><span class="english">His left hand has been narcotized.</span></p>

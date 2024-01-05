@@ -1,5 +1,7 @@
 # cementation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cementation.md)
+
 <p><span class="chinese">糖块光亮卫生、不粘结、不磨损。</span><span class="english">The sweet is bright and sanitary, no cementation and no abrasion.</span></p>
 
 <p><span class="chinese">成岩作用有压实作用、胶结作用和溶蚀作用。</span><span class="english">The diagenesis mainly comprise compaction cementation and dissolution.</span></p>

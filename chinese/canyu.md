@@ -1,5 +1,7 @@
 # 残余
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/canyu.md)
+
 <p><span class="chinese">都是残余堆，好臭呀！</span><span class="english">Is the residual stack, very smelly!</span></p>
 
 <p><span class="chinese">还有军阀主义残余。</span><span class="english">There were also remnants of militarism.</span></p>

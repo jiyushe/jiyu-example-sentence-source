@@ -1,5 +1,7 @@
 # 耐旱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naihan_1.md)
+
 <p><span class="chinese">这些植物有许多都是耐旱的。</span><span class="english">Many of these plants are drought tolerant.</span></p>
 
 <p><span class="chinese">两者都具有耐旱特性并且免除种子的转基因专利税。</span><span class="english">Both are drought-tolerant and the seeds are royalty-free.</span></p>

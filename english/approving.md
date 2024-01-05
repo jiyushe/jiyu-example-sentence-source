@@ -1,5 +1,7 @@
 # approving
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/approving.md)
+
 <p><span class="chinese">噢，是的老板。谢谢您对我工作的认可。</span><span class="english">Oh, yeah boss. Thank you for approving my job.</span></p>
 
 <p><span class="chinese">人要是喜欢什么，找起理由来还真够快当的！</span><span class="english">How quick come the reasons for approving what we like!</span></p>

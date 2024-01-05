@@ -1,5 +1,7 @@
 # 群众
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qunzhong.md)
+
 <p><span class="chinese">群众是通情达理的。</span><span class="english">The masses are reasonable.</span></p>
 
 <p><span class="chinese">群众的眼睛是雪亮的。</span><span class="english">The masses have sharp eyes.</span></p>

@@ -1,5 +1,7 @@
 # ishmael
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ishmael.md)
+
 <p><span class="chinese">这都是以实玛利的儿子。</span><span class="english">These are the sons of Ishmael.</span></p>
 
 <p><span class="chinese">这都是以实玛利的儿子。</span><span class="english">These were the sons of Ishmael.</span></p>

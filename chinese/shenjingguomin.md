@@ -1,5 +1,7 @@
 # 神经过敏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenjingguomin.md)
+
 <p><span class="chinese">爱德华总是对截止日期神经过敏。</span><span class="english">Edward always gets heebie jeebies from deadlines.</span></p>
 
 <p><span class="chinese">激动使她全身出神经过敏的皮疹。</span><span class="english">The excitement brought her out in a nervous rash.</span></p>

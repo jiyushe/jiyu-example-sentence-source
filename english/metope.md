@@ -1,5 +1,7 @@
 # metope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metope.md)
+
 <p><span class="chinese">用ST4.2螺丝将塑料底座和金属底座一块固定在墙面上。</span><span class="english">Fix plastics base metal base on the metope with ST4.2 screws.</span></p>
 
 <p><span class="chinese">在色彩上，白色墙面可挂浅棕色或淡黄色镜框。</span><span class="english">On colour, white metope can hang shallow brown or flaxen picture frame.</span></p>

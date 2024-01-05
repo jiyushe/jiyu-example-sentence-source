@@ -1,5 +1,7 @@
 # 手指
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shouzhi_1.md)
+
 <p><span class="chinese">使用你的手指。</span><span class="english">Use your finger.</span></p>
 
 <p><span class="chinese">他交叉起手指。</span><span class="english">He knits his fingers.</span></p>

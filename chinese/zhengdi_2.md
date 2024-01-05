@@ -1,5 +1,7 @@
 # 整地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengdi_2.md)
+
 <p><span class="chinese">接着他把事情完完整整地告诉了她。</span><span class="english">Vinegar. And then he told her the whole story.</span></p>
 
 <p><span class="chinese">适合的整地方式为高垅整地。</span><span class="english">The high ridge was the appropriate soil preparation.</span></p>

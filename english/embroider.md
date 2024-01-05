@@ -1,5 +1,7 @@
 # embroider
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/embroider.md)
+
 <p><span class="chinese">她床上铺的是刺绣床罩。</span><span class="english">She spread her with embroider cover.</span></p>
 
 <p><span class="chinese">久有长地刺绣头发。</span><span class="english">To have long embroider the hair longly.</span></p>

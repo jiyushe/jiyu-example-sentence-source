@@ -1,5 +1,7 @@
 # chemosynthesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chemosynthesis.md)
+
 <p><span class="chinese">这意味着细菌化学合成作为一种食物来源对这些生物并不充分。</span><span class="english">This suggests that bacterial chemosynthesis is not a sufficient source of nutrition for these creatures.</span></p>
 
 <p><span class="chinese">面临有机果园不准使用化学合成农药的限制，果树害虫防治成为瓶颈问题。</span><span class="english">To be confronted with restricting chemosynthesis pesticides used in organic orchards, insect pest control had become a bottleneck.</span></p>

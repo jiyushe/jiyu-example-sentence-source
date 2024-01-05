@@ -1,5 +1,7 @@
 # 多嘴多舌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duozuiduoshe.md)
+
 <p><span class="chinese">他真是个多嘴多舌的人。</span><span class="english">He is talkative.</span></p>
 
 <p><span class="chinese">还不够么？你这个多嘴多舌的家伙。</span><span class="english">Isn't that enough, you loudmouth?</span></p>

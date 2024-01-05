@@ -1,5 +1,7 @@
 # 隐私
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinsi_1.md)
+
 <p><span class="chinese">金拓尊重您的隐私。</span><span class="english">Kitco respects your privacy.</span></p>
 
 <p><span class="chinese">大多侵犯隐私的行为是骚扰。</span><span class="english">Much of it is just annoying.</span></p>

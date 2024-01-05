@@ -1,5 +1,7 @@
 # 业障
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yezhang.md)
+
 <p><span class="chinese">我造的业障太深重以至于我感觉自己必须要为之付出代价。</span><span class="english">So karmically I felt like I had a bill to pay.</span></p>
 
 <p><span class="chinese">如果你曾经遭遇失败，想想是什么业障阻碍了你。</span><span class="english">If you’ve failed before, think about what obstacle stopped you.</span></p>

@@ -1,5 +1,7 @@
 # collectivism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/collectivism.md)
+
 <p><span class="chinese">爱院爱校教育是集体主义教育的有效着力点。</span><span class="english">It is an effective impetus to collectivism education.</span></p>
 
 <p><span class="chinese">他们与早期的个人主义者一样，害怕集体主义。</span><span class="english">They share with earlier individualists a fear of collectivism.</span></p>

@@ -1,5 +1,7 @@
 # gondwanaland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gondwanaland.md)
+
 <p><span class="chinese">迄今对冈瓦纳大陆北界的位置还存在激烈争论。</span><span class="english">The location of the north boundary of Gondwanaland is still a hotly debating topic even today.</span></p>
 
 <p><span class="chinese">数百万年前，南半球各洲组成了一个大陆，称为冈瓦纳大陆。</span><span class="english">Millions of years ago all the southern continents formed a single landmass known as gondwanaland.</span></p>

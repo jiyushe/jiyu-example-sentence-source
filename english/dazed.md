@@ -1,5 +1,7 @@
 # dazed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dazed.md)
+
 <p><span class="chinese">泰瑞醒了过来，仍然头昏眼花。</span><span class="english">Teri wakes up, dazed.</span></p>
 
 <p><span class="chinese">她看起来有点眼花。</span><span class="english">She looked a little dazed.</span></p>

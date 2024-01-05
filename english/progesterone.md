@@ -1,5 +1,7 @@
 # progesterone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/progesterone.md)
+
 <p><span class="chinese">孕酮是极佳的安眠药。</span><span class="english">Progesterone is a great sleeping pill.</span></p>
 
 <p><span class="chinese">或许你的磁性激素水平和黄体酮水平现在有点不均衡了。</span><span class="english">Could be your estrogen and progesterone levels are not balanced.</span></p>

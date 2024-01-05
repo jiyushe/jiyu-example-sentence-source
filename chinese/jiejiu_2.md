@@ -1,5 +1,7 @@
 # 解酒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiejiu_2.md)
+
 <p><span class="chinese">解酒乐具有解酒作用。</span><span class="english">CONCLUSION The Jiejiule has effects for anti-inebriation.</span></p>
 
 <p><span class="chinese">埃及人习惯用红茶解酒。</span><span class="english">Egyptians tend to wash down these libations with black tea.</span></p>

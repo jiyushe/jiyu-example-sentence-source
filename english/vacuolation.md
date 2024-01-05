@@ -1,5 +1,7 @@
 # vacuolation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vacuolation.md)
+
 <p><span class="chinese">大脑皮层神经细胞有细胞空泡变性。</span><span class="english">The neurocyte of cerebral cortex shows vacuolation degeneration.</span></p>
 
 <p><span class="chinese">单核中央期小孢子细胞质液泡化。</span><span class="english">Vacuolation of cytoplasm at stage of central nucleus microspore. 20.</span></p>

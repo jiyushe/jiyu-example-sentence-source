@@ -1,5 +1,7 @@
 # fatherless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fatherless.md)
+
 <p><span class="chinese">无父的朋友听到我的心声。</span><span class="english">The Friend of the fatherless heard.</span></p>
 
 <p><span class="chinese">愿他的儿女为孤儿，他的妻子为寡妇。</span><span class="english">May his children be fatherless and his wife a widow.</span></p>

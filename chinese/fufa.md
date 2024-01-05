@@ -1,5 +1,7 @@
 # 伏法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fufa.md)
+
 <p><span class="chinese">你要么现在就伏法认罪，要么就后果自负！</span><span class="english">You either plead guilty now, or suffer the consequences.</span></p>
 
 <p><span class="chinese">而逃跑女孩要“伏法”的时间只剩下不到二个星期。</span><span class="english">The escaped prisoner had less than two weeks left to serve.</span></p>

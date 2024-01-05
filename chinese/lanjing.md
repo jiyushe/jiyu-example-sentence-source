@@ -1,5 +1,7 @@
 # 蓝鲸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lanjing.md)
+
 <p><span class="chinese">那头蓝鲸体形硕大。</span><span class="english">The blue whale is ginormous.</span></p>
 
 <p><span class="chinese">蓝鲸是须鲸中最大的一种。</span><span class="english">Blue Whale is the biggest in Minke whales.</span></p>

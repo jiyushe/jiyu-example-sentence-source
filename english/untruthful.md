@@ -1,5 +1,7 @@
 # untruthful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/untruthful.md)
+
 <p><span class="chinese">那是一个不真实的记述。</span><span class="english">That's an untruthful description.</span></p>
 
 <p><span class="chinese">整批变得贪婪和不诚实。</span><span class="english">The whole batch becomes greedy and untruthful.</span></p>

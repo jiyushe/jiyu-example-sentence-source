@@ -1,5 +1,7 @@
 # transferase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transferase.md)
+
 <p><span class="chinese">生命周期过程中，各式转移酶活性有增减。</span><span class="english">Life-cycle process, various types of transferase activity has Change fluctuated.</span></p>
 
 <p><span class="chinese">推测277位氨基酸处于ABO血型基因编码的转移酶的活性区域。</span><span class="english">We can conclude that the amino acid 277 locates activity region of the transferase encoded by ABO gene.</span></p>

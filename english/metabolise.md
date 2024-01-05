@@ -1,5 +1,7 @@
 # metabolise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metabolise.md)
+
 <p><span class="chinese">他的新陈代谢过程减缓，更有可能在繁殖之前死亡。</span><span class="english">It is slower to metabolise and likelier to die before it has reproduced.</span></p>
 
 <p><span class="chinese">这是因为它们无法快速代谢可可碱。</span><span class="english">This is because their bodies cannot metabolise theobromine quickly enough.</span></p>

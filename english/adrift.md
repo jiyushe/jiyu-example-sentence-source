@@ -1,5 +1,7 @@
 # adrift
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adrift.md)
+
 <p><span class="chinese">他后来将儿子逐出家门。</span><span class="english">He turned his son adrift later.</span></p>
 
 <p><span class="chinese">两个澳大利亚人乘一艘救生船漂流在海上。</span><span class="english">Two Aussies are adrift in a lifeboat.</span></p>

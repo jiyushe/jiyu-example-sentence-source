@@ -1,5 +1,7 @@
 # 湘绣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangxiu.md)
+
 <p><span class="chinese">湘绣赢得了声望与日俱增。</span><span class="english">Xiang Embroidery gained popularity day by day.</span></p>
 
 <p><span class="chinese">湘绣以其华丽的颜色而闻名。</span><span class="english">Xiang Embroidery is famous for its rich colors.</span></p>

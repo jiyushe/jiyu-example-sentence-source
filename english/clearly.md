@@ -1,5 +1,7 @@
 # clearly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clearly.md)
+
 <p><span class="chinese">写作清晰，务必精简，避免赘言。</span><span class="english">Write clearly.</span></p>
 
 <p><span class="chinese">可显然Varga是。</span><span class="english">Varga clearly is.</span></p>

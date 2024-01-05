@@ -1,5 +1,7 @@
 # contractive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contractive.md)
+
 <p><span class="chinese">反映左室收缩功能降低。</span><span class="english">The worse left ventricular contractive function appeared.</span></p>
 
 <p><span class="chinese">证明了引入的非线性变换满足压缩迭代映射理论。</span><span class="english">The non-linear transforms satisfy a theory of contractive iterated image transformations.</span></p>

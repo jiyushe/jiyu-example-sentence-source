@@ -1,5 +1,7 @@
 # democrat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/democrat.md)
+
 <p><span class="chinese">哈金斯博士是民主党人。</span><span class="english">Dr. Huggins is a Democrat.</span></p>
 
 <p><span class="chinese">稍等，我们认为这一位是一名民主党人。</span><span class="english">Wait a minute, we thought he was a Democrat.</span></p>

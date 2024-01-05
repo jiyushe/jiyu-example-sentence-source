@@ -1,5 +1,7 @@
 # sentence 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sentence.md)
+
 <p><span class="chinese">一个句子。</span><span class="english">One sentence.</span></p>
 
 <p><span class="chinese">那让我来造个句子吧。</span><span class="english">Let me make a sentence.</span></p>

@@ -1,5 +1,7 @@
 # presser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/presser.md)
+
 <p><span class="chinese">备圆轮式与平押式押脚两种。</span><span class="english">Ready for roller type & presser foot.</span></p>
 
 <p><span class="chinese">控制装置抬起间歇压脚。</span><span class="english">The control device raises the intermittent presser foot.</span></p>

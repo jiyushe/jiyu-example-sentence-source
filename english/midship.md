@@ -1,5 +1,7 @@
 # midship
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/midship.md)
+
 <p><span class="chinese">中横剖面设计是船舶结构设计的重要内容之一。</span><span class="english">A design of midship section is one of the most important part of ship structure design.</span></p>
 
 <p><span class="chinese">本文研究了基于DNV规范的大型油船中剖面结构优化设计。</span><span class="english">The paper optimizes the midship section structure of large crude oil tanker based on DNV rules.</span></p>

@@ -1,5 +1,7 @@
 # lactoferrin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lactoferrin.md)
+
 <p><span class="chinese">重组人乳铁蛋白具有抑制E。</span><span class="english">The recombinant human lactoferrin could inhibit growth of E.</span></p>
 
 <p><span class="chinese">研究表明，乳铁蛋白具有多种生物学功能。</span><span class="english">It is reported that lactoferrin has many physiological functions.</span></p>

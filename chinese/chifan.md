@@ -1,5 +1,7 @@
 # 吃饭
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chifan.md)
+
 <p><span class="chinese">吃饭也没有食欲。</span><span class="english">I had no appetite.</span></p>
 
 <p><span class="chinese">他们分头吃饭。</span><span class="english">They eat separately.</span></p>

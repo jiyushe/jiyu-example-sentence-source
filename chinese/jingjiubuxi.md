@@ -1,5 +1,7 @@
 # 经久不息
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingjiubuxi.md)
+
 <p><span class="chinese">演出结束时，全场响起经久不息的掌声。</span><span class="english">At the end, there was ceaseless applause.</span></p>
 
 <p><span class="chinese">他站起来回答时，响起经久不息的掌声。</span><span class="english">When he got up to reply there was long applause.</span></p>

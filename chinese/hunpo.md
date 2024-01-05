@@ -1,5 +1,7 @@
 # 魂魄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hunpo.md)
+
 <p><span class="chinese">然而我们是怎么样取得一个新的魂魄的？</span><span class="english">But how does one acquire a new soul?</span></p>
 
 <p><span class="chinese">文安的魂魄被挤出身体外，他要张扬把身体还给他，张扬不理会。</span><span class="english">Wen An wants his body back, but Zhang Yang ignores him.</span></p>

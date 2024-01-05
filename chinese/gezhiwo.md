@@ -1,5 +1,7 @@
 # 胳肢窝
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gezhiwo.md)
+
 <p><span class="chinese">你知道怎样用胳肢窝放屁吗？</span><span class="english">Do you know how to make arm farts ?</span></p>
 
 <p><span class="chinese">腋窝是“胳肢窝”的医学术语。</span><span class="english">The axilla is the medical term for the armpit.</span></p>

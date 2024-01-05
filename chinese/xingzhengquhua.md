@@ -1,5 +1,7 @@
 # 行政区划
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingzhengquhua.md)
+
 <p><span class="chinese">这个国家在行政区划分上分为许多郡。</span><span class="english">Administratively, the country is divided into counties.</span></p>
 
 <p><span class="chinese">五台县位于山西省东北部，行政区划上属于忻州地区，其方言属于晋语五台片。</span><span class="english">Wutai County belongs to the Xinzhou Region in the Northeast of Shanxi province.</span></p>

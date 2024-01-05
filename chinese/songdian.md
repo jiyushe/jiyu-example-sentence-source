@@ -1,5 +1,7 @@
 # 送电
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/songdian.md)
+
 <p><span class="chinese">取送电报的人进进出出。</span><span class="english">He prefers to send me telegrams.</span></p>
 
 <p><span class="chinese">他的工作就是送电报。</span><span class="english">His work was to deliver telegrams.</span></p>

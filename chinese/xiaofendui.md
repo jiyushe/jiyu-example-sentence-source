@@ -1,5 +1,7 @@
 # 小分队
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaofendui.md)
+
 <p><span class="chinese">小分队提前出动了。</span><span class="english">The detachment set off ahead of schedule.</span></p>
 
 <p><span class="chinese">被八路小分队队长包卫国及时拦住。</span><span class="english">By eight team captain Bao Weiguo timely stop.</span></p>

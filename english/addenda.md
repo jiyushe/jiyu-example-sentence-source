@@ -1,5 +1,7 @@
 # addenda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/addenda.md)
+
 <p><span class="chinese">请对这个文件的初稿提出修改和补充意见。</span><span class="english">Please propose amendments and addenda to the first draft of the document.</span></p>
 
 <p><span class="chinese">合成文件由原始文件和一个以上附件组合而成的文件。</span><span class="english">Composite Document A document which consists of an original document and one or more addenda.</span></p>

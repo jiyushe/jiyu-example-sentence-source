@@ -1,5 +1,7 @@
 # sardinia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sardinia.md)
+
 <p><span class="chinese">我想那就是撒丁岛吧。</span><span class="english">I thought it was Sardinia.</span></p>
 
 <p><span class="chinese">他居住在撒丁岛和世界上许多其他地方。</span><span class="english">He lives in Sardinia and many places in the world.</span></p>

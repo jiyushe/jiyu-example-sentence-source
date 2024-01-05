@@ -1,5 +1,7 @@
 # violent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/violent.md)
+
 <p><span class="chinese">狂风怒号。</span><span class="english">A violent wind is howling.</span></p>
 
 <p><span class="chinese">野火烧不尽，春风呼又生。</span><span class="english">Violent fires soon burn out.</span></p>

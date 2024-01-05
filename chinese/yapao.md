@@ -1,5 +1,7 @@
 # 哑炮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yapao.md)
+
 <p><span class="chinese">他知道我是个哑炮！</span><span class="english">He knows I'm a Squib!</span></p>
 
 <p><span class="chinese">北朝的核实验对于市场而言，也不过是一枚哑炮而已。</span><span class="english">North Korea's nuclear test was a damp squib in market terms.</span></p>

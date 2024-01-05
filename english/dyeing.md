@@ -1,5 +1,7 @@
 # dyeing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dyeing.md)
+
 <p><span class="chinese">染印时颜色被固定住，不易再褪。</span><span class="english">Color is fixed in dyeing.</span></p>
 
 <p><span class="chinese">手绘是一门古老的染织艺术。</span><span class="english">Hand dyeing is an ancient art.</span></p>

@@ -1,5 +1,7 @@
 # microvasculature
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/microvasculature.md)
+
 <p><span class="chinese">由此可见，高血压患者微循环的病理变化是明显的。</span><span class="english">It indicated that the pathological variations of conjunctival microvasculature of hypertensives were obvious.</span></p>
 
 <p><span class="chinese">结论部分门静脉动脉化后在近期内不影响肝脏的微血管及组织学结构。</span><span class="english">Conclusions Partial portal vein arterialization has no early effect on hepatic microvasculature and histologic structure.</span></p>

@@ -1,5 +1,7 @@
 # 惯性
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guanxing.md)
+
 <p><span class="chinese">又名惯性定律</span><span class="english">It's called the Law of Inertia.</span></p>
 
 <p><span class="chinese">唯有行动可以击败惯性。</span><span class="english">Inertia is beat only by movement.</span></p>

@@ -1,5 +1,7 @@
 # jeremias
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jeremias.md)
+
 <p><span class="chinese">上主有话传给耶肋米亚说。</span><span class="english">The word that came to Jeremias from the Lord, saying.</span></p>
 
 <p><span class="chinese">十天以后，上主有话传给了耶肋米亚。</span><span class="english">Now after ten days, the word of the Lord came to Jeremias.</span></p>

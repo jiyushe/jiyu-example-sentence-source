@@ -1,5 +1,7 @@
 # prs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prs.md)
+
 <p><span class="chinese">要突破你的个人记录需要大量时间进行辛苦的训练。</span><span class="english">They'll be plenty of time to train hard to beat your PRs.</span></p>
 
 <p><span class="chinese">我很高兴看到吉他手使用美国制造的PRS吉他。</span><span class="english">I was glad to see thee guitarist use an American made PRS guitar.</span></p>

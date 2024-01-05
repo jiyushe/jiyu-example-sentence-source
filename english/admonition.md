@@ -1,5 +1,7 @@
 # admonition
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/admonition.md)
+
 <p><span class="chinese">一天早晨，他这样数落了他一次</span><span class="english">One morning, he threw him this admonition</span></p>
 
 <p><span class="chinese">我只派遣你为报喜者和警告者。</span><span class="english">But thee We only sent to give glad tidings and admonition.</span></p>

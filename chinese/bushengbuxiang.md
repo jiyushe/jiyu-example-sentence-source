@@ -1,5 +1,7 @@
 # 不声不响
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bushengbuxiang.md)
+
 <p><span class="chinese">整个下午他坐在那里不声不响。</span><span class="english">He sat there silently for the whole afternoon.</span></p>
 
 <p><span class="chinese">我觉得老天会不声不响地永远下着雨。</span><span class="english">I felt that it would rain forever, noiselessly.</span></p>

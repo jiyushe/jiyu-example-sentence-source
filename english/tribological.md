@@ -1,5 +1,7 @@
 # tribological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tribological.md)
+
 <p><span class="chinese">环境气氛的组成影响摩擦副的摩擦磨损行为。</span><span class="english">The atmosphere components have an influence on tribological behaviors of tribo-pairs.</span></p>
 
 <p><span class="chinese">利用四球摩擦磨损试验机对添加剂BTLB在菜籽油中的摩擦学性能进行了评价。</span><span class="english">The tribological performance of BTLB in rapeseed oil was evaluated by four-ball tester.</span></p>

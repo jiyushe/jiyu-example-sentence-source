@@ -1,5 +1,7 @@
 # scale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scale.md)
+
 <p><span class="chinese">但它能成规模吗？</span><span class="english">But will it scale?</span></p>
 
 <p><span class="chinese">用40千瓦这个尺度来划分。</span><span class="english">With 40 kw this scale.</span></p>

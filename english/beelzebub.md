@@ -1,5 +1,7 @@
 # beelzebub
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beelzebub.md)
+
 <p><span class="chinese">知道魔王是怎么疯掉的吗？</span><span class="english">Do you know how Beelzebub became crazy?</span></p>
 
 <p><span class="chinese">魔王语言可含人的词汇。</span><span class="english">Beelzebub language can contain the vocabulary.</span></p>

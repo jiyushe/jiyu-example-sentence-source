@@ -1,5 +1,7 @@
 # onstage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/onstage.md)
+
 <p><span class="chinese">每次比较两个数的大小。</span><span class="english">We pair wise compare everyone that was onstage.</span></p>
 
 <p><span class="chinese">用户怎么在舞台或者录音室里使用这个软件？</span><span class="english">How are users using this onstage and in the studio?</span></p>

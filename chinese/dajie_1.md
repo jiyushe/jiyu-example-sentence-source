@@ -1,5 +1,7 @@
 # 打结
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dajie_1.md)
+
 <p><span class="chinese">我的衣服在背后打结。</span><span class="english">My dress ties at the back.</span></p>
 
 <p><span class="chinese">这缎带不好打结。</span><span class="english">The ribbon doesn't tie well.</span></p>

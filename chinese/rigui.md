@@ -1,5 +1,7 @@
 # 日晷
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rigui.md)
+
 <p><span class="chinese">日晷上显示的时间非常精确。</span><span class="english">A sundial showed very precise time.</span></p>
 
 <p><span class="chinese">这儿有好几种日晷。</span><span class="english">There are several kinds of sundials.</span></p>

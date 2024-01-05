@@ -1,5 +1,7 @@
 # 因明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinming.md)
+
 <p><span class="chinese">因明是世界三大逻辑起源之一。</span><span class="english">Hetuvidya is one of the three original systems of logic in the world.</span></p>
 
 <p><span class="chinese">衙里，因明、清时有太湖营游击衙署设在此而得名。</span><span class="english">Yali , the Ming and Qing at a guerrilla camp in Taihu Lake in this Yashu named.</span></p>

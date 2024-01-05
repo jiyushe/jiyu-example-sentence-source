@@ -1,5 +1,7 @@
 # baruch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baruch.md)
+
 <p><span class="chinese">我断断续续的柏鲁克分校学习，</span><span class="english">I study on and off in Baruch College</span></p>
 
 <p><span class="chinese">巴鲁克布隆伯格八十五岁。</span><span class="english">Baruch Blumberg was eighty-five years old.</span></p>

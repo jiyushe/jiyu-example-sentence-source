@@ -1,5 +1,7 @@
 # 叫卖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaomai.md)
+
 <p><span class="chinese">他推着车沿路叫卖水果。</span><span class="english">He vends fruit from cart.</span></p>
 
 <p><span class="chinese">他推着车沿路叫卖水果。</span><span class="english">He vends fruit from a cart.</span></p>

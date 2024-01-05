@@ -1,5 +1,7 @@
 # shady
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shady.md)
+
 <p><span class="chinese">这是条林阴大道。</span><span class="english">This is a shady avenue.</span></p>
 
 <p><span class="chinese">出生和长大，遮荫P黑鬼。</span><span class="english">Born and raised, Shady P nigga.</span></p>

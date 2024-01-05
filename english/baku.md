@@ -1,5 +1,7 @@
 # baku
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baku.md)
+
 <p><span class="chinese">一般人们常把苦茶油。</span><span class="english">Generally people Chang Baku tea oil.</span></p>
 
 <p><span class="chinese">巴库是个有着特殊氛围的城市。</span><span class="english">Baku is a city with a special atmosphere.</span></p>

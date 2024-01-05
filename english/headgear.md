@@ -1,5 +1,7 @@
 # headgear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/headgear.md)
+
 <p><span class="chinese">他要不要每天都戴上它？</span><span class="english">Will he wear the headgear every day?</span></p>
 
 <p><span class="chinese">例如毛巾，泳帽等…</span><span class="english">For example, washcloth, swimming headgear. Etc.</span></p>

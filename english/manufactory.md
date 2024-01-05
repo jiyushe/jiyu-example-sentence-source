@@ -1,5 +1,7 @@
 # manufactory
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manufactory.md)
+
 <p><span class="chinese">这里曾经有一个织布厂。</span><span class="english">There is also a manufactory here for bolting cloth.</span></p>
 
 <p><span class="chinese">本会为各义工举办了参观益力多厂。</span><span class="english">HEP arranged a Yakult manufactory visiting for volunteers.</span></p>

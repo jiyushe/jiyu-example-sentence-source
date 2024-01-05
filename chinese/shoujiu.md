@@ -1,5 +1,7 @@
 # 守旧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shoujiu.md)
+
 <p><span class="chinese">我更像是一个守旧的人。</span><span class="english">I'm a bit of an old fogy.</span></p>
 
 <p><span class="chinese">你真是太守旧了.</span><span class="english">You are positively old-fashioned.</span></p>

@@ -1,5 +1,7 @@
 # 韵文
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yunwen_1.md)
+
 <p><span class="chinese">纸张背面的宇宙韵文在宇宙大学很受欢迎。</span><span class="english">Universe University.</span></p>
 
 <p><span class="chinese">并非所有的韵文都是伟大的诗篇。</span><span class="english">Not all verse is great poetry.</span></p>

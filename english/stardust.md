@@ -1,5 +1,7 @@
 # stardust
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stardust.md)
+
 <p><span class="chinese">我们生活的地球由星际尘埃聚集而成。</span><span class="english">We are here, made of stardust.</span></p>
 
 <p><span class="chinese">耶路撒冷的钟声，星系和星尘。</span><span class="english">Jerusalem bells, galaxies and stardust.</span></p>

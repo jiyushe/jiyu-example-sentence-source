@@ -1,5 +1,7 @@
 # reorder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reorder.md)
+
 <p><span class="chinese">单个生命线重新排序操作</span><span class="english">Single lifeline reorder operation</span></p>
 
 <p><span class="chinese">我们准备将各卧室的家具重新布置一下。</span><span class="english">We'll reorder the furniture for our bedrooms.</span></p>

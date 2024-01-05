@@ -1,5 +1,7 @@
 # 耍流氓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shualiumang.md)
+
 <p><span class="chinese">你想耍流氓啊？</span><span class="english">You want to bullying ah?</span></p>
 
 <p><span class="chinese">女神？流氓？可能是正在耍流氓的女神。</span><span class="english">Goddness?Rogue?Maybe a goddess is roguing.</span></p>

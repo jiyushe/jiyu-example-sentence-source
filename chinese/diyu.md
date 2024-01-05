@@ -1,5 +1,7 @@
 # 低语
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diyu.md)
+
 <p><span class="chinese">我低语。</span><span class="english">I whispered.</span></p>
 
 <p><span class="chinese">我轻声低语道。</span><span class="english">I murmured quietly.</span></p>

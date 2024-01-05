@@ -1,5 +1,7 @@
 # noggin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noggin.md)
+
 <p><span class="chinese">最后，别忽略你的头部。</span><span class="english">Finally, don’t neglect your noggin.</span></p>
 
 <p><span class="chinese">我给你一个几尼换一杯酒，吉姆。</span><span class="english">I'll give you a golden guinea for a noggin , Jim.</span></p>

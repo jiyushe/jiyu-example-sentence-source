@@ -1,5 +1,7 @@
 # retype
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/retype.md)
+
 <p><span class="chinese">剪切和粘贴比重新打字要快。</span><span class="english">It's quicker to cut and paste than to retype.</span></p>
 
 <p><span class="chinese">请重新输入密码以确认拼写。</span><span class="english">Retype your password to confirm the spelling.</span></p>

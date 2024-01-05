@@ -1,5 +1,7 @@
 # kisangani
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kisangani.md)
+
 <p><span class="chinese">我们明天再给职岱打个电话。</span><span class="english">get back to Kisangani.We can phone Adai again tomorrow.</span></p>
 
 <p><span class="chinese">基桑加尼一位居民称，飞机断成三部分。</span><span class="english">Kisangani resident said the plane had broken into three pieces.</span></p>

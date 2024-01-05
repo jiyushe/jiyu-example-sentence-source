@@ -1,5 +1,7 @@
 # 情缘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingyuan_1.md)
+
 <p><span class="chinese">工作中会发展浪漫情缘。</span><span class="english">Romance will develop through work.</span></p>
 
 <p><span class="chinese">浪漫情缘应当要稳定下来。</span><span class="english">Romantic relationships should stabilize.</span></p>

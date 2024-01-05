@@ -1,5 +1,7 @@
 # mph
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mph.md)
+
 <p><span class="chinese">我们的平均速度时80英里每小时。</span><span class="english">Our speed averaged at 80 mph.</span></p>
 
 <p><span class="chinese">车速达到每小时30英里时要换高挡。</span><span class="english">Shift up when you reach 30 mph.</span></p>

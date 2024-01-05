@@ -1,5 +1,7 @@
 # 选本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanben.md)
+
 <p><span class="chinese">保证最后形成中华诗歌地图最终选本。</span><span class="english">Ensure that the final map of the final form of Chinese poetry anthology.</span></p>
 
 <p><span class="chinese">诗歌选本是一种极具包容性的文学批评形式。</span><span class="english">Poetry anthology is an extremely inclusiveness form of literary criticism.</span></p>

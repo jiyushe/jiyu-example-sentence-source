@@ -1,5 +1,7 @@
 # 说理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuoli.md)
+
 <p><span class="chinese">批评应该是充分说理的。</span><span class="english">Criticism should be entirely reasonable.</span></p>
 
 <p><span class="chinese">咱们找他说理去。</span><span class="english">Let's go and reason things out with him.</span></p>

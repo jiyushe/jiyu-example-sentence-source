@@ -1,5 +1,7 @@
 # suppressant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/suppressant.md)
+
 <p><span class="chinese">水是天然的食欲抑制剂。</span><span class="english">Water is a natural appetite suppressant.</span></p>
 
 <p><span class="chinese">瘦素就好像是一种天然的“食欲抑制剂”。</span><span class="english">Leptin acts like a natural appetite suppressant.</span></p>

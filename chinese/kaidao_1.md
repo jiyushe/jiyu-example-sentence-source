@@ -1,5 +1,7 @@
 # 开导
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaidao_1.md)
+
 <p><span class="chinese">谢谢你开导我。</span><span class="english">Thank you for enlighten me.</span></p>
 
 <p><span class="chinese">你能给我开导一下吗？</span><span class="english">Could you please enlighten me?</span></p>

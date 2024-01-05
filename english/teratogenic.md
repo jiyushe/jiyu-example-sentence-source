@@ -1,5 +1,7 @@
 # teratogenic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/teratogenic.md)
+
 <p><span class="chinese">其中有致癌、致畸、致突变作用的约500余种。</span><span class="english">Among them, carcinogenic, teratogenic and mutagenic effects of some 500 species.</span></p>
 
 <p><span class="chinese">克隆将作为致畸高手，与不安全药物“反应停”一样。</span><span class="english">Cloning would join the u afe drug Thalidomide in the teratogenic hall of infamy.</span></p>

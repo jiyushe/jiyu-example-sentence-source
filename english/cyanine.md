@@ -1,5 +1,7 @@
 # cyanine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cyanine.md)
+
 <p><span class="chinese">采用旋涂工艺制备出了大面积的均匀花菁化合物染料薄膜和以其为记录介质的CD-R光盘。</span><span class="english">In this paper, the cyanine thin films and CD-R samples were prepared by the spin-coating process.</span></p>
 
 <p><span class="chinese">但随着甲川链的增长，染料光稳定性下降。</span><span class="english">However, the photo-stability of cyanine dyes could be decreased when conjugated methine chain increases.</span></p>

@@ -1,5 +1,7 @@
 # 公诉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongsu.md)
+
 <p><span class="chinese">对案件提起公诉的地方检察官。</span><span class="english">The district attorney prosecuting the case.</span></p>
 
 <p><span class="chinese">公诉变更是公诉权的一项重要权能。</span><span class="english">It is an important part of public prosecution power.</span></p>

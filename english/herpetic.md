@@ -1,5 +1,7 @@
 # herpetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/herpetic.md)
+
 <p><span class="chinese">疱疹性溃疡有明显的界限。</span><span class="english">A herpetic ulcer is seen microscopically to have a sharp margin.</span></p>
 
 <p><span class="chinese">但是疱疹病毒形成的水泡也会有相同的临床表现。</span><span class="english">But the clinical lesions share the same features with herpetic vesicles.</span></p>

@@ -1,5 +1,7 @@
 # parking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/parking.md)
+
 <p><span class="chinese">大货车停车场?。</span><span class="english">Truck parking area?</span></p>
 
 <p><span class="chinese">找一个停车计费器。</span><span class="english">Find a parking meter.</span></p>

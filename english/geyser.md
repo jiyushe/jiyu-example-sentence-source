@@ -1,5 +1,7 @@
 # geyser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/geyser.md)
+
 <p><span class="chinese">这叫做“间歇喷泉”。</span><span class="english">This is called a geyser.</span></p>
 
 <p><span class="chinese">蒸气从热水锅炉里冒出。</span><span class="english">Steam erupted from the geyser.</span></p>

@@ -1,5 +1,7 @@
 # 款冬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuandong.md)
+
 <p><span class="chinese">两只蜗牛一直生活在款冬叶上。</span><span class="english">A snail was living on a back of a butterbur leaf.</span></p>
 
 <p><span class="chinese">有两只蜗牛住在款冬叶子的背面。</span><span class="english">Two snails were living on a back of the butterbur leaves.</span></p>

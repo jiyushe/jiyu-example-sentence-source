@@ -1,5 +1,7 @@
 # 地面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dimian.md)
+
 <p><span class="chinese">嗯地面推着我。</span><span class="english">This floor is pushing.</span></p>
 
 <p><span class="chinese">请勿从地面拖行设备。</span><span class="english">Do not drag facilities.</span></p>

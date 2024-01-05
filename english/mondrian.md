@@ -1,5 +1,7 @@
 # mondrian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mondrian.md)
+
 <p><span class="chinese">我的首例就是蒙德里安。</span><span class="english">My opening example is Mondrian.</span></p>
 
 <p><span class="chinese">但是一旦你看到这幅画是怎样完成的，蒙德里安就和之前不再是同一个人了。</span><span class="english">But once you have seen how the painting works, Mondrian will never be the same.</span></p>

@@ -1,5 +1,7 @@
 # judaism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/judaism.md)
+
 <p><span class="chinese">犹太教中的先知。</span><span class="english">Prophet of Judaism.</span></p>
 
 <p><span class="chinese">所以他们转向信仰犹太教。</span><span class="english">So they converted to Judaism.</span></p>

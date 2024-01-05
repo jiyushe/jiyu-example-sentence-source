@@ -1,5 +1,7 @@
 # trilateration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trilateration.md)
+
 <p><span class="chinese">这样的三边测量锁的方位误差容易迅速积累。</span><span class="english">Such trilateration is liable to rapid accumulation of azimuth error.</span></p>
 
 <p><span class="chinese">它是对已往三角测量、三边测量和边角网测量的统称。</span><span class="english">It is a general designation for the previously triangulation, trilateration survey and triangulateration.</span></p>

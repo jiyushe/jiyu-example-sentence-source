@@ -1,5 +1,7 @@
 # 过细
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guoxi.md)
+
 <p><span class="chinese">鱼肉不宜切得过细或过薄！</span><span class="english">Do not cut fish fillet too fine or thin!</span></p>
 
 <p><span class="chinese">“我不想管得过细，”他说。</span><span class="english">“I don’t want to oversimplify, ” he says.</span></p>

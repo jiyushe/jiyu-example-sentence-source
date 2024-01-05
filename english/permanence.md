@@ -1,5 +1,7 @@
 # permanence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/permanence.md)
+
 <p><span class="chinese">这就是客体永存性</span><span class="english">That's object permanence.</span></p>
 
 <p><span class="chinese">成年人是拥有客体永存性概念的</span><span class="english">So, adults have object permanence.</span></p>

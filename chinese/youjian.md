@@ -1,5 +1,7 @@
 # 诱奸
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youjian.md)
+
 <p><span class="chinese">一种诱奸还是一个战争宣告的仪式？</span><span class="english">A ritual of seduction or a war declaration?</span></p>
 
 <p><span class="chinese">他想娶他诱奸过的那位年轻姑娘。</span><span class="english">He wants to marry the young girl he's done over.</span></p>

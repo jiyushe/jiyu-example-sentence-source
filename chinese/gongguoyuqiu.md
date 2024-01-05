@@ -1,5 +1,7 @@
 # 供过于求
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongguoyuqiu.md)
+
 <p><span class="chinese">供过于求。</span><span class="english">The supply exceeds the demand.</span></p>
 
 <p><span class="chinese">但是天然气供过于求怎么办？</span><span class="english">But what of our natural gas glut?</span></p>

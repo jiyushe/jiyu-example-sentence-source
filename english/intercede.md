@@ -1,5 +1,7 @@
 # intercede
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intercede.md)
+
 <p><span class="chinese">他有时候也极力为我说情。</span><span class="english">He had occasionally tried to intercede for me.</span></p>
 
 <p><span class="chinese">当他试着说情时很快被制止了。</span><span class="english">He was quickly snubbed when he tried to intercede.</span></p>

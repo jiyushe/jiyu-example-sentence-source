@@ -1,5 +1,7 @@
 # ama
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ama.md)
+
 <p><span class="chinese">美国医学会---全球气候变暖报告</span><span class="english">AMA Report on Global Climate Change</span></p>
 
 <p><span class="chinese">爱玛·包法利夫人是情爱角色的饰演者。</span><span class="english">Madame Ama Bafrey played a lover role in life.</span></p>

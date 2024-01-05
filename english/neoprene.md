@@ -1,5 +1,7 @@
 # neoprene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neoprene.md)
+
 <p><span class="chinese">氯丁橡胶的内部和拉伸板。</span><span class="english">Neoprene interior and stretch panels.</span></p>
 
 <p><span class="chinese">钢闸门为氯丁橡胶导板所代替。</span><span class="english">Steel gate is replaced by neoprene guides.</span></p>

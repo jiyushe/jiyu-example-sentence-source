@@ -1,5 +1,7 @@
 # chaplain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chaplain.md)
+
 <p><span class="chinese">发抖的牧师身着白袍。</span><span class="english">The shivering Chaplain robed in white.</span></p>
 
 <p><span class="chinese">他以随军牧师的身份加入第40师。</span><span class="english">He joined the 40th Division as an army chaplain.</span></p>

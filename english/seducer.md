@@ -1,5 +1,7 @@
 # seducer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seducer.md)
+
 <p><span class="chinese">这个卑鄙的骗子是谁？</span><span class="english">What was the name of this vile seducer ?</span></p>
 
 <p><span class="chinese">因为我可以不停止地告诉你们大家，唐金是个最伟大的骗子。</span><span class="english">As I keep telling you all, King is The Great Seducer.</span></p>

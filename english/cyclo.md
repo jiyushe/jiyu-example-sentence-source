@@ -1,5 +1,7 @@
 # cyclo
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cyclo.md)
+
 <p><span class="chinese">后来，海参加并赢得了一场三轮黄包车比赛。</span><span class="english">And then, Hai enters a cyclo race, and wins.</span></p>
 
 <p><span class="chinese">人们要雇速度更快的轿车，因为他们认为人力车太慢”。</span><span class="english">People want to use faster vehicles because they think the cyclo is slow.</span></p>

@@ -1,5 +1,7 @@
 # 迥然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiongran.md)
+
 <p><span class="chinese">两者对于科学的态度、实施复仇的方式也迥然有异。</span><span class="english">The different ways to implement their revenge is also analyzed.</span></p>
 
 <p><span class="chinese">但这引发了灵魂辩护者的,一个迥然的进程</span><span class="english">But this prompts a different move on the part of the defender of souls.</span></p>

@@ -1,5 +1,7 @@
 # zonal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zonal.md)
+
 <p><span class="chinese">玄武岩红土壳具帝状结构。</span><span class="english">Lateritic crust of basalts is of zonal texture.</span></p>
 
 <p><span class="chinese">此外，藓类植物与其地带性植被关系密切。</span><span class="english">The moss is in close relationship with its zonal vegetation.</span></p>

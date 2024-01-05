@@ -1,5 +1,7 @@
 # copernican
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/copernican.md)
+
 <p><span class="chinese">第一个环节集中体现在海舍尔的哥白尼式革命上。</span><span class="english">The first one is embodied by his Copernican revolution.</span></p>
 
 <p><span class="chinese">然而，几个世纪以后，哥白尼的拥护者们似乎就没有危害了。</span><span class="english">Yet a couple of centuries later, Copernican advocates seemed harmless.</span></p>

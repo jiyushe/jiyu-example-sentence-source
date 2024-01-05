@@ -1,5 +1,7 @@
 # pha
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pha.md)
+
 <p><span class="chinese">锅炉调试期间MFT动作的原因分析及其处理。</span><span class="english">Cause Analysis and Treatment on MFT Actuation in Commissioning Pha.</span></p>
 
 <p><span class="chinese">PHA的应用是吹塑和注塑瓶和塑料薄膜。</span><span class="english">The applications of PHA are blow and injection-moulded bottles and plastic films.</span></p>

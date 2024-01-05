@@ -1,5 +1,7 @@
 # 南面
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanmian.md)
+
 <p><span class="chinese">莫哈韦沙漠，死亡谷南面。</span><span class="english">Mojave Desert.</span></p>
 
 <p><span class="chinese">南面是南沙区。</span><span class="english">South of the Nansha area.</span></p>

@@ -1,5 +1,7 @@
 # australian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/australian.md)
+
 <p><span class="chinese">他是一位澳大利亚作家。</span><span class="english">He is an Australian writer.</span></p>
 
 <p><span class="chinese">什么是澳大利亚燕麦干草？</span><span class="english">What is Australian Oaten Hay?</span></p>

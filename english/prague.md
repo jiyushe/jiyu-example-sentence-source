@@ -1,5 +1,7 @@
 # prague
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prague.md)
+
 <p><span class="chinese">布拉格近来变得这么丑恶了。</span><span class="english">Prague has grown so ugly lately, said Tereza.</span></p>
 
 <p><span class="chinese">圣文萨斯雷的皇冠保存在布拉格大教堂。</span><span class="english">The crown of St Wenceslas was in prague cathedral.</span></p>

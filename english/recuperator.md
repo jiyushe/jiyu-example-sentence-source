@@ -1,5 +1,7 @@
 # recuperator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recuperator.md)
+
 <p><span class="chinese">回热器是回路中的关键部件。</span><span class="english">Recuperator is an important component in the loop.</span></p>
 
 <p><span class="chinese">目的探讨糖尿病疗养员康复医疗效果。</span><span class="english">Objective To investigate the effect of sanatorium treatment in recuperator with diabetics.</span></p>

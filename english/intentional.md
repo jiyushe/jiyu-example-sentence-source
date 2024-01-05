@@ -1,5 +1,7 @@
 # intentional
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intentional.md)
+
 <p><span class="chinese">这是故意的。</span><span class="english">This is intentional.</span></p>
 
 <p><span class="chinese">好吧，这确实是有意的。</span><span class="english">So this is intentional.</span></p>

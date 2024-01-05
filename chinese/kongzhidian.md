@@ -1,5 +1,7 @@
 # 控制点
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongzhidian.md)
+
 <p><span class="chinese">你们怎样定控制点？</span><span class="english">Cómo determinan los puntos de control?</span></p>
 
 <p><span class="chinese">在每个关键控制点设立公差。</span><span class="english">Establish tolerances at each critical control point.</span></p>

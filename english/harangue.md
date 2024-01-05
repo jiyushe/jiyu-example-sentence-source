@@ -1,5 +1,7 @@
 # harangue
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/harangue.md)
+
 <p><span class="chinese">无休止的慷慨激昂，无休止的戏谑挖苦。</span><span class="english">On and on the harangue went, an endless sport.</span></p>
 
 <p><span class="chinese">他的一个手势所造成的影响，远胜于别人的长篇大论。</span><span class="english">They perform more by a gesture than others by a long harangue.</span></p>

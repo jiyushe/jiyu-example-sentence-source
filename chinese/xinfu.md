@@ -1,5 +1,7 @@
 # 信服
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinfu.md)
+
 <p><span class="chinese">她看起来并不信服。</span><span class="english">She looked unconvinced.</span></p>
 
 <p><span class="chinese">也许您还不太信服我刚才介绍的这些技术。</span><span class="english">Perhaps you are not convinced.</span></p>

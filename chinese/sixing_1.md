@@ -1,5 +1,7 @@
 # 私刑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sixing_1.md)
+
 <p><span class="chinese">私刑，这是一个暴徒！</span><span class="english">That is a lynching mob!</span></p>
 
 <p><span class="chinese">病狂的暴民私刑冶死一名无辜。</span><span class="english">The angry mob lynched an innocent man.</span></p>

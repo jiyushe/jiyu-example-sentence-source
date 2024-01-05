@@ -1,5 +1,7 @@
 # twoness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/twoness.md)
+
 <p><span class="chinese">说一点天上的一元论，千万别谈地狱的二元论。</span><span class="english">Don't say a syllable about the Infernal Twoness.</span></p>
 
 <p><span class="chinese">这些角色体现出农民身份与职业的二重性现状。</span><span class="english">These new roles show the twoness of the peasants' identities and occupations.</span></p>

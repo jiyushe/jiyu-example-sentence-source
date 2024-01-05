@@ -1,5 +1,7 @@
 # asa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asa.md)
+
 <p><span class="chinese">你认为阿萨是什么样的人?</span><span class="english">What do you make of Asa?</span></p>
 
 <p><span class="chinese">美国标准协会驳回了这样的抱怨。</span><span class="english">The ASA rejected these complaints.</span></p>

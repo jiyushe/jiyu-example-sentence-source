@@ -1,5 +1,7 @@
 # obsession
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obsession.md)
+
 <p><span class="chinese">激情变成困扰。</span><span class="english">Passions turns into obsession.</span></p>
 
 <p><span class="chinese">这个国家的人时时处处都忘不了吃。</span><span class="english">Food is an obsession in this country.</span></p>

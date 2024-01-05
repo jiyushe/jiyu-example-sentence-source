@@ -1,5 +1,7 @@
 # mandarine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mandarine.md)
+
 <p><span class="chinese">鸳鸯终生配对。</span><span class="english">The mandarine ducks paired for life.</span></p>
 
 <p><span class="chinese">他的发挥柑桔出现在同一年。</span><span class="english">His play Mandarine appeared in the same year.</span></p>

@@ -1,5 +1,7 @@
 # 沦亡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lunwang.md)
+
 <p><span class="chinese">在道德沦亡的时代，我们该何去何从？</span><span class="english">What do we do in times of moral upheaval?</span></p>
 
 <p><span class="chinese">领他们到下一个军官在到达或把他们锁起来，在细胞假如暴乱不会沦亡。</span><span class="english">Escort them to the next officer in reach or lock them up in the cells if the riot won't die away.</span></p>

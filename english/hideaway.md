@@ -1,5 +1,7 @@
 # hideaway
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hideaway.md)
+
 <p><span class="chinese">我可以带你去我的密室里。</span><span class="english">I can take you to my hideaway.</span></p>
 
 <p><span class="chinese">匪徒们逃到了一个偏远的山间藏身。</span><span class="english">The bandits fled to a remote mountain hideaway.</span></p>

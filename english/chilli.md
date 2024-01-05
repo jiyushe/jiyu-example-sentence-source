@@ -1,5 +1,7 @@
 # chilli
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chilli.md)
+
 <p><span class="chinese">把红辣椒切丝。</span><span class="english">Cut the red chilli in slice.</span></p>
 
 <p><span class="chinese">每周吃一次墨西哥牛肉。</span><span class="english">Eat chilli con carne once a week.</span></p>

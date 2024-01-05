@@ -1,5 +1,7 @@
 # 满员
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manyuan_1.md)
+
 <p><span class="chinese">飞离凯恩斯和汤斯维尔的航班皆满员。</span><span class="english">Cairns and Townsville fly flights are full.</span></p>
 
 <p><span class="chinese">看上去已经满员的厕所里还有一个空档位。</span><span class="english">They appeared full, but no, there was one empty cubicle.</span></p>

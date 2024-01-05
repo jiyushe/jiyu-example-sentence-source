@@ -1,5 +1,7 @@
 # nonferrous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonferrous.md)
+
 <p><span class="chinese">美国有色金属铸造业。</span><span class="english">Nonferrous Metal Foundries Industry in the U. S.</span></p>
 
 <p><span class="chinese">工厂同样处理铁质和非铁金属的回收。</span><span class="english">It deals with ferrous and nonferrous metal recycling.</span></p>

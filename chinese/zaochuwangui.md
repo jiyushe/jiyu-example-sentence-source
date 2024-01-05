@@ -1,5 +1,7 @@
 # 早出晚归
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaochuwangui.md)
+
 <p><span class="chinese">风霜雨露，早出晚归。</span><span class="english">Frost and rain, give evening early to return.</span></p>
 
 <p><span class="chinese">管理层还要早出晚归。</span><span class="english">It is about coming in early and leaving late.</span></p>

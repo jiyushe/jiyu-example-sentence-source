@@ -1,5 +1,7 @@
 # 胎记
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taiji_2.md)
+
 <p><span class="chinese">你想得到预见胎记吗？</span><span class="english">Would you want the birthmark?</span></p>
 
 <p><span class="chinese">首先，说说什么是胎记？</span><span class="english">First, explain what is birthmarks?</span></p>

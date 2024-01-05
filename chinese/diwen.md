@@ -1,5 +1,7 @@
 # 低温
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diwen.md)
+
 <p><span class="chinese">可使用低温垫布熨烫。</span><span class="english">Low iron on press cloth.</span></p>
 
 <p><span class="chinese">这是低温热源。</span><span class="english">Here is our colder reservoir.</span></p>

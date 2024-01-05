@@ -1,5 +1,7 @@
 # 近战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinzhan.md)
+
 <p><span class="chinese">这是完美的近战建卡！</span><span class="english">It's the perfect melee build!</span></p>
 
 <p><span class="chinese">仅装备钝的近战武器。</span><span class="english">Equip only nonlethal blunt melee weapons.</span></p>

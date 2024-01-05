@@ -1,5 +1,7 @@
 # aestheticism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aestheticism.md)
+
 <p><span class="chinese">这实际就是唯美主义浪荡子的艺术主张。</span><span class="english">This actually is the art of aestheticism dandy ideas.</span></p>
 
 <p><span class="chinese">王尔德及其唯美主义在中国的影响与接受。</span><span class="english">Oscar Wilde and influence and reception of his aestheticism in china.</span></p>

@@ -1,5 +1,7 @@
 # tri
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tri.md)
+
 <p><span class="chinese">我喜欢他鞋子上的环扣，还有他的帽子。</span><span class="english">I liked the buckles on his shoes and his tri hat.</span></p>
 
 <p><span class="chinese">单音调、双音调和三音调已被充分讲解。</span><span class="english">Single, Dual and Tri Tones have been defined in full.</span></p>

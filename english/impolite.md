@@ -1,5 +1,7 @@
 # impolite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impolite.md)
+
 <p><span class="chinese">他是个没礼貌的男孩。</span><span class="english">He is a impolite boy.</span></p>
 
 <p><span class="chinese">服务员很没有礼貌。</span><span class="english">Your waiter is impolite.</span></p>

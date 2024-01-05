@@ -1,5 +1,7 @@
 # puke
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/puke.md)
+
 <p><span class="chinese">不小心你就会大吐特吐。</span><span class="english">You might accidentally puke.</span></p>
 
 <p><span class="chinese">我讨厌你们这些太多了，让我作呕。</span><span class="english">I hate you gooks so much, it makes me puke.</span></p>

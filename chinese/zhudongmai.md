@@ -1,5 +1,7 @@
 # 主动脉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhudongmai.md)
+
 <p><span class="chinese">主动脉瓣狭窄是一个讨厌的疾病。</span><span class="english">Aortic stenosis is a nasty disease.</span></p>
 
 <p><span class="chinese">什么引起了主动脉缩窄？</span><span class="english">What causes coarctation of the aorta ?</span></p>

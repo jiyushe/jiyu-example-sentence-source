@@ -1,5 +1,7 @@
 # esophagitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/esophagitis.md)
+
 <p><span class="chinese">这是念球菌属食管炎。</span><span class="english">This is Candida esophagitis.</span></p>
 
 <p><span class="chinese">食管炎可能引起贫血。</span><span class="english">Anemia may result from esophagitis.</span></p>

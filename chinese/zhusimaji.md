@@ -1,5 +1,7 @@
 # 蛛丝马迹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhusimaji.md)
+
 <p><span class="chinese">咱们可以看看他们能找到些什么蛛丝马迹。</span><span class="english">We could see if they can pick up the trail.</span></p>
 
 <p><span class="chinese">路德维希显然看到了虐待儿童的蛛丝马迹。</span><span class="english">Ludwig evidently sees evidence of child abuse.</span></p>

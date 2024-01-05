@@ -1,5 +1,7 @@
 # 骷髅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kulou.md)
+
 <p><span class="chinese">用喇叭喊通骷髅中队长。</span><span class="english">Get Skull Leader on the horn.</span></p>
 
 <p><span class="chinese">骷髅岛，东南东偏东。</span><span class="english">Skeleton Island E. S. E. and by E.</span></p>

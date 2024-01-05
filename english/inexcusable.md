@@ -1,5 +1,7 @@
 # inexcusable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inexcusable.md)
+
 <p><span class="chinese">他的无礼是不可宽赦的。</span><span class="english">His rudeness is inexcusable.</span></p>
 
 <p><span class="chinese">在如今的世界，这几乎是不可原谅的。</span><span class="english">In today’s world, this is practically inexcusable.</span></p>

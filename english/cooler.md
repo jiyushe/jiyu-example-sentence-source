@@ -1,5 +1,7 @@
 # cooler
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cooler.md)
+
 <p><span class="chinese">它更酷吗？</span><span class="english">Is it cooler?</span></p>
 
 <p><span class="chinese">呆在背阴处吧--那儿凉快些。</span><span class="english">Stay in the shade it's cooler.</span></p>

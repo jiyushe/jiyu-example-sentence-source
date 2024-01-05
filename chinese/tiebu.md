@@ -1,5 +1,7 @@
 # 贴补
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tiebu.md)
+
 <p><span class="chinese">您要织补还是要贴补。</span><span class="english">Do you want the hole patched or darned?</span></p>
 
 <p><span class="chinese">他极需这笔钱贴补家用。</span><span class="english">He wanted that money badly to help at home.</span></p>

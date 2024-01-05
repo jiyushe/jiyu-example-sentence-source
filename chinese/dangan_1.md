@@ -1,5 +1,7 @@
 # 档案
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dangan_1.md)
+
 <p><span class="chinese">她阅读了犯罪档案。</span><span class="english">She reads crime files.</span></p>
 
 <p><span class="chinese">我查一下我们的档案。</span><span class="english">I'll check in our files.</span></p>

@@ -1,5 +1,7 @@
 # 静物
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingwu_2.md)
+
 <p><span class="chinese">一束光从摆放的静物身上依次扫过。</span><span class="english">A beam of light sweep over each still life.</span></p>
 
 <p><span class="chinese">他还画戏曲人物画、裸女、瓶花静物等。</span><span class="english">He also drew Chinese opera figures, nudes and still lives.</span></p>

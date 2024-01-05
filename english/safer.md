@@ -1,5 +1,7 @@
 # safer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/safer.md)
+
 <p><span class="chinese">这样一算，还是Volt更安全。</span><span class="english">This is safer.</span></p>
 
 <p><span class="chinese">它将使我们更加安全。</span><span class="english">It will make us safer.</span></p>

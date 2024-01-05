@@ -1,5 +1,7 @@
 # 折射
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zheshe.md)
+
 <p><span class="chinese">第二是折射光线。</span><span class="english">The second is to refract light.</span></p>
 
 <p><span class="chinese">一股反射和折射过来的柔和光线。</span><span class="english">A soft flow of reflected and refracted light.</span></p>

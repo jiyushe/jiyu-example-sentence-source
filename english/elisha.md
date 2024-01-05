@@ -1,5 +1,7 @@
 # elisha
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elisha.md)
+
 <p><span class="chinese">以利沙对他说，你可以平平安安地回去。</span><span class="english">Go in peace, ' Elisha said.</span></p>
 
 <p><span class="chinese">以利沙再次祷告神。</span><span class="english">A second time Elisha prayed.</span></p>

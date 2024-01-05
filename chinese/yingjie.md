@@ -1,5 +1,7 @@
 # 应届
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingjie.md)
+
 <p><span class="chinese">应届毕业生总是爱在学校大耍花招。</span><span class="english">Recent college graduates who go into banking.</span></p>
 
 <p><span class="chinese">研究对象为护理专科应届毕业生890人。</span><span class="english">The sample consisted of 890 junior college graduates.</span></p>

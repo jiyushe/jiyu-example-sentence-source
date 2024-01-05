@@ -1,5 +1,7 @@
 # manuscript
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/manuscript.md)
+
 <p><span class="chinese">请按体例修改这份手稿。</span><span class="english">Please style this manuscript.</span></p>
 
 <p><span class="chinese">我从来没听说过手稿箱。</span><span class="english">I’d never heard of manuscript boxes.</span></p>

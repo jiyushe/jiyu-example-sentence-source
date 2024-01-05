@@ -1,5 +1,7 @@
 # herder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/herder.md)
+
 <p><span class="chinese">这一结局有违赫尔德的初衷。</span><span class="english">This outcome is absolutely against the original intention of Herder.</span></p>
 
 <p><span class="chinese">然后赫尔德看到了作为德国文化生活的威胁法国的扩张。</span><span class="english">Then Herder saw the French expansion as a threat to the German cultural life.</span></p>

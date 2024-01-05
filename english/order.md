@@ -1,5 +1,7 @@
 # order
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/order.md)
+
 <p><span class="chinese">你先点。</span><span class="english">You order first.</span></p>
 
 <p><span class="chinese">他们整齐有序.</span><span class="english">They are in order.</span></p>

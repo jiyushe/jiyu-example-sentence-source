@@ -1,5 +1,7 @@
 # transportation 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transportation.md)
+
 <p><span class="chinese">能源，水，交通，建筑。</span><span class="english">Water. Transportation.</span></p>
 
 <p><span class="chinese">运输能力?。</span><span class="english">Transportation Capacity?</span></p>

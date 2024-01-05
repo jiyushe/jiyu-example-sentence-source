@@ -1,5 +1,7 @@
 # immunoreactive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immunoreactive.md)
+
 <p><span class="chinese">VP免疫反应产物散在分布于胞浆内。</span><span class="english">The VP immunoreactive products are located in the cytoplasm.</span></p>
 
 <p><span class="chinese">免疫反应产物弥散分布于胞浆内。</span><span class="english">The immunoreactive products were diffusely distributed in the cytoplasm.</span></p>

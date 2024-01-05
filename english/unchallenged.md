@@ -1,5 +1,7 @@
 # unchallenged
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unchallenged.md)
+
 <p><span class="chinese">没有自许为正统的理论可以长时间的不受挑战。</span><span class="english">No would-be orthodoxy goes unchallenged for long.</span></p>
 
 <p><span class="chinese">但是，一束失败的光影仍比未经受挑战的黑暗更有价值。</span><span class="english">But a light that fails is still better than unchallenged darkness.</span></p>

@@ -1,5 +1,7 @@
 # jin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jin.md)
+
 <p><span class="chinese">好吧，杰。</span><span class="english">Ok. Jin.</span></p>
 
 <p><span class="chinese">我的名字叫陈瑾。</span><span class="english">My name is Chen Jin.</span></p>

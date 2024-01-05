@@ -1,5 +1,7 @@
 # 好大喜功
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haodaxigong.md)
+
 <p><span class="chinese">好大喜功的李士武盯上了金深水。</span><span class="english">Like the Li Shiwu eyeing gold deep water.</span></p>
 
 <p><span class="chinese">那个将军总是好大喜功。</span><span class="english">The general always craves for greatness and success.</span></p>

@@ -1,5 +1,7 @@
 # 写实
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xieshi.md)
+
 <p><span class="chinese">这诗是写实的。</span><span class="english">This poetry is realistic.</span></p>
 
 <p><span class="chinese">比起写实派，我更喜欢抽象派。</span><span class="english">I prefer abstract to realism.</span></p>

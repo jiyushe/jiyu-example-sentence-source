@@ -1,5 +1,7 @@
 # deify
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deify.md)
+
 <p><span class="chinese">某些人崇拜权力如神。</span><span class="english">Some people deify power.</span></p>
 
 <p><span class="chinese">你也可以奉为神啊！</span><span class="english">You can deify them as Gods, too.</span></p>

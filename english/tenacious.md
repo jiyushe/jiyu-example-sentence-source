@@ -1,5 +1,7 @@
 # tenacious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tenacious.md)
+
 <p><span class="chinese">胜利，是属于最坚韧的人。</span><span class="english">Victory is among the most tenacious people.</span></p>
 
 <p><span class="chinese">原力的光明面可是说是非常的顽强。</span><span class="english">The positive side of the force can be just as tenacious.</span></p>

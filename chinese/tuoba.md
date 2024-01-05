@@ -1,5 +1,7 @@
 # 拖把
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuoba.md)
+
 <p><span class="chinese">你从哪找来拖把的？</span><span class="english">Where'd you get a mop?</span></p>
 
 <p><span class="chinese">他用拖把擦地板。</span><span class="english">He took a mop to the floor.</span></p>

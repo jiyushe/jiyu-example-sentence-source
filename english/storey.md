@@ -1,5 +1,7 @@
 # storey
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/storey.md)
+
 <p><span class="chinese">我们房子的二层有三间卧室。</span><span class="english">Our house has three bedrooms ont eh second storey.</span></p>
 
 <p><span class="chinese">在山西省，典型的住房是两层和一层半。</span><span class="english">In Shansi province two storey and one and a half storey houses are typical.</span></p>

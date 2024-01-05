@@ -1,5 +1,7 @@
 # 悻悻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingxing_1.md)
+
 <p><span class="chinese">奥斯卡站起身悻悻地走出厨房。</span><span class="english">Oscar got up and tramped out of the kitchen.</span></p>
 
 <p><span class="chinese">之后就悻悻睡着，并没有在意。</span><span class="english">After the bitterly fell asleep and did not care.</span></p>

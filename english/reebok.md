@@ -1,5 +1,7 @@
 # reebok
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reebok.md)
+
 <p><span class="chinese">乔·乐夫乔伊从锐步球场发来报道</span><span class="english">Joe Lovejoy at the Reebok Stadium</span></p>
 
 <p><span class="chinese">但如果假设他代言的是锐步/Reebok呢？</span><span class="english">But suppose he had endorsed Reebok instead.</span></p>

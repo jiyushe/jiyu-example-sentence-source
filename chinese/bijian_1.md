@@ -1,5 +1,7 @@
 # 鼻尖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bijian_1.md)
+
 <p><span class="chinese">他的鼻尖上翘。</span><span class="english">His nose is tiptilted.</span></p>
 
 <p><span class="chinese">它吹疼了我的脚趾和鼻尖。</span><span class="english">It stings the toes and bites the nose.</span></p>

@@ -1,5 +1,7 @@
 # ludicrously
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ludicrously.md)
+
 <p><span class="chinese">他甩着袖子去追两个女孩，那滑稽的模样活像蝙蝠。</span><span class="english">He flapped after the girls, looking ludicrously bat-like.</span></p>
 
 <p><span class="chinese">有一些人甚至花可笑地长时间去重新做任务，去追逐一个只有他们可以想到的理想状态。</span><span class="english">Some put in ludicrously long hours redoing tasks, chasing an ideal only they could see.</span></p>

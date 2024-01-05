@@ -1,5 +1,7 @@
 # 机灵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiling_1.md)
+
 <p><span class="chinese">杰克是一个机灵的外侨。</span><span class="english">Jack was an alert alien.</span></p>
 
 <p><span class="chinese">它的小脸可真机灵！</span><span class="english">What a cute little face!</span></p>

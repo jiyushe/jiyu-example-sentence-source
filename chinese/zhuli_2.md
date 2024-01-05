@@ -1,5 +1,7 @@
 # 助力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuli_2.md)
+
 <p><span class="chinese">扬帆远航，赖您东风助力！</span><span class="english">Sailing, wind power depends on You!</span></p>
 
 <p><span class="chinese">我们需要福特的转向助力泵。</span><span class="english">We want to buy power steering for FORD.</span></p>

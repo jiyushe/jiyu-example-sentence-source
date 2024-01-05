@@ -1,5 +1,7 @@
 # 墙头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiangtou.md)
+
 <p><span class="chinese">葡萄藤爬过了墙头。</span><span class="english">Vines run over the wall.</span></p>
 
 <p><span class="chinese">两只蓝鸽子，它们坐墙头。</span><span class="english">One blue pigeons sitting on a wall.</span></p>

@@ -1,5 +1,7 @@
 # totalitarianism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/totalitarianism.md)
+
 <p><span class="chinese">热带集权国家具有欺骗性。</span><span class="english">Tropical totalitarianism is deceptive.</span></p>
 
 <p><span class="chinese">他相信，自由的性爱是治疗极权主义的一剂良药。</span><span class="english">Free sex, he believed, was the best check on totalitarianism.</span></p>

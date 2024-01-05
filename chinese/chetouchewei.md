@@ -1,5 +1,7 @@
 # 彻头彻尾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chetouchewei.md)
+
 <p><span class="chinese">他是一个彻头彻尾的恶棍。</span><span class="english">He is a thorough scoundrel.</span></p>
 
 <p><span class="chinese">这是一个彻头彻尾的利己主义者。</span><span class="english">That is the perfect Egoist.</span></p>

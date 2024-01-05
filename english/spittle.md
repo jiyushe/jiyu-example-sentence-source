@@ -1,5 +1,7 @@
 # spittle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spittle.md)
+
 <p><span class="chinese">一滴滴口水顺着他的下巴往下流。</span><span class="english">Gobs of spittle ran down his chin.</span></p>
 
 <p><span class="chinese">现在淌的哈喇子，将成为明天的眼泪。</span><span class="english">Your spittle of today will be a tear of tomorrow.</span></p>

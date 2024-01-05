@@ -1,5 +1,7 @@
 # forget 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forget.md)
+
 <p><span class="chinese">把它忘掉吧</span><span class="english">Forget it.</span></p>
 
 <p><span class="chinese">忘掉如何经历。</span><span class="english">Forget the how.</span></p>

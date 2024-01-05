@@ -1,5 +1,7 @@
 # ergot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ergot.md)
+
 <p><span class="chinese">甲基麦角酰胺。</span><span class="english">Amine of acyl of ② methylic ergot.</span></p>
 
 <p><span class="chinese">他获得毒品，巴比妥酸盐和麦角生物碱。</span><span class="english">He was given narcotics, barbiturates and ergot alkaloids.</span></p>

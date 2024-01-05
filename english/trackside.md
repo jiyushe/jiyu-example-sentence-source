@@ -1,5 +1,7 @@
 # trackside
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trackside.md)
+
 <p><span class="chinese">联锁用于列车在车站运行的轨旁安全系统。</span><span class="english">Interlocking Trackside safety system for trains running in stations.</span></p>
 
 <p><span class="chinese">维泰尔的整个家庭是赛道上的西班牙大奖赛。</span><span class="english">Sebastian Vettel's entire family is trackside at the Spanish grand prix.</span></p>

@@ -1,5 +1,7 @@
 # rotund
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rotund.md)
+
 <p><span class="chinese">我塑造一个新的胖胖的犹太人形象。</span><span class="english">I created a new look for rotund Jews.</span></p>
 
 <p><span class="chinese">其中，大约有150只圆圆胖胖的恒河猴。</span><span class="english">About 150 of them are the rotund rhesuses.</span></p>

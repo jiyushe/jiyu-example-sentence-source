@@ -1,5 +1,7 @@
 # homonuclear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/homonuclear.md)
+
 <p><span class="chinese">共享电子。</span><span class="english">They all share. Homonuclear species.</span></p>
 
 <p><span class="chinese">第一种很没有意思，就是同核。</span><span class="english">One is the trivial case, homonuclear.</span></p>

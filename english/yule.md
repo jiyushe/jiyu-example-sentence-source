@@ -1,5 +1,7 @@
 # yule
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/yule.md)
+
 <p><span class="chinese">我对语言的热爱来自于Yule。</span><span class="english">I got my love of language from Yule.</span></p>
 
 <p><span class="chinese">于尔先生告诉我，这事他已经想过了。</span><span class="english">Mr. Yule told me he had thought about it.</span></p>

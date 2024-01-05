@@ -1,5 +1,7 @@
 # 掷地有声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhidiyousheng.md)
+
 <p><span class="chinese">我从粉红色的云彩堕下，掷地有声。</span><span class="english">I fell off my pink cloud with a thud.</span></p>
 
 <p><span class="chinese">风不惧把「活得过三天」五个字说得掷地有声！</span><span class="english">Feng Buju spoke the words "survived longer than 3 days" with great emphasis.</span></p>

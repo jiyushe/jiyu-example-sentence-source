@@ -1,5 +1,7 @@
 # shrub
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shrub.md)
+
 <p><span class="chinese">灌木已结浆果。</span><span class="english">The shrub has berried.</span></p>
 
 <p><span class="chinese">玫瑰是一种常青灌木或藤本植物。</span><span class="english">A rose is a perennial shrub or vine.</span></p>

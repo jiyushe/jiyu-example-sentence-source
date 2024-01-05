@@ -1,5 +1,7 @@
 # 呜咽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuye_1.md)
+
 <p><span class="chinese">哦，安洁，不要呜咽。</span><span class="english">Oh, Angie don't you weep.</span></p>
 
 <p><span class="chinese">阿根廷，别为我呜咽！</span><span class="english">Don't cry for me Agentina !</span></p>

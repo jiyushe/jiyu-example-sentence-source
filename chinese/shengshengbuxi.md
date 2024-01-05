@@ -1,5 +1,7 @@
 # 生生不息
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengshengbuxi.md)
+
 <p><span class="chinese">通惠精神，扎根通惠，生生不息。</span><span class="english">Tonghui Spirit roots and grows endlessly.</span></p>
 
 <p><span class="chinese">但若青春能永驻，爱生生不息。</span><span class="english">But could youth last, and love still breed.</span></p>

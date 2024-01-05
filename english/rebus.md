@@ -1,5 +1,7 @@
 # rebus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rebus.md)
+
 <p><span class="chinese">大多数人都知道有一种称为画谜的猜谜。</span><span class="english">Most people know a sort of puzzle called rebus.</span></p>
 
 <p><span class="chinese">孩子们会喜欢上这个每一页有着趣味画谜的引人入胜的故事。</span><span class="english">Kids will love this charming story with colorful rebus icons on every page.</span></p>

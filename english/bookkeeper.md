@@ -1,5 +1,7 @@
 # bookkeeper
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bookkeeper.md)
+
 <p><span class="chinese">她不想只当个簿记员。</span><span class="english">She doesn't want to be just a bookkeeper.</span></p>
 
 <p><span class="chinese">奶奶的一个姐姐是簿记员。</span><span class="english">One of Grandma's sisters was a bookkeeper.</span></p>

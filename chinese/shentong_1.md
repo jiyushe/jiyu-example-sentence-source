@@ -1,5 +1,7 @@
 # 神通
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shentong_1.md)
+
 <p><span class="chinese">并且从此而获得了新的〝用〞，新的神通。</span><span class="english">We gain new "use" and new theurgy.</span></p>
 
 <p><span class="chinese">并从此而获得了新的〝用〞，新的神通。</span><span class="english">We gain new "use" and new theurgy.</span></p>

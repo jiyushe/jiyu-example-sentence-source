@@ -1,5 +1,7 @@
 # technologist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/technologist.md)
+
 <p><span class="chinese">如果你感到不舒服，请告诉你的技术员。</span><span class="english">If you are uncomfortable, please tell your technologist.</span></p>
 
 <p><span class="chinese">教育技术专家的一生就是一个不断挑战的过程。</span><span class="english">Life as an educational technologist is a constant challenge.</span></p>

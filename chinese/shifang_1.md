@@ -1,5 +1,7 @@
 # 石方
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shifang_1.md)
+
 <p><span class="chinese">这意味着，有没有粒状，或现实的质量向石方。</span><span class="english">This means there's no grainy, or realistic quality to the stonework.</span></p>
 
 <p><span class="chinese">最初祭坛为白石方台，坛面为红琉璃，象征太阳。</span><span class="english">At first, the altar was a white stone table, with red glaze on its top, representing the sun.</span></p>

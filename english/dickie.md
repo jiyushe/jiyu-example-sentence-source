@@ -1,5 +1,7 @@
 # dickie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dickie.md)
+
 <p><span class="chinese">迪克一声不响地离开了商店。</span><span class="english">Dickie left the shop without a word.</span></p>
 
 <p><span class="chinese">但汤姆喜欢上义大利、迪奇和他的钱。</span><span class="english">But Tom likes Italy, and he likes Dickie 's money.</span></p>

@@ -1,5 +1,7 @@
 # polity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polity.md)
+
 <p><span class="chinese">尽管把科学和政治糅合在一起有点复杂，但是为了一个有效能的政体，这样做是必要的。</span><span class="english">Mixing science and politics is tricky but necessary for a functioning polity</span></p>
 
 <p><span class="chinese">一个之间的校风和系统的基本冲突削弱了印度的政体。</span><span class="english">A basic conflict between the ethos and system has weakened the Indian polity.</span></p>

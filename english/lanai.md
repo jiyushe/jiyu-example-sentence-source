@@ -1,5 +1,7 @@
 # lanai
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lanai.md)
+
 <p><span class="chinese">阳台是日光浴和进餐的完美地点。</span><span class="english">The lanai is perfect for sunbathing and dining.</span></p>
 
 <p><span class="chinese">一位友善的店老板建议我走访拉奈岛上的船难海滩。</span><span class="english">A friendly shopkeeper suggests I explore Lanai 's Shipwreck Beach.</span></p>

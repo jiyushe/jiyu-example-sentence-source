@@ -1,5 +1,7 @@
 # urokinase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/urokinase.md)
+
 <p><span class="chinese">该文对尿激酶纯化方法与技术进行了研究。</span><span class="english">The method and technology of urokinase are studied here.</span></p>
 
 <p><span class="chinese">目的观察胸腔内注入尿激酶减少结核性渗出性胸膜炎胸膜粘连的效果。</span><span class="english">Objective To observe the therapeutic effect of intrapleural urokinase in treatment of tuberculosis pleurisy.</span></p>

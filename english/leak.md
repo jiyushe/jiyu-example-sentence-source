@@ -1,5 +1,7 @@
 # leak
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/leak.md)
+
 <p><span class="chinese">就是你说漏了嘴。</span><span class="english">You're the leak.</span></p>
 
 <p><span class="chinese">你能闻到煤气漏气吗？</span><span class="english">Can you smell a gas leak?</span></p>

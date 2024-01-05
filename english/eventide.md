@@ -1,5 +1,7 @@
 # eventide
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eventide.md)
+
 <p><span class="chinese">在黄昏回家，心存感激。</span><span class="english">To return home at eventide and gratitude.</span></p>
 
 <p><span class="chinese">何必要筑桥在天色已晚？</span><span class="english">Why build you the bridge at the eventide?</span></p>

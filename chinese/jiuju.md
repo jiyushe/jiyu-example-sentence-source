@@ -1,5 +1,7 @@
 # 酒具
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuju.md)
+
 <p><span class="chinese">或者你想开始收藏酒及其酒具吗？</span><span class="english">Or perhaps you're just starting your own wine collection?</span></p>
 
 <p><span class="chinese">酒具的形状并不重要，主要看你自己的鉴赏品位。</span><span class="english">But the shape you choose really just comes down to your own aesthetic taste.</span></p>

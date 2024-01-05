@@ -1,5 +1,7 @@
 # 指南
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhinan.md)
+
 <p><span class="chinese">德文是一个巫婆指南。</span><span class="english">Devin is a witch guide.</span></p>
 
 <p><span class="chinese">中国考试指南网那女孩子患了重病。</span><span class="english">The girl had a bad illness.</span></p>

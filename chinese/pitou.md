@@ -1,5 +1,7 @@
 # 劈头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pitou.md)
+
 <p><span class="chinese">我扯开封口，劈头念信。</span><span class="english">I broke the seal and read.</span></p>
 
 <p><span class="chinese">劈头第一句话就问出了什么事。</span><span class="english">His first words were to ask what was up.</span></p>

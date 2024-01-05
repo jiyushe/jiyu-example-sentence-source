@@ -1,5 +1,7 @@
 # 绵亘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miangen.md)
+
 <p><span class="chinese">绵亘不断的细雨，勾起我对你的挂念。</span><span class="english">The continuous rain , recmy missing for you.</span></p>
 
 <p><span class="chinese">就连妈妈也不会叫我忘了绵亘在眼前的难题。</span><span class="english">Even my mother won't let me forget about what lies ahead.</span></p>

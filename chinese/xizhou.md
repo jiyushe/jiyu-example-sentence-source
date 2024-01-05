@@ -1,5 +1,7 @@
 # 西周
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xizhou.md)
+
 <p><span class="chinese">西周时期，是中国早期国家的典型期。</span><span class="english">Being little evolved from an early ancestral type.</span></p>
 
 <p><span class="chinese">西周存在方伯这种介于天子与诸侯之间的地方势力类型。</span><span class="english">This was the ruling type between the emperor and the dukes.</span></p>

@@ -1,5 +1,7 @@
 # together
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/together.md)
+
 <p><span class="chinese">我们一起唱歌。</span><span class="english">We sang together.</span></p>
 
 <p><span class="chinese">一起做剪贴簿.</span><span class="english">Scrapbook together.</span></p>

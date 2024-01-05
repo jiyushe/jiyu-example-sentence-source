@@ -1,5 +1,7 @@
 # nih
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nih.md)
+
 <p><span class="chinese">“我们关心的一个问题是NIH在资助假科学”。</span><span class="english">One of our concerns is that NIH is funding pseudoscience.</span></p>
 
 <p><span class="chinese">美国大部分医药研究项目的资金主要来源于NIH。</span><span class="english">NIH funding is the lifeblood of much U.S. medical research.</span></p>

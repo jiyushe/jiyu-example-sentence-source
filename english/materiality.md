@@ -1,5 +1,7 @@
 # materiality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/materiality.md)
+
 <p><span class="chinese">泥巴，困在没有生气的肉体中，困在物质中。</span><span class="english">Mud,entrapped in a dead body,trapped in materiality.</span></p>
 
 <p><span class="chinese">估计审计重要性水平影响审计成本。</span><span class="english">Estimated auditing materiality level affects auditing cost.</span></p>

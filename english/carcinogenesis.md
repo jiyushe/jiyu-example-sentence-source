@@ -1,5 +1,7 @@
 # carcinogenesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carcinogenesis.md)
+
 <p><span class="chinese">研究结果已经在这个月的Carcinogenesis杂志上发表。</span><span class="english">Their research is published in this month's journal Carcinogenesis.</span></p>
 
 <p><span class="chinese">DNP致癌可能与CYP2E1对其原位代谢活化相关。</span><span class="english">The DNP carcinogenesis might be related to its in situ activation by CYP2E1.</span></p>

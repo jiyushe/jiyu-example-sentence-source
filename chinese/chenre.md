@@ -1,5 +1,7 @@
 # 趁热
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chenre.md)
+
 <p><span class="chinese">这个酱汁要跟鸡肉一起趁热上。</span><span class="english">Serve this sauce hot with chicken.</span></p>
 
 <p><span class="chinese">这面趁热吃吧。</span><span class="english">Eat the noodles while they are hot.</span></p>

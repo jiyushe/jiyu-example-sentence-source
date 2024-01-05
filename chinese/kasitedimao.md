@@ -1,5 +1,7 @@
 # 喀斯特地貌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kasitedimao.md)
+
 <p><span class="chinese">是非常罕见的喀斯特地貌景观。</span><span class="english">This is a rare type of karst topography.</span></p>
 
 <p><span class="chinese">王二河水库位于贵州省安顺市境内，属于典型的喀斯特地貌。</span><span class="english">Wang-er-he Reservoir locates in Anshun, Guizhou Province, where landform is karsts type.</span></p>

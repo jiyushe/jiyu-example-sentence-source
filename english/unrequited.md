@@ -1,5 +1,7 @@
 # unrequited
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unrequited.md)
+
 <p><span class="chinese">你是希特勒单相思的情人。</span><span class="english">You are Hilter's unrequited love!</span></p>
 
 <p><span class="chinese">你是希特勒单相思的情人。</span><span class="english">You are Hitler's unrequited love!</span></p>

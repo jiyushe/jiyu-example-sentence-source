@@ -1,5 +1,7 @@
 # 支票
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhipiao.md)
+
 <p><span class="chinese">签这张支票。</span><span class="english">Sign the check.</span></p>
 
 <p><span class="chinese">这是要兑的那张支票。</span><span class="english">Here is the check.</span></p>

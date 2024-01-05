@@ -1,5 +1,7 @@
 # 预兆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuzhao.md)
+
 <p><span class="chinese">又或者说是一种不祥的预兆？</span><span class="english">Or is it an ominous omen?</span></p>
 
 <p><span class="chinese">这消息对她是不好的预兆。</span><span class="english">This news bodes ill for her.</span></p>

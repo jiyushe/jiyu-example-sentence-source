@@ -1,5 +1,7 @@
 # 故事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gushi_3.md)
+
 <p><span class="chinese">哪个故事？</span><span class="english">Which story?</span></p>
 
 <p><span class="chinese">小丘故事。</span><span class="english">Hillock story.</span></p>

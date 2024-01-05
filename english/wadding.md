@@ -1,5 +1,7 @@
 # wadding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wadding.md)
+
 <p><span class="chinese">我们决定了在夏天结婚。</span><span class="english">We have decided on summer wadding.</span></p>
 
 <p><span class="chinese">别臭我了，我们…都挪了一整天了。</span><span class="english">Give me a break , we've wadding all day.</span></p>

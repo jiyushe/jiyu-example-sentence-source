@@ -1,5 +1,7 @@
 # 清明节
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingmingjie.md)
+
 <p><span class="chinese">清明节是民间的节日。</span><span class="english">Qingming Festival is a folk Festival.</span></p>
 
 <p><span class="chinese">人们在清明节会怎样过？</span><span class="english">How do people celebrate Qingming Featival?</span></p>

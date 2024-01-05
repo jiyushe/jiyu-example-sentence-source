@@ -1,5 +1,7 @@
 # morgan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/morgan.md)
+
 <p><span class="chinese">但我希望皮尔斯·摩根能离开。</span><span class="english">I do want Piers Morgan gone.</span></p>
 
 <p><span class="chinese">摩根微服私访。</span><span class="english">P. Morgan traveling incognito.</span></p>

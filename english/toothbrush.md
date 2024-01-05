@@ -1,5 +1,7 @@
 # toothbrush
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/toothbrush.md)
+
 <p><span class="chinese">我可以借你的牙刷吗?。</span><span class="english">MayI borrow your toothbrush ?</span></p>
 
 <p><span class="chinese">使用带有超软毛的牙刷。</span><span class="english">Use an extra soft toothbrush.</span></p>

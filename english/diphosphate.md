@@ -1,5 +1,7 @@
 # diphosphate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diphosphate.md)
+
 <p><span class="chinese">二磷酸果糖治疗119例脑梗死患者的疗效观察。</span><span class="english">Effect of 1,6-fructose diphosphate in 119 cases of cerebral infarction.</span></p>
 
 <p><span class="chinese">目的观察甲萘氢醌二磷酸酯钠的诱变作用。</span><span class="english">Objective To observe the effect of menadiol sodium diphosphate induced mutation.</span></p>

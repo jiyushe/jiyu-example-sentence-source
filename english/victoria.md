@@ -1,5 +1,7 @@
 # victoria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/victoria.md)
+
 <p><span class="chinese">维多利亚。</span><span class="english">Victoria.</span></p>
 
 <p><span class="chinese">维多利亚大学—曙光小屋</span><span class="english">Victoria University – FirstLight house</span></p>

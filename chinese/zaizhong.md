@@ -1,5 +1,7 @@
 # 栽种
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaizhong.md)
+
 <p><span class="chinese">莫在坟头栽种玫瑰。</span><span class="english">Plant thou no rose at my head.</span></p>
 
 <p><span class="chinese">不要在我坟头栽种玫瑰。</span><span class="english">Plant thou no roses at my head.</span></p>

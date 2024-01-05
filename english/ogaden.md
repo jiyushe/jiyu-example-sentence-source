@@ -1,5 +1,7 @@
 # ogaden
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ogaden.md)
+
 <p><span class="chinese">他们坚称，他们在欧加登地区是为了调查一家瑞典石油公司的做法。</span><span class="english">The pair maintain they were in the Ogaden to investigate the activities of a Swedish oil firm.</span></p>
 
 <p><span class="chinese">埃塞俄比亚人并不控制欧加登，而且我们已经警告过中国人，我们不会允许他们在那里钻探。</span><span class="english">The Ethiopians do not control the Ogaden and we have warned the Chinese that we will not allow them to drill there.</span></p>

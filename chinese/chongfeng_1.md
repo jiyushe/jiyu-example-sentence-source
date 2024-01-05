@@ -1,5 +1,7 @@
 # 重逢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongfeng_1.md)
+
 <p><span class="chinese">然后还有在大街上的再次重逢？</span><span class="english">And then again in the street?</span></p>
 
 <p><span class="chinese">我会带着无尽的爱，在路的那头与你重逢。</span><span class="english">Endless love, see you down the road.</span></p>

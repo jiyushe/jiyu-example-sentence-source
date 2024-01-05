@@ -1,5 +1,7 @@
 # 工龄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongling.md)
+
 <p><span class="chinese">工作稳定程度和薪水的高低应当以雇员的表现为依据，而不应看他们的工龄长短。</span><span class="english">Job security and salary should be based on employee performance, not on years of service.</span></p>
 
 <p><span class="chinese">年龄、工龄、岗位级别及职位对工资收入分配具有重要影响。</span><span class="english">Age, seniority, positional ranks, and occupations are important determinations for earnings.</span></p>

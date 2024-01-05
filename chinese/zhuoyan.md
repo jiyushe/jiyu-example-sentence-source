@@ -1,5 +1,7 @@
 # 着眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuoyan.md)
+
 <p><span class="chinese">她眨着眼止住眼泪。</span><span class="english">She blinked to stop tears.</span></p>
 
 <p><span class="chinese">从大处和小处着眼。</span><span class="english">By thinking both big and small.</span></p>

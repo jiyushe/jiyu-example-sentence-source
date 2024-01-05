@@ -1,5 +1,7 @@
 # hypochondria
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypochondria.md)
+
 <p><span class="chinese">臆想症是我唯一没有得的病。</span><span class="english">Hypochondria is the only illness that I don't have.</span></p>
 
 <p><span class="chinese">我们倾向于将强迫症视为某种自私的表现。</span><span class="english">We tend to think of hypochondria as a kind of selfishness.</span></p>

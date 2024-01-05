@@ -1,5 +1,7 @@
 # transpire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transpire.md)
+
 <p><span class="chinese">所有这些都可以在市场经济中发生。</span><span class="english">All this can transpire in market economies.</span></p>
 
 <p><span class="chinese">这些植物进行蒸发，释放出更多的水蒸气。</span><span class="english">The plants transpire to give off more water vapor.</span></p>

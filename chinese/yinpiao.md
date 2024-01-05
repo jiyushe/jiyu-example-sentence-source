@@ -1,5 +1,7 @@
 # 银票
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinpiao.md)
+
 <p><span class="chinese">所有人都很有钱，铜板很少出现，一张一张的银票比草纸还便宜。</span><span class="english">Everyone is rich, copper coins is seldom seen, but bank notes are cheaper than paper.</span></p>
 
 <p><span class="chinese">越南人，今晚占领汝南城奖励三国银票12W，敢来否?。</span><span class="english">Vietnamese occupation of Runan City Award tonight, the three drafts 12W, dare to come to any?</span></p>

@@ -1,5 +1,7 @@
 # gale
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gale.md)
+
 <p><span class="chinese">强风把帆扯破。</span><span class="english">The gale split the sails.</span></p>
 
 <p><span class="chinese">大风毁了我的房子。</span><span class="english">The gale did for my house.</span></p>

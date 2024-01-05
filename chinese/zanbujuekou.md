@@ -1,5 +1,7 @@
 # 赞不绝口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zanbujuekou.md)
+
 <p><span class="chinese">母亲对你们美观的厨房赞不绝口。</span><span class="english">Mother rhapsodized about your beautiful kitchen.</span></p>
 
 <p><span class="chinese">我现明白读者为何对这本书赞不绝口了。</span><span class="english">Now I understand why readers rave about this book.</span></p>

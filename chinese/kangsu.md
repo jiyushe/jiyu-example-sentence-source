@@ -1,5 +1,7 @@
 # 抗诉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kangsu.md)
+
 <p><span class="chinese">第二部分是民事抗诉制度存在的根据。</span><span class="english">The second part is the foundation of civil protect system.</span></p>
 
 <p><span class="chinese">“美国的伟大之处是为正确的抗诉权，”他说。</span><span class="english">"The greatness of America is the right to protest for right, " he said.</span></p>

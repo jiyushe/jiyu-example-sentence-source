@@ -1,5 +1,7 @@
 # antoinette
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antoinette.md)
+
 <p><span class="chinese">这就是他和安多纳德全部的接触经过。</span><span class="english">That was all the contact he ever had with Antoinette.</span></p>
 
 <p><span class="chinese">法国玛丽安东妮皇后是路易十六的妻子。</span><span class="english">Queen Marie Antoinette of France was the wife of Louis the 16th.</span></p>

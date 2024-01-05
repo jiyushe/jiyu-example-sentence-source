@@ -1,5 +1,7 @@
 # 农牧
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nongmu.md)
+
 <p><span class="chinese">露茜说，你是一个非常好的农牧之神。</span><span class="english">I think you are a very good Faun.</span></p>
 
 <p><span class="chinese">你是我遇到过的最好的农牧之神。</span><span class="english">You are the nicest Faun I've ever met.</span></p>

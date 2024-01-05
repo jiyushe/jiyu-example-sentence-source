@@ -1,5 +1,7 @@
 # gook
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gook.md)
+
 <p><span class="chinese">好运，亲爱的莉莉。</span><span class="english">Gook luck, dear Lily.</span></p>
 
 <p><span class="chinese">很好听，哇。祝你好运，伙计。</span><span class="english">Beautiful, wow. Gook luck, man.</span></p>

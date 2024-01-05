@@ -1,5 +1,7 @@
 # 正教
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengjiao_1.md)
+
 <p><span class="chinese">反例应用，胜过正教。</span><span class="english">Counter-example application, than the Orthodox.</span></p>
 
 <p><span class="chinese">陈海是一名英语老师，他正教李先生。</span><span class="english">Chen Hai is an English teacher. He's teaching Mr Li.</span></p>

@@ -1,5 +1,7 @@
 # 古道
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gudao.md)
+
 <p><span class="chinese">你走过印加古道了吗？</span><span class="english">Have you walked the Inca Trail?</span></p>
 
 <p><span class="chinese">这里是著名的茶马古道。</span><span class="english">It's the ancient path of Chama.</span></p>

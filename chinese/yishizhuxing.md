@@ -1,5 +1,7 @@
 # 衣食住行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yishizhuxing.md)
+
 <p><span class="chinese">金钱有助于解决所缺乏的衣食住行问题。</span><span class="english">Money can help food, cloth and house in need.</span></p>
 
 <p><span class="chinese">这位绅士有一个男仆照顾他的衣食住行。</span><span class="english">The gentleman had a valet to wait on him hand and foot.</span></p>

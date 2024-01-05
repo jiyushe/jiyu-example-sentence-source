@@ -1,5 +1,7 @@
 # secret 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/secret.md)
+
 <p><span class="chinese">他的秘诀？</span><span class="english">His secret?</span></p>
 
 <p><span class="chinese">我有一笔私房钱哩。</span><span class="english">I have a secret purse.</span></p>

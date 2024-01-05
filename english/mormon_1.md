@@ -1,5 +1,7 @@
 # Mormon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mormon_1.md)
+
 <p><span class="chinese">1835年，约瑟夫史密斯创立了摩门教堂。</span><span class="english">In 1835, Joseph Smith founded the Mormon Church.</span></p>
 
 <p><span class="chinese">我们不能命令你读摩门经。</span><span class="english">We can not order you to read the Book of Mormon.</span></p>

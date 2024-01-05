@@ -1,5 +1,7 @@
 # ovate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ovate.md)
+
 <p><span class="chinese">中绿色叶，平坦叶面。标准型。</span><span class="english">Medium green, plain, ovate . Standard.</span></p>
 
 <p><span class="chinese">中绿色叶，叶面凹凸。标准型。</span><span class="english">Medium green, ovate , quilted. Standard.</span></p>

@@ -1,5 +1,7 @@
 # disentangle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/disentangle.md)
+
 <p><span class="chinese">你如何解开这些矛盾呢？</span><span class="english">How do you disentangle those?</span></p>
 
 <p><span class="chinese">这束毛线解不开。</span><span class="english">This skein of wool won't disentangle.</span></p>

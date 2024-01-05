@@ -1,5 +1,7 @@
 # conceit
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conceit.md)
+
 <p><span class="chinese">骄傲是自定的。</span><span class="english">Conceit is self-given.</span></p>
 
 <p><span class="chinese">名誉是别人给予的。要感激。</span><span class="english">Conceit is self-given. Be careful.</span></p>

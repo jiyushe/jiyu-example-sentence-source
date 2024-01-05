@@ -1,5 +1,7 @@
 # 活泼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huopo.md)
+
 <p><span class="chinese">那非二幅如许活泼的漫绘！</span><span class="english">What a vivid picture!</span></p>
 
 <p><span class="chinese">他举止活泼轻快。</span><span class="english">He has a breezy manner.</span></p>

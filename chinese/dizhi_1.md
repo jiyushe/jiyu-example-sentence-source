@@ -1,5 +1,7 @@
 # 地志
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dizhi_1.md)
+
 <p><span class="chinese">青州市博物馆是一座综合性地志博物馆，成立于1959年。</span><span class="english">Qingzhou Municipal Museum is a comprehensive museum of topography, was founded in 1959.</span></p>
 
 <p><span class="chinese">地志是一个理论和数学上的问题以三度空间的物件建立。</span><span class="english">It is a theoretical and mathematical problem to establish topology for three-dimensional objects.</span></p>

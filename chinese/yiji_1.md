@@ -1,5 +1,7 @@
 # 艺妓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yiji_1.md)
+
 <p><span class="chinese">日本的艺妓。</span><span class="english">The geishas of Japan.</span></p>
 
 <p><span class="chinese">一次，一个艺妓约请他画画。</span><span class="english">A geisha once gave him a commission for a painting.</span></p>

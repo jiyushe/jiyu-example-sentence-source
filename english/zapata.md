@@ -1,5 +1,7 @@
 # zapata
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zapata.md)
+
 <p><span class="chinese">乌迪内斯已经将后卫克里斯蒂安·帕塔挂牌出售。</span><span class="english">Udinese have put defender Cristian Zapata up for sale.</span></p>
 
 <p><span class="chinese">伊塔里尼相信萨帕塔会对夏天转会去到英超很感兴趣。</span><span class="english">Italiani believes Zapata would be open to a move to the Premier League this summer.</span></p>

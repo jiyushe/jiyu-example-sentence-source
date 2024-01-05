@@ -1,5 +1,7 @@
 # sevenfold
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sevenfold.md)
+
 <p><span class="chinese">任何人如果杀了该隐，该隐可以七倍奉还。</span><span class="english">If anyone kills Cain, Cain shall be avenged sevenfold.</span></p>
 
 <p><span class="chinese">自2001年以来，整体电视广告业已经成长了七倍。</span><span class="english">Total television advertising has grown sevenfold since 2001.</span></p>

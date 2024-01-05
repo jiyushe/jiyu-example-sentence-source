@@ -1,5 +1,7 @@
 # rediscovery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rediscovery.md)
+
 <p><span class="chinese">一个重新发现财富人生的雪维平皱密码！</span><span class="english">A rediscovery of fortune life sooth wrinkle code!</span></p>
 
 <p><span class="chinese">它们的重见天日,对西方世界产生了深远的影响。</span><span class="english">Such that rediscovery of them could have such a profound effect on the western world.</span></p>

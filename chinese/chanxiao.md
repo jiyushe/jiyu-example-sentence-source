@@ -1,5 +1,7 @@
 # 产销
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanxiao.md)
+
 <p><span class="chinese">产销合一，有利提高营销效率。</span><span class="english">Production and marketing, and favorable to improve marketing efficiency.</span></p>
 
 <p><span class="chinese">企业创立至今，积累了丰富的产销经验。</span><span class="english">Creation of enterprises , has accumulated a wealth of marketing experience.</span></p>

@@ -1,5 +1,7 @@
 # 倏然
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuran.md)
+
 <p><span class="chinese">一道流星，倏然而逝。</span><span class="english">A meteor shot across the sky and vanished.</span></p>
 
 <p><span class="chinese">“但到了冬季，德里的污染水平倏然暴涨，达到了相当高的水平”。</span><span class="english">It is winter pollution in Delhi andthe sudden spikes in pollution levels that are quite high.</span></p>

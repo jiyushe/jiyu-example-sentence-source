@@ -1,5 +1,7 @@
 # allen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allen.md)
+
 <p><span class="chinese">艾伦是一个非常高峻的男孩。</span><span class="english">Allen is a very tall boy.</span></p>
 
 <p><span class="chinese">艾伦向他的中巴车跑去。</span><span class="english">Allen ran for his mini-bus.</span></p>

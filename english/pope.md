@@ -1,5 +1,7 @@
 # pope
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pope.md)
+
 <p><span class="chinese">狱长同意了。</span><span class="english">Pope agrees.</span></p>
 
 <p><span class="chinese">他和教皇之间。</span><span class="english">Him and the pope.</span></p>

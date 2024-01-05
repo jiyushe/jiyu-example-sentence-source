@@ -1,5 +1,7 @@
 # 事到临头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shidaolintou.md)
+
 <p><span class="chinese">事到临头他们才会开始处理。</span><span class="english">They deal with an issue as and when it rears its head.</span></p>
 
 <p><span class="chinese">他本来是想向她提出邀请的，可事到临头他却胆怯得什么也没有说。</span><span class="english">He was going to ask her but he got cold feet and said nothing.</span></p>

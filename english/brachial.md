@@ -1,5 +1,7 @@
 # brachial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brachial.md)
+
 <p><span class="chinese">肱动脉走行从肩部到肘部。</span><span class="english">The brachial artery runs from the shoulder to the elbow.</span></p>
 
 <p><span class="chinese">目的研究罗哌卡因在臂丛麻醉中的临床应用效果。</span><span class="english">AIM To study anesthetic effect of ropivacaine in brachial plexus block.</span></p>

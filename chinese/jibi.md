@@ -1,5 +1,7 @@
 # 击毙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jibi.md)
+
 <p><span class="chinese">目标击毙。我想我看到他人都被打飞了起来。</span><span class="english">I think i saw his arm fly off.</span></p>
 
 <p><span class="chinese">李竹同志当场击毙死亡。</span><span class="english">Comrade Li Zhu shot dead on the spot.</span></p>

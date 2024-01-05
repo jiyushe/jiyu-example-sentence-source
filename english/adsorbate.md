@@ -1,5 +1,7 @@
 # adsorbate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adsorbate.md)
+
 <p><span class="chinese">被吸附的气体叫吸附质。</span><span class="english">The adsorbed gas is the adsorbate.</span></p>
 
 <p><span class="chinese">并讨论了吸附质的选择原则。</span><span class="english">The principles for selection of adsorbate are discussed.</span></p>

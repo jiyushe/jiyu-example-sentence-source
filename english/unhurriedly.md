@@ -1,5 +1,7 @@
 # unhurriedly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unhurriedly.md)
+
 <p><span class="chinese">公主不慌不忙地揭下面纱。</span><span class="english">The princess unveiled unhurriedly.</span></p>
 
 <p><span class="chinese">他说话做事总是慢条斯理的。</span><span class="english">He always speaks slowly and acts unhurriedly.</span></p>

@@ -1,5 +1,7 @@
 # grammatical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grammatical.md)
+
 <p><span class="chinese">你能找出语法舛误吗？</span><span class="english">Can you find a grammatical error?</span></p>
 
 <p><span class="chinese">这也是个语法型的问句</span><span class="english">This is also a grammatical question.</span></p>

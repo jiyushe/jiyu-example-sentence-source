@@ -1,5 +1,7 @@
 # progress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/progress.md)
+
 <p><span class="chinese">这就是进步。</span><span class="english">This is progress.</span></p>
 
 <p><span class="chinese">因此的确小有进步。</span><span class="english">So there is progress.</span></p>

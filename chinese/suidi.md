@@ -1,5 +1,7 @@
 # 随地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suidi.md)
+
 <p><span class="chinese">不要随地吐痰。</span><span class="english">Don＇t spit everywhere.</span></p>
 
 <p><span class="chinese">我们不应该随地吐痰。</span><span class="english">We shouldn＇t spit everywhere.</span></p>

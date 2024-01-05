@@ -1,5 +1,7 @@
 # completion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/completion.md)
+
 <p><span class="chinese">这条路已接近完工。</span><span class="english">The road is near completion.</span></p>
 
 <p><span class="chinese">我有一总如释重负的感觉。</span><span class="english">I have a sense of completion.</span></p>

@@ -1,5 +1,7 @@
 # 标杆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaogan.md)
+
 <p><span class="chinese">楼上的标杆在风中猛烈的摇晃着。</span><span class="english">The post on the building staggered violently in the wind.</span></p>
 
 <p><span class="chinese">KUN在机会转化率方面是球员的标杆。</span><span class="english">Sergio Aguero is the benchmark sofar for chance conversion.</span></p>

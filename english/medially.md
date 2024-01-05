@@ -1,5 +1,7 @@
 # medially
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/medially.md)
+
 <p><span class="chinese">因而滑囊炎可以向远处延展可达中部以及侧面的骨膜。</span><span class="english">Capsulitis may therefore extend far medially and laterally into the periosteum.</span></p>
 
 <p><span class="chinese">在左侧LPN中，脾脏，结肠脾曲以及胰腺应使其倒向内侧。</span><span class="english">During left LPN, the spleen, splenic flexure and pancreas are reflected medially.</span></p>

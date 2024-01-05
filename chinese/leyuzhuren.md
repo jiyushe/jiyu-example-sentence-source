@@ -1,5 +1,7 @@
 # 乐于助人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/leyuzhuren.md)
+
 <p><span class="chinese">大多数人都很乐于助人，</span><span class="english">People are mostly helpful,</span></p>
 
 <p><span class="chinese">我要谦虚与乐于助人。</span><span class="english">I should capful and helpful.</span></p>

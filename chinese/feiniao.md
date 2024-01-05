@@ -1,5 +1,7 @@
 # 飞鸟
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/feiniao.md)
+
 <p><span class="chinese">一本名叫飞鸟集的书。</span><span class="english">It was a book named Stray Birds.</span></p>
 
 <p><span class="chinese">在我自身的杯中，飞鸟集。饮了我的酒吧，伙伴。</span><span class="english">Take my wine in my own cup. friend.</span></p>

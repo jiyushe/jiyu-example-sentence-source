@@ -1,5 +1,7 @@
 # 视差
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shicha_2.md)
+
 <p><span class="chinese">相反我们用一种技术叫“视差”。</span><span class="english">Instead we use a technique called "parallax.</span></p>
 
 <p><span class="chinese">这是一个如何使用视差动效的示例。</span><span class="english">Project with example of how to use the parallax.</span></p>

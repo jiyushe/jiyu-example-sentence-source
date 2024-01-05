@@ -1,5 +1,7 @@
 # protract
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/protract.md)
+
 <p><span class="chinese">我们不要再继续争论下去了。</span><span class="english">Let's not protract the debate any further.</span></p>
 
 <p><span class="chinese">这人似乎决意吞吞吐吐。</span><span class="english">And the man seemed resolved to protract it.</span></p>

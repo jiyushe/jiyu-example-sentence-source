@@ -1,5 +1,7 @@
 # 游击区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youjiqu.md)
+
 <p><span class="chinese">我们把主要注意力放在游击区。</span><span class="english">Our chief interest was in the guerrilla regions.</span></p>
 
 <p><span class="chinese">游击区的银行工作更特殊。</span><span class="english">Banking in the guerrilla areas was even more peculiar.</span></p>

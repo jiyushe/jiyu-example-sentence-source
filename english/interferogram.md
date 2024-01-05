@@ -1,5 +1,7 @@
 # interferogram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interferogram.md)
+
 <p><span class="chinese">提出了干涉条纹图处理的新方法。</span><span class="english">A new method of interferogram processing is proposed.</span></p>
 
 <p><span class="chinese">用全息干涉图方法研究了磬的振动模态。</span><span class="english">The vibration of qing has been studied by method of holographic interferogram.</span></p>

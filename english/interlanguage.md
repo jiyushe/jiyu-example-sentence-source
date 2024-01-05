@@ -1,5 +1,7 @@
 # interlanguage
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/interlanguage.md)
+
 <p><span class="chinese">1972年，塞林格提出了“中介语”这一概念。</span><span class="english">In 1972, Selinker promoted the concept of the interlanguage.</span></p>
 
 <p><span class="chinese">语言僵硬现象已经成为中介语的主要特征之一。</span><span class="english">Fossilization has become one of the main features of Interlanguage.</span></p>

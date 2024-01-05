@@ -1,5 +1,7 @@
 # malice
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/malice.md)
+
 <p><span class="chinese">我对你毫无恶意。</span><span class="english">I bear you no malice.</span></p>
 
 <p><span class="chinese">怨恨使他精神感到痛苦。</span><span class="english">Malice festered his spirit.</span></p>

@@ -1,5 +1,7 @@
 # nonsingular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonsingular.md)
+
 <p><span class="chinese">本文给出了非奇异H-矩阵若干个新的判据。</span><span class="english">In this paper, we gave some new conditions for nonsingular H-matrices.</span></p>
 
 <p><span class="chinese">目的寻求判别非奇异H阵的一个新的实用充分条件。</span><span class="english">Aim To find a new practice sufficient condition for nonsingular H-matrix.</span></p>

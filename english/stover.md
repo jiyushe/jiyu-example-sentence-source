@@ -1,5 +1,7 @@
 # stover
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stover.md)
+
 <p><span class="chinese">这种物质通常被用作柴火。</span><span class="english">This material is known as stover.</span></p>
 
 <p><span class="chinese">所有养殖户都以玉米秸秆为主要粗饲料。</span><span class="english">All cow households fed corn stover as main forages.</span></p>

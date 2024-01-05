@@ -1,5 +1,7 @@
 # seton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seton.md)
+
 <p><span class="chinese">西顿夫人大笑着表示同意。</span><span class="english">Mrs Seton laughed in agreement.</span></p>
 
 <p><span class="chinese">对照组则采用传统的低切高挂法手术治疗。</span><span class="english">Control group use the traditional slow cutting seton.</span></p>

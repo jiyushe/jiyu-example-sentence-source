@@ -1,5 +1,7 @@
 # delirious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/delirious.md)
+
 <p><span class="chinese">他现在神志昏迷。</span><span class="english">He is delirious.</span></p>
 
 <p><span class="chinese">在狂灼的悠长蓝色里向上，再向上</span><span class="english">Up, up the long, delirious burning blue</span></p>

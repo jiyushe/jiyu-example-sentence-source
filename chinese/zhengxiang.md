@@ -1,5 +1,7 @@
 # 征象
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengxiang.md)
+
 <p><span class="chinese">这是右位主动脉弓征象。</span><span class="english">This is a sign of a right-sided aortic arch.</span></p>
 
 <p><span class="chinese">这也是右位主动脉弓的一个征象。</span><span class="english">This too is a sign of a right-sided aortic arch.</span></p>

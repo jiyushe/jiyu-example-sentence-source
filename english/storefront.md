@@ -1,5 +1,7 @@
 # storefront
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/storefront.md)
+
 <p><span class="chinese">如果很有生意，我将扩大店面。</span><span class="english">Having a Land-office business, I'll enlarge storefront.</span></p>
 
 <p><span class="chinese">一个临街的店面通向由迪士尼经营的英语语言学校。</span><span class="english">A small storefront leads to an English-language school run by Disney.</span></p>

@@ -1,5 +1,7 @@
 # 功夫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongfu.md)
+
 <p><span class="chinese">这也是功夫！</span><span class="english">This, too, is gongfu.</span></p>
 
 <p><span class="chinese">他妈的功夫熊猫？…</span><span class="english">Fucking Kung-Fu pandas?</span></p>

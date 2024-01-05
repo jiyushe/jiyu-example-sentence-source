@@ -1,5 +1,7 @@
 # 火狐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huohu.md)
+
 <p><span class="chinese">我最喜欢的Definr火狐诀窍？</span><span class="english">My favorite Definer Firefox trick?</span></p>
 
 <p><span class="chinese">它可是一款奇妙的火狐插件。</span><span class="english">It's a Firefox add-on, and it's magical.</span></p>

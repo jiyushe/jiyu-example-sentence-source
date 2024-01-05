@@ -1,5 +1,7 @@
 # protest 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/protest.md)
+
 <p><span class="chinese">欧维斯为什么抗议？</span><span class="english">Why does Owais protest?</span></p>
 
 <p><span class="chinese">他们退席以示抗议。</span><span class="english">They walked out in protest.</span></p>

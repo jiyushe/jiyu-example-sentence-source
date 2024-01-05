@@ -1,5 +1,7 @@
 # 起哄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qihong.md)
+
 <p><span class="chinese">自养生物开始起哄。</span><span class="english">The autotrophs began to drool.</span></p>
 
 <p><span class="chinese">群众对演说者起哄。</span><span class="english">The crowd hooted at the speaker.</span></p>

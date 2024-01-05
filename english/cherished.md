@@ -1,5 +1,7 @@
 # cherished
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cherished.md)
+
 <p><span class="chinese">送给他们一本珍藏版的书。</span><span class="english">Give them a cherished book.</span></p>
 
 <p><span class="chinese">罗马真是个懂得收藏经典的城市。</span><span class="english">Rome is such a cherished city.</span></p>

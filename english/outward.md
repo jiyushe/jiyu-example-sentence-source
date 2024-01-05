@@ -1,5 +1,7 @@
 # outward
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/outward.md)
+
 <p><span class="chinese">允许我船出港吗？</span><span class="english">Am I permitted outward?</span></p>
 
 <p><span class="chinese">肘关节向外打开。</span><span class="english">Draw your elbows outward.</span></p>

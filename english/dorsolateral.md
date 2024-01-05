@@ -1,5 +1,7 @@
 # dorsolateral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dorsolateral.md)
+
 <p><span class="chinese">应用MRI研究延髓背外侧综合征。</span><span class="english">To study Dorsolateral Medullary Syndrome with MRI.</span></p>
 
 <p><span class="chinese">这种差别好象跟大脑中一个叫做“前额叶背外侧皮层”的区域相关，以前该区域被认为跟学习和记忆相关。</span><span class="english">The difference seems linked to a region of the brain called the dorsolateral prefrontal cortex.</span></p>

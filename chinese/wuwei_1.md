@@ -1,5 +1,7 @@
 # 无味
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuwei_1.md)
+
 <p><span class="chinese">他过着枯燥无味的生活。</span><span class="english">He lived a cut-and-dried life.</span></p>
 
 <p><span class="chinese">他过着枯燥无味的生活。</span><span class="english">Eg. He lived a cut-and-dried life.</span></p>

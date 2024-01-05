@@ -1,5 +1,7 @@
 # intergenerational
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intergenerational.md)
+
 <p><span class="chinese">这能说明两代间的平等吗？</span><span class="english">Does this account for intergenerational equity ?</span></p>
 
 <p><span class="chinese">青少年健康也有代际影响。</span><span class="english">The health of adolescents also has an intergenerational effect.</span></p>

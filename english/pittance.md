@@ -1,5 +1,7 @@
 # pittance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pittance.md)
+
 <p><span class="chinese">他卖给我们一包腰果，只收取了一丁点钱，并且他拒绝接受小费。</span><span class="english">He sells me a bag of nuts for a pittance andrefuses to accept a tip.</span></p>
 
 <p><span class="chinese">当年你爸爸给我的那点租钱，还不够我喝茶用的呢。</span><span class="english">The pittance your father used to pay me as rent won't even keep me in tea.</span></p>

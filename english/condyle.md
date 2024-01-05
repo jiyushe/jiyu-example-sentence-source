@@ -1,5 +1,7 @@
 # condyle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/condyle.md)
+
 <p><span class="chinese">下颌能做以髁状突为定点的转动。</span><span class="english">The lower jaw can rotate as the fixpoint is condyle.</span></p>
 
 <p><span class="chinese">肱骨内髁骨折的护理常规?。</span><span class="english">Of fracture of the condyle inside humerus nurse groovy ?</span></p>

@@ -1,5 +1,7 @@
 # sportswoman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sportswoman.md)
+
 <p><span class="chinese">我不知道你是个女运动员。</span><span class="english">I didn't know you were a sportswoman.</span></p>
 
 <p><span class="chinese">何雯娜，蹦床运动员，是我最喜欢的女运动员。</span><span class="english">He Wenna, a trampoline athlete, is my favorite sportswoman.</span></p>

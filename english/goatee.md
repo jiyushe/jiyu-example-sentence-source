@@ -1,5 +1,7 @@
 # goatee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goatee.md)
+
 <p><span class="chinese">让她感到最讨厌的就是他那把山羊胡子。</span><span class="english">It was his goatee that annoyed her the most.</span></p>
 
 <p><span class="chinese">我注意到他留着山羊胡子，带着一个蓝色的湖人队帽子。</span><span class="english">I notice he has a goatee and a blue Lakers cap.</span></p>

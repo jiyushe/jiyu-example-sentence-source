@@ -1,5 +1,7 @@
 # 表亲
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biaoqin.md)
+
 <p><span class="chinese">问问你的邻居，或者你最好的朋友，或者你八竿子打不着的表亲。</span><span class="english">Ask you neighbor. Or your best friend.</span></p>
 
 <p><span class="chinese">我和我的表亲们仍然保持联系。</span><span class="english">I still keep in touch with my cousins.</span></p>

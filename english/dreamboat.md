@@ -1,5 +1,7 @@
 # dreamboat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dreamboat.md)
+
 <p><span class="chinese">你是我梦中的那一个。</span><span class="english">You are a dreamboat.</span></p>
 
 <p><span class="chinese">那家伙是个真正的理想情人。</span><span class="english">That guy is a real dreamboat.</span></p>

@@ -1,5 +1,7 @@
 # knockback
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knockback.md)
+
 <p><span class="chinese">击退效果对伪装的间谍无效。</span><span class="english">The knockback effect no longer affects Disguised Spies.</span></p>
 
 <p><span class="chinese">同时会给予击退免疫。</span><span class="english">Lastly this ability will grant immunity to knockback effects.</span></p>

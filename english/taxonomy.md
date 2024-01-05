@@ -1,5 +1,7 @@
 # taxonomy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/taxonomy.md)
+
 <p><span class="chinese">分类法用于两个用途。</span><span class="english">The taxonomy serves two purposes.</span></p>
 
 <p><span class="chinese">号分类学是一个标识符分类法。</span><span class="english">Number taxonomy is an identifier taxonomy.</span></p>

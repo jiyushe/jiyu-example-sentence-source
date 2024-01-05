@@ -1,5 +1,7 @@
 # punctuality
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/punctuality.md)
+
 <p><span class="chinese">守时乃国王之礼。守事非常重要。</span><span class="english">Punctuality is the politeness of kings.</span></p>
 
 <p><span class="chinese">他们为你在工作中守时费心吗?</span><span class="english">Do they bother about punctuality in your job?</span></p>

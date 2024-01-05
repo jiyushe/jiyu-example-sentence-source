@@ -1,5 +1,7 @@
 # oxidase
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oxidase.md)
+
 <p><span class="chinese">锌不仅是碳酸酚酶。</span><span class="english">Zinc is not only phenol oxidase in carbonate.</span></p>
 
 <p><span class="chinese">吲哚乙酸氧化酶的活性的迁移率在0.57附近。</span><span class="english">The Rf of the IAA oxidase activity was about 0. 57.</span></p>

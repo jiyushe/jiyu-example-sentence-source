@@ -1,5 +1,7 @@
 # 和睦相处
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hemuxiangchu.md)
+
 <p><span class="chinese">他们无法和睦相处。</span><span class="english">They can't  agree well.</span></p>
 
 <p><span class="chinese">与四邻和睦相处。</span><span class="english">Live in concord with sb.</span></p>

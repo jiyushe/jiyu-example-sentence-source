@@ -1,5 +1,7 @@
 # 与其
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuqi.md)
+
 <p><span class="chinese">与其他译者联网。</span><span class="english">Network with other translators.</span></p>
 
 <p><span class="chinese">百度与其有着合作关系。</span><span class="english">We had a partnership with them.</span></p>

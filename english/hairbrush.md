@@ -1,5 +1,7 @@
 # hairbrush
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hairbrush.md)
+
 <p><span class="chinese">你干嘛给他买梳子？</span><span class="english">Why did you buy him a hairbrush ?</span></p>
 
 <p><span class="chinese">我觉得你的发刷太尖了。</span><span class="english">Your hairbrush is too spiky for me.</span></p>

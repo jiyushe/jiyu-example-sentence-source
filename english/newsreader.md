@@ -1,5 +1,7 @@
 # newsreader
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/newsreader.md)
+
 <p><span class="chinese">这是一个新闻阅读器程序只。</span><span class="english">This is a newsreader program only.</span></p>
 
 <p><span class="chinese">不断学习，你会成为一名新闻播音员的。</span><span class="english">Keep studying and you can become a newsreader.</span></p>

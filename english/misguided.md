@@ -1,5 +1,7 @@
 # misguided
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misguided.md)
+
 <p><span class="chinese">开始时我们被引错了路。</span><span class="english">We have been misguided at first.</span></p>
 
 <p><span class="chinese">这问题可能根本是被误导的。</span><span class="english">may have turned out to be misguided.</span></p>

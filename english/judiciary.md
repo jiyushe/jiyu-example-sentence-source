@@ -1,5 +1,7 @@
 # judiciary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/judiciary.md)
+
 <p><span class="chinese">你知道司法部设立在哪儿吗？</span><span class="english">Do you know where the judiciary fits in?</span></p>
 
 <p><span class="chinese">我说，‘不，所有司法人员已经在与我们作对。</span><span class="english">I said, ‘No, all the judiciary is already against us.</span></p>

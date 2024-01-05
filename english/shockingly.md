@@ -1,5 +1,7 @@
 # shockingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shockingly.md)
+
 <p><span class="chinese">这段时期中国的通胀率维持在非常低的水平。</span><span class="english">Inflation over that period was shockingly low.</span></p>
 
 <p><span class="chinese">是个很丑的老太婆，黑得简直象煤炭一样。</span><span class="english">A shockingly ugly old person, almost as black as coal.</span></p>

@@ -1,5 +1,7 @@
 # 讲和
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jianghe.md)
+
 <p><span class="chinese">上来吧，让我们讲和吧。</span><span class="english">Come, let there be peace.</span></p>
 
 <p><span class="chinese">学会原谅和放下，讲和吧。</span><span class="english">Forgive and let go, make peace.</span></p>

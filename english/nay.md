@@ -1,5 +1,7 @@
 # nay
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nay.md)
+
 <p><span class="chinese">如果谁有什么问题，请不加保留地提出来。</span><span class="english">If anyone has nay questions, please fire away.</span></p>
 
 <p><span class="chinese">这是宝石匠技术高超的表演。</span><span class="english">Nay. It was the climax of the lapidary 's skill.</span></p>

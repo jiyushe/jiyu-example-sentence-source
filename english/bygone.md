@@ -1,5 +1,7 @@
 # bygone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bygone.md)
+
 <p><span class="chinese">和别人对话已经成为上个时代的遗物了。</span><span class="english">Conversation is a relic of a bygone age.</span></p>
 
 <p><span class="chinese">沉封的往事，梦想的舞台！</span><span class="english">The icebound bygone , The stage of dream!</span></p>

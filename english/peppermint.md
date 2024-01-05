@@ -1,5 +1,7 @@
 # peppermint
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/peppermint.md)
+
 <p><span class="chinese">在薄荷味的风中凉驻。</span><span class="english">To cool in the peppermint wind.</span></p>
 
 <p><span class="chinese">我也酷爱薄荷冰激凌。</span><span class="english">I love peppermint ice cream too.</span></p>

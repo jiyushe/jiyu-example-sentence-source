@@ -1,5 +1,7 @@
 # elapse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/elapse.md)
+
 <p><span class="chinese">我看了一眼，就走了过去。</span><span class="english">I saw one eye, walk elapse.</span></p>
 
 <p><span class="chinese">不过，这种破坏性的地震之间往往相隔多年。</span><span class="english">Many years, however, usually elapse between such destructive.</span></p>

@@ -1,5 +1,7 @@
 # criticize 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/criticize.md)
+
 <p><span class="chinese">我会批判他们</span><span class="english">I'm going to criticize them.</span></p>
 
 <p><span class="chinese">我算老几，哪有资格去批评人?。</span><span class="english">Who am I to criticize others?</span></p>

@@ -1,5 +1,7 @@
 # 金贵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingui_1.md)
+
 <p><span class="chinese">我们是金贵的，也是慵懒的。</span><span class="english">We are precious and lazy.</span></p>
 
 <p><span class="chinese">一匹马有多金贵？</span><span class="english">What's a horse more or less?</span></p>

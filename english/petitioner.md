@@ -1,5 +1,7 @@
 # petitioner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/petitioner.md)
+
 <p><span class="chinese">安然转寄了一份该信函的复印件给上诉人。</span><span class="english">Enron forwarded a copy of that letter to petitioner.</span></p>
 
 <p><span class="chinese">上诉人要求对她生活费的命令的条件进行变更。</span><span class="english">The petitioner ask for a variation in her maintenance order.</span></p>

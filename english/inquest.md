@@ -1,5 +1,7 @@
 # inquest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inquest.md)
+
 <p><span class="chinese">真想在询问中显露。</span><span class="english">The truth emerged at the inquest.</span></p>
 
 <p><span class="chinese">法官在作裁决前等待验尸官的调查。</span><span class="english">The judge awaits the coroner's inquest before giving a verdict.</span></p>

@@ -1,5 +1,7 @@
 # strabismus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/strabismus.md)
+
 <p><span class="chinese">孩子间歇性斜视是什么病？</span><span class="english">What disease is child intermittence strabismus?</span></p>
 
 <p><span class="chinese">斜视和弱视是脑瘫儿童最常见的眼部疾病。</span><span class="english">Strabismus and amblyopia were the commonest eye diseases.</span></p>

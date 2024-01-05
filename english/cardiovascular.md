@@ -1,5 +1,7 @@
 # cardiovascular
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cardiovascular.md)
+
 <p><span class="chinese">什么是心血管病?</span><span class="english">What are cardiovascular diseases?</span></p>
 
 <p><span class="chinese">他有一颗木人石心。</span><span class="english">He has cardiovascular system of stone.</span></p>

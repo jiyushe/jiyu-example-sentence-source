@@ -1,5 +1,7 @@
 # transthoracic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transthoracic.md)
+
 <p><span class="chinese">超声心动图也未发现血栓形成的证据，如瓣膜疾病或血液倒流。</span><span class="english">A transthoracic echocardiogram showed no evidence of thrombus, valvular disease or right to left shunts.</span></p>
 
 <p><span class="chinese">本文分析了63例经皮胸穿针吸活检资料。</span><span class="english">In this paper the material of 63 cases with percutaneous transthoracic needle aspiration biopsy was analysed.</span></p>

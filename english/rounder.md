@@ -1,5 +1,7 @@
 # rounder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rounder.md)
+
 <p><span class="chinese">女人的音感比男人好。</span><span class="english">Women have rounder hips than men.</span></p>
 
 <p><span class="chinese">他是一个的酒鬼的儿子，名叫韦斯利。</span><span class="english">He was a rounder 's son named Westley.</span></p>

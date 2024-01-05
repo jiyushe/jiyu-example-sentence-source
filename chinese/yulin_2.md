@@ -1,5 +1,7 @@
 # 雨林
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yulin_2.md)
+
 <p><span class="chinese">我们正在砍伐掉雨林。</span><span class="english">We are cutting down the rainforest.</span></p>
 
 <p><span class="chinese">不列颠哥伦比亚大熊雨林</span><span class="english">Great Bear Rainforest, British Columbia</span></p>

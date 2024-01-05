@@ -1,5 +1,7 @@
 # 笑容可掬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiaorongkeju.md)
+
 <p><span class="chinese">后者虽然笑容可掬，神色却有些茫然。</span><span class="english">The latter smiled blandly, but somewhat blankly.</span></p>
 
 <p><span class="chinese">当遇上黄山游人，一个个皆笑容可掬，神态憨然。</span><span class="english">Huangshan Where visitors are a smiling, look foolish Ran.</span></p>

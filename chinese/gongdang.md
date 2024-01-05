@@ -1,5 +1,7 @@
 # 工党
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongdang.md)
+
 <p><span class="chinese">工党领袖菲尔。哥夫表示同意。</span><span class="english">Labour leader Phil Goff agreed.</span></p>
 
 <p><span class="chinese">她去年重新加入了工党。</span><span class="english">She reentered the Labour Party last year.</span></p>

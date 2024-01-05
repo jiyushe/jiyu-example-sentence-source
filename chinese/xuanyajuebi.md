@@ -1,5 +1,7 @@
 # 悬崖绝壁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuanyajuebi.md)
+
 <p><span class="chinese">这里又有一座高低不平的城堡建在悬崖绝壁之上。</span><span class="english">Here another rugged castle crowns the cliffs and crags.</span></p>
 
 <p><span class="chinese">那修院对冉阿让来说，好象是个四面全是悬崖绝壁的孤岛。</span><span class="english">This convent was for Jean Valjean like an island surrounded by gulfs.</span></p>

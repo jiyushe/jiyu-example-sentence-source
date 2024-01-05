@@ -1,5 +1,7 @@
 # opuntia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opuntia.md)
+
 <p><span class="chinese">仙人掌的鉴别方法有待进一步研究。</span><span class="english">Identification of opuntia dillenii needs further study.</span></p>
 
 <p><span class="chinese">目的探讨仙人掌提取物对提高雄鼠性功能的作用。</span><span class="english">OBJECTIVE to investigate the effects of opuntia extracts on sex function.</span></p>

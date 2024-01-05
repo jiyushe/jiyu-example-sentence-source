@@ -1,5 +1,7 @@
 # 食蚁兽
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiyishou.md)
+
 <p><span class="chinese">食蚁兽生活在非洲。</span><span class="english">Aardvarks live in Africa.</span></p>
 
 <p><span class="chinese">我们在哪里可以找到食蚁兽？</span><span class="english">Where can we find aardvarks?</span></p>

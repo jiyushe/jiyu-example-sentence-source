@@ -1,5 +1,7 @@
 # greasiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greasiness.md)
+
 <p><span class="chinese">我用自己的工作成绩代替虚华的阿谀。</span><span class="english">I replace the greasiness with my job performance.</span></p>
 
 <p><span class="chinese">医生建议他不要吃油腻的食品。</span><span class="english">The doctor suggested him not to eat greasiness food.</span></p>

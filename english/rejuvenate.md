@@ -1,5 +1,7 @@
 # rejuvenate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rejuvenate.md)
+
 <p><span class="chinese">让你自己复原。</span><span class="english">Let yourself rejuvenate.</span></p>
 
 <p><span class="chinese">现在就开始返老还童吧。</span><span class="english">Now, go forth and rejuvenate.</span></p>

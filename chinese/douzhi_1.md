@@ -1,5 +1,7 @@
 # 斗智
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/douzhi_1.md)
+
 <p><span class="chinese">企鹅将军始终赢得斗智周旋。</span><span class="english">Penguin Generals always win in a battle of wits.</span></p>
 
 <p><span class="chinese">帮派人员在玩弄斗智施暴的玩艺儿。</span><span class="english">The gang members are playing a cat-and mouse game.</span></p>

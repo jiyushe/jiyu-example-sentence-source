@@ -1,5 +1,7 @@
 # lib
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lib.md)
+
 <p><span class="chinese">婴儿溅唾液于围兜上。</span><span class="english">The baby beslavered his lib.</span></p>
 
 <p><span class="chinese">呼喊是“哎呦”在不断地重复。</span><span class="english">The yell is "ouch" repeated ad lib.</span></p>

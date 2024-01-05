@@ -1,5 +1,7 @@
 # depigmentation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/depigmentation.md)
+
 <p><span class="chinese">这就是所谓的脱色。</span><span class="english">This is called depigmentation.</span></p>
 
 <p><span class="chinese">共计脱色的鼻子或内部的嘴唇。</span><span class="english">Total depigmentation of the nose or inside of the lips.</span></p>

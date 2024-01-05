@@ -1,5 +1,7 @@
 # triennial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triennial.md)
+
 <p><span class="chinese">昨日签了一项三年的合约。</span><span class="english">We signed a triennial contract yesterday.</span></p>
 
 <p><span class="chinese">这些信息保存在25份三年一度的户册里。</span><span class="english">This information is preserved in 25 triennial registers.</span></p>

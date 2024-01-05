@@ -1,5 +1,7 @@
 # 来龙去脉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lailongqumai.md)
+
 <p><span class="chinese">她喊醒了丈夫，把事情的来龙去脉告诉他。</span><span class="english">She woke her husband and told him.</span></p>
 
 <p><span class="chinese">不一致的且无来龙去脉的共享</span><span class="english">Inconsistent and context-less sharing</span></p>

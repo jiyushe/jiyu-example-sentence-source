@@ -1,5 +1,7 @@
 # sawyer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sawyer.md)
+
 <p><span class="chinese">但对汤姆·索亚来说却是一件很好的事。</span><span class="english">But it is fine for Tom Sawyer.</span></p>
 
 <p><span class="chinese">索耶先生下班回家。</span><span class="english">Mr. Sawyer comes home from work.</span></p>

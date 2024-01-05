@@ -1,5 +1,7 @@
 # 开春
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaichun.md)
+
 <p><span class="chinese">开春后，有过两次泛滥。</span><span class="english">When spring came, it brought two floods.</span></p>
 
 <p><span class="chinese">开春后，农民们开始耕田播种了。</span><span class="english">Farmers begin to sow shortly after the coming of spring.</span></p>

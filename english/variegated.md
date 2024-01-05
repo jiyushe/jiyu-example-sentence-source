@@ -1,5 +1,7 @@
 # variegated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/variegated.md)
+
 <p><span class="chinese">风中尤显你更是美丽的紫罗兰花。</span><span class="english">The flowers of pansies are often variegated.</span></p>
 
 <p><span class="chinese">绿色和白色组合的斑叶，叶面平坦。标准型。</span><span class="english">Variegated green and white, plain, ovate. Standard.</span></p>

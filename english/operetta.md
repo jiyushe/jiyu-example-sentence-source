@@ -1,5 +1,7 @@
 # operetta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/operetta.md)
+
 <p><span class="chinese">轻喜剧是18世纪风格的集合体。</span><span class="english">The operetta is a pastiche of 18th century style.</span></p>
 
 <p><span class="chinese">在他的第二祖国，家人经营一个西班牙轻歌剧团。</span><span class="english">In his adopted country his family ran a Spanish operetta troupe.</span></p>

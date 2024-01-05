@@ -1,5 +1,7 @@
 # 库容
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kurong.md)
+
 <p><span class="chinese">欧德油储现拥有88600方的库容。</span><span class="english">Now OTDB total storage capacity is 88600 cubic meters.</span></p>
 
 <p><span class="chinese">同时对库容提出新的表达式。</span><span class="english">A new formular for sink capacity was given in this paper also.</span></p>

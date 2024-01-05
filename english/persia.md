@@ -1,5 +1,7 @@
 # persia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/persia.md)
+
 <p><span class="chinese">不久，他又进到亚述、印度、波斯，进到占星术者之地。</span><span class="english">Persia and into the land of the Chaldeans.</span></p>
 
 <p><span class="chinese">然后，亚历山大开始攻击珀斯其余的部分。</span><span class="english">Then Alexander turned to attack the rest of Persia.</span></p>

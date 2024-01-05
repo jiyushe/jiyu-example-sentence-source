@@ -1,5 +1,7 @@
 # 有得
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youde.md)
+
 <p><span class="chinese">真是同拉丁文有得一拼。</span><span class="english">It is as bad as Latin.</span></p>
 
 <p><span class="chinese">有得有失，生活就是如此。</span><span class="english">Have gain have loss, that's is life.</span></p>

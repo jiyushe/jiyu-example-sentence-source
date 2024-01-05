@@ -1,5 +1,7 @@
 # 联手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianshou.md)
+
 <p><span class="chinese">她会认为我们是联手对付她。</span><span class="english">They are ganging up on me.</span></p>
 
 <p><span class="chinese">俱乐部会员和探戈舞者联手！</span><span class="english">Clubbers and tango dancers unite!</span></p>

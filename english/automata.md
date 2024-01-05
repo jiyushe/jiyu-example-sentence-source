@@ -1,5 +1,7 @@
 # automata
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/automata.md)
+
 <p><span class="chinese">其研究方法主要有元胞机法和遗传算法。</span><span class="english">Its main methods include the celluar automata and genetic algorithm.</span></p>
 
 <p><span class="chinese">维纳回顾了自动控制机器进入人体解剖学的演变历史。</span><span class="english">Wiener reviewed the history of machine automata segueing into human anatomy.</span></p>

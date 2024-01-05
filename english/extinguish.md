@@ -1,5 +1,7 @@
 # extinguish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extinguish.md)
+
 <p><span class="chinese">那么怎样才能区分它们呢？</span><span class="english">How do you extinguish them?</span></p>
 
 <p><span class="chinese">你只需要将它们区分开来。</span><span class="english">Well, what you do is you extinguish them.</span></p>

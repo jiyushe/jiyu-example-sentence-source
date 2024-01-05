@@ -1,5 +1,7 @@
 # 成才
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chengcai.md)
+
 <p><span class="chinese">根深叶茂快成才。</span><span class="english">Be deep rooted , flourishing and growing quickly.</span></p>
 
 <p><span class="chinese">无志不成才，无欲不成功。</span><span class="english">No ambition, no achievement. No desire, no success.</span></p>

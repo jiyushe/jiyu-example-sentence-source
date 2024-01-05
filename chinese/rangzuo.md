@@ -1,5 +1,7 @@
 # 让座
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rangzuo.md)
+
 <p><span class="chinese">她为他让座。</span><span class="english">She offered him her seat.</span></p>
 
 <p><span class="chinese">他给一位老人让座。</span><span class="english">He gave up his seat to an old man.</span></p>

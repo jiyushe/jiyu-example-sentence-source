@@ -1,5 +1,7 @@
 # 山姆大叔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanmudashu.md)
+
 <p><span class="chinese">在国际法庭之前，你能够抓到山姆大叔。</span><span class="english">You can take Uncle Sam before a world court.</span></p>
 
 <p><span class="chinese">认识的人都称其为“山姆大叔”。</span><span class="english">People know him always called him "Uncle Sam".</span></p>

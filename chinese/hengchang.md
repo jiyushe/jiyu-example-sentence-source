@@ -1,5 +1,7 @@
 # 哼唱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hengchang.md)
+
 <p><span class="chinese">那个女人开始小声的哼唱。</span><span class="english">The woman starts humming.</span></p>
 
 <p><span class="chinese">她正向婴儿低声哼唱。</span><span class="english">She was crooning to her baby.</span></p>

@@ -1,5 +1,7 @@
 # 毫不讳言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haobuhuiyan.md)
+
 <p><span class="chinese">她毫不讳言自己的错误。</span><span class="english">She never avoids mentioning her mistakes.</span></p>
 
 <p><span class="chinese">老师毫不讳言指出了他的毛病。</span><span class="english">The teacher more than hinted at his flaws.</span></p>

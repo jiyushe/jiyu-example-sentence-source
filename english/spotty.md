@@ -1,5 +1,7 @@
 # spotty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spotty.md)
+
 <p><span class="chinese">他只是看起来像参差不齐少年向我。</span><span class="english">He just looks like a spotty teenager to me.</span></p>
 
 <p><span class="chinese">目前，我们对于太阳风暴的预测能力还不足。</span><span class="english">At present, the forecasting ability for CMEs is spotty.</span></p>

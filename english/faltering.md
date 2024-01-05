@@ -1,5 +1,7 @@
 # faltering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/faltering.md)
+
 <p><span class="chinese">但近来这项努力无法得以继续。</span><span class="english">But the effort has been faltering lately.</span></p>
 
 <p><span class="chinese">在2001年设定的能效目标已经摇摇欲坠。</span><span class="english">Targets set in 2001 on energy efficiency are faltering.</span></p>

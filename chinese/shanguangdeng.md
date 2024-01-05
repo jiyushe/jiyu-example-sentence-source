@@ -1,5 +1,7 @@
 # 闪光灯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanguangdeng.md)
+
 <p><span class="chinese">请不要使用闪光灯。</span><span class="english">Les agradeceriamos no usar flash.</span></p>
 
 <p><span class="chinese">这一次，他终于可以独享闪光灯了。</span><span class="english">At last the spotlight is just on him.</span></p>

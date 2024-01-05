@@ -1,5 +1,7 @@
 # 洗澡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xizao.md)
+
 <p><span class="chinese">洗澡、穿衣。</span><span class="english">Shower. Dress.</span></p>
 
 <p><span class="chinese">现在让我们洗澡吧。</span><span class="english">Let's tke bth now.</span></p>

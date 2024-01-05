@@ -1,5 +1,7 @@
 # endowment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/endowment.md)
+
 <p><span class="chinese">耶鲁基金是什么</span><span class="english">What is the endowment of Yale?</span></p>
 
 <p><span class="chinese">耶鲁的捐赠基金是什么？</span><span class="english">What is the endowment of Yale?</span></p>

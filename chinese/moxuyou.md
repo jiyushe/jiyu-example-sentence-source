@@ -1,5 +1,7 @@
 # 莫须有
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moxuyou.md)
+
 <p><span class="chinese">当莫须有的期望最终没有实现。</span><span class="english">When unwarranted expectations ultimately are not realized.</span></p>
 
 <p><span class="chinese">伙计们，我与传播莫须有的谣言之间的关系就跟鱼水关系一样。</span><span class="english">Fellows, spreading false rumours is to me what water is to a fish.</span></p>

@@ -1,5 +1,7 @@
 # 反转
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanzhuan.md)
+
 <p><span class="chinese">输入反转程序，第一版</span><span class="english">The input reverser, first version</span></p>
 
 <p><span class="chinese">输入反转程序，第二版</span><span class="english">The input reverser, second version</span></p>

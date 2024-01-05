@@ -1,5 +1,7 @@
 # 青衣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingyi_6.md)
+
 <p><span class="chinese">然而，我却青衣舞袖般孤独地伫立断桥。</span><span class="english">However, i ty dance as stand alone bridge.</span></p>
 
 <p><span class="chinese">青衣花旦不用话筒。</span><span class="english">The Qingyi and Huadan will sing without microphone.</span></p>

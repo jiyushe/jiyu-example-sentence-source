@@ -1,5 +1,7 @@
 # dishes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dishes.md)
+
 <p><span class="chinese">他喜欢吃凉菜。</span><span class="english">He likes cold dishes.</span></p>
 
 <p><span class="chinese">别搞那么多菜了。</span><span class="english">Don't make so many dishes.</span></p>

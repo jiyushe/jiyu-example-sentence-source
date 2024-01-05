@@ -1,5 +1,7 @@
 # mhc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mhc.md)
+
 <p><span class="chinese">同MHC共同表达的抗原,激活了免疫系统</span><span class="english">An antigen expressed in the context of MHC stimulates your immune system.</span></p>
 
 <p><span class="chinese">其次MHC影响植入前期已经受精的卵子发育情况。</span><span class="english">Secondly, MHC also affects the development of fertilized ovum during preimplantation stage.</span></p>

@@ -1,5 +1,7 @@
 # exquisite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/exquisite.md)
+
 <p><span class="chinese">简言之，它是精致细腻的。</span><span class="english">It is, in a word, exquisite.</span></p>
 
 <p><span class="chinese">这句隽永而极著名的诗</span><span class="english">That exquisite and celebrated verse</span></p>

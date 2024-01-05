@@ -1,5 +1,7 @@
 # jiao
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jiao.md)
+
 <p><span class="chinese">你可以留下5角钱。</span><span class="english">You can keep five jiao.</span></p>
 
 <p><span class="chinese">俺也是焦作哩。</span><span class="english">I am also from Jiao Zuo.</span></p>

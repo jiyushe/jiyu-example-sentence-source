@@ -1,5 +1,7 @@
 # capacity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/capacity.md)
+
 <p><span class="chinese">井架的风载能力？</span><span class="english">Wind load capacity?</span></p>
 
 <p><span class="chinese">公交车路线容量?。</span><span class="english">Capacity of Bus Line?</span></p>

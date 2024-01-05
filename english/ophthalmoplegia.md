@@ -1,5 +1,7 @@
 # ophthalmoplegia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ophthalmoplegia.md)
+
 <p><span class="chinese">重症肌无力眼肌麻痹患者主要为眼肌型。</span><span class="english">MG patients with ophthalmoplegia are mainly ocular MG.</span></p>
 
 <p><span class="chinese">激素治疗痛性眼肌麻痹有效。</span><span class="english">Systemic steroid therapy was effective for painful ophthalmoplegia.</span></p>

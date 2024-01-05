@@ -1,5 +1,7 @@
 # 公布
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongbu.md)
+
 <p><span class="chinese">新法律已公布。</span><span class="english">The new law was gazetted.</span></p>
 
 <p><span class="chinese">广州市官员于是将这些数据公布在了网上。</span><span class="english">City officials posted it online.</span></p>

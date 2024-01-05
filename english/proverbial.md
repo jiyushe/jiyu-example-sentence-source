@@ -1,5 +1,7 @@
 # proverbial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/proverbial.md)
+
 <p><span class="chinese">这一思想已像格言一样广为流传。</span><span class="english">The idea has acquired a proverbial currency.</span></p>
 
 <p><span class="chinese">众所周知梦境在清晨会渐渐褪去的。</span><span class="english">That a dream fades away in the morning is proverbial.</span></p>

@@ -1,5 +1,7 @@
 # possibilistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/possibilistic.md)
+
 <p><span class="chinese">研究了基于可能性熵理论的聚类问题。</span><span class="english">It deals with clustering analysis within the framework of possibilistic entropy theory.</span></p>
 
 <p><span class="chinese">通过实例分析，得出某企业桥式起重机的失效可能度。</span><span class="english">The possibility of a bridge crane was calculated by the possibilistic reliability method.</span></p>

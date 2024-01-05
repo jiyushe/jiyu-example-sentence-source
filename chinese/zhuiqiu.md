@@ -1,5 +1,7 @@
 # 追求
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuiqiu.md)
+
 <p><span class="chinese">追求完美。</span><span class="english">Perfectionism.</span></p>
 
 <p><span class="chinese">矢志不移地追求你的爱恋。</span><span class="english">Your love I do seek.</span></p>

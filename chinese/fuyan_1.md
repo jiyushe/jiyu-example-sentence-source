@@ -1,5 +1,7 @@
 # 附言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fuyan_1.md)
+
 <p><span class="chinese">你看信末的附言了吗？</span><span class="english">S. at the end of the letter?</span></p>
 
 <p><span class="chinese">她在信尾加上了附言。</span><span class="english">She tagged a postscript to the end of the letter.</span></p>

@@ -1,5 +1,7 @@
 # 脏器
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zangqi.md)
+
 <p><span class="chinese">死亡原因主要为多脏器功能衰竭。</span><span class="english">The main cause of death is failure of multiple organs.</span></p>
 
 <p><span class="chinese">广泛充分应用现代诊断技术，以避免遗漏多脏器伤。</span><span class="english">Modern diagnostic technique should be used to avoid polytrauma.</span></p>

@@ -1,5 +1,7 @@
 # greater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/greater.md)
+
 <p><span class="chinese">伟大，伟大，浩气贯苍穹。</span><span class="english">Is greater yet.</span></p>
 
 <p><span class="chinese">如果拉力很大</span><span class="english">Well, if it was greater.</span></p>

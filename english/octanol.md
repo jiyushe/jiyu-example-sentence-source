@@ -1,5 +1,7 @@
 # octanol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/octanol.md)
+
 <p><span class="chinese">以它为原料的增塑剂耐寒性优于丁醇和辛醇的酯类。</span><span class="english">The cold—lust of the plasticizing agent that use it as material is better than the ester of Butanone and Octanol.</span></p>
 
 <p><span class="chinese">一种辛醇加氢精制催化剂，属于加氢精制催化材料领域。</span><span class="english">The invention discloses an octanol hydrorefining catalyst, which belongs to the field of hydrorefining catalytic materials.</span></p>

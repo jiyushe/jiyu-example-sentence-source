@@ -1,5 +1,7 @@
 # 协定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xieding.md)
+
 <p><span class="chinese">我们就协定取得一致意见。</span><span class="english">We agree the stipulations.</span></p>
 
 <p><span class="chinese">1733年法国和西班牙订立了协定。</span><span class="english">In 1733 France compacted with Spain.</span></p>

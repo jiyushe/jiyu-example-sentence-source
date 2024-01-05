@@ -1,5 +1,7 @@
 # 型式
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingshi_1.md)
+
 <p><span class="chinese">此种型式的储存箱置于收集器上方。</span><span class="english">This type of storage box above in the collector.</span></p>
 
 <p><span class="chinese">本公司有多种法兰输出端型式。</span><span class="english">All kinds of flanges and shaft types are availble.</span></p>

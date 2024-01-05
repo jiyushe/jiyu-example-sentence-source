@@ -1,5 +1,7 @@
 # 白塔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baita.md)
+
 <p><span class="chinese">我住在白塔路。</span><span class="english">I live on Baita Road.</span></p>
 
 <p><span class="chinese">还有白塔、玛尼堆。</span><span class="english">White tower, prayer stones.</span></p>

@@ -1,5 +1,7 @@
 # 岔子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chazi_1.md)
+
 <p><span class="chinese">没有什么岔子可出。</span><span class="english">Nothing has gone wrong.</span></p>
 
 <p><span class="chinese">不要老是找我的岔子。</span><span class="english">Don't jump at me all the time.</span></p>

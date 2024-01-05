@@ -1,5 +1,7 @@
 # archdiocese
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/archdiocese.md)
+
 <p><span class="chinese">吴神父在一九九一年晋升神父圣品职位，为多伦多总教区服务，牧养天主子民。</span><span class="english">Augustine's Seminary, and was ordained as a priest in 1991 for the archdiocese of Toronto.</span></p>
 
 <p><span class="chinese">现在，大主教区没有回答我们征询意见的要求，而且马鞍教堂的办公室已经关闭。</span><span class="english">Now, the Archdiocese did not return our calls seeking comment and the offices at Saddleback Church were closed.</span></p>

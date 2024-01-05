@@ -1,5 +1,7 @@
 # kampuchea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kampuchea.md)
+
 <p><span class="chinese">社会经济极待恢复柬埔寨是一个农业国。</span><span class="english">Socioeconomy extremely wait for restoring Kampuchea is an agricultural country.</span></p>
 
 <p><span class="chinese">柬埔寨问题由柬埔寨四方商量解决。</span><span class="english">The question of Kampuchea should be settled by the four parties in Kampuchea through consultation.</span></p>

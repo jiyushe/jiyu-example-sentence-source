@@ -1,5 +1,7 @@
 # programme 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/programme.md)
+
 <p><span class="chinese">我们没有计划。</span><span class="english">We have no programme.</span></p>
 
 <p><span class="chinese">这个节目播完了。</span><span class="english">The programme is over.</span></p>

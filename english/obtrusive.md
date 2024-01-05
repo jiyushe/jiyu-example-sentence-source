@@ -1,5 +1,7 @@
 # obtrusive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/obtrusive.md)
+
 <p><span class="chinese">我觉得酒吧里的音乐太吵人了。</span><span class="english">I find the music in the bar very obtrusive.</span></p>
 
 <p><span class="chinese">种子密封在一个张扬囊肉。</span><span class="english">Seed enclosed in an obtrusive sac of flesh.</span></p>

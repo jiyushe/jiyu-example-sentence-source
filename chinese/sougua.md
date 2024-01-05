@@ -1,5 +1,7 @@
 # 搜刮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sougua.md)
+
 <p><span class="chinese">不要怠忽“粘贴并搜刮”和“粘贴并访问”。</span><span class="english">Don't overlook Paste and Searc and Paste and Go.</span></p>
 
 <p><span class="chinese">他说，“奖学金是学生的财产，绝对不可以从学生身上搜刮这些钱。”</span><span class="english">That money shouldn't be collected. That's for students.</span></p>

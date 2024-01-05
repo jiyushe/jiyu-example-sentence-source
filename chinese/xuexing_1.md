@@ -1,5 +1,7 @@
 # 血腥
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuexing_1.md)
+
 <p><span class="chinese">我的脸撞到了，尝到血腥味。</span><span class="english">My face hit and I tasted blood.</span></p>
 
 <p><span class="chinese">我看不得血腥场面。</span><span class="english">I can't stand the sight of blood.</span></p>

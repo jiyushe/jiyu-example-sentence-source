@@ -1,5 +1,7 @@
 # continually
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/continually.md)
+
 <p><span class="chinese">但是你老是会忘掉。</span><span class="english">But you continually forget that line.</span></p>
 
 <p><span class="chinese">爱，使你惊奇不已。</span><span class="english">Love keeps you continually wondering.</span></p>

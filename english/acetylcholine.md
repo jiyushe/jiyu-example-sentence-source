@@ -1,5 +1,7 @@
 # acetylcholine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acetylcholine.md)
+
 <p><span class="chinese">大脑利用这种物质生成神经递质的乙酰胆碱。</span><span class="english">The brain uses it to make the neurotransmitter acetylcholine.</span></p>
 
 <p><span class="chinese">所有这些反应都是乙醯胆碱活性过强的象徵。</span><span class="english">All of these reactions are indications of too much acetylcholine activity.</span></p>

@@ -1,5 +1,7 @@
 # itself
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/itself.md)
+
 <p><span class="chinese">小乖乖把自己弄疼了吗?</span><span class="english">Did it hurt itself?</span></p>
 
 <p><span class="chinese">有树自能生根。</span><span class="english">A tree roots itself.</span></p>

@@ -1,5 +1,7 @@
 # 无虞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wuyu_2.md)
+
 <p><span class="chinese">常常少欲满足的人，才是无虞匮乏的富人。</span><span class="english">Those content with few desires will never want.</span></p>
 
 <p><span class="chinese">不过迄今为止，仍然证实核能发电造价昂贵，而且绝非安全无虞。</span><span class="english">Yet nuclear power proved costly and far from risk-free.</span></p>

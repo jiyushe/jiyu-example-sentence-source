@@ -1,5 +1,7 @@
 # tahiti
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tahiti.md)
+
 <p><span class="chinese">巴黎人去塔希提岛。</span><span class="english">Parisians escape to Tahiti.</span></p>
 
 <p><span class="chinese">塔希提岛位于南太平洋。</span><span class="english">Tahiti lies in the South Pacific.</span></p>

@@ -1,5 +1,7 @@
 # perpetually
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/perpetually.md)
+
 <p><span class="chinese">她的泪泉一定会永远向污痕冲荡。</span><span class="english">Her tears should drop on them perpetually.</span></p>
 
 <p><span class="chinese">她老是忧心忡忡。</span><span class="english">She was perpetually assailed with worries.</span></p>

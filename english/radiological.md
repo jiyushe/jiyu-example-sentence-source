@@ -1,5 +1,7 @@
 # radiological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/radiological.md)
+
 <p><span class="chinese">线诊断中受检者放射卫生防护标准。</span><span class="english">Radiological protection standard for the examinee in X-ray diagnosis.</span></p>
 
 <p><span class="chinese">放射线学与临床表徵一并呈现。</span><span class="english">Radiological findings and clinical data are presented for the two cases.</span></p>

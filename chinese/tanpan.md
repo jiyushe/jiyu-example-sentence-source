@@ -1,5 +1,7 @@
 # 谈判
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tanpan.md)
+
 <p><span class="chinese">自动给谈判。</span><span class="english">Auto-Rate Negotiation.</span></p>
 
 <p><span class="chinese">它必须通过谈判。</span><span class="english">It must be negotiated.</span></p>

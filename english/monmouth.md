@@ -1,5 +1,7 @@
 # monmouth
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monmouth.md)
+
 <p><span class="chinese">蒙默思？就在拐角处，那个地方我真的很喜欢。</span><span class="english">Monmouth? Just down the corner, which I really love.</span></p>
 
 <p><span class="chinese">陆军雷达的研制由位于新泽西蒙默思堡的侦察部队实验室领导。</span><span class="english">Army radar development was led by the Signal Corps Laboratory in Fort Monmouth , New Jersey.</span></p>

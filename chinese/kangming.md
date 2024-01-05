@@ -1,5 +1,7 @@
 # 抗命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kangming.md)
+
 <p><span class="chinese">我们可以慢慢了解真相，却不能拖延抗命。</span><span class="english">Understanding can wait, but obedience can't.</span></p>
 
 <p><span class="chinese">他做好了计划，准备为公民抗命坐牢。</span><span class="english">He plans on being arrested for civil disobedience.</span></p>

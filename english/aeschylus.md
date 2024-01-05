@@ -1,5 +1,7 @@
 # aeschylus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aeschylus.md)
+
 <p><span class="chinese">埃斯库罗斯第一次失败是在西元前468年。</span><span class="english">Aeschylus ' first known dramatic defeat came in 468 BCE.</span></p>
 
 <p><span class="chinese">是的，历史即是悲剧，正如埃斯库洛斯与索福克勒斯所认为的那样。</span><span class="english">Yes, history is tragic, as Aeschylus and Sophocles knew.</span></p>

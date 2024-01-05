@@ -1,5 +1,7 @@
 # semicircle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/semicircle.md)
+
 <p><span class="chinese">半圆形形状工具。</span><span class="english">Semicircle shape tool.</span></p>
 
 <p><span class="chinese">这个村庄是由半圆形的茅舍构成的。</span><span class="english">The village was formed of semicircle huts.</span></p>

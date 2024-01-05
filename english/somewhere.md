@@ -1,5 +1,7 @@
 # somewhere 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/somewhere.md)
+
 <p><span class="chinese">他在四周某地方。</span><span class="english">He is around somewhere.</span></p>
 
 <p><span class="chinese">也许我掉在某处了。</span><span class="english">Maybe I left it somewhere.</span></p>

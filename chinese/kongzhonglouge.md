@@ -1,5 +1,7 @@
 # 空中楼阁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongzhonglouge.md)
+
 <p><span class="chinese">你这是在建空中楼阁。</span><span class="english">You are building a castle in the air.</span></p>
 
 <p><span class="chinese">你的计划仅是空中楼阁而已。</span><span class="english">Your plan is merely a castle in the air.</span></p>

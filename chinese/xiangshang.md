@@ -1,5 +1,7 @@
 # 向上
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiangshang.md)
+
 <p><span class="chinese">向上达到天庭！</span><span class="english">Upward to heaven!</span></p>
 
 <p><span class="chinese">好好学习，天天天向上！</span><span class="english">Hard study Day day up!</span></p>

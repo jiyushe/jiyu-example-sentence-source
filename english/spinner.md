@@ -1,5 +1,7 @@
 # spinner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/spinner.md)
+
 <p><span class="chinese">这是从纺纱厂的名称域的工具。</span><span class="english">It'sa name spinner from Domain Tools.</span></p>
 
 <p><span class="chinese">它的名字纺纱机从域的工具。</span><span class="english">It's a name spinner from Domain Tools.</span></p>

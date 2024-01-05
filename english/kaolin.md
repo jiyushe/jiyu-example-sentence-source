@@ -1,5 +1,7 @@
 # kaolin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kaolin.md)
+
 <p><span class="chinese">高岭土采集后，利用溪水将其冲下。</span><span class="english">When Kaolin is quarried, it is washed down by stream.</span></p>
 
 <p><span class="chinese">高岭土及类似土，不论是否煅烧。</span><span class="english">Kaolin and other kaolinic clays, whether or not calcined.</span></p>

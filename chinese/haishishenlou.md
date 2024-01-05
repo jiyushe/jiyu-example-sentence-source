@@ -1,5 +1,7 @@
 # 海市蜃楼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/haishishenlou.md)
+
 <p><span class="chinese">别把我推向海市蜃楼。</span><span class="english">Do not push my mirage.</span></p>
 
 <p><span class="chinese">海市蜃楼从何处而来？</span><span class="english">Where do mirages come from?</span></p>

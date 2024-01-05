@@ -1,5 +1,7 @@
 # weatherproof
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weatherproof.md)
+
 <p><span class="chinese">生锈的表面形成一层防水保护层。</span><span class="english">The rust forms a weatherproof layer of protection.</span></p>
 
 <p><span class="chinese">电动执行机构的气候保护或防爆保护。</span><span class="english">Weatherproof or explosion proof electric actuator.</span></p>

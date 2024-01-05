@@ -1,5 +1,7 @@
 # inefficient
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/inefficient.md)
+
 <p><span class="chinese">因为它效率较低。</span><span class="english">Alright, so it's inefficient.</span></p>
 
 <p><span class="chinese">这种方法少慢差费。</span><span class="english">That's an inefficient and expensive method.</span></p>

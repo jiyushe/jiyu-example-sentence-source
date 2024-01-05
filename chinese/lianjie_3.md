@@ -1,5 +1,7 @@
 # 连结
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lianjie_3.md)
+
 <p><span class="chinese">接下来第二步则是连结默然。</span><span class="english">Being silent is the second.</span></p>
 
 <p><span class="chinese">取得此站台连结的传输类型。</span><span class="english">Gets the name of the site link.</span></p>

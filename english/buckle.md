@@ -1,5 +1,7 @@
 # buckle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/buckle.md)
+
 <p><span class="chinese">把你的鞋子扣紧。</span><span class="english">Buckle up your shoes.</span></p>
 
 <p><span class="chinese">你读过巴克尔的书吗？</span><span class="english">Have you read Buckle?</span></p>

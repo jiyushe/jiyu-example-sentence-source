@@ -1,5 +1,7 @@
 # sacrificial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sacrificial.md)
+
 <p><span class="chinese">或者你在牺牲的部分中？</span><span class="english">Or are you among the sacrificial parts?</span></p>
 
 <p><span class="chinese">今天上午你得牺牲一下了</span><span class="english">I'll--you're my sacrificial lamb this morning.</span></p>

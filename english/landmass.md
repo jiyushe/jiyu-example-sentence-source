@@ -1,5 +1,7 @@
 # landmass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/landmass.md)
+
 <p><span class="chinese">它是江南陆块与华夏陆块神功运动形成的碰撞拼贴带。</span><span class="english">It is a collision zone between Jiangnan landmass and Cathaysia landmass.</span></p>
 
 <p><span class="chinese">德克萨斯州占美国大陆面积的十二分之一。</span><span class="english">Texas constitutes one-twelfth of the continental landmass of the United States.</span></p>

@@ -1,5 +1,7 @@
 # scalene
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scalene.md)
+
 <p><span class="chinese">采用前、中、小斜角肌切断并解除一切压迫臂丛神经的纤维束带。</span><span class="english">The anterior, medium and minimum scalene muscles were transected and fibrous band were resected.</span></p>
 
 <p><span class="chinese">了解如何伸展颈部的颈部斜角肌物理治疗在此免费视频。</span><span class="english">Learn how to stretch the Scalene muscles in the neck in this free video on neck physical therapy.</span></p>

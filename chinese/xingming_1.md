@@ -1,5 +1,7 @@
 # 性命
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingming_1.md)
+
 <p><span class="chinese">性命是一束污浊的火焰。</span><span class="english">Life is apure flame.</span></p>
 
 <p><span class="chinese">他的性命操在我的手心里。</span><span class="english">His life was in my hand.</span></p>

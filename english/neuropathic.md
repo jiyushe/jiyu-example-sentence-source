@@ -1,5 +1,7 @@
 # neuropathic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/neuropathic.md)
+
 <p><span class="chinese">这是一类与神经痛和后发性疱疹性疼痛。</span><span class="english">This is a relatively new drug for neuropathic and post-herpetic pain.</span></p>
 
 <p><span class="chinese">加巴喷丁作用于蓝斑核可减轻神经性疼痛。</span><span class="english">Gabapentin Acts within the Locus Coeruleus to Alleviate Neuropathic Pain.</span></p>

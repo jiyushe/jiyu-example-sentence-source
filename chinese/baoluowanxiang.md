@@ -1,5 +1,7 @@
 # 包罗万象
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/baoluowanxiang.md)
+
 <p><span class="chinese">你不可能提出一个包罗万象的建议。</span><span class="english">You can not possibly make an all-embracing proposal.</span></p>
 
 <p><span class="chinese">建筑学是一门包罗万象的学科。</span><span class="english">Architecture is pretty much everything in one subject.</span></p>

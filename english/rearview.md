@@ -1,5 +1,7 @@
 # rearview
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rearview.md)
+
 <p><span class="chinese">还有那边的的士都是很少有倒后镜的…</span><span class="english">Also there are very few taxi's rearview mirror.</span></p>
 
 <p><span class="chinese">一分钟以后，我从后视镜里发现了他。</span><span class="english">A minute later I spotted him in my rearview mirror.</span></p>

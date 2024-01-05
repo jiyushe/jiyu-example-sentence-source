@@ -1,5 +1,7 @@
 # symptomatology
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/symptomatology.md)
+
 <p><span class="chinese">对照组在色氨酸增加期与缺失期没有明显差别。</span><span class="english">Controls did not have a difference in symptomatology on either day.</span></p>
 
 <p><span class="chinese">是这样的，不能对自性作出反映的结果是症候群。</span><span class="english">Well, the by-product of not responding to the Self is symptomatology.</span></p>

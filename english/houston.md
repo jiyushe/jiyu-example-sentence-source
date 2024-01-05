@@ -1,5 +1,7 @@
 # houston
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/houston.md)
+
 <p><span class="chinese">他们以6比1战胜了休斯敦队。</span><span class="english">They've got 6-1 win over Houston.</span></p>
 
 <p><span class="chinese">我在休斯顿家里呆了一天.</span><span class="english">I was home for one day in Houston.</span></p>

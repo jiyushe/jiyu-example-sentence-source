@@ -1,5 +1,7 @@
 # dumpy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dumpy.md)
+
 <p><span class="chinese">她是个矮胖的女人。</span><span class="english">She is a dumpy woman.</span></p>
 
 <p><span class="chinese">一个矮胖的书生模样的士兵说道。</span><span class="english">A soldier of dumpy scholar shape say.</span></p>

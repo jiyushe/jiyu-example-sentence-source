@@ -1,5 +1,7 @@
 # venom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/venom.md)
+
 <p><span class="chinese">为什么蟾蜍用毒泥污染清洌的泉水？</span><span class="english">Or toads infect fair founts with venom mud?</span></p>
 
 <p><span class="chinese">我因为她话语里的怨恨而畏缩了一下。</span><span class="english">I flinched back from the venom in her voice.</span></p>

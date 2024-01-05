@@ -1,5 +1,7 @@
 # intransigence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/intransigence.md)
+
 <p><span class="chinese">这也有部分原因是由于反对党的一意孤行和毫不让步。</span><span class="english">Part of the problem is crass intransigence by the opposition.</span></p>
 
 <p><span class="chinese">如果共和党固守己见，致使本月末税收增加，那么就任其发展下去好了。</span><span class="english">If G.O.P. intransigence means that taxes rise at the end of this month, so be it.</span></p>

@@ -1,5 +1,7 @@
 # zuleika
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zuleika.md)
+
 <p><span class="chinese">这就是为什么整个家族知道奈提莉已经找到了你。</span><span class="english">That's how the clan knew Zuleika had found you.</span></p>
 
 <p><span class="chinese">杰克和奈提莉听到有尖叫声穿过树林。</span><span class="english">Josh and Zuleika hear the scream through the trees.</span></p>

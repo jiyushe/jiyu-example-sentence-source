@@ -1,5 +1,7 @@
 # 嘱咐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhufu_2.md)
+
 <p><span class="chinese">他嘱咐要谨慎行事。</span><span class="english">He enjoined caution.</span></p>
 
 <p><span class="chinese">医生嘱咐要严格规定饮食。</span><span class="english">The doctor enjoined a strict diet.</span></p>

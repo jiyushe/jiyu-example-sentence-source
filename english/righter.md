@@ -1,5 +1,7 @@
 # righter
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/righter.md)
+
 <p><span class="chinese">错误的开始，对的结束。</span><span class="english">Start wrong , It may get righter.</span></p>
 
 <p><span class="chinese">我多对多的时候，也处理的蛮好的。</span><span class="english">I am much righter much when, the pretty that also handles is good.</span></p>

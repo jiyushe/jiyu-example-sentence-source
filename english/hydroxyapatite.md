@@ -1,5 +1,7 @@
 # hydroxyapatite
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydroxyapatite.md)
+
 <p><span class="chinese">结论羟基磷灰石复合体是较为理想的充填材料。</span><span class="english">Conclusions The hydroxyapatite complex is the ideal filling material.</span></p>
 
 <p><span class="chinese">本发明的羟基磷灰石纳米管能应用于骨修复或骨接枝中。</span><span class="english">The hydroxyapatite nanotube is applicable in bone repair or bone grafting.</span></p>

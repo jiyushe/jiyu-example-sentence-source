@@ -1,5 +1,7 @@
 # loch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/loch.md)
+
 <p><span class="chinese">中国最吸引人的湖景。</span><span class="english">The Loch Ness of China.</span></p>
 
 <p><span class="chinese">“尼西”是怎么进入尼斯湖的呢？</span><span class="english">How did Nessie get into Loch Nessie?</span></p>

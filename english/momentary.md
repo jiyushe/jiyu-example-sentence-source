@@ -1,5 +1,7 @@
 # momentary
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/momentary.md)
+
 <p><span class="chinese">不过，此一时彼一时。</span><span class="english">However, this is momentary that momentary.</span></p>
 
 <p><span class="chinese">他活在随时都有可能死亡的预料中事。</span><span class="english">He lived in momentary expectation of death.</span></p>

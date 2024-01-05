@@ -1,5 +1,7 @@
 # 清早
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingzao.md)
+
 <p><span class="chinese">一天清早，我们观察了延安醒来。</span><span class="english">One early morning we watched Yenan wake up.</span></p>
 
 <p><span class="chinese">在清早时过一座教堂。</span><span class="english">At nine in the morning there passed a church.</span></p>

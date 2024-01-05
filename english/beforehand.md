@@ -1,5 +1,7 @@
 # beforehand
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/beforehand.md)
+
 <p><span class="chinese">一切都事先料理好了。</span><span class="english">It had been arranged beforehand.</span></p>
 
 <p><span class="chinese">没人事先预料到这事。</span><span class="english">No one expected this beforehand.</span></p>

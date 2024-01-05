@@ -1,5 +1,7 @@
 # ansi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ansi.md)
+
 <p><span class="chinese">用户外出时可将温控阀调整到低温状态。</span><span class="english">To ANSI valve can be adjusted to low temperature.</span></p>
 
 <p><span class="chinese">浮动球阀具有全通径和缩径两种结构形式。</span><span class="english">ANSI full bore and necking of two structural forms.</span></p>

@@ -1,5 +1,7 @@
 # stitch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stitch.md)
+
 <p><span class="chinese">及时一针省九针。</span><span class="english">A stitch in time save nine.</span></p>
 
 <p><span class="chinese">有助于缝纫工的缝制。</span><span class="english">An overcast stitch or seam.</span></p>

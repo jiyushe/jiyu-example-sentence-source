@@ -1,5 +1,7 @@
 # extensively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/extensively.md)
+
 <p><span class="chinese">这个房子被极大程度的从新改建。</span><span class="english">This house have been extensively remodelled.</span></p>
 
 <p><span class="chinese">稍后鲍尔写了广泛的历史神学。</span><span class="english">Later Baur wrote extensively on historical theology.</span></p>

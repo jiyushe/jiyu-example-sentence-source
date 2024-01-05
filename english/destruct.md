@@ -1,5 +1,7 @@
 # destruct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/destruct.md)
+
 <p><span class="chinese">解构函式是用来解构类别的执行个体。</span><span class="english">Destructors are used to destruct instances of classes.</span></p>
 
 <p><span class="chinese">实验结果表明臭氧能够有效地去除模拟中的蒽。</span><span class="english">The results of soil column study show that ozone can effectively destruct anthracene in simulated soil.</span></p>

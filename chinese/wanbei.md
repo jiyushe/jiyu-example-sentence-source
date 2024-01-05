@@ -1,5 +1,7 @@
 # 完备
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wanbei.md)
+
 <p><span class="chinese">他们有完备的功能。</span><span class="english">They're able to fully function.</span></p>
 
 <p><span class="chinese">公园，所有的便利设施都很完备。</span><span class="english">has parking, all the amenities.</span></p>

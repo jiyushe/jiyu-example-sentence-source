@@ -1,5 +1,7 @@
 # overfull
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overfull.md)
+
 <p><span class="chinese">我认为他是因为过多的劳累而得了癌症。</span><span class="english">I think his cancer is resulted from the overfull tire.</span></p>
 
 <p><span class="chinese">同时，有氧运动还能消耗多余热量，有益于保持良好体型。</span><span class="english">Meanwhile, it helps keep our body in a good shape by consuming the overfull calories.</span></p>

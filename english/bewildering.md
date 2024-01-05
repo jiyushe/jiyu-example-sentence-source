@@ -1,5 +1,7 @@
 # bewildering
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bewildering.md)
+
 <p><span class="chinese">变化速度之快，令统计工作手足无措。</span><span class="english">The speed of change is rapid, the statistics bewildering.</span></p>
 
 <p><span class="chinese">这些排挡看上去差不多，碟子热让人困惑。</span><span class="english">The kiosks all look alike to us and the dishes bewildering.</span></p>

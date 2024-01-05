@@ -1,5 +1,7 @@
 # cupboard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cupboard.md)
+
 <p><span class="chinese">碗橱门砰然响了一声。</span><span class="english">Cupboard doors thud.</span></p>
 
 <p><span class="chinese">在碗柜里，找到了吗？</span><span class="english">In the cupboard. Got them?</span></p>

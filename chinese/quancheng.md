@@ -1,5 +1,7 @@
 # 全城
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/quancheng.md)
+
 <p><span class="chinese">全城骚动。</span><span class="english">The whole city was in tumult.</span></p>
 
 <p><span class="chinese">全城都黑漆一片。</span><span class="english">The whole town is blacked out.</span></p>

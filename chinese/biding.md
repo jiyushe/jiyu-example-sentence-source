@@ -1,5 +1,7 @@
 # 吡啶
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/biding.md)
+
 <p><span class="chinese">二氢吡啶是一种非营养性添加剂。</span><span class="english">Diludine was a non-nutritional additive.</span></p>
 
 <p><span class="chinese">两个吡啶配体是以顺式络合的。</span><span class="english">The two pyridine molecules are cis-coordinated.</span></p>

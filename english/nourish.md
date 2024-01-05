@@ -1,5 +1,7 @@
 # nourish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nourish.md)
+
 <p><span class="chinese">让这些骨灰养育海棠。</span><span class="english">Make these ashes to nourish and blossom.</span></p>
 
 <p><span class="chinese">雨露滋润禾苗壮。</span><span class="english">Rain and dew drops nourish young seedlings.</span></p>

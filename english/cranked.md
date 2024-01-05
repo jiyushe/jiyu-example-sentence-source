@@ -1,5 +1,7 @@
 # cranked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cranked.md)
+
 <p><span class="chinese">我看的是带字幕的电视节目，音量调得很大。</span><span class="english">I watch TV with subtitles and the volume cranked up.</span></p>
 
 <p><span class="chinese">你仔细听听，几乎已经能听到印钞机在响了。</span><span class="english">Listen carefully and you can almost hear the printing presses being cranked up.</span></p>

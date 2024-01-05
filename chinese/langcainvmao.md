@@ -1,5 +1,7 @@
 # 郎才女貌
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/langcainvmao.md)
+
 <p><span class="chinese">大家都说他们是郎才女貌的一对。</span><span class="english">Everyone was saying what a handsome couple they made.</span></p>
 
 <p><span class="chinese">这位学者和他的妻子郎才女貌，可谓是天造地设的一对。</span><span class="english">The scholar and his beautiful wife are perfect match.</span></p>

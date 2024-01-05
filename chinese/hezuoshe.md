@@ -1,5 +1,7 @@
 # 合作社
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hezuoshe.md)
+
 <p><span class="chinese">这两个合作社在合作。</span><span class="english">The two coops work hand in hand.</span></p>
 
 <p><span class="chinese">合作社在展览会上出售艺术品。</span><span class="english">The co-op sells the art work at exhibitions.</span></p>

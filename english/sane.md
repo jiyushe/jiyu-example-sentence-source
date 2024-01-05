@@ -1,5 +1,7 @@
 # sane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sane.md)
+
 <p><span class="chinese">他犯罪时，神志十分清醒。</span><span class="english">He was perfectly sane when he committed the crime.</span></p>
 
 <p><span class="chinese">还有比这更有教养、更四平八稳的吗？</span><span class="english">What could BE more civilized, more eminently sane?</span></p>

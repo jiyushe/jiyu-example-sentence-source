@@ -1,5 +1,7 @@
 # 脱手
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuoshou.md)
+
 <p><span class="chinese">那个守门员居然笨手笨脚地脱手失掉了球。</span><span class="english">The wicket-keeper fumbled the ball and dropped it.</span></p>
 
 <p><span class="chinese">如果站起来和脱手是要加罚时间的。</span><span class="english">If you stand up and get rid of is to add penalty time.</span></p>

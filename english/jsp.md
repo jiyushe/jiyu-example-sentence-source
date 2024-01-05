@@ -1,5 +1,7 @@
 # jsp
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jsp.md)
+
 <p><span class="chinese">JSP上的按钮将会反映这个新的标签。</span><span class="english">The button on the JSP should reflect this new label.</span></p>
 
 <p><span class="chinese">既然您已经保存了所有的文件并在服务器端运行了page1.jsp。</span><span class="english">Now you can save all of the files and run page1.jsp on the server.</span></p>

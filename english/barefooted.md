@@ -1,5 +1,7 @@
 # barefooted
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/barefooted.md)
+
 <p><span class="chinese">你不可以打赤脚开车。</span><span class="english">You may not drive barefooted.</span></p>
 
 <p><span class="chinese">我光着脚匆匆跑向窗边。</span><span class="english">I hurried barefooted to the window.</span></p>

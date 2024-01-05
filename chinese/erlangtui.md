@@ -1,5 +1,7 @@
 # 二郎腿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erlangtui.md)
+
 <p><span class="chinese">他坐着摆动着二郎腿。</span><span class="english">He sat swinging his legs.</span></p>
 
 <p><span class="chinese">坐直、不要跷二郎腿或抱臂。</span><span class="english">Sit up straight and don't cross your legs or arms.</span></p>

@@ -1,5 +1,7 @@
 # recrudescence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recrudescence.md)
+
 <p><span class="chinese">瘥后调养，防止复发。</span><span class="english">After recuperation, to prevent the recrudescence.</span></p>
 
 <p><span class="chinese">未发现子宫内膜异位症复发。</span><span class="english">Has not discovered the endometriosis sickness recrudescence.</span></p>

@@ -1,5 +1,7 @@
 # egocentric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/egocentric.md)
+
 <p><span class="chinese">我是顽固的利己主义者。</span><span class="english">I was stubborn and egocentric.</span></p>
 
 <p><span class="chinese">我以自我中心的，并且且制造规则。</span><span class="english">I am egocentric and I make the rules.</span></p>

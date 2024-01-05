@@ -1,5 +1,7 @@
 # 涮羊肉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuanyangrou.md)
+
 <p><span class="chinese">他喜欢吃涮羊肉…</span><span class="english">He likes instant-boiled mutton.</span></p>
 
 <p><span class="chinese">我建议吃涮羊肉。</span><span class="english">Let me suggest the boiled mutton.</span></p>

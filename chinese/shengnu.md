@@ -1,5 +1,7 @@
 # 盛怒
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengnu.md)
+
 <p><span class="chinese">她盛怒之下把信撕成碎片。</span><span class="english">Angrily she ripped the letter up.</span></p>
 
 <p><span class="chinese">盛怒之下大摇大摆走出了房间。</span><span class="english">He pranced out of the room in a fury.</span></p>

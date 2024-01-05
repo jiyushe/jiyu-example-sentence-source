@@ -1,5 +1,7 @@
 # gaborone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gaborone.md)
+
 <p><span class="chinese">首都加波罗内，弗朗西斯城为最大城市。</span><span class="english">Gaborone is the capital and Francistown the largest city.</span></p>
 
 <p><span class="chinese">波扎那总统，塞雷茨·卡马·伊恩·卡马的前任，在哈勃罗内的办公室里。</span><span class="english">The President of Botswana, former Lt Gen Ian Khama, in his office in Gaborone.</span></p>

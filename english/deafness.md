@@ -1,5 +1,7 @@
 # deafness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deafness.md)
+
 <p><span class="chinese">耳聋是可以遗传的。</span><span class="english">Deafness can be inherited.</span></p>
 
 <p><span class="chinese">耳聋是有关耳聋的一些问题。</span><span class="english">And the issues with deafness.</span></p>

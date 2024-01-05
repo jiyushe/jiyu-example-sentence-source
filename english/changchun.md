@@ -1,5 +1,7 @@
 # changchun
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/changchun.md)
+
 <p><span class="chinese">我妈妈也是长春人。</span><span class="english">My mom is also from Changchun.</span></p>
 
 <p><span class="chinese">长春大明木业有限公司。</span><span class="english">Changchun Daming Wood Co. , Ltd.</span></p>

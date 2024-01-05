@@ -1,5 +1,7 @@
 # 米粉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mifen.md)
+
 <p><span class="chinese">我想吃些米粉。</span><span class="english">I'd like some rice noodles.</span></p>
 
 <p><span class="chinese">越南米粉皮的春卷。</span><span class="english">Classic Vietnamese Spring Rolls.</span></p>

@@ -1,5 +1,7 @@
 # 凝脂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ningzhi.md)
+
 <p><span class="chinese">凝脂奶酪海岸地。</span><span class="english">Past shores of clotted cream.</span></p>
 
 <p><span class="chinese">温泉水滑洗凝脂。</span><span class="english">Soft spring water washes her greasily smooth skin.</span></p>

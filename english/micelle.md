@@ -1,5 +1,7 @@
 # micelle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/micelle.md)
+
 <p><span class="chinese">手性胶束对反应有手性诱导作用。</span><span class="english">Chiral micelle has asymmetric induction to some reactions.</span></p>
 
 <p><span class="chinese">聚合物胶束作为药物载体具有其独特的优势。</span><span class="english">Polymeric micelle has its own unique advantages with respect to drug delivery.</span></p>

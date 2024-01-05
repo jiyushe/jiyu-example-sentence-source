@@ -1,5 +1,7 @@
 # bicameral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bicameral.md)
+
 <p><span class="chinese">斐济实行两院制议会。</span><span class="english">Fiji"s Parliament is bicameral.</span></p>
 
 <p><span class="chinese">国会是一个两院制的立法机关。</span><span class="english">Congress is a bicameral legislature.</span></p>

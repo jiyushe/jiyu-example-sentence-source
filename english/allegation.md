@@ -1,5 +1,7 @@
 # allegation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allegation.md)
+
 <p><span class="chinese">巴图林娜对这一指控予以否认。</span><span class="english">Baturina denies the allegation.</span></p>
 
 <p><span class="chinese">只有一个，未经证实的指控的来源这一点。</span><span class="english">There is only one, unverified source for this allegation.</span></p>

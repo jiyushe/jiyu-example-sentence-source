@@ -1,5 +1,7 @@
 # 招考
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhaokao.md)
+
 <p><span class="chinese">最后以高校招考咨询活动答话与目的原则的关系来结束第三章。</span><span class="english">Chapter Four focuses on the dynamic interaction of question and response.</span></p>
 
 <p><span class="chinese">深圳要招考公务员，恐怕大专是不行的。</span><span class="english">Shenzhen to recruit civil servants , I am afraid that college is not acceptable.</span></p>

@@ -1,5 +1,7 @@
 # anticlinal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anticlinal.md)
+
 <p><span class="chinese">于贝母表皮细胞垂周壁多波状弯曲。</span><span class="english">The anticlinal wall of epidermic cell looks like waves.</span></p>
 
 <p><span class="chinese">背斜的岩石皱褶，核心部有柱状盐填充。</span><span class="english">An anticlinal fold with a columnar salt plug at its core.</span></p>

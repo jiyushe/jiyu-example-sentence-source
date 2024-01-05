@@ -1,5 +1,7 @@
 # 装具
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuangju_1.md)
+
 <p><span class="chinese">这个装具模块完全利用了这一点。</span><span class="english">The harness fully takes advantage of this.</span></p>
 
 <p><span class="chinese">在开发环境中安装测试装具模块</span><span class="english">Install the test harness in your development environment</span></p>

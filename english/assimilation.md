@@ -1,5 +1,7 @@
 # assimilation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/assimilation.md)
+
 <p><span class="chinese">你要慢慢适应这种逐步同化</span><span class="english">You've got to do this gradual assimilation.</span></p>
 
 <p><span class="chinese">美国仍然是惊人的同化机器。</span><span class="english">The U.S. is still an astonishing assimilation machine.</span></p>

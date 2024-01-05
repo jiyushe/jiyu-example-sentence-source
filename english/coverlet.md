@@ -1,5 +1,7 @@
 # coverlet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/coverlet.md)
+
 <p><span class="chinese">床罩是兰色的。</span><span class="english">The coverlet was painted in blue.</span></p>
 
 <p><span class="chinese">这个学生的床罩脏了。</span><span class="english">The student's coverlet was dirty.</span></p>

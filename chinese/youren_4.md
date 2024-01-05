@@ -1,5 +1,7 @@
 # 诱人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youren_4.md)
+
 <p><span class="chinese">这些菜看起来真诱人。</span><span class="english">The dishes really look inviting.</span></p>
 
 <p><span class="chinese">柔软的皮肤，红色的嘴唇，诱人亲吻。</span><span class="english">Soft skin, red lips, so kissable.</span></p>

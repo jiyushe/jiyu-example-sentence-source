@@ -1,5 +1,7 @@
 # 花市
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huashi_1.md)
+
 <p><span class="chinese">去年元夜时，花市灯如昼。</span><span class="english">This time of spring night this year.</span></p>
 
 <p><span class="chinese">在那里你可以参观花市。</span><span class="english">You can visit flower market over there.</span></p>

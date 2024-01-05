@@ -1,5 +1,7 @@
 # sienna
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sienna.md)
+
 <p><span class="chinese">他很酷，西耶娜·米勒人也很好。</span><span class="english">He was cool and Sienna Miller was nice too.</span></p>
 
 <p><span class="chinese">大明星西耶娜·米勒带著两只爱犬在阳光下散步。</span><span class="english">Actress Sienna Miller takes a stroll in the sun with her pups Porgy and Bess.</span></p>

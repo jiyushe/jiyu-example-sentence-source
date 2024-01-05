@@ -1,5 +1,7 @@
 # playhouse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/playhouse.md)
+
 <p><span class="chinese">她目前正在利物浦剧院演出。</span><span class="english">She is currently appearing at the Liverpool Playhouse.</span></p>
 
 <p><span class="chinese">华轩每年的工作人员大约为80人。</span><span class="english">Cathay Playhouse staffs a total of about 80 people each year.</span></p>

@@ -1,5 +1,7 @@
 # 纸张
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizhang_3.md)
+
 <p><span class="chinese">在纸张上哭泣。</span><span class="english">Cry on the page.</span></p>
 
 <p><span class="chinese">纸张背面的宇宙韵文在宇宙大学很受欢迎。</span><span class="english">Universe University.</span></p>

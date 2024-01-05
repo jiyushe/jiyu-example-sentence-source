@@ -1,5 +1,7 @@
 # chrysalis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chrysalis.md)
+
 <p><span class="chinese">那时你将化蛹为蝶。</span><span class="english">That is when your butterfly comes out of the chrysalis.</span></p>
 
 <p><span class="chinese">蝶蛹听到了这些，什么也没说。</span><span class="english">The chrysalis heard all this, but did not make any answer.</span></p>

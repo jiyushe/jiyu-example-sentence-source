@@ -1,5 +1,7 @@
 # 摇摇摆摆
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoyaobaibai.md)
+
 <p><span class="chinese">鸭子摇摇摆摆地走过去。</span><span class="english">Ducks went wobbling by.</span></p>
 
 <p><span class="chinese">摇摇摆摆落向地面。</span><span class="english">Flutter down to the ground.</span></p>

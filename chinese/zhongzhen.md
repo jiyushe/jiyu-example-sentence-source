@@ -1,5 +1,7 @@
 # 忠贞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongzhen.md)
+
 <p><span class="chinese">塔昆已经劫夺了我的忠贞的标志。</span><span class="english">Of that true type hath Tarquin rifled me.</span></p>
 
 <p><span class="chinese">玛丽对约翰的忠贞很有把握。</span><span class="english">Mary was sure of John's single-mindedness.</span></p>

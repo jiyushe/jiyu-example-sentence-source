@@ -1,5 +1,7 @@
 # accidental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/accidental.md)
+
 <p><span class="chinese">偶然的一次对望！</span><span class="english">Accidental time look!</span></p>
 
 <p><span class="chinese">它可能是个意外。</span><span class="english">It could be accidental.</span></p>

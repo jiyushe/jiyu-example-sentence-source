@@ -1,5 +1,7 @@
 # 海难
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hainan.md)
+
 <p><span class="chinese">在这本漫画书中，我们遭遇了海难。</span><span class="english">In the comic book we are shipwrecked.</span></p>
 
 <p><span class="chinese">海难的罹难者一个都没找到。</span><span class="english">No victim of the shipwreck has been found.</span></p>

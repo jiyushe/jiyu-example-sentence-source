@@ -1,5 +1,7 @@
 # 聚伞花序
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jusanhuaxu.md)
+
 <p><span class="chinese">花序二歧的聚伞花序。</span><span class="english">Inflorescences a dichotomous cyme.</span></p>
 
 <p><span class="chinese">花单生，顶生的或很少的在一聚伞花序里。</span><span class="english">Flower solitary, terminal or few in a cyme.</span></p>

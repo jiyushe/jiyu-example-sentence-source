@@ -1,5 +1,7 @@
 # 晶状体
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jingzhuangti.md)
+
 <p><span class="chinese">这种物质对晶状体非常有好处。</span><span class="english">These are very good for the eye lenses.</span></p>
 
 <p><span class="chinese">眼球晶状体能根据距离进行调节。</span><span class="english">The lens of the eye accommodate to distance.</span></p>

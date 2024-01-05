@@ -1,5 +1,7 @@
 # jargon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jargon.md)
+
 <p><span class="chinese">我们得用术语来说</span><span class="english">Let's use our jargon.</span></p>
 
 <p><span class="chinese">来做一些有趣的事情。</span><span class="english">So, some jargon first.</span></p>

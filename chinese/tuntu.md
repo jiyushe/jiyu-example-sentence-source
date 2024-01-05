@@ -1,5 +1,7 @@
 # 吞吐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuntu.md)
+
 <p><span class="chinese">您的巨缆依然吞吐着北大西洋。</span><span class="english">Thy cables breathe the North Atlantic still.</span></p>
 
 <p><span class="chinese">蒸汽吞吐可进行至不经济时为止。</span><span class="english">Huff and puff is continued until it becomes uneconomical.</span></p>

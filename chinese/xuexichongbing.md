@@ -1,5 +1,7 @@
 # 血吸虫病
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuexichongbing.md)
+
 <p><span class="chinese">血吸虫病在M州流行。</span><span class="english">Schistosomiasis was popular in M state.</span></p>
 
 <p><span class="chinese">这个小组致力于研究扁形虫，扁形虫可导致住血吸虫病。</span><span class="english">This is the group of flatworms that cause schistosomiasis.</span></p>

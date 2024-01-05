@@ -1,5 +1,7 @@
 # conciliation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conciliation.md)
+
 <p><span class="chinese">我看到这里可能有一个调解点。</span><span class="english">I see here a possible point of conciliation.</span></p>
 
 <p><span class="chinese">还兼任中国国际贸易促进委员会调解中心副主席。</span><span class="english">Mr. Kang also is a vice-chairman of CCPIT Conciliation Center.</span></p>

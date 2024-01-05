@@ -1,5 +1,7 @@
 # heartstrings
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heartstrings.md)
+
 <p><span class="chinese">多比透过琼斯的表演所展现出来的悲伤和痛苦一直紧紧扣着观众的心弦。</span><span class="english">heartstrings in his hour of distress.</span></p>
 
 <p><span class="chinese">医得眼前疮，剜却心头肉。</span><span class="english">Medical have sore eyes, but pluck heartstrings.</span></p>

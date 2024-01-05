@@ -1,5 +1,7 @@
 # 和声
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hesheng.md)
+
 <p><span class="chinese">那么和声被毁了。</span><span class="english">Now the harmony has been destroyed.</span></p>
 
 <p><span class="chinese">和声可以通过耳朵感知到。</span><span class="english">Harmony can be sensed through the ears.</span></p>

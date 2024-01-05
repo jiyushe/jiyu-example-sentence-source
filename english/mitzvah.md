@@ -1,5 +1,7 @@
 # mitzvah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mitzvah.md)
+
 <p><span class="chinese">犹太受诫礼是男孩成年的标志。</span><span class="english">A Bar Mitzvah marks a boy's passage into adulthood.</span></p>
 
 <p><span class="chinese">你在辱骂他人的时候，请问问自己的德行。</span><span class="english">You are in abuse other when, ask oneself mitzvah excuse me.</span></p>

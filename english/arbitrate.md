@@ -1,5 +1,7 @@
 # arbitrate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/arbitrate.md)
+
 <p><span class="chinese">他们同意经仲裁解决争端。</span><span class="english">They agreed to arbitrate dispute.</span></p>
 
 <p><span class="chinese">得有一个人在他们当中进行仲裁。</span><span class="english">Someone must arbitrate between them.</span></p>

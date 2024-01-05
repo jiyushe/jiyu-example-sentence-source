@@ -1,5 +1,7 @@
 # wavelike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wavelike.md)
+
 <p><span class="chinese">这一家遭到一连串的厄运。</span><span class="english">One of a series of waves or wavelike segments.</span></p>
 
 <p><span class="chinese">所有的辐射能都具有波的特征。</span><span class="english">All radiant energy has wavelike characteristics.</span></p>

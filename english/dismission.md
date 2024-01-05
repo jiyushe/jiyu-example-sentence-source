@@ -1,5 +1,7 @@
 # dismission
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dismission.md)
+
 <p><span class="chinese">是的，上周解散了。</span><span class="english">Yeah,BOCOG declared its dismission last week.</span></p>
 
 <p><span class="chinese">可恶，妳这溜班的混球，准备被开除吧！</span><span class="english">Damned! You irresponsible bastard, get ready for your dismission !</span></p>

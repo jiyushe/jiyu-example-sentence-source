@@ -1,5 +1,7 @@
 # 分袂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fenmei.md)
+
 <p><span class="chinese">他们去年夏天分隔隔离分袂了。</span><span class="english">They broke up last summer.</span></p>
 
 <p><span class="chinese">它们分袂是什么意思？</span><span class="english">What do they mean respectively?</span></p>

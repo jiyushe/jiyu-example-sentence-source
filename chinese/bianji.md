@@ -1,5 +1,7 @@
 # 编辑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/bianji.md)
+
 <p><span class="chinese">她是一名编辑。</span><span class="english">She's an editor.</span></p>
 
 <p><span class="chinese">我是一名编辑。</span><span class="english">And I'm an editor.</span></p>

@@ -1,5 +1,7 @@
 # pass
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pass.md)
+
 <p><span class="chinese">时间在流逝。</span><span class="english">Time pass by.</span></p>
 
 <p><span class="chinese">嘘，传下去。</span><span class="english">Psst – pass it on.</span></p>

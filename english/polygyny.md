@@ -1,5 +1,7 @@
 # polygyny
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/polygyny.md)
+
 <p><span class="chinese">存在一夫多妻制。</span><span class="english">There was polygyny.</span></p>
 
 <p><span class="chinese">在扭角羚群体内主要是以“一夫多妻制”的形式存在。</span><span class="english">The pattern of copulation behavior mainly exists in the form of polygyny.</span></p>

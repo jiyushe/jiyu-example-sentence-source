@@ -1,5 +1,7 @@
 # 空架子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongjiazi.md)
+
 <p><span class="chinese">哪一个君王不过是外强中干的空架子？</span><span class="english">Who is this king, but a king of air?</span></p>
 
 <p><span class="chinese">他们要迅速，不然所剩下的就只是空架子了。</span><span class="english">They have to be quick, or all that's left are empty shelves.</span></p>

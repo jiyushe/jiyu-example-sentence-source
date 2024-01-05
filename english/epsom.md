@@ -1,5 +1,7 @@
 # epsom
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/epsom.md)
+
 <p><span class="chinese">上周我去埃普索姆赛马，结果输得精光！</span><span class="english">Epsom last week and lost my shirt on the first race!</span></p>
 
 <p><span class="chinese">第六天晚饭不吃，晚上六点喝一杯加入一茶匙泻盐的温水。</span><span class="english">At 6pm take one tea spoon of epsom salt in a glass of warm water.</span></p>

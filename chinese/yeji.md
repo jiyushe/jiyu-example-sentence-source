@@ -1,5 +1,7 @@
 # 野鸡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yeji.md)
+
 <p><span class="chinese">英格兰没有野鸡。</span><span class="english">England doesn't have whores.</span></p>
 
 <p><span class="chinese">野鸡肉晾好方可食用。</span><span class="english">Pheasant needs to be well hung.</span></p>

@@ -1,5 +1,7 @@
 # sydney
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sydney.md)
+
 <p><span class="chinese">我兄弟居住于悉尼。</span><span class="english">My brother is living in Sydney.</span></p>
 
 <p><span class="chinese">他去悉尼附近的一所学校上学。</span><span class="english">He went to a school near Sydney.</span></p>

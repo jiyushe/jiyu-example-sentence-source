@@ -1,5 +1,7 @@
 # 家破人亡
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaporenwang.md)
+
 <p><span class="chinese">我现在家破人亡了。</span><span class="english">I don't have a family now.</span></p>
 
 <p><span class="chinese">一个是家破人亡，一个是幸福快乐。</span><span class="english">One is broken up, one is happy.</span></p>

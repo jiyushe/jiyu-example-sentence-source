@@ -1,5 +1,7 @@
 # 纵使
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zongshi_3.md)
+
 <p><span class="chinese">我会一直在，纵使寂寞展开成海。</span><span class="english">I will always be lonely, even into the sea.</span></p>
 
 <p><span class="chinese">一个人的骗术纵使能瞒天过海，却瞒不了自己的良心。</span><span class="english">It's a deception, as far as I can discover.</span></p>

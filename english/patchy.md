@@ -1,5 +1,7 @@
 # patchy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patchy.md)
+
 <p><span class="chinese">草都干了，东一片西一片的。</span><span class="english">The grass was dry and patchy.</span></p>
 
 <p><span class="chinese">我的科学知识只是一鳞半爪。</span><span class="english">My knowledge of science is patchy.</span></p>

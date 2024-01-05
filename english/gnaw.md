@@ -1,5 +1,7 @@
 # gnaw
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gnaw.md)
+
 <p><span class="chinese">狗爱啃骨头。</span><span class="english">Dogs like to gnaw on a bone.</span></p>
 
 <p><span class="chinese">老鼠能啃穿木头。</span><span class="english">A rat can gnaw a hole through wood.</span></p>

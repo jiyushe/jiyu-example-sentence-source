@@ -1,5 +1,7 @@
 # rejoin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rejoin.md)
+
 <p><span class="chinese">他不想再加入到这些人中间。</span><span class="english">He is not sure he wants to rejoin them.</span></p>
 
 <p><span class="chinese">米米和她的家人前往突尼斯与父亲团聚。</span><span class="english">Mimi and her family went off to Tunisia to rejoin her father.</span></p>

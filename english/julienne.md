@@ -1,5 +1,7 @@
 # julienne
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/julienne.md)
+
 <p><span class="chinese">这个红色的是特别特别细的细丝切割工具。</span><span class="english">This red one is a super super thin julienne cutter.</span></p>
 
 <p><span class="chinese">要切丝的肉类切成薄片的肉非常。</span><span class="english">To julienne meat means to cut the meat into very thin slices.</span></p>

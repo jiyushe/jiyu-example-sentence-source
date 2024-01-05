@@ -1,5 +1,7 @@
 # dali
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dali.md)
+
 <p><span class="chinese">你所看到的这条街是萨尔瓦多·达利设计的</span><span class="english">The Streets As Seen by Salvador Dali</span></p>
 
 <p><span class="chinese">洱海月”是大理四大名景之一。</span><span class="english">"Erhai Lake, " Dali is one of four of King.</span></p>

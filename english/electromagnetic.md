@@ -1,5 +1,7 @@
 # electromagnetic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/electromagnetic.md)
+
 <p><span class="chinese">这些都是，电磁辐射。</span><span class="english">All of that is electromagnetic radiation.</span></p>
 
 <p><span class="chinese">电磁辐射是微粒性的。</span><span class="english">Electromagnetic radiation is corpuscular.</span></p>

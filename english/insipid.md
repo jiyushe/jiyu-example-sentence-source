@@ -1,5 +1,7 @@
 # insipid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/insipid.md)
+
 <p><span class="chinese">平常的有神论则更淡而无味了。</span><span class="english">The usual theism is more insipid.</span></p>
 
 <p><span class="chinese">我的意思是这是那么的愚蠢和枯燥。</span><span class="english">I mean this is so stupid and so insipid.</span></p>

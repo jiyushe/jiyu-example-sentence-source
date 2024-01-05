@@ -1,5 +1,7 @@
 # bustle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bustle.md)
+
 <p><span class="chinese">喧闹声与谈话声平息下来。</span><span class="english">The bustle and the talking quenched.</span></p>
 
 <p><span class="chinese">架仍旧还有那根支撑条吗？</span><span class="english">Still got that Derringer in your bustle?</span></p>

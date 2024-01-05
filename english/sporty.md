@@ -1,5 +1,7 @@
 # sporty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sporty.md)
+
 <p><span class="chinese">一种看上去更运动和青春的样子？</span><span class="english">A Sporty & Youthful look?</span></p>
 
 <p><span class="chinese">她也是一位具有活力的运动型女孩。</span><span class="english">She is also a dynamic and sporty girls.</span></p>

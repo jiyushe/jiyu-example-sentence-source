@@ -1,5 +1,7 @@
 # prosthesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prosthesis.md)
+
 <p><span class="chinese">这是已知的第一个安义肢的人。</span><span class="english">The first person known to have a prosthesis.</span></p>
 
 <p><span class="chinese">我们给他买了一个轻便的义肢，非常适合他。</span><span class="english">We bought him a light prosthesis that fit well.</span></p>

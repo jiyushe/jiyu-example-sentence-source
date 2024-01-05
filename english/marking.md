@@ -1,5 +1,7 @@
 # marking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marking.md)
+
 <p><span class="chinese">我们没有紧密盯人。</span><span class="english">We were not marking tight.</span></p>
 
 <p><span class="chinese">他紧紧盯住他们的前锋。</span><span class="english">He is marking their forward closely.</span></p>

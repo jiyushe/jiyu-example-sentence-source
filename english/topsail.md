@@ -1,5 +1,7 @@
 # topsail
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/topsail.md)
+
 <p><span class="chinese">这是有名的小艇。</span><span class="english">Topsail is a famous little boat.</span></p>
 
 <p><span class="chinese">他将乘坐他的‘涛波赛’号小艇。</span><span class="english">He will be in his small boat, Topsail.</span></p>

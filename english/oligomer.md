@@ -1,5 +1,7 @@
 # oligomer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/oligomer.md)
+
 <p><span class="chinese">其采用了齐聚物及固体促进剂，降低了胶粘剂的毒性和臭味。</span><span class="english">Oligomer and a solid accelerator are used to lower its poison and stink.</span></p>
 
 <p><span class="chinese">癸烯齐聚物的倾点低，粘度指数高。</span><span class="english">The oligomer obtained featured lower pour point and high viscosity index.</span></p>

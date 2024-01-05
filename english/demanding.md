@@ -1,5 +1,7 @@
 # demanding
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/demanding.md)
+
 <p><span class="chinese">女孩们越来越贪得无厌。</span><span class="english">Girls demanding more.</span></p>
 
 <p><span class="chinese">是你的老板要求太高？</span><span class="english">Is your boss too demanding?</span></p>

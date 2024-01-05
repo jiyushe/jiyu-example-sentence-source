@@ -1,5 +1,7 @@
 # armada
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/armada.md)
+
 <p><span class="chinese">西班牙狰以其强大的舰队辐坐称。</span><span class="english">Spain used to be famous for strong armada.</span></p>
 
 <p><span class="chinese">西班牙无敌舰队在一五八八年派遣到英格兰。</span><span class="english">The Spanish Armada sailed to England in1588.</span></p>

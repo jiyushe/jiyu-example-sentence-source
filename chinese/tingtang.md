@@ -1,5 +1,7 @@
 # 厅堂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tingtang.md)
+
 <p><span class="chinese">那边那座华丽的大厅堂是什么?。</span><span class="english">What is the glorious hall there?</span></p>
 
 <p><span class="chinese">沿中轴线建厅堂三进。</span><span class="english">Along the axis of three-hall building.</span></p>

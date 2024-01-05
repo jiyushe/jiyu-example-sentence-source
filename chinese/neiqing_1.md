@@ -1,5 +1,7 @@
 # 内情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/neiqing_1.md)
+
 <p><span class="chinese">她是个爱管闲事的人，可能知道内情的。</span><span class="english">She is a nosey parker and is probably in the know.</span></p>
 
 <p><span class="chinese">我认为不可能只有安德鲁一个人知道内情。</span><span class="english">I don't think Andrew could have kept that to himself.</span></p>

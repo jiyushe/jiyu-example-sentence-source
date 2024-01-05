@@ -1,5 +1,7 @@
 # 原子序数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuanzixushu.md)
+
 <p><span class="chinese">它们有最大的原子序数。</span><span class="english">They have the highest values.</span></p>
 
 <p><span class="chinese">而且，它们有着中等的原子序数。</span><span class="english">And, they have intermediate values.</span></p>

@@ -1,5 +1,7 @@
 # overwhelmingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overwhelmingly.md)
+
 <p><span class="chinese">两个城镇均有大量塔米尔人口。</span><span class="english">Both towns have overwhelmingly Tamil populations.</span></p>
 
 <p><span class="chinese">哈萨克斯坦是一个农业国。</span><span class="english">Kazakhstan had an overwhelmingly agricultural-based economy.</span></p>

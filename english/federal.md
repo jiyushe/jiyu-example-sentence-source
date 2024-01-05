@@ -1,5 +1,7 @@
 # federal 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/federal.md)
+
 <p><span class="chinese">他是一名北方军的侦察兵。</span><span class="english">He was a Federal scout.</span></p>
 
 <p><span class="chinese">我成了一个已定罪的全国重犯。</span><span class="english">I'm a convicted federal felon.</span></p>

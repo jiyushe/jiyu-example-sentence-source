@@ -1,5 +1,7 @@
 # erk
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/erk.md)
+
 <p><span class="chinese">非磷酸化的CREB和ERK没有显著变化。</span><span class="english">The total ERK and CREB had no significant changes.</span></p>
 
 <p><span class="chinese">免疫组织化学显示ERK蛋白主要位于细胞浆内。</span><span class="english">Immunohistochemistry showed that ERK protein were mainly located in cytoplasm.</span></p>

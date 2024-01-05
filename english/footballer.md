@@ -1,5 +1,7 @@
 # footballer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/footballer.md)
+
 <p><span class="chinese">我是一位足球员。</span><span class="english">I am a footballer.</span></p>
 
 <p><span class="chinese">他是一个天才年轻球员。</span><span class="english">He's a talented young footballer.</span></p>

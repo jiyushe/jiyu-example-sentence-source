@@ -1,5 +1,7 @@
 # 少林寺
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaolinsi.md)
+
 <p><span class="chinese">在少林寺学功夫，中国</span><span class="english">Kung fu at Shaolin Temple, China</span></p>
 
 <p><span class="chinese">少林寺能拯救中国足球吗？</span><span class="english">Can Shaolin Temple save Chinese football?</span></p>

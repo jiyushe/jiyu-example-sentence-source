@@ -1,5 +1,7 @@
 # 右翼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/youyi_2.md)
+
 <p><span class="chinese">你梳你右翼。</span><span class="english">You preen your right wing.</span></p>
 
 <p><span class="chinese">现在，右翼满眼所见都是这个恶魔幻影。</span><span class="english">Now it is all they can see.</span></p>

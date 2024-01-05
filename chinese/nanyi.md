@@ -1,5 +1,7 @@
 # 难以
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/nanyi.md)
+
 <p><span class="chinese">我难以描述。</span><span class="english">I can't describe.</span></p>
 
 <p><span class="chinese">真的难以抉择。</span><span class="english">It's a hard question.</span></p>

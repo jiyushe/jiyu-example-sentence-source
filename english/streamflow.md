@@ -1,5 +1,7 @@
 # streamflow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/streamflow.md)
+
 <p><span class="chinese">大约150个地方在测持续流量。</span><span class="english">Continuous streamflow is measured at about 150 locations.</span></p>
 
 <p><span class="chinese">对于许多元素来说，最重要的是丢失途径是在水流中。</span><span class="english">For many elements, the most substantial pathway of loss is in streamflow.</span></p>

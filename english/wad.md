@@ -1,5 +1,7 @@
 # wad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wad.md)
+
 <p><span class="chinese">没有要早早明出底牌。</span><span class="english">Don't Blow Your Wad Early.</span></p>
 
 <p><span class="chinese">那是很大一团东西。</span><span class="english">it was a huge wad of stuff.</span></p>

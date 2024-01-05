@@ -1,5 +1,7 @@
 # pistachio
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pistachio.md)
+
 <p><span class="chinese">不开心就吃开心果。</span><span class="english">No happy eat pistachio nuts.</span></p>
 
 <p><span class="chinese">这是有关芒果，阿月浑子和又给。</span><span class="english">It is related to the mango, pistachio and poison ivy.</span></p>

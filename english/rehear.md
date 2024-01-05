@@ -1,5 +1,7 @@
 # rehear
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rehear.md)
+
 <p><span class="chinese">法官被命令重新审理起诉。</span><span class="english">The justices were ordered to rehear the information.</span></p>
 
 <p><span class="chinese">他的交响曲在第一次预演时就受到嘲笑而不能上演。</span><span class="english">His symphony was laughed off the stage at its first rehear sal.</span></p>

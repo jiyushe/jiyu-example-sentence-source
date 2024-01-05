@@ -1,5 +1,7 @@
 # scuttle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scuttle.md)
+
 <p><span class="chinese">比利·艾克纳将扮演斯卡特。</span><span class="english">Scuttle would be played by BILLY EICHNER.</span></p>
 
 <p><span class="chinese">这些小道消息被当作一派胡言而一笑置之。</span><span class="english">All this scuttle butt was laughed off as nonsense.</span></p>

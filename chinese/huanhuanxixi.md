@@ -1,5 +1,7 @@
 # 欢欢喜喜
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huanhuanxixi.md)
+
 <p><span class="chinese">你应该欢欢喜喜地回家去见他。</span><span class="english">And you should be glad to go home, and to see him.</span></p>
 
 <p><span class="chinese">人们因孩子的出生而欢欢喜喜欢呼雀跃。</span><span class="english">The birth of a baby is usually an occasion for joy.</span></p>

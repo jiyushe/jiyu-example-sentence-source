@@ -1,5 +1,7 @@
 # shoreless
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/shoreless.md)
+
 <p><span class="chinese">是在这个无法上岸的海洋的深水里。</span><span class="english">In the dark waters of this shoreless sea.</span></p>
 
 <p><span class="chinese">在岸的海湾沉没，世界就此成型。</span><span class="english">Foundering in shoreless gulfs the world is done.</span></p>

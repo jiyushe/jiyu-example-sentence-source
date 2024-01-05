@@ -1,5 +1,7 @@
 # kaleidoscopic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kaleidoscopic.md)
+
 <p><span class="chinese">伦敦是个天花筒般的世界。</span><span class="english">London is a kaleidoscopic world.</span></p>
 
 <p><span class="chinese">也许我失去了爱情，还有我万花筒般的翅膀。</span><span class="english">Perhaps I am lost in love , I have kaleidoscopic wings.</span></p>

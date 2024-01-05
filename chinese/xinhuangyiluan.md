@@ -1,5 +1,7 @@
 # 心慌意乱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinhuangyiluan.md)
+
 <p><span class="chinese">小男孩心慌意乱地四下张望着。</span><span class="english">The small boy looked round in panic.</span></p>
 
 <p><span class="chinese">我被这条坏消息搅得心慌意乱的。</span><span class="english">I was really jacked up by the bad news.</span></p>

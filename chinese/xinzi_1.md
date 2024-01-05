@@ -1,5 +1,7 @@
 # 薪资
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinzi_1.md)
+
 <p><span class="chinese">贵司薪资预算范围是什么？</span><span class="english">What is the budgeted salary range?</span></p>
 
 <p><span class="chinese">提拨金可随员工的薪资水准…</span><span class="english">Contributions can depend on your salary level.</span></p>

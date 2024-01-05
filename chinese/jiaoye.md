@@ -1,5 +1,7 @@
 # 郊野
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiaoye.md)
+
 <p><span class="chinese">我们从郊野公园里能学到什么？</span><span class="english">How can we learn from the country parks?</span></p>
 
 <p><span class="chinese">我们能在郊野公园玩耍和休息。</span><span class="english">We can play and relax in the country parks.</span></p>

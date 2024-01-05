@@ -1,5 +1,7 @@
 # acrid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acrid.md)
+
 <p><span class="chinese">我们不喜欢他刻毒的性情。</span><span class="english">We do not like his acrid temper.</span></p>
 
 <p><span class="chinese">我喜欢风格泼辣的文章。</span><span class="english">I like essays with an acrid flavour.</span></p>

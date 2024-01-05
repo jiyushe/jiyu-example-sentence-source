@@ -1,5 +1,7 @@
 # syringes
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/syringes.md)
+
 <p><span class="chinese">如果确实通过静脉注射毒品，也不要共用针头和针管。</span><span class="english">If IV drugs are used, do not share needles or syringes.</span></p>
 
 <p><span class="chinese">广告柱子变装巨型的医用注射筒。</span><span class="english">Advertising pillars were turned into giant medical syringes.</span></p>

@@ -1,5 +1,7 @@
 # 横冲直撞
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/hengchongzhizhuang.md)
+
 <p><span class="chinese">这个城市的人们开车都横冲直撞的。</span><span class="english">People drive crazy in this city.</span></p>
 
 <p><span class="chinese">他横冲直撞地穿过人群。</span><span class="english">He barged his way through the crowd.</span></p>

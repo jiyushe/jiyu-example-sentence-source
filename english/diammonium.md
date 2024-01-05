@@ -1,5 +1,7 @@
 # diammonium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diammonium.md)
+
 <p><span class="chinese">测定甘草酸二铵注射液的药物稳定性。</span><span class="english">To determine constancy of Diammonium Glycyrrhizinate injection.</span></p>
 
 <p><span class="chinese">提出在建设磷铵装置时要重视选定合适的工艺。</span><span class="english">A desired process must be chosen in the establishment of diammonium phosphate.</span></p>

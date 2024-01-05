@@ -1,5 +1,7 @@
 # autofocus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/autofocus.md)
+
 <p><span class="chinese">这是傻瓜相机。</span><span class="english">This is an autofocus camera.</span></p>
 
 <p><span class="chinese">可自动对焦的320万像素摄像头。</span><span class="english">Take photos with a 3.2-megapixel autofocus camera.</span></p>

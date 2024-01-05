@@ -1,5 +1,7 @@
 # 泄漏
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xielou.md)
+
 <p><span class="chinese">他泄漏了朋友的秘密。</span><span class="english">He narked on his friend.</span></p>
 
 <p><span class="chinese">消息泄漏出来。</span><span class="english">Information trickled out.</span></p>

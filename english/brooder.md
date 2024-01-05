@@ -1,5 +1,7 @@
 # brooder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brooder.md)
+
 <p><span class="chinese">第一次生产的年青种鱼。</span><span class="english">Young brooder for the first time.</span></p>
 
 <p><span class="chinese">最后的一张贴身图片。</span><span class="english">The final close-up shot of this brooder.</span></p>

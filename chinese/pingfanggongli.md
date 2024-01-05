@@ -1,5 +1,7 @@
 # 平方公里
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingfanggongli.md)
+
 <p><span class="chinese">围栏区域范围约为3.28平方公里。</span><span class="english">The area encloses 3.28 sq km.</span></p>
 
 <p><span class="chinese">围栏区域规模约为3.28平方公里。</span><span class="english">The area enabuttings 3.28 sq km.</span></p>

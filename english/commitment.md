@@ -1,5 +1,7 @@
 # commitment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/commitment.md)
+
 <p><span class="chinese">成功是一个承诺。</span><span class="english">Success is a commitment.</span></p>
 
 <p><span class="chinese">背景与承诺。</span><span class="english">Background and Commitment.</span></p>

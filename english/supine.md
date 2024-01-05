@@ -1,5 +1,7 @@
 # supine
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supine.md)
+
 <p><span class="chinese">吉米从躺在床上。</span><span class="english">He lay supine on his bed.</span></p>
 
 <p><span class="chinese">上体后倒成半仰卧。</span><span class="english">After his fall into half supine.</span></p>

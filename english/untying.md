@@ -1,5 +1,7 @@
 # untying
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/untying.md)
+
 <p><span class="chinese">它们以为把绳子解开会对他有些好处。</span><span class="english">They think it'll do some good untying him.</span></p>
 
 <p><span class="chinese">这就是逆运动学求解的过程。</span><span class="english">This is the process of untying the countrary sport.</span></p>

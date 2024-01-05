@@ -1,5 +1,7 @@
 # fiesta
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fiesta.md)
+
 <p><span class="chinese">最后的宗教节日在耶稣升天节达到高潮。</span><span class="english">The final fiesta climaxed on Ascension Day.</span></p>
 
 <p><span class="chinese">虽然它是橘色的，我们还是称之为Fiesta红。</span><span class="english">Even though it's orange, we still call it Fiesta red.</span></p>

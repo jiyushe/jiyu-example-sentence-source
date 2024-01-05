@@ -1,5 +1,7 @@
 # eyre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eyre.md)
+
 <p><span class="chinese">“是简·爱吗？”她说。</span><span class="english">Is this Jane Eyre? she said.</span></p>
 
 <p><span class="chinese">大家对简爱有何感想?。</span><span class="english">What did you think of Jane Eyre?</span></p>

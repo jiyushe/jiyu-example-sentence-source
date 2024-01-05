@@ -1,5 +1,7 @@
 # ferrara
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ferrara.md)
+
 <p><span class="chinese">费拉拉正式成为尤文的主教练。</span><span class="english">It is official. Ciro Ferrara is the new coach of Juventus.</span></p>
 
 <p><span class="chinese">费拉拉正在帮助和村里的领导协调会议。</span><span class="english">Ferrara is helping coordinate a meeting with village leaders.</span></p>

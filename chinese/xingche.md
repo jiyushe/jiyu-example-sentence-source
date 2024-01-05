@@ -1,5 +1,7 @@
 # 行车
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xingche.md)
+
 <p><span class="chinese">我将买辆自行车。</span><span class="english">I’ll get a bike.</span></p>
 
 <p><span class="chinese">埃米有辆自行车。</span><span class="english">Amy has got a bike.</span></p>

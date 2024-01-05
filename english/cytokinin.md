@@ -1,5 +1,7 @@
 # cytokinin
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cytokinin.md)
+
 <p><span class="chinese">细胞分裂素具有延缓植物细胞和组织衰老的特性。</span><span class="english">Cytokinin has the characteristic of delaying plant cell and tissue senescence.</span></p>
 
 <p><span class="chinese">细胞分裂素对生长素诱导的根的形成具有负向作用。</span><span class="english">Cytokinin is known to have negative effects on denovo auxin-induced root formation.</span></p>

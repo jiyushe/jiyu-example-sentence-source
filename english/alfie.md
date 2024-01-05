@@ -1,5 +1,7 @@
 # alfie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alfie.md)
+
 <p><span class="chinese">没有真爱，我们只是白活，阿飞。</span><span class="english">Without true love we just exist, Alfie.</span></p>
 
 <p><span class="chinese">直到你找回真爱的那天，阿尔菲…</span><span class="english">And you'll find love any day, Alfie, Alfie.</span></p>

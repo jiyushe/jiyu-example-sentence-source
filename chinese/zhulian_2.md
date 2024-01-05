@@ -1,5 +1,7 @@
 # 株连
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhulian_2.md)
+
 <p><span class="chinese">他是连带被株连的牺牲品。</span><span class="english">He was the collateral damage.</span></p>
 
 <p><span class="chinese">某个春日，邻居的小孩又再度拿一株小草过来。小孩把里头那株连根的小草种在盆栽里面，放在床边的窗户上。</span><span class="english">So it was planted in a flowerpot and placed in the window beside the little boy's bed.</span></p>

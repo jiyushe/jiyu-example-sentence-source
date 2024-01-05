@@ -1,5 +1,7 @@
 # bladder
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bladder.md)
+
 <p><span class="chinese">膀胱炎？有多久了？</span><span class="english">Bladder infection? How long?</span></p>
 
 <p><span class="chinese">它也可以引起膀胱结石。</span><span class="english">It can also cause bladder stones.</span></p>

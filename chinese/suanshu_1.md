@@ -1,5 +1,7 @@
 # 算数
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/suanshu_1.md)
+
 <p><span class="chinese">亲眼所见才是算数的。</span><span class="english">To see is lieve.</span></p>
 
 <p><span class="chinese">我说的话是算数的!</span><span class="english">What I say goes!</span></p>

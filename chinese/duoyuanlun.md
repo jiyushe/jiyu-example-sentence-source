@@ -1,5 +1,7 @@
 # 多元论
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duoyuanlun.md)
+
 <p><span class="chinese">坚持多元论的人。</span><span class="english">One who adheres to pluralism.</span></p>
 
 <p><span class="chinese">我是主张人类文化产生多元论的。</span><span class="english">I am in favor of pluralism of human culture.</span></p>

@@ -1,5 +1,7 @@
 # warlike
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/warlike.md)
+
 <p><span class="chinese">这没有好战的意味。</span><span class="english">It has no warlike significance.</span></p>
 
 <p><span class="chinese">阿雷瓦西人是好战的族群。</span><span class="english">The Arevaci are a warlike people.</span></p>

@@ -1,5 +1,7 @@
 # catapult
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/catapult.md)
+
 <p><span class="chinese">这与弹射器是一个道理。</span><span class="english">It's the same principle as a catapult.</span></p>
 
 <p><span class="chinese">被那些刀剑刺，石头砸，驽炮和棍棒打。</span><span class="english">By sword, knife, stone, catapult and club.</span></p>

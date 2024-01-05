@@ -1,5 +1,7 @@
 # northland
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/northland.md)
+
 <p><span class="chinese">北国风光，千里冰封，万里雪飘。</span><span class="english">Northland scenery, ice thousands of miles, miles.</span></p>
 
 <p><span class="chinese">经常像个无畏的英雄遥望北国大地。</span><span class="english">I often gazed toward the northland like a hero without fears.</span></p>

@@ -1,5 +1,7 @@
 # famed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/famed.md)
+
 <p><span class="chinese">就是有名的芦苇海。</span><span class="english">That is the famed Reed Lake.</span></p>
 
 <p><span class="chinese">立足齐鲁，誉满九洲，是我们的目标。</span><span class="english">Based Qilu, famed Jiuzhou is our goal.</span></p>

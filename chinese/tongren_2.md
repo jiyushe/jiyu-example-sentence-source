@@ -1,5 +1,7 @@
 # 通人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tongren_2.md)
+
 <p><span class="chinese">我们是有爱心、有开拓创新精神、有崇高追求的华联通人。</span><span class="english">H&T staff are benevolent , innovative with pioneering spirit and lofty pursuits.</span></p>
 
 <p><span class="chinese">竭诚为海内外各界朋友提供一流的运输服务是正顺通人的目标。</span><span class="english">Our steadfast pursuit is to provide first-class transport service to all of our friends over the world.</span></p>

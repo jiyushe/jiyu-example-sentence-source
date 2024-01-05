@@ -1,5 +1,7 @@
 # 鲜亮
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianliang_2.md)
+
 <p><span class="chinese">这款酒浮现着鲜亮的深宝石红色。</span><span class="english">This wine shows anice deep ruby red colour.</span></p>
 
 <p><span class="chinese">她用一些花使房间鲜亮起来。</span><span class="english">She freshened up the room with some flowers.</span></p>

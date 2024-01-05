@@ -1,5 +1,7 @@
 # entire
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entire.md)
+
 <p><span class="chinese">整个装置为50公分高。</span><span class="english">Entire unit is 50cm high.</span></p>
 
 <p><span class="chinese">这简直是个玩具储存室！</span><span class="english">It's an entire toy store!</span></p>

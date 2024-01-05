@@ -1,5 +1,7 @@
 # 厚颜无耻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/houyanwuchi.md)
+
 <p><span class="chinese">我对你的厚颜无耻感到惊奇。</span><span class="english">I admire your audacity.</span></p>
 
 <p><span class="chinese">这是个厚颜无耻的谎言。</span><span class="english">This is a bold-faced lie.</span></p>

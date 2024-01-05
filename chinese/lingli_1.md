@@ -1,5 +1,7 @@
 # 凌厉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingli_1.md)
+
 <p><span class="chinese">嘴角凌厉的表情不见了，眼里泛着泪光。</span><span class="english">Her eyes bled the viscous color of tears.</span></p>
 
 <p><span class="chinese">它的棱角是凌厉还是光滑？</span><span class="english">Is it sharp or quite smooth at the edges?</span></p>

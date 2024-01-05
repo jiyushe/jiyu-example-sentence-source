@@ -1,5 +1,7 @@
 # hartford
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hartford.md)
+
 <p><span class="chinese">康涅狄格的首都是哈特福德。</span><span class="english">The capital of Connecticut is Hartford.</span></p>
 
 <p><span class="chinese">活泼爽直的哈特福德姑娘马上修正他的主张。</span><span class="english">The saucy little girl from Hartford promptly corrected his idea.</span></p>

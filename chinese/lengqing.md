@@ -1,5 +1,7 @@
 # 冷清
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lengqing.md)
+
 <p><span class="chinese">我会觉得，我很冷清，很闷。</span><span class="english">I would feel, I am very lonely, boring.</span></p>
 
 <p><span class="chinese">一切都是那么冷清，一往如故。</span><span class="english">All are that lonely, one toward as before.</span></p>

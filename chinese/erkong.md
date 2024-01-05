@@ -1,5 +1,7 @@
 # 耳孔
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/erkong.md)
+
 <p><span class="chinese">每只眼睛后面有一个耳孔。</span><span class="english">Behind each eye, it has an ear hole.</span></p>
 
 <p><span class="chinese">青少年是不允许穿耳孔的。</span><span class="english">Teenagers --- --- to get their ears ---.</span></p>

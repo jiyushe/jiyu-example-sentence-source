@@ -1,5 +1,7 @@
 # offensively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/offensively.md)
+
 <p><span class="chinese">他很可能会说，姚明在进攻上更有统治力。</span><span class="english">He would probably say that Yao is more dominant offensively.</span></p>
 
 <p><span class="chinese">恩，好消息是，火箭不可能在进攻方面做的更差了。对吧？</span><span class="english">Well, the good news is the Rockets can't play any worse offensively. Right?</span></p>

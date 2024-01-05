@@ -1,5 +1,7 @@
 # innumerable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/innumerable.md)
+
 <p><span class="chinese">商店里还有无以计数的玻璃罐。</span><span class="english">There were also innumerable glass jars.</span></p>
 
 <p><span class="chinese">同着数不尽的奴隶的凄苦。</span><span class="english">Along with innumerable servile miseries.</span></p>

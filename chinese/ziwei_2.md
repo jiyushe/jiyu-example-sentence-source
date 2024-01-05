@@ -1,5 +1,7 @@
 # 紫薇
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziwei_2.md)
+
 <p><span class="chinese">紫薇在逃亡中，头部受创而失明。</span><span class="english">Crape myrtle in exile, head injury and blindness.</span></p>
 
 <p><span class="chinese">有柔水的雾和紫薇的清香。</span><span class="english">Have soft water, fog and Lagerstroemia fragrance.</span></p>

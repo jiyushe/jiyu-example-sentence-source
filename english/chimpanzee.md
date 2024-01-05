@@ -1,5 +1,7 @@
 # chimpanzee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chimpanzee.md)
+
 <p><span class="chinese">你不能伤害一只黑猩猩。</span><span class="english">You can't hurt a chimpanzee.</span></p>
 
 <p><span class="chinese">黑猩猩是濒于灭种的动物。</span><span class="english">The chimpanzee is an endangered species.</span></p>

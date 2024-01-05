@@ -1,5 +1,7 @@
 # medallist
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/medallist.md)
+
 <p><span class="chinese">谁是世界最老的奥林匹克金牌得主?。</span><span class="english">Who is the world's oldest Olympic gold medallist?</span></p>
 
 <p><span class="chinese">今年的获奖者是执教于哈弗大学的苏珊？</span><span class="english">This year's medallist is Susan Athey, of Harvard University.</span></p>

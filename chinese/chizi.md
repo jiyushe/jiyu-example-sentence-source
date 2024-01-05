@@ -1,5 +1,7 @@
 # 池子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chizi.md)
+
 <p><span class="chinese">水池子堵了。</span><span class="english">The sink is clogged.</span></p>
 
 <p><span class="chinese">别跳进水池子里。</span><span class="english">Don't jump into the pool.</span></p>

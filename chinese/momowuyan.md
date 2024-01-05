@@ -1,5 +1,7 @@
 # 默默无言
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/momowuyan.md)
+
 <p><span class="chinese">她默默无言地一直向前走。</span><span class="english">Quietly she walked on and on.</span></p>
 
 <p><span class="chinese">那个孩子默默无言，以畏怯的目光凝视着他。</span><span class="english">They gazed in awe at their hero.</span></p>

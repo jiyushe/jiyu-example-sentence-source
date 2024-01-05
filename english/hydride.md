@@ -1,5 +1,7 @@
 # hydride
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydride.md)
+
 <p><span class="chinese">Weinreb酰胺也易于被金属氢化物还原为醛。</span><span class="english">Weinreb amide can easily be reduced to aldehyde by metal hydride.</span></p>
 
 <p><span class="chinese">过渡金属氢化物在络合催化中占有重要的地位。</span><span class="english">Metal hydride compounds play a central role in coordination catalysis.</span></p>

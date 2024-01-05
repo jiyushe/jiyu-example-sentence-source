@@ -1,5 +1,7 @@
 # 地穴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dixue.md)
+
 <p><span class="chinese">地穴恶魔们，你们这是自寻死路！</span><span class="english">Crypt fiends, you're not prepared!</span></p>
 
 <p><span class="chinese">老天，四个地穴蜘蛛在休息！</span><span class="english">Heaven, four popular Spider rest !</span></p>

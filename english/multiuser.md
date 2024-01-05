@@ -1,5 +1,7 @@
 # multiuser
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/multiuser.md)
+
 <p><span class="chinese">即时、多用户合作编辑文档</span><span class="english">Real-time, multiuser collaborative document editing</span></p>
 
 <p><span class="chinese">多用户地下城、多用户维、多用户域</span><span class="english">Multiuser dungeon, multiuser dimension, multiuser domain</span></p>

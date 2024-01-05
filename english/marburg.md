@@ -1,5 +1,7 @@
 # marburg
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marburg.md)
+
 <p><span class="chinese">它们都具有在马尔堡病毒方面工作的经验。</span><span class="english">All have experience in working with Marburg virus.</span></p>
 
 <p><span class="chinese">其导致马尔堡出血热，往往是致命的。</span><span class="english">It causes Marburg haemorrhagic fever, which is often fatal.</span></p>

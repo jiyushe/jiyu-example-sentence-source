@@ -1,5 +1,7 @@
 # classical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/classical.md)
+
 <p><span class="chinese">但你喜欢古典音乐。</span><span class="english">But you like classical music.</span></p>
 
 <p><span class="chinese">比起古典艺术，我更喜欢现代艺术。</span><span class="english">I prefer it to classical art.</span></p>

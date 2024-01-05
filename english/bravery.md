@@ -1,5 +1,7 @@
 # bravery
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bravery.md)
+
 <p><span class="chinese">我是勇敢。</span><span class="english">I am bravery.</span></p>
 
 <p><span class="chinese">我佩服她的勇敢。</span><span class="english">I admire her for her bravery.</span></p>

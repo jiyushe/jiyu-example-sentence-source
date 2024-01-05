@@ -1,5 +1,7 @@
 # jessie
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jessie.md)
+
 <p><span class="chinese">杰西还没有回来么？</span><span class="english">Has Jessie still been out?</span></p>
 
 <p><span class="chinese">你好！我是埃玛·帕顿，我妹妹叫杰西。</span><span class="english">Hello, I'm Emma Parton, my sister is Jessie.</span></p>

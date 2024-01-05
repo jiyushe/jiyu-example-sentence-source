@@ -1,5 +1,7 @@
 # flesh 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flesh.md)
+
 <p><span class="chinese">为什么肉是温暖的？</span><span class="english">Why is our flesh warm?</span></p>
 
 <p><span class="chinese">能挡得住子弹吗？</span><span class="english">Can flesh stay bullets?</span></p>

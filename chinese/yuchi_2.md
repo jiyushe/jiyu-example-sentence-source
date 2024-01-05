@@ -1,5 +1,7 @@
 # 鱼翅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuchi_2.md)
+
 <p><span class="chinese">其他出口品包括宠物鱼、鱼翅和海草。</span><span class="english">Other exports include pet fish, shark fins, and seaweed.</span></p>
 
 <p><span class="chinese">一些华裔政客也支持针对鱼翅的这项禁令。</span><span class="english">Some Chinese-American politicians supported the shark fin ban.</span></p>

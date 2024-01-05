@@ -1,5 +1,7 @@
 # digitalization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/digitalization.md)
+
 <p><span class="chinese">打样是对实观印刷流程数码化至关重要的一步。</span><span class="english">Proof is the key point to achieve printing workflow digitalization.</span></p>
 
 <p><span class="chinese">展演中心技术资料查询及下载计划案。</span><span class="english">Technology Information Digitalization for Search and Download Project.</span></p>

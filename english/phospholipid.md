@@ -1,5 +1,7 @@
 # phospholipid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/phospholipid.md)
+
 <p><span class="chinese">作为一种天然的食品乳化剂，大豆磷脂具有广泛的工业用途。</span><span class="english">As a natural food emulsifier, soybean phospholipid is applied in industry widely.</span></p>
 
 <p><span class="chinese">目的制备奥沙普秦氢化磷脂复合物。</span><span class="english">OBJECTIVE To prepare the complex between oxaprozin and hydrogenated phospholipid.</span></p>

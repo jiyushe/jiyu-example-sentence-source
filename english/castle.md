@@ -1,5 +1,7 @@
 # castle 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/castle.md)
+
 <p><span class="chinese">残旧的城堡。</span><span class="english">Klunky castle.</span></p>
 
 <p><span class="chinese">还是盖一座城堡？</span><span class="english">Or to build a castle?</span></p>

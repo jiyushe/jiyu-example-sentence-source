@@ -1,5 +1,7 @@
 # 失望
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shiwang.md)
+
 <p><span class="chinese">我也觉得很失望。</span><span class="english">I was bummed too.</span></p>
 
 <p><span class="chinese">我很失望。</span><span class="english">I was disappointed.</span></p>

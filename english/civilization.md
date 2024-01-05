@@ -1,5 +1,7 @@
 # civilization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/civilization.md)
+
 <p><span class="chinese">“青年文明号”单位。</span><span class="english">Youth Civilization "unit."</span></p>
 
 <p><span class="chinese">通过纳税，我换取文明。</span><span class="english">With them I buy civilization.</span></p>

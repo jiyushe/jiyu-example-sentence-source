@@ -1,5 +1,7 @@
 # 营长
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingchang.md)
+
 <p><span class="chinese">你现在是该营营长了。</span><span class="english">You're now the commanding officer.</span></p>
 
 <p><span class="chinese">我的营长们确实都很不错。</span><span class="english">But I did have good battalion commanders.</span></p>

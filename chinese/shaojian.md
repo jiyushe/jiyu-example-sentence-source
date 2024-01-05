@@ -1,5 +1,7 @@
 # 少见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaojian.md)
+
 <p><span class="chinese">鸟是鸱鸮，非常少见。</span><span class="english">This is a rare strigidae.</span></p>
 
 <p><span class="chinese">佝偻病现在很少见了。</span><span class="english">Rickets is quite rare now.</span></p>

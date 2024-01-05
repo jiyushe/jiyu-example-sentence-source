@@ -1,5 +1,7 @@
 # 前头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiantou.md)
+
 <p><span class="chinese">现在，神也在我们前头。</span><span class="english">Now God is down in front.</span></p>
 
 <p><span class="chinese">可要跑在您胃的前头哦！</span><span class="english">Don't out-run your stomach.</span></p>

@@ -1,5 +1,7 @@
 # supinely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/supinely.md)
+
 <p><span class="chinese">我仰起头看着顶上的美景，不觉痴迷。</span><span class="english">I supinely begin look goes against beautiful scene, unconsciously infatuateds.</span></p>
 
 <p><span class="chinese">今天天气比昨天好，下午去游泳时，本人竟然忘带游泳镜了，害的本人只要仰起头游，本人爸爸也没有好到哪去。</span><span class="english">Today than it was yesterday, go swimming this afternoon, I forgot to swim lens, I only supinely begin to swim, my dad is not to go.</span></p>

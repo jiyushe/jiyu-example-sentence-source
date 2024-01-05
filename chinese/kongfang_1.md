@@ -1,5 +1,7 @@
 # 空防
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongfang_1.md)
+
 <p><span class="chinese">国民党空军连日召开紧急会议，部署空防。</span><span class="english">Air Force days of the KMT held an emergency meeting to deploy air defense.</span></p>
 
 <p><span class="chinese">空防作战系统是一类复杂的军事作战系统。</span><span class="english">The air defense combat system was a class of complex military combat system.</span></p>

@@ -1,5 +1,7 @@
 # ochre
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ochre.md)
+
 <p><span class="chinese">油漆干了后，涂一层发红的土黄色乳胶漆。</span><span class="english">Once the paint is dry, apply a coat of the red ochre emulsion paint.</span></p>
 
 <p><span class="chinese">中国那赭色的天空和令人疑虑的卫生设施想必该受到指责吧？</span><span class="english">Surely the ochre skies and suspect sanitation of China were to blame?</span></p>

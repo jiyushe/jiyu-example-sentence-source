@@ -1,5 +1,7 @@
 # samba
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/samba.md)
+
 <p><span class="chinese">有数百个桑巴舞学校的市镇。</span><span class="english">There are hundreds of Samba schools in the town.</span></p>
 
 <p><span class="chinese">但人们仍可以免费享受里约的阳光、海滩和桑巴舞。</span><span class="english">Rio's recipe of sun, sea and samba is still free.</span></p>

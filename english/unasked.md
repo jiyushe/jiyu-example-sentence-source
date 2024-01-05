@@ -1,5 +1,7 @@
 # unasked
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unasked.md)
+
 <p><span class="chinese">他的忠告是主动提出的。</span><span class="english">His advice was unasked for.</span></p>
 
 <p><span class="chinese">我能感觉到那些没有问出口的问题。</span><span class="english">I can feel their unasked questions.</span></p>

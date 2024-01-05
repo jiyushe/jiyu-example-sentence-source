@@ -1,5 +1,7 @@
 # weigh 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/weigh.md)
+
 <p><span class="chinese">让我称称看。</span><span class="english">Let me weigh it.</span></p>
 
 <p><span class="chinese">我重170磅.</span><span class="english">I weigh 170 pounds.</span></p>

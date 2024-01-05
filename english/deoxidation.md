@@ -1,5 +1,7 @@
 # deoxidation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/deoxidation.md)
+
 <p><span class="chinese">偏硼酸钠是硼氢化钠的还原副产物。</span><span class="english">Sodium metaborate is a by-product from deoxidation of sodium borohydride.</span></p>
 
 <p><span class="chinese">沸腾钢在铸锭前不脱氧或轻度脱氧。</span><span class="english">In the case of rimming steel, no or some deoxidation is carried out before casting.</span></p>

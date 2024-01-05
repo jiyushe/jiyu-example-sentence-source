@@ -1,5 +1,7 @@
 # pda
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pda.md)
+
 <p><span class="chinese">嗯，事实上我在找掌上型电脑。</span><span class="english">Yeah, I'm actually looking for a PDA.</span></p>
 
 <p><span class="chinese">PDA压电式加速度计，卡口。</span><span class="english">PDA Piezoelectric Accelerometer, twistlock plug.</span></p>

@@ -1,5 +1,7 @@
 # 善忘
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanwang.md)
+
 <p><span class="chinese">快乐就是健康加上善忘。</span><span class="english">Happiness is good health plus a bad memory.</span></p>
 
 <p><span class="chinese">健忘是一种病态，善忘是一种境界。</span><span class="english">Forgetfulness is a morbid, forgetfulness is a realm.</span></p>

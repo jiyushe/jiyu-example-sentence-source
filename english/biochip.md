@@ -1,5 +1,7 @@
 # biochip
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biochip.md)
+
 <p><span class="chinese">生物芯片技术是一种全新的微量分析技术。</span><span class="english">Biochip technique is a fire-new micro analysis method.</span></p>
 
 <p><span class="chinese">在PCR生物芯片的制作过程中，微反应腔制作是关键部分之一。</span><span class="english">The reaction chamber is one of the key parts of PCR biochip.</span></p>

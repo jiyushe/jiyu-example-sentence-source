@@ -1,5 +1,7 @@
 # conceptualize
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/conceptualize.md)
+
 <p><span class="chinese">必须有结构化的方法来概念化服务</span><span class="english">There must be a structured way to conceptualize services</span></p>
 
 <p><span class="chinese">复杂流程实质上是一些难以概念化的规则。</span><span class="english">Complex processes are essentially the hard rules to conceptualize.</span></p>

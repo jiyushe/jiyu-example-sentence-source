@@ -1,5 +1,7 @@
 # 片剂
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianji_1.md)
+
 <p><span class="chinese">他们将毒品制成了片剂。</span><span class="english">They tableted the drugs.</span></p>
 
 <p><span class="chinese">阿立哌唑有片剂和口腔崩解片两种。</span><span class="english">Aripiprazole is in tablet and liquid form.</span></p>

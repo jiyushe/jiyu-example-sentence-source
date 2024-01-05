@@ -1,5 +1,7 @@
 # 引子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinzi_2.md)
+
 <p><span class="chinese">那么,这段是引子</span><span class="english">Okay, so that's the intro.</span></p>
 
 <p><span class="chinese">大脑需要的是引子。</span><span class="english">All the brain needs is a clue.</span></p>

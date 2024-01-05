@@ -1,5 +1,7 @@
 # hexaploid
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hexaploid.md)
+
 <p><span class="chinese">它们是复杂的多倍体，其中一部分是四倍体，一部分是六倍体。</span><span class="english">They are complex polyploids, being partly tetraploid and partly hexaploid.</span></p>
 
 <p><span class="chinese">在株高，分蘖，千粒重等方面，材料之间存在极显著差异。</span><span class="english">Plant height, tiller number, and 1000-seed-weight showed significant differences among synthetic hexaploid wheats.</span></p>

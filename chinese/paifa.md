@@ -1,5 +1,7 @@
 # 拍发
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/paifa.md)
+
 <p><span class="chinese">一般价还是隔夜拍发价，先生？</span><span class="english">Ordinary or overnight rate, Sir?</span></p>
 
 <p><span class="chinese">他嗒嗒地拍发了一份摩尔斯电码的电报。</span><span class="english">Morse code was an early code in telegraphy.</span></p>

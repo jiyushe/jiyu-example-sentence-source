@@ -1,5 +1,7 @@
 # 专利权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanliquan.md)
+
 <p><span class="chinese">伯宰拥有近300个专利权。</span><span class="english">Birdseye held nearly 300 patents.</span></p>
 
 <p><span class="chinese">在箭的专利权德文特河提示。</span><span class="english">PATENT DERWENT at an arrow prompt.</span></p>

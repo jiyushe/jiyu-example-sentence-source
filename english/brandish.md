@@ -1,5 +1,7 @@
 # brandish
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brandish.md)
+
 <p><span class="chinese">最后一滴泪水在眼角中挥散不去。</span><span class="english">The last drop of tears in the brandish in canthus scattered not to go.</span></p>
 
 <p><span class="chinese">海胆在海峡群岛附近的海底挥舞着它们的棘突。</span><span class="english">Sea urchins brandish their spines on the seafloor near the Channel Islands.</span></p>

@@ -1,5 +1,7 @@
 # dad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dad.md)
+
 <p><span class="chinese">老爸。</span><span class="english">XX. Dad.</span></p>
 
 <p><span class="chinese">我想念我的爸爸。</span><span class="english">I miss my dad.</span></p>

@@ -1,5 +1,7 @@
 # widower
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/widower.md)
+
 <p><span class="chinese">乔治是个带着六个小阿子的鳏夫。</span><span class="english">George was a widower with six young children.</span></p>
 
 <p><span class="chinese">我80多岁了，最近刚成为鳏夫。</span><span class="english">I am 80-plus and have recently become a widower.</span></p>

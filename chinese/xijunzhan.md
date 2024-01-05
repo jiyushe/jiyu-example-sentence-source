@@ -1,5 +1,7 @@
 # 细菌战
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xijunzhan.md)
+
 <p><span class="chinese">北约和反对派计划对苏尔特使用细菌战。</span><span class="english">NATO and rebels plan to use bacteriological warfare against Sirte.</span></p>
 
 <p><span class="chinese">它也想利用这一知识来充实自己的细菌战计划。</span><span class="english">It also wants to use that knowledge to augment its own germ warfare program.</span></p>

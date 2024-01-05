@@ -1,5 +1,7 @@
 # resurgence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/resurgence.md)
+
 <p><span class="chinese">所有这一切都导致了宗教信仰的死灰复燃。</span><span class="english">All of this has led to a resurgence of religiosity.</span></p>
 
 <p><span class="chinese">有九个因素促成了这种加尔文主义的复兴</span><span class="english">Nine Factors Contributing to the Resurgence of Calvinism</span></p>

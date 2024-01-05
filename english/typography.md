@@ -1,5 +1,7 @@
 # typography
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/typography.md)
+
 <p><span class="chinese">现在上的一个词，排印。</span><span class="english">Now a word on typography.</span></p>
 
 <p><span class="chinese">它定义了版式样式。</span><span class="english">It defines styles for typography.</span></p>

@@ -1,5 +1,7 @@
 # 系统软件
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xitongruanjian.md)
+
 <p><span class="chinese">系统软件设计采用面向对象程序。</span><span class="english">The design of software uses object-oriented Programming.</span></p>
 
 <p><span class="chinese">待光盘弹出，系统软件安装完毕。</span><span class="english">Once the CD-ROM pops up, the system software is installed.</span></p>

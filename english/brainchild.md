@@ -1,5 +1,7 @@
 # brainchild
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/brainchild.md)
+
 <p><span class="chinese">这场汇演是里夫斯的心血结晶。</span><span class="english">The festival was the brainchild of Reeves.</span></p>
 
 <p><span class="chinese">这个系统是莱奥。赫塞尔大脑的产儿。</span><span class="english">The system is the brainchild of Lior Hessel.</span></p>

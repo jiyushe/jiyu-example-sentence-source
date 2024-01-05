@@ -1,5 +1,7 @@
 # misstep
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misstep.md)
+
 <p><span class="chinese">专业选择错了，等于就是踏错了圈子。</span><span class="english">Professional choice is bad, be equal to is misstep circle.</span></p>
 
 <p><span class="chinese">当应用程序中存在逻辑错误时，就会出现语句错误。</span><span class="english">A statement failure occurs when there is a logic misstep in an application.</span></p>

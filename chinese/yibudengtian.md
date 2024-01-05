@@ -1,5 +1,7 @@
 # 一步登天
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yibudengtian.md)
+
 <p><span class="chinese">他将一步登天。</span><span class="english">He will go straight to heaven.</span></p>
 
 <p><span class="chinese">要成功不好谂住一步登天。</span><span class="english">Don't dream of reaching success by one step.</span></p>

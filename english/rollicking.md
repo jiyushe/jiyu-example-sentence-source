@@ -1,5 +1,7 @@
 # rollicking
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rollicking.md)
+
 <p><span class="chinese">在一个热闹的年轻人聚会上，男孩女孩们开心的庆祝着。</span><span class="english">At a rollicking youth rally, boys and girls celebrated boisterously.</span></p>
 
 <p><span class="chinese">他让球员们站成一排听他训话，‘现在最好的球队1-2落后。</span><span class="english">He gave them a rollicking along the lines of, 'The best team is losing 2-1.</span></p>

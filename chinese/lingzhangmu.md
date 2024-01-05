@@ -1,5 +1,7 @@
 # 灵长目
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lingzhangmu.md)
+
 <p><span class="chinese">因为人是从灵长目动物进化而来。</span><span class="english">Human being is evoluted from quadrumana.</span></p>
 
 <p><span class="chinese">雄性灵长目动物陪自己的孩子玩耍，不过有时候它们会试图杀死幼仔。</span><span class="english">Male primates play with the young, but sometimes they try to kill them.</span></p>

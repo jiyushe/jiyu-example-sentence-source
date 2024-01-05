@@ -1,5 +1,7 @@
 # dink
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dink.md)
+
 <p><span class="chinese">丁克家庭指双收入无子女家庭。</span><span class="english">DINK means double incomes no kids.</span></p>
 
 <p><span class="chinese">他过去常用自行车带他儿子上学。</span><span class="english">He used to dink his son to school.</span></p>

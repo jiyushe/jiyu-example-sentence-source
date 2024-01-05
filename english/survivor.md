@@ -1,5 +1,7 @@
 # survivor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/survivor.md)
+
 <p><span class="chinese">她是一位生存者。</span><span class="english">She's a survivor.</span></p>
 
 <p><span class="chinese">巴伯萨是一个幸存者。</span><span class="english">Barbossa is a survivor.</span></p>

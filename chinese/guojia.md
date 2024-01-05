@@ -1,5 +1,7 @@
 # 国家
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guojia.md)
+
 <p><span class="chinese">一个国家？</span><span class="english">One state?</span></p>
 
 <p><span class="chinese">在这些国家里，继承问题都是家务事。</span><span class="english">All in the Family.</span></p>

@@ -1,5 +1,7 @@
 # dug
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dug.md)
+
 <p><span class="chinese">他挖了一个深洞。</span><span class="english">He dug a deep hole.</span></p>
 
 <p><span class="chinese">我用铁铲挖掘。</span><span class="english">I dug with a spade.</span></p>

@@ -1,5 +1,7 @@
 # categorical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/categorical.md)
+
 <p><span class="chinese">谋杀违反了定言命令。</span><span class="english">Murder violates the categorical imperative.</span></p>
 
 <p><span class="chinese">确切说，这不算绝对的否定。</span><span class="english">That's not a categorical objection exactly.</span></p>

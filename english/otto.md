@@ -1,5 +1,7 @@
 # otto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/otto.md)
+
 <p><span class="chinese">奥图还有一辆车。</span><span class="english">Otto even has a car.</span></p>
 
 <p><span class="chinese">为何保加利亚玫瑰油这么贵？</span><span class="english">Why is Bulgarian Rose Otto so expensive?</span></p>

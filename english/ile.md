@@ -1,5 +1,7 @@
 # ile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ile.md)
+
 <p><span class="chinese">不，谢谢。工作的时候我不抽。</span><span class="english">No, thanks. Not wh ile I'm working.</span></p>
 
 <p><span class="chinese">我不在时你。要好好照顾自己…</span><span class="english">Take goo. d care of yourself wh. ile I'm out. '</span></p>

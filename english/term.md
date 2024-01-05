@@ -1,5 +1,7 @@
 # term
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/term.md)
+
 <p><span class="chinese">那是他的第一个任期吗？</span><span class="english">His first term?</span></p>
 
 <p><span class="chinese">长远来说行不通。</span><span class="english">Not in the long term.</span></p>

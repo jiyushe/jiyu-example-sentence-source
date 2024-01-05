@@ -1,5 +1,7 @@
 # glyceride
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/glyceride.md)
+
 <p><span class="chinese">松香甘油酯和氢化松香甘油酯的技术指标。</span><span class="english">Specifications of gum rosin glyceride and hydrogenated ros.</span></p>
 
 <p><span class="chinese">本品的Omega-3脂肪酸是天然的脂肪酸形式来源。</span><span class="english">Max DHA Liquid omega-3 fatty acids are in naturally occurring glyceride form.</span></p>

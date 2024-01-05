@@ -1,5 +1,7 @@
 # heliocentric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/heliocentric.md)
+
 <p><span class="chinese">日心说的确立历经了漫长的时日。</span><span class="english">The popular acceptance of the heliocentric theory took a long time.</span></p>
 
 <p><span class="chinese">尼古拉斯·哥白尼冲破了思维定势，提出了宇宙的日心说。</span><span class="english">Nicolas Copernicus challenged the mindset and found that it was heliocentric.</span></p>

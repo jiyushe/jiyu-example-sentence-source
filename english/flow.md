@@ -1,5 +1,7 @@
 # flow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flow.md)
+
 <p><span class="chinese">但什么是心流呢？</span><span class="english">But what is flow?</span></p>
 
 <p><span class="chinese">服务流率?。</span><span class="english">Service Flow Rate?</span></p>

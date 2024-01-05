@@ -1,5 +1,7 @@
 # 认购
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/rengou.md)
+
 <p><span class="chinese">晚宴将筵开50席，其中45席供会员认购。</span><span class="english">The dinner will cater for 50 tables.</span></p>
 
 <p><span class="chinese">他们同意买下该煤矿的未认购的股票。</span><span class="english">They underwrote the coal mine's bonds.</span></p>

@@ -1,5 +1,7 @@
 # medial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/medial.md)
+
 <p><span class="chinese">医疗摄影师主要拍摄什么题材？</span><span class="english">What do medial photographers actually do?</span></p>
 
 <p><span class="chinese">撕开权利的中间新月形的在后喇叭膝行。</span><span class="english">Torn posterior horn of medial meniscus of right knee.</span></p>

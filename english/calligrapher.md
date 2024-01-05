@@ -1,5 +1,7 @@
 # calligrapher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calligrapher.md)
+
 <p><span class="chinese">东汉辞赋家、散文家、书法家。</span><span class="english">Han Fu family, essayist, calligrapher.</span></p>
 
 <p><span class="chinese">他可是当地有名的书法家呀。</span><span class="english">He is a well-known calligrapher in the area.</span></p>

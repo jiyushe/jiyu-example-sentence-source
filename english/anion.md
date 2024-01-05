@@ -1,5 +1,7 @@
 # anion
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/anion.md)
+
 <p><span class="chinese">阳离子带正电荷，阴离子带负电荷。</span><span class="english">Cation is plus one, anion is minus one.</span></p>
 
 <p><span class="chinese">采用离子色谱法对乳胶制品中阴离子进行分析。</span><span class="english">In this article, ion chromatography was used to analyze anion in latex.</span></p>

@@ -1,5 +1,7 @@
 # 先驱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianqu.md)
+
 <p><span class="chinese">拉尔夫·瓦尔多·爱默生，一个文学先驱。</span><span class="english">Ralph Waldo Emerson. A literary pioneer.</span></p>
 
 <p><span class="chinese">莱特兄弟是航空学先驱。</span><span class="english">Wright brothers were pioneers in aviation.</span></p>

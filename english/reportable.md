@@ -1,5 +1,7 @@
 # reportable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reportable.md)
+
 <p><span class="chinese">值得申报的应纳税收益总额。</span><span class="english">The amount of gain reportable and subject to tax.</span></p>
 
 <p><span class="chinese">柬埔寨从1980年实施了登革热疫情报告制度。</span><span class="english">Dengue has been reportable in Cambodia since 1980.</span></p>

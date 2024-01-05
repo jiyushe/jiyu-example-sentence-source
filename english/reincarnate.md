@@ -1,5 +1,7 @@
 # reincarnate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reincarnate.md)
+
 <p><span class="chinese">星星能转世吗？</span><span class="english">But can the stars reincarnate?</span></p>
 
 <p><span class="chinese">然后变身成一只燕子。</span><span class="english">And reincarnate into a swallow.</span></p>

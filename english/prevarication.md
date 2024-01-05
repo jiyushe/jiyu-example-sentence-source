@@ -1,5 +1,7 @@
 # prevarication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prevarication.md)
+
 <p><span class="chinese">而搪塞决不能成为游戏的名字。</span><span class="english">Prevarication must not be the name of the game.</span></p>
 
 <p><span class="chinese">我们反对任何理由的拖延及推诿。</span><span class="english">We oppose any reason for the delay and prevarication.</span></p>

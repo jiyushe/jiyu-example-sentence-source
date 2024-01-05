@@ -1,5 +1,7 @@
 # pageantry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pageantry.md)
+
 <p><span class="chinese">辉煌典雅、华丽壮观、象征性强是这次访问第一天的特点。</span><span class="english">Pomp, pageantry and symbolism mark the first day of this visit.</span></p>
 
 <p><span class="chinese">来吧，请加入我们太平洋的奇幻世界和壮观的人群。</span><span class="english">Come, join us in the magic of the Pacific and the pageantry of its people.</span></p>

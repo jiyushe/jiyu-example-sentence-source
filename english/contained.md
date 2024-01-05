@@ -1,5 +1,7 @@
 # contained
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/contained.md)
+
 <p><span class="chinese">每个房间有五到七只狗。</span><span class="english">Each contained five to seven dogs.</span></p>
 
 <p><span class="chinese">每张卡片都夹带着钱。</span><span class="english">Every single card contained money.</span></p>

@@ -1,5 +1,7 @@
 # 发育
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fayu.md)
+
 <p><span class="chinese">我们不妨从的发育阶段入手。</span><span class="english">We learn from development.</span></p>
 
 <p><span class="chinese">你的宝宝发育良好。</span><span class="english">Your baby is shaping well.</span></p>

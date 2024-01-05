@@ -1,5 +1,7 @@
 # 抖落
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/douluo.md)
+
 <p><span class="chinese">那狗抖落掉身上的水珠。</span><span class="english">The dog shook off the drops of water.</span></p>
 
 <p><span class="chinese">他顿脚以便抖落皮靴上的雪。</span><span class="english">He stamped his feet to shake off the snow from his boots.</span></p>

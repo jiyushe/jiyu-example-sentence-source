@@ -1,5 +1,7 @@
 # 嫁衣
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiayi_1.md)
+
 <p><span class="chinese">我要你穿上我的嫁衣！</span><span class="english">I want you to put on my Jiayi!</span></p>
 
 <p><span class="chinese">我与你的父亲交谈，而你正在为我挑选嫁衣。</span><span class="english">I talked to your dad, you'll pick out a white dress.</span></p>

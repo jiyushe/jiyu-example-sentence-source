@@ -1,5 +1,7 @@
 # 打下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daxia_1.md)
+
 <p><span class="chinese">他把打下的鹌鹑卖到集市上去。</span><span class="english">I went out to pop some quails.</span></p>
 
 <p><span class="chinese">他擅长打下旋球。</span><span class="english">He's good at cutting underspins.</span></p>

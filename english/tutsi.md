@@ -1,5 +1,7 @@
 # tutsi
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tutsi.md)
+
 <p><span class="chinese">图西族有上午，下午，和晚上不同的问候。</span><span class="english">The Tutsi have different greetings for morning, afternoon, and evening.</span></p>
 
 <p><span class="chinese">从独立以来的大部分时间里，布隆迪一直处于西图的少数民族的个人手中。</span><span class="english">For most of the time since independence, Burundi has been ruled by individuals from the Tutsi minority.</span></p>

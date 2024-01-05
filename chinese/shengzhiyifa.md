@@ -1,5 +1,7 @@
 # 绳之以法
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shengzhiyifa.md)
+
 <p><span class="chinese">他说，那些犯了罪的人，应该被绳之以法。</span><span class="english">He said the perpetrators should be brought to justice.</span></p>
 
 <p><span class="chinese">他的目的就是要把杀害的他儿子的罪犯绳之以法。</span><span class="english">His aim was to bring the criminal who killed his son to justice.</span></p>

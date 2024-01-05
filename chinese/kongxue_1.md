@@ -1,5 +1,7 @@
 # 空穴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kongxue_1.md)
+
 <p><span class="chinese">那么我们如何来理解这个空穴呢？</span><span class="english">How could one then interpret the holes?</span></p>
 
 <p><span class="chinese">自那时以来，该墓穴一直空穴。</span><span class="english">Since then, that crypt has remained vacant.</span></p>

@@ -1,5 +1,7 @@
 # 预备
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yubei.md)
+
 <p><span class="chinese">预备,唱</span><span class="english">Ready, sing.</span></p>
 
 <p><span class="chinese">一,二,预备,起</span><span class="english">One, two, ready, go.</span></p>

@@ -1,5 +1,7 @@
 # 封口
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengkou.md)
+
 <p><span class="chinese">臂上的伤已经封口了。</span><span class="english">The arm wound has healed.</span></p>
 
 <p><span class="chinese">封口，扔掉金属箔。</span><span class="english">Seal seam and ends. Discard foil.</span></p>

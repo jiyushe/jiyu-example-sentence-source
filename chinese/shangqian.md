@@ -1,5 +1,7 @@
 # 赏钱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangqian.md)
+
 <p><span class="chinese">赏钱，小费出于感激而给的钱，小费。</span><span class="english">Money given as a gratuity, a tip.</span></p>
 
 <p><span class="chinese">给搬行李的服务员一点儿赏钱是个惯例。</span><span class="english">It is customary to give something to the porter.</span></p>

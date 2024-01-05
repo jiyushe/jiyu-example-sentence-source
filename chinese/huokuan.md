@@ -1,5 +1,7 @@
 # 货款
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huokuan.md)
+
 <p><span class="chinese">这是支付一半货款的收据。</span><span class="english">Here's the receipt for half payment on goods.</span></p>
 
 <p><span class="chinese">我们期望第挨次订货请求预付货款。</span><span class="english">We expect payment in advance on first orders.</span></p>

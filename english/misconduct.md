@@ -1,5 +1,7 @@
 # misconduct
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/misconduct.md)
+
 <p><span class="chinese">我原谅爱德华的所有根本过错。</span><span class="english">I acquit Edward of all essential misconduct.</span></p>
 
 <p><span class="chinese">父亲由于儿子行为不轨而责罚他。</span><span class="english">The father chastised his son for his misconduct.</span></p>

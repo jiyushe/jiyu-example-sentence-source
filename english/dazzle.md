@@ -1,5 +1,7 @@
 # dazzle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dazzle.md)
+
 <p><span class="chinese">我要纵情欢度此生，我要挥霍我的人生。</span><span class="english">I will spend, squander, dazzle.</span></p>
 
 <p><span class="chinese">幻觉早已将我麻痹！</span><span class="english">Dazzle has already paralyzes me!</span></p>

@@ -1,5 +1,7 @@
 # pallor
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pallor.md)
+
 <p><span class="chinese">散普丽斯姆姆却和白蜡一样白。</span><span class="english">Sister Simplice was white, with a waxen pallor.</span></p>
 
 <p><span class="chinese">女孩苍白而细瘦的腿在黑暗中看起来更加的亮眼明显。</span><span class="english">The girl's lean and pallor legs look brighter in the sight.</span></p>

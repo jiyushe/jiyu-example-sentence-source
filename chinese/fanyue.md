@@ -1,5 +1,7 @@
 # 翻阅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fanyue.md)
+
 <p><span class="chinese">他正在翻阅一本杂志。</span><span class="english">He was leafing a magazine.</span></p>
 
 <p><span class="chinese">请翻阅点歌单.</span><span class="english">Please consult the song list.</span></p>

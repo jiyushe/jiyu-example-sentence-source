@@ -1,5 +1,7 @@
 # revive
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/revive.md)
+
 <p><span class="chinese">所以，为什么不重启多哈？</span><span class="english">So, why not revive Doha?</span></p>
 
 <p><span class="chinese">一碗热汤使我复活了。</span><span class="english">A hot soup will revive me.</span></p>

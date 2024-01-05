@@ -1,5 +1,7 @@
 # 自讨苦吃
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zitaokuchi.md)
+
 <p><span class="chinese">别怪我，因为你是自讨苦吃。</span><span class="english">Don't blame me,cause you asked for it.</span></p>
 
 <p><span class="chinese">人们为什么要“自讨苦吃”？</span><span class="english">"Why do people" brought this upon ourselves?</span></p>

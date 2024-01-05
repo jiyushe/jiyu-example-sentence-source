@@ -1,5 +1,7 @@
 # 定做
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/dingzuo.md)
+
 <p><span class="chinese">欢迎选样、来图来样定做！</span><span class="english">Welcome to selection, order!</span></p>
 
 <p><span class="chinese">量身定做一个桌面背景。</span><span class="english">Create a custom desktop background.</span></p>

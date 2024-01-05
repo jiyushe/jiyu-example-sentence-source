@@ -1,5 +1,7 @@
 # trident
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/trident.md)
+
 <p><span class="chinese">瑞士航空公司的三叉戟20飞离伦敦。</span><span class="english">Trident out of London at 0920.</span></p>
 
 <p><span class="chinese">把它手里的三叉戟夺过来。</span><span class="english">Wrest the trident out of her hand.</span></p>

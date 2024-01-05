@@ -1,5 +1,7 @@
 # courtyard
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/courtyard.md)
+
 <p><span class="chinese">庭院四周围以回廊。</span><span class="english">The courtyard is cloistered.</span></p>
 
 <p><span class="chinese">去广场大酒店庭院怎么走？</span><span class="english">How can I get to the courtyard?</span></p>

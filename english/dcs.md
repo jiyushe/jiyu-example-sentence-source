@@ -1,5 +1,7 @@
 # dcs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dcs.md)
+
 <p><span class="chinese">各种大型进口DCS系统备品，备件。</span><span class="english">A variety of large-scale imports of DCS system spare parts.</span></p>
 
 <p><span class="chinese">另外在艇尾部上的二个深水炸弹支架，带有18枚深水炸弹。</span><span class="english">Additionally there are two DC racks on the ship stern, with 18 DCs.</span></p>

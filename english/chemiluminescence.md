@@ -1,5 +1,7 @@
 # chemiluminescence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chemiluminescence.md)
+
 <p><span class="chinese">研究了TTA新体系的化学发光特性。</span><span class="english">The present paper has studied the chemiluminescence reaction of TTA system.</span></p>
 
 <p><span class="chinese">同时，对化学发光反应的机理进行了初步探讨。</span><span class="english">Meanwhile, the chemiluminescence reaction mechanism was also discussed briefly.</span></p>

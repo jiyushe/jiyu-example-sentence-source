@@ -1,5 +1,7 @@
 # baritone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/baritone.md)
+
 <p><span class="chinese">他是个优秀的男中音歌手。</span><span class="english">He's a fine baritone.</span></p>
 
 <p><span class="chinese">他是我的唯一的男中音。</span><span class="english">He's my only baritone.</span></p>

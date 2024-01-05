@@ -1,5 +1,7 @@
 # flatus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flatus.md)
+
 <p><span class="chinese">蓝色火苗意味着屁里含有甲烷。</span><span class="english">A blue flame is indicative of the presence of methane in the flatus.</span></p>
 
 <p><span class="chinese">他有少许日子是便秘的，但是今天仍然有排气。</span><span class="english">He had constipation for few days but still had flatus passage todays.</span></p>

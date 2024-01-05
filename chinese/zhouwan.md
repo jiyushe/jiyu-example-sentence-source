@@ -1,5 +1,7 @@
 # 肘弯
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhouwan.md)
+
 <p><span class="chinese">她将补丁颖在他夹克的肘弯处。</span><span class="english">She sewed patches on the elbows of his jacket.</span></p>
 
 <p><span class="chinese">“胡子”是孩子的胳膊，胳膊肘弯着。</span><span class="english">And the “mustache” is the child’s arm, bent at the elbow.</span></p>

@@ -1,5 +1,7 @@
 # 开场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaichang_1.md)
+
 <p><span class="chinese">接着，电影开场。</span><span class="english">And then, the movie.</span></p>
 
 <p><span class="chinese">谁是开场演出者?。</span><span class="english">Who is the opening act?</span></p>

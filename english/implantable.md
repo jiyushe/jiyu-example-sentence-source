@@ -1,5 +1,7 @@
 # implantable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/implantable.md)
+
 <p><span class="chinese">可植入的智能芯片抗慢性疾病</span><span class="english">Implantable Smart Chip Fights Chronic Pain</span></p>
 
 <p><span class="chinese">再者，植入式生医装置可非常广泛地被应用。</span><span class="english">Moreover, implantable bio-medical devices may be extensively applied.</span></p>

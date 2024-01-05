@@ -1,5 +1,7 @@
 # 异姓
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yixing_1.md)
+
 <p><span class="chinese">不希望有异姓，没亲朋好友…</span><span class="english">I hope we'll be in contact forever, my friends.</span></p>
 
 <p><span class="chinese">小张和小王因为感情好而结拜为异姓兄弟。</span><span class="english">Xiao Zhang and Xiao Wang became sworn brothers because of their affection.</span></p>

@@ -1,5 +1,7 @@
 # 匹马
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pima.md)
+
 <p><span class="chinese">这匹马好踢。</span><span class="english">This horse kicks.</span></p>
 
 <p><span class="chinese">那匹马腿瘸了。</span><span class="english">The horse goes lame.</span></p>

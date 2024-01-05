@@ -1,5 +1,7 @@
 # 知情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhiqing.md)
+
 <p><span class="chinese">我没有注意到，直到我看到了知情同意。</span><span class="english">I didn't notice until I saw the pic.</span></p>
 
 <p><span class="chinese">但是大多数人并不知情。</span><span class="english">But most people didn't know about it.</span></p>

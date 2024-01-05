@@ -1,5 +1,7 @@
 # downbeat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/downbeat.md)
+
 <p><span class="chinese">并非所有消息都是悲观的。</span><span class="english">Not all the news was downbeat.</span></p>
 
 <p><span class="chinese">这也是我们知道重拍在哪里的途径</span><span class="english">That's how we know the downbeat.</span></p>

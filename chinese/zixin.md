@@ -1,5 +1,7 @@
 # 自信
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zixin.md)
+
 <p><span class="chinese">我自信地说道。</span><span class="english">I said confidently.</span></p>
 
 <p><span class="chinese">品牌是自信。</span><span class="english">Brand is self-trust.</span></p>

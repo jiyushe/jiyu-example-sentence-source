@@ -1,5 +1,7 @@
 # therapeutical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/therapeutical.md)
+
 <p><span class="chinese">大伙准备去洗个治疗浴</span><span class="english">Guys decided to take a therapeutical bath.</span></p>
 
 <p><span class="chinese">继发性糖尿病的治疗重点应是原发病的根治。</span><span class="english">Therapeutical emphasis of steroid diabetes is radical cure of CS.</span></p>

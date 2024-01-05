@@ -1,5 +1,7 @@
 # flaps
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flaps.md)
+
 <p><span class="chinese">袋盖倾斜。</span><span class="english">Slanted pocket flaps.</span></p>
 
 <p><span class="chinese">旗在风中飘扬。</span><span class="english">A flag flaps in the wind.</span></p>

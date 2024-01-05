@@ -1,5 +1,7 @@
 # unsocial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/unsocial.md)
+
 <p><span class="chinese">所以，师父说我很不合群。</span><span class="english">So, my master said, I am unsocial.</span></p>
 
 <p><span class="chinese">所以我要工作非常的时段。</span><span class="english">So I have to work very unsocial hours.</span></p>

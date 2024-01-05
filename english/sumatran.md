@@ -1,5 +1,7 @@
 # sumatran
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sumatran.md)
+
 <p><span class="chinese">苏门答腊大象的训练设施</span><span class="english">Training Facility for Sumatran Elephants</span></p>
 
 <p><span class="chinese">苏门答腊猩猩的平均寿命在40到50岁。</span><span class="english">A typical life span for Sumatran orangutans is 40 to 50 years.</span></p>

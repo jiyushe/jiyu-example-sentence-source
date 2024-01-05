@@ -1,5 +1,7 @@
 # canner
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/canner.md)
+
 <p><span class="chinese">您能像装罐员一样装罐头么？</span><span class="english">Can you can a can as a canner can a can?</span></p>
 
 <p><span class="chinese">你能像一个装罐工人那样开一个罐头吗？</span><span class="english">Can you can a can like a canner cans a can?</span></p>

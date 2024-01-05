@@ -1,5 +1,7 @@
 # 滥杀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lansha.md)
+
 <p><span class="chinese">指令没要我们滥杀无辜！</span><span class="english">We don't have orders to kill innocent people.</span></p>
 
 <p><span class="chinese">明宪宗年间，宦官弄权，滥杀贤臣。</span><span class="english">Ming Kenso years, eunuch excesses, killing Xian Chen.</span></p>

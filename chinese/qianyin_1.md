@@ -1,5 +1,7 @@
 # 铅印
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qianyin_1.md)
+
 <p><span class="chinese">请把铅印起出来！</span><span class="english">Please pull out of hole with impression block!</span></p>
 
 <p><span class="chinese">带着身心的自由和无限的向往，我在铅印的知识的海洋中畅游。</span><span class="english">With complete freedom and endless intoxication1 I have explored the ocean of printed knowledge.</span></p>

@@ -1,5 +1,7 @@
 # breakable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/breakable.md)
+
 <p><span class="chinese">这些同样也是可以破解的。</span><span class="english">These were also breakable.</span></p>
 
 <p><span class="chinese">像是一条易断的线。</span><span class="english">On such a breakable thread.</span></p>

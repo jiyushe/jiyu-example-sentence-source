@@ -1,5 +1,7 @@
 # melting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/melting.md)
+
 <p><span class="chinese">更高的熔点。</span><span class="english">Higher melting point.</span></p>
 
 <p><span class="chinese">融化的雪使湖水盈盈。</span><span class="english">Melting snow keeps it full.</span></p>

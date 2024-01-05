@@ -1,5 +1,7 @@
 # 终身
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongshen_1.md)
+
 <p><span class="chinese">我会终身难忘。</span><span class="english">I would always have it.</span></p>
 
 <p><span class="chinese">这是个终身的过程。</span><span class="english">It's a life-long process.</span></p>

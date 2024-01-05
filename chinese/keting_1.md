@@ -1,5 +1,7 @@
 # 客厅
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/keting_1.md)
+
 <p><span class="chinese">一列客厅车。</span><span class="english">A parlour car.</span></p>
 
 <p><span class="chinese">白日封起的客厅。</span><span class="english">In parlors shut by day.</span></p>

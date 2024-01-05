@@ -1,5 +1,7 @@
 # 君主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junzhu.md)
+
 <p><span class="chinese">他在君主那里说得上话。</span><span class="english">He had the ear of the monarch.</span></p>
 
 <p><span class="chinese">所有事情都使专制君主生气。</span><span class="english">Everything gives umbrage to a tyranny.</span></p>

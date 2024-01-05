@@ -1,5 +1,7 @@
 # 雨带
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yudai.md)
+
 <p><span class="chinese">图3.2.4范斯高的外围雨带的雷达回波图像。</span><span class="english">Fig. 3.2.4 Radar echoes of the outer rainbands of Francisco.</span></p>
 
 <p><span class="chinese">习性羞羞嗒嗒的霍加皮，深居于非洲中部的丛林雨带。</span><span class="english">Deep in the rainforests of Central Africa lives the shy okapi.</span></p>

@@ -1,5 +1,7 @@
 # 马首是瞻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mashoushizhan.md)
+
 <p><span class="chinese">我们再一次以乔治·卢卡斯的马首是瞻。</span><span class="english">Yet again, we look to George Lucas as a bellwether.</span></p>
 
 <p><span class="chinese">即便手头的词典应有尽有，也不能唯它们的马首是瞻。</span><span class="english">Even if everything dictionary at hand, we can not only lead them.</span></p>

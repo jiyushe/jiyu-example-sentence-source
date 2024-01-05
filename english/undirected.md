@@ -1,5 +1,7 @@
 # undirected
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/undirected.md)
+
 <p><span class="chinese">这种被称为无向方向室壁运动。</span><span class="english">Such undirected orientation is called kinesis.</span></p>
 
 <p><span class="chinese">目的讨论简单无向图的匹配等价问题。</span><span class="english">Aim To discuss the matching equivalence of the simple undirected graph.</span></p>

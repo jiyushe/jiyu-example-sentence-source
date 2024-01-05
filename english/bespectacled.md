@@ -1,5 +1,7 @@
 # bespectacled
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bespectacled.md)
+
 <p><span class="chinese">椅子上坐着一位戴眼镜的老绅士。</span><span class="english">There' a bespectacled seniors gentleman sitting on the chair.</span></p>
 
 <p><span class="chinese">椅子上坐着一位戴眼镜的老绅士。</span><span class="english">There's a bespectacled senior gentleman sitting on the chair.</span></p>

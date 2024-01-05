@@ -1,5 +1,7 @@
 # clavicle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clavicle.md)
+
 <p><span class="chinese">探讨锁骨骨折的治疗方法和疗效。</span><span class="english">Objective Explore the therapy and effect of clavicle fracture.</span></p>
 
 <p><span class="chinese">为避免不稳定性锁骨外侧端骨折发生不愈合。</span><span class="english">The unstable fractures of the outer clavicle often do not unite.</span></p>

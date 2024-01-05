@@ -1,5 +1,7 @@
 # knife
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/knife.md)
+
 <p><span class="chinese">一次刀战中。</span><span class="english">A knife fight.</span></p>
 
 <p><span class="chinese">刀和鼓。</span><span class="english">Knife and Drum.</span></p>

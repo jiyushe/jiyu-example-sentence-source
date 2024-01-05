@@ -1,5 +1,7 @@
 # 疲弱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/piruo.md)
+
 <p><span class="chinese">欧元仍可能停留在疲弱状态。</span><span class="english">The euro will probably remain weak.</span></p>
 
 <p><span class="chinese">就业疲弱打压消费者信心**</span><span class="english">WEAK JOB MARKET SOURS CONSUMERS' MOOD</span></p>

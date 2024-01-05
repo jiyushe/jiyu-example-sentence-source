@@ -1,5 +1,7 @@
 # irregularly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/irregularly.md)
+
 <p><span class="chinese">1995年以来，多次不定期地举行。</span><span class="english">It has been held irregularly since 1995.</span></p>
 
 <p><span class="chinese">花盘波状的环状的或不规则浅裂。</span><span class="english">Disk undulate annular or irregularly lobed.</span></p>

@@ -1,5 +1,7 @@
 # production
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/production.md)
+
 <p><span class="chinese">这个月产量增长了。</span><span class="english">Production is up this month.</span></p>
 
 <p><span class="chinese">于是捷豹汽车的生产停止了。</span><span class="english">Production of Jaguars ceases.</span></p>

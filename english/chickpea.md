@@ -1,5 +1,7 @@
 # chickpea
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chickpea.md)
+
 <p><span class="chinese">罐装鹰嘴豆泥找到出口市场</span><span class="english">Canned chickpea dip finds export markets</span></p>
 
 <p><span class="chinese">鹰嘴豆蛋白属完全蛋白质。</span><span class="english">Chickpea protein is considered as a complete protein.</span></p>

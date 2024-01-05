@@ -1,5 +1,7 @@
 # 满满当当
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/manmandangdang.md)
+
 <p><span class="chinese">熊妹妹的存钱罐满满当当的。</span><span class="english">Sister’s piggy bank is full.</span></p>
 
 <p><span class="chinese">我们这儿的课都排的满满当当，”他说。</span><span class="english">Ours are full to the gunnels, " he said.</span></p>

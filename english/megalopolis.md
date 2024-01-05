@@ -1,5 +1,7 @@
 # megalopolis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/megalopolis.md)
+
 <p><span class="chinese">上海是座蓬勃向上的特大型城市。</span><span class="english">Shanghai is a thriving and robust megalopolis.</span></p>
 
 <p><span class="chinese">城市群内部城市间的合作对于促进城市群经济发展具有重大意义。</span><span class="english">Cooperation between cities is significant to promote the economic development of a megalopolis.</span></p>

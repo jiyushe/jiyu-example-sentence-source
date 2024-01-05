@@ -1,5 +1,7 @@
 # 民主党派
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/minzhudangpai.md)
+
 <p><span class="chinese">德国人民支持反民主党派呼声日渐高涨。</span><span class="english">The Germans increasingly supported anti-democratic parties.</span></p>
 
 <p><span class="chinese">民主监督是民主党派的一项基本职能。</span><span class="english">Democratic supervision is one of the basic roles of the democratic parties.</span></p>

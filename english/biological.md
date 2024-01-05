@@ -1,5 +1,7 @@
 # biological
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/biological.md)
+
 <p><span class="chinese">男人同样有生物钟。</span><span class="english">Men have a biological clock too.</span></p>
 
 <p><span class="chinese">找一条狗的亲生父母。</span><span class="english">A biological birth parent search.</span></p>

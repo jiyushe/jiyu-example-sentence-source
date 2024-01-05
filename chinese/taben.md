@@ -1,5 +1,7 @@
 # 拓本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/taben.md)
+
 <p><span class="chinese">然而不幸中的大幸是，它的拓本一直在民间流传。</span><span class="english">Rubbings in the spread of civil cases.</span></p>
 
 <p><span class="chinese">然而不幸中的大幸是，它的拓本一直在民间流传。</span><span class="english">Unfortunately, however, of great luck, it's been non-circulating Rubbings.</span></p>

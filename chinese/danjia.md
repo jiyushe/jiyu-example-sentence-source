@@ -1,5 +1,7 @@
 # 担架
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danjia.md)
+
 <p><span class="chinese">用担架把受伤的人抬走了。</span><span class="english">The injured were carried away on stretchers.</span></p>
 
 <p><span class="chinese">我看到有人从房子里救出，然后送上担架。</span><span class="english">I saw people taken out and put on stretchers.</span></p>

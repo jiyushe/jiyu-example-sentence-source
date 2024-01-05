@@ -1,5 +1,7 @@
 # jalalabad
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jalalabad.md)
+
 <p><span class="chinese">东北方向是阿富汗的贾拉拉巴德小镇。</span><span class="english">Northeast lies the Afghan town of Jalalabad.</span></p>
 
 <p><span class="chinese">黑鹰在30分钟后从Jalalabad启程。</span><span class="english">The Black Hawks departed from Jalalabad thirty minutes later.</span></p>

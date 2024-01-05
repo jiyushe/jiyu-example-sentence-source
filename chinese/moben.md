@@ -1,5 +1,7 @@
 # 摹本
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/moben.md)
+
 <p><span class="chinese">自然景观勾勒贵族生活摹本。</span><span class="english">The natural landscape outlined Duplication aristocratic life.</span></p>
 
 <p><span class="chinese">传真是原件的摹本，看上去与原件一模一样。</span><span class="english">A fax is a facsimile of the original, and looks exactly like it.</span></p>

@@ -1,5 +1,7 @@
 # claudication
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/claudication.md)
+
 <p><span class="chinese">很少有跛行病人需要进行这种手术。</span><span class="english">Very few people with claudication need this operation.</span></p>
 
 <p><span class="chinese">间歇性跛行是由周围性血管疾病引起的。</span><span class="english">Intermittent claudication is caused by peripheral vascular disease.</span></p>

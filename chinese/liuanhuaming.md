@@ -1,5 +1,7 @@
 # 柳暗花明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liuanhuaming.md)
+
 <p><span class="chinese">会柳暗花明的，我们要做的就是继续努力。</span><span class="english">But we will be alright, we just need to keep going.</span></p>
 
 <p><span class="chinese">欧洲航天局称，多亏了这次追查，事情开始柳暗花明了。</span><span class="english">Thanks to the crackdown, things are starting to improve, ESA said.</span></p>

@@ -1,5 +1,7 @@
 # asap
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/asap.md)
+
 <p><span class="chinese">请快去请医生。</span><span class="english">Please send for a doctor ASAP.</span></p>
 
 <p><span class="chinese">让你的销售尽快给我打电话。</span><span class="english">Have your salesman call me ASAP.</span></p>

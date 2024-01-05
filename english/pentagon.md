@@ -1,5 +1,7 @@
 # pentagon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pentagon.md)
+
 <p><span class="chinese">五角形是最完满的图形。</span><span class="english">The pentagon is the most perfect graph.</span></p>
 
 <p><span class="chinese">五角大楼发言人拉潘当天说。</span><span class="english">Pentagon spokesman Lapan said the same day.</span></p>

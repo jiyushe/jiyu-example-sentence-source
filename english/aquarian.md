@@ -1,5 +1,7 @@
 # aquarian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/aquarian.md)
+
 <p><span class="chinese">迈克尔还真像水瓶座。</span><span class="english">Michael is such an Aquarian.</span></p>
 
 <p><span class="chinese">你能到精神上的知觉，宝瓶座的时代来临。</span><span class="english">Coming, or the birth of the Aquarian Age.</span></p>

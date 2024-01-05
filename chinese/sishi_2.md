@@ -1,5 +1,7 @@
 # 私事
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sishi_2.md)
+
 <p><span class="chinese">被冒犯的一方，由于是私事，所以由他自己决定。</span><span class="english">It's a private matter. He decides.</span></p>
 
 <p><span class="chinese">我们不该打听他人的私事。</span><span class="english">We must respect others' privacies.</span></p>

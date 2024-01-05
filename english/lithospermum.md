@@ -1,5 +1,7 @@
 # lithospermum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/lithospermum.md)
+
 <p><span class="chinese">紫草是临床常用中药，具有悠久的入药历史。</span><span class="english">Lithospermum has been widely used in clinic for a long time.</span></p>
 
 <p><span class="chinese">中国产紫草属和软紫草属分类的研究。</span><span class="english">A study on the taxonomy and distribution of Lithospermum and Arnebia China.</span></p>

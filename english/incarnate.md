@@ -1,5 +1,7 @@
 # incarnate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incarnate.md)
+
 <p><span class="chinese">我读过关于这类可怕的化身鬼怪的书。</span><span class="english">I had read of such hideous incarnate demons.</span></p>
 
 <p><span class="chinese">马尔戴克上的个体们拒绝了，战争爆发。</span><span class="english">Those incarnate upon Maldek objected, and a war broke out.</span></p>

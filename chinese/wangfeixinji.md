@@ -1,5 +1,7 @@
 # 枉费心机
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wangfeixinji.md)
+
 <p><span class="chinese">她的谨慎只是枉费心机。</span><span class="english">Her caution was thrown away.</span></p>
 
 <p><span class="chinese">恐怕你会枉费心机。</span><span class="english">I am afraid you will be futile.</span></p>

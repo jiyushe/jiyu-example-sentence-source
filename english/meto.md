@@ -1,5 +1,7 @@
 # meto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meto.md)
+
 <p><span class="chinese">妈妈要我呆在家里。</span><span class="english">Mother wants meto stay.</span></p>
 
 <p><span class="chinese">那是因为汤姆叫我去。</span><span class="english">I went because Tom told meto go.</span></p>

@@ -1,5 +1,7 @@
 # prehistorical
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prehistorical.md)
+
 <p><span class="chinese">醉心写作已成为乾隆年间的事了。</span><span class="english">Being rapt in writing was something prehistorical for me till then.</span></p>
 
 <p><span class="chinese">上古时代，尧、舜、禹都曾在山西境内建都。</span><span class="english">In prehistorical times, Yao, Shun and Yu all set their capital in Shanxi.</span></p>

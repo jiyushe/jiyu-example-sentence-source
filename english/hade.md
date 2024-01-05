@@ -1,5 +1,7 @@
 # hade
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hade.md)
+
 <p><span class="chinese">基督教娄鞋可以装饰你漂亮的脚。</span><span class="english">Beautiful shoes can hade your feet.</span></p>
 
 <p><span class="chinese">正像我们所预料的那样，这个男孩取得了大的进步。</span><span class="english">The boy has as much progress as we hade XPected.</span></p>

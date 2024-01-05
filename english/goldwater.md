@@ -1,5 +1,7 @@
 # goldwater
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/goldwater.md)
+
 <p><span class="chinese">戈德华特是一个保守的良知。</span><span class="english">Barry Goldwater IS the conscience of a conservative.</span></p>
 
 <p><span class="chinese">Goldwater是亚利桑纳州的一位极具保守主义的参议员。</span><span class="english">Goldwater was a strongly conservative senator from Arizona.</span></p>

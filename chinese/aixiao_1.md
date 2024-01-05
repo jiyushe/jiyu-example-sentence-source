@@ -1,5 +1,7 @@
 # 矮小
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/aixiao_1.md)
+
 <p><span class="chinese">他身材矮小。</span><span class="english">He is short in stature.</span></p>
 
 <p><span class="chinese">要提防身材矮小的摄影师。</span><span class="english">Beware of short cameramen.</span></p>

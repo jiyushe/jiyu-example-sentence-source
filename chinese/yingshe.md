@@ -1,5 +1,7 @@
 # 影射
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingshe.md)
+
 <p><span class="chinese">我不喜欢你的影射。</span><span class="english">I don't appreciate your innuendoes.</span></p>
 
 <p><span class="chinese">他用与老有关的词影射人们。</span><span class="english">So he primed people with "old" words.</span></p>

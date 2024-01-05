@@ -1,5 +1,7 @@
 # palmetto
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/palmetto.md)
+
 <p><span class="chinese">她用力挥着那把大棕榈扇，胳臂都酸痛了。</span><span class="english">Her arms ached from swinging the wide palmetto leaf.</span></p>
 
 <p><span class="chinese">汤尼是南加利福尼亚棕榈鸽子农场的董事长。</span><span class="english">Tony Barwick is president of the Palmetto Pigeon Plant in South Carolina.</span></p>

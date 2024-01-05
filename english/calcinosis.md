@@ -1,5 +1,7 @@
 # calcinosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/calcinosis.md)
+
 <p><span class="chinese">冠状动脉钙质沉着随着年龄的增长而增加。</span><span class="english">The detection of coronary artery calcinosis increased with aging.</span></p>
 
 <p><span class="chinese">结论CT对冠状动脉钙质沉着的诊断很有价值。</span><span class="english">Conclusion CT is very significant in the diagnosis of coronary artery calcinosis.</span></p>

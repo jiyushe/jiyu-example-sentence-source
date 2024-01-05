@@ -1,5 +1,7 @@
 # vicarious
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vicarious.md)
+
 <p><span class="chinese">这不是替代，你并没有进行替换，它是遵循原义的。</span><span class="english">That's not vicarious. You're not substituting. It's literal.</span></p>
 
 <p><span class="chinese">有时候你会听到人们把它叫作替代惩罚。</span><span class="english">You'll sometimes see people refer to this as vicarious punishment.</span></p>

@@ -1,5 +1,7 @@
 # 员额
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuane.md)
+
 <p><span class="chinese">该师早已有编制员额。</span><span class="english">The division had its complement of men.</span></p>
 
 <p><span class="chinese">作者员额用“牦牛”的用户名。</span><span class="english">The author posts using the " yak " username.</span></p>

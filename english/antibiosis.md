@@ -1,5 +1,7 @@
 # antibiosis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/antibiosis.md)
+
 <p><span class="chinese">生产广谱抗菌类药品及原料药等。</span><span class="english">Produce broad-spectrum antibiosis and medicine served as raw material, etc.</span></p>
 
 <p><span class="chinese">该植物具有消炎，镇痛，抗菌，抗肿瘤等多种活性。</span><span class="english">It has several activities, such as antiinflammatory, antibiosis , antitumor and so on.</span></p>

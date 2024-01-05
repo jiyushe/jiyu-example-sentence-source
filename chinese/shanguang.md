@@ -1,5 +1,7 @@
 # 闪光
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shanguang.md)
+
 <p><span class="chinese">我看见一个闪光的吉他。</span><span class="english">I see a glittery guitar.</span></p>
 
 <p><span class="chinese">她高兴得两眼闪光。</span><span class="english">Her eyes sparkled with joy.</span></p>

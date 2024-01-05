@@ -1,5 +1,7 @@
 # 疏理
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shuli_1.md)
+
 <p><span class="chinese">第二章疏理了海德格尔的艺术之思。</span><span class="english">The second chapter examines the art thought of Heidegger.</span></p>
 
 <p><span class="chinese">第四部分中作者运用预断排除原则对于我国刑事审判中的一些具体制度进行了疏理和补缺。</span><span class="english">In the fourth section, the author discussed some concrete systems in criminal judgment in our country.</span></p>

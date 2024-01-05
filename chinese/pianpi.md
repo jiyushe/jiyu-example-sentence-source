@@ -1,5 +1,7 @@
 # 偏僻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pianpi.md)
+
 <p><span class="chinese">他曾住在一个偏僻的山村里。</span><span class="english">He used to live in a remote village.</span></p>
 
 <p><span class="chinese">我奶奶住的地方很偏僻，要花好几个小时才能到她家。</span><span class="english">It takes us hours to get to her house.</span></p>

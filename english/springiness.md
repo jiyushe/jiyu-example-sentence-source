@@ -1,5 +1,7 @@
 # springiness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/springiness.md)
+
 <p><span class="chinese">它有一种让人愉悦的弹性和浓郁而鲜明的风味。</span><span class="english">It had a pleasant springiness and a deeper, bolder flavor.</span></p>
 
 <p><span class="chinese">蠕虫丰满结实，有克莱门氏小柑橘般的弹性。</span><span class="english">The worms were chubby and firm, with the springiness of clementine segments.</span></p>

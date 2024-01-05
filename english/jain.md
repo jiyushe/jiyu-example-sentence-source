@@ -1,5 +1,7 @@
 # jain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jain.md)
+
 <p><span class="chinese">该誓言所采取的贾殷和尚是更加严峻。</span><span class="english">The vows taken by the Jain monks are more severe.</span></p>
 
 <p><span class="chinese">非耆那教徒也表达了对耆那教盛典的很高的崇敬。</span><span class="english">The non-Jains also express high reverence for this Jain festival.</span></p>

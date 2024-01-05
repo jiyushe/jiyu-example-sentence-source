@@ -1,5 +1,7 @@
 # eviction
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/eviction.md)
+
 <p><span class="chinese">托马斯现在要被从他占住的房子里驱赶出来。</span><span class="english">Thomas now faces eviction from his squat.</span></p>
 
 <p><span class="chinese">他正通过法庭对驱逐令表示反对。</span><span class="english">He is fighting an eviction order in court.</span></p>

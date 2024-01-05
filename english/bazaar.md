@@ -1,5 +1,7 @@
 # bazaar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bazaar.md)
+
 <p><span class="chinese">为贫民举行了义卖。</span><span class="english">A bazaar was held for the poor.</span></p>
 
 <p><span class="chinese">商场前是大片的绿地。</span><span class="english">Big greenbelt is before bazaar.</span></p>

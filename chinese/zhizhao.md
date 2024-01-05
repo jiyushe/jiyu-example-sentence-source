@@ -1,5 +1,7 @@
 # 执照
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhizhao.md)
+
 <p><span class="chinese">CFA执照是什么？</span><span class="english">What is a CFA charter?</span></p>
 
 <p><span class="chinese">我看看你的驾驶执照好吗？</span><span class="english">May I see your license?</span></p>

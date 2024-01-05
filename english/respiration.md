@@ -1,5 +1,7 @@
 # respiration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/respiration.md)
+
 <p><span class="chinese">这个过程叫做呼吸作用。</span><span class="english">This process is called respiration.</span></p>
 
 <p><span class="chinese">呼吸作用能够提供更多的能量。</span><span class="english">Respiration provides a bigger energy kick.</span></p>

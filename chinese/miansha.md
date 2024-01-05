@@ -1,5 +1,7 @@
 # 棉纱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/miansha.md)
+
 <p><span class="chinese">一个1支的棉纱则是相当粗的了。</span><span class="english">No. 1 cotton is a very coarse yarn.</span></p>
 
 <p><span class="chinese">一汉克的棉纱长达840码。</span><span class="english">A hank of cotton yarn measures 840 yards.</span></p>

@@ -1,5 +1,7 @@
 # 大熊猫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/daxiongmao.md)
+
 <p><span class="chinese">但为什么是大熊猫？</span><span class="english">But why a panda?</span></p>
 
 <p><span class="chinese">大熊猫在踩高跷！</span><span class="english">It's a panda on stilts!</span></p>

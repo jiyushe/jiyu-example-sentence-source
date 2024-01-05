@@ -1,5 +1,7 @@
 # pacer
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pacer.md)
+
 <p><span class="chinese">但敝公司却还有许多其它产品。</span><span class="english">But Pacer has many other projects.</span></p>
 
 <p><span class="chinese">练习用笔作追踪器和定速器。</span><span class="english">Practice using the pen as a tracker and pacer.</span></p>

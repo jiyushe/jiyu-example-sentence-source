@@ -1,5 +1,7 @@
 # preharvest
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preharvest.md)
+
 <p><span class="chinese">讨论了影响穗发芽的其它因素。</span><span class="english">Other factors restricting preharvest sprouting are also discussed.</span></p>
 
 <p><span class="chinese">高抗秆、叶锈和根腐病、中抗赤霉病和穗发芽。</span><span class="english">Stem, leaf rust and antiflow rot, resistant genotypes and preharvest sprouting.</span></p>

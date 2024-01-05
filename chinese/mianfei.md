@@ -1,5 +1,7 @@
 # 免费
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianfei.md)
+
 <p><span class="chinese">是免费送吗？</span><span class="english">Is it free?</span></p>
 
 <p><span class="chinese">免费或收费？</span><span class="english">Free or fee?</span></p>

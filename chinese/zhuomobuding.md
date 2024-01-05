@@ -1,5 +1,7 @@
 # 捉摸不定
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuomobuding.md)
+
 <p><span class="chinese">我开始模仿他那捉摸不定的神色。</span><span class="english">I now began to imitate his covert looks.</span></p>
 
 <p><span class="chinese">这杂志的立场观点总是认人捉摸不定。</span><span class="english">The magazine's stand is very hard to locate.</span></p>

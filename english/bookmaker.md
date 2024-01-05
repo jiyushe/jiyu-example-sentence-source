@@ -1,5 +1,7 @@
 # bookmaker
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bookmaker.md)
+
 <p><span class="chinese">达里尔因为在一个违法的赌注登记人那边下注而惹上麻烦。</span><span class="english">Darryl got in trouble for placing a bet with an illegal bookmaker.</span></p>
 
 <p><span class="chinese">企业合。如果你被怀疑涉及任何的这些事务，庄家能永久关你帐户。</span><span class="english">Suspected of any of these things, the bookmaker can close your account for good.</span></p>

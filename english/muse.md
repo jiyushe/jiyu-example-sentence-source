@@ -1,5 +1,7 @@
 # muse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/muse.md)
+
 <p><span class="chinese">训练你的灵感。</span><span class="english">Train your muse.</span></p>
 
 <p><span class="chinese">王子犯法，与庶民同罪。</span><span class="english">The king muse be subject to the law.</span></p>

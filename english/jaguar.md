@@ -1,5 +1,7 @@
 # jaguar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jaguar.md)
+
 <p><span class="chinese">同时也是捷豹车队的试车手。</span><span class="english">Also has one-off test with Jaguar.</span></p>
 
 <p><span class="chinese">2009年在圭亚那，一名金矿工人命丧美洲虎口。</span><span class="english">A jaguar killed a gold miner in Guyana in 2009.</span></p>

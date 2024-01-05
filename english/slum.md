@@ -1,5 +1,7 @@
 # slum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slum.md)
+
 <p><span class="chinese">贫民窟一定是在你内心.</span><span class="english">The slum must be inside you.</span></p>
 
 <p><span class="chinese">贫民窟之游在肯尼亚正处于起步阶段。</span><span class="english">Slum tourism is taking off in Kenya.</span></p>

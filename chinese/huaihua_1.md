@@ -1,5 +1,7 @@
 # 槐花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huaihua_1.md)
+
 <p><span class="chinese">啤酒成份是麦、槐花、水或矿泉水。</span><span class="english">Beer is made of hop, herb, water or something else.</span></p>
 
 <p><span class="chinese">槐花的主要化学成分有哪些？</span><span class="english">What kind of chemicals are there in the Flos Sophorae?</span></p>

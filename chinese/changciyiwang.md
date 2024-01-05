@@ -1,5 +1,7 @@
 # 长此以往
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/changciyiwang.md)
+
 <p><span class="chinese">他知道，宝将是一个，长此以往这一点。</span><span class="english">He knows that Wen will be the one, if things go on like this.</span></p>
 
 <p><span class="chinese">长此以往，高压力就会导致严重健康问题。</span><span class="english">Over time, high levels of stress lead to serious health problems.</span></p>

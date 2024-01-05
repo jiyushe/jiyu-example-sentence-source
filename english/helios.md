@@ -1,5 +1,7 @@
 # helios
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/helios.md)
+
 <p><span class="chinese">月亮之神，赫利俄斯地妹妹。</span><span class="english">The goddess of the moon the sister of Helios.</span></p>
 
 <p><span class="chinese">其实神话。月亮之神，赫利俄斯的妹妹。</span><span class="english">The goddess of the moon, the sister of Helios.</span></p>

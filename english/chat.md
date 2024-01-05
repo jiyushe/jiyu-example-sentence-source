@@ -1,5 +1,7 @@
 # chat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chat.md)
+
 <p><span class="chinese">他是故事大王，天生的好口才。</span><span class="english">He was born to chat.</span></p>
 
 <p><span class="chinese">关掉即时通讯和聊天。</span><span class="english">Turn of IM and chat.</span></p>

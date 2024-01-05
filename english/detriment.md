@@ -1,5 +1,7 @@
 # detriment
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/detriment.md)
+
 <p><span class="chinese">在不损害他人利益的前提下为成功艰苦奋斗。</span><span class="english">Work hard to succeed but not to the detriment of others.</span></p>
 
 <p><span class="chinese">事实上，在电视剧中,拥有情感通常是弊端。</span><span class="english">And in fact, in a TV series emotions are often seen as a detriment.</span></p>

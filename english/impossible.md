@@ -1,5 +1,7 @@
 # impossible
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impossible.md)
+
 <p><span class="chinese">这简直是不可理喻的事情。</span><span class="english">It is impossible.</span></p>
 
 <p><span class="chinese">那是不可能的。</span><span class="english">That is impossible.</span></p>

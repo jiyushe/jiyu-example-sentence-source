@@ -1,5 +1,7 @@
 # rs
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rs.md)
+
 <p><span class="chinese">我家房子盖了有20年了。</span><span class="english">My house is 20 rs old.</span></p>
 
 <p><span class="chinese">恏巴长荣从奥兰诉讼。</span><span class="english">RS EVA from Orlan suit.</span></p>

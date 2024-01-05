@@ -1,5 +1,7 @@
 # 柔媚
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/roumei.md)
+
 <p><span class="chinese">她走起路来轻捷柔媚，好象是在城里教养大的。</span><span class="english">She walked as delicately as if she had been bred in town.</span></p>
 
 <p><span class="chinese">带给您的，是简约与柔媚的完美融合。</span><span class="english">Brought to you is simple soft and the perfect integration.</span></p>

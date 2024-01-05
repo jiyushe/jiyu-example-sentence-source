@@ -1,5 +1,7 @@
 # mimesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mimesis.md)
+
 <p><span class="chinese">艺术模仿或代表已深深扎根于亚里士多德的哲学。</span><span class="english">Art as mimesis or representation has deep roots in the philosophy of Aristotle.</span></p>
 
 <p><span class="chinese">第三章主要是分析阿多诺形成其独特的摹仿理论的思想基础。</span><span class="english">Chapter Three deals with Adorno's other thoughts that are related to his mimesis theory.</span></p>

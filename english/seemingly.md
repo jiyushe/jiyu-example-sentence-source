@@ -1,5 +1,7 @@
 # seemingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seemingly.md)
+
 <p><span class="chinese">而这段历程似乎经过了万古之长。</span><span class="english">This took seemingly eons of time.</span></p>
 
 <p><span class="chinese">那个涂在脸上的面罩呢？</span><span class="english">How about the seemingly painted-on mask?</span></p>

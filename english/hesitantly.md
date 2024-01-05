@@ -1,5 +1,7 @@
 # hesitantly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hesitantly.md)
+
 <p><span class="chinese">我迟疑地向艾思梅微笑。</span><span class="english">I smiled hesitantly at Esme.</span></p>
 
 <p><span class="chinese">听到这几个字，她的眼睛迟疑地睁开，起先她的目光看上去是模糊的，然后清晰。</span><span class="english">At these words, her eyes opened hesitantly.</span></p>

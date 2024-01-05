@@ -1,5 +1,7 @@
 # vial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/vial.md)
+
 <p><span class="chinese">小塑料瓶是最好的容器。</span><span class="english">A small plastic vial is best.</span></p>
 
 <p><span class="chinese">这是一小瓶脊髓灰质炎疫苗。</span><span class="english">Here is a vial of polio vaccine.</span></p>

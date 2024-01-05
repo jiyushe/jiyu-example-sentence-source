@@ -1,5 +1,7 @@
 # europe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/europe.md)
+
 <p><span class="chinese">嫘底现在欧洲。</span><span class="english">Letty is in Europe.</span></p>
 
 <p><span class="chinese">但是欧洲在哪儿？</span><span class="english">But where is Europe?</span></p>

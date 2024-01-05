@@ -1,5 +1,7 @@
 # 沙哑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaya.md)
+
 <p><span class="chinese">他声音沙哑地说。</span><span class="english">He said hoarsely.</span></p>
 
 <p><span class="chinese">我咳得声音都沙哑了。</span><span class="english">I have a hoarse cough.</span></p>

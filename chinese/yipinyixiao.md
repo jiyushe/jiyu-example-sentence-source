@@ -1,5 +1,7 @@
 # 一颦一笑
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yipinyixiao.md)
+
 <p><span class="chinese">一颦一笑，和不属于自己的灿烂。</span><span class="english">And frowns and smiles and splendours not their own.</span></p>
 
 <p><span class="chinese">还有你的一举一动、一颦一笑都写在我心的！</span><span class="english">And your every move, smile was written in my heart!</span></p>

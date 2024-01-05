@@ -1,5 +1,7 @@
 # decimation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decimation.md)
+
 <p><span class="chinese">本文提出一种检索方法——“抽取检索法”。</span><span class="english">A new method called"Decimation Retrieval Method"is given.</span></p>
 
 <p><span class="chinese">这个抽取滤波器实际上相当于一个码型变换器。</span><span class="english">The decimation filter is thus similar to a code-converter.</span></p>

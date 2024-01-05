@@ -1,5 +1,7 @@
 # drubbing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/drubbing.md)
+
 <p><span class="chinese">那只黑猫不停地用白爪子跺地。</span><span class="english">The black cat kept drubbing on the ground with its white paws.</span></p>
 
 <p><span class="chinese">但面对2005年那场选举的完败，冈田首先要做的是获得支持者的原谅。</span><span class="english">He will first need to be forgiven for having led the DPJ into a resounding election drubbing in 2005.</span></p>

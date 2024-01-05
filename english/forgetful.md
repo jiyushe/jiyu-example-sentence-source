@@ -1,5 +1,7 @@
 # forgetful
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/forgetful.md)
+
 <p><span class="chinese">她是个健忘的女孩。</span><span class="english">She is a forgetful girl.</span></p>
 
 <p><span class="chinese">最近我总是丢三拉四的！</span><span class="english">I've been forgetful lately!</span></p>

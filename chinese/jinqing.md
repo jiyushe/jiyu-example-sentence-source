@@ -1,5 +1,7 @@
 # 尽情
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinqing.md)
+
 <p><span class="chinese">让我在能幻想的时候尽情幻想吧。</span><span class="english">Let me fancy while I may.</span></p>
 
 <p><span class="chinese">请尽情的哭吧。</span><span class="english">Bye bye fatboy please cry.</span></p>

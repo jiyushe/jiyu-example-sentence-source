@@ -1,5 +1,7 @@
 # 阴沉
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yinchen.md)
+
 <p><span class="chinese">难道他没有一脸阴沉吗？</span><span class="english">Has he not a sombre look?</span></p>
 
 <p><span class="chinese">他的脸色马上阴沉下来。</span><span class="english">His face scowled at once.</span></p>

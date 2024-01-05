@@ -1,5 +1,7 @@
 # focusing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/focusing.md)
+
 <p><span class="chinese">我们现在看到的是太子港。</span><span class="english">We're focusing now, Port au-Prince.</span></p>
 
 <p><span class="chinese">把过多焦点放在页面要素上</span><span class="english">Focusing too Much on On-Page Factors</span></p>

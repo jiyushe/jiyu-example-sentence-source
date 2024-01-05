@@ -1,5 +1,7 @@
 # quicky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/quicky.md)
+
 <p><span class="chinese">你考试完成的真快啊。</span><span class="english">You finish the exam so quicky.</span></p>
 
 <p><span class="chinese">他会鞠躬，然后给他们一个次品。</span><span class="english">He is going to bow and give them a quicky.</span></p>

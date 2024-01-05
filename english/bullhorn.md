@@ -1,5 +1,7 @@
 # bullhorn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bullhorn.md)
+
 <p><span class="chinese">“停住，”Rescorla通过扩音器命令。</span><span class="english">"Stop, " Rescorla ordered through the bullhorn.</span></p>
 
 <p><span class="chinese">然后一位叫尚塔尔.科诺的主管举起了扩音器。</span><span class="english">Then Chantal Kenol, a director, raised a bullhorn.</span></p>

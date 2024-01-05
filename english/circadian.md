@@ -1,5 +1,7 @@
 # circadian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/circadian.md)
+
 <p><span class="chinese">这种基因因其昼夜节律而显得至为重要。</span><span class="english">This gene is critical to circadian rhythms.</span></p>
 
 <p><span class="chinese">生物体机能活动的日节律是一种基本的生命现象。</span><span class="english">The circadian rhythm depicts a basic feature of life.</span></p>

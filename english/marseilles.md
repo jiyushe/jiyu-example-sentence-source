@@ -1,5 +1,7 @@
 # marseilles
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/marseilles.md)
+
 <p><span class="chinese">那是马赛马若尔教堂的主教。</span><span class="english">He was the Bishop of Majore at Marseilles.</span></p>
 
 <p><span class="chinese">走，弗尔南多，你不和我们一块儿回马赛吗？</span><span class="english">Come, Fernand, won't you return to Marseilles with us?</span></p>

@@ -1,5 +1,7 @@
 # enteritis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enteritis.md)
+
 <p><span class="chinese">胆肠炎会生癌吗?。</span><span class="english">Can bravery enteritis give birth to cancer?</span></p>
 
 <p><span class="chinese">经医生诊断，孩子得的是急性胃肠炎。</span><span class="english">Doctors later diagnosed the boy as having acute enteritis.</span></p>

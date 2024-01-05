@@ -1,5 +1,7 @@
 # 身段
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenduan.md)
+
 <p><span class="chinese">你的身段很迷人。</span><span class="english">You have an attractive figure.</span></p>
 
 <p><span class="chinese">他是一个哀怜的身段矮小的人。</span><span class="english">He is a miserable little person.</span></p>

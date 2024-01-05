@@ -1,5 +1,7 @@
 # 专区
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuanqu.md)
+
 <p><span class="chinese">每个专区充当一个独立系统。</span><span class="english">Each zone behaves as a separate system.</span></p>
 
 <p><span class="chinese">为什么这本书在心理学专区？</span><span class="english">Why is this book in the psychology section?</span></p>

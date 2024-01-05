@@ -1,5 +1,7 @@
 # astringent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/astringent.md)
+
 <p><span class="chinese">他们有一个涩涩的味道。</span><span class="english">They have an astringent taste.</span></p>
 
 <p><span class="chinese">爱情，是一杯枯涩的咖啡！</span><span class="english">The love, is cup of dry astringent coffee!</span></p>

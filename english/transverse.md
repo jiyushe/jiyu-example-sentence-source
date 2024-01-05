@@ -1,5 +1,7 @@
 # transverse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/transverse.md)
+
 <p><span class="chinese">一个可以运动的横梁支撑住了板子。</span><span class="english">A transverse beam supports the dashboard.</span></p>
 
 <p><span class="chinese">横向构件的自动生产线。</span><span class="english">Automactic assembly of transverse members.</span></p>

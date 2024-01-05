@@ -1,5 +1,7 @@
 # horseshoe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horseshoe.md)
+
 <p><span class="chinese">把这根铁条锻造成马掌。</span><span class="english">Forge the iron bar into a horseshoe.</span></p>
 
 <p><span class="chinese">所有的损失都是因为少了一个马掌钉。</span><span class="english">All losses because of a horseshoe nail.</span></p>

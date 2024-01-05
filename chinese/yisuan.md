@@ -1,5 +1,7 @@
 # 一算
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yisuan.md)
+
 <p><span class="chinese">这样一算，还是Volt更安全。</span><span class="english">This is safer.</span></p>
 
 <p><span class="chinese">不过你至少要算一算帐。</span><span class="english">But at least do the math.</span></p>

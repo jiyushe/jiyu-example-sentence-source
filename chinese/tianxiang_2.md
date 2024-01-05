@@ -1,5 +1,7 @@
 # 甜香
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tianxiang_2.md)
+
 <p><span class="chinese">甜香水散开所有。</span><span class="english">Sweet perfumes are diffused all around.</span></p>
 
 <p><span class="chinese">绿豆糕绵软甜香，清热祛火。</span><span class="english">Soft sweet bean cake, remove heat of fire.</span></p>

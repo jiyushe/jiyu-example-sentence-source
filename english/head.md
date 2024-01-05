@@ -1,5 +1,7 @@
 # head
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/head.md)
+
 <p><span class="chinese">替我挠挠头。</span><span class="english">Scratch my head.</span></p>
 
 <p><span class="chinese">摸摸你的头。</span><span class="english">Touch your head.</span></p>

@@ -1,5 +1,7 @@
 # gazelle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gazelle.md)
+
 <p><span class="chinese">你吃那肉，要像吃羚羊与鹿一般。</span><span class="english">Eat them as you would gazelle or deer.</span></p>
 
 <p><span class="chinese">我像羚羊一样跑过球场，将球投出。</span><span class="english">I loped down the court like a gazelle and took a shot.</span></p>

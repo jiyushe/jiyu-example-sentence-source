@@ -1,5 +1,7 @@
 # fang
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fang.md)
+
 <p><span class="chinese">她名叫金芳。</span><span class="english">Her name is Jin Fang.</span></p>
 
 <p><span class="chinese">陈芳是一个农民。</span><span class="english">Chen Fang is a farmer.</span></p>

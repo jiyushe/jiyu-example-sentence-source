@@ -1,5 +1,7 @@
 # sybil
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sybil.md)
+
 <p><span class="chinese">西比尔询问了她当女工的生活。</span><span class="english">Sybil quizzed her about life as a working girl.</span></p>
 
 <p><span class="chinese">我在哪里可以在线看电影免费西比尔充分流？</span><span class="english">Where can I watch Sybil movie online free full stream?</span></p>

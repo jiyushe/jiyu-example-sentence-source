@@ -1,5 +1,7 @@
 # 传神
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chuanshen.md)
+
 <p><span class="chinese">他画的马很传神。</span><span class="english">The horse he painted is very lifelike.</span></p>
 
 <p><span class="chinese">吾等笃信上帝而重见君。译得传神啊，猎兄！</span><span class="english">And we will trust in God to see thee yet again.</span></p>

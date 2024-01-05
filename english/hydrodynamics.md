@@ -1,5 +1,7 @@
 # hydrodynamics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hydrodynamics.md)
+
 <p><span class="chinese">简述了润滑油调合的流体动力学原理。</span><span class="english">Hydrodynamics principle of Lube oil blending was described.</span></p>
 
 <p><span class="chinese">除此以外，分析还表明，元素含量分布还受湾底水动力的影响。</span><span class="english">Besides, elements are also affected by bottom hydrodynamics of the Bay.</span></p>

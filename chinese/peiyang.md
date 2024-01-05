@@ -1,5 +1,7 @@
 # 培养
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peiyang.md)
+
 <p><span class="chinese">培养您的团队。</span><span class="english">Educate your team.</span></p>
 
 <p><span class="chinese">培养你的这些资质。</span><span class="english">Foster these aptitudes.</span></p>

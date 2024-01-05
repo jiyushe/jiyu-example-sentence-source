@@ -1,5 +1,7 @@
 # cyclohexane
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cyclohexane.md)
+
 <p><span class="chinese">加氢产物主要是环己烷。</span><span class="english">The reaction products were mainly cyclohexane.</span></p>
 
 <p><span class="chinese">当加入环己烷时，它的影响较小。</span><span class="english">When the cyclohexane was added, its influence was slight.</span></p>

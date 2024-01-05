@@ -1,5 +1,7 @@
 # cytomegalovirus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cytomegalovirus.md)
+
 <p><span class="chinese">这是肺巨细胞病毒感染。</span><span class="english">This is cytomegalovirus infection in the lung.</span></p>
 
 <p><span class="chinese">水痘-带状疱疹病毒能引起水痘及带状疱疹。</span><span class="english">The main pathogenetic organisms are herpes simplex virus, varicella-zoster virus, and cytomegalovirus.</span></p>

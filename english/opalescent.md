@@ -1,5 +1,7 @@
 # opalescent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opalescent.md)
+
 <p><span class="chinese">她的皮肤洁白无瑕，好象乳色的。</span><span class="english">Her skin was flawless and seemed opalescent.</span></p>
 
 <p><span class="chinese">乳白色手火花染色织物添加到您的设计。</span><span class="english">Opalescent hand dyed fabrics add sparkle to your design.</span></p>

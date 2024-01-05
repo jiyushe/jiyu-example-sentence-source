@@ -1,5 +1,7 @@
 # rhetoric
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/rhetoric.md)
+
 <p><span class="chinese">他的虚夸的言辞并非新鲜。</span><span class="english">His rhetoric was not new.</span></p>
 
 <p><span class="chinese">两个人针尖对麦芒，言辞激烈。</span><span class="english">Into a two people, rhetoric.</span></p>

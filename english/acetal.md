@@ -1,5 +1,7 @@
 # acetal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acetal.md)
+
 <p><span class="chinese">紫外被稳定的缩醛均聚物，黑色，中等黏度。</span><span class="english">UV Stabilized Acetal Homopolymer, Black, Medium Viscosity.</span></p>
 
 <p><span class="chinese">在所有的热塑性塑料中，乙缩醛具有最高的强度和硬度。</span><span class="english">Acetal is among the strongest and stiffest of all thermoplastics.</span></p>

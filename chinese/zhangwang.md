@@ -1,5 +1,7 @@
 # 张望
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhangwang.md)
+
 <p><span class="chinese">他们从门口向屋里张望。</span><span class="english">They look in at the door.</span></p>
 
 <p><span class="chinese">我发现外面有人在鬼祟张望。</span><span class="english">I found somebody prowling about.</span></p>

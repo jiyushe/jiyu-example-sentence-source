@@ -1,5 +1,7 @@
 # allocator
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/allocator.md)
+
 <p><span class="chinese">实现一个简单的分配程序</span><span class="english">Implementing a simple allocator</span></p>
 
 <p><span class="chinese">分配程序不能将空闲空间拼合为更大的内存块。</span><span class="english">The allocator can't coalesce free space into larger blocks.</span></p>

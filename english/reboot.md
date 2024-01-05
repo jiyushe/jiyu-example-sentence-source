@@ -1,5 +1,7 @@
 # reboot
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/reboot.md)
+
 <p><span class="chinese">重启工作站。</span><span class="english">Reboot the workstation.</span></p>
 
 <p><span class="chinese">重新启动到脱机方。</span><span class="english">Reboot to offline side.</span></p>

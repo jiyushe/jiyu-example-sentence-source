@@ -1,5 +1,7 @@
 # seventh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seventh.md)
+
 <p><span class="chinese">第七封信——X翼战机</span><span class="english">Seventh Email – X-Wing Fighter</span></p>
 
 <p><span class="chinese">是二零零五年三月七日。</span><span class="english">It's the seventh of March 2005.</span></p>

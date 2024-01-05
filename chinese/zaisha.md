@@ -1,5 +1,7 @@
 # 宰杀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zaisha.md)
+
 <p><span class="chinese">马儿被美国人宰杀时的嘶叫</span><span class="english">of their ponies killed by the Americans</span></p>
 
 <p><span class="chinese">在农场上宰杀牛是不明智的。</span><span class="english">It was no good killing them on the ranges.</span></p>

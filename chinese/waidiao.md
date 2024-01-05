@@ -1,5 +1,7 @@
 # 外调
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/waidiao.md)
+
 <p><span class="chinese">我因工作原因要外调到印度。</span><span class="english">My job was offshored to India.</span></p>
 
 <p><span class="chinese">进程外调用的序列化开销。</span><span class="english">Serialization overhead for the out-of-process call.</span></p>

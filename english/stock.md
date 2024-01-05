@@ -1,5 +1,7 @@
 # stock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stock.md)
+
 <p><span class="chinese">购买赛诺菲的股票。</span><span class="english">Buy stock in Sanofi.</span></p>
 
 <p><span class="chinese">因此，我卖掉了股票。</span><span class="english">So I sold the stock.</span></p>

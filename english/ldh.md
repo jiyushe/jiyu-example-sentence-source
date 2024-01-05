@@ -1,5 +1,7 @@
 # ldh
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ldh.md)
+
 <p><span class="chinese">LDH在三种酶中的活性是最弱的。</span><span class="english">Activity of LDH is the most weak.</span></p>
 
 <p><span class="chinese">当她开始工作后，李多海遇见了宋承宪并深深爱上了他。</span><span class="english">When she started working, LDH met DC and fell in love with him.</span></p>

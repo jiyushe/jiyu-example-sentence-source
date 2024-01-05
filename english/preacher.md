@@ -1,5 +1,7 @@
 # preacher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/preacher.md)
+
 <p><span class="chinese">我们知道了那个盲传教士。</span><span class="english">We have the blind preacher.</span></p>
 
 <p><span class="chinese">如果你依赖某一位讲员或传道人。</span><span class="english">If you rely on a preacher or minister.</span></p>

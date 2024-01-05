@@ -1,5 +1,7 @@
 # Slavic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/slavic.md)
+
 <p><span class="chinese">随便说说，我是学斯拉夫语的。</span><span class="english">Nothing really. I'm in Slavic studies.</span></p>
 
 <p><span class="chinese">捷克语，是斯拉夫语言的一种。</span><span class="english">Czech, a member of the Slavic languages.</span></p>

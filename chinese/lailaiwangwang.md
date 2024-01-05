@@ -1,5 +1,7 @@
 # 来来往往
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lailaiwangwang.md)
+
 <p><span class="chinese">小汽车穿梭似的来来往往。</span><span class="english">Cars busied to and fro.</span></p>
 
 <p><span class="chinese">小船来来往往地穿梭。</span><span class="english">Small boats busied to and fro.</span></p>

@@ -1,5 +1,7 @@
 # flange
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/flange.md)
+
 <p><span class="chinese">用气焊割掉30“隔水管。</span><span class="english">Weld on the 30"bottom flange."</span></p>
 
 <p><span class="chinese">拆卸底部法兰盖。</span><span class="english">Remove the bottom flange cover.</span></p>

@@ -1,5 +1,7 @@
 # 显要
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xianyao_1.md)
+
 <p><span class="chinese">他是一位地位显要的人物。</span><span class="english">He is a very important man.</span></p>
 
 <p><span class="chinese">邀请显要人物剪彩。</span><span class="english">Dignitaries are invited to cut ribbons.</span></p>

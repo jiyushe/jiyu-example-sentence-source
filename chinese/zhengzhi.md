@@ -1,5 +1,7 @@
 # 争执
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengzhi.md)
+
 <p><span class="chinese">你和受害者起过争执吗？</span><span class="english">Did you ague with the victim?</span></p>
 
 <p><span class="chinese">有时人们难免发生争执，对吧?</span><span class="english">Sometimes people argue, right?</span></p>

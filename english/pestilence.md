@@ -1,5 +1,7 @@
 # pestilence
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pestilence.md)
+
 <p><span class="chinese">鼠疫正在这一地区流行。</span><span class="english">A pestilence was raging in this area.</span></p>
 
 <p><span class="chinese">那里是一再发生瘟疫的策源地。</span><span class="english">There is the source of the recurring pestilence.</span></p>

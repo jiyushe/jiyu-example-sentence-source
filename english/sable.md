@@ -1,5 +1,7 @@
 # sable
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sable.md)
+
 <p><span class="chinese">这是貂色和白色间蓝色。</span><span class="english">This is a sable and white blue.</span></p>
 
 <p><span class="chinese">不同深浅的红色、深褐色或带有斑纹。</span><span class="english">All shades of red, sable and brindle.</span></p>

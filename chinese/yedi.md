@@ -1,5 +1,7 @@
 # 野地
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yedi.md)
+
 <p><span class="chinese">西陲野地的小溪！</span><span class="english">Wild streamlet of the West!</span></p>
 
 <p><span class="chinese">遗世独立于那片蜂儿高鸣的林间野地。</span><span class="english">And Live alone in the bee-loud glade.</span></p>

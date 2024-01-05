@@ -1,5 +1,7 @@
 # alphabetically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alphabetically.md)
+
 <p><span class="chinese">它是按照标签和字母顺序分类的。</span><span class="english">It's categorized by tags and sorted alphabetically.</span></p>
 
 <p><span class="chinese">注意属性的列表是按字母顺序分类的。</span><span class="english">Notice that the list of attributes is sorted alphabetically.</span></p>

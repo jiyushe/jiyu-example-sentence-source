@@ -1,5 +1,7 @@
 # isc
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/isc.md)
+
 <p><span class="chinese">收益率的计算是基于每季的股份级别。</span><span class="english">Yield isc alc ulated based on the quarterly share class.</span></p>
 
 <p><span class="chinese">所犯的这些错误给ISC“缺乏肌肉”的批评火上浇油。</span><span class="english">The mistakes fuelled criticism that the ISC lacked muscle.</span></p>

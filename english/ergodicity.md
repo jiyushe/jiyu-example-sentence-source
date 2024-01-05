@@ -1,5 +1,7 @@
 # ergodicity
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ergodicity.md)
+
 <p><span class="chinese">对于四阶矩估计，给出了四阶遍历条件。</span><span class="english">Conditions for the fourth-order ergodicity are given.</span></p>
 
 <p><span class="chinese">而混沌运动遍历性保证了这一局部稳定域一定可达。</span><span class="english">Due to the ergodicity of chaos, the region is certain to reach.</span></p>

@@ -1,5 +1,7 @@
 # 进来
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jinlai.md)
+
 <p><span class="chinese">请进来，爸爸。</span><span class="english">Come on in, Dad.</span></p>
 
 <p><span class="chinese">我可以进来吗?</span><span class="english">Might I come in?</span></p>

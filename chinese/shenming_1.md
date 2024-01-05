@@ -1,5 +1,7 @@
 # 申明
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shenming_1.md)
+
 <p><span class="chinese">在此我得申明几个警告。</span><span class="english">I'll issue several caveats here.</span></p>
 
 <p><span class="chinese">我郑重申明我现在是单身状态。</span><span class="english">I. I declare that I am not married.</span></p>

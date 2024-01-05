@@ -1,5 +1,7 @@
 # 公主
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongzhu.md)
+
 <p><span class="chinese">莉亚公主无所畏惧。</span><span class="english">Leia fears no one.</span></p>
 
 <p><span class="chinese">公主奥利夫殿下！</span><span class="english">Ye Princess Olive!</span></p>

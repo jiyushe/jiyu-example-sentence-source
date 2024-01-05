@@ -1,5 +1,7 @@
 # noy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/noy.md)
+
 <p><span class="chinese">闪光的东西不一定是金子。</span><span class="english">All that glitters is noy gold.</span></p>
 
 <p><span class="chinese">巧克力和糖果对牙齿不好。</span><span class="english">Chocolate and sweets noy good for you teeth.</span></p>

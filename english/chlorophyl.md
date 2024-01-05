@@ -1,5 +1,7 @@
 # chlorophyl
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chlorophyl.md)
+
 <p><span class="chinese">高压对小麦中的叶绿素含量没有明显影响。</span><span class="english">High pressure does not have obvious effect to the chlorophyl content.</span></p>
 
 <p><span class="chinese">本文介绍了叶绿素、硫化物在油脂中的存在情况。</span><span class="english">This article introduces the existing situation of chlorophyl and sulphide in oi!</span></p>

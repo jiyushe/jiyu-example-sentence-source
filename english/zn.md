@@ -1,5 +1,7 @@
 # zn
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/zn.md)
+
 <p><span class="chinese">锰肥效果好于锌肥。</span><span class="english">Effect of Mn fertilizer was higher than Zn.</span></p>
 
 <p><span class="chinese">锌合金字耐磨、印字精确，可作压凹字使用。</span><span class="english">Precision ZN types can used for embossing print.</span></p>

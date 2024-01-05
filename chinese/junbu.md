@@ -1,5 +1,7 @@
 # 军部
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/junbu.md)
+
 <p><span class="chinese">犬养让他们告诉日本军部，秦汉杰已经死亡。</span><span class="english">A dog let them tell the Japanese army, Qin Jie has died.</span></p>
 
 <p><span class="chinese">随着天色渐暗，日本军部的舞会开端了。</span><span class="english">As it was getting dark, the Japanese army party beginning.</span></p>

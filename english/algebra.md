@@ -1,5 +1,7 @@
 # algebra
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/algebra.md)
+
 <p><span class="chinese">一些线性代数。</span><span class="english">Some linear algebra.</span></p>
 
 <p><span class="chinese">所以可以将其与代数相比。</span><span class="english">So, compare it to algebra.</span></p>

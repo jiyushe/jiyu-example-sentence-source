@@ -1,5 +1,7 @@
 # nacho
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nacho.md)
+
 <p><span class="chinese">墨西哥的一种用玉米做的食物，如图。</span><span class="english">Ask them to put a nacho cheese on the popcorn.</span></p>
 
 <p><span class="chinese">奈奇和他的搭档很快就赚进大把钞票。</span><span class="english">Soon, Nacho and his partner are making a lot of money.</span></p>

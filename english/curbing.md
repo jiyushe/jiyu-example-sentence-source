@@ -1,5 +1,7 @@
 # curbing
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/curbing.md)
+
 <p><span class="chinese">约束这些政治巨头的暴行是必要的。</span><span class="english">Curbing the excesses of these powerbrokers is essential.</span></p>
 
 <p><span class="chinese">前些时候有人建议对网络加以限制，我很赞成。</span><span class="english">Not long ago somebody suggested curbing the net, I fully agree with it.</span></p>

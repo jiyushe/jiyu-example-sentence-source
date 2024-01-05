@@ -1,5 +1,7 @@
 # adieu
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/adieu.md)
+
 <p><span class="chinese">我再也不沮丧和忧郁了。</span><span class="english">Adieu to disappointment and spleen.</span></p>
 
 <p><span class="chinese">她在门口向我们挥手告别。</span><span class="english">She waved adieu to us from the doorway.</span></p>

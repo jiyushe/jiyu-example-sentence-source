@@ -1,5 +1,7 @@
 # studied
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/studied.md)
+
 <p><span class="chinese">我学习很努力。</span><span class="english">I studied hard.</span></p>
 
 <p><span class="chinese">他们对这些双胞胎进行了研究。</span><span class="english">And they studied them.</span></p>

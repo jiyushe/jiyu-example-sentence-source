@@ -1,5 +1,7 @@
 # dost
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dost.md)
+
 <p><span class="chinese">你在飘飞，你在奔波。</span><span class="english">Thou dost float and run.</span></p>
 
 <p><span class="chinese">你知道他们的住址吗？</span><span class="english">Dost thou know their address?</span></p>

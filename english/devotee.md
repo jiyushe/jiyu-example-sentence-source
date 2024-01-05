@@ -1,5 +1,7 @@
 # devotee
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/devotee.md)
+
 <p><span class="chinese">王海强是位不折不扣的“雪雕迷”。</span><span class="english">Wang is a devotee of snow sculptures.</span></p>
 
 <p><span class="chinese">他是一个热心于运动的人。</span><span class="english">He was an enthusiastic devotee of sports.</span></p>

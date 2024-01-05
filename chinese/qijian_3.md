@@ -1,5 +1,7 @@
 # 起见
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qijian_3.md)
+
 <p><span class="chinese">好，娱乐起见再试一次。</span><span class="english">Try it again, just for fun.</span></p>
 
 <p><span class="chinese">安全起见，我把杆固定住了。</span><span class="english">For security, I guyed the pole.</span></p>

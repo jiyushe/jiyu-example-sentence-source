@@ -1,5 +1,7 @@
 # villa
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/villa.md)
+
 <p><span class="chinese">院落别墅的时代之筵。</span><span class="english">Era' feast of yard villa.</span></p>
 
 <p><span class="chinese">这个别墅设计得很好。</span><span class="english">This villa is well-designed.</span></p>

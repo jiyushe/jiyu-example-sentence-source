@@ -1,5 +1,7 @@
 # 人民警察
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renminjingcha.md)
+
 <p><span class="chinese">人民警察必须做到公正执法。</span><span class="english">Police must enforce law justly.</span></p>
 
 <p><span class="chinese">在你需要人民警察的时候他们在哪里？</span><span class="english">Where are the Peoples Police when you need them?</span></p>

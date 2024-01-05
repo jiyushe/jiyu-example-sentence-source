@@ -1,5 +1,7 @@
 # 瓜分
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/guafen.md)
+
 <p><span class="chinese">他们瓜分了赢得的钱。</span><span class="english">They divvied up the winnings between them.</span></p>
 
 <p><span class="chinese">佣兵和你的手下会瓜分你的经验值吗？</span><span class="english">Do Hirelings and Minions steal your experience?</span></p>

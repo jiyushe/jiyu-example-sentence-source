@@ -1,5 +1,7 @@
 # mammon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mammon.md)
+
 <p><span class="chinese">请看稍后贪欲之神的表现。</span><span class="english">Let's look at a later manifestation of Mammon.</span></p>
 
 <p><span class="chinese">盖恩是独自下到贪婪之神的洞穴的。</span><span class="english">Guyon descends in to the cave of Mammon by himself.</span></p>

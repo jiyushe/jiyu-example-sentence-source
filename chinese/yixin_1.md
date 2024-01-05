@@ -1,5 +1,7 @@
 # 疑心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yixin_1.md)
+
 <p><span class="chinese">看来，她起了疑心。</span><span class="english">Oh, she had her suspicions.</span></p>
 
 <p><span class="chinese">他的话消除了她的疑心。</span><span class="english">His words quietened her suspicions.</span></p>

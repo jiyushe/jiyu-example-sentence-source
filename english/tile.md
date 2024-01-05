@@ -1,5 +1,7 @@
 # tile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tile.md)
+
 <p><span class="chinese">第一周瓷砖就碎了。</span><span class="english">The tile broke in the first week.</span></p>
 
 <p><span class="chinese">屋顶用瓦铺就，而地面是瓷砖打造。</span><span class="english">tiled roofs and ceramic tile floors.</span></p>

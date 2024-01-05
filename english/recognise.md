@@ -1,5 +1,7 @@
 # recognise
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recognise.md)
+
 <p><span class="chinese">我不承认任何这类事情。</span><span class="english">I recognise no such thing.</span></p>
 
 <p><span class="chinese">肓人靠触觉辩认东西。</span><span class="english">Blind people recognise things by feeling them.</span></p>

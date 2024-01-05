@@ -1,5 +1,7 @@
 # immaterial
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/immaterial.md)
+
 <p><span class="chinese">他拒绝非物质的事物。</span><span class="english">So, he denied immaterial substance.</span></p>
 
 <p><span class="chinese">灵魂是一种非物质的物体。</span><span class="english">The soul is an immaterial substance.</span></p>

@@ -1,5 +1,7 @@
 # ballista
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ballista.md)
+
 <p><span class="chinese">“石弩”的制造时间从48减少到36。</span><span class="english">Ballista build time reduced from 48 to 36.</span></p>
 
 <p><span class="chinese">加列战舰比战船更为巨大，上置弩炮或投石器。</span><span class="english">War Galleys are larger than normal galleys. Equipped with ballista or catapults.</span></p>

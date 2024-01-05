@@ -1,5 +1,7 @@
 # 轴对称
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhouduichen.md)
+
 <p><span class="chinese">它的核心部件是一个轴对称壳谐振子。</span><span class="english">Its key part is a axisymmetric shell vibra-tory.</span></p>
 
 <p><span class="chinese">建筑具浓郁楚风，呈一主两翼、中轴对称。</span><span class="english">Chu building a strong wind, was a main wings, axial symmetry.</span></p>

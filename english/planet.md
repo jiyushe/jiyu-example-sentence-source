@@ -1,5 +1,7 @@
 # planet 
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/planet.md)
+
 <p><span class="chinese">丹尼星球。</span><span class="english">Planet Denny's.</span></p>
 
 <p><span class="chinese">赛德娜是行星吗？</span><span class="english">Is Sedna a planet?</span></p>

@@ -1,5 +1,7 @@
 # naloxone
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/naloxone.md)
+
 <p><span class="chinese">结论纳络酮可以提高心肺脑复苏的抢救成功率。</span><span class="english">Conclusion naloxone can improve the success rate of CPR.</span></p>
 
 <p><span class="chinese">本发明涉及一种稳定的纳洛酮粉针剂。</span><span class="english">The present invention relates to a stable naloxone powder injection.</span></p>

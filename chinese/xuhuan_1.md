@@ -1,5 +1,7 @@
 # 虚幻
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xuhuan_1.md)
+
 <p><span class="chinese">不，我感到虚幻。</span><span class="english">No, I feel unreal.</span></p>
 
 <p><span class="chinese">然而，许多人担心，平静是虚幻的。</span><span class="english">Yet many fear that the calm is illusory.</span></p>

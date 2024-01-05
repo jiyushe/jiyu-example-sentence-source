@@ -1,5 +1,7 @@
 # servomechanism
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/servomechanism.md)
+
 <p><span class="chinese">本文研究了利用径向基神经网络辨识某型伺服机构的问题。</span><span class="english">This paper discusses the nonlinear servomechanism modeling problem using the RBF neural network.</span></p>
 
 <p><span class="chinese">随动系统——作为自动控制系统中的一类，它的应用几乎遍及社会生产各领域。</span><span class="english">The servomechanism is one of the automatic control systems, and it is applied into lots of fields.</span></p>

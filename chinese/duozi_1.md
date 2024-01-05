@@ -1,5 +1,7 @@
 # 多子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duozi_1.md)
+
 <p><span class="chinese">富人足食，穷人多子…</span><span class="english">Rich man feed, poor man breed.</span></p>
 
 <p><span class="chinese">我漏看了这步能吃掉多子的威胁着法。</span><span class="english">I overlooked this threat to capture so many pieces.</span></p>

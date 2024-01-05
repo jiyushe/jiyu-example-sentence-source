@@ -1,5 +1,7 @@
 # 母株
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/muzhu.md)
+
 <p><span class="chinese">幼株长到母株一半大小之时就能分离开来。</span><span class="english">Pups can be separated when they are about half the parent size.</span></p>
 
 <p><span class="chinese">其母株上一次开花是1992年在法兰克福棕榈花园。</span><span class="english">Its mother plant last bloomed in the Frankfurt Palm Garden in 1992.</span></p>

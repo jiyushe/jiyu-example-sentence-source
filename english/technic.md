@@ -1,5 +1,7 @@
 # technic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/technic.md)
+
 <p><span class="chinese">很好，可是需要点滑音技术。</span><span class="english">Good, but need more sliding technic.</span></p>
 
 <p><span class="chinese">高密市技工学校机械厂。</span><span class="english">Gaomi technic school machine factory.</span></p>

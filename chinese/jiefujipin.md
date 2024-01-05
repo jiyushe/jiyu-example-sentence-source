@@ -1,5 +1,7 @@
 # 劫富济贫
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiefujipin.md)
+
 <p><span class="chinese">在他们的头脑里，强盗就是劫富济贫的英雄好汉。</span><span class="english">In their minds, is the Robin Hood-like bandit hero.</span></p>
 
 <p><span class="chinese">在他们眼里，强盗就是劫富济贫的好榜样。</span><span class="english">In their eyes, the robber is maxi-cans good example.</span></p>

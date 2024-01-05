@@ -1,5 +1,7 @@
 # 一吐为快
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yituweikuai.md)
+
 <p><span class="chinese">好，我就一吐为快。</span><span class="english">All right, I'll spit it out.</span></p>
 
 <p><span class="chinese">逼得他无所适从，只好一吐为快。</span><span class="english">He had no choice except to spit it out.</span></p>

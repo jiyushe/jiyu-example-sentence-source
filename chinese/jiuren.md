@@ -1,5 +1,7 @@
 # 就任
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jiuren.md)
+
 <p><span class="chinese">任何人都可以就任何事做出预测。</span><span class="english">Anybody can predict anything.</span></p>
 
 <p><span class="chinese">西班牙人卡马乔就任中国足球教练。</span><span class="english">Camacho to coach national soccer team.</span></p>

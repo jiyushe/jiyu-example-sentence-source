@@ -1,5 +1,7 @@
 # cheeky
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/cheeky.md)
+
 <p><span class="chinese">微面露后部切。</span><span class="english">Slightly cheeky rear cut.</span></p>
 
 <p><span class="chinese">你这个无耻小友！</span><span class="english">You cheeky little fellow!</span></p>

@@ -1,5 +1,7 @@
 # etchant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/etchant.md)
+
 <p><span class="chinese">在所述蚀刻工艺期间可隔离及再循环未使用的蚀刻剂。</span><span class="english">Unused etchant may be isolated and recirculated during the etching process.</span></p>
 
 <p><span class="chinese">通常，所有暴露在刻蚀剂中的材料都具有一定的刻蚀速率。</span><span class="english">More often, all of the materials exposed to the etchant have a finite etch rate.</span></p>

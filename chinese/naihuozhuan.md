@@ -1,5 +1,7 @@
 # 耐火砖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/naihuozhuan.md)
+
 <p><span class="chinese">这一点可以用耐火砖来达到。</span><span class="english">This can be achieved by means of firebricks.</span></p>
 
 <p><span class="chinese">烤箱是用做工粗糙的近似立方形的耐火砖做的。</span><span class="english">The oven was made of a roughly built cube of fire-bricks.</span></p>

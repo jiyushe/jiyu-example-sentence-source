@@ -1,5 +1,7 @@
 # entertain
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/entertain.md)
+
 <p><span class="chinese">我不常在家请客。</span><span class="english">I don't entertain very often.</span></p>
 
 <p><span class="chinese">在语言方面取悦你的教授。</span><span class="english">Entertain your prof in the language.</span></p>

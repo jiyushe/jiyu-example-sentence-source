@@ -1,5 +1,7 @@
 # 平分秋色
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pingfenqiuse.md)
+
 <p><span class="chinese">这次差不多平分秋色了</span><span class="english">So we're roughly splitting the room.</span></p>
 
 <p><span class="chinese">副队长说，双方都踢得平分秋色。</span><span class="english">"It was a decent enough draw, " said the vice-captain.</span></p>

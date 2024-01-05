@@ -1,5 +1,7 @@
 # 咬牙切齿
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yaoyaqiechi.md)
+
 <p><span class="chinese">他咬牙切齿。</span><span class="english">He grits his teeth.</span></p>
 
 <p><span class="chinese">他咬牙切齿地诅咒。</span><span class="english">He ground out an oath.</span></p>

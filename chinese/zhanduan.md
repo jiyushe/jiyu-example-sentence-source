@@ -1,5 +1,7 @@
 # 斩断
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhanduan.md)
+
 <p><span class="chinese">我们必须齐心合力，斩断他的魔爪。</span><span class="english">We must take concerted action and cut his claws.</span></p>
 
 <p><span class="chinese">使用积极地超时策略斩断长尾</span><span class="english">Use aggressive timeouts to cut off the long tail.</span></p>

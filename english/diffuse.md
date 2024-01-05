@@ -1,5 +1,7 @@
 # diffuse
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/diffuse.md)
+
 <p><span class="chinese">责任被分散出去了。</span><span class="english">Responsibility becomes diffuse.</span></p>
 
 <p><span class="chinese">回忆定格的年间，悲伤如水般弥漫。</span><span class="english">Memory frames, sad like water diffuse.</span></p>

@@ -1,5 +1,7 @@
 # pomfret
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pomfret.md)
+
 <p><span class="chinese">来一道油浸鲳鱼如何？这是今天主厨的推荐菜。</span><span class="english">Pomfret in Oil, the Chef's Recommendation for today.</span></p>
 
 <p><span class="chinese">现在我们非常急切地寻找“银鲳”。</span><span class="english">Now we are looking for "silver pomfret" very eagerly.</span></p>

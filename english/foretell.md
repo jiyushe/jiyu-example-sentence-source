@@ -1,5 +1,7 @@
 # foretell
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/foretell.md)
+
 <p><span class="chinese">战争胜负难以预卜。</span><span class="english">The outcome of the war is hard to foretell.</span></p>
 
 <p><span class="chinese">而在2008年里我们又能看到几个“蓝天”你能预测吗？</span><span class="english">Could you foretell how many there will be in 2008?</span></p>

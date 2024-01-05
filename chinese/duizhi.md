@@ -1,5 +1,7 @@
 # 对峙
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duizhi.md)
+
 <p><span class="chinese">我还想让苹果与微软对峙。</span><span class="english">I need Apple to be harrying Microsoft.</span></p>
 
 <p><span class="chinese">两军对峙。</span><span class="english">The two armies are locked in a face-off.</span></p>

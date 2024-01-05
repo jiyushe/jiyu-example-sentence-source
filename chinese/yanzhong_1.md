@@ -1,5 +1,7 @@
 # 严重
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yanzhong_1.md)
+
 <p><span class="chinese">他有严重的腹绞痛。</span><span class="english">He had an awful colic.</span></p>
 
 <p><span class="chinese">旱情严重。</span><span class="english">The drought is serious.</span></p>

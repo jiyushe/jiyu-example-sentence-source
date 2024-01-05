@@ -1,5 +1,7 @@
 # metallographic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metallographic.md)
+
 <p><span class="chinese">金相图象特征信息提取是进行金相分析的关键。</span><span class="english">The extracting features of metallography is the key to metallographic analysis.</span></p>
 
 <p><span class="chinese">钢的组织主要由针状铁素体和马氏体两相组成。</span><span class="english">Mainly its metallographic structure consists of acicular ferrite and martensite.</span></p>

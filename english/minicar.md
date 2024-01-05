@@ -1,5 +1,7 @@
 # minicar
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/minicar.md)
+
 <p><span class="chinese">研究结果表明微型客车也可以开发成混合动力驱动模式。</span><span class="english">The result indicates that the minicar can be developed as a hybrid electric vehicle.</span></p>
 
 <p><span class="chinese">产品广泛用于微型汽车发动机，摩托车发动机及小型动力机械。</span><span class="english">Products are widely applied in minicar engine, motor enging as well as minipower maching.</span></p>

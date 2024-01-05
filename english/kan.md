@@ -1,5 +1,7 @@
 # kan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/kan.md)
+
 <p><span class="chinese">赣江风雪迷漫处。</span><span class="english">To the snow-swept River Kan.</span></p>
 
 <p><span class="chinese">遂昌凯恩大酒店真城欢迎您的到来！</span><span class="english">Welcome to the Sui Chang Kan Hotel!</span></p>

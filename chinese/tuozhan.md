@@ -1,5 +1,7 @@
 # 拓展
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuozhan.md)
+
 <p><span class="chinese">学会如何拓展人际网。</span><span class="english">Learn how to network.</span></p>
 
 <p><span class="chinese">你疯了似地拓展你的交际网。</span><span class="english">You're networking like crazy.</span></p>

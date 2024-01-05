@@ -1,5 +1,7 @@
 # equate
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/equate.md)
+
 <p><span class="chinese">你是否把爱情与痛苦等同起来了？</span><span class="english">Do you equate love with pain?</span></p>
 
 <p><span class="chinese">我们不能把强权视为公理。</span><span class="english">We cannot equate might with right.</span></p>

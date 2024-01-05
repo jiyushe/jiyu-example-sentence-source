@@ -1,5 +1,7 @@
 # watercraft
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/watercraft.md)
+
 <p><span class="chinese">搬运，运输在用船桨推动的船只内输送。</span><span class="english">To convey in a watercraft propelled by paddles.</span></p>
 
 <p><span class="chinese">作为一个船体一节，快艇和高速水性一般。</span><span class="english">As a hull section for speedboats and high speed watercraft generally.</span></p>

@@ -1,5 +1,7 @@
 # battledore
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/battledore.md)
+
 <p><span class="chinese">经营各类网球拍、羽毛球拍及配套用品。</span><span class="english">Manage of all kinds tennis racket, battledore and things of form a complete set.</span></p>
 
 <p><span class="chinese">从彪彪的朋友那里拿来了羽毛球拍，所以可以打我喜欢的羽毛球了。</span><span class="english">With the battledore borrowed from Andy's friend, I can play my favorite badminton.</span></p>

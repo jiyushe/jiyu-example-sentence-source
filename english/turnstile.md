@@ -1,5 +1,7 @@
 # turnstile
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/turnstile.md)
+
 <p><span class="chinese">对不起，请问为什么我通不过闸机？</span><span class="english">Excuse me, I can not pass the turnstile.</span></p>
 
 <p><span class="chinese">不要试图解除您的自行车在旋转。</span><span class="english">Do not try to lift your bicycle over the turnstile.</span></p>

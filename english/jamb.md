@@ -1,5 +1,7 @@
 # jamb
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/jamb.md)
+
 <p><span class="chinese">晚上，杰可伯在港口徘徊。</span><span class="english">At night, Jamb hung about at the harbor.</span></p>
 
 <p><span class="chinese">然而，塞缪尔·约翰逊的jamb赢得了胜利。</span><span class="english">However, Samuel Johnson’s jamb won the day.</span></p>

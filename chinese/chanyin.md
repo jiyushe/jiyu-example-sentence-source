@@ -1,5 +1,7 @@
 # 颤音
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chanyin.md)
+
 <p><span class="chinese">她用颤音唱了一首歌。</span><span class="english">She trilled a song.</span></p>
 
 <p><span class="chinese">他用颤音发“r”音。</span><span class="english">He trilled the letter “r”.</span></p>

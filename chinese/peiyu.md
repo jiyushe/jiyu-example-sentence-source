@@ -1,5 +1,7 @@
 # 培育
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/peiyu.md)
+
 <p><span class="chinese">培育它们。</span><span class="english">Cultivate them.</span></p>
 
 <p><span class="chinese">他培育热带鱼。</span><span class="english">He breeds tropical fish.</span></p>

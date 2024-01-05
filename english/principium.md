@@ -1,5 +1,7 @@
 # principium
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/principium.md)
+
 <p><span class="chinese">具备PCB接线图，和线路图的阅读能力者优先。</span><span class="english">Ability to read PCB wiring and principium diagram as plus.</span></p>
 
 <p><span class="chinese">主要介绍医用回旋加速器的基本原理与结构。</span><span class="english">This paper mainly introduces the principium and structure of the medical cyclotron.</span></p>

@@ -1,5 +1,7 @@
 # 殃及
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yangji.md)
+
 <p><span class="chinese">禁运只会殃及无辜的百姓。</span><span class="english">The embargo would only hurt innocent civilians.</span></p>
 
 <p><span class="chinese">BBC在现场的一辆转播车被殃及。</span><span class="english">BBC broadcast at the scene of a car are affected.</span></p>

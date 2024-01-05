@@ -1,5 +1,7 @@
 # carmen
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/carmen.md)
+
 <p><span class="chinese">卡门·艾尔茜拉·萨拉扎尔。</span><span class="english">Carmen Elcira Salazar.</span></p>
 
 <p><span class="chinese">卡门·艾尔茜拉咳嗽了一声。</span><span class="english">Carmen Elcira coughed.</span></p>

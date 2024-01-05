@@ -1,5 +1,7 @@
 # 机灵鬼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jilinggui.md)
+
 <p><span class="chinese">你是一个机灵鬼。</span><span class="english">U is a smart boy.</span></p>
 
 <p><span class="chinese">他是一个小机灵鬼。</span><span class="english">He is a smart boy.</span></p>

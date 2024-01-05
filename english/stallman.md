@@ -1,5 +1,7 @@
 # stallman
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stallman.md)
+
 <p><span class="chinese">是的，就是那个理查德斯托曼。</span><span class="english">Yes, that Richard Stallman.</span></p>
 
 <p><span class="chinese">斯托尔曼表示这可能只需要两三个月的时间。</span><span class="english">Stallman said it should take only a couple of months.</span></p>

@@ -1,5 +1,7 @@
 # 人品
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renpin.md)
+
 <p><span class="chinese">人品还是样子容貌啊？</span><span class="english">Person'sity or looks?</span></p>
 
 <p><span class="chinese">弗里克先生是个善于判断人品的人。</span><span class="english">Mr. Frick is a good judge of character.</span></p>

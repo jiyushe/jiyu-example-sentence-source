@@ -1,5 +1,7 @@
 # abnegation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/abnegation.md)
+
 <p><span class="chinese">他们讨论否认上帝。</span><span class="english">They discussed the abnegation of God.</span></p>
 
 <p><span class="chinese">生命是为了达到极乐的涅磐而摒弃自身。</span><span class="english">Life is the abnegation of self to gain the bliss of Nirvana.</span></p>

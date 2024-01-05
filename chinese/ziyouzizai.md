@@ -1,5 +1,7 @@
 # 自由自在
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ziyouzizai.md)
+
 <p><span class="chinese">这里真的让人感到自由自在，</span><span class="english">It's really liberal</span></p>
 
 <p><span class="chinese">皮皮的生活是多么无拘无束，自由自在！</span><span class="english">Pipi how life is free, free!</span></p>

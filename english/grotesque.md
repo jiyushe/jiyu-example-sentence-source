@@ -1,5 +1,7 @@
 # grotesque
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/grotesque.md)
+
 <p><span class="chinese">尼日利亚的电力供应现状很是滑稽。</span><span class="english">The situation is grotesque.</span></p>
 
 <p><span class="chinese">里面是古怪的方块字。</span><span class="english">In square, grotesque characters.</span></p>

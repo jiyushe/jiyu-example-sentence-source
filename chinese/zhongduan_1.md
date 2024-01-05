@@ -1,5 +1,7 @@
 # 中段
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhongduan_1.md)
+
 <p><span class="chinese">不要忽视管的中段。</span><span class="english">Don't neglect the middles of tubes.</span></p>
 
 <p><span class="chinese">正常精子有一个头、中段和一个尾巴。</span><span class="english">Normal sperm have a head, mid-piece and a tail.</span></p>

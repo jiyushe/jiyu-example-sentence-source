@@ -1,5 +1,7 @@
 # 篡权
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/cuanquan.md)
+
 <p><span class="chinese">他用卑鄙的手段得以篡权。</span><span class="english">He usurped power by contemptible measures.</span></p>
 
 <p><span class="chinese">他们所处的地位使其得以篡权。</span><span class="english">Their position enabled them to usurp power.</span></p>

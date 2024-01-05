@@ -1,5 +1,7 @@
 # worldly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/worldly.md)
+
 <p><span class="chinese">李看到的是一个更世俗的未来。</span><span class="english">Li saw a more worldly future.</span></p>
 
 <p><span class="chinese">喜爱世俗的享乐。</span><span class="english">He is fond of worldly enjoyments.</span></p>

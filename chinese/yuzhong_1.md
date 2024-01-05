@@ -1,5 +1,7 @@
 # 语种
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yuzhong_1.md)
+
 <p><span class="chinese">多语种索引与停止的话免职。</span><span class="english">Multilingual indexing with stop words removal.</span></p>
 
 <p><span class="chinese">日文在图书馆编目语种中属于小语种。</span><span class="english">Japanese in the library cataloguing is not used frequently.</span></p>

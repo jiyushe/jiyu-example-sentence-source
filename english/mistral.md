@@ -1,5 +1,7 @@
 # mistral
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mistral.md)
+
 <p><span class="chinese">安提贝风景，寒冷的西北风，1888。</span><span class="english">Antibes, View of the Cap, Mistral Wind, c. 1888</span></p>
 
 <p><span class="chinese">但是，米斯特拉说，人们对美国的看法很重要。</span><span class="english">But, Mistral says, perception counts for a lot.</span></p>

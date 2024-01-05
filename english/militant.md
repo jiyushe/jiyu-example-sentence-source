@@ -1,5 +1,7 @@
 # militant
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/militant.md)
+
 <p><span class="chinese">他在那次运动中是个激进人物。</span><span class="english">He is a militant in the movement.</span></p>
 
 <p><span class="chinese">湖南农民变得非常富有战斗性。</span><span class="english">The hunanese peasantry became very militant.</span></p>

@@ -1,5 +1,7 @@
 # waitress
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/waitress.md)
+
 <p><span class="chinese">简找到了一份当服务员的工作.</span><span class="english">Jane got a job as a waitress.</span></p>
 
 <p><span class="chinese">珍妮是这间酒吧的女侍者。</span><span class="english">Jane is a waitress at the bar.</span></p>

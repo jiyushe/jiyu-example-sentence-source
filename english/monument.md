@@ -1,5 +1,7 @@
 # monument
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/monument.md)
+
 <p><span class="chinese">现在，奈保尔有了他丰碑式的正传。</span><span class="english">Now Naipaul has his monument.</span></p>
 
 <p><span class="chinese">广场上亭亭耸立着一座纪念塔。</span><span class="english">A monument stands on the square.</span></p>

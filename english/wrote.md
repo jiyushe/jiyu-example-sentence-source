@@ -1,5 +1,7 @@
 # wrote
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/wrote.md)
+
 <p><span class="chinese">我是为他写的。</span><span class="english">I wrote for him.</span></p>
 
 <p><span class="chinese">他所写如次。</span><span class="english">He wrote as follows.</span></p>

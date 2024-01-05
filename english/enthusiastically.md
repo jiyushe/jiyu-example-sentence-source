@@ -1,5 +1,7 @@
 # enthusiastically
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enthusiastically.md)
+
 <p><span class="chinese">我做事非常热心。</span><span class="english">I approach things very enthusiastically.</span></p>
 
 <p><span class="chinese">和观众热烈响应。</span><span class="english">And, audiences responded enthusiastically.</span></p>

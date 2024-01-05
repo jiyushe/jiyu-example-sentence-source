@@ -1,5 +1,7 @@
 # seep
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/seep.md)
+
 <p><span class="chinese">苹果醮毒，让死之沉睡渗入。</span><span class="english">Let the sleeping death seep through.</span></p>
 
 <p><span class="chinese">血开始从绷带上渗出来。</span><span class="english">Blood was beginning to seep through the bandages.</span></p>

@@ -1,5 +1,7 @@
 # alteration
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/alteration.md)
+
 <p><span class="chinese">他同意作一些改动。</span><span class="english">He consented to make a few alteration.</span></p>
 
 <p><span class="chinese">改建后的声强分布。</span><span class="english">Sound intensity distribution after alteration.</span></p>

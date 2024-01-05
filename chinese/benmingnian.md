@@ -1,5 +1,7 @@
 # 本命年
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/benmingnian.md)
+
 <p><span class="chinese">你问别人的本命年是哪一年。</span><span class="english">You ask others' animal year.</span></p>
 
 <p><span class="chinese">今年是我的本命年。</span><span class="english">This year is my year of fate.</span></p>

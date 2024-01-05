@@ -1,5 +1,7 @@
 # nonsense
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nonsense.md)
+
 <p><span class="chinese">这全总都是胡说。</span><span class="english">It's all nonsense.</span></p>
 
 <p><span class="chinese">别胡说了。</span><span class="english">Stop saying nonsense.</span></p>

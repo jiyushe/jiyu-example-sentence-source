@@ -1,5 +1,7 @@
 # dravidian
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/dravidian.md)
+
 <p><span class="chinese">印度南部中心的贡迪人所说的德拉维甸语。</span><span class="english">Dravidian language spoken by the Gond people in S central India.</span></p>
 
 <p><span class="chinese">梵语和德拉威语也是相互影响。</span><span class="english">There has also been reciprocal influence between Sanskrit and the Dravidian languages.</span></p>

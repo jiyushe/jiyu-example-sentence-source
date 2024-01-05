@@ -1,5 +1,7 @@
 # treacle
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/treacle.md)
+
 <p><span class="chinese">啜饮密糖的苍蝇在甜蜜中丧生。</span><span class="english">The fly that sips treacle is lost in the sweet.</span></p>
 
 <p><span class="chinese">大概对糖蜜这样的人来说它还是很像样的球拍。</span><span class="english">Probably still a decentracquet for someone like Treacle.</span></p>

@@ -1,5 +1,7 @@
 # clerisy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/clerisy.md)
+
 <p><span class="chinese">“有闲阶级”的理论构成了理解魏晋士人形象生成的一个角度。</span><span class="english">Based on above analysis, we make a summarization to the image of the clerisy of Wei-Jin.</span></p>
 
 <p><span class="chinese">笔者深感作为本民族的知识分子更肩负着继承、发展、弘扬民族文化的历史使命。</span><span class="english">As a clerisy of Wa, I deeply felt that we must shoulder our fate which is carrying, inheriting, and developing Wa Culture.</span></p>

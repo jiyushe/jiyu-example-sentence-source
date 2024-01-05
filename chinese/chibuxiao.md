@@ -1,5 +1,7 @@
 # 吃不消
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chibuxiao.md)
+
 <p><span class="chinese">天太热，连慢慢散步都吃不消。</span><span class="english">It was too hot even for a gentle stroll.</span></p>
 
 <p><span class="chinese">太多的重复在心理上或吃不消。</span><span class="english">Too much repetition is hard on the mind.</span></p>

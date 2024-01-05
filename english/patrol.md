@@ -1,5 +1,7 @@
 # patrol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patrol.md)
+
 <p><span class="chinese">他迅速的跑回家去取他的巡逻警车。</span><span class="english">He hurried home to get his patrol car.</span></p>
 
 <p><span class="chinese">停下，座着，等雪场巡逻车。</span><span class="english">Stop, sit, and wait for the ski patrol.</span></p>

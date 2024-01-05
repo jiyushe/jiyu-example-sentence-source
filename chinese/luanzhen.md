@@ -1,5 +1,7 @@
 # 乱真
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/luanzhen.md)
+
 <p><span class="chinese">他编造了一个足以乱真的借口来欺骗我们。</span><span class="english">He invented a likely excuse to cheat us.</span></p>
 
 <p><span class="chinese">鱼饵游姿测试达到印假乱真的效果。</span><span class="english">The swim posture is similar to the real fish.</span></p>

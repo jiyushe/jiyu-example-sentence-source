@@ -1,5 +1,7 @@
 # 土木工程
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tumugongcheng.md)
+
 <p><span class="chinese">光纤传感器在土木工程中的应用。</span><span class="english">Fiber optic sensors in the Waterbury Bridge.</span></p>
 
 <p><span class="chinese">这个水平可能与土木工程和桥梁学,一百年前的研究水平相同</span><span class="english">We're maybe where civil engineering and bridge building was 100 years ago.</span></p>

@@ -1,5 +1,7 @@
 # 信噪比
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinzaobi.md)
+
 <p><span class="chinese">如使用相近或议员的限制，如信噪比，彼岸。</span><span class="english">Use titles such as Mr or qualifiers such as Snr, Esq.</span></p>
 
 <p><span class="chinese">并建立了一个高信噪比的单路检测系统。</span><span class="english">And a single way detection system with higher SNR is set up.</span></p>

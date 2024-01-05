@@ -1,5 +1,7 @@
 # 封杀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengsha.md)
+
 <p><span class="chinese">艺术却被当局封杀、钳口。</span><span class="english">And art made tongue-tied by authority.</span></p>
 
 <p><span class="chinese">那么，这种审查封杀了什么呢？</span><span class="english">So what did this censorship amount to?</span></p>

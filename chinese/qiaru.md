@@ -1,5 +1,7 @@
 # 恰如
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qiaru.md)
+
 <p><span class="chinese">他恰如猫一样轻巧地爬上树。</span><span class="english">He climbed the tree exactly like a cat.</span></p>
 
 <p><span class="chinese">这恰如我今天的臩努力。</span><span class="english">So it will be with my efforts of today.</span></p>

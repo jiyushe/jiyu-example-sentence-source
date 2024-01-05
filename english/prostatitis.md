@@ -1,5 +1,7 @@
 # prostatitis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/prostatitis.md)
+
 <p><span class="chinese">慢性前列腺炎是青壮年男性的常见病、多发病。</span><span class="english">Chronic prostatitis is a common disease in male.</span></p>
 
 <p><span class="chinese">得了前列腺炎有感觉吗？什么感觉？</span><span class="english">Got prostatitis to there is a feeling? What feeling?</span></p>

@@ -1,5 +1,7 @@
 # continuum
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/continuum.md)
+
 <p><span class="chinese">幸福存在于一个连续统一体。</span><span class="english">Happiness resides on a continuum.</span></p>
 
 <p><span class="chinese">再强调下,是连续的策略空间</span><span class="english">So there's a continuum of strategies.</span></p>

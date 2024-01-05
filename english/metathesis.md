@@ -1,5 +1,7 @@
 # metathesis
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metathesis.md)
+
 <p><span class="chinese">什么是同化、异化和换位？</span><span class="english">What is assimilation, dissimilation and metathesis?</span></p>
 
 <p><span class="chinese">协议额函数来找到词典中所有的这样的交换对。</span><span class="english">Write a program that finds all of the metathesis pairs in the dictionary.</span></p>

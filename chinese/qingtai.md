@@ -1,5 +1,7 @@
 # 情态
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingtai.md)
+
 <p><span class="chinese">学习所有的“情态”。</span><span class="english">Learn all the "moods."</span></p>
 
 <p><span class="chinese">是一个情态动词。</span><span class="english">"Can" is a modal verb.</span></p>

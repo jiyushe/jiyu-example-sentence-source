@@ -1,5 +1,7 @@
 # incompletely
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/incompletely.md)
+
 <p><span class="chinese">他们的说法很有意思，但我不完全明白。</span><span class="english">Their view is very interesting, but I incompletely understood.</span></p>
 
 <p><span class="chinese">这个参数会取代不完全执行的IWOPTS选项。</span><span class="english">This supercedes the IWOPTS option which was incompletely implemented.</span></p>

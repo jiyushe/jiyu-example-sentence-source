@@ -1,5 +1,7 @@
 # gummy
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gummy.md)
+
 <p><span class="chinese">斯洛特喝了一匙粘糊糊的苏格兰肉汤。</span><span class="english">Slote took a spoonful of gummy Scotch broth.</span></p>
 
 <p><span class="chinese">我们大量求购糖果，巧克力产品。</span><span class="english">We buy gummy lollies and chocolate to supermarkets.</span></p>

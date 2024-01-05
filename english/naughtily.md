@@ -1,5 +1,7 @@
 # naughtily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/naughtily.md)
+
 <p><span class="chinese">迈克尔淘气地喊。</span><span class="english">Michael cried naughtily.</span></p>
 
 <p><span class="chinese">雪花飘落下来调皮。</span><span class="english">Snowflakes fall down naughtily.</span></p>

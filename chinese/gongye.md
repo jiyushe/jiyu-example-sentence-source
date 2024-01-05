@@ -1,5 +1,7 @@
 # 工业
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gongye.md)
+
 <p><span class="chinese">铁合金工业。</span><span class="english">Iron Alloy Industry.</span></p>
 
 <p><span class="chinese">炼铝工业。</span><span class="english">The aluminum industry.</span></p>

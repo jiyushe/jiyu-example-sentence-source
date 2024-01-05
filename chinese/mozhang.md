@@ -1,5 +1,7 @@
 # 魔杖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mozhang.md)
+
 <p><span class="chinese">你的魔杖？</span><span class="english">Your magic wand of dereferencing?</span></p>
 
 <p><span class="chinese">“永不会输的魔杖，哈利！”罗恩抱怨道。</span><span class="english">"The unbeatable wand, Harry! " moaned Ron.</span></p>

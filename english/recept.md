@@ -1,5 +1,7 @@
 # recept
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/recept.md)
+
 <p><span class="chinese">你能给张收据我吗？</span><span class="english">Can you give me the recept ?</span></p>
 
 <p><span class="chinese">给出了基本配方。</span><span class="english">Their basic recept is presented.</span></p>

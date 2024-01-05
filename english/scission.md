@@ -1,5 +1,7 @@
 # scission
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/scission.md)
+
 <p><span class="chinese">白油的断链为一级反应。</span><span class="english">The reaction of chain scission is first-order reaction.</span></p>
 
 <p><span class="chinese">而材料在氧化的同时，会使分子产生断链。</span><span class="english">In the mean time, the oxidation of the material will cause chain scission.</span></p>

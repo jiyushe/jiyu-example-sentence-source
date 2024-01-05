@@ -1,5 +1,7 @@
 # connivance
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/connivance.md)
+
 <p><span class="chinese">但西方的卷入或者说默许在这些事件中也鲜有缺席。</span><span class="english">But Western involvement or connivance in these was also rarely absent.</span></p>
 
 <p><span class="chinese">我们的问题是，行贿受贿成为社会默认的潜规则。</span><span class="english">Our problem is, bribery has become a hidden regulation of society connivance.</span></p>

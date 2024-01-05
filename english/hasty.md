@@ -1,5 +1,7 @@
 # hasty
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hasty.md)
+
 <p><span class="chinese">爱得匆忙冷得快。</span><span class="english">Hasty love,soon cold.</span></p>
 
 <p><span class="chinese">她匆匆吃了午餐。</span><span class="english">She made a hasty lunch.</span></p>

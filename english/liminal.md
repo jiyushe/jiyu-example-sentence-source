@@ -1,5 +1,7 @@
 # liminal
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/liminal.md)
+
 <p><span class="chinese">这些思考是有阶段性的。</span><span class="english">These mental thoughts are liminal phases.</span></p>
 
 <p><span class="chinese">花腰傣社会是一个结构力量薄弱，张力微小，缺乏阈限社会。</span><span class="english">This society lacks structural tension. "liminal" and "anti-structure" are absent here.</span></p>

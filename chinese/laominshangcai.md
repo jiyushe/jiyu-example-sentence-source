@@ -1,5 +1,7 @@
 # 劳民伤财
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/laominshangcai.md)
+
 <p><span class="chinese">批评者说，大坝劳民伤财，又不利于生态环境。</span><span class="english">Critics say the dams are ecologically unsound white elephants.</span></p>
 
 <p><span class="chinese">综上来看，解放金融部门、摒弃劳民伤财的能源补贴会是个不错的开端。</span><span class="english">Liberalising financial sectors and scrapping wasteful fuel subsidies would be good ways to begin.</span></p>

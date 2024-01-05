@@ -1,5 +1,7 @@
 # 走过场
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zouguochang.md)
+
 <p><span class="chinese">这种事我们一般走走过场就完了。</span><span class="english">Such thing is all about routines.</span></p>
 
 <p><span class="chinese">如今，我甚至不愿去“走过场”。</span><span class="english">Now I don't even go through the motions.</span></p>

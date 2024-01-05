@@ -1,5 +1,7 @@
 # 风口浪尖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fengkoulangjian.md)
+
 <p><span class="chinese">我们正处于一场重大变革的风口浪尖。</span><span class="english">We are on the cuspof a major revolution.</span></p>
 
 <p><span class="chinese">美国的抵押信贷机构又一次站在了丑闻的风口浪尖。</span><span class="english">America’s mortgage leaders are again at the center of a scandal.</span></p>

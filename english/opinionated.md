@@ -1,5 +1,7 @@
 # opinionated
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/opinionated.md)
+
 <p><span class="chinese">你过分固执己见了。</span><span class="english">You're overly opinionated.</span></p>
 
 <p><span class="chinese">由于她冥顽不化的思想</span><span class="english">Because of her opinionated mind</span></p>

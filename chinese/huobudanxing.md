@@ -1,5 +1,7 @@
 # 祸不单行
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/huobudanxing.md)
+
 <p><span class="chinese">福无双至，祸不单行。</span><span class="english">Troubles not go singly.</span></p>
 
 <p><span class="chinese">祸不单行。学英语有问必答。</span><span class="english">Misfortunes never come singly.</span></p>

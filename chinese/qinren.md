@@ -1,5 +1,7 @@
 # 亲人
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qinren.md)
+
 <p><span class="chinese">寄语亲人报喜讯。</span><span class="english">Send our dear ones the happy news.</span></p>
 
 <p><span class="chinese">我想让自己，让亲人，让朋友们看到我的成长。</span><span class="english">I'll do my best to get staight A's.</span></p>

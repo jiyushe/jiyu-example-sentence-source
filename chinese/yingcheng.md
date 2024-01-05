@@ -1,5 +1,7 @@
 # 应承
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yingcheng.md)
+
 <p><span class="chinese">这么说来，我以为你是不应承。</span><span class="english">I take it you don't consent.</span></p>
 
 <p><span class="chinese">这位寡妇母亲毫不犹豫的应承了。</span><span class="english">The widowed mother readily agreed.</span></p>

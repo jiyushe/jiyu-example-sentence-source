@@ -1,5 +1,7 @@
 # 少男
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shaonan.md)
+
 <p><span class="chinese">生活是少男捉寻寻。</span><span class="english">Life is a lad that seeks.</span></p>
 
 <p><span class="chinese">他们还是青少男。</span><span class="english">They are still teenagers.</span></p>

@@ -1,5 +1,7 @@
 # 一刹那
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yichana.md)
+
 <p><span class="chinese">那一刹那是惊天动地的。</span><span class="english">It was a terrible moment.</span></p>
 
 <p><span class="chinese">那一刹那本身通常是简单的。</span><span class="english">The moment by itself is always simple.</span></p>

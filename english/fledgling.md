@@ -1,5 +1,7 @@
 # fledgling
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/fledgling.md)
+
 <p><span class="chinese">我当时是个菜鸟钢琴手</span><span class="english">I was a fledgling pianist.</span></p>
 
 <p><span class="chinese">这个没经验的人总是顶撞他的老板。</span><span class="english">The fledgling man always offends his boss.</span></p>

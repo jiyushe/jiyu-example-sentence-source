@@ -1,5 +1,7 @@
 # metazoan
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/metazoan.md)
+
 <p><span class="chinese">因素决定的寿命后生动物。</span><span class="english">Factors determine the lifespan of metazoan animals.</span></p>
 
 <p><span class="chinese">后来听说周围一些人，保胎后生的宝宝，都挺好的。</span><span class="english">Later I heard some people around, Baotai Metazoan children could hang good.</span></p>

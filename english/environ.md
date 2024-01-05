@@ -1,5 +1,7 @@
 # environ
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/environ.md)
+
 <p><span class="chinese">树木环绕着那个院子。</span><span class="english">Trees environ the yard.</span></p>
 
 <p><span class="chinese">这是环境科学工作者唯一正确的选择。</span><span class="english">This is only choice for worker on environ mental science.</span></p>

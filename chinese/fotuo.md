@@ -1,5 +1,7 @@
 # 佛陀
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/fotuo.md)
+
 <p><span class="chinese">是什么？佛陀舍利。</span><span class="english">What is it? Buddha Sarira.</span></p>
 
 <p><span class="chinese">难道佛陀过闷气爸爸？</span><span class="english">Did The Buddha ever sulk Daddy?</span></p>

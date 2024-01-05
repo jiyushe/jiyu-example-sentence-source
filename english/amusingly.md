@@ -1,5 +1,7 @@
 # amusingly
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/amusingly.md)
+
 <p><span class="chinese">有趣的是，他没有向我说明他的立场。</span><span class="english">Amusingly , he did not explain his position to me.</span></p>
 
 <p><span class="chinese">有趣不过，错过这两个目标的企图。</span><span class="english">Amusingly though, it misses both of the attempted targets.</span></p>

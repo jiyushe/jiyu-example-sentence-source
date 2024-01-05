@@ -1,5 +1,7 @@
 # guinness
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/guinness.md)
+
 <p><span class="chinese">这间酒吧有桶装的吉尼斯黑生啤。</span><span class="english">This bar has Guinness beer on draught.</span></p>
 
 <p><span class="chinese">他递交给吉尼斯的录像带就有26盘。</span><span class="english">It took 26 video tapes to submit to Guinness.</span></p>

@@ -1,5 +1,7 @@
 # stair
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stair.md)
+
 <p><span class="chinese">房屋入口处的天桥和阶梯外观。</span><span class="english">Exterior entry bridge and stair.</span></p>
 
 <p><span class="chinese">然后我会在模拟爬楼的器械练30分钟。</span><span class="english">Then I'll do 30 minutes on a stair mill.</span></p>

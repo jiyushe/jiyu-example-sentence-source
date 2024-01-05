@@ -1,5 +1,7 @@
 # gadgetry
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/gadgetry.md)
+
 <p><span class="chinese">他们的办法，小玩意儿，是第一个开发产品，然后创建它的需要。</span><span class="english">Their approach to gadgetry is to develop the product first, then create the need for it.</span></p>
 
 <p><span class="chinese">该机构曾在2007年的考试中做过实验，发现作弊现象大幅减少。</span><span class="english">The new gadgetry was trialed in 2007 and incidents of cheating were dramatically reduced.</span></p>

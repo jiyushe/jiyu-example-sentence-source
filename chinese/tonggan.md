@@ -1,5 +1,7 @@
 # 同感
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tonggan.md)
+
 <p><span class="chinese">詹姆斯对此深有同感。</span><span class="english">James feels the same way.</span></p>
 
 <p><span class="chinese">他听到一声颇有同感的叹气声。</span><span class="english">He heard an I-thought-so sigh.</span></p>

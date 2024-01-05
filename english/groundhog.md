@@ -1,5 +1,7 @@
 # groundhog
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/groundhog.md)
+
 <p><span class="chinese">今天2月2日，是土拨鼠日。</span><span class="english">Today, February 2, is Groundhog Day.</span></p>
 
 <p><span class="chinese">我把话筒靠在蕾露的地窑上。</span><span class="english">I leaned the microphone up against Raylou's groundhog kiln.</span></p>

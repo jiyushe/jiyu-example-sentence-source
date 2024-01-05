@@ -1,5 +1,7 @@
 # 购销
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/gouxiao.md)
+
 <p><span class="chinese">已达成购物方向后，销售人员和客户签署购销合同。</span><span class="english">Have reached a shopping direction, sales and customers purchase contract signed.</span></p>
 
 <p><span class="chinese">消费者的需要和欲望在市场购销活动中起着主导作用。</span><span class="english">Consumers' requirements and desires play a leading part in buying and selling goods.</span></p>

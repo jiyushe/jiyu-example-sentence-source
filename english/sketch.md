@@ -1,5 +1,7 @@
 # sketch
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sketch.md)
+
 <p><span class="chinese">那么如果我们把那画个草图。</span><span class="english">So if we just sketch that.</span></p>
 
 <p><span class="chinese">它像不像一个画板？</span><span class="english">Is it like an Etch-a Sketch?</span></p>

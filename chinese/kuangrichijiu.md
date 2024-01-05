@@ -1,5 +1,7 @@
 # 旷日持久
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kuangrichijiu.md)
+
 <p><span class="chinese">大约2500年以前，有一场旷日持久的战争。</span><span class="english">About 2500 years ago there was a very long war.</span></p>
 
 <p><span class="chinese">与艾滋病的斗争将会是一场旷日持久的拉锯战。</span><span class="english">The fight against AIDS will be a long drawn fight.</span></p>

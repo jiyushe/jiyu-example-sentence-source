@@ -1,5 +1,7 @@
 # thatcher
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/thatcher.md)
+
 <p><span class="chinese">不过，撒切尔还是以自己的准绳贯彻实施了法律。</span><span class="english">Thatcher laid down the law.</span></p>
 
 <p><span class="chinese">热情而真实但不正常的撒切尔的粉丝们。</span><span class="english">Strong and true and not natural fans of Thatcher.</span></p>

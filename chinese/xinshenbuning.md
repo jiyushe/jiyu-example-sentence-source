@@ -1,5 +1,7 @@
 # 心神不宁
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xinshenbuning.md)
+
 <p><span class="chinese">但在我而言，上帝心神不宁。</span><span class="english">But in my case, God was distracted.</span></p>
 
 <p><span class="chinese">我在面谈前总心神不宁。</span><span class="english">I always get the collywobbles before an interview.</span></p>

@@ -1,5 +1,7 @@
 # acquirement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/acquirement.md)
+
 <p><span class="chinese">有些父母总爱夸耀自己孩子的才能。</span><span class="english">Some parents always boast of their childrens acquirement.</span></p>
 
 <p><span class="chinese">数据采集的一般原理及其在本系统中的应用。</span><span class="english">Principle of data acquirement and its application in our system.</span></p>

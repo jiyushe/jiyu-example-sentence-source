@@ -1,5 +1,7 @@
 # 三合会
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/sanhehui.md)
+
 <p><span class="chinese">他们有黑手党，我们有三合会。</span><span class="english">They have their cosa nostra, we have our triads.</span></p>
 
 <p><span class="chinese">陶驷驹还邀请三合会到大陆投资设厂。</span><span class="english">Mr. Tao also invited the triads to set up businesses in China.</span></p>

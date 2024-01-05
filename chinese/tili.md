@@ -1,5 +1,7 @@
 # 体力
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tili.md)
+
 <p><span class="chinese">我感觉自己体力充沛。</span><span class="english">And I have lots of energy.</span></p>
 
 <p><span class="chinese">我父亲是一个体力劳动者。</span><span class="english">My father was a workingman.</span></p>

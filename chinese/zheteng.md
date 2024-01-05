@@ -1,5 +1,7 @@
 # 折腾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zheteng.md)
+
 <p><span class="chinese">他被烦恼折腾得心情沈重。</span><span class="english">The trouble weighed him down.</span></p>
 
 <p><span class="chinese">我没时间在这儿瞎折腾了。</span><span class="english">I just don't have time for this.</span></p>

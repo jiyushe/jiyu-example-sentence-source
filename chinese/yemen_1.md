@@ -1,5 +1,7 @@
 # 爷们
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/yemen_1.md)
+
 <p><span class="chinese">祝所有群内的爷们自安天命！</span><span class="english">Wish all Yes in the flock a day a life from Anne!</span></p>
 
 <p><span class="chinese">乖乖跟爷们上京里去吧！</span><span class="english">Obediently to Beijing where a with the menfolk go!</span></p>

@@ -1,5 +1,7 @@
 # meantime
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/meantime.md)
+
 <p><span class="chinese">而同时他在往手枪里装子弹。</span><span class="english">Meantime he was loading the pistols.</span></p>
 
 <p><span class="chinese">古庙、亭台点缀其间。</span><span class="english">Temple, pavilions dotted the meantime.</span></p>

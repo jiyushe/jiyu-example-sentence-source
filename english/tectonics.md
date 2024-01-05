@@ -1,5 +1,7 @@
 # tectonics
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/tectonics.md)
+
 <p><span class="chinese">他也解释了所谓的“肉类构造论”。</span><span class="english">He also explained "meat tectonics".</span></p>
 
 <p><span class="chinese">板块构造理论是古板块分区的基础。</span><span class="english">The theory of plate tectonics is the division of palaeo-plates.</span></p>

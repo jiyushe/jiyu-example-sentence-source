@@ -1,5 +1,7 @@
 # surgeon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/surgeon.md)
+
 <p><span class="chinese">他是个心脏外科医生。</span><span class="english">He is a cardiac surgeon.</span></p>
 
 <p><span class="chinese">所以，她成了外科医生。</span><span class="english">So, she became a surgeon.</span></p>

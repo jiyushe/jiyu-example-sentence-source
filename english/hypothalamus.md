@@ -1,5 +1,7 @@
 # hypothalamus
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/hypothalamus.md)
+
 <p><span class="chinese">下视丘的病变也会造成尿崩症。</span><span class="english">Disorders of the hypothalamus are one cause of diabetes insipidus.</span></p>
 
 <p><span class="chinese">丘脑下部及脑干功能基本保存。</span><span class="english">Functions of the hypothalamus and brainstem are basically preserved.</span></p>

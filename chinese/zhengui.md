@@ -1,5 +1,7 @@
 # 珍贵
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhengui.md)
+
 <p><span class="chinese">它是很珍贵的。</span><span class="english">It's precious.</span></p>
 
 <p><span class="chinese">而对于我，它是珍贵的。</span><span class="english">For me, it is precious.</span></p>

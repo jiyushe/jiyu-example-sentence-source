@@ -1,5 +1,7 @@
 # ergosterol
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/ergosterol.md)
+
 <p><span class="chinese">利用HPLC检测麦角甾醇的含量。</span><span class="english">Concentration of ergosterol was measured by HPLC.</span></p>
 
 <p><span class="chinese">首次研究了麦角甾醇及其衍生物的氢化学位移溶剂效应。</span><span class="english">Solvent effects on proton chemical shifts of ergosterol and its derivatives were investigated.</span></p>

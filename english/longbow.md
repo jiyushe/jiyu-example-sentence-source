@@ -1,5 +1,7 @@
 # longbow
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/longbow.md)
+
 <p><span class="chinese">使用长弓杀死30名敌人。</span><span class="english">Defeat 30 enemies with the Longbow.</span></p>
 
 <p><span class="chinese">回应你所谓的用诸葛弩对抗长弓。</span><span class="english">Repeater crossbows is countered by the longbow.</span></p>

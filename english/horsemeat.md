@@ -1,5 +1,7 @@
 # horsemeat
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/horsemeat.md)
+
 <p><span class="chinese">但还不能肯定马肉是否会卷土重来。</span><span class="english">No word yet on whether horsemeat will make a comeback.</span></p>
 
 <p><span class="chinese">这里不长庄稼，所以村民们以驯鹿肉和马肉为食。</span><span class="english">Nothing grows there so people eat reindeer meat and horsemeat.</span></p>

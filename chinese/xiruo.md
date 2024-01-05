@@ -1,5 +1,7 @@
 # 细弱
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/xiruo.md)
+
 <p><span class="chinese">细弱的支柱支撑着框缘。</span><span class="english">The frail columns bear the architrave.</span></p>
 
 <p><span class="chinese">我吮吸出一只兔子的痛苦，嘶哑而细弱的痛苦。</span><span class="english">I sucked the throaty thin woe of a rabbit</span></p>

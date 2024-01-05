@@ -1,5 +1,7 @@
 # angiogram
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/angiogram.md)
+
 <p><span class="chinese">血管造影是一种X射线测试。</span><span class="english">An angiogram is a kind of X-ray test.</span></p>
 
 <p><span class="chinese">这种情况可能需要血管造影测试才能发现。</span><span class="english">Finding this condition may require tests other than an angiogram.</span></p>

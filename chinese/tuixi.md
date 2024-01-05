@@ -1,5 +1,7 @@
 # 退席
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuixi.md)
+
 <p><span class="chinese">你已经退席了？</span><span class="english">Are you quitting already?</span></p>
 
 <p><span class="chinese">他们退席以示抗议。</span><span class="english">They walked out in protest.</span></p>

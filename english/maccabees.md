@@ -1,5 +1,7 @@
 # maccabees
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/maccabees.md)
+
 <p><span class="chinese">希腊语正典书目还有马卡比四书。</span><span class="english">And the Greek canon also accepts 4 Maccabees.</span></p>
 
 <p><span class="chinese">在与我马加比，第二语言的马加比高度宗教。</span><span class="english">Maccabees, the language of II Maccabees is highly religious.</span></p>

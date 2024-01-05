@@ -1,5 +1,7 @@
 # methinks
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/methinks.md)
+
 <p><span class="chinese">我想不太可能。</span><span class="english">Pretty unlikely, methinks.</span></p>
 
 <p><span class="chinese">我认为你来得太迟了！</span><span class="english">Methinks thou art too late!</span></p>

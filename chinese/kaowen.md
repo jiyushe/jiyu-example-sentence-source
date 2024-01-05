@@ -1,5 +1,7 @@
 # 拷问
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/kaowen.md)
+
 <p><span class="chinese">他们对他进行了拷问。</span><span class="english">They third-degreed the man.</span></p>
 
 <p><span class="chinese">这曾是一间拷问房”卡迈尔说著。</span><span class="english">"It was a torture room, " Kamel says.</span></p>

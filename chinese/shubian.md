@@ -1,5 +1,7 @@
 # 戍边
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shubian.md)
+
 <p><span class="chinese">他们是戍边将士，是我们的陌生人！</span><span class="english">They are the frontiers officers and men, is a stranger!</span></p>
 
 <p><span class="chinese">兵团职工是屯垦戍边的直接载体。</span><span class="english">The corps' workers are direct carrier of safeguarding the borders.</span></p>

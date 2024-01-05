@@ -1,5 +1,7 @@
 # subtract
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/subtract.md)
+
 <p><span class="chinese">他正在学习加减法。</span><span class="english">He is learning to add and subtract.</span></p>
 
 <p><span class="chinese">那将无损于他的功绩。</span><span class="english">That will subtract nothing from his merit.</span></p>

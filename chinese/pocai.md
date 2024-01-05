@@ -1,5 +1,7 @@
 # 破财
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/pocai.md)
+
 <p><span class="chinese">破财消灾是一个选择。</span><span class="english">One option is to give their money away.</span></p>
 
 <p><span class="chinese">不过我得这样想，破财免灾吗。</span><span class="english">But I have to think so, avoid disaster poorer.</span></p>

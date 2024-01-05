@@ -1,5 +1,7 @@
 # 追问
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhuiwen.md)
+
 <p><span class="chinese">晋王追问是什么大礼。</span><span class="english">The king of jin ask what gift.</span></p>
 
 <p><span class="chinese">但是哈里很少去追问。</span><span class="english">But Harry rarely goes questing.</span></p>

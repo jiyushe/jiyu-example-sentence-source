@@ -1,5 +1,7 @@
 # pluralistic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/pluralistic.md)
+
 <p><span class="chinese">换种说法，即库仑力。</span><span class="english">Or just to be pluralistic in our language, coulombic force.</span></p>
 
 <p><span class="chinese">何来当今中国社会的开放和多元？</span><span class="english">How can we see an open and pluralistic society in China now?</span></p>

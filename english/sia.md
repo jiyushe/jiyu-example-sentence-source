@@ -1,5 +1,7 @@
 # sia
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sia.md)
+
 <p><span class="chinese">SIA系统采用单帧存实时拼版硬件电路，解决了实时快速获取精子运动轨迹线的技术难点。</span><span class="english">A making up circuit was used in the SIA to get a real-time sperm track image.</span></p>
 
 <p><span class="chinese">新加坡航空公司补充道，“如果这些状况一直持续下去，集团预计将全年亏损。”</span><span class="english">SIA added, “if these conditions continue, the Group expects to make a loss for the full year”.</span></p>

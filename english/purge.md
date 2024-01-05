@@ -1,5 +1,7 @@
 # purge
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/purge.md)
+
 <p><span class="chinese">这种药只须一剂就能让你通便！</span><span class="english">A dose of this stuff will purge you!</span></p>
 
 <p><span class="chinese">智慧的力量，可以消灭心中的怨毒。</span><span class="english">The power of wisdom can purge hatred.</span></p>

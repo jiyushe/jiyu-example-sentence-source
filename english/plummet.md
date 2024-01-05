@@ -1,5 +1,7 @@
 # plummet
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/plummet.md)
+
 <p><span class="chinese">当你的自尊心开始遽然下跌时。</span><span class="english">When your self-esteem starts to plummet.</span></p>
 
 <p><span class="chinese">如果输了，睾丸酮水平就会骤降。</span><span class="english">If they lose, their testosterone levels will plummet.</span></p>

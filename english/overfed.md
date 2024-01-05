@@ -1,5 +1,7 @@
 # overfed
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overfed.md)
+
 <p><span class="chinese">北京鸭是过量喂食养大的。</span><span class="english">Beijing duck is overfed.</span></p>
 
 <p><span class="chinese">事实上，有太多的人摄食过多。</span><span class="english">In fact, far too many people are overfed.</span></p>

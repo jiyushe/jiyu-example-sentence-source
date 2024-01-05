@@ -1,5 +1,7 @@
 # chock
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/chock.md)
+
 <p><span class="chinese">在我停下车时，把后轮用楔子塞住。</span><span class="english">Chock the back wheels when I stop.</span></p>
 
 <p><span class="chinese">不要被你的口水呛到。</span><span class="english">Try not to chock on your own drool.</span></p>

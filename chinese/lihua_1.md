@@ -1,5 +1,7 @@
 # 梨花
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/lihua_1.md)
+
 <p><span class="chinese">梨花落尽成秋苑。</span><span class="english">Leafless autumn pear into Court.</span></p>
 
 <p><span class="chinese">强起立东风，惨惨梨花谢。</span><span class="english">Stand strong east wind, Cancan pear bloom.</span></p>

@@ -1,5 +1,7 @@
 # nongovernmental
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/nongovernmental.md)
+
 <p><span class="chinese">“民间化”是他们的最终目标。</span><span class="english">And both of them hold the nongovernmental as their final target.</span></p>
 
 <p><span class="chinese">双方由民间团体出面商谈贸易。</span><span class="english">Trade talks are to be held by nongovernmental organizations of both sides.</span></p>

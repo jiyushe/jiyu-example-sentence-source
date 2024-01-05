@@ -1,5 +1,7 @@
 # presuppose
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/presuppose.md)
+
 <p><span class="chinese">让我们先假定他赢得这场比赛。</span><span class="english">Let us presuppose that he wins the game.</span></p>
 
 <p><span class="chinese">不假设你们之前学过任何哲学。</span><span class="english">It does not presuppose any background in philosophy.</span></p>

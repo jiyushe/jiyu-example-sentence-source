@@ -1,5 +1,7 @@
 # imaginatively
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/imaginatively.md)
+
 <p><span class="chinese">大学以超乎想象的方式影响着信息。</span><span class="english">The university impacts information, but it impacts it imaginatively.</span></p>
 
 <p><span class="chinese">假如这正是他们想要的，那他们也得把数据运用得更富想象力一些。</span><span class="english">If that is what they want, they will need to use data more imaginatively.</span></p>

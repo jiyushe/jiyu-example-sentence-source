@@ -1,5 +1,7 @@
 # 丹心
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/danxin.md)
+
 <p><span class="chinese">但无一拥有你的恒久丹心。</span><span class="english">But you like none, none you, for constant heart.</span></p>
 
 <p><span class="chinese">肯将白眼看尘世，但使丹心报国民。</span><span class="english">Ken White saw the earth, but to his loyalty to the national report.</span></p>

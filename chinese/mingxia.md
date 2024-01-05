@@ -1,5 +1,7 @@
 # 名下
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mingxia.md)
+
 <p><span class="chinese">于是在1981年受洗归入主名下。</span><span class="english">He was baptized in the year 1981.</span></p>
 
 <p><span class="chinese">马上帮我查一下布朗名下的档案袋。</span><span class="english">Fetch me those Brown files right now.</span></p>

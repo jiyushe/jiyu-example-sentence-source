@@ -1,5 +1,7 @@
 # megalithic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/megalithic.md)
+
 <p><span class="chinese">这些巨石建筑物的附近有一座小山。</span><span class="english">Near the megalithic stones is a hill.</span></p>
 
 <p><span class="chinese">你看见大海的附近有许多巨石建筑物。</span><span class="english">You see a lot of megalithic stones near the sea.</span></p>

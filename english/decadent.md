@@ -1,5 +1,7 @@
 # decadent
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/decadent.md)
+
 <p><span class="chinese">颓废倘若是催眠曲。</span><span class="english">If it is decadent lullaby.</span></p>
 
 <p><span class="chinese">他是个颓废派的成员。</span><span class="english">His face was a decadent face.</span></p>

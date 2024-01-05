@@ -1,5 +1,7 @@
 # 人迹罕至
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/renjihanzhi.md)
+
 <p><span class="chinese">这是一条人迹罕至的山路。</span><span class="english">This mountainside was unfrequented all day.</span></p>
 
 <p><span class="chinese">大片土地干旱荒芜，属半沙漠，人迹罕至，渺无人烟。</span><span class="english">Vast areas are arid or semi-desert, and virtually uninhabited.</span></p>

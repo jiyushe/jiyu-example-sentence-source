@@ -1,5 +1,7 @@
 # bellybutton
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bellybutton.md)
+
 <p><span class="chinese">穿了肚脐环的那个？</span><span class="english">With the bellybutton ring? -I know.</span></p>
 
 <p><span class="chinese">她的肚脐从来就没有被挡住过。</span><span class="english">Her bellybutton is never been held up.</span></p>

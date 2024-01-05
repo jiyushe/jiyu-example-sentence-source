@@ -1,5 +1,7 @@
 # sarah
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/sarah.md)
+
 <p><span class="chinese">萨拉，哦，对不起。</span><span class="english">Sarah oh, sorry.</span></p>
 
 <p><span class="chinese">你是如何遇见莎拉的?</span><span class="english">How did you meet Sarah?</span></p>

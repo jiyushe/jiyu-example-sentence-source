@@ -1,5 +1,7 @@
 # 恶疾
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/eji.md)
+
 <p><span class="chinese">饥荒！瘟疫！战争！恶疾！死亡！</span><span class="english">Famine, Pestilence, War, Disease and Death!</span></p>
 
 <p><span class="chinese">科恩说，“他是个得了恶疾的好人。”</span><span class="english">"He was a good man with bad symptoms," Cohen said.</span></p>

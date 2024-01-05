@@ -1,5 +1,7 @@
 # 师兄
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shixiong.md)
+
 <p><span class="chinese">多谢，师兄，我明白。</span><span class="english">Thanks, Ci-hing, I understand.</span></p>
 
 <p><span class="chinese">俺有一个师兄姓庖名丁，每日要做"解牛"的工作，也就是说是个屠夫。</span><span class="english">I have a co-worker named Paoding.</span></p>

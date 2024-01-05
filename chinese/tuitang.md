@@ -1,5 +1,7 @@
 # 颓唐
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/tuitang.md)
+
 <p><span class="chinese">微笑使颓唐的人得到鼓励。</span><span class="english">A smile encourages the depressed.</span></p>
 
 <p><span class="chinese">他那时已经觉得很虚弱很颓唐了。</span><span class="english">He was feeling very weak—and despondent.</span></p>

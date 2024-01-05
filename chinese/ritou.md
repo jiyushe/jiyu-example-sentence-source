@@ -1,5 +1,7 @@
 # 日头
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ritou.md)
+
 <p><span class="chinese">苍老的日头下整座城都被魔咒封锁。</span><span class="english">A city spell-bound under the aging sun.</span></p>
 
 <p><span class="chinese">她戴着一顶头巾和一副日头眼睛儿。</span><span class="english">She wore a cap and a pair of sunglasses.</span></p>

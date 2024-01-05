@@ -1,5 +1,7 @@
 # voltaic
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/voltaic.md)
+
 <p><span class="chinese">商标是韦斯顿的标准电池。</span><span class="english">Weston'is the trademark for a standard voltaic cell.</span></p>
 
 <p><span class="chinese">能够利用一条探头电缆，看管已经连到电路中的电流变换器。</span><span class="english">Can use cable of a probe, surveillance has connected the voltaic transformer in circuit.</span></p>

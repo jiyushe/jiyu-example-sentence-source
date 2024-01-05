@@ -1,5 +1,7 @@
 # 丢人现眼
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/diurenxianyan.md)
+
 <p><span class="chinese">醉酒使得这位绅士丢人现眼。</span><span class="english">The drunk humiliates the gentleman.</span></p>
 
 <p><span class="chinese">醉葡萄酒使得此绅士丢人现眼。</span><span class="english">The drunk humiliates the gentleman.</span></p>

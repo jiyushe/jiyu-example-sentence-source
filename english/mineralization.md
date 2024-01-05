@@ -1,5 +1,7 @@
 # mineralization
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/mineralization.md)
+
 <p><span class="chinese">重晶石矿化具多期性。</span><span class="english">Barite mineralization has many stages.</span></p>
 
 <p><span class="chinese">矿化是一个关键目标的每个机构。</span><span class="english">Mineralization is a key objective of every body.</span></p>

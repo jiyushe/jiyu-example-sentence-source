@@ -1,5 +1,7 @@
 # 蜻蜓点水
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qingtingdianshui.md)
+
 <p><span class="chinese">其实蜻蜓点水式的爱情再深也有限啊！</span><span class="english">Actually dragonfly water type love dissembles also limited!</span></p>
 
 <p><span class="chinese">遇着你喜欢的女孩时，蜻蜓点水一般和她来短暂的眼神接触。</span><span class="english">When you see or meet a girl you like, make brief eye contact.</span></p>

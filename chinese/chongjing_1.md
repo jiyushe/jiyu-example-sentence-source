@@ -1,5 +1,7 @@
 # 憧憬
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chongjing_1.md)
+
 <p><span class="chinese">你在憧憬什么？</span><span class="english">What are you imagining?</span></p>
 
 <p><span class="chinese">我知道我还在憧憬你的来临。</span><span class="english">I'm sitting here, wating for you.</span></p>

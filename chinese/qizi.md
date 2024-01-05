@@ -1,5 +1,7 @@
 # 妻子
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/qizi.md)
+
 <p><span class="chinese">你的妻子可真行！</span><span class="english">What a wife!</span></p>
 
 <p><span class="chinese">是给他妻子的。</span><span class="english">His wife, Yeah.</span></p>

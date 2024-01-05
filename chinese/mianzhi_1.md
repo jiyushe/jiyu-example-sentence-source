@@ -1,5 +1,7 @@
 # 面值
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/mianzhi_1.md)
+
 <p><span class="chinese">行，请给小面值的。</span><span class="english">OK, small siver, please.</span></p>
 
 <p><span class="chinese">您能找开一张100元面值的钞票吗？</span><span class="english">Can you break a 100-dollar bill?</span></p>

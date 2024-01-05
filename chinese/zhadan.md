@@ -1,5 +1,7 @@
 # 炸弹
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/zhadan.md)
+
 <p><span class="chinese">他们带着炸弹。</span><span class="english">They had bombs.</span></p>
 
 <p><span class="chinese">这枚炸弹是克莱琴斯基的。</span><span class="english">The bomb was his.</span></p>

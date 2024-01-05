@@ -1,5 +1,7 @@
 # 粮草
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/liangcao.md)
+
 <p><span class="chinese">我们的粮草准备的如何？</span><span class="english">What situation about our grain preparation?</span></p>
 
 <p><span class="chinese">军队向该村征集粮草。</span><span class="english">The army requisitioned the village for army provisions.</span></p>

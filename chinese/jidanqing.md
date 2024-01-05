@@ -1,5 +1,7 @@
 # 鸡蛋清
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/jidanqing.md)
+
 <p><span class="chinese">把鸡蛋清打稠。</span><span class="english">Beat the egg whites till stiff.</span></p>
 
 <p><span class="chinese">搅拌鸡蛋清直至其成为胶状的锥形。</span><span class="english">Whip egg whites until they form soft peaks.</span></p>

@@ -1,5 +1,7 @@
 # bodily
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/bodily.md)
+
 <p><span class="chinese">这就是，肉体复活的概念“</span><span class="english">bodily resurrection."</span></p>
 
 <p><span class="chinese">这是一种实实在在的，可触可摸的感觉。</span><span class="english">It is a real, a bodily feeling.</span></p>

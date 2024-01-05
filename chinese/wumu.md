@@ -1,5 +1,7 @@
 # 乌木
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/wumu.md)
+
 <p><span class="chinese">BBW乌木人称和热辣受骗的！</span><span class="english">BBW Ebony Hottie Fucked and Jizzed On!</span></p>
 
 <p><span class="chinese">嵌有乌木装饰图案的青龙木书桌。</span><span class="english">A writing desk of rosewood with ebony inlay.</span></p>

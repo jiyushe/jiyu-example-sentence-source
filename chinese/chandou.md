@@ -1,5 +1,7 @@
 # 颤抖
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/chandou.md)
+
 <p><span class="chinese">你是否会颤抖？</span><span class="english">Would Uyou tremble.</span></p>
 
 <p><span class="chinese">戴安娜轻轻颤抖了一下。</span><span class="english">Diana gave a little shiver.</span></p>

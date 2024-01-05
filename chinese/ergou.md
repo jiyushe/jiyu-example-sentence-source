@@ -1,5 +1,7 @@
 # 耳垢
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/ergou.md)
+
 <p><span class="chinese">东亚人通常是干燥的耳垢。</span><span class="english">East Asians commonly have dry earwax.</span></p>
 
 <p><span class="chinese">耳垢分为干态和湿态两种。</span><span class="english">Earwax comes in two types, wet and dry.</span></p>

@@ -1,5 +1,7 @@
 # 缺衣少食
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/queyishaoshi.md)
+
 <p><span class="chinese">洪水让许多人缺衣少食，无家可归。</span><span class="english">The floods left many people destitute.</span></p>
 
 <p><span class="chinese">他们的一生都缺衣少食。</span><span class="english">They had lived all their lives in want.</span></p>

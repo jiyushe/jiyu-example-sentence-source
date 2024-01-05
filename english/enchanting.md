@@ -1,5 +1,7 @@
 # enchanting
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/enchanting.md)
+
 <p><span class="chinese">分外妖娆，冬的味道。</span><span class="english">The taste of winter grow more enchanting.</span></p>
 
 <p><span class="chinese">这是一次令人神往的新长征！</span><span class="english">It is no other than an enchanting new march!</span></p>

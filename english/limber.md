@@ -1,5 +1,7 @@
 # limber
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/limber.md)
+
 <p><span class="chinese">她身材很柔软。</span><span class="english">She's very limber.</span></p>
 
 <p><span class="chinese">上校命令士兵们把火炮系在前车上。</span><span class="english">The colonel ordered the soldiers to limber up.</span></p>

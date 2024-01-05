@@ -1,5 +1,7 @@
 # overripe
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/overripe.md)
+
 <p><span class="chinese">豌豆过熟就会爆裂。</span><span class="english">Pea pods burst open when overripe.</span></p>
 
 <p><span class="chinese">他们把那些熟得过透的苹果扔掉。</span><span class="english">They rejected the apples that were overripe.</span></p>

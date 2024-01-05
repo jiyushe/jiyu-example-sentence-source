@@ -1,5 +1,7 @@
 # indigenous
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/indigenous.md)
+
 <p><span class="chinese">那些植物产于墨西哥。</span><span class="english">The plants are indigenous to Mexico.</span></p>
 
 <p><span class="chinese">袋鼠为澳大利亚所产。</span><span class="english">Kangaroos are indigenous to Australia.</span></p>

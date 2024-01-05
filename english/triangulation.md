@@ -1,5 +1,7 @@
 # triangulation
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/triangulation.md)
+
 <p><span class="chinese">互相信任与亲密无间是根治第三方卷入的良方。</span><span class="english">The cure for triangulation is trust and intimacy.</span></p>
 
 <p><span class="chinese">平面散乱点三角剖分在实践中有广泛应用。</span><span class="english">Plane scattered data triangulation has a wide application.</span></p>

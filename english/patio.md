@@ -1,5 +1,7 @@
 # patio
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/patio.md)
+
 <p><span class="chinese">天井做了一个阳光房！</span><span class="english">Patio made a sun room!</span></p>
 
 <p><span class="chinese">注意你庭院里的家具防火。</span><span class="english">Fireproof your patio furniture.</span></p>

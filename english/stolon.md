@@ -1,5 +1,7 @@
 # stolon
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/stolon.md)
+
 <p><span class="chinese">在节处和茎的先端生根的纤细匍匐茎。</span><span class="english">A slender stolon or prostrate stem rooting at the nodes or at the tip.</span></p>
 
 <p><span class="chinese">本文描述了主茎、匍匐茎、鳞片叶的结构。</span><span class="english">This paper also describes the structure of the stem, stolon and scale leaves.</span></p>

@@ -1,5 +1,7 @@
 # 上缴
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/shangjiao_1.md)
+
 <p><span class="chinese">他们已经把所有武器都上缴了。</span><span class="english">They have turned in all the weapons.</span></p>
 
 <p><span class="chinese">国家税的上缴方式多种多样。</span><span class="english">There are various ways to pay state tax.</span></p>

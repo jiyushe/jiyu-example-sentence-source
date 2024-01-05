@@ -1,5 +1,7 @@
 # 对证
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/chinese/duizheng.md)
+
 <p><span class="chinese">当面对证，真相自明。</span><span class="english">Face and face truth comes out.</span></p>
 
 <p><span class="chinese">当面对证，真相自明。</span><span class="english">Face to face the truth comes out.</span></p>

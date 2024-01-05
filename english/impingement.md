@@ -1,5 +1,7 @@
 # impingement
 
+Please help us improve the quality of example sentences! [Edit on Github](https://github.com/jiyushe/jiyu-example-sentence-source/blob/main/english/impingement.md)
+
 <p><span class="chinese">冲蚀角对涂层抗冲蚀性能有较大影响。</span><span class="english">The effect of impingement angle on the erosion resistance is great.</span></p>
 
 <p><span class="chinese">肩峰小骨是引起肩夹击症候群的罕见原因。</span><span class="english">Os acromiale is a rare predisposing factor of shoulder impingement syndrome.</span></p>
